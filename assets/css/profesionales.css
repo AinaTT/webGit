@@ -1,0 +1,83 @@
+ .fotoprofesionales {
+     background-position: 50% -137.328px !important;
+ }
+
+ #profesionales h2 {
+     font-size: 1.6em;
+ }
+
+ .card-header a {
+     color: black;
+ }
+
+ .card-header {
+     margin-top: 3%;
+     margin-bottom: 3%;
+ }
+
+ .card-header a:hover {
+     color: black;
+ }
+
+
+
+ /* movilcss */
+ @media screen and (max-width:480px) {
+     .card-header {
+         font-size: 23px !important;
+     }
+
+     .card-header img {
+         max-width: 20%;
+     }
+
+ }
+
+ /* tabletcss */
+ @media screen and (min-width:481px) and (max-width:767px) {
+     .card-header {
+         font-size: 23px !important;
+     }
+
+     .card-header img {
+         max-width: 20%;
+     }
+
+ }
+
+ /* laptopcss */
+ @media screen and (min-width:768px) and (max-width:1024px) {
+     .card-header {
+         font-size: 23px !important;
+     }
+
+     .card-header img {
+         max-width: 20%;
+     }
+
+ }
+
+ /* desktopcss */
+ @media screen and (min-width:1025px) and (max-width:1200px) {
+     .card-header {
+         font-size: 23px !important;
+     }
+
+     .card-header img {
+         max-width: 20%;
+     }
+
+ }
+
+
+ /*  largecss */
+ @media screen and (min-width:1201px) {
+     .card-header {
+         font-size: 23px !important;
+     }
+
+     .card-header img {
+         max-width: 20%;
+     }
+
+ }

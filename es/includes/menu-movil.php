@@ -10,7 +10,6 @@
 
  <div id="ocultomovil">
      <div id="ocultomovilinterno">
-
          <div id="menuidiomasmovil">
              <ul>
                  <li> <a class="activo" href="https://www.topciment.com/en/">Microcemento</li>
@@ -22,11 +21,11 @@
          <div id="menuocultomovil">
              <ul>
                  <li><a href="productos.html" onclick="ocultarmovil()">Productos</a></li>
-                 <li><a href="galeria.html" onclick="ocultarmovil()">Galeria</a></li>
                  <li><a href="profesionales.html" onclick="ocultarmovil()">Profesionales</a></li>
+                 <li><a href="cursos-aplicacion-microcemento.php" onclick="ocultarmovil()">Cursos</a></li>
+                 <li><a href="galeria.html" onclick="ocultarmovil()">Galeria</a></li>
                  <li><a href="noticias.html" onclick="ocultarmovil()">Noticias</a></li>
-                 <li><a href="fabricante-microcemento.html" onclick="ocultarmovil()">Nosotros</a></li>
-                 <li><a href="contacto.html" onclick="ocultarmovil()">Contacto</a></li>
+
              </ul>
          </div>
          <div id="menuidiomasmovil">

@@ -1,0 +1,155 @@
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("../fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: "top";
+    src: url("../fonts/top.otf");
+}
+
+@font-face {
+    font-family: "sealer";
+    src: url("../fonts/sealer.otf");
+}
+
+@font-face {
+    font-family: "toptools";
+    src: url("../fonts/toptools.otf");
+}
+
+@font-face {
+    font-family: "Klavika-Bold";
+    src: url("../fonts/Klavika-Bold-2.otf");
+}
+
+#productos {
+    background-color: black;
+}
+
+
+
+
+
+.row {
+    width: 100% !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+
+.en2s {
+    float: none;
+    text-align: right;
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+
+.sh2 {
+    font-size: 22px;
+    font-weight: 600;
+    padding: 0px !important;
+}
+
+
+.vermas {
+    color: white !important;
+
+}
+
+
+
+.vermas2 {
+    color: white !important;
+
+}
+
+.vermas:hover {
+    text-decoration: none;
+}
+
+.vermas2:hover {
+    text-decoration: none;
+}
+
+/* Logo compelmentos */
+.font1as {
+    font-family: Klavika-Bold;
+    font-size: 50px;
+    color: white !important;
+}
+
+.tops {
+    font-family: top;
+    font-size: 60px;
+}
+
+.sealer {
+    font-family: sealer;
+    font-size: 60px;
+}
+
+.font2as {
+    font-family: Roboto-Bold;
+    font-size: 50px;
+    color: white;
+}
+
+.toptools {
+    font-family: toptools;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {
+
+
+    .en2s {
+        float: none;
+    }
+}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {
+    .en2s {
+        float: none;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .vermas2 {
+        float: right;
+    }
+}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {
+    .vermas2 {
+        float: right;
+    }
+}
+
+/*  largecss */
+@media screen and (min-width:1201px) {
+    .en2s {
+        font-size: 65px;
+        font-weight: 300;
+        margin-bottom: 100px;
+        margin-top: 30px;
+
+    }
+
+    .vermas2 {
+        float: right;
+    }
+}

@@ -7,9 +7,9 @@
             <div class="menu botones menu1b">
                 <ul>
 
-                    <li><a class="activo" href="microcementos.html">Microcemento</a></li>
-                    <li><a href="contacto.html">Hormigón impreso</a></li>
-                    <li><a href="contacto.html">Epoxi</a></li>
+                    <li><a class="activo" href="microcementos.php">Microcemento</a></li>
+                    <li><a href="hormigon-impreso.php">Hormigón impreso</a></li>
+                    <li><a href="epoxi.php">Epoxi</a></li>
                     <li class="submenu"><a href="#"><img src="https://www.topciment.com/imagenes/flags/spain.png" alt="Topciment Spanish Web" Title="Topciment Spanish Web"></a>
                         <ul>
                             <li> <a href="https://www.topciment.com/en/"> <img src="https://www.topciment.com/imagenes/flags/united-kingdom.png" alt="Topciment english web" Title="Topciment english web"> </a></li>
@@ -25,16 +25,16 @@
                 </ul>
             </div>
         </div>
+
         <div class="menuBarContent menu2a">
             <div class="menu botones menu2b shadow  lg">
                 <ul>
+                    <li><a href="productos.php">Productos</a></li>
+                    <li><a href="profesionales.php">Profesionales</a></li>
+                    <li><a href="cursos-aplicacion-microcemento.php">Cursos</a></li>
+                    <li><a href="galeria.php">Galeria</a></li>
+                    <li><a href="noticias.php">Noticias</a></li>
 
-                    <li><a class="activo" href="productos.html">Productos</a></li>
-                    <li><a href="galeria.html">Galeria</a></li>
-                    <li><a href="profesionales.html">Profesionales</a></li>
-                    <li><a href="noticias.html">Noticias</a></li>
-                    <li><a href="fabricante-microcemento.html">Nosotros</a></li>
-                    <li><a href="contacto.html">Contacto</a></li>
 
                 </ul>
             </div>
