@@ -1,7 +1,7 @@
 <div id="header">
     <div class="menuBar" style="position:fixed; transform: translate3d(0px, 0px, 1px);">
         <div class="menuBarContent menu1a">
-            <a href="index.html">
+            <a href="../index.php">
                 <img class="imgLogo logo2" src="https://www.topciment.com/imagenes/logos/logoBlanco2.png" alt="Topciment" style="max-width: 60px; max-height: 60px;">
             </a>
             <div class="menu botones menu1b">
@@ -30,10 +30,10 @@
             <div class="menu botones menu2b shadow  lg">
                 <ul>
                     <li><a href="productos.php">Productos</a></li>
-                    <li><a href="profesionales.php">Profesionales</a></li>
+                    <li><a href="metodos-de-aplicacion-microcemento.php">Aplicación</a></li>
                     <li><a href="cursos-aplicacion-microcemento.php">Cursos</a></li>
                     <li><a href="galeria.php">Galeria</a></li>
-                    <li><a href="noticias.php">Noticias</a></li>
+                    <li><a href="../noticias.php">Noticias</a></li>
 
 
                 </ul>

@@ -170,7 +170,7 @@
 
           <div class="row">
             <div class="col-md-5">
-              <a href="sistemas/sttandard-microcemento-bicomponente.html" target="_blank"><img class="imgmicro img-fluid" src=" https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
+              <a href="sistemas/sttandard-microcemento-bicomponente.php" target="_blank"><img class="imgmicro img-fluid" src=" https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7 my-auto">
               <p class="mt-2"> <strong style="color: #7e91a6;">STTANDARD</strong> <strong>Microcemento
@@ -193,7 +193,7 @@
 
           <div class="row">
             <div class="col-md-5">
-              <a href="sistemas/evoluttion-microcemento-monocomponente.html" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png" alt="Logo Evoluttion microcemento monocomponente" title="Logo Evoluttion microcemento monocomponente"></a>
+              <a href="sistemas/evoluttion-microcemento-monocomponente.php" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png" alt="Logo Evoluttion microcemento monocomponente" title="Logo Evoluttion microcemento monocomponente"></a>
             </div>
             <div class="col-md-7">
               <p class="mt-2"> <strong style="color:#e30514;">EVOLUTTION</strong> <strong>Microcemento
@@ -216,7 +216,7 @@
           <hr>
           <div class="row">
             <div class="col-md-5">
-              <a href="sistemas/efectto-microcemento-listo-al-uso.html" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
+              <a href="sistemas/efectto-microcemento-listo-al-uso.php" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7">
               <p class="mt-2"><strong style="color:#e5007d;">EFECTTO</strong> <strong>Microcemento listo al
@@ -228,7 +228,7 @@
           <hr>
           <div class="row">
             <div class="col-md-5">
-              <a href="sistemas/pure-mettal-microcemento-metalico.html" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/PureMettal_Generico_Web.png" alt="Logo Pure Mettal microcemento metálico" title="Logo Pure microcemento metálico"></a>
+              <a href="sistemas/pure-mettal-microcemento-metalico.php" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/PureMettal_Generico_Web.png" alt="Logo Pure Mettal microcemento metálico" title="Logo Pure microcemento metálico"></a>
             </div>
             <div class="col-md-7">
               <p class="mt-2"><strong style="color:#95969e;"> PURE METTAL</strong> <strong>Microcemento
@@ -354,15 +354,15 @@
               así, estancias y ambientes para conseguir un estilo propio.
               Descubre los colores disponibles de nuestros sistemas y elige el que mejor se adapte a tu proyecto. </p>
 
-            <p><a class="links" href="sistemas/sttandard-microcemento-bicomponente.html#colores"><i class="fa fa-arrow-circle-o-right"></i> Descubre todos los colores de <strong style="color: #7e91a6;">STTANDARD</strong>aquí.</a></p>
-            <p> <a class="links" href="sistemas/efectto-microcemento-listo-al-uso.html#colores"><i class="fa fa-arrow-circle-o-right"></i> Descubre todos los colores de <strong style="color:#e5007d;">EFECTTO</strong>
+            <p><a class="links" href="sistemas/sttandard-microcemento-bicomponente.php#colores"><i class="fa fa-arrow-circle-o-right"></i> Descubre todos los colores de <strong style="color: #7e91a6;">STTANDARD</strong>aquí.</a></p>
+            <p> <a class="links" href="sistemas/efectto-microcemento-listo-al-uso.php#colores"><i class="fa fa-arrow-circle-o-right"></i> Descubre todos los colores de <strong style="color:#e5007d;">EFECTTO</strong>
                 aquí.</a> </p>
-            <p><a class="links" href="sistemas/evoluttion-microcemento-monocomponente.html#colores"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#e30514;">EVOLUTTION</strong> aquí.</a></p>
-            <p><a class="links" href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#95969e;">PURE
+            <p><a class="links" href="sistemas/evoluttion-microcemento-monocomponente.php#colores"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#e30514;">EVOLUTTION</strong> aquí.</a></p>
+            <p><a class="links" href="sistemas/pure-mettal-microcemento-metalico.php#puremetal-aluminium"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#95969e;">PURE
                   METTAL</strong> aquí.</a></p>
-            <p><a class="links" href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html#puremetal-aluminium"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#9c611b;">CLASSIC
+            <p><a class="links" href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.php#puremetal-aluminium"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#9c611b;">CLASSIC
                   METTAL</strong> aquí.</a></p>
-            <p><a class="links" href="sistemas/elitte-efecto-metalico-y-veladuras.html#elitte-glaze"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#ee7269;">ELITTE</strong>
+            <p><a class="links" href="sistemas/elitte-efecto-metalico-y-veladuras.php#elitte-glaze"><i class="fa fa-arrow-circle-o-right "></i> Descubre todos los colores de <strong style="color:#ee7269;">ELITTE</strong>
                 aquí.</a></p>
           </div>
 
@@ -960,6 +960,8 @@
   </div>
 
   <?php include '../includes/footer.php'; ?>
+
+  <?php include("../includes/scripts.php"); ?>
   </div>
 
   <!-- include jQuery -->

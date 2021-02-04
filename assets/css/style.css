@@ -31,12 +31,15 @@ h2 {
     font-size: 2em !important;
 }
 
-
+img {
+    width: auto;
+    height: auto;
+}
 
 .ancla {
     display: block;
-    height: 60px;
-    margin-top: -60px;
+    height: 120px;
+    margin-top: -120px;
     visibility: hidden;
 }
 
@@ -182,6 +185,10 @@ h2 {
     margin-top: 5px;
 }
 
+.corto {
+    height: 60px !important;
+}
+
 .menu2a {
     width: 100% !important;
 }
@@ -193,9 +200,6 @@ h2 {
     position: fixed;
     padding-top: inherit !important;
 }
-
-
-
 
 /* submenu */
 ul li ul {
@@ -231,11 +235,19 @@ ul li ul li {
 
 }
 
+.submenu ul li a {
+    color: black !important;
+}
+
+.submenu ul li a:hover {
+    color: #795548 !important;
+}
+
 .submenu ul li:nth-child(1) {
     padding-top: 10px;
 }
 
-.submenu {
+.idiomas {
     margin-right: 0px !important;
     padding-right: 0px !important;
     text-align: center;
@@ -293,6 +305,13 @@ ul li ul li {
 
 
 /* encabezados */
+.leermass {
+    /* margin-left: 285px !important; */
+    background-color: black !important;
+    border: none !important;
+    float: right;
+    margin-right: 10px;
+}
 
 /* footer */
 .footerp {
@@ -315,6 +334,7 @@ ul li ul li {
 
 .tituloF {
     margin-bottom: 35px;
+    font-size: 16px;
 }
 
 .brF {
@@ -482,8 +502,8 @@ ul li ul li {
 }
 
 .content {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
@@ -492,7 +512,29 @@ div.ocultable {
     display: none;
 }
 
+#separador50px {
+    float: none;
+    clear: both;
+    height: 50px;
+}
 
+#sidebar ul li a {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+#sidebar ul li h1 {
+    display: inline;
+}
+
+#sidebar ul li h2 {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+.menu1b ul {
+    height: 20px;
+}
 
 /* movilcss */
 @media screen and (max-width:480px) {
@@ -518,6 +560,20 @@ div.ocultable {
         font-size: 2em;
     }
 
+
+    h1 {
+        font-size: 2.1rem !important;
+    }
+
+    h2 {
+        font-size: 1.8rem !important;
+        ;
+    }
+
+    h3 {
+        font-size: 1.3em !important;
+    }
+
     .imgmicro {
         max-width: 70% !important;
     }
@@ -530,6 +586,7 @@ div.ocultable {
     .tituloF {
         margin-bottom: 5px;
         margin-top: 10px;
+        font-size: 16px;
     }
 
     .logoF {
@@ -588,6 +645,7 @@ div.ocultable {
     .tituloF {
         margin-bottom: 5px;
         margin-top: 10px;
+
     }
 
     .logoF {
@@ -729,7 +787,7 @@ div.ocultable {
 @media screen and (min-width:1201px) {
 
     #main {
-        margin-top: 80px;
+        margin-top: 145px;
     }
 
     #microcemento h3 {

@@ -1,0 +1,114 @@
+.zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+    /* (150% zoom)*/
+}
+
+
+.items {
+    height: 100% !important;
+}
+
+.item {
+    position: relative !important;
+    left: inherit !important;
+    top: inherit !important;
+}
+
+.item a {
+    color: black;
+}
+
+.menu2b ul li:nth-child(4) {
+    font-weight: bold;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {
+    #separador20px {
+        float: none;
+        clear: both;
+        height: 20px;
+    }
+
+    .proyectoLeft,
+    .proyectoRight {
+        width: 49%;
+        height: 368px;
+        position: relative;
+        overflow: hidden;
+        -webkit-transition: .6s transform;
+        transition: .6s transform;
+    }
+
+    .proyectoLeft {
+        float: left;
+    }
+
+    .proyectoRight {
+        float: right;
+    }
+
+    .proyectoLeft img,
+    .proyectoRight img {
+        width: 100%;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+    .proyectoLeft img:hover,
+    .proyectoRight img:hover {
+        width: 115%;
+        position: relative;
+        top: -7%;
+        left: -7%;
+        overflow: hidden;
+        -webkit-filter: saturate(0.1);
+        filter: saturate(0.1);
+        opacity: 0.5;
+        -webkit-transition: .4s;
+        transition: .4s;
+        transform: rotate(.5deg);
+    }
+
+    div.proyectoLeft div.textoProyectos,
+    div.proyectoRight div.textoProyectos {
+        position: absolute;
+        top: 250px;
+        left: 20px;
+        font-size: 25px;
+        text-align: left;
+        opacity: 1;
+        pointer-events: none;
+        cursor: default;
+    }
+
+    div.proyectoRight div.textoProyectos:hover {
+        opacity: 1;
+    }
+}

@@ -516,7 +516,7 @@
                         </div>
                     </div>
                     <!-- End-->
-
+ 
                     <!-- Team item-->
                     <div class="col-md-4">
                         <div class="aplicador bg-white rounded shadow-sm py-2 px-3"><img src="https://www.topciment.com/imagenes/cursos/joge.jpg" alt="" width="140" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">

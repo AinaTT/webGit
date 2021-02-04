@@ -1,0 +1,19 @@
+.links-ft a {
+    color: black;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {}

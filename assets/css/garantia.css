@@ -1,0 +1,64 @@
+#leyendaIcono {
+    float: none;
+
+
+}
+
+#iconoIzquierda img {
+    width: 35%;
+}
+
+#iconoIzquierda {
+    text-align: center;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {
+    #iconoIzquierda {
+        float: left;
+        width: 180px;
+    }
+
+    #iconoIzquierda img {
+        width: 150px;
+    }
+
+
+}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {
+    #iconoIzquierda {
+        float: left;
+        width: 180px;
+    }
+
+    #iconoIzquierda img {
+        width: 150px;
+    }
+
+
+}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {
+
+
+    #iconoIzquierda {
+        float: left;
+        width: 180px;
+    }
+
+    #iconoIzquierda img {
+        width: 150px;
+    }
+
+
+}

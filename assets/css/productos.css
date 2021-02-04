@@ -105,6 +105,13 @@
     text-decoration: none;
 }
 
+.font1as:hover,
+.font2as:hover,
+.toptools:hover {
+    text-decoration: none;
+    color: white;
+}
+
 /* movilcss */
 @media screen and (max-width:480px) {
 
@@ -127,14 +134,18 @@
 
 /* laptopcss */
 @media screen and (min-width:768px) and (max-width:1024px) {
-    .vermas2 {
+
+    .vermas2,
+    .vermas {
         float: right;
     }
 }
 
 /* desktopcss */
 @media screen and (min-width:1025px) and (max-width:1200px) {
-    .vermas2 {
+
+    .vermas2,
+    .vermas {
         float: right;
     }
 }
@@ -149,7 +160,8 @@
 
     }
 
-    .vermas2 {
+    .vermas2,
+    .vermas {
         float: right;
     }
 }

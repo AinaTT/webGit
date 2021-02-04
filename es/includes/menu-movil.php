@@ -12,7 +12,7 @@
      <div id="ocultomovilinterno">
          <div id="menuidiomasmovil">
              <ul>
-                 <li> <a class="activo" href="https://www.topciment.com/en/">Microcemento</li>
+                 <li> <a class="activo" href="microcementos.hp">Microcemento</li>
                  <li><a href="https://www.topciment.com/fr/">Hormigón</li>
                  <li> <a href="https://www.topciment.com/de/">Epoxy</a></li>
 
@@ -24,7 +24,7 @@
                  <li><a href="profesionales.html" onclick="ocultarmovil()">Profesionales</a></li>
                  <li><a href="cursos-aplicacion-microcemento.php" onclick="ocultarmovil()">Cursos</a></li>
                  <li><a href="galeria.html" onclick="ocultarmovil()">Galeria</a></li>
-                 <li><a href="noticias.html" onclick="ocultarmovil()">Noticias</a></li>
+                 <li><a href="../noticias.html" onclick="ocultarmovil()">Noticias</a></li>
 
              </ul>
          </div>

@@ -10,7 +10,6 @@
     <meta name="Language" content="ES" />
 
 
-    <link rel="canonical" href="https://www.topciment.com/microcementos.html" />
     <?php include("../../includes/sub-styles.php"); ?>
     <link rel="preload" href="../../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../../assets/css/familia.css" />
@@ -34,8 +33,9 @@
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
 
 
-    <link rel="canonical" href="https://www.topciment.com/cursos-aplicacion-microcemento.php" />
+    <link rel="canonical" href="https://www.topciment.com/es/microcementos/productos/sttandard-microcemento-bicomponente.php" />
 
+    <link rel="alternate" href="https://www.topciment.com/en/systems/sttandard-two-component-microcement.html" hreflang="en-GB" />
 
     <?php include("../../includes/sub-scripts-head.php"); ?>
 </head>
@@ -55,15 +55,31 @@
                     <li>
                         <a href="#up" style="font-size:26px">Sttandard</a>
                     </li>
-                    <li><a href="#que-es-sttandard">¿Qué es Sttandard?</a></li>
-                    <li><a href="#sttandard-microbase">Sttandard Microbase</a></li>
-                    <li><a href="#sttandard-microfino">Sttandard Microfino</a></li>
-                    <li><a href="#sttandard-microdeck">Sttandard Microdeck</a></li>
-                    <li><a href="#sttandard-microstone">Sttandard Microstone</a></li>
+                    <li>
+                        <h2><a href="#que-es-sttandard">¿Qué es Sttandard?</a></h2>
+                    </li>
+                    <li>
+                        <h2><a href="#sttandard-microbase">Sttandard Microbase</a></h2>
+                    </li>
+                    <li>
+                        <h2><a href="#sttandard-microfino">Sttandard Microfino</a></h2>
+                    </li>
+                    <li>
+                        <h2><a href="#sttandard-microdeck">Sttandard Microdeck</a></h2>
+                    </li>
+                    <li>
+                        <h2><a href="#sttandard-microstone">Sttandard Microstone</a></h2>
+                    </li>
 
-                    <li><a href="#sttandard-acricem">Sttandard Acricem</a></li>
-                    <li><a href="#aplicacion">Aplicación</a></li>
-                    <li> <a href="#colores">Colores</a></li>
+                    <li>
+                        <h2><a href="#sttandard-acricem">Sttandard Acricem</a></h2>
+                    </li>
+                    <li>
+                        <h2><a href="#aplicacion">Aplicación</a></h2>
+                    </li>
+                    <li>
+                        <h2> <a href="#colores">Colores</a></h2>
+                    </li>
                 </ul>
             </div>
             <div class="content">
@@ -721,7 +737,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="./primacem-imprimacione-y-promotores-de-adherencia.html#primacem-plus">Primacem
+                                    Aplicar <a class="links" target="_blank" href="./primacem-imprimacione-y-promotores-de-adherencia.php#primacem-plus">Primacem
                                         Plus
                                         / ABS</a>.
                                 </div>
@@ -798,7 +814,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="./topsealer-barniz.html#puremetal-bronze">Presealer</a>
+                                    <a class="links" target="_blank" href="./topsealer-barniz.php#puremetal-bronze">Presealer</a>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -813,7 +829,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="./topsealer-barniz.html#puremetal-aluminium">
+                                    <a class="links" target="_blank" href="./topsealer-barniz.php#puremetal-aluminium">
                                         Topsealer</a>.
                                 </div>
                                 <!-- Icono -->
@@ -838,7 +854,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="./primacem-imprimacione-y-promotores-de-adherencia.html#primacem-plus">Primacem
+                                    Aplicar <a class="links" target="_blank" href="./primacem-imprimacione-y-promotores-de-adherencia.php#primacem-plus">Primacem
                                         Plus
                                         / ABS</a>.
                                 </div>
@@ -914,7 +930,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank" href="./topsealer-barniz.html#puremetal-bronze">Presealer</a>.
+                                    dos capas de <a class="links" target="_blank" href="./topsealer-barniz.php#puremetal-bronze">Presealer</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -929,7 +945,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="./topsealer-barniz.html#puremetal-aluminium">
+                                    <a class="links" target="_blank" href="./topsealer-barniz.php#puremetal-aluminium">
                                         Topsealer</a>.
                                 </div>
                                 <!-- Icono -->
@@ -956,7 +972,7 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Colores</h2>
+                    <p class="en3">Colores</p>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1153,9 +1169,13 @@
 
 
 
-        <?php include "../../includes/sub-footer.php"; ?>
+        <?php include("../../includes/sub-footer.php"); ?>
 
         <script defer src='../../../assets/js/lightbox-plus-jquery.min.js'></script>
+
+
+        <?php include("../../includes/sub-scripts.php"); ?>
+
 
     </div>
     </div>

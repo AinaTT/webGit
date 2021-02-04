@@ -4013,6 +4013,11 @@ li {}
 	display: inline;
 }
 
+#sidebar ul li h2 {
+	margin-bottom: -10px;
+	margin-top: -10px;
+}
+
 .zsiq_floatmain {
 	display: none !important;
 }

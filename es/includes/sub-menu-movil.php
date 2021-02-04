@@ -24,7 +24,7 @@
                  <li><a href="../productos.php" onclick="ocultarmovil()">Productos</a></li>
                  <li><a href="../galeria.php" onclick="ocultarmovil()">Galeria</a></li>
                  <li><a href="../profesionales.php" onclick="ocultarmovil()">Profesionales</a></li>
-                 <li><a href="../noticias.php" onclick="ocultarmovil()">Noticias</a></li>
+                 <li><a href="../../noticias.php" onclick="ocultarmovil()">Noticias</a></li>
                  <li><a href="../fabricante-microcemento.php" onclick="ocultarmovil()">Nosotros</a></li>
                  <li><a href="../contacto.php" onclick="ocultarmovil()">Contacto</a></li>
              </ul>

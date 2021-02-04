@@ -17,10 +17,33 @@
 
         /* xenioowebchat.Start("83659ee5-4d66-473d-8243-6698f86a86c3"); */
 
-       
+        if (window.location.href.indexOf("sello-de-calidad") >= 0) {
 
-        
+            $(function () {
+                new Clipboard('.copy-text');
+            });
+
+        }
+
+        var arr = ['microcemento', 'microcemento piscinas', 'microcemento bicomponente'];
+
+        var arr = ['microcemento', 'microcemento piscinas', 'microcemento bicomponente'];
+        $('body img').each(function () {
+            if (!$(this).attr('alt'))
+                $(this).attr('alt', arr[Math.round(Math.random() * (arr.length - 1))]);
+        });
+
+
+            
+            
+
+
+
+
+           
+
+
+
+
+
     });
-
-
-  

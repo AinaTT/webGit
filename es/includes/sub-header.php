@@ -30,10 +30,10 @@
                 <ul>
 
                     <li><a href="../productos.php">Productos</a></li>
-                    <li><a href="../profesionales.php">Profesionales</a></li>
+                    <li><a href="../metodos-de-aplicacion-microcemento.php">Aplicación</a></li>
                     <li><a href="../cursos-aplicacion-microcemento.php">Cursos</a></li>
                     <li><a href="../galeria.php">Galeria</a></li>
-                    <li><a href="../noticias.php">Noticias</a></li>
+                    <li><a href="../../noticias.php">Noticias</a></li>
 
                 </ul>
             </div>

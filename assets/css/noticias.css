@@ -1,0 +1,91 @@
+.card {
+    border: none;
+}
+
+.menu2b ul li:nth-child(5) {
+    font-weight: bold;
+}
+
+.card-header a {
+    color: black;
+}
+
+h1 {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.card-header {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+.card-header a:hover {
+    color: black;
+}
+
+.card-header a {
+    font-size: 23px !important;
+}
+
+.card-header img {
+    max-width: 20%;
+}
+
+.card-header span {
+    font-size: 0.6em;
+}
+
+.span4 {
+    width: 100%;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {
+    .pull-left {
+        width: 100%;
+    }
+
+}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {
+    .pull-left {
+        width: 100%;
+    }
+}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .pull-left {
+        width: 350px;
+        height: 150px;
+        object-fit: cover;
+
+    }
+
+}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {
+    .pull-left {
+        width: 350px;
+        height: 150px;
+        object-fit: cover;
+
+    }
+
+}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {
+    .pull-left {
+        width: 350px;
+        height: 150px;
+        object-fit: cover;
+
+    }
+
+
+}

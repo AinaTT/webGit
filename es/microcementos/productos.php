@@ -107,7 +107,7 @@
             <div class="row altofam">
                 <!-- Logo Unlimitted -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/unlimitted.html"><img src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px.png" alt="Microcemento bicomponente" title="Microcemento bicomponente" class="text-center img-fluid" alt="Microcemento bicomponente""></a>
+                    <a href="productos/unlimitted.php"><img src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px.png" alt="Microcemento bicomponente" title="Microcemento bicomponente" class="text-center img-fluid" alt="Microcemento bicomponente""></a>
     </div>
     <!-- Description Unlimitted -->
     <div class=" col-md-5 col-12">
@@ -127,12 +127,12 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/unlimitted.html#unlimitted-microbase" class="vermas2">
+                            <a href="productos/unlimitted.php#unlimitted-microbase" class="vermas2">
                                 <strong>Microbase</strong></a>
                         </div>
 
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/unlimitted.html#unlimitted-microdeck" class="vermas2"><strong>Microdeck</strong></a>
+                            <a href="productos/unlimitted.php#unlimitted-microdeck" class="vermas2"><strong>Microdeck</strong></a>
                         </div>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
             <div class="row altofam">
                 <!-- Logo Evoluttion -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/evoluttion-microcemento-monocomponente.html"><img src="https://www.topciment.com/imagenes/sistemas/1Evoluttion_Generico_Web.png" alt="Microcemento monocomponente" title="Microcemento monocomponente" class="text-center img-fluid" alt="Microcemento de preparación"></a>
+                    <a href="productos/evoluttion-microcemento-monocomponente.php"><img src="https://www.topciment.com/imagenes/sistemas/1Evoluttion_Generico_Web.png" alt="Microcemento monocomponente" title="Microcemento monocomponente" class="text-center img-fluid" alt="Microcemento de preparación"></a>
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
@@ -161,15 +161,15 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/evoluttion-microcemento-monocomponente.html#evoluttion-microbase" class="vermas2">
+                            <a href="productos/evoluttion-microcemento-monocomponente.php#evoluttion-microbase" class="vermas2">
                                 <strong>Microbase</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/evoluttion-microcemento-monocomponente.html#evoluttion-microfino" class="vermas2">
+                            <a href="productos/evoluttion-microcemento-monocomponente.php#evoluttion-microfino" class="vermas2">
                                 <strong>Microfino</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/evoluttion-microcemento-monocomponente.html#evoluttion-microdeck" class="vermas2"><strong>Microdeck</strong></a>
+                            <a href="productos/evoluttion-microcemento-monocomponente.php#evoluttion-microdeck" class="vermas2"><strong>Microdeck</strong></a>
                         </div>
                     </div>
                 </div>
@@ -182,7 +182,7 @@
             <div class="row altofam">
                 <!-- Logo Evoluttion -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/atlanttic-microcemento-para-piscinas.html"><img src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_92px.png" alt="Microcemento para piscinas " title="Microcemento para piscinas" class="text-center img-fluid"></a>
+                    <a href="productos/atlanttic-microcemento-para-piscinas.php"><img src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_92px.png" alt="Microcemento para piscinas " title="Microcemento para piscinas" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
@@ -198,7 +198,7 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/atlanttic-microcemento-para-piscinas.html#atlanttic-aquaciment" class="vermas2">
+                            <a href="productos/atlanttic-microcemento-para-piscinas.php#atlanttic-aquaciment" class="vermas2">
                                 <strong>Aquaciment</strong></a>
                         </div>
 
@@ -213,7 +213,7 @@
             <div class="row altofam">
                 <!-- Logo Efectto -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/efectto-microcemento-listo-al-uso.html"><img src="https://www.topciment.com/imagenes/sistemas/1Efectto__Generico_Web.png" alt="Microcemento listo al uso" title="Microcemento listo al uso" class="text-center img-fluid"></a>
+                    <a href="productos/efectto-microcemento-listo-al-uso.php"><img src="https://www.topciment.com/imagenes/sistemas/1Efectto__Generico_Web.png" alt="Microcemento listo al uso" title="Microcemento listo al uso" class="text-center img-fluid"></a>
                 </div>
                 <!-- Desctiption Efectto -->
                 <div class="col-md-5 col-12">
@@ -230,17 +230,17 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/efectto-microcemento-listo-al-uso.html#small-grain" class="vermas2">
+                            <a href="productos/efectto-microcemento-listo-al-uso.php#small-grain" class="vermas2">
                                 <strong>Small Grain</strong></a><br>
-                            <a href="sistemas/efectto-microcemento-listo-al-uso.html#super-grain" class="vermas2"><strong>Super
+                            <a href="productos/efectto-microcemento-listo-al-uso.php#super-grain" class="vermas2"><strong>Super
                                     Grain</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/efectto-microcemento-listo-al-uso.html#big-grain" class="vermas2"><strong>Big
+                            <a href="productos/efectto-microcemento-listo-al-uso.php#big-grain" class="vermas2"><strong>Big
                                     Grain</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/efectto-microcemento-listo-al-uso.html#medium-grain" class="vermas2">
+                            <a href="productos/efectto-microcemento-listo-al-uso.php#medium-grain" class="vermas2">
                                 <strong>Medium Grain</strong></a>
                         </div>
                     </div>
@@ -255,7 +255,7 @@
             <div class="row altofam">
                 <!-- Logo Pure Mettal -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/pure-mettal-microcemento-metalico.html"><img src="https://www.topciment.com/imagenes/sistemas/1PureMettal_Generico_Web.png" alt="Microcemento metálico" title="microcemento metálico" class="text-center img-fluid"></a>
+                    <a href="productos/pure-mettal-microcemento-metalico.php"><img src="https://www.topciment.com/imagenes/sistemas/1PureMettal_Generico_Web.png" alt="Microcemento metálico" title="microcemento metálico" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Pure Mettal -->
                 <div class="col-md-5 col-12">
@@ -274,17 +274,17 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium" class="vermas2">
+                            <a href="productos/pure-mettal-microcemento-metalico.php#puremetal-aluminium" class="vermas2">
                                 <strong>Aluminuim</strong></a><br>
-                            <a href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium" class="vermas2">
+                            <a href="productos/pure-mettal-microcemento-metalico.php#puremetal-aluminium" class="vermas2">
                                 <strong>Iridium</strong></a>
                         </div>
-                        <div class="col-md-12 col-4 p-0"> <a href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium" class="vermas2"><strong>Copper</strong></a> <br>
-                            <a href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium" class="vermas2"><strong>Bronze</strong></a>
+                        <div class="col-md-12 col-4 p-0"> <a href="productos/pure-mettal-microcemento-metalico.php#puremetal-aluminium" class="vermas2"><strong>Copper</strong></a> <br>
+                            <a href="productos/pure-mettal-microcemento-metalico.php#puremetal-aluminium" class="vermas2"><strong>Bronze</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/pure-mettal-microcemento-metalico.html#puremetal-aluminium" class="vermas2"><strong>Brass</strong></a> <br>
-                            <a href="sistemas/mettal-activator.html" class="vermas2"><strong>Activator</strong></a>
+                            <a href="productos/pure-mettal-microcemento-metalico.php#puremetal-aluminium" class="vermas2"><strong>Brass</strong></a> <br>
+                            <a href="productos/mettal-activator.html" class="vermas2"><strong>Activator</strong></a>
                         </div>
                     </div>
                 </div>
@@ -297,7 +297,7 @@
             <div class="row altofam">
                 <!-- Logo Classic Mettal -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html"><img src="https://www.topciment.com/imagenes/sistemas/1ClassicMettal_Generico_Web.png" alt="Pintura metálica natural y óxido" title="Pintura metálica natural y óxido" class="text-center img-fluid"></a>
+                    <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php"><img src="https://www.topciment.com/imagenes/sistemas/1ClassicMettal_Generico_Web.png" alt="Pintura metálica natural y óxido" title="Pintura metálica natural y óxido" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Classic Mettal -->
                 <div class="col-md-5 col-12">
@@ -313,20 +313,20 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html" class="vermas2">
+                            <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php" class="vermas2">
                                 <strong>Copper</strong></a><br>
-                            <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html" class="vermas2">
+                            <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php" class="vermas2">
                                 <strong>Bronze</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html" class="vermas2"><strong>Iron
+                            <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php" class="vermas2"><strong>Iron
                                     004</strong></a> <br>
-                            <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html" class="vermas2"><strong>Iron
+                            <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php" class="vermas2"><strong>Iron
                                     30</strong></a>
                         </div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/classic-mettal-pintura-metalica-natural-y-oxido.html" class="vermas2"><strong>Brass</strong></a> <br>
-                            <a href="sistemas/mettal-activator.html" class="vermas2"><strong>Activator</strong></a>
+                            <a href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php" class="vermas2"><strong>Brass</strong></a> <br>
+                            <a href="productos/mettal-activator.html" class="vermas2"><strong>Activator</strong></a>
                         </div>
                     </div>
                 </div>
@@ -340,7 +340,7 @@
             <div class="row altofam">
                 <!-- Logo Elitte -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="sistemas/elitte-efecto-metalico-y-veladuras.html"><img src="https://www.topciment.com/imagenes/sistemas/1Elitte_Generico_Web.png" alt="Efecto metálico y veladuras" title="Efecto metálico y veladuras" class="text-center img-fluid"></a>
+                    <a href="productos/elitte-efecto-metalico-y-veladuras.php"><img src="https://www.topciment.com/imagenes/sistemas/1Elitte_Generico_Web.png" alt="Efecto metálico y veladuras" title="Efecto metálico y veladuras" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Elitte -->
                 <div class="col-md-5 col-12">
@@ -355,10 +355,10 @@
                 <!-- Products Elitte -->
                 <div class="col-md-2 col-12">
                     <div class="row mb-2 ">
-                        <div class="col-md-12 col-4 p-0"> <a href="sistemas/elitte-efecto-metalico-y-veladuras.html#elitte-glaze" class="vermas2">
+                        <div class="col-md-12 col-4 p-0"> <a href="productos/elitte-efecto-metalico-y-veladuras.php#elitte-glaze" class="vermas2">
                                 <strong>Glaze</strong></a></div>
                         <div class="col-md-12 col-4 p-0">
-                            <a href="sistemas/elitte-efecto-metalico-y-veladuras.html#elitte-glitter" class="vermas2">
+                            <a href="productos/elitte-efecto-metalico-y-veladuras.php#elitte-glitter" class="vermas2">
                                 <strong>Glitter</strong></a>
                         </div>
                     </div>
@@ -377,7 +377,7 @@
             <div class="row altofam">
                 <!-- Logo Primacem -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html">PRIMACEM</a>
+                    <a class="font1as" href="productos/primacem-imprimacione-y-promotores-de-adherencia.php">PRIMACEM</a>
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
@@ -396,15 +396,15 @@
                 <div class="col-md-2">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html#primacem" class="vermas">
+                            <a href="productos/primacem-imprimacione-y-promotores-de-adherencia.php#primacem" class="vermas">
                                 <strong>Primacem Fix</strong></a><br>
-                            <a href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html#primacem-plus" class="vermas">
+                            <a href="productos/primacem-imprimacione-y-promotores-de-adherencia.php#primacem-plus" class="vermas">
                                 <strong>Primacem Plus</strong></a><br>
-                            <a href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html#primacem-impoxy" class="vermas"><strong>Impoxy A+B</strong></a>
+                            <a href="productos/primacem-imprimacione-y-promotores-de-adherencia.php#primacem-impoxy" class="vermas"><strong>Impoxy A+B</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html#primacem-abs" class="vermas"><strong>Primacem ABS</strong></a> <br>
-                            <a href="sistemas/primacem-imprimacione-y-promotores-de-adherencia.html#primacem-grip" class="vermas">
+                            <a href="productos/primacem-imprimacione-y-promotores-de-adherencia.php#primacem-abs" class="vermas"><strong>Primacem ABS</strong></a> <br>
+                            <a href="productos/primacem-imprimacione-y-promotores-de-adherencia.php#primacem-grip" class="vermas">
                                 <strong>Primacem Grip</strong></a>
                         </div>
 
@@ -420,7 +420,7 @@
             <div class="row altofam">
                 <!-- Logo Arcocem -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="sistemas/arcocem-pigmentos-para-microcemento.html">ARCOCEM</a>
+                    <a class="font1as" href="productos/arcocem-pigmentos-para-microcemento.php">ARCOCEM</a>
                 </div>
                 <!-- Description Arcocem -->
                 <div class="col-md-5 col-12">
@@ -438,11 +438,11 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/arcocem-pigmentos-para-microcemento.html#arcocem-basic" class="vermas">
+                            <a href="productos/arcocem-pigmentos-para-microcemento.php#arcocem-basic" class="vermas">
                                 <strong>Arcocem Basic</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/arcocem-pigmentos-para-microcemento.html#arcocem-plus" class="vermas">
+                            <a href="productos/arcocem-pigmentos-para-microcemento.php#arcocem-plus" class="vermas">
                                 <strong>Arcocem Plus</strong></a>
                         </div>
                     </div>
@@ -457,7 +457,7 @@
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="sistemas/topsealer-barniz.html"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
+                    <a class="font1as" href="productos/topsealer-barniz.php"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
@@ -473,22 +473,22 @@
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/topsealer-barniz.html#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="productos/topsealer-barniz.php#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="sistemas/topsealer-barniz.html#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="productos/topsealer-barniz.php#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="sistemas/topsealer-barniz.html#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="productos/topsealer-barniz.php#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="sistemas/topsealer-barniz.html#topsealer-proplus" class="vermas">
+                            <a href="productos/topsealer-barniz.php#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="sistemas/topsealer-barniz.html#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="productos/topsealer-barniz.php#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="sistemas/topsealer-barniz.html#presealer" class="vermas">
+                            <a href="productos/topsealer-barniz.php#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
@@ -507,7 +507,7 @@
             <div class="row altofam">
                 <!-- Logo Ecoclean -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font2as" href="sistemas/limpieza-y-cuidado-del-microcemento.html">ECOCLEAN</a>
+                    <a class="font2as" href="productos/limpieza-y-cuidado-del-microcemento.php">ECOCLEAN</a>
                 </div>
                 <!-- Description Ecoclean -->
                 <div class="col-md-5 col-12">
@@ -524,11 +524,11 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/limpieza-y-cuidado-del-microcemento.html#ecoclean-basic" class="vermas">
+                            <a href="productos/limpieza-y-cuidado-del-microcemento.php#ecoclean-basic" class="vermas">
                                 <strong>Basic</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/limpieza-y-cuidado-del-microcemento.html#ecoclean-pro" class="vermas">
+                            <a href="productos/limpieza-y-cuidado-del-microcemento.php#ecoclean-pro" class="vermas">
                                 <strong>Pro</strong></a>
                         </div>
                     </div>
@@ -542,7 +542,7 @@
             <div class="row altofam">
                 <!-- Logo Ceraciment -->
                 <div class="col-md-5 col text-center  ">
-                    <a class="font2as" href="sistemas/limpieza-y-cuidado-del-microcemento.html">CERACIMENT</a>
+                    <a class="font2as" href="productos/limpieza-y-cuidado-del-microcemento.php">CERACIMENT</a>
                 </div>
                 <!-- Description Ceraciment -->
                 <div class="col-md-5 col-12">
@@ -557,11 +557,11 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/limpieza-y-cuidado-del-microcemento.html#ceraciment-basic" class="vermas">
+                            <a href="productos/limpieza-y-cuidado-del-microcemento.php#ceraciment-basic" class="vermas">
                                 <strong>Basic</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/limpieza-y-cuidado-del-microcemento.html#ceraciment-pro" class="vermas">
+                            <a href="productos/limpieza-y-cuidado-del-microcemento.php#ceraciment-pro" class="vermas">
                                 <strong>Pro</strong></a>
                         </div>
 
@@ -577,7 +577,7 @@
             <div class="row altofam">
                 <!-- Logo TopTools -->
                 <div class="col-md-5 col text-center  ">
-                    <a class="toptools" href="sistemas/herramientas-microcemento.html">TopTools</a>
+                    <a class="toptools" href="productos/herramientas-microcemento.php">TopTools</a>
                 </div>
                 <!-- Description TopTools -->
                 <div class="col-md-4 col-12">
@@ -591,19 +591,19 @@
                 <!-- Products TopTools -->
                 <div class="col-md-3 col-12">
                     <div class="row mb-2 ">
-                        <div class="col-md-12 col-6 p-0"> <a href="sistemas/herramientas-microcemento.html#varilla" class="vermas">
+                        <div class="col-md-12 col-6 p-0"> <a href="productos/herramientas-microcemento.php#varilla" class="vermas">
                                 <strong>Varilla mezcladora</strong></a><br>
-                            <a href="sistemas/herramientas-microcemento.html#perfil" class="vermas">
+                            <a href="productos/herramientas-microcemento.php#perfil" class="vermas">
                                 <strong>Perfil de aluminio</strong></a><br>
-                            <a href="sistemas/herramientas-microcemento.html#llana-goma" class="vermas">
+                            <a href="productos/herramientas-microcemento.php#llana-goma" class="vermas">
                                 <strong>Llana de goma</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="sistemas/herramientas-microcemento.html#llana-acero" class="vermas">
+                            <a href="productos/herramientas-microcemento.php#llana-acero" class="vermas">
                                 <strong>LLana de acero Bi-Flex</strong></a><br>
-                            <a href="sistemas/herramientas-microcemento.html#malla" class="vermas">
+                            <a href="productos/herramientas-microcemento.php#malla" class="vermas">
                                 <strong>Malla de fibra de vidrio</strong></a><br>
-                            <a href="sistemas/herramientas-microcemento.html#rodillo" class="vermas">
+                            <a href="productos/herramientas-microcemento.php#rodillo" class="vermas">
                                 <strong>Rodillo de pelo corto</strong></a>
                         </div>
                     </div>
@@ -618,6 +618,8 @@
         </div>
 
         <?php include "../includes/footer.php"; ?>
+
+        <?php include("../includes/scripts.php"); ?>
     </div>
 
     <!-- include jQuery -->

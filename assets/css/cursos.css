@@ -3,6 +3,10 @@
      height: 300px;
  }
 
+ .menu2b ul li:nth-child(3) {
+     font-weight: bold;
+ }
+
  .home_link a {
      padding: 0.5em 1em;
      font-size: 0.9em;
