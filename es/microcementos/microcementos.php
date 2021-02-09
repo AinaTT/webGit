@@ -47,7 +47,7 @@
 
 <body id="microcemento">
 
-  <?php include("../includes/header.php"); ?>
+  <?php include("../includes/microcemento/header.php"); ?>
 
   <div class="container">
     <div id="sidebar" class="menuOculto menuMicrocementos stick">
@@ -65,7 +65,7 @@
     </div>
 
   </div>
-  <?php include("../includes/menu-movil.php"); ?>
+  <?php include("../includes/microcemento/menu-movil.php"); ?>
 
 
   <div id="main">
@@ -959,7 +959,7 @@
     <div style="float:none; clear:both; height:100px;"></div>
   </div>
 
-  <?php include '../includes/footer.php'; ?>
+  <?php include '../includes/microcemento/footer.php'; ?>
 
   <?php include("../includes/scripts.php"); ?>
   </div>

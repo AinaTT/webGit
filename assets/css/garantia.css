@@ -12,6 +12,10 @@
     text-align: center;
 }
 
+.menu2b ul li:nth-child(3) {
+    font-weight: bold;
+}
+
 /* movilcss */
 @media screen and (max-width:480px) {}
 

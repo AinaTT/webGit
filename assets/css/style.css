@@ -254,6 +254,11 @@ ul li ul li {
 }
 
 /* end menu */
+#separador20px {
+    float: none;
+    clear: both;
+    height: 10px;
+}
 
 .contenedorMenuOculto {
     width: 1200px;

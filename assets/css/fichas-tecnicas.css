@@ -2,6 +2,10 @@
     color: black;
 }
 
+.menu2b ul li:nth-child(2) {
+    font-weight: bold;
+}
+
 /* movilcss */
 @media screen and (max-width:480px) {}
 

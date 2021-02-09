@@ -49,10 +49,10 @@
 
 <body id="contacto">
 
-    <?php include("includes/root-header.php"); ?>
+    <?php include("includes/microcemento/root-header.php"); ?>
 
 
-    <?php include("includes/root-menu-movil.php"); ?>
+    <?php include("includes/microcemento/root-menu-movil.php"); ?>
     <div id="main">
         <div class="clearfix">
             <div id="content">
@@ -598,7 +598,7 @@
                 }
             </script>
 
-            <?php include "includes/root-footer.php"; ?>
+            <?php include "includes/microcemento/root-footer.php"; ?>
 
             <?php include "includes/root-scripts.php"; ?>
         </div>

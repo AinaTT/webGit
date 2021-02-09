@@ -1,0 +1,30 @@
+#proyecto .content img {
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#main {
+    margin-top: 0px;
+    ;
+}
+
+.menu2b ul li:nth-child(4) {
+    font-weight: bold;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {}

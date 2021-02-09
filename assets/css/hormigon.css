@@ -1,0 +1,46 @@
+figcaption {
+    color: #6c757d;
+    font-size: 13px;
+}
+
+.foto {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: ;
+}
+
+h1 {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.ventajas {
+    background-color: #f4eeee;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.ventajas .content .row {
+    margin-bottom: 20px;
+}
+
+/* movilcss */
+@media screen and (max-width:480px) {}
+
+/* tabletcss */
+@media screen and (min-width:481px) and (max-width:767px) {}
+
+/* laptopcss */
+@media screen and (min-width:768px) and (max-width:1024px) {}
+
+/* desktopcss */
+@media screen and (min-width:1025px) and (max-width:1200px) {}
+
+
+/*  largecss */
+@media screen and (min-width:1201px) {}

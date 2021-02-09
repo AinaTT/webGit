@@ -49,10 +49,10 @@
 
 <body id="profesionales">
 
-    <?php include("includes/root-header.php"); ?>
+    <?php include("includes/microcemento/root-header.php"); ?>
 
 
-    <?php include("includes/root-menu-movil.php"); ?>
+    <?php include("includes/microcemento/root-menu-movil.php"); ?>
 
 
     <div id="main">
@@ -65,12 +65,12 @@
                             <ul>
                                 <li><a href="#up" style="font-size:26px">Profesionales</a></li>
                                 <li><a href="#que-ofrecemos">¿Qué ofrecemos?</a></li>
-                                <li><a href="contacto.html">Servicio técnico</a></li>
-                                <li><a href="profesionales/cursos-aplicacion-microcemento.html">Cursos de microcemento</a></li>
-                                <li> <a href="distribuidores.html">Distribuidores de microcemento</a></li>
-                                <li> <a href="profesionales/metodos-de-aplicacion-microcemento.php">Métodos de aplicación</a></li>
+                                <li><a href="contacto.php">Servicio técnico</a></li>
+                                <li><a href="microcementos/cursos-aplicacion-microcemento.php">Cursos de microcemento</a></li>
+                                <li> <a href="distribuidores.php">Distribuidores de microcemento</a></li>
+                                <li> <a href="microcementos/metodos-de-aplicacion-microcemento.php">Métodos de aplicación</a></li>
                                 <li> <a href="calc/index.html">Calculadora de material</a></li>
-                                <li> <a href="descargas.html#fichas-tecnicas-topciment">Fichas técnicas</a></li>
+                                <li> <a href="fichas-tecnicas.php#fichas-tecnicas-topciment">Fichas técnicas</a></li>
                             </ul>
                         </div>
                         <div class="content">
@@ -106,7 +106,7 @@
 
                                 <div class="col-md-12">
                                     <a id="servicio" class="ancla"></a>
-                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/servicio.png" class="img-fluid "> <a class="" href="contacto.html"> Servicio técnico
+                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/servicio.png" class="img-fluid "> <a class="" href="contacto.php"> Servicio técnico
                                             especializado</a> </h2>
                                     <p>
                                         Disponible en varios idiomas, nuestros técnicos comerciales asesoran y
@@ -115,12 +115,12 @@
                                         cuidado y mantenimiento del
                                         microcemento.
                                     </p>
-                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="contacto.html">
+                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="contacto.php">
                                             <strong>Contactar con un técnico</strong></a></p>
                                 </div>
                                 <div class="col-md-12">
                                     <a id="cursos" class="ancla"></a>
-                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/cursos.png" class="img-fluid "> <a class="" href="profesionales/cursos-aplicacion-microcemento.html">Cursos de
+                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/cursos.png" class="img-fluid "> <a class="" href="microcementos/cursos-aplicacion-microcemento.php">Cursos de
                                             microcemento</a>
                                     </h2>
                                     <p>
@@ -134,7 +134,7 @@
                                     </p>
                                     <p>
 
-                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="profesionales/cursos-aplicacion-microcemento.html">
+                                    <p> <i class=" fa fa-arrow-circle-right"></i> <a class="links" href="microcementos/cursos-aplicacion-microcemento.php">
                                             <strong>Ver tipos de cursos</strong></a></p>
                                     </p>
                                 </div>
@@ -143,7 +143,7 @@
                                 </style>
                                 <div class="col-md-12">
                                     <a id="distribuidores" class="ancla"></a>
-                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/distribuidor.png" class="img-fluid "> <a class="" href="distribuidores.html">Distribuidores de
+                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/distribuidor.png" class="img-fluid "> <a class="" href="distribuidores.php">Distribuidores de
                                             microcemento</a>
                                     </h2>
                                     <p>
@@ -152,12 +152,12 @@
                                         microcemento. Una red de profesionales en continua expansión y que ofrece
                                         numerosas ventajas.
                                     </p>
-                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="distribuidores.html"> <strong> ¿Quieres ser
+                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="distribuidores.php"> <strong> ¿Quieres ser
                                                 distribuidor?</strong></a></p>
                                 </div>
                                 <div class="col-md-12">
                                     <a id="metodos" class="ancla"></a>
-                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="profesionales/metodos-de-aplicacion-microcemento.php">Métodos de
+                                    <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="microcementos/metodos-de-aplicacion-microcemento.php">Métodos de
                                             aplicación
                                             de microcemento</a>
                                     </h2>
@@ -165,7 +165,7 @@
                                         Recomendaciones, consejos y trucos de la aplicación de microcemento se
                                         encuentran en este apartado.
                                     </p>
-                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="profesionales/metodos-de-aplicacion-microcemento.php"><strong>Conocer
+                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="microcementos/metodos-de-aplicacion-microcemento.php"><strong>Conocer
                                                 métodos de aplicación</strong></a></p>
                                 </div>
                                 <div class="col-md-12">
@@ -187,14 +187,14 @@
                                 </div>
                                 <div class="col-md-12">
                                     <a id="fichas" class="ancla"></a>
-                                    <h2 class="en4 card-header"> <img src="https://www.topciment.com/imagenes/iconos/catalogue.png" class="img-fluid "> <a class="" href="descargas.html#fichas-tecnicas-topciment">Fichas técnicas</a>
+                                    <h2 class="en4 card-header"> <img src="https://www.topciment.com/imagenes/iconos/catalogue.png" class="img-fluid "> <a class="" href="fichas-tecnicas.php#fichas-tecnicas-topciment">Fichas técnicas</a>
                                     </h2>
                                     <p>
                                         Facilitamos las fichas técnicas de todos nuestros productos. Así, los
                                         profesionales pueden decantarse por el sistema de microcemento que mejor
                                         encaja con sus necesidades personales.
                                     </p>
-                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="descargas.html#fichas-tecnicas-topciment"> <strong>Ver fichas
+                                    <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="fichas-tecnicas.php#fichas-tecnicas-topciment"> <strong>Ver fichas
                                                 técnicas</strong></a></p>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
         </div>
 
 
-        <?php include "includes/root-footer.php"; ?>
+        <?php include "includes/microcemento/root-footer.php"; ?>
 
         <?php include "includes/root-scripts.php"; ?>
     </div>

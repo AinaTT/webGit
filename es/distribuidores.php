@@ -52,10 +52,10 @@
 
 <body id="distribuidores">
 
-    <?php include("includes/root-header.php"); ?>
+    <?php include("includes/microcemento/root-header.php"); ?>
 
 
-    <?php include("includes/root-menu-movil.php"); ?>
+    <?php include("includes/microcemento/root-menu-movil.php"); ?>
 
 
     <div id="main">
@@ -214,7 +214,7 @@
         <div style="width:49%; float:right; height:auto;"><img src="https://www.topciment.com/imagenes/distribuidor-footer02.jpg" width="100%" alt="microcementos">
         </div>
         <div id="separador50px"></div>
-        <?php include "includes/root-footer.php"; ?>
+        <?php include "includes/microcemento/root-footer.php"; ?>
 
         <?php include "includes/root-scripts.php"; ?>
     </div>

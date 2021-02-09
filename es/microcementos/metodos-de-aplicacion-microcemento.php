@@ -41,10 +41,10 @@
 
 <body id="apllicacion">
 
-    <?php include("../includes/header.php"); ?>
+    <?php include("../includes/microcemento/header.php"); ?>
 
 
-    <?php include("../includes/menu-movil.php"); ?>
+    <?php include("../includes/microcemento/menu-movil.php"); ?>
 
 
     <div id="main">
@@ -56,48 +56,145 @@
                     <div class="container">
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
-                                <li><a href="#up" style="font-size:26px">Métodos de aplicación</a></li>
+                                <li><a href="#up" style="font-size:26px">Aplicación</a></li>
+                                <li><a href="#suelos">Aplicación en suelos</a></li>
+                                <li><a href="#paredes">Aplicación en paredes</a></li>
+                                <li><a href="#piscinas">Aplicación en piscinas</a></li>
+
                             </ul>
                         </div>
                         <div class="content">
-                            <a id="profesionales-microcemento" class="ancla""></a>
-                            <h1 class=" en2">Métodos para la aplicación de microcemento</h1>
+                            <a id="up" class="ancla"></a>
+                            <h1 class=" en2 mb-3">Métodos de aplicación de microcemento</h1>
 
-                                <p>En esta sección exclusiva para profesionales del microcemento, encontrarás múltiples consejos de
-                                    nuestro equipo de expertos sobre cómo aplicar microcemento en paredes, suelos, interiores, exteriores y
-                                    piscinas.</p>
+                            <p>En esta sección exclusiva para profesionales del microcemento, encontrarás múltiples
+                                consejos de nuestro equipo de expertos sobre cómo aplicar <strong> microcemento en paredes,
+                                    suelos, interiores, exteriores y piscinas.</strong></p>
 
-                                <p>Aprenderás qué tipo de microcemento es el más apropiado según la superficie a recubrir y el material
-                                    existente, así como las herramientas específicas que necesitas para un óptimo resultado: espátulas,
-                                    llanas, rodillos, etc.</p>
+                            <p>Aprenderás qué tipo de microcemento es el más apropiado según la superficie a
+                                recubrir y el material existente, así como las herramientas específicas que
+                                necesitas para aplicar microcemento con un resultado óptimo: espátulas, llanas,
+                                rodillos, etc.</p>
 
-                                <P>En este apartado hallarás también las distintas técnicas de aplicación de microcemento que existen en
-                                    función del acabado que se busque conseguir. Y es que el microcemento es un revestimiento que ofrece
-                                    múltiples posibilidades decorativas.</P>
+                            <P>En este apartado hallarás también las <strong>distintas técnicas de aplicación de
+                                    microcemento que existen en función del acabado</strong> que se busque conseguir. Y es que el
+                                microcemento es un revestimiento que ofrece múltiples posibilidades decorativas.</P>
+
 
                         </div>
                     </div>
-                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/metodos-de-aplicacion-de-microcemento.JPG');" data-img-width="4000" data-img-height="3000" data-diff="100">
+                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_07.jpg');" data-img-width="4000" data-img-height="3000" data-diff="100">
                         <div class="content-a">
                         </div>
                     </div>
                     <div class="container">
                         <div class="content">
+                            <a id="suelos" class="ancla"></a>
+                            <h2 class="mb-3">Aplicación de microcemento en suelos</h2>
+                            <p>Los suelos de microcemento son tendencia por conformar una solución decorativa duradera y
+                                resistente al mismo tiempo que ofrece un alto nivel de personalización. Te enseñamos
+                                <strong> cómo se aplica el microcemento paso a paso en suelos</strong> , tanto en superficies interiores
+                                como exteriores.
+                            </p>
+                            <p>En Topciment hemos desarrollado varios sistemas de microcemento (monocomponente,
+                                bicomponente y listo al uso) con los que obtener diferentes texturas y acabados. A
+                                continuación explicamos la aplicación de microcemento en suelos.</p>
+                            <h3>Aplicación de microcemento en suelos interiores y exteriores</h3>
 
-                            <p>Conoce todos los métodos de aplicación de microcemento, paso a paso, y presta atención a nuestros
-                                consejos para evitar la aparición de manchas u otro tipo de marcas. Contamos con videotutoriales.</p>
-                            <p> Aplicación del <strong><a class="links" href="microcementos.php">microcemento</a></strong> paso a
-                                paso:</p>
-                            <ul class="marginLeft50px">
-                                <li><a class="links" href="aplicacion-microcemento/generalidades-metodos-planificacion.php" target="_self">Generalidades de la aplicación</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/condiciones-previas-a-la-aplicacion-y-preparacion-del-soporte.php" target="_self">Condiciones previas a la aplicación y preparación del soporte</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/mezcla-del-microcemento-monocomponente-y-bicomponente.php" target="_self">Mezcla del microcemento monocomponente y bicomponente</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/aplicacion-de-microcemento-de-preparacion-y-de-acabado.php" target="_self">Aplicación de microcemento de preparación y de acabado</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/aplicacion-del-sellador.php" target="_self">Aplicación del
+                            <p>
+                                <a class="links" href="productos/sttandard-microcemento-bicomponente.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento bicomponente
+                                    <strong>Sttandard</strong> en suelos aquí</a>
+                            </p>
+                            <p>
+                                <a class="links" href="productos/unlimitted.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento bicomponente
+                                    <strong>Unlimitted </strong> en suelos aquí</a>
+                            </p>
+                            <p>
+                                <a class="links" href="productos/evoluttion-microcemento-monocomponente.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento
+                                    monocomponente
+                                    <strong>Evoluttion </strong> en suelos aquí</a>
+                            </p>
+
+                            <p>
+                                <a class="links" href="productos/efectto-microcemento-listo-al-uso.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento
+                                    monocomponente
+                                    <strong>Efectto Quartz</strong> en suelos aquí</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_05.jpg');" data-img-width="4000" data-img-height="3000" data-diff="100">
+                        <div class="content-a">
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="content">
+                            <a id="paredes" class="ancla"></a>
+
+                            <h2 class="mb-3">Aplicación de microcemento en paredes</h2>
+                            <p>El uso del microcemento en paredes se ha extendido gracias a su apariencia industrial, su
+                                rápida instalación y gran adherencia así como su elevada resistencia a las fisuras,
+                                entre otras muchas cualidades. Por ello no es de extrañar que cada vez encontremos más
+                                paredes de microcemento no solo en viviendas particulares, sino también en grandes
+                                locales comerciales como hoteles o restaurantes.</p>
+
+                            <p>Pero, ¿cuál es la aplicación de microcemento en paredes? En este apartado <strong> te explicamos
+                                    cómo aplicar microcemento en paredes</strong> , paso a paso, tanto en superficies interiores como
+                                en exteriores.</p>
+                            <h3>Aplicación de microcemento en paredes interiores y exteriores</h3>
+                            <p>
+                                <a class="links" href="productos/sttandard-microcemento-bicomponente.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento bicomponente
+                                    <strong>Sttandard</strong> en paredes aquí</a>
+                            </p>
+                            <p>
+                                <a class="links" href="productos/unlimitted.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento bicomponente
+                                    <strong>Unlimitted </strong> en paredes aquí</a>
+                            </p>
+                            <p>
+                                <a class="links" href="productos/evoluttion-microcemento-monocomponente.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento
+                                    monocomponente
+                                    <strong>Evoluttion </strong> en paredes aquí</a>
+                            </p>
+
+                            <p>
+                                <a class="links" href="productos/efectto-microcemento-listo-al-uso.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento
+                                    monocomponente
+                                    <strong>Efectto Quartz</strong> en paredes aquí</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg');" data-img-width="4000" data-img-height="3000" data-diff="100">
+                        <div class="content-a">
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="content">
+                            <h2 class="mb-3">Aplicación de microcemento en piscinas</h2>
+                            <p><strong>Las piscinas de microcemento están de moda. </strong> Y es que la capacidad impermeable y
+                                antideslizante del microcemento son algunas de las claves de su éxito. Por no hablar de
+                                que prácticamente cualquier diseño es posible en una piscina de microcemento,
+                                tremendamente atractiva a nivel visual.</p>
+                            <p>En Topciment, conscientes de las innumerables ventajas de este revestimiento decorativo para construir una piscina, hemos diseñado "Atlanttic", una línea específica de microcemento para piscinas.</p>
+                            <h3>Cómo aplicar microcemento "Atlanttic" en piscinas</h3>
+                            <p>A continuación, te explicamos los pasos de la <strong>aplicación de microcemento en piscinas con nuestro sistema "Atlanttic".</strong> Tanto se trate de una piscina de interior como una piscina de exterior, hay que seguir el mismo proceso.
+
+                            </p>
+                            <p>
+                                <a class="links" href="productos/atlanttic-microcemento-para-piscinas.php#aplicacion"><i class="fa fa-arrow-circle-o-right "></i> Cómo aplicar microcemento
+                                    para piscinas
+                                    <strong> Atlanttic</strong> aquí</a>
+                            </p>
+                            <h2>Consejos para la aplicación de microcemento</h2>
+                            <p>Si todavía te surgen dudas sobre cómo aplicar microcemento, no te pierdas esta serie de consejos:</p>
+                            <ul>
+                                <li><a class="links" href="../aplicacion-microcemento/generalidades-metodos-planificacion.html" target="_self">Generalidades de la aplicación</a></li>
+                                <li><a class="links" href="../aplicacion-microcemento/condiciones-previas-a-la-aplicacion-y-preparacion-del-soporte.html" target="_self">Condiciones previas a la aplicación y preparación del soporte</a></li>
+                                <li><a class="links" href="../aplicacion-microcemento/mezcla-del-microcemento-monocomponente-y-bicomponente.html" target="_self">Mezcla del microcemento monocomponente y bicomponente</a></li>
+                                <li><a class="links" href="../aplicacion-microcemento/aplicacion-de-microcemento-de-preparacion-y-de-acabado.html" target="_self">Aplicación de microcemento de preparación y de acabado</a></li>
+                                <li><a class="links" href="../aplicacion-microcemento/aplicacion-del-sellador.html" target="_self">Aplicación del
                                         sellador</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/diferentes-efectos-en-el-acabado.php" target="_self">Diferentes
+                                <li><a class="links" href="../aplicacion-microcemento/diferentes-efectos-en-el-acabado.html" target="_self">Diferentes
                                         efectos en el acabado</a></li>
-                                <li><a class="links" href="aplicacion-microcemento/como-evitar-manchas-o-marcas-no-deseadas-al-aplicar-microcemento.php" target="_self">Cómo evitar manchas o marcas no deseadas al aplicar microcemento</a></li>
+                                <li><a class="links" href="../aplicacion-microcemento/como-evitar-manchas-o-marcas-no-deseadas-al-aplicar-microcemento.html" target="_self">Cómo evitar manchas o marcas no deseadas al aplicar microcemento</a></li>
                             </ul>
                         </div>
                     </div>
@@ -105,7 +202,7 @@
         </div>
 
 
-        <?php include "../includes/footer.php"; ?>
+        <?php include "../includes/microcemento/footer.php"; ?>
 
         <?php include "../includes/scripts.php"; ?>
     </div>

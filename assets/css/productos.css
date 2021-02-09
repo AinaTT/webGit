@@ -28,7 +28,9 @@
 }
 
 
-
+.menu2b ul li:nth-child(1) {
+    font-weight: bold;
+}
 
 
 .row {
