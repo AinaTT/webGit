@@ -139,13 +139,26 @@
      border: none;
  }
 
-
-
+/* Hormigón */
+ .fondocursoh1 {
+     background-image: url('https://www.topciment.com/img/hormigon/Aparcamiento 2.png');
+     background-size: cover;
+ }
+.fondocursoh2 {
+    background-image: url('https://www.topciment.com/img/hormigon/Entrada 1.png');
+    background-size: cover;
+}
+.fondocursoh3 {
+    background-image: url('https://www.topciment.com/img/hormigon/Entrada 6.png');
+    background-size: cover;
+}
  /* Maestros */
  .fondomaestro {
      background-color: #f9f9f9;
  }
-
+.fullscreen{
+    background-size: cover;
+}
  .img-thumbnail {
      padding: .25rem;
      background-color: #fff;

@@ -47,6 +47,9 @@
         width: 150px;
     }
 
+    .jumbotron .container {
+        max-width: 980px !important;
+    }
 
 }
 
@@ -54,6 +57,9 @@
 /*  largecss */
 @media screen and (min-width:1201px) {
 
+    .jumbotron .container {
+        max-width: 980px !important;
+    }
 
     #iconoIzquierda {
         float: left;

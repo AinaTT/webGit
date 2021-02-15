@@ -41,9 +41,9 @@
 
 <body id="familia">
 
-    <?php include("../../includes/microcemento/sub-header.php"); ?>
+    <?php include("../../includes/sub-header.php"); ?>
 
-    <?php include("../../includes/microcemento/sub-menu-movil.php"); ?>
+    <?php include("../../includes/sub-menu-movil.php"); ?>
 
 
     <div id="main">
@@ -690,7 +690,7 @@
         </div>
 
 
-        <?php include("../../includes/microcemento/sub-footer.php"); ?>
+        <?php include("../../includes/sub-footer.php"); ?>
 
 
         <script defer src='../../../assets/js/lightbox-plus-jquery.min.js'></script>

@@ -14,18 +14,18 @@
 
 
 
-    <title>Fabricantes microcemento, hormigón impreso y resina epoxi |Topciment</title>
-    <meta name="description" content="Somos fabricantes de microcemento, hormigón impreso y resina epoxi. Desde 2005 no hemos parado de innovar. Conoce la fábrica Topciment." />
+    <title>Fabricantes moldes, morteros y resinas hormigón impreso Topciment </title>
+    <meta name="description" content="Empresa dedicada a la fabricación de moldes, morteros y resinas para hormigón impreso. Productos innovadores y de altas prestaciones a precios competitivos." />
 
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fabricantes microcemento, hormigón impreso y resina epoxi |Topciment" />
-    <meta property="og:description" content="Somos fabricantes de microcemento, hormigón impreso y resina epoxi. Desde 2005 no hemos parado de innovar. Conoce la fábrica Topciment." />
+    <meta property="og:title" content="Fabricantes moldes, morteros y resinas hormigón impreso Topciment " />
+    <meta property="og:description" content="Empresa dedicada a la fabricación de moldes, morteros y resinas para hormigón impreso. Productos innovadores y de altas prestaciones a precios competitivos." />
     <meta property="og:url" content="https://www.topciment.com/es/microcementos/fabricante-microcemento" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Somos fabricantes de microcemento, hormigón impreso y resina epoxi. Desde 2005 no hemos parado de innovar. Conoce la fábrica Topciment." />
-    <meta name="twitter:title" content="Fabricantes microcemento, hormigón impreso y resina epoxi |Topciment" />
+    <meta name="twitter:description" content="Empresa dedicada a la fabricación de moldes, morteros y resinas para hormigón impreso. Productos innovadores y de altas prestaciones a precios competitivos." />
+    <meta name="twitter:title" content="Fabricantes moldes, morteros y resinas hormigón impreso Topciment " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -49,289 +49,161 @@
 
 <body id="nosotros">
 
-    <?php include("../includes/microcemento/header.php"); ?>
+    <?php include("../includes/header.php"); ?>
 
 
-    <?php include("../includes/microcemento/menu-movil.php"); ?>
+    <?php include("../includes/menu-movil.php"); ?>
 
 
     <div id="main">
         <div class="clearfix">
             <div id="content">
-                <section id="up">
-                    <div class="separador150px">
+                <div class="separador150px">
+                </div>
+                <div class="container">
+                    <div class="content text-justify">
+                        <h1>Fabricantes moldes, morteros y resinas hormigón impreso</h1>
+                        <h2 class="mt-3 mb-3"> ¿Quiénes somos?</h2>
+                        <p>En Topciment somos expertos en la fabricación y comercialización de todo tipo de
+                            revestimientos decorativos: microcemento, revestimientos y pinturas metálicas y hormigón
+                            impreso. Una pluralidad que nos ha llevado a ser referentes del mercado a nivel nacional
+                            y a contar cada vez con más notoriedad a nivel internacional. </p>
+                        <p>El crecimiento del sector del hormigón impreso nos ha llevado a especializarnos y diseñar
+                            una completa oferta de productos (link productos hormigón impreso?) de hormigón impreso.
+                            Somos fabricantes de moldes de hormigón impreso, morteros reparadores de hormigón
+                            impreso y barnices o resinas para hormigón impreso, entre otros muchos.</p>
                     </div>
+                </div>
+                <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/img/hormigon/entrada 8.png');" data-img-width="1450" data-img-height="950" data-diff="100" background-position="top">
+                </div>
+                <div class="container">
+                    <div class="content ">
+                        <h2 class="mt-3 mb-3">Fábrica hormigón impreso Topciment</h2>
+                        <p>La fábrica de hormigón impreso de Topciment es privilegiada a nivel nacional. Unas
+                            imponentes instalaciones de más de 4.000 metros cuadrados y que cuentan con las
+                            tecnologías más modernas.</p>
+                        <p>En ella fabricamos los moldes, morteros reparadores y resinas de hormigón impreso, pero
+                            también los colores, agentes de curado, desmoldeantes, imprimaciones, retardantes, etc.
+                        </p>
+                        <p>Allí se encuentra un amplio laboratorio en el que nuestro equipo de químicos trabajan muy
+                            duro para mejorar sistemáticamente las prestaciones de nuestros productos de hormigón
+                            impreso. </p>
+                        <p>¿Quieres conocer la fábrica de hormigón impreso de Topciment? Contáctanos, hacemos
+                            visitas guiadas.</p>
 
 
-                    <div class="container">
-                        <div class="content text-justify">
-                            <h1 class="en2">
-                                Fabricantes de microcemento</h1>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <p>
-                                        Queremos que nos conozcas mejor y para ello vamos a darte más
-                                        información sobre nosotros.<br>
-                                    </p>
-                                    <p>
-                                        <strong>Topciment</strong> es la empresa fabricante de
-                                        <strong>microcementos</strong> más grande de España y con más años de
-                                        experiencia en
-                                        el
-                                        mercado.
-                                    </p>
-                                    <p>
-                                        Concretamente nuestra andadura comenzó en 2005, año en la que la empresa
-                                        se fundó y desde entonces no hemos parado de crecer.<br>
-                                    </p>
-                                    <p>
-                                        El principal motivo de Topciment era y es, fabricar un microcemento de
-                                        calidad, con óptimas prestaciones y muy competitivo dentro del mercado
-                                        de los revestimientos. Pero no sólo eso, también estamos muy centrados
-                                        en la producción de materiales directamente relacionados con el
-                                        microcemento, desde
-                                        <a class="links" href="productos/primacem-imprimacione-y-promotores-de-adherencia.php">imprimaciones</a>,
-                                        <a class="links" href="productos/topsealer-barniz.php">barnices</a>, <a class="links" href="productos/classic-mettal-pintura-metalica-natural-y-oxido.php">pinturas
-                                            metálicas</a>pasando por <a class="links" href="productos/efectto-microcemento-listo-al-uso.php">revestimientos
-                                            decorativos de
-                                            alta decoración</a> o limpiadores especializados.
-                                        <br>
-                                    </p>
-                                    <p>Esta inquietud por estar a cargo de todo lo que conlleva la aplicación
-                                        del microcemento nos ha traído hasta donde estamos actualmente y nos
-                                        abre las puertas a un futuro muy prometedor. En Topciment no paramos de
-                                        crecer y de superarnos día a día.</p>
+                    </div>
+                </div>
+                <div class="header-foto">
+                    <div class="my-auto jumbotron">
+                        <div class="text-center  textohorm">
+                            <h2 class="display-4 font-weight-bold pb-3">El valor del trabajo bien hecho</h2>
+                            <p>La oferta integral de productos de hormigón impreso que fabricamos cubre las necesidades
+                                actuales y futuras del mercado de construcción.</p>
+                            <p> Soluciones decorativas e industriales de
+                                calidad, variedad y a precios competitivos que nuestros clientes saben apreciar y
+                                valorar.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="content">
 
 
-                                    <p>
-                                        Nuestra filosofía se fundamenta en <strong>7 pilares muy
-                                            sólidos</strong>:
-                                    </p>
+                        <h2 class="mt-3 mb-3">¿Qué te ofrecemos como fabricantes de hormigón impreso?</h2>
+                        <h3 class="mt-3 mb-3">Servicio técnico profesional</h3>
+                        <p>Escuchar las necesidades de nuestros clientes y solventar sus problemas es lo más
+                            importante para nosotros. Contamos con un servicio técnico experto para dar respuesta a
+                            cualquier duda que pueda surgir sobre los moldes, morteros y resinas de hormigón impreso
+                            que fabricamos, entre otros muchos productos de hormigón estampado. Disponible en varios
+                            idiomas. </p>
+                        <h3 class="mt-3 mb-3">Amplia oferta formativa</h3>
+                        <p>Formamos continuamente a profesionales del sector del hormigón impreso. Nuestros cursos
+                            certificados son impartidos por profesionales con amplia experiencia en pavimentos
+                            impresos y hormigón impreso vertical. </p>
+                        <h3 class="mt-3 mb-3">Apoyo a distribuidores</h3>
+                        <p>Topciment cobra sentido gracias a nuestros distribuidores. Ellos son los que hacen
+                            posible que los productos de hormigón impreso que fabricamos se comercialicen
+                            internacionalmente. Una vasta red, completamente consolidada, que crece a pasos
+                            agigantados y a la que tú también puedes adherirte.</p>
+                    </div>
+                </div>
+                <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/img/hormigon/suelo 3.png');" data-img-width="1450" data-img-height="950" data-diff="100" background-position="top">
+                </div>
+                <div class="container">
+                    <div class="content">
+                        <h2 class="mt-5 mb-5">Nuestros valores</h2>
+                        <div class="row">
+
+                            <div class="col-md-6">
+                                <div class="text-center mb-3">
+                                    <img src="https://www.topciment.com/imagenes/us/Pictogramas_I+D.png" class="img-fluid " alt="microcemento piscinas"><br>
+                                    <h2>I+D+I</h2>
                                 </div>
+                                <p>
+                                    La inversión en investigación, desarrollo e innovación es el motor principal de
+                                    Topciment. Nos ha llevado a consolidarnos como referentes en el mercado de los
+                                    revestimientos decorativos y a recibir el sello de PYME INNOVADORA por el
+                                    Ministerio de Ciencia e Innovación.
+                                </p>
                             </div>
-
-                            <div class="row mt-5">
-
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_Fabricacion.png" class="img-fluid "><br>
-                                        <h2>Fabricación</h2>
-                                    </div>
-
-                                    <p>
-                                        En Topciment fabricamos microcemento y todos los productos que comercializamos.
-                                        De esta
-                                        manera
-                                        nos aseguramos el control de su calidad en los procesos de elaboración.
-                                        Queremos
-                                        ofrecerte siempre lo mejor.
-                                    </p>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_catalogo_Distribucion.png" class="img-fluid "><br>
-                                        <h2>Distribución</h2>
-                                    </div>
-
-                                    <p>
-                                        Trabajamos con una red de distribuidores presentes en más de 58 países.
-                                        Si
-                                        tienes el propósito de ser distribuidor de microcemento Topciment,
-                                        contribuyendo
-                                        en nuestro proceso de mejora y expansión continua para aportar más valor
-                                        a
-                                        nuestra empresa, te estamos esperando.<br>
-                                    </p>
+                            <div class="col-md-6">
+                                <div class="text-center mb-3">
+                                    <img src="https://www.topciment.com/imagenes/us/Pictogramas_Medioambiente.png" class="img-fluid " alt="microcemento piscinas"><br>
+                                    <h2>Sostenibilidad</h2>
                                 </div>
 
+                                <p>
+                                    Reducir la huella ecológica es uno de los objetivos prioritarios a corto, medio
+                                    y largo plazo de nuestra empresa. Por ello, todos los productos de hormigón
+                                    impreso que fabricamos son lo más sostenibles posible.
+                                </p>
                             </div>
-                            <div class="row">
-
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_Formacion.png" class="img-fluid "><br>
-                                        <h2>Formación</h2>
-                                    </div>
-                                    <p>
-                                        Nos importa el resultado final en la aplicación de nuestros productos,
-                                        por eso,
-                                        creemos y apostamos por la formación continua de los distribuidores y
-                                        aplicadores. Ofrecemos cursos teórico-prácticos certificados a nivel
-                                        experto.
-                                    </p>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_Asesoramiento.png" class="img-fluid "><br>
-                                        <h2>Asesoramiento</h2>
-                                    </div>
-                                    <p>
-                                        Disponemos de personal cualificado en la aplicación de microcemento
-                                        capaz de
-                                        responder, de manera inmediata, a cualquier cuestión. Ponemos a
-                                        disposición de
-                                        nuestros distribuidores y aplicadores toda nuestra experiencia y
-                                        conocimiento
-                                        ante cualquier duda que les pueda surgir.
-                                    </p>
-
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="text-center mb-3">
+                                    <img src="https://www.topciment.com/imagenes/us/experiencia.png" class="img-fluid " alt="microcemento bicomponente"><br>
+                                    <h2>Experiencia</h2>
                                 </div>
 
+                                <p>
+                                    No todo el mundo puede presumir de llevar casi dos décadas en el sector de los
+                                    recubrimientos. Una exitosa trayectoria profesional, basada en la experiencia y
+                                    conocimiento del sector, que nos ha llevado a registrar Topciment en Estados
+                                    Unidos, China, Rusia y Europa.
+                                </p>
                             </div>
-                            <div class="row">
-
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_I+D.png" class="img-fluid "><br>
-                                        <h2>I+D</h2>
-                                    </div>
-                                    <p>
-                                        Nuestro motor principal se basa en el área de Investigación y
-                                        Desarrollo. Con
-                                        empeño y esfuerzo constante hemos logrado crear productos específicos
-                                        que se
-                                        adapten a necesidades del mercado. Estos productos aportan ventajas
-                                        diferenciales para los profesionales de la construcción, decoración y
-                                        cliente
-                                        final.
-                                    </p>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_Logistica.png" class="img-fluid "><br>
-                                        <h2>Logística</h2>
-                                    </div>
-
-                                    <p>
-                                        Nuestro objetivo es satisfacer la demanda en las mejores condiciones de
-                                        servicio, costo y calidad. Trabajamos con diferentes agencias lo que nos
-                                        garantiza que a nivel nacional (península), desde que un pedido se
-                                        confirma
-                                        hasta que se entrega, transcurre un plazo de 24 a 48 horas. Infórmese
-                                        sobre días
-                                        de carga internacional y plazos de entrega.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="text-center mb-3">
-                                        <img src="https://www.topciment.com/imagenes/us/Pictogramas_Medioambiente.png" class="img-fluid "><br>
-                                        <h2>Medioambiente</h2>
-                                    </div>
-                                    </h2>
-                                    <p>
-                                        Nos preocupa el medioambiente. Por eso, hemos adquirido un compromiso y
-                                        nuestros
-                                        productos se fabrican a partir de materiales naturales y materias primas
-                                        minerales para que sean respetuosos con el medio que nos rodea. Las
-                                        resinas y
-                                        barnices son de base agua, no usamos disolventes. y las materias primas
-                                        de
-                                        fabricación se obtienen de zonas de proximidad, para reducir al máximo
-                                        la huella
-                                        ecológica. El producto se elabora según las necesidades de la obra y los
-                                        bajos
-                                        residuos que se generan son fácilmente reciclables.
-                                    </p>
+                            <div class="col-md-6">
+                                <div class="text-center mb-3">
+                                    <img src="https://www.topciment.com/imagenes/us/garantia.png" class="img-fluid " alt="microcemento piscinas"><br>
+                                    <h2>Garantía</h2>
                                 </div>
 
-
+                                <p>
+                                    Todos los productos para pavimentos impresos y hormigón impreso vertical que
+                                    fabricamos cuentan con el marcado CE, una homologación a nivel europeo que
+                                    ratifica que las prestaciones de nuestros productos son las mejores posibles.
+                                </p>
                             </div>
 
                         </div>
+                        <h2 class="mt-3 mb-3">
+                            Contacto</h2>
+                        <p>
+                            Email: info@topciment.com
+                            Teléfono: +34 963 925 980<br>
+                        </p>
                     </div>
-                    <div id="separador50px">
-                    </div>
-                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/Topciment_Quienes_somos_fondo.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
-                    </div>
-                    <div id="separador50px">
-                    </div>
-                    <div class="container">
-                        <div class="content text-justify">
-                            <h2 class="mt-3 mb-3"><span style=" padding:5px;">Referente a la fabricación de morteros técnicos y
-                                    microcementos</span></h2>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <p>
-                                        En Topciment contamos con más de <strong>15 años de experiencia</strong>
-                                        en nuestro sector . Con
-                                        el objetivo de proporcionar a los clientes un <strong> producto de alta
-                                            calidad a precios
-                                            competitivos</strong>, lo acompañamos con <strong> asesoramiento y
-                                            atención personalizados desde el primer momento.</strong>
-                                    </p>
-                                    <p>
-                                        La calidad de nuestros productos es el resultado de un feedback continuo
-                                        entre
-                                        clientes, y nuestros técnicos encargados de desarrollar el producto en
-                                        fábrica.
-                                        Esta experiencia se traslada nuestros clientes profesionales mediante
-                                        formación
-                                        y asesoramiento técnico permanente por parte de nuestro equipo
-                                        comercial, altamente formado.
-                                    </p>
-
-                                </div>
-
-                            </div>
-                            <h2 class="mt-4 mb-4">
-                                Asesoramiento técnico y comercial<br>
-                            </h2>
-                            <div class="row ">
-                                <div class="col-md-12">
-
-                                    <p>
-                                        Topciment ofrece a sus clientes atención personalizada por parte de un
-                                        equipo de profesionales del microcemento, siempre preparados para
-                                        recomendar los productos necesarios para trabajar correctamente con el
-                                        revestimiento y para ofrecer soporte técnico.
-
-                                    </p>
-                                    <p>Tenemos un servicio de asesoramiento técnico y comercial con atención
-                                        telefónica y a través mensajería instantánea. No dudes en pedir consejos
-                                        y conocer todos los trucos.</p>
-                                </div>
-
-                            </div>
-                            <h2 class="mt-3 mb-3">
-                                Topciment - Sede central</h2>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <p>
-                                        Calle Rosas 33, - Manises 46940 - España<br>
-                                        Tel: +34 963 92 59 89<br>
-                                        Email: info@topciment.com
-                                    </p>
-                                    <p>
-                                        Somos conscientes de la falta de información sobre el microcemento. Las
-                                        ventajas
-                                        de este revestimientos continuos son muchas, y sus características son
-                                        para la
-                                        mayoría desconocidas.
-                                    </p>
-                                    <p>Es por esto que impartimos cursos básicos y avanzados una
-                                        vez al mes, en nuestras instalaciones en Valencia. Esta formación es de
-                                        pago y
-                                        completamente reembolsable con el siguiente pedido de producto,
-                                        contactarnos
-                                        para más información.</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <img src="https://www.topciment.com/imagenes/topciment-exposicion-colores-microcemento.jpg" style="min-height: 300px;" class="img-fluid" alt="Nuestro Showroom">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                </div>
             </div>
-
             <div id="separador50px">
             </div>
-            <img src="https://www.topciment.com/imagenes/nosotros_fondo.jpg" class="img-fluid" width="100%" style="margin-bottom:-50px;" alt="tienda topciment microcemento valencia">
+
         </div>
     </div>
 
-    <?php include "../includes/microcemento/footer.php"; ?>
+    <?php include "../includes/footer.php"; ?>
 
     <?php include "../includes/scripts.php"; ?>
     </div>

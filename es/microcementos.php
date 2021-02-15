@@ -11,7 +11,7 @@
 
 
   <link rel="canonical" href="https://www.topciment.com/microcementos.html" />
-  <?php include("../includes/styles.php"); ?>
+  <?php include("includes/root-styles.php"); ?>
   <!-- ********** END NEW LINKS ********** -->
 
   <title>¿Qué es el Microcemento? Usos, aplicaciones y ventajas</title>
@@ -42,12 +42,12 @@
   <link rel="alternate" href="https://www.topciment.cn/microcement-and-decorative-coating-products.html" hreflang="zh-CN" />
 
 
-  <?php include("../includes/scripts-head.php"); ?>
+  <?php include("includes/root-scripts-head.php"); ?>
 </head>
 
 <body id="microcemento">
 
-  <?php include("../includes/microcemento/header.php"); ?>
+  <?php include("includes/root-header.php"); ?>
 
   <div class="container">
     <div id="sidebar" class="menuOculto menuMicrocementos stick">
@@ -65,7 +65,7 @@
     </div>
 
   </div>
-  <?php include("../includes/microcemento/menu-movil.php"); ?>
+  <?php include("includes/root-menu-movil.php"); ?>
 
 
   <div id="main">
@@ -370,14 +370,15 @@
       </div>
 
     </section>
-
+    <div><img class="imgiz" src="https://www.topciment.com/imagenes/microcemento-imagen06.jpg" width="100%" alt="microcementos">
+    </div>
+    <div><img class="imgde" src="https://www.topciment.com/imagenes/microcemento-imagen05.jpg" width="100%" alt="microcementos">
+    </div>
+    
     <div class="separador mt-5"></div>
 
     <section id="preguntas-frecuentes">
-      <div style="width:49%; float:left; height:auto;"><img src="https://www.topciment.com/imagenes/microcemento-imagen06.jpg" width="100%" alt="microcementos">
-      </div>
-      <div style="width:49%; float:right; height:auto;"><img src="https://www.topciment.com/imagenes/microcemento-imagen05.jpg" width="100%" alt="microcementos">
-      </div>
+
       <div id="separador0px"></div>
       <a id="preguntas-frecuentes-ok" class="ancla"></a>
 
@@ -959,9 +960,9 @@
     <div style="float:none; clear:both; height:100px;"></div>
   </div>
 
-  <?php include '../includes/microcemento/footer.php'; ?>
+  <?php include 'includes/root-footer.php'; ?>
 
-  <?php include("../includes/scripts.php"); ?>
+  <?php include("includes/root-scripts.php"); ?>
   </div>
 
   <!-- include jQuery -->

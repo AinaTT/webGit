@@ -46,10 +46,10 @@
 
 <body id="proyecto">
 
-    <?php include("../includes/microcemento/header.php"); ?>
+    <?php include("../includes/header.php"); ?>
 
 
-    <?php include("../includes/microcemento/menu-movil.php"); ?>
+    <?php include("../includes/menu-movil.php"); ?>
 
 
     <div id="main">
@@ -116,7 +116,7 @@
         </div>
         <div id="separador50px">
         </div>
-        <?php include "../includes/microcemento/footer.php"; ?>
+        <?php include "../includes/footer.php"; ?>
 
         <?php include("../includes/scripts.php"); ?>
     </div>

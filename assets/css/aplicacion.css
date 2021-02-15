@@ -2,6 +2,33 @@
     font-weight: bold;
 }
 
+
+
+
+.pavimentos h3,
+.vertical h3 {
+    font-size: 18px !important;
+}
+
+.pavimentos h3 a{
+    color:black !important;
+}
+.vertical h3 a {
+   color: black !important
+}
+#aplicacion-hormigon h2{
+    margin-bottom: 15px;
+}
+.aplicar h3 {
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
+#accordionExample{
+    margin-top: 15px;
+}
+.imagen1{
+    width: 700px;
+}
 /* movilcss */
 @media screen and (max-width:480px) {}
 

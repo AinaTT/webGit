@@ -34,6 +34,7 @@ h2 {
 img {
     width: auto;
     height: auto;
+        max-width: 100%;
 }
 
 .ancla {
@@ -166,6 +167,7 @@ img {
 
 .menu2b ul li {
     margin-right: 11.9%;
+        line-height: 2;
 }
 
 .menu2b ul li:last-child {
@@ -178,7 +180,6 @@ img {
     margin-left: 30%;
 }
 
-.menu1b ul {}
 
 .menu2a ul {
     /* margin-left: 360px; */
@@ -199,9 +200,10 @@ img {
     top: 60px;
     position: fixed;
     padding-top: inherit !important;
+    max-height: 45px;
 }
 
-/* submenu */
+/* submenu idiomas */
 ul li ul {
     background: black;
     visibility: hidden;
@@ -226,27 +228,41 @@ ul li ul li {
     clear: both;
     width: 100%;
 }
-
+ 
 .submenu ul li {
-
+    font-weight: 400 !important;
     margin: 0px;
     padding: 0px 20px 0px 20px;
-    background-color: white;
+    background-color: black;
 
 }
-
+.menu2b .submenu ul{
+    margin-top: 12px;
+}
+.menu2b .submenu{
+    margin-right: 2.6% !important;
+}
 .submenu ul li a {
-    color: black !important;
+    color: white !important;
 }
 
 .submenu ul li a:hover {
-    color: #795548 !important;
+    color: #f4d2c4 !important;
 }
 
 .submenu ul li:nth-child(1) {
     padding-top: 10px;
 }
 
+.menu1b .submenu{
+    text-align: center !important;
+        padding: 0px;
+        margin-right: 0px;
+}
+.menu2b  ul li ul {
+   margin-left: 0px;
+
+}
 .idiomas {
     margin-right: 0px !important;
     padding-right: 0px !important;
@@ -294,7 +310,7 @@ ul li ul li {
 .menuOculto {
 
     position: fixed;
-    z-index: 9000;
+
 }
 
 .menuOculto li {
@@ -355,7 +371,9 @@ ul li ul li {
     text-decoration: none;
     background-color: transparent;
 }
-
+.linkB:hover{
+    color: white;
+}
 .ulF li {
     list-style: none;
     margin-bottom: 15px;
@@ -391,7 +409,17 @@ ul li ul li {
     font-size: 16px;
     padding-right: 0;
 }
+.imgiz {
+    width: 49%;
+    float: left;
+    height: auto;
+}
 
+.imgde {
+    width: 49%;
+    float: right;
+    height: auto;
+}
 .texto-micro {
     margin-top: 30%;
 }
@@ -541,10 +569,65 @@ div.ocultable {
     height: 20px;
 }
 
+/* Faqs */
+.collapsible-link::before {
+    content: '';
+    width: 14px;
+    height: 2px;
+    background: #333;
+    position: absolute;
+    top: calc(50% - 1px);
+    right: 1rem;
+    display: block;
+    transition: all 0.3s;
+}
+
+/* Vertical line */
+.collapsible-link::after {
+    content: '';
+    width: 2px;
+    height: 14px;
+    background: #333;
+    position: absolute;
+    top: calc(50% - 7px);
+    right: calc(1rem + 6px);
+    display: block;
+    transition: all 0.3s;
+}
+
+.collapsible-link[aria-expanded='true']::after {
+    transform: rotate(90deg) translateX(-1px);
+}
+
+.collapsible-link[aria-expanded='true']::before {
+    transform: rotate(180deg);
+}
+/* End faqs */
+
 /* movilcss */
 @media screen and (max-width:480px) {
+    .menu2b .submenu > li {
+  display: inline-block;
+  position: relative;
+      
+    }
+      .menu2b .submenu{
+          left: 0;
+          position: absolute;
+      }
+.collapsible-link::before{
+    top: calc(100% - 1px);
+        right: 0rem;
+}
+.collapsible-link::after {
+        top: calc(100% - 7px);
+            right: calc(0rem + 6px);
 
+}
 
+ .reves {
+     flex-direction: column-reverse;
+ }
     .fullscreen.background.parallax {
         height: 550px;
     }
@@ -631,6 +714,9 @@ div.ocultable {
 
 /* tabletcss */
 @media screen and (min-width:481px) and (max-width:767px) {
+     .reves {
+         flex-direction: column-reverse;
+     }
     .container {
         max-width: 99% !important;
     }
@@ -839,6 +925,9 @@ div.ocultable {
 /*Costum media */
 
 @media screen and (min-width:1201px) and (max-width:1373px) {
+    .menu2b .submenu {
+        margin-right: -3% !important;
+    }
     .content {
         width: 70%;
     }
@@ -856,7 +945,7 @@ div.ocultable {
     }
 
     .menu1b ul {
-        margin-right: 4.5%;
+        margin-right: 16.5%;
     }
 
     .logo2 {
@@ -873,7 +962,9 @@ div.ocultable {
         /*  margin-right: 5.8%; */
         margin-right: 13.2%;
     }
-
+.menu2b .submenu {
+    margin-right: 0% !important;
+}
     .menu2b ul li:last-child {
         margin-right: 0px;
     }
@@ -888,6 +979,6 @@ div.ocultable {
     }
 
     .menu1b ul {
-        margin-right: -4.2%;
+        margin-right: 6%;
     }
 }

@@ -15,14 +15,14 @@
     <link rel="preload" href="../../assets/css/cursos.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/cursos.css" />
 
-    <title>Formación Topciment | Cursos de aplicación de microcemento</title>
-    <meta name="description" content="Tu futuro profesional nos importa. En Topciment te formamos con varios cursos de aplicación de microcemento, barnices y pinturas metálicas." />
+    <title> Cursos hormigón impreso | Pavimentos impresos e impreso vertical</title>
+    <meta name="description" content="Conviértete en un especialista en hormigón impreso con nuestros cursos certificados. Aprende todo sobre los pavimentos impresos y hormigón impreso vertical." />
 
 
-    <meta property="og:title" content="Formación Topciment | Cursos de aplicación de microcemento">
+    <meta property="og:title" content=" Cursos hormigón impreso | Pavimentos impresos e impreso vertical">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/profesionales/cursos-aplicacion-microcemento.html">
-    <meta property="og:description" content="Tu futuro profesional nos importa. En Topciment te formamos con varios cursos de aplicación de microcemento, barnices y pinturas metálicas.">
+    <meta property="og:description" content="Conviértete en un especialista en hormigón impreso con nuestros cursos certificados. Aprende todo sobre los pavimentos impresos y hormigón impreso vertical.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
@@ -39,128 +39,73 @@
 
 <body id="cursos">
 
-    <?php include("../includes/microcemento/header.php"); ?>
+    <?php include("../includes/header.php"); ?>
+    <?php include("../includes/menu-movil.php"); ?>
 
-    <div class="container">
-        <div id="sidebar" class="menuOculto menuMicrocementos stick">
-            <ul>
-                <li><a href="#up">Formación <br> Microcemento</a></li>
-
-                <li><a href="#invertimos-en-tu-futuro">Invertimos en tu futuro</a></li>
-                <li><a href="#que-aprenderas">¿Qué aprenderas?</a></li>
-                <li><a href="#cursos">Cursos</a></li>
-                <li><a href="#modalidades">Modalidades</a></li>
-
-                <li> <a href="#maestros">Maestros aplicadores</a></li>
-                <li> <a href="#precio-duracion">Precio y duración</a></li>
-                <li> <a href="#donde-se-hacen">¿Dónde se hacen?</a></li>
-            </ul>
-        </div>
-
-    </div>
-    <?php include("../includes/microcemento/menu-movil.php"); ?>
-
+  
 
     <div id="main">
         <div class="container">
+            <div id="sidebar" class="menuOculto menuMicrocementos stick">
+                <ul>
+                    <li><a href="#up">Formación hormigón impreso</a></li>
+                    <li><a href="#que-aprenderas">¿Qué aprenderas?</a></li>
+                    <li><a href="#tipos">Curos de hormigón impreso</a></li>
+            </div>
             <div class="content">
-                <a id="invertimos-en-tu-futuro" class="ancla"></a>
+                <a id="up" class="ancla"></a>
 
-                <h1>Cursos de aplicación de microcemento</h1>
-                <h2>Invertimos en tu futuro</h2>
+                <h1>Cursos hormigón impreso</h1>
 
-                <p>Cooperación, escucha y compromiso son los valores que marcan el camino de Topciment
-                    para relacionarse con sus aplicadores homologados. La <strong>formación continua
-                    </strong> del
-                    profesional es la base para obtener el mejor resultado posible. </p>
+                <p> ¿Te gustaría especializarte en la aplicación del hormigón impreso? Has llegado al lugar indicado
+                    para <strong> potenciar tus habilidades profesionales. </strong> Ponemos a tu disposición nuestra experiencia en
+                    hormigón impreso para que obtengas la capacitación necesaria en la ejecución de suelos de hormigón
+                    impreso y hormigón impreso vertical .</p>
 
-                <p>Topciment proporciona a sus colaboradores una serie de <strong>cursos adaptados a
-                        diferentes
-                        niveles
-                        de especialización </strong> en los que se fomenta un intercambio enriquecedor
-                    de
-                    conocimientos y experiencias. Con el fin de garantizar el nivel esperado de
-                    aprendizaje, los cursos de formación se reservan únicamente a profesionales del
-                    sector de la construcción.</p>
+
                 <a id="que-aprenderas" class="ancla"></a>
+                <h2>¿Qué aprenderás en los cursos de hormigón impreso de Topciment?</h2>
 
-                <h2>¿Qué aprenderás?</h2>
-                <p>En los cursos de formación de Topciment, los maestros aplicadores te enseñarán las
-                    distintas técnicas que existen según el tipo de revestimiento decorativo y la
-                    superficie o soporte a recubrir. Te asesorarán sobre la <strong>preparación,
-                        aplicación, sellado y mantenimiento </strong> del microcemento y de otros
-                    acabados decorativos con consejos y trucos. </p>
+                <p>Profesionales del sector del hormigón impreso te enseñarán el proceso completo de la aplicación del
+                    hormigón impreso. Aprenderás cuáles son las <strong>técnicas y métodos de trabajo más adecuados </strong> para
+                    ejecutar por ti mismo con éxito todo tipo de pavimentos impresos y hormigón impreso vertical en
+                    paredes y fachadas.</p>
 
-                <p>Disponemos de una amplia variedad de cursos para que encuentres justo lo que estás
-                    buscando. Desde cursos de microcemento o barnices, hasta cursos de texturas o pinturas
-                    metálicas, entre otros. Descúbrelos todos. </p>
-
-
+                <p>Nuestros formadores experimentados te transmitirán sus conocimientos y consejos en nuestros cursos de
+                    hormigón impreso certificados. Te instruirás en los diferentes <strong> materiales y herramientas que son
+                        necesarios en la aplicación</strong> del hormigón estampado.</p>
+                <p>Aprenderás a manejar con solvencia el mortero de color o a proteger correctamente la superficie con
+                    la resina para hormigón impreso. No lo dudes más e inscribite en nuestros <strong> cursos de formación para
+                        profesionales.</strong></p>
             </div>
         </div>
-
-        <div class="fullscreen background parallax altoMovil fotocursos" style="background-image:url('https://www.topciment.com/imagenes/profesionales/cursos de aplicacion de microcemento.jpg'); " data-img-width="1920" data-img-height="1080" data-diff="100">
+        <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/img/hormigon/Aparcamiento 3.png');" data-img-width="997" data-img-height="666" data-diff="100" background-position="top">
         </div>
         <div class="container">
-
             <div class="content curs">
-                <a id="cursos" class="ancla"></a>
-                <h2>Tipos de cursos</h2>
-                <div class=" card mb-3  shadow  mb-5 bg-white rounded">
-                    <div class="row no-gutters">
-                        <div class="col-md-4 fondocurso1 ">
-                        </div>
-                        <div class="col-md-8 fondoscuro">
-                            <div class="card-body">
-                                <h3 class="card-title">Curso iniciación microcemento</h5>
-                                    <p class="card-text  ">Si buscas introducirte en la aplicación de
-                                        microcemento, este curso es el más adecuado. Aprenderás
-                                        conocimientos básicos del proceso de aplicación, desde imprimación
-                                        hasta sellador, y las diferentes herramientas.
-                                    </p>
+                <a id="tipos" class="ancla"></a>
+                <h2>Tipos de cursos de hormigón impreso </h2>
+                <p>Ofrecemos dos tipos de cursos de hormigón impreso: uno para pavimentos impresos, tanto exteriores
+                    como interiores; otro de hormigón impreso vertical para fachadas, paredes y muros.</p>
+                <p>Para garantizar un aprendizaje de calidad, todos nuestros cursos <strong>se ajustan al nivel de
+                        especialización de cada persona.</strong> Es por ello que contamos con cursos de hormigón impreso de
+                    iniciación y cursos de hormigón impreso más especializados.</p>
 
-                                    <p class="card-text"> Durará aproximadamente 8 horas (2 h teoría + 6 h
-                                        práctica) y será impartido por Jorge Coimbra, maestro aplicador
-                                        con más de 15 años de experiencia aplicando microcemento.</p>
-
-                                    <p class="card-text">El programa de este curso de microcemento se
-                                        centrará principalmente
-                                        en "Sttandard", la línea de microcemento bicomponente tradicional
-                                        de Topciment. Pero también se presentarán el resto de gamas para
-                                        que los alumnos puedan probar otros productos como "Evoluttion",
-                                        microcemento monocomponente; "Efectto", microcemento listo al uso;
-                                        y "Unlimitted", el microcemento bicomponente que mejora la
-                                        trabajabilidad. </p>
-                                    <p class="card-text">
-
-                                    <div class="home_link mt-4">
-                                        <a href="https://training.topciment.com/#/customer/topciment">RESERVA
-                                            TU PLAZA</a>
-                                    </div>
-                                    </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="card mb-3 mt-5 shadow  mb-5 bg-white rounded">
                     <div class="row no-gutters">
-                        <div class="col-md-4 fondocurso2" "> 
+                        <div class="col-md-4 fondocursoh2" "> 
                                              
                                           </div>
                                           <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Curso técnicas de aplicación de microcemento
-                                    avanzadas
+                                <h3 class="card-title">Cursos pavimentos impresos
                                 </h3>
-                                <p class="card-text  ">Pensado para el aplicador experto que busca
-                                    mejorar la productividad en la aplicación de microcemento al mismo
-                                    tiempo que reducir lo máximo posible los costes. </p>
+                                <p class="card-text  ">Aprenderás a implantar suelos de hormigón impreso en casi todas
+                                    las superficies exteriores e interiores. Después de formarte con nosotros serás
+                                    capaz de crear dibujos y texturas únicas en espacios como terrazas, parques, plazas,
+                                    jardines, aceras, calzadas, restaurantes, centros comerciales, aparcamientos o
+                                    entradas a zonas residenciales.</p>
 
-                                <p class="card-text">De la mano del instructor César Orellana,
-                                    aprenderás a revestir más metros de superficie en un periodo
-                                    menor. El curso de técnicas de aplicación de microcemento
-                                    avanzadas durará aproximadamente 8 horas (1 h teoría + 7 h
-                                    práctica). </p>
                                 <p class="card-text">
 
                                 <div class="home_link mt-4">
@@ -175,27 +120,25 @@
                 </div>
                 <div class="card mb-3 mt-5 shadow  mb-5 bg-white rounded">
                     <div class="row no-gutters">
-                        <div class="col-md-4 fondocurso10" "> 
+                        <div class="col-md-4 fondocursoh3" "> 
                                              
                                           </div>
                                           <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Curso avanzado texturas
+                                <h3 class="card-title">Curso hormigón impreso vertical
                                 </h3>
-                                <p class="card-text  ">Orientado al aplicador que ya cuenta con
-                                    experiencia en el sector pero quiere profundizar en los métodos
-                                    para conseguir
-                                    diferentes texturas con nuestros recubrimientos. </p>
+                                <p class="card-text  ">El hormigón impreso vertical dejará de ser un gran desconocido
+                                    para ti con este curso certificado. Te enseñaremos la aplicación, paso por paso, del
+                                    hormigón estampado en superficies verticales interiores y exteriores como paredes,
+                                    muros y fachadas. </p>
 
-                                <p class="card-text">En el curso, que se prolongará aproximadamente 8
-                                    horas (1 h teoría + 7 h práctica), el formador Jorge Coimbra te
-                                    mostrará cómo jugar con las granulometrías en función de la
-                                    superficie a cubrir y el acabado que se quiera obtener. </p>
+                                <p class="card-text">Una técnica decorativa en auge tanto en viviendas particulares como
+                                    en edificios de gran valor patrimonial como museos. Reserva plaza y descubrirás por
+                                    qué. </p>
                                 <p class="card-text">
 
                                 <div class="home_link mt-4">
-                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA
-                                        TU PLAZA</a>
+                                    <a href="https://training.topciment.com/#/customer/topciment">APUNTARSE</a>
                                 </div>
                                 </p>
                             </div>
@@ -203,6 +146,8 @@
 
                     </div>
                 </div>
+
+                <!--
                 <div class=" card mb-3 mt-5 shadow mb-5 bg-white rounded">
                     <div class="row no-gutters">
                         <div class="col-md-4 fondocurso3" "> 
@@ -450,7 +395,8 @@
                                     <h3 class="card-title">
                                         Videotutoriales</h3>
                                     <p class="card-text">Contamos con videotutoriales para aquellas personas que
-                                        estén interesadas en prender cosas muy concretas de la aplicación de microcemento.
+                                        estén interesadas en prender cosas muy concretas de la aplicación de
+                                        microcemento.
                                     </p>
                                     <p class="card-text">
                                         Además, quienes realicen un curso presencial tendrán acceso ilimitado a nuestra
@@ -498,7 +444,7 @@
 
 
                 <div class="row text-center">
-                    <!-- Team item-->
+                
                     <div class="col-md-4">
                         <div class="aplicador bg-white rounded shadow-sm py-2 px-3 "><img loading="lazy" src="https://www.topciment.com/imagenes/cursos/Cédric Vichard. FullMetal.jpg" alt="" width="140" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                             <h5 class="mb-0">Cédric Vichard</h5>
@@ -515,9 +461,9 @@
 
                         </div>
                     </div>
-                    <!-- End-->
+                     
 
-                    <!-- Team item-->
+                
                     <div class="col-md-4">
                         <div class="aplicador bg-white rounded shadow-sm py-2 px-3"><img src="https://www.topciment.com/imagenes/cursos/joge.jpg" alt="" width="140" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                             <h5 class="mb-0">Jorge Coimbra</h5>
@@ -527,9 +473,9 @@
 
                         </div>
                     </div>
-                    <!-- End-->
+                     
 
-                    <!-- Team item-->
+                
                     <div class="col-md-4">
                         <div class="aplicador bg-white rounded shadow-sm py-3 px-3"><img src="https://www.topciment.com/imagenes/cursos/Cesar.jpg" alt="" width="140" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                             <h5 class="mb-0">César Orellana</h5>
@@ -546,7 +492,7 @@
 
                         </div>
                     </div>
-                    <!-- End-->
+                     
                 </div>
 
                 <a id="precio-duracion" class="ancla"></a>
@@ -606,7 +552,7 @@
 
 
                 </div>
-
+ -->
 
             </div>
         </div>
@@ -620,7 +566,8 @@
     </div>
 
 
-    <?php include "../includes/microcemento/footer.php"; ?>
+    <?php include "../includes/footer.php"; ?>
+    <?php include "../includes/scripts.php"; ?>
     </div>
     </div>
     </div>

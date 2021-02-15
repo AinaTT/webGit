@@ -1,31 +1,16 @@
 <div id="header" class="corto">
     <div class="menuBar" style="position:fixed; transform: translate3d(0px, 0px, 1px);">
         <div class="menuBarContent menu1a">
-            <a href="index.html">
+            <a href="index.php">
                 <img class="imgLogo logo2" src="https://www.topciment.com/imagenes/logos/logoBlanco2.png" alt="Topciment" style="max-width: 60px; max-height: 60px;">
             </a>
             <div class="menu botones menu1b">
                 <ul>
 
-                    <li class="submenu "><a href="microcementos/microcementos.php">Microcemento</a>
-                        <ul>
-                            <li><a href="microcementos/productos.php">Productos</a></li>
-                            <li><a href="profesionales.php">Profesionales</a></li>
-                            <li><a href="microcementos/cursos-aplicacion-microcemento.php">Cursos</a></li>
-                            <li><a href="microcementos/galeria.php">Galeria</a></li>
-                            <li><a href="noticias.php">Noticias</a></li>
-
-                        </ul>
+                    <li><a href="microcementos/microcementos.php">Microcemento</a>
                     </li>
-                    <li class="submenu"><a href="hormigon-impreso/hormigon-impreso.php">Hormigón impreso</a>
-                        <ul>
-                            <li><a href="hormigon-impreso/productos.php">Productos</a></li>
-                            <li><a href="profesionales.php">Profesionales</a></li>
-                            <li><a href="hormigon-impreso/cursos-aplicacion-hormigon.php">Cursos</a></li>
-                            <li><a href="hormigon-impreso/galeria.php">Galeria</a></li>
-                            <li><a href="noticias.php">Noticias</a></li>
+                    <li><a href="hormigon-impreso/hormigon-impreso.php">Hormigón impreso</a>
 
-                        </ul>
                     </li>
                     <!--    <li><a href="epoxi.php">Epoxi</a></li> -->
                     <li class="submenu idiomas"><a href="#"><img src="https://www.topciment.com/imagenes/flags/spain.png" alt="Topciment Spanish Web" Title="Topciment Spanish Web"></a>
@@ -46,12 +31,28 @@
         <div class="menuBarContent menu2a">
             <div class="menu botones menu2b shadow  lg">
                 <ul>
-                    <li><a href="profesionales.php">Profesionales</a></li>
-                    <li><a href="fichas-tecnicas.php">Fichas técnicas</a></li>
-                    <li><a href="garantia.php">Garantía</a></li>
-                    <li><a href="noticias.php">Noticias</a></li>
-                    <li><a href="contacto.php">Contacto</a></li>
 
+                    <li class="submenu "><a href="#">Productos</a>
+                        <ul>
+                            <li><a href="microcementos/productos.php">Microcemento</a></li>
+                            <li><a href="hormigon-impreso/productos.php">Hormigón impreso</a></li>
+
+                        </ul>
+                    </li>
+                    <li><a href="profesionales.php">Profesionales</a></li>
+                    <li class="submenu "><a href="#">Cursos</a>
+                        <ul>
+                            <li><a href="microcementos/cursos-aplicacion-microcemento.php">Microcemento</a></li>
+                            <li><a href="hormigon-impreso/cursos-aplicacion-hormigon-impreso.php">Hormigón impreso</a></li>
+                        </ul>
+                    </li>
+                    <li class="submenu "><a href="#">Galería</a>
+                        <ul>
+                            <li><a href="microcementos/galeria.php">Microcemento</a></li>
+                            <li><a href="hormigon-impreso/galeria.php">Hormigón impreso</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="noticias.php">Noticias</a></li>
 
                 </ul>
             </div>

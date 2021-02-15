@@ -39,7 +39,7 @@
 
 <body id="cursos">
 
-    <?php include("../includes/microcemento/header.php"); ?>
+    <?php include("../includes/header.php"); ?>
 
     <div class="container">
         <div id="sidebar" class="menuOculto menuMicrocementos stick">
@@ -58,7 +58,7 @@
         </div>
 
     </div>
-    <?php include("../includes/microcemento/menu-movil.php"); ?>
+    <?php include("../includes/menu-movil.php"); ?>
 
 
     <div id="main">
@@ -620,7 +620,7 @@
     </div>
 
 
-    <?php include "../includes/microcemento/footer.php"; ?>
+    <?php include "../includes/footer.php"; ?>
     </div>
     </div>
     </div>

@@ -7,7 +7,7 @@ figcaption {
     width: 100%;
     height: 300px;
     object-fit: cover;
-    object-position: ;
+
 }
 
 h1 {
@@ -19,6 +19,7 @@ h2 {
     text-align: center;
 }
 
+
 .ventajas {
     background-color: #f4eeee;
     padding-bottom: 20px;
@@ -29,18 +30,287 @@ h2 {
     margin-bottom: 20px;
 }
 
+.bg-cover {
+    min-height: 70vh;
+    background-size: cover !important;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.moldes {
+    margin-top: 30px;
+}
+
+/* Imagenes colores */
+.containerSttand {
+    position: relative;
+    margin: 0 auto;
+}
+
+.four-columns {
+    width: 24% !important;
+    height: 23%;
+    display: inline-block;
+}
+
+/* end Imagenes colores */
+
+.header-foto {
+    background-image: url('https://www.topciment.com/img/hormigon/imagen 1.jpg');
+    color: white;
+    background-size: cover;
+
+}
+
+.jumbotron {
+    background: rgb(0 0 0 / 55%);
+    font-size: 20px;
+    font-style: italic;
+}
+
+/* Espacios */
+.hover {
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 60%;
+    min-height: 400px
+}
+
+
+
+.aplicacion {
+    background-color: #e6e9ea;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.boton {
+    background-color: white;
+    color: black;
+    border: none;
+    margin-top: 15px;
+}
+
+.boton:hover {
+    background-color: white !important;
+    color: black !important;
+    border: none;
+}
+
+/* .titulo-espacios {
+    padding: 20px;
+    background-color: #e6e9ea;
+} */
+.titulo-espacios {
+    padding: 20px;
+    background-color: #a39999;
+    color: white;
+    padding-left: 0%;
+    /* width: 60%; */
+    /* text-align: center; */
+    margin-left: 22%;
+    margin-right: 22%;
+}
+
+
+
+
+
+.aplicacion h2 {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.aplicacion ol li {
+    margin-bottom: 25px;
+}
+
+.aplicacion ol {
+    padding-left: 15px;
+}
+
+.hover-overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    transition: all 0.4s;
+}
+
+.hover img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.3s;
+}
+
+.hover-content {
+    position: relative;
+    z-index: 0;
+}
+
+.hover-3::after {
+    content: '';
+    width: calc(100% - 3rem);
+    height: calc(100% - 3rem);
+    border: 1px solid #fff;
+    position: absolute;
+    top: 1.5rem;
+    left: 1.5rem;
+    z-index: 0;
+    transition: all 0.3s;
+    transform: scale(1.1);
+    opacity: 0;
+    display: block;
+    opacity: 0;
+}
+
+.hover-3-content {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    text-align: center;
+    z-index: 0;
+
+}
+
+.hover-3-description {
+    opacity: 0;
+    transform: scale(1.3);
+    transition: all 0.3s;
+}
+
+.hover-3 img {
+    width: 110%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hover-3 .hover-overlay {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.hover-3:hover img {
+    width: 100%;
+}
+
+.hover-3:hover::after {
+    opacity: 1;
+    transform: none;
+}
+
+.hover-3:hover .hover-3-description {
+    opacity: 1;
+    transform: none;
+}
+
+.hover-3:hover .hover-overlay {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.estancia-piscina {
+    background-image: url('https://www.topciment.com/img/hormigon/piscina 7.png');
+    background-size: cover;
+}
+
+.estancia-pared {
+    background-image: url('https://www.topciment.com/img/hormigon/Interior%201.png');
+    background-size: cover;
+}
+
+.estancia-suelo {
+    background-image: url('https://www.topciment.com/img/hormigon/Patio%2010.png');
+    background-size: cover;
+}
+
+/* End espacios */
+
+
 /* movilcss */
-@media screen and (max-width:480px) {}
+@media screen and (max-width:480px) {
+    #main {
+        margin-top: 50px;
+    }
+
+    .molde {
+        margin-bottom: 15px;
+    }
+
+.leermass{
+        margin-bottom: 20px !important;
+}
+.col-md-6{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+
+}
+ .col-md-4 {
+     padding-right: 0px !important;
+     padding-left: 0px !important;
+
+ }
+}
 
 /* tabletcss */
-@media screen and (min-width:481px) and (max-width:767px) {}
+@media screen and (min-width:481px) and (max-width:767px) {
+    #main {
+        margin-top: 50px;
+    }
+
+    .molde {
+        margin-bottom: 15px;
+    }
+   
+.leermass {
+    margin-bottom: 20px !important;
+}
+
+}
+
 
 /* laptopcss */
-@media screen and (min-width:768px) and (max-width:1024px) {}
+@media screen and (min-width:768px) and (max-width:1024px) {
+     #main {
+         margin-top: 50px;
+     }
+
+    .textohorm {
+        padding-top: 40px;
+    }
+    .hover{
+        min-height: 500px;
+    }
+}
 
 /* desktopcss */
-@media screen and (min-width:1025px) and (max-width:1200px) {}
+@media screen and (min-width:1025px) and (max-width:1200px) {
+    .textohorm {
+        padding-top: 40px;
+    }
+}
 
 
 /*  largecss */
-@media screen and (min-width:1201px) {}
+@media screen and (min-width:1201px) {
+    /*   .textohorm {
+        padding-top: 40px;
+    } */
+
+    #main {
+        margin-top: 105px;
+    }
+
+    .hover {
+        min-height: 600px;
+    }
+
+}

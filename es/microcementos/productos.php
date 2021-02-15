@@ -50,10 +50,10 @@
 
 <body id="productos">
 
-    <?php include("../includes/microcemento/header.php"); ?>
+    <?php include("../includes/header.php"); ?>
 
 
-    <?php include("../includes/microcemento/menu-movil.php"); ?>
+    <?php include("../includes/menu-movil.php"); ?>
 
 
     <div id="main">
@@ -617,7 +617,7 @@
         <div id="top" class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/sistemas/sttandard_fondo_08.jpg'); " data-img-width="1500" data-img-height="945" data-diff="100">
         </div>
 
-        <?php include "../includes/microcemento/footer.php"; ?>
+        <?php include "../includes/footer.php"; ?>
 
         <?php include("../includes/scripts.php"); ?>
     </div>

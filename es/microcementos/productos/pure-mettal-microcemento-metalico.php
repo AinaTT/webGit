@@ -40,9 +40,9 @@
 
 <body id="familia">
 
-    <?php include("../../includes/microcemento/sub-header.php"); ?>
+    <?php include("../../includes/sub-header.php"); ?>
 
-    <?php include("../../includes/microcemento/sub-menu-movil.php"); ?>
+    <?php include("../../includes/sub-menu-movil.php"); ?>
 
 
     <div id="main">
@@ -455,7 +455,7 @@
         </section>
         <div id="separador50px">
         </div>
-        <?php include("../../includes/microcemento/sub-footer.php"); ?>
+        <?php include("../../includes/sub-footer.php"); ?>
         <?php include("../../includes/sub-scripts.php"); ?>
 
         <script defer src="../../../assets/plugins/twentytwenty/js/jquery.event.move.js"></script>
