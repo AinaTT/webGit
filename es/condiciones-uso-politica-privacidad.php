@@ -3,45 +3,40 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#000"/>
+    <meta name="viewport" content="width=device-width"/>
 
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
+    <meta name="Language" content="ES"/>
 
 
-    <?php include("includes/root-styles.php"); ?>
+    <?php include("../assets/includes/root-styles.php"); ?>
 
     <title>Aviso Legal y Política de privacidad</title>
-    <meta name="description" content="Lea atentamente la siguiente información cuando acceda a topciment.com" />
+    <meta name="description" content="Lea atentamente la siguiente información cuando acceda a topciment.com"/>
 
-    <meta property="og:locale" content="es_ES" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Aviso Legal y Política de privacidad" />
-    <meta property="og:description" content="Lea atentamente la siguiente información cuando acceda a topciment.com" />
-    <meta property="og:url" content="https://www.topciment.com/es/condiciones-uso-politica-privacidad.html" />
-    <meta property="og:site_name" content="Topciment" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Lea atentamente la siguiente información cuando acceda a topciment.com" />
-    <meta name="twitter:title" content="Aviso Legal y Política de privacidad" />
-    <meta name="twitter:site" content="@topciment" />
-    <meta name="twitter:creator" content="@topciment" />
-    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
+    <meta property="og:locale" content="es_ES"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Aviso Legal y Política de privacidad"/>
+    <meta property="og:description" content="Lea atentamente la siguiente información cuando acceda a topciment.com"/>
+    <meta property="og:url" content="https://www.topciment.com/es/condiciones-uso-politica-privacidad"/>
+    <meta property="og:site_name" content="Topciment"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:description" content="Lea atentamente la siguiente información cuando acceda a topciment.com"/>
+    <meta name="twitter:title" content="Aviso Legal y Política de privacidad"/>
+    <meta name="twitter:site" content="@topciment"/>
+    <meta name="twitter:creator" content="@topciment"/>
+    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-    <link rel="canonical" href="https://www.topciment.com/profesionales.html" />
+    <link rel="canonical" href="https://www.topciment.com/es/condiciones-uso-politica-privacidad"/>
 
-    <link rel="alternate" href="https://www.topciment.com/profesionales.html" hreflang="es-ES" />
-    <link rel="alternate" href="https://www.topciment.com/en/professionals.html" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/professionnels.html" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/de/die-ecke-vom-fachmann.html" hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/professionisti.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-professionals.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/professionali.html" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/polished-plaster-professionals.html" hreflang="zh-CN" />
+     <link rel="alternate" href="https://www.topciment.com/es/condiciones-uso-politica-privacidad" hreflang="es-ES"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/termes-conditions-et-declaration-de-confidentialite" hreflang="fr-FR"/>
+    <link rel="alternate" href="https://topciment.com/en/terms-conditions-and-privacy-statement" hreflang="en-GB"/>
+    <link rel="alternate" href="https://topciment.com/pl/warunki-wykorzystuja-prywatnosc-polityczna" hreflang="pl-PL" />
 
-    <?php include("includes/root-scripts-head.php"); ?>
+    <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>
 
 <body id="profesionales">
@@ -501,7 +496,7 @@
 
         <?php include "includes/root-footer.php"; ?>
 
-        <?php include "includes/root-scripts.php"; ?>
+        <?php include "../assets/includes/root-scripts.php"; ?>
     </div>
 
     <!-- include jQuery -->

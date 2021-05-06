@@ -1,8 +1,0 @@
-[SHORTPIXEL]
-lossy=1
-keep_exif=0
-cmyk2rgb=1
-resize=0
-convertto="+webp"
-backup_path="../backup-img"
-exclude=""

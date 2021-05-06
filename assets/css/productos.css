@@ -1,26 +1,31 @@
 @font-face {
     font-family: "Roboto-Bold";
     src: url("../fonts/Roboto-Bold.ttf");
+     font-display: swap;
 }
 
 @font-face {
     font-family: "top";
     src: url("../fonts/top.otf");
+     font-display: swap;
 }
 
 @font-face {
     font-family: "sealer";
     src: url("../fonts/sealer.otf");
+ font-display: swap;
 }
 
 @font-face {
     font-family: "toptools";
     src: url("../fonts/toptools.otf");
+     font-display: swap;
 }
 
 @font-face {
     font-family: "Klavika-Bold";
     src: url("../fonts/Klavika-Bold-2.otf");
+     font-display: swap;
 }
 
 #productos {
@@ -45,8 +50,15 @@
 .en2s {
     float: none;
     text-align: right;
-    font-size: 40px;
+    font-size: 50px !important;
     margin-bottom: 20px;
+
+}
+.en3s {
+   float: none;
+   text-align: right;
+   font-size: 40px;
+   margin-bottom: 20px;
 
 }
 
@@ -118,9 +130,22 @@
 @media screen and (max-width:480px) {
 
 
-    .en2s {
+    .en2s, .en3s {
         float: none;
     }
+     .en2s {
+         font-size: 45px !important;
+         font-weight: 300;
+         margin-top: 30px;
+
+     }
+
+     .en3s {
+         font-size: 35px !important;
+         font-weight: 300;
+         margin-top: 30px;
+
+     }
 }
 
 /* tabletcss */
@@ -155,13 +180,18 @@
 /*  largecss */
 @media screen and (min-width:1201px) {
     .en2s {
-        font-size: 65px;
+        font-size: 55px !important;
         font-weight: 300;
-        margin-bottom: 100px;
         margin-top: 30px;
 
     }
+  .en3s {
+      font-size: 45px !important;
+      font-weight: 300;
+      margin-bottom: 100px;
+      margin-top: 30px;
 
+  }
     .vermas2,
     .vermas {
         float: right;

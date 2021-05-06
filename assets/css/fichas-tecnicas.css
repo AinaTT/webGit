@@ -5,7 +5,12 @@
 .menu2b ul li:nth-child(2) {
     font-weight: bold;
 }
-
+#btnMore {
+    display: none !important;
+}
+.phoneMoreButton{
+    display: none !important;
+}
 /* movilcss */
 @media screen and (max-width:480px) {}
 

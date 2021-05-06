@@ -1,0 +1,859 @@
+
+ /* Reset CSS
+		 * --------------------------------------- */
+
+
+ body,
+ div,
+ dl,
+ dt,
+ dd,
+ ul,
+ ol,
+ li,
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ pre,
+ form,
+ fieldset,
+ input,
+ textarea,
+ p,
+ blockquote,
+ th,
+ td {
+     padding: 0;
+     margin: 0;
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ table {
+     border-spacing: 0;
+ }
+
+ fieldset,
+ img {
+     border: 0;
+ }
+
+ address,
+ caption,
+ cite,
+ code,
+ dfn,
+ em,
+ strong,
+ th,
+ var {
+     font-weight: normal;
+     font-style: normal;
+ }
+
+ strong {
+     font-weight: bold;
+ }
+
+ ol,
+ ul {
+     list-style: none;
+     margin: 0;
+     padding: 0;
+ }
+
+ caption,
+ th {
+     text-align: left;
+
+ }
+
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+     font-weight: normal;
+     font-size: 100%;
+     margin: 0;
+     padding: 0;
+
+ }
+
+ q:before,
+ q:after {
+     content: '';
+ }
+
+ abbr,
+ acronym {
+     border: 0;
+ }
+
+ .section {
+     height: 100% !important;
+ }
+
+
+
+ /* Defining each section background and styles
+	* --------------------------------------- */
+ #unlimittedi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Unlimitted_imagen-de-portada-1920x1080.jpg);
+     background-size: cover;
+ }
+
+ #atlanttici {
+     background-image: url(https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg);
+     background-size: cover;
+ }
+
+ #sttandardi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg);
+     background-size: cover;
+
+
+ }
+
+ #evoluttioni {
+     background-image: url(https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jpg);
+     background-size: cover;
+ }
+
+ #efecttoi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Efectto_Fondo_Home.jpg);
+     background-size: cover;
+ }
+
+ #pure-mettali {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Pure_Mettal_Home_Oscura.jpg);
+     background-size: cover;
+     /*  background-position-y: -100px; */
+ }
+
+ #classic-mettali {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Classic_Mettal_Fondo_Home.jpg);
+     background-size: cover;
+ }
+
+ #elittei {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Elitte_Gold_Fondo.jpg);
+     background-size: cover;
+ }
+
+ #section0 {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/sistemas_fondo_01.jpg);
+     background-size: cover;
+ }
+
+ #section1 {
+     background-image: url(https://www.topciment.com/imagenes/colores-topciment.jpg);
+     background-size: cover;
+ }
+
+
+ #galeriai {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Galeria_Proyectos_Aplicaciones_Gris.jpg);
+     background-size: cover;
+ }
+
+ #section4 {
+     background-image: url(https://www.topciment.com/imagenes/imagen-top-ciment-5.jpg);
+     background-size: cover;
+ }
+
+ #profesionalesi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Apoyando_Profesionales.jpg);
+     background-size: cover;
+ }
+
+ #section6 {
+     background-image: url(https://www.topciment.com/imagenes/topciment-microcemento-distribuidores.jpg);
+     background-size: cover;
+ }
+
+ #section7 {
+     background-image: url(https://www.topciment.com/imagenes/imagen-top-ciment-1.jpg);
+     background-size: cover;
+ }
+
+ #noticiasi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Noticias_Home.jpg);
+     /*background-size:cover;*/
+     background-size: cover;
+
+ }
+
+ @media screen and (max-width:767px) {
+     #noticiasi {
+         background-size: cover;
+     }
+ }
+
+ #contactoi {
+     background-image: url(https://www.topciment.com/imagenes/sistemas/Topciment_Contacta_Home.jpg);
+     background-size: cover;
+     height: fit-content !important;
+ }
+
+ #footerFi {
+     background-color: black;
+ }
+
+ .myContent {
+     height: 300px;
+ }
+
+ tr,
+ td {
+     padding: 1px;
+ }
+.logoIni {
+      top: 84%;
+      position: absolute;
+      left: 2%;
+  }
+
+  input {
+      display: none;
+  }
+
+
+
+  .button {
+      color: white;
+      font-weight: bold;
+      font-size: 20px;
+      background-color: black;
+      display: block;
+      padding: 10px 16px;
+      border-radius: 100%;
+      cursor: pointer;
+      animation: fadein .5s;
+      animation: pulse 1.5s infinite;
+  }
+.enHome2{
+       
+        font-size: 26px !important;
+        margin-bottom: 15px;
+}
+
+  @media screen and (max-width: 767px) {
+
+
+      .content {
+          width: 100% !important;
+          margin-left: inherit !important;
+          margin-top: 42% !important;
+      }
+  }
+
+  .content {
+      background: white;
+      padding: 1rem 1rem 2rem 1rem;
+      text-align: center;
+      display: none;
+      width: 40%;
+      margin-left: 30%;
+      margin-top: 15%;
+      border-radius: 8px;
+      box-shadow: 0 4px 2px -2px rgba(211, 47, 47, 0);
+  }
+
+  .cross {
+      font-weight: bold;
+      cursor: pointer;
+      float: right;
+  }
+
+  #b1 {
+      position: absolute;
+      left: 64%;
+      top: 26%;
+  }
+
+  #b2 {
+      position: absolute;
+      left: 51%;
+      top: 52%;
+  }
+
+  #b3 {
+      position: absolute;
+      left: 80%;
+      top: 80%;
+  }
+
+  #input1:checked~#content1,
+  #input2:checked~#content2,
+  #input3:checked~#content3 {
+      display: block !important;
+      animation: fadein 2s;
+  }
+
+  input:checked~label .button {
+      display: none !important;
+      animation: fadeout .5s;
+  }
+
+  .button:hover {
+      color: black;
+      background: white;
+  }
+
+  .cta {
+      display: inline-block;
+      background: black;
+      color: white;
+      padding: 12px 24px;
+      margin-top: 48px;
+      border-radius: 24px;
+      text-decoration: none;
+      transition: all .3s ease;
+  }
+
+  .cta:hover {
+      text-decoration: underline !important;
+      box-shadow: 0 0 0 6px rgba(27, 27, 27, 0.4);
+  }
+
+  @keyframes fadein {
+      from {
+          opacity: 0;
+      }
+
+      to {
+          opacity: 1;
+      }
+  }
+
+  @keyframes fadeout {
+      from {
+          opacity: 0;
+      }
+
+      to {
+          opacity: 1;
+      }
+  }
+
+  @keyframes pulse {
+      from {
+          box-shadow: 0 0 0 0px rgb(0, 0, 0);
+      }
+
+      to {
+          box-shadow: 0 0 0 15px rgba(0, 0, 0, 0);
+      }
+  }
+
+
+  /* movilcss */
+   @media screen and (max-width:480px) {}
+  
+   /* tabletcss */
+   @media screen and (min-width:481px) and (max-width:767px) {}
+  
+   /* laptopcss */
+   @media screen and (min-width:768px) and (max-width:1024px) {}
+  
+   /* desktopcss */
+   @media screen and (min-width:1025px) and (max-width:1200px) {}
+  
+  
+   /*  largecss */
+   @media screen and (min-width:1201px) {
+       .background {
+           background-repeat: no-repeat;
+           background-position: 50% 50%;
+           background-position: 50% 50%\9 !important;
+       }
+
+       .fullscreen,
+       .content-a {
+           width: 100%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+       .content-a {
+           display: table;
+           font-size: 26px;
+       }
+
+       .contenedorTexto {
+           width: 1200px;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+
+       .fullscreen.background.parallax {
+           height: 800px;
+       }
+
+       .fullscreen.background.parallax {
+           height: 1000px;
+       }
+   }
+
+   /*! CSS Used from: https://www.topciment.com/css/estilo.css */
+   .row {
+       width: 100% !important;
+       padding-right: 0px !important;
+       padding-left: 0px !important;
+       margin-right: auto !important;
+       margin-left: auto !important;
+   }
+
+   @media screen and (min-width:1200px) {
+       .background {
+           background-repeat: no-repeat;
+           background-position: 50% 50%;
+           background-position: 50% 50%\9 !important;
+       }
+
+       .fullscreen,
+       .content-a {
+           width: 100%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+       .content-a {
+           display: table;
+           font-size: 26px;
+       }
+
+       .contenedorTexto {
+           width: 1200px;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+
+       .fullscreen.background.parallax {
+           height: 800px;
+       }
+
+       .fullscreen.background.parallax {
+           height: 1000px;
+       }
+   }
+
+   @media screen and (min-width:768px) and (max-width:1199px) {
+       .background {
+           background-repeat: no-repeat;
+           background-position: 50% 50%;
+           background-position: 50% 50%\9 !important;
+       }
+
+
+       .fullscreen,
+       .content-a {
+           width: 100%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+       .content-a {
+           display: table;
+           font-size: 20px;
+       }
+
+       .contenedorTexto {
+           width: 100%;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+
+       .fullscreen.background.parallax {
+           height: 500px;
+       }
+
+       .fullscreen.background.parallax {
+           height: 550px;
+       }
+   }
+
+   @media screen and (min-width:770px) and (max-width:1199px) {
+       h2 {
+           text-align: left;
+       }
+   }
+
+   @media screen and (max-width:767px) {
+       .background {
+           background-repeat: no-repeat;
+           background-position: 50% 50%;
+           background-position: 50% 50%\9 !important;
+       }
+
+       h2 {
+           width: 100%important;
+       }
+
+       * {
+           text-rendering: optimizeLegibility;
+           -webkit-font-smoothing: antialiased;
+           -moz-osx-font-smoothing: grayscale;
+       }
+
+       .fullscreen,
+       .content-a {
+           width: 100%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+       .content-a {
+           display: table;
+           font-size: 20px;
+       }
+
+       .contenedorTexto {
+           width: 100%;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+
+       .fullscreen.background.parallax {
+           height: 500px;
+       }
+
+       .fullscreen.background.parallax {
+           height: 550px;
+       }
+
+       .contenedorTexto {
+           width: 90%;
+       }
+   }
+
+   @media screen and (min-width:761px) and (max-width:769px) {
+       h2 {
+           text-align: left;
+       }
+   }
+
+   /*! CSS Used from: https://www.topciment.com/css/restyle.css */
+   .logoIni2 {
+       top: 200px;
+       position: relative;
+       width: 50%;
+   }
+
+   .enHome {
+        text-transform: uppercase;
+       font-family: Roboto-Black !important;
+       font-size: 20px !important;
+       font-weight: 399;
+       margin-bottom: 10px;
+       color: white;
+       position: relative;
+       top: 200px;
+       text-align: center;
+       letter-spacing: 5px;
+   }
+
+   @media screen and (max-width: 767px) {
+       .logoIni2 {
+           top: 100px;
+           position: relative;
+           width: 100%;
+       }
+
+       .enHome {
+           font-family: Roboto-Black !important;
+           font-size: 20px;
+           font-weight: 399;
+           margin-bottom: 10px;
+           color: white;
+           position: relative;
+           width: 100%;
+           top: 100px;
+           letter-spacing: 5px;
+       }
+   }
+
+   .row {
+       width: 100% !important;
+       padding-right: 0px !important;
+       padding-left: 0px !important;
+       margin-right: auto !important;
+       margin-left: auto !important;
+   }
+
+
+   @media screen and (min-width:1200px) {
+       .contenedorTexto {
+           width: 1200px;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+   }
+
+   @media screen and (min-width:768px) and (max-width:1199px) {
+       * {
+           text-rendering: optimizeLegibility;
+           -webkit-font-smoothing: antialiased;
+           -moz-osx-font-smoothing: grayscale;
+       }
+
+       .contenedorTexto {
+           width: 100%;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+   }
+
+   @media screen and (min-width:770px) and (max-width:1199px) {
+       h2 {
+           text-align: left;
+       }
+   }
+
+   @media screen and (max-width:767px) {
+
+       .contenedorTexto {
+           width: 100%;
+           margin: 0 auto;
+           position: relative;
+           height: 100%;
+       }
+
+       .contenedorTexto {
+           width: 90%;
+       }
+   }
+
+   @media screen and (min-width:761px) and (max-width:769px) {
+       h2 {
+           text-align: left;
+       }
+   }
+
+   /*! CSS Used from: https://www.topciment.com/css/restyle.css */
+   .enHome2 {
+       font-family: Roboto-Black !important;
+ 
+    /*    top: 150px;
+       left: 65%; */
+   }
+
+   .txHome {
+       font-family: Roboto-Regular !important;
+       position: absolute;
+       top: 200px;
+       left: 65%;
+       font-size: 23.4px;
+   }
+
+   @media screen and (max-width: 1199px) and (min-width: 768px) {
+       .enHome2 {
+           font-family: Roboto-Black !important;
+        /*    position: absolute;
+           top: 250px; */
+       }
+
+       .txHome {
+           font-family: Roboto-Regular !important;
+           position: absolute;
+           top: 300px;
+           font-size: 23.4px;
+       }
+   }
+
+   @media screen and (max-width: 767px) {
+       .enHome2 {
+           font-family: Roboto-Black !important;
+      /*      position: absolute;
+           top: 130px;
+           left: inherit; */
+       }
+
+       .txHome {
+           font-family: Roboto-Regular !important;
+           position: absolute;
+           top: 100px;
+           left: inherit;
+           font-size: 23.4px;
+       }
+   }
+
+   @media screen and (min-width:1200px) {
+       .content-b {
+           position: relative;
+           text-align: left;
+           width: 420px;
+       }
+
+       .textoArribaDerecha {
+           position: relative;
+           top: 250px;
+           left: 800px;
+       }
+
+       .negrita {
+           font-weight: 700;
+       }
+
+       .texto40pixeles {
+           font-size: 1em;
+           color: #000;
+           font-weight: 300;
+       }
+   }
+
+   @media screen and (min-width:768px) and (max-width:1199px) {
+       * {
+           text-rendering: optimizeLegibility;
+           -webkit-font-smoothing: antialiased;
+           -moz-osx-font-smoothing: grayscale;
+       }
+
+       .content-b {
+           position: relative;
+           text-align: left;
+           width: 420px;
+       }
+
+       .textoArribaDerecha {
+           position: absolute;
+           top: 150px;
+           right: 50px;
+       }
+
+       .negrita {
+           font-weight: 700;
+       }
+
+       .texto40pixeles {
+           font-size: 1empx;
+           color: #000;
+           font-weight: 300;
+           text-align: right !important;
+       }
+   }
+
+
+
+   @media screen and (max-width:767px) {
+
+
+       .content-b {
+           position: relative;
+           text-align: left;
+           width: 100%;
+       }
+
+       .textoArribaDerecha {
+           position: absolute;
+           top: 80px;
+           right: 8px;
+       }
+
+       .negrita {
+           font-weight: 700;
+       }
+
+       .texto40pixeles {
+           font-size: 18px;
+           color: #000;
+           font-weight: 300;
+           width: 90%;
+       }
+   }
+
+   @media screen and (min-width:761px) and (max-width:769px) {
+
+       h1,
+       h2 {
+           text-align: left;
+       }
+   }
+
+   /*! CSS Used from: https://www.topciment.com/css/restyle.css */
+   .enHome3 {
+       font-family: Roboto-Black !important;
+       color: white;
+       font-size: 23.4px;
+   }
+
+   .txHome2 {
+       font-size: 20px !important;
+       font-family: Roboto-Regular !important;
+       color: white;
+   }
+
+   .contenedorHome {
+       top: 180px !important;
+   }
+
+   .br1 {
+       margin-bottom: 25px;
+     
+   }
+
+   @media screen and (max-height:680px) {
+       .contenedorHome {
+           top: 150px !important;
+       }
+
+       .br1 {
+           margin-bottom: 19px;
+       }
+
+       .txHome2 {
+           font-size: 14px !important;
+       }
+
+       .enHome3 {
+           margin-top: -70px;
+       }
+   }
+
+/*! CSS Used fontfaces */
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("../fonts/home/Roboto-Black.ttf");
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/home/Roboto-Regular.ttf");
+} 

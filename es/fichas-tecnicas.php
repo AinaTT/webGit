@@ -3,38 +3,43 @@
 
  <head>
      <meta charset="utf-8">
-     <meta name="theme-color" content="#000" />
-     <meta name="viewport" content="width=device-width" />
+     <meta name="theme-color" content="#000"/>
+     <meta name="viewport" content="width=device-width"/>
 
-     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-     <meta name="Language" content="ES" />
+     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
+     <meta name="Language" content="ES"/>
 
 
-     <?php include("includes/root-styles.php"); ?>
+     <?php include("../assets/includes/root-styles.php"); ?>
 
-     <link rel="preload" href="../assets/css/fichas-tecnicas.css" as="style" />
-     <link rel="stylesheet" href="../assets/css/fichas-tecnicas.css" />
+     <link rel="preload" href="../assets/css/fichas-tecnicas.css" as="style"/>
+     <link rel="stylesheet" href="../assets/css/fichas-tecnicas.css"/>
 
      <title>Fichas técnicas | Topciment</title>
-     <meta name="description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades." />
+     <meta name="description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
 
-     <meta property="og:locale" content="es_ES" />
-     <meta property="og:type" content="website" />
-     <meta property="og:title" content="Fichas técnicas | Topciment" />
-     <meta property="og:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades." />
-     <meta property="og:url" content="https://www.topciment.com/es/fichas-tecnicas" />
-     <meta property="og:site_name" content="Topciment" />
-     <meta name="twitter:card" content="summary" />
-     <meta name="twitter:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades." />
-     <meta name="twitter:title" content="Fichas técnicas | Topciment" />
-     <meta name="twitter:site" content="@topciment" />
-     <meta name="twitter:creator" content="@topciment" />
-     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
+     <meta property="og:locale" content="es_ES"/>
+     <meta property="og:type" content="website"/>
+     <meta property="og:title" content="Fichas técnicas | Topciment"/>
+     <meta property="og:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
+     <meta property="og:url" content="https://www.topciment.com/es/fichas-tecnicas"/>
+     <meta property="og:site_name" content="Topciment"/>
+     <meta name="twitter:card" content="summary"/>
+     <meta name="twitter:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
+     <meta name="twitter:title" content="Fichas técnicas | Topciment"/>
+     <meta name="twitter:site" content="@topciment"/>
+     <meta name="twitter:creator" content="@topciment"/>
+     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-     <link rel="canonical" href="https://www.topciment.com/es/fichas-tecnicas" />
+     <link rel="canonical" href="https://www.topciment.com/es/fichas-tecnicas"/>
 
-     <?php include("includes/root-scripts-head.php"); ?>
+      <link rel="alternate" href="https://www.topciment.com/es/fichas-tecnicas" hreflang="es-ES"/>
+     <link rel="alternate" href="https://www.topciment.com/fr/fiches-techniques" hreflang="fr-FR"/>
+           <link rel="alternate" href="https://topciment.com/en/data-sheet" hreflang="en-GB"/>
+           <link rel="alternate" href="https://topciment.com/pl/karty-techniczne" hreflang="pl-PL" />
+           
+     <?php include("../assets/includes/root-scripts-head.php"); ?>
  </head>
 
  <body id="fichas">
@@ -67,131 +72,80 @@
                      <h4 class="card-header mb-3">Sttandard
                      </h4>
                      <p class="links-ft text-dark">
-                         <a href="../fichas-tecnicas/MicrobaseBI-L-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microbase L</strong>
-                             (microcemento bicomponente de preparación)</a><br>
-                         <a href="../fichas-tecnicas/MicrobaseBI-XL-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microbase XL</strong>
-                             (microcemento bicomponente de preparación)</a><br>
-                         <a href="../fichas-tecnicas/MicrobaseBI-XXL-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microbase XXL</strong>
-                             (microcemento bicomponente de preparación)</a><br>
-                         <a href="../fichas-tecnicas/MicrodeckBI-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microdeck</strong>
-                             (microcemento
-                             bicomponente para suelos)</a><br>
-                         <a href="../fichas-tecnicas/MicrofinoBI-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microfino</strong>
-                             (microcemento
-                             fino bicomponente)</a><br>
-                         <a href="../fichas-tecnicas/MicrostoneBI-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Microstone</strong>
-                             (microcemento
-                             bicomponente para exteriores)</a><br>
-                         <a href="../fichas-tecnicas/Aquaciment-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Aquaciment</strong>
-                             (Microcemento
-                             para revestimiento de piscinas)</a><br>
-                         <a href="../fichas-tecnicas/Acricem-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Sttandard Acricem</strong> (Resina acrílica
-                             para
-                             preparación del microcemento)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrobaseBI-L-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase L</strong> (Microcemento bicomponente de terminación de preparación)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrobaseBI-XL-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase XL</strong> (Microcemento bicomponente de terminación de preparación)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrobaseBI-XXL-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase XXL</strong> (Microcemento bicomponente de terminación de preparación)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrodeckBI-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microdeck</strong> (Microcemento bicomponente de terminación para suelos)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrofinoBI-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microfino</strong> (microcemento  bicomponente de terminación para paredes)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/MicrostoneBI-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microstone</strong> (Microcemento bicomponente de terminación para exteriores)</a><br>
+                         
                      </p>
                      <h4 class="card-header mb-3 mt-3">Unlimitted</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Unlimitted_MicrobaseBI-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Unlimitted Microbase</strong> (Microcemento bicomponente de preparación)</a><br>
-                         <a href="../fichas-tecnicas/Unlimitted_MicrodeckBI-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Unlimitted Microdeck</strong> (Microcemento bicomponente para suelos)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrobaseBI-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Unlimitted Microbase</strong> (Microcemento bicomponente de terminación de preparación)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrodeckBI-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Unlimitted Microdeck</strong> (Microcemento bicomponente de terminación para suelos)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3">Evoluttion</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Evoluttion_MicrobaseMN_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Evoluttion Microbase</strong> (Microcemento
-                             monocomponente de
-                             preparación)</a><br>
-                         <a href="../fichas-tecnicas/Evoluttion_MicrofinoMN_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Evoluttion Microfino</strong> (Microcemento
-                             monocomponente para
-                             paredes)</a><br>
-                         <a href="../fichas-tecnicas/Evoluttion_MicrodeckMN_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Evoluttion Microdeck</strong> (Microcemento
-                             monocomponente para
-                             suelos)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrobaseMN_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microbase</strong> (Microcemento monocomponente de terminación de preparación)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrofinoMN_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microfino</strong> (Microcemento monocomponente de terminación para paredes)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrodeckMN_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microdeck</strong> (Microcemento monocomponente de terminación para suelos)</a><br>
                      </p>
 
                      <h4 class="card-header mb-3 mt-3">Atlanttic</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/atlanttic-aquaciment-es.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Atlanttic Aquaciment</strong> (Microcemento para piscinas)</a>
+                         <a href="https://www.topciment.com/fichas-tecnicas/atlanttic-aquaciment-es.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Atlanttic Aquaciment</strong> (Microcemento para piscinas)</a>
                      </p>
                      <h4 class="card-header mb-3 mt-3">Efectto</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Ficha_Tecnica_Efectto_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Efectto Quartz</strong> (Microcemento listo al
-                             uso)</a>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Ficha_Tecnica_Efectto_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Efectto Quartz</strong> (Microcemento listo al uso)</a>
                      </p>
                      <h4 class="card-header mb-3 mt-3">Pure Mettal</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/PureMettal_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Pure Mettal </strong> (Microcemento
-                             metálico)</a>
+                         <a href="https://www.topciment.com/fichas-tecnicas/PureMettal_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Pure Mettal </strong> (revestimientos y recubrimientos metálicos)</a>
                      </p>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Classic Mettal
                      </h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Classic_Mettal_Oxide_Cobre.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Classic Mettal Cobre </strong> (Pintura metálica
-                             color cobre)</a>
-                         <br>
-                         <a href="../fichas-tecnicas/Classic_Mettal_Oxide_Bronce.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Classic Mettal Bronce </strong> (Pintura
-                             metálica color bronce)</a><br>
-                         <a href="../fichas-tecnicas/Classic_Mettal_Oxide_Hierro.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Classic Mettal Hierro </strong> (Pintura
-                             metálica color hierro)</a><br>
-                         <a href="../fichas-tecnicas/Classic_Mettal_Oxide_Laton.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Classic Mettal Latón </strong> (Pintura metálica
-                             color latón)</a>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Classic_Mettal_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2"></i><strong>Classic Mettal </strong> (pinturas metálicas y de efecto óxido)</a>
+                        
                      </p>
                      <h5 class="card-header mb-3 mt-3"> Mettal Activator</h5>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Mettal_Activator-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Mettal Activator</strong> (Beschleuniger für
-                             rostige Oberflächen)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Mettal_Activator-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Mettal Activator</strong> (acelerador de óxido)</a><br>
 
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Elitte
                      </h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Elitte_Glaze_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Elitte Glaze</strong> (Veladuras
-                             metálicas)</a><br>
-                         <a href="../fichas-tecnicas/Elitte_Glitter_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Elitte Glitter</strong>(Purpurina
-                             metálica)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Elitte_Glaze_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Elitte Glaze</strong>  (veladuras pintura efecto metal)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Elitte_Glitter_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Elitte Glitter</strong>(veladuras pintura efecto purpurina)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Primacem
                      </h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Primacem-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Primacem</strong> (imprimación puente
-                             de
-                             unión con efecto tacking)</a><br>
-                         <a href="../fichas-tecnicas/PrimacemGRIP-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Primacem Grip</strong> (Promotor
-                             de
-                             adherencia universal con árido)</a><br>
-                         <a href="../fichas-tecnicas/PrimacemABS-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Primacem ABS</strong> (promotor
-                             adherencia superficies absorbentes)</a><br>
-                         <a href="../fichas-tecnicas/PrimacemPLUS-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Primacem Plus</strong> (promotor
-                             adherencia superficie no absorbente)</a><br>
-                         <a href="../fichas-tecnicas/Impoxy-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Impoxy</strong> (Resina epoxy
-                             bicomponente
-                             - barrera de humedad)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Primacem-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Primacem Fix</strong>  (imprimación con efecto tacking)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/PrimacemGRIP-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Primacem Grip</strong> (imprimación con árido)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/PrimacemABS-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Primacem ABS</strong> (imprimación superficies absorbentes)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/PrimacemPLUS-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Primacem Plus</strong> (imprimación superficies no absorbentes)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Impoxy-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Impoxy</strong>(imprimación epoxi antihumedad)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Arcocem
                      </h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/ArcocemBASIC-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Arcocem Basic</strong> (pigmento
-                             concentrado para preparar dosis)</a><br>
-                         <a href="../fichas-tecnicas/ArcocemPLUS-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Arcocem Plus</strong> (pigmentos
-                             mono
-                             dosis para microcemento)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/ArcocemBASIC-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Arcocem Basic</strong> (pigmento concentrado para preparar dosis)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/ArcocemPLUS-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Arcocem Plus</strong> (pigmentos mono dosis para microcemento)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Topsealer
                      </h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/TopsealerPro+Fast_ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Topsealer Pro +</strong>
-                             (Barniz sellador bicomponente)</a><br>
-                         <a href="../fichas-tecnicas/TopsealerWTonecoat-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Topsealer WT One
-                                 Coat</strong>
-                             (Barniz sellador para microcemento)</a><br>
-                         <a href="../fichas-tecnicas/TopsealerWTquickdry-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Topsealer WT Quick
-                                 Dry</strong> (Barniz sellador para microcemento de secado rápido)</a><br>
-                         <a href="../fichas-tecnicas/TopsealerWTantiSlip-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Topsealer WT Anti
-                                 Slip</strong> (Barniz sellador antideslizante)</a><br>
-                         <a href="../fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Topsealer DSV</strong> (barniz sellador
-                             microcemento base
-                             disolvente)</a><br>
-                         <a href="../fichas-tecnicas/Presealer-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Presealer</strong> (Imprimación
-                             tapaporos de piscinas),</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Fast_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer Pro +</strong> (barniz poliuretano 100% sólidos e impermeable)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTonecoat-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One Coat</strong> (barniz poliuretano al agua bicomponente)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTquickdry-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick Dry</strong> (barniz poliuretano al agua de secado rápido)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTantiSlip-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti Slip</strong> (barniz poliuretano al agua antideslizante) </a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong> (barniz poliuretano acrílico bicomponente al disolvente)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Presealer-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong> (barniz acrílico al agua)</a><br>
 
                      </p>
 
@@ -199,18 +153,17 @@
 
                      <h4 class="card-header mb-3 mt-3"> Limpieza y mantenimiento</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Ceraciment-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Ceraciment</strong> (Cera de
-                             mantenimiento para suelos.)</a><br>
-                         <a href="../fichas-tecnicas/CeracimentPRO-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Ceraciment PRO</strong>
-                             (Cera de mantenimiento para suelos de alta resistencia y con acabado metalizado.)</a><br>
-                         <a href="../fichas-tecnicas/Ecoclean-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Ecoclean</strong> (Limpiador
-                             ecológico de uso doméstico.)</a><br>
-                         <a href="../fichas-tecnicas/EcocleanPRO-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong> Ecoclean PRO</strong>
-                             (Limpiador ecológico profesional.)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Ceraciment-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Basic</strong>  (cera mantenimiento y protección suelos)
+</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/CeracimentPRO-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Pro</strong>
+                            (cera mantenimiento y protección suelos de alto brillo)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/Ecoclean-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Basic</strong> (limpiador ecológico de  uso doméstico)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/EcocleanPRO-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Pro</strong>
+                             (limpiador ecológico de uso profesional)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Herramientas</h4>
                      <p class="text-dark links-ft">
-                         <a href="../fichas-tecnicas/Builtex-ES.pdf" target="_blank"><i class="fa fa-file-pdf-o mr-2  "></i><strong>Builtex</strong> (Malla de Fibra de
+                         <a href="https://www.topciment.com/fichas-tecnicas/Builtex-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Builtex</strong> (Malla de Fibra de
                              vidrio extra plana y flexible)</a><br>
 
                      </p>
@@ -241,9 +194,9 @@
                          los productos
                          de
                          siempre.
-                         Descubre la <strong class="links"><a class="links" href="fabricante-microcemento.html">empresa</a></strong>, la
-                         <strong><a class="links" href="sistemas.html">forma de
-                                 trabajar</a></strong> y los <strong><a class="links" href="galeria.html">proyectos</a></strong> en los que
+                         Descubre la <strong class="links"><a class="links" href="microcemento/fabricante-microcemento">empresa</a></strong>, la
+                         <strong><a class="links" href="microcemento/productos">forma de
+                                 trabajar</a></strong> y los <strong><a class="links" href="microcemento/galeria">proyectos</a></strong> en los que
                          formamos
                          parte. Gracias a nuestro espíritu innovador centrado en la investigación constante, este catálogo se
                          convierte
@@ -269,7 +222,7 @@
 
          <?php include "includes/root-footer.php"; ?>
 
-         <?php include "includes/root-scripts.php"; ?>
+         <?php include "../assets/includes/root-scripts.php"; ?>
      </div>
 
      <!-- include jQuery -->

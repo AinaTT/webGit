@@ -1,7 +1,72 @@
 .menu2b ul li:nth-child(5) {
     font-weight: bold;
 }
+#delegaciones .menu2b ul li:nth-child(5) {
+    font-weight:normal;
+}
+.map{
+        width: 100%;
+        height: 990px;
+}
+ #formulario span[style] {
+    display: inline !important;
+    font-size: 16px !important;
+   
+}
 
+#formulario [type=button],
+#formulario [type=reset],
+#formulario [type=submit],
+#formulario button {
+    background-color: black !important;
+    display: inline-block;
+    font-weight: 400;
+    color: white !important;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    min-width: 90px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+#formulario input[type="text"],
+#formulario textarea,
+#formulario select {
+    color: #000;
+    background-color: rgba(255, 255, 255, 1);
+    border-color: #020202;
+    padding: 10px;
+    outline: none;
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-bottom: 0;
+    font-size: 13px;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+#formulario table {
+    background-color: white !important;
+}
+
+.siqanim{
+    display: none !important;
+}
 /* movilcss */
 @media screen and (max-width:480px) {
     #main {

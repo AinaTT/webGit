@@ -3,49 +3,44 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#000"/>
+    <meta name="viewport" content="width=device-width"/>
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
+    <meta name="Language" content="ES"/>
 
 
-    <?php include("includes/root-styles.php"); ?>
-    <link rel="preload" href="../assets/css/proyectos.css" as="style" />
-    <link rel="stylesheet" href="../assets/css/proyectos.css" />
+    <?php include("../assets/includes/root-styles.php"); ?>
+    <link rel="preload" href="../assets/css/proyectos.css" as="style"/>
+    <link rel="stylesheet" href="../assets/css/proyectos.css"/>
 
 
-    <title>Fotos e imágenes de microcemento en baños, cocinas, suelos y paredes.</title>
-    <meta name=" description" content="Fotos de microcemento en suelos, fotos de microcemento en paredes, fotos de microcemento en cocinas, fotos de microcemento en baños." />
+    <title>Fotos de microcemento</title>
+    <meta name="description" content="Imágenes de proyectos de microcemento realizados por nuestros mejores profesionales. "/>
 
-    <meta property="og:locale" content="es_ES" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos e imágenes de microcemento en baños, cocinas, suelos y paredes." />
-    <meta property="og:description" content="Fotos de microcemento en suelos, fotos de microcemento en paredes, fotos de microcemento en cocinas, fotos de microcemento en baños." />
-    <meta property="og:url" content="https://www.topciment.com/microcementos.html" />
-    <meta property="og:site_name" content="Topciment" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Fotos de microcemento en suelos, fotos de microcemento en paredes, fotos de microcemento en cocinas, fotos de microcemento en baños." />
-    <meta name="twitter:title" content="Fotos e imágenes de microcemento en baños, cocinas, suelos y paredes." />
-    <meta name="twitter:site" content="@topciment" />
-    <meta name="twitter:creator" content="@topciment" />
-    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/root-" />
-
-
-    <link rel="canonical" href="https://www.topciment.com/sistemas.html" />
+    <meta property="og:locale" content="es_ES"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Proyectos de microcemento"/>
+    <meta property="og:description" content="Imágenes de proyectos de microcemento realizados por nuestros mejores profesionales. "/>
+    <meta property="og:url" content="https://www.topciment.com/es/proyectos"/>
+    <meta property="og:site_name" content="Topciment"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:description" content="Imágenes de proyectos de microcemento realizados por nuestros mejores profesionales. "/>
+    <meta name="twitter:title" content="Proyectos de microcemento"/>
+    <meta name="twitter:site" content="@topciment"/>
+    <meta name="twitter:creator" content="@topciment"/>
+    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/root-"/>
 
 
-    <link rel="alternate" href="https://www.topciment.com/systems.html" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/solutions-en-beton-cire-pour-toutes-les-surfaces.html" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/de/systeme.html" hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/sistemi.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/systemen.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-microcemento-system.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/sistemy.html" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/microcement-systems.html" hreflang="zh-CN" />
+    <link rel="canonical" href="https://www.topciment.com/es/proyectos"/>
+
+    <link rel="alternate" href="https://www.topciment.com/es/proyectos" hreflang="es-ES"/>
+    <link rel="alternate" href="https://topciment.com/en/projects" hreflang="en-GB"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/projects" hreflang="fr-FR"/>
+    <link rel="alternate" href="https://topciment.com/pl/projektowanie" hreflang="pl-PL" />
 
 
-    <?php include("includes/scripts-head.php"); ?>
+    <?php include("../assets/includes/scripts-head.php"); ?>
 </head>
 
 <body id="proyectos">
@@ -81,11 +76,9 @@
             </div>
             <div class="items" style="height: 100%;">
                 <div class="item sttandard paredes techo wow fadeInRight proyectoLeft">
-                    <a href="proyecto-carmen-house.html"><img src="https://www.topciment.com/imagenes/carmen-house/CARLES FAUS ARQUITECTURA - CARMEN HOUSE (2).jpg" width="100%">
+                    <a href="proyecto/proyecto-carmen-house"><img src="https://www.topciment.com/imagenes/carmen-house/CARLES FAUS ARQUITECTURA - CARMEN HOUSE (2).jpg" width="100%">
                         <div class="home_link"> </div>
-                        <div class="home_link mt-4">
-                            <a href="proyecto-carmen-house.html">VER PROYECTO</a>
-                        </div>
+
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -94,7 +87,7 @@
                     </a>
                 </div>
                 <div class="item sttandard paredes techo wow fadeInRight proyectoRight">
-                    <a href="fotos-revestimientos-microcemento-en-IPIC.html"><img src="https://www.topciment.us/img/IPIC/Topciment-microcement-wall-application-at-IPIC-Movie-Theater.jpg" width="100%">
+                    <a href="proyecto/fotos-revestimientos-microcemento-en-IPIC"><img src="https://www.topciment.us/img/IPIC/Topciment-microcement-wall-application-at-IPIC-Movie-Theater.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -105,7 +98,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard elitte  banyo paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-c-lazy-u-ranch.html"><img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment.jpg" width="100%">
+                    <a href="proyecto/proyecto-c-lazy-u-ranch"><img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -117,7 +110,7 @@
 
 
                 <div class="item sttandard suelo banyo wow fadeInRight proyectoRight">
-                    <a href="fotos-revestimiento-ligero-microcemento-en-erschwil.html"><img src="https://www.topciment.com/imagenes/suiza/revestimiento-ligero.jpg" width="100%">
+                    <a href="proyecto/fotos-revestimiento-ligero-microcemento-en-erschwil"><img src="https://www.topciment.com/imagenes/suiza/revestimiento-ligero.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -128,7 +121,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard suelo azulejos paredes wow fadeInRight proyectoLeft">
-                    <a href="fotos-revestimientos-microcemento-en-restaurante.html"><img src="https://www.topciment.com/imagenes/ucrania/revestimiento-con-topciment-microcemento-ucrania-1.jpg" width="100%">
+                    <a href="proyecto/fotos-revestimientos-microcemento-en-restaurante"><img src="https://www.topciment.com/imagenes/ucrania/revestimiento-con-topciment-microcemento-ucrania-1.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -138,7 +131,7 @@
                 </div>
 
                 <div class="item sttandard suelo exteriores piscinas wow fadeInRight proyectoRight">
-                    <a href="proyecto-sardinera.html"><img src="https://www.topciment.com/imagenes/proyecto-sardinera-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-sardinera"><img src="https://www.topciment.com/imagenes/proyecto-sardinera-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -149,7 +142,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard suelo banyo paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-casa-isabel.html"><img src="https://www.topciment.com/imagenes/proyecto-casa-isabel-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-casa-isabel"><img src="https://www.topciment.com/imagenes/proyecto-casa-isabel-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -159,7 +152,7 @@
                 </div>
 
                 <div class="item sttandard muebles wow fadeInRight proyectoRight">
-                    <a href="muebles-revestidos-con-microcemento.html"><img src="https://www.topciment.com/imagenes/muebles/0068.jpg" width="100%">
+                    <a href="proyecto/muebles-revestidos-con-microcemento"><img src="https://www.topciment.com/imagenes/muebles/0068.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -170,7 +163,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard suelo paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-francisco-jesus.html"><img src="https://www.topciment.com/imagenes/proyecto-francisco-jesus-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-francisco-jesus"><img src="https://www.topciment.com/imagenes/proyecto-francisco-jesus-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -180,7 +173,7 @@
                 </div>
 
                 <div class="item sttandard banyo suelo wow fadeInRight proyectoRight">
-                    <a href="proyecto-altea.html"><img src="https://www.topciment.com/imagenes/proyecto-altea-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-altea"><img src="https://www.topciment.com/imagenes/proyecto-altea-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -191,7 +184,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-reverter.html"><img src="https://www.topciment.com/imagenes/proyecto-reverter-portada.jpg" alt="Vivienda Reverter" width="100%">
+                    <a href="proyecto/proyecto-reverter"><img src="https://www.topciment.com/imagenes/proyecto-reverter-portada.jpg" alt="Vivienda Reverter" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -201,7 +194,7 @@
                 </div>
 
                 <div class="item sttandard suelo cocinas wow fadeInRight proyectoRight">
-                    <a href="proyecto-ambau.html"><img src="https://www.topciment.com/imagenes/proyecto-ambau-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-ambau"><img src="https://www.topciment.com/imagenes/proyecto-ambau-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -212,7 +205,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard classic suelo paredes banyo wow fadeInRight proyectoLeft">
-                    <a href="proyecto-hernan-cortes.html"><img src="https://www.topciment.com/imagenes/proyecto-hernan-cortes-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-hernan-cortes"><img src="https://www.topciment.com/imagenes/proyecto-hernan-cortes-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -222,7 +215,7 @@
                 </div>
 
                 <div class="item sttandard suelo banyowow fadeInRight proyectoRight">
-                    <a href="proyecto-inmobiliaria-interiorismo.html"><img src="https://www.topciment.com/imagenes/proyecto-inmobiliaria-interiorismo-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-inmobiliaria-interiorismo"><img src="https://www.topciment.com/imagenes/proyecto-inmobiliaria-interiorismo-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -233,7 +226,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard suelo wow fadeInRight proyectoLeft">
-                    <a href="proyecto-clinica-hernandez-arquitectos.html"><img src="https://www.topciment.com/imagenes/proyecto-clinica-hernandez-arquitectos-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-clinica-hernandez-arquitectos"><img src="https://www.topciment.com/imagenes/proyecto-clinica-hernandez-arquitectos-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -243,7 +236,7 @@
                 </div>
 
                 <div class="item sttandard banyo wow fadeInRight proyectoRight">
-                    <a href="proyecto-decas.html"><img src="https://www.topciment.com/imagenes/decas/proyecto-decas.jpg" width="100%">
+                    <a href="proyecto/proyecto-decas"><img src="https://www.topciment.com/imagenes/decas/proyecto-decas.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -251,10 +244,11 @@
                         </div>
                     </a>
                 </div>
+
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard suelo paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-rebost-borja-garcia.html"><img src="https://www.topciment.com/imagenes/proyecto-rebost-borja-garcia-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-rebost-borja-garcia"><img src="https://www.topciment.com/imagenes/proyecto-rebost-borja-garcia-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -264,7 +258,7 @@
                 </div>
 
                 <div class="item sttandard banyo techo wow fadeInRight proyectoRight">
-                    <a href="proyecto-de-texelse-stoffeerders-1.html"><img src="https://www.topciment.com/imagenes/de-texelse-stoffeerders/topciment-suelo-pared-bano-holanda.jpg" width="100%">
+                    <a href="proyecto/proyecto-de-texelse-stoffeerders-1"><img src="https://www.topciment.com/imagenes/de-texelse-stoffeerders/topciment-suelo-pared-bano-holanda.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -275,7 +269,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard paredes wow fadeInRight proyectoLeft">
-                    <a href="proyecto-javier-miami-portada.html"><img src="https://www.topciment.com/imagenes/proyecto-javier-miami-portada.jpg" width="100%">
+                    <a href="proyecto/proyecto-javier-miami-portada"><img src="https://www.topciment.com/imagenes/proyecto-javier-miami-portada.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -285,7 +279,7 @@
                 </div>
 
                 <div class="item sttandard  banyo techo wow fadeInRight proyectoRight">
-                    <a href="proyecto-malermeister.html"><img src="https://www.topciment.com/imagenes/proyecto-pohlheim-malermeister.jpg" width="100%">
+                    <a href="proyecto/proyecto-malermeister"><img src="https://www.topciment.com/imagenes/proyecto-pohlheim-malermeister.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -296,7 +290,7 @@
                 <div id="separador20px">
                 </div>
                 <div class="item sttandard banyo wow fadeInRight proyectoLeft">
-                    <a href="bano-microcemento-fd-fliesen.html"><img src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen.jpg" width="100%">
+                    <a href="proyecto/bano-microcemento-fd-fliesen"><img src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen.jpg" width="100%">
                         <div class="textoProyectos">
                             <br>
                             <br>
@@ -318,7 +312,7 @@
 
     <?php include "includes/root-footer.php"; ?>
 
-    <?php include("includes/root-scripts.php"); ?>
+    <?php include("../assets/includes/root-scripts.php"); ?>
     </div>
 
     <!-- include jQuery -->

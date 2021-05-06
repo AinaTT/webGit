@@ -3,48 +3,44 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#000"/>
+    <meta name="viewport" content="width=device-width"/>
 
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
+    <meta name="Language" content="ES"/>
 
 
-    <?php include("includes/root-styles.php"); ?>
+    <?php include("../assets/includes/root-styles.php"); ?>
 
-    <link rel="preload" href="../assets/css/garantia.css" as="style" />
-    <link rel="stylesheet" href="../assets/css/garantia.css" />
+    <link rel="preload" href="../assets/css/garantia.css" as="style"/>
+    <link rel="stylesheet" href="../assets/css/garantia.css"/>
 
     <title>Microcemento de materiales resistentes</title>
-    <meta name="description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad." />
+    <meta name="description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad."/>
 
-    <meta property="og:locale" content="es_ES" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Microcemento de materiales resistentes" />
-    <meta property="og:description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad." />
-    <meta property="og:url" content="https://www.topciment.com/microcementos.html" />
-    <meta property="og:site_name" content="Topciment" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad." />
-    <meta name="twitter:title" content="Microcemento de materiales resistentes" />
-    <meta name="twitter:site" content="@topciment" />
-    <meta name="twitter:creator" content="@topciment" />
-    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
+    <meta property="og:locale" content="es_ES"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Microcemento de materiales resistentes"/>
+    <meta property="og:description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad."/>
+    <meta property="og:url" content="https://www.topciment.com/es/garantia"/>
+    <meta property="og:site_name" content="Topciment"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:description" content="En Topciment fabricamos productos de microcemento con todas las garantías: alta resistencia mecánica, al desgaste, al fuego, a la fisuración, a productos químicos y sustancias corrosivas, y una alta adherencia e impermeabilidad."/>
+    <meta name="twitter:title" content="Microcemento de materiales resistentes"/>
+    <meta name="twitter:site" content="@topciment"/>
+    <meta name="twitter:creator" content="@topciment"/>
+    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-    <link rel="canonical" href="https://www.topciment.com/profesionales.html" />
+    <link rel="canonical" href="https://www.topciment.com/es/garantia"/>
 
-    <link rel="alternate" href="https://www.topciment.com/profesionales.html" hreflang="es-ES" />
-    <link rel="alternate" href="https://www.topciment.com/en/professionals.html" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/professionnels.html" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/de/die-ecke-vom-fachmann.html" hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/professionisti.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-professionals.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/professionali.html" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/polished-plaster-professionals.html" hreflang="zh-CN" />
+     <link rel="alternate" href="https://www.topciment.com/es/garantia" hreflang="es-ES"/>
+        <link rel="alternate" href="https://www.topciment.com/fr/garantie" hreflang="fr-FR"/>
+             <link rel="alternate" href="https://topciment.com/en/guarantee" hreflang="en-GB"/>
+             <link rel="alternate" href="https://topciment.com/pl/gwarancja" hreflang="pl-PL" />
 
-    <?php include("includes/root-scripts-head.php"); ?>
+
+    <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>
 
 <body id="garantia">
@@ -146,9 +142,9 @@
                                 deterioros originados por el mal uso del cliente, como golpes, rasguños, cortes o
                                 daños
                                 similares. </p>
-                            <p>Recomendamos descargar e imprimir estas instrucciones de <strong><a target="_blank" href="mantenimiento-y-limpieza-del-microcemento.pdf" download="mantenimiento-y-limpieza-del-microcemento.pdf">mantenimiento y
-                                        limpieza del
-                                        microcemento</a></strong></p>
+                            <p>Recomendamos descargar e imprimir estas instrucciones de <strong>mantenimiento y
+                                    limpieza del
+                                    microcemento</strong></p>
                         </div>
 
 
@@ -293,7 +289,7 @@
     <div id="separador50px"></div>
     <?php include "includes/root-footer.php"; ?>
 
-    <?php include "includes/root-scripts.php"; ?>
+    <?php include "../assets/includes/root-scripts.php"; ?>
     </div>
 
     <!-- include jQuery -->

@@ -1,0 +1,69 @@
+
+.imgmicro{
+    float: left;
+}
+
+h2{
+  
+    margin-bottom: 20px;
+}
+.foto-microcemento{
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+        object-position: bottom;
+}
+
+.faqs{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.acabado{
+    border-radius: 50%;
+    width: 90%;
+}
+.acabados row{
+    margin-bottom: 20px;
+}
+.col-md-1{
+    text-align: center;
+}
+figcaption{
+    margin-top: 10px;
+    font-size: 90%;
+    color: #6c757d;
+}
+
+/* movilcss */
+ @media screen and (max-width:480px) {
+
+    .foto-microcemento {
+        height: 500px;}
+
+    .acabado{
+     width: 25%;}
+ 
+ }
+ /* tabletcss */
+ @media screen and (min-width:481px) and (max-width:767px) {}
+
+ /* laptopcss */
+ @media screen and (min-width:768px) and (max-width:1024px) {}
+
+ /* desktopcss */
+ @media screen and (min-width:1025px) and (max-width:1200px) {
+      .imgmicro {
+          height: 92px;
+
+      }
+ }
+
+
+ /*  largecss */
+ @media screen and (min-width:1201px) {
+     .imgmicro {
+         height: 92px;
+        
+     }
+ }

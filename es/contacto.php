@@ -3,48 +3,43 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#000"/>
+    <meta name="viewport" content="width=device-width"/>
 
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
+    <meta name="Language" content="ES"/>
 
 
-    <?php include("includes/root-styles.php"); ?>
+    <?php include("../assets/includes/root-styles.php"); ?>
 
-    <link rel="preload" href="../assets/css/contacto.css" as="style" />
-    <link rel="stylesheet" href="../assets/css/contacto.css" />
+    <link rel="preload" href="../assets/css/contacto.css" as="style"/>
+    <link rel="stylesheet" href="../assets/css/contacto.css"/>
 
     <title>Formulario de contacto de microcemento Topciment</title>
-    <meta name="description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional." />
+    <meta name="description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional."/>
 
-    <meta property="og:locale" content="es_ES" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Formulario de contacto de microcemento Topciment" />
-    <meta property="og:description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional." />
-    <meta property="og:url" content="https://www.topciment.com/contacto" />
-    <meta property="og:site_name" content="Topciment" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional." />
-    <meta name="twitter:title" content="Formulario de contacto de microcemento Topciment" />
-    <meta name="twitter:site" content="@topciment" />
-    <meta name="twitter:creator" content="@topciment" />
-    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
+    <meta property="og:locale" content="es_ES"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Formulario de contacto de microcemento Topciment"/>
+    <meta property="og:description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional."/>
+    <meta property="og:url" content="https://www.topciment.com/es/contacto"/>
+    <meta property="og:site_name" content="Topciment"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:description" content="Resuelve tus dudas, solicita información, encuentra puntos de venta, distribuidores o aplicadores de microcemento. Nacional e internacional."/>
+    <meta name="twitter:title" content="Formulario de contacto de microcemento Topciment"/>
+    <meta name="twitter:site" content="@topciment"/>
+    <meta name="twitter:creator" content="@topciment"/>
+    <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-    <link rel="canonical" href="https://www.topciment.com/contacto" />
+    <link rel="canonical" href="https://www.topciment.com/es/contacto"/>
 
-    <link rel="alternate" href="https://www.topciment.com/profesionales.html" hreflang="es-ES" />
-    <link rel="alternate" href="https://www.topciment.com/en/professionals.html" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/professionnels.html" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/de/die-ecke-vom-fachmann.html" hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/professionisti.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-professionals.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/professionali.html" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/polished-plaster-professionals.html" hreflang="zh-CN" />
+     <link rel="alternate" href="https://www.topciment.com/es/contacto" hreflang="es-ES"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/contact" hreflang="fr-FR"/>
+         <link rel="alternate" href="https://topciment.com/en/contact" hreflang="en-GB"/>
+         <link rel="alternate" href="https://topciment.com/pl/kontakt" hreflang="pl-PL" />
 
-    <?php include("includes/root-scripts-head.php"); ?>
+    <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>
 
 <body id="contacto">
@@ -55,6 +50,15 @@
     <?php include("includes/root-menu-movil.php"); ?>
     <div id="main">
         <div class="clearfix">
+            <div class="fullscreen background parallax">
+                <div class="content-a">
+                    <div class="map-wrap">
+                        <div class="overlay" onClick="style.pointerEvents='none'"></div>
+                        <!-- wrap map iframe to turn off mouse scroll and turn it back on on click -->
+                        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12315.868044626795!2d-0.4679922!3d39.4926595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x78dd136f0765c9cf!2sTopciment!5e0!3m2!1ses!2ses!4v1505139509917" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
             <div id="content">
                 <section id="up">
 
@@ -90,33 +94,33 @@
                                             -moz-appearance: none;
                                             background: #fff url(https://www.topciment.com/imagenes/select-arrow.png) no-repeat 90% center;
                                             padding-left: 5px;">
-                                                <option value="delegaciones/microcemento-barcelona.html">Barcelona</option>
-                                                <option value="delegaciones/microcemento-madrid.html">Madrid</option>
-                                                <option value="delegaciones/microcemento-valencia.html">Valencia</option>
-                                                <option value="delegaciones/microcemento-sevilla.html">Sevilla</option>
-                                                <option value="delegaciones/microcemento-malaga.html">Málaga</option>
-                                                <option value="delegaciones/microcemento-mallorca.html">Mallorca</option>
-                                                <option value="delegaciones/microcemento-zaragoza.html">Zaragoza</option>
-                                                <option value="delegaciones/microcemento-alicante.html">Alicante</option>
-                                                <option value="delegaciones/microcemento-tenerife.html">Tenerife</option>
-                                                <option value="delegaciones/microcemento-murcia.html">Murcia</option>
-                                                <option value="delegaciones/microcemento-laspalmas.html">Las Palmas</option>
-                                                <option value="delegaciones/microcemento-albacete.html">Albacete</option>
-                                                <option value="delegaciones/microcemento-alcala.html">Alcala</option>
-                                                <option value="delegaciones/microcemento-bilbao.html">Bilbao</option>
-                                                <option value="delegaciones/microcemento-caceres.html">Caceres</option>
-                                                <option value="delegaciones/microcemento-cadiz.html">Cádiz</option>
-                                                <option value="delegaciones/microcemento-cordoba.html">Córdoba</option>
-                                                <option value="delegaciones/microcemento-granada.html">Granada</option>
-                                                <option value="delegaciones/microcemento-huelva.html">Huelva</option>
-                                                <option value="delegaciones/microcemento-ibiza.html">Ibiza</option>
-                                                <option value="delegaciones/microcemento-leon.html">León</option>
-                                                <option value="delegaciones/microcemento-marbella.html">Marbella</option>
-                                                <option value="delegaciones/microcemento-vigo.html">Vigo</option>
-                                                <option value="delegaciones/microcemento-valladolid.html">Valladolid</option>
+                                                <option value="delegaciones/microcemento-barcelona">Barcelona</option>
+                                                <option value="delegaciones/microcemento-madrid">Madrid</option>
+                                                <option value="delegaciones/microcemento-valencia">Valencia</option>
+                                                <option value="delegaciones/microcemento-sevilla">Sevilla</option>
+                                                <option value="delegaciones/microcemento-malaga">Málaga</option>
+                                                <option value="delegaciones/microcemento-mallorca">Mallorca</option>
+                                                <option value="delegaciones/microcemento-zaragoza">Zaragoza</option>
+                                                <option value="delegaciones/microcemento-alicante">Alicante</option>
+                                                <option value="delegaciones/microcemento-tenerife">Tenerife</option>
+                                                <option value="delegaciones/microcemento-murcia">Murcia</option>
+                                                <option value="delegaciones/microcemento-laspalmas">Las Palmas</option>
+                                                <option value="delegaciones/microcemento-albacete">Albacete</option>
+                                                <option value="delegaciones/microcemento-alcala">Alcala</option>
+                                                <option value="delegaciones/microcemento-bilbao">Bilbao</option>
+                                                <option value="delegaciones/microcemento-caceres">Caceres</option>
+                                                <option value="delegaciones/microcemento-cadiz">Cádiz</option>
+                                                <option value="delegaciones/microcemento-cordoba">Córdoba</option>
+                                                <option value="delegaciones/microcemento-granada">Granada</option>
+                                                <option value="delegaciones/microcemento-huelva">Huelva</option>
+                                                <option value="delegaciones/microcemento-ibiza">Ibiza</option>
+                                                <option value="delegaciones/microcemento-leon">León</option>
+                                                <option value="delegaciones/microcemento-marbella">Marbella</option>
+                                                <option value="delegaciones/microcemento-vigo">Vigo</option>
+                                                <option value="delegaciones/microcemento-valladolid">Valladolid</option>
                                             </select>
                                             <input type="button" name="go_button" id="go_button" value="IR" onClick="MM_jumpMenuGo('jumpMenu','parent',0)" style="padding:10px; background-color:#000; color:#fff; font-size:16px; border: none; cursor:pointer; width:80px;">
-                                            <input type='hidden' id="zc_gad" name="zc_gad" value="" />
+                                            <input type='hidden' id="zc_gad" name="zc_gad" value=""/>
                                         </form>
 
                                     </div>
@@ -127,12 +131,6 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <!-- Note :
-                            - You can modify the font style and form style to suit your website.
-                            - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code.
-                            - The Mandatory check script can modified as to suit your business needs.
-                            - It is important that you test the modified form before going live.
-                            - Do not remove captcha and other form elements that are necessary for the form to work.  -->
                                     <div id='crmWebToEntityForm' style='margin:auto;'>
                                         <META HTTP-EQUIV='content-type' CONTENT='text/html;charset=UTF-8'>
                                         <script src='https://www.google.com/recaptcha/api.js' async defer></script>
@@ -144,7 +142,7 @@
                                             <input type='text' style='display:none;' name='xmIwtLD' value='b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e' />
                                             <input type='text' style='display:none;' name='actionType' value='TGVhZHM=' />
 
-                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias.html' />
+                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias' />
                                             <!-- Do not remove this code. -->
                                             <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
                                             <input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
@@ -157,11 +155,11 @@
 
                                                     <div class="form-group input-group">
                                                         <span class="has-float-label">
-                                                            <input name='First Name' maxlength='40' class="form-control" id="first" type="text" placeholder="Su nombre" />
+                                                            <input name='First Name' maxlength='40' class="form-control" id="first" type="text" placeholder="Su nombre"/>
                                                             <label for="first">Nombre<span style='color:red;'>*</span></label>
                                                         </span>
                                                         <label class="has-float-label">
-                                                            <input name='Last Name' maxlength='80' class="form-control" type="text" placeholder="Sus apellidos" />
+                                                            <input name='Last Name' maxlength='80' class="form-control" type="text" placeholder="Sus apellidos"/>
                                                             <span>Apellidos<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
@@ -169,16 +167,16 @@
                                                     <div class="form-group input-group">
                                                         <span class="input-group-addon">@</span>
                                                         <label class="has-float-label">
-                                                            <input name='Email' maxlength='100' class="form-control" type="text" placeholder="email@ejemplo.com" />
+                                                            <input name='Email' maxlength='100' class="form-control" type="text" placeholder="email@ejemplo.com"/>
                                                             <span>E-mail<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group has-float-label">
-                                                        <input name='Phone' maxlength='30' class="form-control" id="telefono" type="text" placeholder="Ej: +34 666 565 852" />
+                                                        <input name='Phone' maxlength='30' class="form-control" id="telefono" type="text" placeholder="Ej: +34 666 565 852"/>
                                                         <label for="telefono">Teléfono<span style='color:red;'>*</span></label>
                                                     </div>
                                                     <div class="form-group has-float-label">
-                                                        <input name='City' maxlength='30' class="form-control" id="localidad" type="text" placeholder="Ej: Valencia" />
+                                                        <input name='City' maxlength='30' class="form-control" id="localidad" type="text" placeholder="Ej: Valencia"/>
                                                         <label for="localidad">Localidad/Provincia<span style='color:red;'>*</span></label>
                                                     </div>
                                                     <label class="form-group has-float-label">
@@ -207,18 +205,7 @@
                                                     </label>
                                                     <div class='g-recaptcha' data-sitekey='6LfrYPwUAAAAAEBodEiAqDVxHWRVeHwl1oOm-ov3' data-theme='light' data-callback='rccallback' captcha-verified='false' id='recap'></div>
                                                     <!--  <div class="form-group input-group">
-                            <span class="has-float-label">
-                              <input name='enterdigest' maxlength='80' class="form-control" style="min-height: 70px;"
-                                id="captcha" type="text" />
-                              <label for="captcha">Introduzca el captcha</label>
-                            </span>
-                            <label class="has-float-label">
-                              <img class="form-control" style="height: 100%;" id='imgid' src='https://crm.zoho.com/crm/CaptchaServlet?formId=b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e&grpid=0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf'>
-
-                              <span><a href='javascript:;' onclick='reloadImg()'>Recargar</a></span>
-                            </label>
-                          </div> -->
-                                                    <!-- Invisible -->
+                          
 
                                                     <select style='display: none !important;' name='Lead Source'>
                                                         <option value='-None-'>-None-</option>
@@ -236,23 +223,23 @@
                                                     <!-- /Invisible -->
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF102' class="custom-control-input" type="checkbox" />
+                                                            <input name='LEADCF102' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator "></span>
-                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;condiciones-uso-politica-privacidad.html"></a>
+                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="condiciones-uso-politica-privacidad"></a>
                                                                 política de
                                                                 privacidad<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF109' class="custom-control-input" type="checkbox" />
+                                                            <input name='LEADCF109' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator"></span>
                                                             <span class="custom-control-description">Acepto recibir comunicaciones comerciales<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF106' class="custom-control-input" type="checkbox" />
+                                                            <input name='LEADCF106' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator"></span>
                                                             <span class="custom-control-description">Autorizo la cesión de mis datos a
                                                                 terceros.Necesitamos tu consentimiento expreso para compartir tus datos de contacto y tu
@@ -273,8 +260,8 @@
                                                         <option value='Ruso'>Ruso</option>
                                                         <option value='Turco'>Turco</option>
                                                     </select>
-                                                    <input type='submit' value='Enviar' id='formsubmit' class="btn float-left btn-primary leermass mt-2" />
-                                                    <input type='reset' name='reset' value='Restablecer' class="btn float-left btn-primary leermass mt-2" />
+                                                    <input type='submit' value='Enviar' id='formsubmit' class="btn float-left btn-primary leermass mt-2"/>
+                                                    <input type='reset' name='reset' value='Restablecer' class="btn float-left btn-primary leermass mt-2"/>
                                                 </div>
                                             </div>
 
@@ -360,14 +347,14 @@
                             <!-- ;margin-left: 125px; -->
                             <div class="row" style="float:none; clear:both; position:relative;">
 
-                                <div class="col-md-4"> <a href="delegaciones/microcemento-barcelona.html">
+                                <div class="col-md-4"> <a href="delegaciones/microcemento-barcelona">
                                         <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/barcelona.jpg" alt="Delegación en Barcelona">
                                             <div id="fondoDelegacion">Barcelona</div><br>Delegación en Barcelona
                                         </div>
                                     </a></div>
                                 <div class="col-md-4">
 
-                                    <a href="delegaciones/microcemento-madrid.html">
+                                    <a href="delegaciones/microcemento-madrid">
                                         <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/madrid.jpg" alt="Delegación en Madrid">
                                             <div id="fondoDelegacion">Madrid</div><br>Delegación en Madrid
                                         </div>
@@ -375,7 +362,7 @@
                                 </div>
                                 <div class="col-md-4">
 
-                                    <a href="delegaciones/microcemento-valencia.html">
+                                    <a href="delegaciones/microcemento-valencia">
                                         <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/valencia.jpg" alt="Delegación en Valencia">
                                             <div id="fondoDelegacion">Valencia</div><br>Delegación en Valencia
                                         </div>
@@ -386,21 +373,21 @@
                             <div class="row" style="float:none; clear:both; position:relative;">
                                 <div class="col-md-4">
 
-                                    <a href="delegaciones/microcemento-sevilla.html">
+                                    <a href="delegaciones/microcemento-sevilla">
                                         <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/sevilla.jpg" alt="Delegación en Sevilla">
                                             <div id="fondoDelegacion">Sevilla</div><br>Delegación en Sevilla
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-malaga.html">
+                                    <a href="delegaciones/microcemento-malaga">
                                         <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/malaga.jpg" alt="Delegación en Málaga">
                                             <div id="fondoDelegacion">Málaga</div><br>Delegación en Málaga
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-mallorca.html">
+                                    <a href="delegaciones/microcemento-mallorca">
                                         <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/mallorca.jpg" alt="Delegación en Mallorca">
                                             <div id="fondoDelegacion">Mallorca</div><br>Delegación en Mallorca
                                         </div>
@@ -411,21 +398,21 @@
                             <div class="row" style="float:none; clear:both; position:relative;">
 
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-zaragoza.html">
+                                    <a href="delegaciones/microcemento-zaragoza">
                                         <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/zaragoza.jpg" alt="Delegación en Zaragoza">
                                             <div id="fondoDelegacion">Zaragoza</div><br>Delegación en Zaragoza
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-alicante.html">
+                                    <a href="delegaciones/microcemento-alicante">
                                         <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/alicante.jpg" alt="Delegación en Alicante">
                                             <div id="fondoDelegacion">Alicante</div><br>Delegación en Alicante
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-tenerife.html">
+                                    <a href="delegaciones/microcemento-tenerife">
                                         <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/tenerife.jpg" alt="Delegación en Tenerife">
                                             <div id="fondoDelegacion">Tenerife</div><br>Delegación en Tenerife
                                         </div>
@@ -440,7 +427,7 @@
                             <div class="row" style="float:none; clear:both; position:relative;">
 
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-murcia.html">
+                                    <a href="delegaciones/microcemento-murcia">
                                         <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/murcia.jpg" alt="Delegación en Murcia">
                                             <div id="fondoDelegacion">Murcia</div><br>Delegación en Murcia
                                         </div>
@@ -448,14 +435,14 @@
                                 </div>
                                 <div class="col-md-4">
 
-                                    <a href="delegaciones/microcemento-laspalmas.html">
+                                    <a href="delegaciones/microcemento-laspalmas">
                                         <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/laspalmas.jpg" alt="Delegación en Las Palmas">
                                             <div id="fondoDelegacion">Las Palmas</div><br>Delegación en Las Palmas
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-albacete.html">
+                                    <a href="delegaciones/microcemento-albacete">
                                         <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/albacete.jpg" alt="Delegación en Albacete">
                                             <div id="fondoDelegacion">Albacete</div><br>Delegación en Albacete
                                         </div>
@@ -470,7 +457,7 @@
                             <div class="row" style="float:none; clear:both; position:relative;">
 
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-alcala.html">
+                                    <a href="delegaciones/microcemento-alcala">
                                         <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/alcala.jpg" alt="Delegación en Alcalá">
                                             <div id="fondoDelegacion">Alcalá</div><br>Delegación en Alcalá
                                         </div>
@@ -478,14 +465,14 @@
                                 </div>
                                 <div class="col-md-4">
 
-                                    <a href="delegaciones/microcemento-bilbao.html">
+                                    <a href="delegaciones/microcemento-bilbao">
                                         <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/bilbao.jpg" alt="Delegación en Bilbao">
                                             <div id="fondoDelegacion">Bilbao</div><br>Delegación en Bilbao
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="delegaciones/microcemento-caceres.html">
+                                    <a href="delegaciones/microcemento-caceres">
                                         <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/caceres.jpg" alt="Delegación en Cáceres">
                                             <div id="fondoDelegacion">Cáceres</div><br>Delegación en Cáceres
                                         </div>
@@ -501,21 +488,21 @@
 
                                     <div class="col-md-4">
 
-                                        <a href="delegaciones/microcemento-cadiz.html">
+                                        <a href="delegaciones/microcemento-cadiz">
                                             <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/cadiz.jpg" alt="Delegación en Cádiz">
                                                 <div id="fondoDelegacion">Cádiz</div><br>Delegación en Cádiz
                                             </div>
                                         </a>
                                     </div>
                                     <div class="col-md-4">
-                                        <a href="delegaciones/microcemento-cordoba.html">
+                                        <a href="delegaciones/microcemento-cordoba">
                                             <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/cordoba.jpg" alt="Delegación en Córdoba">
                                                 <div id="fondoDelegacion">Córdoba</div><br>Delegación en Córdoba
                                             </div>
                                         </a>
                                     </div>
                                     <div class="col-md-4">
-                                        <a href="delegaciones/microcemento-granada.html">
+                                        <a href="delegaciones/microcemento-granada">
                                             <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/granada.jpg" alt="Delegación en Granada">
                                                 <div id="fondoDelegacion">Granada</div><br>Delegación en Granada
                                             </div>
@@ -529,21 +516,21 @@
                                     <div class="row" style="float:none; clear:both; position:relative;">
 
                                         <div class="col-md-4">
-                                            <a href="delegaciones/microcemento-huelva.html">
+                                            <a href="delegaciones/microcemento-huelva">
                                                 <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/huelva.jpg" alt="Delegación en Huelva">
                                                     <div id="fondoDelegacion">Huelva</div><br>Delegación en Huelva
                                                 </div>
                                             </a>
                                         </div>
                                         <div class="col-md-4">
-                                            <a href="delegaciones/microcemento-ibiza.html">
+                                            <a href="delegaciones/microcemento-ibiza">
                                                 <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/ibiza.jpg" alt="Delegación en Ibiza">
                                                     <div id="fondoDelegacion">Ibiza</div><br>Delegación en Ibiza
                                                 </div>
                                             </a>
                                         </div>
                                         <div class="col-md-4">
-                                            <a href="delegaciones/microcemento-leon.html">
+                                            <a href="delegaciones/microcemento-leon">
                                                 <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/leon.jpg" alt="Delegación en León">
                                                     <div id="fondoDelegacion">León</div><br>Delegación en León
                                                 </div>
@@ -554,19 +541,19 @@
                                     <div class="row" style="float:none; clear:both; position:relative;">
 
                                         <div class="col-md-4">
-                                            <a href="delegaciones/microcemento-marbella.html">
+                                            <a href="delegaciones/microcemento-marbella">
                                                 <div id="delegacionIzquierda"><img src="https://www.topciment.com/imagenes/marbella.jpg" alt="Delegación en Marbella">
                                                     <div id="fondoDelegacion">Marbella</div><br>Delegación en Marbella
                                                 </div>
                                             </a>
                                         </div>
-                                        <div class="col-md-4"> <a href="delegaciones/microcemento-vigo.html">
+                                        <div class="col-md-4"> <a href="delegaciones/microcemento-vigo">
                                                 <div id="delegacionCentro"><img src="https://www.topciment.com/imagenes/vigo.jpg" alt="Delegación en Vigo">
                                                     <div id="fondoDelegacion">Vigo</div><br>Delegación en Vigo
                                                 </div>
                                             </a> </div>
                                         <div class="col-md-4">
-                                            <a href="delegaciones/microcemento-valladolid.html">
+                                            <a href="delegaciones/microcemento-valladolid">
                                                 <div id="delegacionDerecha"><img src="https://www.topciment.com/imagenes/valladolid.jpg" alt="Delegación en Valladolid">
                                                     <div id="fondoDelegacion">Valladolid</div><br>Delegación en Valladolid
                                                 </div>
@@ -600,7 +587,7 @@
 
             <?php include "includes/root-footer.php"; ?>
 
-            <?php include "includes/root-scripts.php"; ?>
+            <?php include "../assets/includes/root-scripts.php"; ?>
         </div>
 
         <!-- include jQuery -->

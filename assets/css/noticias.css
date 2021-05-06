@@ -1,3 +1,11 @@
+#noticias .container{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+#noticias .row{
+        margin-right: 0px;
+        margin-left: 0px;
+}
 .card {
     border: none;
 }
@@ -14,7 +22,29 @@ h1 {
     margin-bottom: 50px;
     text-align: center;
 }
-
+#noticia h2,h3, h4{
+    margin-bottom: 15px;
+}
+#noticia p ul li{
+    margin-bottom: 15px;
+}
+#noticias figure img{
+    height: 700px;
+    object-fit: cover;
+    object-position: bottom;
+    width: 100%;
+}
+#noticia .figure img{
+  display:block;
+  margin:auto;
+      max-height: 900px;
+}
+#noticia .figure  {
+    display: block;
+}
+#noticia figcaption{
+    text-align: center;
+}
 .card-header {
     margin-top: 0.5%;
     margin-bottom: 0.5%;
@@ -40,6 +70,12 @@ h1 {
     width: 100%;
 }
 
+#mitadTextoIzquierda{
+    width: 100%;
+}
+#mitadTextoDerecha{
+    width: 100%;
+}
 /* movilcss */
 @media screen and (max-width:480px) {
     .pull-left {
@@ -61,6 +97,7 @@ h1 {
         width: 350px;
         height: 150px;
         object-fit: cover;
+           object-position: bottom;
 
     }
 
@@ -72,6 +109,7 @@ h1 {
         width: 350px;
         height: 150px;
         object-fit: cover;
+           object-position: bottom;
 
     }
 
@@ -82,8 +120,9 @@ h1 {
 @media screen and (min-width:1201px) {
     .pull-left {
         width: 350px;
-        height: 150px;
+        height: 180px;
         object-fit: cover;
+        object-position: bottom;
 
     }
 

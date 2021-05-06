@@ -151,19 +151,19 @@ $(document).ready(function () {
 
     var link1 = '<li class="cursosF"><a class="linkB"  target="_blank" href="https://training.topciment.com">Book your training</a></li>';
     $(".profesionalesF").prepend(link1);
-    var link2 = '<li class="exterioresF"><a class="linkB" href="https://www.topciment.com/en/gallery.html#exteriores">Terrace floors and exteriors</a></li>';
+    var link2 = '<li class="exterioresF"><a class="linkB" href="https://www.topciment.com/en/microcements/gallery#exteriores">Terrace floors and exteriors</a></li>';
     $(".banyoF").prepend(link2);
-    var link3 = '<li class="techoF"><a class="linkB" href="https://www.topciment.com/en/gallery.html#techo">Microcement in ceilings</a></li>';
+    var link3 = '<li class="techoF"><a class="linkB" href="https://www.topciment.com/en/microcements/gallery#techo">Microcement in ceilings</a></li>';
     $(".banyoF").prepend(link3);
-    var link3 = '<li class="piscinasF"><a class="linkB" href="https://www.topciment.com/en/gallery.html#piscinas">Microcement pools</a></li>';
+    var link3 = '<li class="piscinasF"><a class="linkB" href="https://www.topciment.com/en/microcements/gallery#piscinas">Microcement pools</a></li>';
     $(".banyoF").prepend(link3);
-    $(".calcF a").attr("href", "https://www.topciment.com/en/calc/index.html")
+    $(".calcF a").attr("href", "https://www.topciment.com/en/calc/.html")
 
     $.gdprcookie({
       title: "🍪 Do you accept cookies and the privacy policy?",
       subtitle: "Select cookies to accept ",
 
-      message: "This website uses its own and third party cookies for its operation, as well as to obtain anonymous statistics on the use of the website. If you continue to browse we consider that you accept its use. You can change the settings or get more information in the  <strong> <a class='linkC' href='https://www.topciment.com/en/cookie-policy.html'>  Cookie Policy </strong>",
+      message: "This website uses its own and third party cookies for its operation, as well as to obtain anonymous statistics on the use of the website. If you continue to browse we consider that you accept its use. You can change the settings or get more information in the  <strong> <a class='linkC' href='https://www.topciment.com/en/cookie-policy'>  Cookie Policy </strong>",
       delay: 600,
       expires: 1,
       acceptBtnLabel: "Accept Cookies",
@@ -206,7 +206,7 @@ $(document).ready(function () {
     $(".banyoF").prepend(link3);
     var link3 = '<li class="piscinasF"><a class="linkB" href="https://www.topciment.com/de/galerie.html#piscinas">Mikrozement Swimingpools</a></li>';
     $(".banyoF").prepend(link3);
-    $(".calcF a").attr("href", "https://www.topciment.com/de/calc/index.html")
+    $(".calcF a").attr("href", "https://www.topciment.com/de/calc/.html")
     $.gdprcookie({
       title: "🍪 Akzeptieren Sie Cookies und die Datenschutzrichtlinie?",
       subtitle: "Zu akzeptierende Cookies auswählen ",
@@ -255,7 +255,7 @@ $(document).ready(function () {
     $(".banyoF").prepend(link3);
     var link3 = '<li class="piscinasF"><a class="linkB" href="https://www.topciment.com/fr/photos-du-revetement-decoratif-beton-cire.html#piscinas">Piscines en béton ciré</a></li>';
     $(".banyoF").prepend(link3);
-    $(".calcF a").attr("href", "https://www.topciment.com/fr/calc/index.html")
+    $(".calcF a").attr("href", "https://www.topciment.com/fr/calc/.html")
     $.gdprcookie({
       title: "🍪 Acceptez-vous les cookies et la politique de confidentialité?",
       subtitle: "Sélectionnez les cookies pour accepter ",
@@ -307,7 +307,7 @@ $(document).ready(function () {
     $(".banyoF").prepend(link3);
     var link3 = '<li class="piscinasF"><a class="linkB" href="https://www.topciment.com/it/galleria.html#piscinas">Piscine di microcemento</a></li>';
     $(".banyoF").prepend(link3);
-    $(".calcF a").attr("href", "https://www.topciment.com/it/calc/index.html")
+    $(".calcF a").attr("href", "https://www.topciment.com/it/calc/.html")
 
     $.gdprcookie({
       title: "🍪 Accettate i cookie e l'informativa sulla privacy?",
@@ -363,7 +363,7 @@ function showImgContent(e) {
 };
 
 document.addEventListener('mousemove', showImgContent);
-    $(".calcF a").attr("href", "https://www.topciment.com/calc/index.html")
+    $(".calcF a").attr("href", "https://www.topciment.com/calc/.html")
     xenioowebchat.Start("83659ee5-4d66-473d-8243-6698f86a86c3");
     $('.zsiq_floatmain').css({
       'display': 'none !important'

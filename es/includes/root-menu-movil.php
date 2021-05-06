@@ -2,7 +2,7 @@
  <!-- Abrir el menu -->
  <div id="visiblemovil">
      <div style="opacity:1; padding-top:0px; z-index:1000;"><a href="#menu" style="text-decoration:none; color:#000; font-size:30px; font-weight:100" onclick="mostrarmovil()">
-             <img src="https://www.topciment.com/imagenes/icono-menu-abrir-white.png" width="26" height="20" alt="menu" /></a>
+             <img src="https://www.topciment.com/imagenes/icono-menu-abrir-white.png" width="26" height="20" alt="menu"/></a>
      </div>
  </div>
 
@@ -12,19 +12,16 @@
      <div id="ocultomovilinterno">
          <div id="menuidiomasmovil">
              <ul>
-                 <li> <a class="activo" href="microcementos/microcementos.php">Microcemento</li>
-                 <li><a href="hormigon-impreso/hormigon-impreso.php">Hormigón</li>
-                 <!--   <li> <a href="https://www.topciment.com/de/">Epoxy</a></li>
- -->
+                 <li> <a class="activo" href="microcementos">Microcemento</li>
              </ul>
          </div>
          <div id="menuocultomovil">
              <ul>
-                 <li><a href="profesionales.php" onclick="ocultarmovil()">Profesionales</a></li>
-                 <li><a href="fichas-tecnicas.php" onclick="ocultarmovil()">Fichas técnicas</a></li>
-                 <li><a href="garantia.php" onclick="ocultarmovil()">Garantía</a></li>
-                 <li><a href="noticias.php" onclick="ocultarmovil()">Noticias</a></li>
-                 <li><a href="contacto.php" onclick="ocultarmovil()">Contacto</a></li>
+                 <li><a href="microcemento/productos" onclick="ocultarmovil()">Productos</a></li>
+                 <li><a href="profesionales" onclick="ocultarmovil()">Profesionales</a></li>
+                 <li><a href="microcemento/cursos-aplicacion-microcemento" onclick="ocultarmovil()">Cursos</a></li>
+                 <li><a href="microcemento/galeria" onclick="ocultarmovil()">Galeria</a></li>
+                 <li><a href="noticias" onclick="ocultarmovil()">Noticias</a></li>
 
              </ul>
          </div>
@@ -40,5 +37,5 @@
              </ul>
          </div>
      </div>
-     <div id="cerrarEquis"><a href="#menu" style="text-decoration:none; color:#000; font-size:30px; font-weight:100" onclick="ocultarmovil()"><img src="https://www.topciment.com/imagenes/equis-cerrar.png" width="28" height="28" alt="Cerrar" /></a></div>
+     <div id="cerrarEquis"><a href="#menu" style="text-decoration:none; color:#000; font-size:30px; font-weight:100" onclick="ocultarmovil()"><img src="https://www.topciment.com/imagenes/equis-cerrar.png" width="28" height="28" alt="Cerrar"/></a></div>
  </div>
