@@ -150,7 +150,7 @@
                         </div>
                     </div>
                     <!-- propiedades -->
-                    <h3 class="en3">Características técnicas</h3>
+                    <h3 class="en3">Características técnicas limpiador microcemento Ecoclean Basic</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -282,7 +282,7 @@
                     </div>
                     <!-- propiedades  de acricem micrcoecemento a-->
                     <h3 class="en3">
-                        Características técnicas</h3>
+                        Características técnicas limpiador microcemento Ecoclean Pro</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -404,7 +404,7 @@
                     </div>
                     <!-- Propiedades -->
                     <h3 class="en3">
-                        Características técnicas</h3>
+                        Características técnicas cera protectora microcemento Ceraciment Basic</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -459,17 +459,16 @@
                     <!-- Rendimiento -->
                     <h3 class="en3">
                         Rendimiento</h3>
-                    <p><span>A mano 0,25 mL/m2</span></p>
+                    <p>El rendimiento de la cera protectora de microcemento para uso doméstico Ceraciment Basic es a mano de 0,25 mL/m2</p>
                     <!-- Presentación -->
                     <h3 class="en3">
                         Presentación</h3>
-                    <p>La cera protectora de microcemento Ceraciment Basic se presenta en garrafas de plástico de 5
-                        litros.
+                    <p>La cera protectora de microcemento Ceraciment Basic se presenta en garrafas de plástico de 5 litros
                     </p>
                 </div>
             </div>
         </section>
-        <!-- end ceraciment basic  -->j
+        <!-- end ceraciment basic  -->
 
         <!-- start ceraciment pro -->
         <div id="separador50px">
@@ -509,8 +508,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3">
-                        Características técnicas</p>
+                    <h3 class="en3">Características técnicas cera protectora microcemento Ceraciment Pro</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -566,14 +564,14 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3">
-                        Rendimiento</p>
+                    <h3 class="en3">
+                        Rendimiento</h3>
                     <p><span>A máquina 20-40 mL/m2<br>
                             A mano 30-50 mL/m2</span></p>
                     <!-- Presentación -->
-                    <p class="en3">
-                        Presentación </p>
-                    <p>La cera protectora de microcemento Ceraciment Pro se presenta en garrafas de plástico de 5 L.
+                    <h3 class="en3">
+                        Presentación </h3>
+                    <p>La cera protectora de microcemento Ceraciment Pro se presenta también en garrafas de plástico de 5 litros.
 
                     </p>
                 </div>
