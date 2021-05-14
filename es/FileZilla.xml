@@ -1,0 +1,3116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.51.0" platform="windows">
+	<Servers>
+		<Server>
+			<Host>151.80.13.213</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_topciment</User>
+			<Pass encoding="base64">dUM1MkdCMlVXMA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>01.- Topciment</Name>
+			<Colour>2</Colour>
+			<LocalDir>C:\xampp\htdocs\webMicro\es\</LocalDir>
+			<RemoteDir>1 0 11 public_html 2 es</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">akg2Kkc1NEQ0Rkhpwr8=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>01.- Topciment 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+jH6*G54D4FHi¿</Comments>
+			<Colour>2</Colour>
+			<LocalDir>C:\Users\Aina\Desktop\web\webES</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>02.- Topciment.RU</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>C:\Users\Toni\Desktop\PRODUCCION TOPCIMENT RUSIA</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.ru 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>02.- Topciment.RU 2</Name>
+			<Comments>?0163ec31fPL
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>C:\Users\Toni\Desktop\PRODUCCION TOPCIMENT RUSIA</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.ru 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>03.- Topciment.US</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>C:\Users\Aina\Documents\US\us-web</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.us 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>03.- Topciment.US 2</Name>
+			<Comments>?0163ec31fPL</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment US\PRODUCCION TOPCIMENT USA</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.us 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>04.- Topciment.CN</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment CN</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.cn 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>04.- Topciment.CN 2</Name>
+			<Comments>?0163ec31fPL</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment CN</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.cn 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>64.120.88.114</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>admin_info</User>
+			<Pass encoding="base64">QTYyOTh1UzltYg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>04.- Topciment.CN 2 2</Name>
+			<Comments>A6298uS9mb</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment CN</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.cn 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>05.- Topciment.PL</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PL\PRODUCCION NUEVA TOPCIMENT POLACO</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.pl 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>05.- Topciment.PL 2</Name>
+			<Comments>?0163ec31fPL</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PL\PRODUCCION NUEVA TOPCIMENT POLACO</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.pl 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.pt</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.pt</User>
+			<Pass encoding="base64">MylhLWRRc29ZWShn</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>4</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>06.- Topciment.PT</Name>
+			<Comments>ftp.topciment.pt
+
+3)a-dQsoYY(g</Comments>
+			<Colour>7</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PT\PRODUCCION NUEVA WEB TOPCIMENT PORTUGAL\</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.pt</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.pt</User>
+			<Pass encoding="base64">MylhLWRRc29ZWShn</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>4</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>06.- Topciment.PT 2</Name>
+			<Comments>ftp.topciment.pt
+
+3)a-dQsoYY(g</Comments>
+			<Colour>7</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PT\PRODUCCION NUEVA WEB TOPCIMENT PORTUGAL\</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>07.- Topciment.UK</Name>
+			<Comments>?0163ec31fPL
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>C:\Users\Aina\Desktop\UK</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 12 topciment.uk 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">PzAxNjNlYzMxZlBM</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>07.- Topciment.UK 2</Name>
+			<Comments>?0163ec31fPL</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment UK</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 12 topciment.uk 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.smartcret.com</Host>
+			<Port>21</Port>
+			<Protocol>4</Protocol>
+			<Type>0</Type>
+			<User>ftp.smartcret.com
+</User>
+			<Pass encoding="base64">QmtRUU9kUnk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>10.- Smartcret</Name>
+			<Comments>BkQQOdRy</Comments>
+			<LocalDir>Z:\Smartcret\Marketing Smartcret\Web\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.smartcret.com</Host>
+			<Port>21</Port>
+			<Protocol>4</Protocol>
+			<Type>0</Type>
+			<User>ftp.smartcret.com</User>
+			<Pass encoding="base64">QmtRUU9kUnk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>10.- Smartcret 2</Name>
+			<Comments>BkQQOdRy</Comments>
+			<LocalDir>Z:\Smartcret\Marketing Smartcret\Web\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.myrevest.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.myrevest.com</User>
+			<Pass encoding="base64">d1pEdEc3WGY=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>11.- Myrevest</Name>
+			<Comments>wZDtG7Xf</Comments>
+			<LocalDir>Z:\4. Otros\Myrevest\Web Myrevest\V3\01_HTML\</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.myrevest.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.myrevest.com</User>
+			<Pass encoding="base64">d1pEdEc3WGY=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>11.- Myrevest 2</Name>
+			<Comments>wZDtG7Xf</Comments>
+			<LocalDir>Z:\4. Otros\Myrevest\Web Myrevest\V3\01_HTML\</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alicante.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-alicante.info</User>
+			<Pass encoding="base64">SEw3TUN0Vk4=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Alicante</Name>
+			<Comments>ftp.microcemento-alicante.info
+HL7MCtVN</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-alicante.info</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alicante.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-alicante.info</User>
+			<Pass encoding="base64">SEw3TUN0Vk4=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Alicante 2</Name>
+			<Comments>ftp.microcemento-alicante.info
+HL7MCtVN</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-alicante.info</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-barcelona.org</User>
+			<Pass encoding="base64">b05CbHZteW4=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Barcelona</Name>
+			<Comments>ftp.microcemento-barcelona.org
+oNBlvmyn</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-barcelona.org</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-barcelona.org</User>
+			<Pass encoding="base64">b05CbHZteW4=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Barcelona 2</Name>
+			<Comments>ftp.microcemento-barcelona.org
+oNBlvmyn</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-barcelona.org</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-madrid.org</User>
+			<Pass encoding="base64">MjEyc3dwZVc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Madrid</Name>
+			<Comments>ftp.microcemento-madrid.org</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcementos-madrid-org</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-madrid.org</User>
+			<Pass encoding="base64">MjEyc3dwZVc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Madrid 2</Name>
+			<Comments>ftp.microcemento-madrid.org</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcementos-madrid-org</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-mallorca.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-mallorca.info</User>
+			<Pass encoding="base64">SXlXczh2SDc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Mallorca</Name>
+			<Comments>IyWs8vH7</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-mallorca.info</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-mallorca.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento-mallorca.info</User>
+			<Pass encoding="base64">SXlXczh2SDc=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Beton Cire Mallorca 2</Name>
+			<Comments>IyWs8vH7</Comments>
+			<LocalDir>Z:\3. Beton ciré\Webs\COPIA SEGURIDAD\www.microcemento-mallorca.info</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.beton-cire.org</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.beton-cire.org</User>
+			<Pass encoding="base64">elMza2xRVUg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>beton-cire.org</Name>
+			<LocalDir>\\Servidor01\docs\3. Beton ciré\Webs\PRODUCCION BETON CIRE</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.beton-cire.org</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.beton-cire.org</User>
+			<Pass encoding="base64">elMza2xRVUg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>beton-cire.org 2</Name>
+			<LocalDir>\\Servidor01\docs\3. Beton ciré\Webs\PRODUCCION BETON CIRE</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.betoncire.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.betoncire.es</User>
+			<Pass encoding="base64">dGxnQ3dxNmg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Betoncire</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Catálogos de productos Topciment</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Diseño e Imagen\Material Comercial\Catálogo de productos\PDF</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Catálogos de productos Topciment 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Diseño e Imagen\Material Comercial\Catálogo de productos\PDF</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>push-30.cdn77.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>user_ihkveide</User>
+			<Pass encoding="base64">cXdlYXNkMTIz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>cdn</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>64.120.88.114</Host>
+			<Port>26</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">NW5fYnQ5LFp+Q3Vw</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>China server</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment COM\COPIA DE SEGURIDAD TOPCIMENT.COM 22-01-2019</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment COM\COPIA DE SEGURIDAD TOPCIMENT.COM 22-01-2019</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment.CN</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Y:\1. Topciment\Web\Topciment CN\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.cn 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment.CN 2</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Y:\1. Topciment\Web\Topciment CN\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.cn 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment.RU</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Y:\1. Topciment\Web\Topciment RU\Copia de seguridad Topciment.ru ULTIMA</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.ru 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>sftp.dc2.gpaas.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>36630</User>
+			<Pass encoding="base64">Y3VNQWZiNjs=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Copia de seguridad Topciment.RU 2</Name>
+			<Comments>VSD743ht*
+
+cuMAfb6;
+
+</Comments>
+			<Colour>1</Colour>
+			<LocalDir>Y:\1. Topciment\Web\Topciment RU\Copia de seguridad Topciment.ru ULTIMA</LocalDir>
+			<RemoteDir>1 0 5 lamp0 3 web 6 vhosts 16 www.topciment.ru 6 htdocs</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.easycret.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.easycret.com</User>
+			<Pass encoding="base64">WDJQMWJSUDU=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_PASSIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Easycret</Name>
+			<Comments>X2P1bRP5</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Easycret\Web Easycret\v1</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.easycret.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.easycret.com</User>
+			<Pass encoding="base64">WDJQMWJSUDU=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_PASSIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Easycret 2</Name>
+			<Comments>X2P1bRP5</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Easycret\Web Easycret\v1</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas de SEGURIDAD</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas de seguridad</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento 19 fichas-de-seguridad</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas de SEGURIDAD 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas de seguridad</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento 19 fichas-de-seguridad</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment CN</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 DE</LocalDir>
+			<RemoteDir>1 0 6 public 2 cn 11 data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment CN 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 DE</LocalDir>
+			<RemoteDir>1 0 6 public 2 cn 11 data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment DE</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 DE</LocalDir>
+			<RemoteDir>1 0 6 public 2 de 23 technische-datenblatter</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment DE 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 DE</LocalDir>
+			<RemoteDir>1 0 6 public 2 de 23 technische-datenblatter</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment EN</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 EN</LocalDir>
+			<RemoteDir>1 0 6 public 2 en 11 data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment EN 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2019\Fichas técnicas Topciment 2019 EN</LocalDir>
+			<RemoteDir>1 0 6 public 2 en 11 data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment ES</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 ES</LocalDir>
+			<RemoteDir>1 0 6 public 15 fichas-tecnicas</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment ES 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Fichas Técnicas\Fichas técnicas 2020\Fichas técnicas Topciment 2020 ES</LocalDir>
+			<RemoteDir>1 0 6 public 15 fichas-tecnicas</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment FR</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 FR</LocalDir>
+			<RemoteDir>1 0 6 public 2 fr 17 fiches-techniques</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment FR 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 FR</LocalDir>
+			<RemoteDir>1 0 6 public 2 fr 17 fiches-techniques</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment GR</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 GR</LocalDir>
+			<RemoteDir>1 0 6 public 2 gr 14 gr-data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment GR 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 GR</LocalDir>
+			<RemoteDir>1 0 6 public 2 gr 14 gr-data-sheets</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>22</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment IT</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 IT</LocalDir>
+			<RemoteDir>1 0 6 public 2 it</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>22</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment IT 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 IT</LocalDir>
+			<RemoteDir>1 0 6 public 2 it</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment NL</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 NL</LocalDir>
+			<RemoteDir>1 0 6 public 2 nl 19 technische-gegevens</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment NL 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 NL</LocalDir>
+			<RemoteDir>1 0 6 public 2 nl 19 technische-gegevens</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.pt</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.pt</User>
+			<Pass encoding="base64">MylhLWRRc29ZWShn</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment PT</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PT\PRODUCCION NUEVA WEB TOPCIMENT PORTUGAL\folhas-tecnicas\</LocalDir>
+			<RemoteDir>1 0 6 public 15 folhas-tecnicas</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.pt</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.pt</User>
+			<Pass encoding="base64">MylhLWRRc29ZWShn</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment PT 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\1. Topciment\Web\Topciment PT\PRODUCCION NUEVA WEB TOPCIMENT PORTUGAL\folhas-tecnicas\</LocalDir>
+			<RemoteDir>1 0 6 public 15 folhas-tecnicas</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment RU</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 RU</LocalDir>
+			<RemoteDir>1 0 6 public 2 ru 22 tejnicheskiye-pasporta</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Fichas Técnicas Topciment RU 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Fichas Técnicas\Fichas técnicas 2018\Fichas técnicas Topciment 2018 RU</LocalDir>
+			<RemoteDir>1 0 6 public 2 ru 22 tejnicheskiye-pasporta</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-albacete.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>info@microcemento-albacete.com</User>
+			<Pass encoding="base64">UjRQNzlQY2hMPV5H</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-albacete.com</Name>
+			<Comments>R4P79PchL=^G</Comments>
+			<Colour>7</Colour>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-albacete.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-albacete.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>info@microcemento-albacete.com</User>
+			<Pass encoding="base64">UjRQNzlQY2hMPV5H</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-albacete.com 2</Name>
+			<Comments>R4P79PchL=^G</Comments>
+			<Colour>7</Colour>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-albacete.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alcala.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micmalca</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-alcala.es</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-alcala.es</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alcala.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micmalca</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-alcala.es 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-alcala.es</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alicante.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microali</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-alicante.net</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>5</Colour>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-alicante.net\public_html</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-alicante.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microali</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-alicante.net 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>5</Colour>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-alicante.net\public_html</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microbcn</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-barcelona.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>1</Colour>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-barcelona.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microbcn</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-barcelona.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>1</Colour>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-barcelona.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mibcn</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-barcelona.es</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-barcelona.es</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-barcelona.es</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mibcn</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-barcelona.es 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-barcelona.es</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-bilbao.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mblbocom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-bilbao.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-bilbao.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-bilbao.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mblbocom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-bilbao.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-bilbao.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-caceres.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcar</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-caceres.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-caceres.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-caceres.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcar</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-caceres.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-caceres.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-cadiz.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micadcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-cadiz.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-cadiz.com\public_html</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-cadiz.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micadcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-cadiz.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-cadiz.com\public_html</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-cordoba.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcor</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-cordoba.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-cordoba.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-cordoba.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcor</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-cordoba.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-cordoba.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-granada.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>migrdaco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-granada.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>7</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-granada.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 migrdaco 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-granada.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>migrdaco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-granada.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>7</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-granada.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 migrdaco 11 public_html</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-huelva.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mihuelco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-huelva.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-huelva.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-huelva.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mihuelco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-huelva.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-huelva.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-ibiza.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micibico</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-ibiza.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-ibiza.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-ibiza.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micibico</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-ibiza.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-ibiza.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-laspalmas.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micropal</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-laspalmas.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-laspalmas.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-laspalmas.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micropal</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-laspalmas.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-laspalmas.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-leon.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mileonco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-leon.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-leon.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-leon.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mileonco</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-leon.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-leon.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micromdc</User>
+			<Pass encoding="base64">Q2RSYVNPMl54ekMj</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.com</Name>
+			<Comments>DMkWQ7fcHW94wGf
+
+CdRaSO2^xzC#</Comments>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micromdc</User>
+			<Pass encoding="base64">Q2RSYVNPMl54ekMj</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf
+
+CdRaSO2^xzC#</Comments>
+			<LocalDir>\\Servidor01\DOCS\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.es</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>microcem</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.es</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.es</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.es</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>microcem</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.es 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.es</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micromad</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.info</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.info</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-madrid.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micromad</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-madrid.info 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-madrid.info</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-malaga.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>micromal</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-malaga.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-malaga.com</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-malaga.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>micromal</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-malaga.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-malaga.com</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-mallorca.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micrmall</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-mallorca.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-mallorca.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 micrmall 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-mallorca.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>micrmall</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-mallorca.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-mallorca.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 micrmall 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-marbella.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mimarcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-marbella.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-marbella.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-marbella.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mimarcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-marbella.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-marbella.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-sevilla.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microsvl</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-sevilla.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-sevilla.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-sevilla.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microsvl</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-sevilla.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-sevilla.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-sevilla.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microsvl</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-sevilla.com 2 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-sevilla.com</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-sevilla.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microsev</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-sevilla.info</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-sevilla.info</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-sevilla.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microsev</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-sevilla.info 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-sevilla.info</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-tenerife.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mitencom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-tenerife.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-tenerife.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-tenerife.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mitencom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-tenerife.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-tenerife.com</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microval</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.info</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.info</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microval</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.info 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.info</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mivlcnet</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.net</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.net</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mivlcnet</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.net 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Y:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.net</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mivlcorg</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.org</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.org</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mivlcorg</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.org 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.org</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-valencia.org</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mivlcorg</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-valencia.org 2 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-valencia.org
+			</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-vigo.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mvigocom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-vigo.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-vigo.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mvigocom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-vigo.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-zaragoza.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microzgz</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-zaragoza.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-zaragoza.com</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento-zaragoza.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microzgz</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcemento-zaragoza.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-zaragoza.com</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcementos-madrid.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mismdrc0</User>
+			<Pass encoding="base64">U3BiM2Nbd0lyM1Q5Y0ouO0hj</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcementos-madrid.com</Name>
+			<Comments>nTigID}g-+h1
+
+Spb3c[wIr3T9cJ.;Hc</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcementos-madrid.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcementos-madrid.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mismdrc0</User>
+			<Pass encoding="base64">U3BiM2Nbd0lyM1Q5Y0ouO0hj</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcementos-madrid.com 2</Name>
+			<Comments>nTigID}g-+h1
+
+Spb3c[wIr3T9cJ.;Hc</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcementos-madrid.com</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-cascais.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>mcascais</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-cascais.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-cascais.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 mcascais 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-cascais.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>mcascais</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-cascais.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-cascais.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 mcascais 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-lisboa.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>milisboc</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-lisboa.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-lisboa.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 milisboc 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-lisboa.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>milisboc</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-lisboa.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcemento-lisboa.com\public_html\</LocalDir>
+			<RemoteDir>1 0 4 home 8 milisboc 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-porto.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mportcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-porto.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-porto.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-porto.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mportcom</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-porto.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-porto.com\public_html\</LocalDir>
+			<RemoteDir>1 0 11 public_html</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-queluz.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>mqueluzc</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-queluz.com</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-queluz.com\public_html\content\</LocalDir>
+			<RemoteDir>1 0 4 home 8 mqueluzc 11 public_html 7 content</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento-queluz.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>mqueluzc</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento-queluz.com 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>Z:\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento-queluz.com\public_html\content\</LocalDir>
+			<RemoteDir>1 0 4 home 8 mqueluzc 11 public_html 7 content</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento.eu</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcim</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento.eu</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Microsites\Copia de seguridad Miniwebs\microcimento.eu</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcimento.eu</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcim</User>
+			<Pass encoding="base64">RE1rV1E3ZmNIVzk0d0dm</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.microcimento.eu 2</Name>
+			<Comments>DMkWQ7fcHW94wGf</Comments>
+			<LocalDir>D:\Nuevas miniwebs\microcimento.eu</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topsealer.es</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>topsealer</User>
+			<Pass encoding="base64">SERHcmczNHQ0SktONDR3Zg==</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>2</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.topsealer.es</Name>
+			<Comments>HDGrg34t4JKN44wf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>C:\Users\Toni\Desktop\TOPSEALER</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topsealer.es</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>topsealer</User>
+			<Pass encoding="base64">SERHcmczNHQ0SktONDR3Zg==</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>2</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ftp.topsealer.es 2</Name>
+			<Comments>HDGrg34t4JKN44wf</Comments>
+			<Colour>6</Colour>
+			<LocalDir>C:\Users\Toni\Desktop\TOPSEALER</LocalDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete - Copia de seguridad</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>2</Colour>
+			<LocalDir>Z:\2. Luxury\Web\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 3 www</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete - Copia de seguridad 2</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>2</Colour>
+			<LocalDir>Z:\2. Luxury\Web\COPIA DE SEGURIDAD</LocalDir>
+			<RemoteDir>1 0 3 www</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2019</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\servidor01\DOCS\2. Luxury\Web\2020 EU</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoii 3 www</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2019 2</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE PL</LocalDir>
+			<RemoteDir>8 0 10 servidor01 4 DOCS 9 2. Luxury 3 Web 7 2020 EU</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster027.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoij</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2019 CHINA</Name>
+			<Comments>luxurycoij
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE 2019 CHINA</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoij 3 www</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster027.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoij</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2019 CHINA 2</Name>
+			<Comments>luxurycoij
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE 2019 CHINA</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoij 3 www</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2020 ESTADOS UNIDOS</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>C:\Users\Aina\Documents\US\us-web</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoii 2 us</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2020 ESTADOS UNIDOS 2</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE US</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoii 2 us</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2020 POLACO</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE PL</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoii 2 pl</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete 2020 PORTUGUES</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>Z:\2. Luxury\Web\PRODUCCION NUEVA LUXURY CONCRETE 2020 PT</LocalDir>
+			<RemoteDir>1 0 4 home 10 luxurycoii 2 pt</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete Fichas técnicas</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>2</Colour>
+			<LocalDir>Z:\2. Luxury\Fichas Técnicas\2019\PDF</LocalDir>
+			<RemoteDir>1 0 3 www</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.cluster023.hosting.ovh.net</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>luxurycoii</User>
+			<Pass encoding="base64">MXRhYjJGVFA=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Luxury Concrete Fichas técnicas 2</Name>
+			<Comments>luxurycoii 
+1tab2FTP
+</Comments>
+			<Colour>2</Colour>
+			<LocalDir>Z:\2. Luxury\Fichas Técnicas\2019\PDF</LocalDir>
+			<RemoteDir>1 0 3 www</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>microcemento.blog</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcemento.blog</User>
+			<Pass encoding="base64">a1ZXWnk4eGI=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.blog</Name>
+			<Comments>kVWZy8xb</Comments>
+			<Colour>5</Colour>
+			<LocalDir>\\Servidor01\docs\4. Otros\Microcemento.BLOG\</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>microcemento.blog</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcemento.blog</User>
+			<Pass encoding="base64">a1ZXWnk4eGI=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.blog 2</Name>
+			<Comments>kVWZy8xb</Comments>
+			<Colour>5</Colour>
+			<LocalDir>\\Servidor01\docs\4. Otros\Microcemento.BLOG\</LocalDir>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>home724220940.1and1-data.host</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>u92593250</User>
+			<Pass encoding="base64">QcK3OTI1OTMyNTBBYQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.info</Name>
+			<Comments>A·92593250Aa</Comments>
+			<Colour>4</Colour>
+			<LocalDir>Z:\4. Otros\Microcemento.INFO\Dokuwiki</LocalDir>
+			<RemoteDir>1 0 14 clickandbuilds 8 dokuWiki 12 microcemento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>home724220940.1and1-data.host</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>u92593250</User>
+			<Pass encoding="base64">QcK3OTI1OTMyNTBBYQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.info 2</Name>
+			<Comments>A·92593250Aa</Comments>
+			<Colour>4</Colour>
+			<LocalDir>Z:\4. Otros\Microcemento.INFO\Dokuwiki</LocalDir>
+			<RemoteDir>1 0 14 clickandbuilds 8 dokuWiki 12 microcemento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>microcemento.photo</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcemento.photo</User>
+			<Pass encoding="base64">a1ZXWnk4eGI=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.photo</Name>
+			<LocalDir>Z:\4. Otros\Microcemento.PHOTO\APPS\koken</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>microcemento.photo</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcemento.photo</User>
+			<Pass encoding="base64">a1ZXWnk4eGI=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.photo 2</Name>
+			<LocalDir>Z:\4. Otros\Microcemento.PHOTO\APPS\koken</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento.pro</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento.pro</User>
+			<Pass encoding="base64">WlhGRm5NaFg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.pro</Name>
+			<Comments>ZXFFnMhX</Comments>
+			<LocalDir>Z:\4. Otros\Microcemento.PRO\PRODUCCION MICROCEMENTO.PRO</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.microcemento.pro</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftp.microcemento.pro</User>
+			<Pass encoding="base64">WlhGRm5NaFg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.pro 2</Name>
+			<Comments>ZXFFnMhX</Comments>
+			<LocalDir>Z:\4. Otros\Microcemento.PRO\PRODUCCION MICROCEMENTO.PRO</LocalDir>
+			<RemoteDir>1 0 6 public</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>microcemento.tienda</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>microcemento.tienda</User>
+			<Pass encoding="base64">eGlKbWE2dkF0SA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>microcemento.tienda</Name>
+			<Comments>AAFAFt43t44e
+
+xiJma6vAtH</Comments>
+			<LocalDir>Z:\4. Otros\Microcemento.tienda</LocalDir>
+			<RemoteDir>8 0</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>1</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Paso a paso Topciment</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Material Comercial\NUEVO PASO A PASO</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.topciment.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>ftp.topciment.com</User>
+			<Pass encoding="base64">dEFpNEBzcFRUXmk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>1</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Paso a paso Topciment 2</Name>
+			<Comments>ftp.topciment.com
+
+tAi4@spTT^i
+</Comments>
+			<Colour>3</Colour>
+			<LocalDir>\\Servidor01\docs\1. Topciment\Material Comercial\NUEVO PASO A PASO</LocalDir>
+			<RemoteDir>1 0 6 public 9 documento</RemoteDir>
+			<SyncBrowsing>1</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>hostrunway-103.53.211.63</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">ZE1TbGk2TW9VRmtO</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Topciment CN</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>
