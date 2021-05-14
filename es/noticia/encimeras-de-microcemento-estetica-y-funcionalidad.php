@@ -35,7 +35,7 @@
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
-
+<meta property="og:image" content="https://www.topciment.com/imagenes/encimeras/encimera-cocina-con-microcemento-topciment.jpg" />
     <link rel="canonical" href="https://www.topciment.com/es/noticia/encimeras-de-microcemento-estetica-y-funcionalidad" />
 
     <link rel="alternate" href="https://www.topciment.com/es/noticia/encimeras-de-microcemento-estetica-y-funcionalidad"
@@ -58,12 +58,12 @@
         <div class="container">
             <div id="sidebar" class="menuOculto menuMicrocementos stick">
                 <ul>
-                    <li><a href="../noticias" target="_self">Volver a Noticias</a></li>
+                 <li><a href="../noticias" target="_self">Volver a Noticias</a></li>
                 </ul>
             </div>
 
             <div class="content">
-                <h1> ¿Encimeras de microcemento?</h1>
+                <h1>Encimeras de microcemento: estética y funcionalidad</h1>
                 <div id="mitadTextoIzquierda">
 
 
@@ -112,7 +112,7 @@
                         baños, hoteles, restaurantes o cafeterías, entre otros muchos espacios.
 
                     </p>
-                    <h3>Las encimeras de microcemento son muy fáciles de limpiar</h3>
+                    <h3>1.Las encimeras de microcemento son muy fáciles de limpiar</h3>
 
                     <p>
                         En este tipo de mueble, expuesto continuamente a la suciedad, la comodidad está por encima de
@@ -199,7 +199,7 @@
                         se busque:
 
                     </p>
-                    <h3>Colocar la malla sobre la futura encimera de microcemento. </h3>
+                    <h3>1.Colocar la malla sobre la futura encimera de microcemento. </h3>
 
                     <p>
                         El primer paso es colocar la malla en la superficie que hará de base a la encimera de
@@ -207,7 +207,7 @@
                         fisuras con el tiempo.
 
                     </p>
-                    <h3>Imprimación de la encimera de microcemento</h3>
+                    <h3>2.Imprimación de la encimera de microcemento</h3>
 
                     <p>
                         El segundo paso de la aplicación del microcemento en una encimera consiste en la imprimación,

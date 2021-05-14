@@ -19,18 +19,18 @@
 
     <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
-    <title>金属氧化色浆：Classic Mettal。</title>
+    <title>经典金属色浆：Classic Mettal。</title>
     <meta name="description" content="使用Classic Mettal在墙壁和家具上创造独特的装饰效果。
-我们的金属氧化色浆是可用于微水泥，
+我们的经典金属色浆是可用于微水泥，
 混凝土、砖、陶瓷甚至金属的即用型涂料。" />
 
 
-    <meta property="og:title" content="金属氧化色浆：Classic Mettal。">
+    <meta property="og:title" content="经典金属色浆：Classic Mettal。">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url"
         content="https://www.topciment.com/cn/wenxingshuini/jingdian-jinshu-yanghua-xiaoguo-jinshuqi">
     <meta property="og:description" content="使用Classic Mettal在墙壁和家具上创造独特的装饰效果。
-我们的金属氧化色浆是可用于微水泥，
+我们的经典金属色浆是可用于微水泥，
 混凝土、砖、陶瓷甚至金属的即用型涂料。">
     <meta property="og:type" content="article">
     <meta property="og:image"
@@ -86,7 +86,7 @@
                     </div>
                     <div class="content">
                         <h1 class="en2">
-                            金属氧化色浆：Classic Mettal。</h1>
+                            经典金属色浆：Classic Mettal。</h1>
                         <div class="text-justify">
                          <p>
                                Classic Mettal是我们的即用型金属色浆系列，它含有铜、青铜、铁和黄铜等金属颗粒，根据您希望获得的效果，使涂层表面呈现真实的金属效果。 这些色浆的装饰在非通行的表面有无限的可能性，如墙壁或家具。相当有吸引力的饰面，为室内和室外提供了一种工业化的、精致的和原创的感觉。
@@ -118,9 +118,9 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Classic Mettal金属氧化色浆
+                    <h2>Classic Mettal经典金属色浆
 </h2>
-                    <p>在Topciment，我们有五种Classic Mettal金属氧化色浆：铜，青铜，铁004，黄铜和铁030。每一种都提供了独一无二的装饰性效果，因为它们让您以任意混合，没有两种涂料会是相同的，特别是当您应用我们的氧化活化剂Mettal Activator。</p>
+                    <p>在Topciment，我们有五种Classic Mettal经典金属色浆：铜，青铜，铁004，黄铜和铁030。每一种都提供了独一无二的装饰性效果，因为它们让您以任意混合，没有两种涂料会是相同的，特别是当您应用我们的氧化活化剂Mettal Activator。</p>
                     <!-- tipos de cubos -->
 
                     <div class="row">
@@ -188,7 +188,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>适用于任何载体</strong>
+                                    <strong>适用于任何高粘附力</strong>
                                     <p>微水泥、混凝土、砖、陶瓷、石膏板、灰泥、玻璃、纸和金属。</p>
                                 </div>
                             </div>
@@ -199,7 +199,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>高度黏着与载体
+                                    <strong>高度黏着与高粘附力
                                     </strong>
                                     <p>在低吸收表面的区域，建议先使用我们的底漆Primacem Plus。</p>
                                 </div>
@@ -238,18 +238,18 @@
                     <h2 class="en3">
                         涂布率</h2>
                     <p>
-                       Classic Mettal涂布率取决于载体和施工方法。在批刀应用中，耗量如下：0.15 L/m2。</p>
+                       Classic Mettal涂布率取决于高粘附力和施工方法。在批刀应用中，耗量如下：0.15 L/m2。</p>
                     <!-- 包装  -->
                     <h2 class="en3">
                         包装 </h2>
-                    <p>Classic Mettal金属氧化色浆以1L罐装。.</p>
+                    <p>Classic Mettal经典金属色浆以1L罐装。.</p>
                     <!-- logo -->
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Generico_Web.png" " "
                             title=" Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
-                    <h2>Classic Mettal金属氧化色浆表层。</h2>
+                    <h2>Classic Mettal经典金属色浆表层。</h2>
 
                     <p>
                       下面我们展示了根据所选择的Classic Mettal色浆，可以实现不同的金属（左）和氧化（右）表层效果。
@@ -342,7 +342,7 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Classic Mettal金属氧化色浆在哪里施工？</h2>
+                    <h2>Classic Mettal经典金属色浆在哪里使用？</h2>
 <p>
     Classic Mettal几乎可以应用在任何类型的材料上。它们与微水泥、混凝土、砖、陶瓷、玻璃、灰泥、石膏板或纸等兼容。从这个意义上说，由于它的金属颗粒含量高，所以非常推荐用作金属的涂料。
 
@@ -357,14 +357,14 @@
 </p>               
                    
                     <div class="stepfloor mt-5">
-                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Classic Mettal金属氧化色浆应用。</strong></a></h2>
+                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Classic Mettal经典金属色浆应用。</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- 第1步
  -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第一步： 载体的清洁和制备</strong><br>我们必须确保它有良好的凝聚力，干燥，必要时还要进行打磨。用真空吸尘器将载体清理干净。
+                                    <strong>第一步： 高粘附力的清洁和制备</strong><br>基面必须确保稳固，干燥，平整，必要时还要进行打磨。用真空吸尘器将高粘附力清理干净。
 
                                 </div>
                                 <!-- Icono -->
@@ -382,7 +382,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>第二步，打底。</strong><br>
-                                 涂上一层底漆Primacem ABS（吸收性表面）或Primacem PLUS（非吸收性表面）。晾晒1小时左右。
+                                 涂上一层底漆Primacem ABS（吸收性表面）或Primacem PLUS（非吸收性表面）。干燥1小时左右。
 
                                 </div>
                                 <!-- Icono -->
@@ -418,7 +418,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>步骤4A： 金属表层和密封剂</strong><br>
-                                    如果您想获得金属表层效果，一旦表面装饰好了，就可以涂上两层Topsealer WT单层清漆（两次涂抹之间需要24小时的干燥时间）来保护载体。晾晒24小时。
+                                    如果您想获得金属表层效果，一旦表面装饰好了，就可以涂上两层Topsealer WT单层清漆（两次涂抹之间需要24小时的干燥时间）来保护高粘附力。干燥24小时。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -434,7 +434,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>步骤4B： 氧化表层和密封剂。</strong><br>如果你想获得氧化表层的效果，一旦表面装饰完毕，就可以涂抹Mettal Activator活化剂，加速氧化和抛光。24小时后，涂上两层封孔剂（两层之间留4小时），然后抛光。最后，用两层Topsealer WT单层清漆保护表面（两层清漆之间间隔24小时）。晾晒24小时
+                                    <strong>步骤4B： 氧化表层和密封剂。</strong><br>如果你想获得氧化表层的效果，一旦表面装饰完毕，就可以涂抹Mettal Activator活化剂，加速氧化和抛光。24小时后，涂上两层封孔剂（两层之间留4小时），然后抛光。最后，用两层Topsealer WT单层清漆保护表面（两层清漆之间间隔24小时）。干燥24小时
                                     <!-- Icono -->
                                 </div>
                                 <div class="col-3 col-md-2"><img

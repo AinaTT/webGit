@@ -14,16 +14,14 @@
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
     <title>聚氨酯、水性和丙烯酸清漆|Topsealer</title>
-    <meta name="description"
-        content="Topsealer密封罩面剂提供卓越的保护，防止磨损、划痕、污渍和光照。我们生产聚氨酯、水性和丙烯酸涂料。" />
+    <meta name="description" content="Topsealer密封罩面剂提供卓越的保护，防止磨损、划痕、污渍和光照。我们生产聚氨酯、水性和丙烯酸涂料。" />
 
 
 
     <meta property="og:title" content="聚氨酯、水性和丙烯酸清漆|Topsealer">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong">
-    <meta property="og:description"
-        content="Topsealer密封罩面剂提供卓越的保护，防止磨损、划痕、污渍和光照。我们生产聚氨酯、水性和丙烯酸涂料。">
+    <meta property="og:description" content="Topsealer密封罩面剂提供卓越的保护，防止磨损、划痕、污渍和光照。我们生产聚氨酯、水性和丙烯酸涂料。">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
@@ -34,7 +32,8 @@
 
     <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong" />
 
-    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong" hreflang="zh-CN" />
+    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong"
+        hreflang="zh-CN" />
     <link rel="alternate" href="https://www.topciment.com/en/microcements/varnishes-topsealer" hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-topsealer" hreflang="fr-FR" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/lakier-topsealer" hreflang="pl-PL" />
@@ -71,7 +70,7 @@
                                     <a href="#topsealer-anti-slip"> Topsealer WT Anti Slip</a>
                                 </li>
                                 <li>
-                                    <a href="#topsealer-quick-dry">Topsealer Quick Dry</a>
+                                    <a href="#topsealer-quick-dry">Topsealer WT Quick Dry</a>
                                 </li>
                                 <li>
                                     <a href="#topsealer-proplus">Topsealer Pro + </a>
@@ -96,20 +95,20 @@
                             <h1 class="en2">聚氨酯、水性和丙烯酸清漆|Topsealer</h1>
 
                             <div class="text-justify">
-                              <p>
-                                   Topsealer是Topciment的密封剂系列，用于保护多种基面，如微水泥、复合木地板、木材、混凝土或金属等。
+                                <p>
+                                    Topsealer是Topciment的密封剂系列，用于保护多种基面，如微水泥、复合木地板、木材、混凝土或金属等。
 
-                              </p>    
-<p>
-    我们有各种各样的清漆，这取决于要保护的材料和要达到的表面效果。密封剂具有无可比拟的机械耐力和化学耐受性，可抵御磨损、水、划痕、污渍、光照和紫外线或侵蚀性清洁产品。
+                                </p>
+                                <p>
+                                    我们有各种各样的清漆，这取决于要保护的材料和要达到的表面效果。密封剂具有无可比拟的机械耐力和化学耐受性，可抵御磨损、水、划痕、污渍、光照和紫外线或侵蚀性清洁产品。
 
-</p>    
-<p>
-    Topsealer清漆可以在室内和室外使用，也能够创造防滑和防水的表面。我们有各种类型的密封剂：水基聚氨酯清漆、溶剂型聚氨酯清漆、100%固体聚氨酯清漆、丙烯酸聚氨酯清漆，甚至喷涂聚氨酯清漆。
+                                </p>
+                                <p>
+                                    Topsealer清漆可以在室内和室外使用，也能够创造防滑和防水的表面。我们有各种类型的密封剂：多合一罩面树脂、溶剂型聚氨酯清漆、100%固体聚氨酯清漆、丙烯酸聚氨酯清漆，甚至喷涂聚氨酯清漆。
 
-</p>    
+                                </p>
 
-<p>这里是Topsealer密封剂的多样选择。</p>
+                                <p>这里是Topsealer密封剂的多样选择。</p>
                             </div>
                         </div>
                     </div>
@@ -142,27 +141,27 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                   <h2>
-                        双组分水基聚氨酯清漆
+                            <h2>
+                                双组分多合一罩面树脂
 
-                   </h2> 
-<p>
-    Topsealer WT One Coat是一种双组分水基聚氨酯清漆，用于保存和维护微水泥。
+                            </h2>
+                            <p>
+                                Topsealer WT One Coat是一种双组分多合一罩面树脂，用于保存和维护微水泥。
 
-</p>    
-<p>
-    这种便于清洁和维护微水泥的水基清漆，具有很高的抗磨损、抗磨和抗划痕、抗化学品、抗污和抗黄变能力。
+                            </p>
+                            <p>
+                                这种便于清洁和维护微水泥的水基清漆，具有很高的抗磨损、抗磨和抗划痕、抗化学品、抗污和抗黄变能力。
 
-</p>    
-<p>
-    Topsealer WT密封剂适用于多种基面：金属、混凝土和水泥地板、复合木地板和木材。
+                            </p>
+                            <p>
+                                Topsealer WT密封剂适用于多种基面：金属、混凝土和水泥地板、复合木地板和木材。
 
-</p>    
-<p>
-    至于这种清漆所提供的表面处理，我们研发了哑光，超哑光清漆；半哑光清漆和亮光清漆。
+                            </p>
+                            <p>
+                                至于这种清漆所提供的表面处理，我们研发了哑光，超哑光清漆；半哑光清漆和亮光清漆。
 
-</p> 
-                              <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerWTonecoat-CN.pdf"
+                            </p>
+                            <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerWTonecoat-CN.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>在此下载Topsealer WT罩面密封剂的技术参数</strong>
@@ -171,7 +170,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -266,20 +265,20 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                        <h2>  水基聚氨酯防滑清漆</h2>
+                            <h2> 水基聚氨酯防滑清漆</h2>
 
-<p>
-    Topsealer WT防滑罩面剂是一种防滑的水性聚氨酯清漆，其主要功能是使表面防滑。
+                            <p>
+                                Topsealer WT防滑罩面剂是一种防滑的水性聚氨酯清漆，其主要功能是使表面防滑。
 
-</p>    
-<p>
-    这种双组分防滑罩面剂特别推荐用于保护微水泥，尽管它也可以用于混凝土地面和复合木地板的翻新。
+                            </p>
+                            <p>
+                                这种双组分防滑罩面剂特别推荐用于保护微水泥，尽管它也可以用于混凝土地面和复合木地板的翻新。
 
-</p>    
-<p>
-    由于其良好的耐化学性和耐机械性，Topsealer WT防滑罩面剂可以应用于游泳池的边缘、浴室和厨房、公共区域的地板和走廊以及混凝土坡道和人行道。
+                            </p>
+                            <p>
+                                由于其良好的耐化学性和耐机械性，Topsealer WT防滑罩面剂可以应用于游泳池的边缘、浴室和厨房、公共区域的地板和走廊以及混凝土坡道和人行道。
 
-</p>    
+                            </p>
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerWTantiSlip-CN.pdf"
                                 target="_blank"><span class="fa-stack">
@@ -290,7 +289,7 @@
                     </div>
                     <!-- Propiedades  -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -311,7 +310,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>粘度</strong>
-                                    <p>25-28S  (福特杯4))</p>
+                                    <p>25-28S (福特杯4))</p>
                                 </div>
                             </div>
                         </div>
@@ -383,18 +382,18 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                         <h2>
-                               水性聚氨酯快干清漆
+                            <h2>
+                                水性聚氨酯快干清漆
 
-                         </h2> 
-<p>
-    Topsealer WT Quick Dry是一种双组分水性聚氨酯快干清漆，适用于保护微水泥。
+                            </h2>
+                            <p>
+                                Topsealer WT Quick Dry是一种双组分水性聚氨酯快干清漆，适用于保护微水泥。
 
-</p>    
-<p>
-    这种清漆的主要特点之一是，它的干燥速度非常快。此外，这种聚氨酯密封剂具有良好的抗磨损和抗化学剂的能力。
+                            </p>
+                            <p>
+                                这种清漆的主要特点之一是，它的干燥速度非常快。此外，这种聚氨酯密封剂具有良好的抗磨损和抗化学剂的能力。
 
-</p>    
+                            </p>
 
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerWTquickdry-CN.pdf"
@@ -406,7 +405,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -444,7 +443,7 @@
                                 <div class="  col-md-9">
                                     <strong>粘度
                                     </strong>
-                                    <p>14 - 15s  (福特杯4)
+                                    <p>14 - 15s (福特杯4)
                                     </p>
 
                                 </div>
@@ -500,33 +499,67 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>100%防水聚氨酯清漆
-</h2>
+                            <h2>
+                                双组分、快速固化、特殊防水罩面剂
 
-                            
-<p>
-    Topsealer Pro +是一种100%特殊防水密封罩面剂，不需要打底。这种无色的清漆只需涂抹一层，因为它可以完全渗透到毛孔中，达到完全密封的效果。
+                            </h2>
+                            <p>
+                                Topsealer Pro
+                                +是一种快速固化、防水的双组分特殊防水罩面剂，是保护室内微水泥和混凝土表面的理想产品。这种100%固态的双组分罩面剂不需要底漆，而且只需涂一层，因为它有能力完全渗透到空隙中，确保完全密封。
 
-</p>    
-<p>
-    这种具有高光泽度密封剂的主要特点是，它可以为任何类型的基面提供防水，并使微水泥具有额外的硬度。
+                            </p>
+                            <p>
+                                这种独特的亮光效果的罩面，除了为任何类型的基面提供防水外，还为微水泥提供了额外的硬度。依照其固化时间，我们有两种类型的特殊防水罩面剂-Topsealer Pro
+                                +：快干和慢干。
 
-</p>    
-<p>
-    根据干燥速度的不同，这个双组分特殊防水罩面剂Topsealer Pro +有两种类型：快速和慢速。
+                            </p>
 
-</p>    
 
-                            <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>¡在此下载Topsealer Pro +特殊防水罩面剂的技术参数</strong>
-                            </a>
                         </div>
                     </div>
+                    <h3>
+                        快干特殊防水罩面剂 Topsealer Pro + Fast
+
+                    </h3>
+                    <p>
+                        双组分Topsealer Pro + Fast强化并提升了微水泥和混凝土基面的颜色。它是用 无孔滚筒或批刀涂抹的，并保证了对水、磨损、某些化学品和紫外线的出色抵抗力。
+
+                    </p>
+                    <p>
+                        这种双组分100%固态罩面剂，不需要底漆，透明度高，还能对基层进行防水，从而防止对水蒸气的侵入。
+
+                    </p>
+                    <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf"
+                        target="_blank"> <span class="fa-stack">
+                            <i class="fas fa-file-pdf fa-stack-1x"></i>
+                        </span><strong>在此下载Topsealer Pro + Fast的技术参数。</strong>
+                    </a>
+
+                    <h3>慢干特殊防水罩面剂Topsealer Pro + Slow</h3>
+
+                    <p>
+                        Topsealer Pro + Slow是一种不需要底漆的双组分罩面剂，100%固态，双组分。具有防水和保护任何室内微水泥基面以及混凝土地面的性能。
+
+                    </p>
+                    <p>
+                        作为一种非常亮光效果的罩面剂，它增强了表面的亮度以及硬度。是用无孔滚筒或批刀单层施工的。它具有非常好的抗磨损、抗紫外线（它不会变黄）和抗某些化学产品的能力。
+
+                    </p>
+                    <p>
+                        和快干型Topsealer Pro + Fast一样，这种双组分、100%固态可防水，并防止水蒸气。
+
+                    </p>
+
+                    <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf"
+                        target="_blank"> <span class="fa-stack">
+                            <i class="fas fa-file-pdf fa-stack-1x"></i>
+                        </span><strong>在此下载Topsealer Pro + Slow的技术参数</strong>
+                    </a>
+
+
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -534,8 +567,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
-                                    <strong>高光泽度</strong>
-                                    <p>由于其高固化含量 </p>
+                                    <strong>亮光效果</strong>
+
                                 </div>
                             </div>
                         </div>
@@ -545,9 +578,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
-                                    <strong>干燥时间</strong>
-                                    <p> 快速：约2.5小时 <br>
-慢速：约8小时
+                                    <strong>快干</strong>
+                                    <p>2-3小时 Topsealer Pro + Fast 快干 <br>
+                                        8小时 Topsealer Pro + Slow 慢干
                                     </p>
                                 </div>
                             </div>
@@ -560,9 +593,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>粘度
+                                    <strong>防水性
                                     </strong>
-                                    <p>35-45s  (福特杯4)
+                                    <p>防流动水
                                     </p>
                                 </div>
                             </div>
@@ -573,10 +606,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_exterior_interior.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>应用时间
+                                    <strong>施工时间
                                     </strong>
-                                    <p>20分钟 (快速) <br>
-30分钟 (慢速)
+                                    <p>15分钟 Topsealer Pro + Fast 快干 <br>
+                                        25-30分钟 Topsealer Pro + Slow 慢干
                                     </p>
                                 </div>
                             </div>
@@ -585,12 +618,11 @@
                     <!-- Rendimiento -->
                     <p class="en3">
                         涂布率</p>
-                    <p><span>opsealer Pro+ 特殊防水罩面剂 快速 : 一层 150g/m²。
-                        </span></p>
+                    <p>特殊防水罩面剂 快干Topsealer Pro + Fast和慢干Topsealer Pro + Slow的涂布率 为60-100 g/ m2，只需1层。</p>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>Topsealer Pro+100%特殊防水罩面剂是双组分包装，重量为0.54公斤（A组份）和0.8公斤（B组份）。
+                    <p>快干 Topsealer Pro + Fast和慢干Topsealer Pro + Slow双组分特殊防水罩面剂 包装为0.64 kg（成分A）和0.8 kg（成分B）。
                     </p>
                 </div>
             </div>
@@ -623,18 +655,18 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>双组分，溶剂型丙烯酸聚氨酯清漆</h2>
-<p>
-    Topsealer DSV是一种双组分（A + B）溶剂型罩面剂。这种密封剂可以保护涂有微水泥的室内和室外表面。
+                            <p>
+                                Topsealer DSV是一种双组分（A + B）溶剂型罩面剂。这种密封剂可以保护涂有微水泥的室内和室外表面。
 
-</p>    
-<p>
-    这种双组分溶剂型罩面剂对磨损、划痕、水、紫外线和家用清洁剂具有良好的抗性。
+                            </p>
+                            <p>
+                                这种双组分溶剂型罩面剂对磨损、划痕、水、紫外线和家用清洁剂具有良好的抗性。
 
-</p>    
-<p>
-    此外，它是一种丙烯酸清漆，可以大大增强微水泥、混凝土、木材或复合木地板涂料的颜色。Topsealer DSV溶剂型罩面剂有三种效果是：哑光、亮光和半哑光。
+                            </p>
+                            <p>
+                                此外，它是一种丙烯酸清漆，可以大大增强微水泥、混凝土、木材或复合木地板涂料的颜色。Topsealer DSV溶剂型罩面剂有三种效果是：哑光、亮光和半哑光。
 
-</p>    
+                            </p>
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerDSV-CN.pdf"
                                 target="_blank"> <span class="fa-stack">
@@ -645,7 +677,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -665,7 +697,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>粘度 </strong>
-                                    <p>20 s  (福特杯4)</p>
+                                    <p>20 s (福特杯4)</p>
                                 </div>
                             </div>
                         </div>
@@ -689,11 +721,11 @@
                     <p class="en3">涂布率
                     </p>
                     <p>应用在墙面面层上 Microfino - 0,17 L/m2 <br>
-应用在地面面层上 Microdeck- 0,20 L/m2 <br>
-应用在室外面层上 Microstone- 0,25 L/m2</p>
+                        应用在地面面层上 Microdeck- 0,20 L/m2 <br>
+                        应用在室外面层上 Microstone- 0,25 L/m2</p>
                     <!-- 包装  -->
                     <p class="en3">
-                        包装 
+                        包装
                     </p>
                     <p>Topsealer DSV双组分溶剂型罩面剂有以 4L的容器（A组分）+两个各1L的容器（B组分固化剂）包装
                     </p>
@@ -726,18 +758,18 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>水基丙烯酸清漆</h2>
-                        <p>
-                             Presealer是一种封孔剂，其配方基于丙烯酸共聚物，不受湿度影响。因此，它是保护 "Atlanttic"大西洋系列，即泳池微水泥的理想选择。
+                            <p>
+                                Presealer是一种封孔剂，其配方基于丙烯酸共聚物，不受湿度影响。因此，它是保护 "Atlanttic"大西洋系列，即泳池微水泥的理想选择。
 
-                        </p>    
-<p>
-    一种水基丙烯酸清漆，可以作为底漆系统使用，因为它能够作为微水泥和涂料之间的粘合桥梁。
+                            </p>
+                            <p>
+                                一种水基丙烯酸清漆，可以作为底漆系统使用，因为它能够作为微水泥和涂料之间的粘合桥梁。
 
-</p>    
-<p>
-    在使用Topsealer WT One Coat罩面剂和Topsealer WT Anti Slip防滑罩面剂之前，应使用两层Presealer封孔剂。
+                            </p>
+                            <p>
+                                在使用Topsealer WT One Coat罩面剂和Topsealer WT Anti Slip防滑罩面剂之前，应使用两层Presealer封孔剂。
 
-</p>    
+                            </p>
 
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/Presealer-CN.pdf"
@@ -749,7 +781,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -769,7 +801,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>粘度</strong>
-                                    <p>10 - 11s  (福特杯4)</p>
+                                    <p>10 - 11s (福特杯4)</p>
                                 </div>
                             </div>
                         </div>
@@ -806,7 +838,7 @@
                         </span></p>
                     <!-- 包装  -->
                     <p class="en3">
-                        包装 
+                        包装
                     </p>
                     <p>Presealer封孔剂有5升罐装。</p>
                 </div>
@@ -837,20 +869,20 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>单组份水基聚氨酯清漆</h2>
-                            
-<p>
-    Topsealer WT All in One多合一罩面剂是一种单组分水基聚氨酯清漆，专门为保护我们的即用型微水泥 "Efectto "爱菲特系列而开发。它也可以应用在环氧树脂微水泥、复合木地板或木材上。
+                            <h2>单组份多合一罩面树脂</h2>
 
-</p>    
-<p>
-    这种多合一罩面剂增强了即用型微水泥的颜色，并对磨损和划痕提供了高机械阻力。
+                            <p>
+                                Topsealer WT All in One多合一罩面剂是一种单组分多合一罩面树脂，专门为保护我们的即用型微水泥 "Efectto "而开发。它也可以应用在环氧树脂微水泥、复合木地板或木材上。
 
-</p>    
-<p>
-    它具有良好的耐化学性，对水不渗透，防紫外线。有哑光和半哑光两种效果。
+                            </p>
+                            <p>
+                                这种多合一罩面剂增强了的颜色，并对磨损和划痕提供了高机械阻力。
 
-</p>    
+                            </p>
+                            <p>
+                                它具有良好的耐化学性，对水不渗透，防紫外线。有哑光和半哑光两种效果。
+
+                            </p>
 
 
 
@@ -863,7 +895,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -933,7 +965,7 @@
                         </span></p>
                     <!-- 包装  -->
                     <p class="en3">
-                        包装 
+                        包装
                     </p>
                     <p>Topsealer WT All in One多合一罩面剂有2 L和5L 两种包装。</p>
                 </div>
@@ -967,30 +999,30 @@
                         <!-- descripcion  -->
                         <div class="col-md-6">
                             <h2>水性聚氨酯喷涂清漆</h2>
-                            
-<p>
-    Topsealer WT喷雾是一种水基喷雾罩面，旨在保护覆盖有微水泥或混凝土的表面。除了可以用喷枪涂抹外，更特别的是，它还因其非凡的硬度和具有更好的耐化学和机械性能而脱颖而出。
 
-</p>    
-<p>
-    这种双组分喷雾罩面剂被强烈推荐用于微水泥厨房和微水泥浴室。它对漂白剂、洗涤剂、醋渍、油、酒、油脂等有完美的抵抗力。
+                            <p>
+                                Topsealer WT喷雾是一种水基喷雾罩面，旨在保护覆盖有微水泥或混凝土的表面。除了可以用喷枪涂抹外，更特别的是，它还因其非凡的硬度和具有更好的耐化学和机械性能而脱颖而出。
 
-</p>    
-<p>
-    Topsealer WT喷雾罩面剂是一种水基喷雾剂，有光泽度，具有良好的抗磨损、抗划痕、抗化学剂、抗水、抗碱能力，在光照下不会变黄。
+                            </p>
+                            <p>
+                                这种双组分喷雾罩面剂被强烈推荐用于微水泥厨房和微水泥浴室。它对漂白剂、洗涤剂、醋渍、油、酒、油脂等有完美的抵抗力。
 
-</p>    
+                            </p>
+                            <p>
+                                Topsealer WT喷雾罩面剂是一种水基喷雾剂，有光泽度，具有良好的抗磨损、抗划痕、抗化学剂、抗水、抗碱能力，在光照下不会变黄。
 
-                             <a class="links" href="https://www.topciment.com/cn/data-sheets/Topsealer_All_in_one_CN.pdf"
+                            </p>
+
+                            <a class="links" href="https://www.topciment.com/cn/data-sheets/Topsealer_All_in_one_CN.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>在此下载Topsealer WT喷雾罩面剂的技术参数</strong>
-                            </a> 
+                            </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                       技术特点 </p>
+                        技术特点 </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -1036,7 +1068,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>粘度 </strong>
-                                    <p> 60” ±5 a 25ºC Comp.A  (福特杯4)</p>
+                                    <p> 60” ±5 a 25ºC Comp.A (福特杯4)</p>
                                 </div>
                             </div>
                         </div>
@@ -1047,12 +1079,12 @@
                     <!-- Rendimiento -->
                     <p class="en3">
                         涂布率</p>
-                    <p><span> 
-Topsealer WT喷雾罩面剂（1层） 1层：140±10 g/m2
+                    <p><span>
+                            Topsealer WT喷雾罩面剂（1层） 1层：140±10 g/m2
                         </span></p>
                     <!-- 包装  -->
                     <p class="en3">
-                        包装 
+                        包装
                     </p>
                     <p>Topsealer WT喷雾罩面剂 有3L瓶装（A组份）+1L瓶装（B组份）。
                     </p>
@@ -1084,7 +1116,7 @@ Topsealer WT喷雾罩面剂（1层） 1层：140±10 g/m2
     </div>
     </div>
     </div>
-  
+
 </body>
 
 </html>

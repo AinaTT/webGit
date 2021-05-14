@@ -177,13 +177,8 @@
                         sang, etc.
 
                     </p>
-                    <p>
-                        Quant à son application sur les murs ou les sols en béton ciré il est d'abord dilué dans de
-                        l'eau, puis pulvérisé sur la surface à traiter. Le produit doit être laissé agir pendant environ
-                        30 secondes, après quoi il faut l'essuyer avec un chiffon ou un tampon de tissu, puis le rincer
-                        à l'eau.
+      <p>Concernant son <strong>application </strong>sur les murs en microciment ou les sols en microciment, il peut être appliqué <strong>aussi bien concentré que dilué dans l'eau</strong> en fonction du degré de salissure de la surface. Dans le cas où l'on dilue le nettoyant avec de l'eau puis qu'on le pulvérise sur la surface à traiter, il faut laisser agir le produit pendant 5 à 15 minutes. Une fois ce temps écoulé, essuyez avec un chiffon ou un écouvillon, puis rincez à l'eau. </p>
 
-                    </p>
                     <div id="separador50px"></div>
                     <div class="row">
 
@@ -203,8 +198,7 @@
                                 onload="setupSF('sf339f2ea05e1f35d3f0ab0fb7317495244b766efe51c265c7','ZCFORMVIEW',false,'light',false,'0')">
                             </script>
                             <script type="text/javascript">
-                                function runOnFormSubmit_sf339f2ea05e1f35d3f0ab0fb7317495244b766efe51c265c7(
-                                    th) {
+                                function runOnFormSubmit_sf339f2ea05e1f35d3f0ab0fb7317495244b766efe51c265c7() {
                                     /*Before submit, if you want to trigger your event, "include your code here"*/
                                 };
                             </script>

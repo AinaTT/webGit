@@ -20,14 +20,14 @@
     <title>用于微水泥的底漆和附着力促进剂 : Primacem
     </title>
     <meta name="description"
-        content="用我们的底漆和附着力促进剂 Primacem，在涂抹微水泥之前可以保护表面且促进新旧载体之间的粘着。" />
+        content="用我们的底漆和附着力促进剂 Primacem，在涂抹微水泥之前可以保护表面且促进新旧基面之间的粘着。" />
 
     <meta property="og:title" content="用于微水泥的底漆和附着力促进剂 : Primacem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url"
         content="https://www.topciment.com/cn/wenxingshuini/nianzhuo-de-diqi" <meta
         property="og:description"
-        content="用我们的底漆和附着力促进剂 Primacem，在涂抹微水泥之前可以保护表面且促进新旧载体之间的粘着。">
+        content="用我们的底漆和附着力促进剂 Primacem，在涂抹微水泥之前可以保护表面且促进新旧基面之间的粘着。">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
@@ -95,7 +95,7 @@
                             <h1 class="en2">
                                 用于微水泥的底漆和附着力促进剂 : Primacem</h1>
                            <p>
-                               Primacem是我们的底漆和附着力促进剂系列，用于微水泥和其他材料，如瓷砖、混凝土或瓦片等等。因为它们是应用微水泥过程中的第一步骤。它的功能是促进现有载体和新涂层之间的结合。
+                               Primacem是我们的底漆和附着力促进剂系列，用于微水泥和其他材料，如瓷砖、混凝土或瓦片等等。因为它们是应用微水泥过程中的第一步骤。它的功能是促进现有基面和新涂层之间的结合。
 
                            </p>    
 <p>
@@ -140,11 +140,11 @@
 
                             </h2>
                         <p>
-                              Primacem Fix是一种具有粘性效果的微水泥底漆，可直接使用，有利于在现有载体和新的微水泥的粘合。它也被特别推荐作为混凝土和砂浆之间的粘合桥梁。
+                              Primacem Fix是一种具有粘性效果的微水泥底漆，可直接使用，有利于在现有基面和新的微水泥的粘合。它也被特别推荐作为混凝土和砂浆之间的粘合桥梁。
 
                         </p>    
 <p>
-    这种以水为基础的底漆在不同的基材上有很强的附着力和抗碱性。至于它的应用，Primacem Fix可用刷子或微纤维滚筒来涂抹。一件层就足够了。
+    这种水性基的底漆在不同的基材上有很强的附着力和抗碱性。至于它的应用，Primacem Fix可用刷子或微纤维滚筒来涂抹。一层即可。
     
          
 </p>                       <a class="links" href="https://www.topciment.com/cn/data-sheets/Primacem-CN.pdf"
@@ -178,7 +178,7 @@
                                 <div class="col-md-9">
                                     <strong>干燥后触感
                                     </strong>
-                                    <p>永久粘性</p>
+                                    <p>触摸式干燥</p>
                                 </div>
                             </div>
                         </div>
@@ -434,11 +434,11 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <p>
-                               带骨料的微水泥底漆
+                               带颗粒的底漆
 
                             </p>
                           <p>
-                                Primacem Grip是我们的带骨料底漆，可以用于室内和室外表面。它在光滑或低吸收性的表面上有很好的附着力，所以除了微水泥之外，强烈建议用在灰泥、瓷砖、混凝土、陶瓷上。
+                                Primacem Grip是我们的带颗粒底漆，可以用于室内和室外表面。它在光滑或低吸收性的表面上有很好的附着力，所以除了微水泥之外，强烈建议用在灰泥、瓷砖、混凝土、陶瓷上。
 
                           </p>    
 <p>
@@ -554,7 +554,7 @@
 
                             </h2>
                             <p>
-                                Primacem Impoxy(A+B)是一种抗潮湿的环氧底漆，旨在阻挡上升的湿气，并作为一个蒸汽屏障。这种双组分100%无溶剂的环氧化聚合物系统以易操作性、低粘度和对任何类型的载体的高附着力而脱颖而出。
+                                Primacem Impoxy(A+B)是一种抗潮湿的环氧底漆，旨在阻挡上升的湿气，并作为一个蒸汽屏障。这种双组分100%无溶剂的环氧化聚合物系统以易操作性、低粘度和对任何类型的基面的高附着力而脱颖而出。
 
                             </p>
                             <p>

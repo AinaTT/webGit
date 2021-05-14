@@ -17,14 +17,14 @@
                     $('body').append(
                       ' <div class="modal fade" id="modales" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"> <div class="modal-dialog" role="document"> <div class="modal-content"> <div class="modal-header"><img src="https://www.topciment.com/imagenes/flags/united-kingdom.png" alt="Topciment english web" Title="Topciment english web"> <p>Welcome to Topciment!</p><button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button> </div> <div class="modal-body"> <p>Would you like to browse our website in English?</p> <a href="https://topciment.com/en/" class="btn btn-primary leermass continuar ">continue</a> <a href="https://www.topciment.com/en/choose-country-region" class="btn btn-primary leermass cambiar ">Change country</a> </div> </div> </div> </div> '
                       );
-                    $('#modales').modal('toggle');
+                  //  $('#modales').modal('toggle');
                     Cookies.set("idioma", "es-ES", { expires: 7 });
                     break;
 
                 case "en-GB":
                     console.log("Modal en inglés");
                     break;
-            }
+            }    
         }
 
 
@@ -37,14 +37,44 @@
 
         /* End geolocalización */
 });
+    
+   /*  $(".container").on("hover", function () {
+     $('#xenioo-chat-widget-button').css('box-shadow', 'none !important');
+});
+$("#container").on('mouseenter', '.selector', function() {
+    
+});
+$("#container").on('mouseleave', '.selector', function() {
+    
+}); */
     $(document).ready(function () {
      
+  if (window.location.href.indexOf("/es/") >= 0) {
+    xenioowebchat.Start("a173731c-2519-4ee7-bfd4-7fd700d806b9");
+   
 
+  } else if (window.location.href.indexOf("/fr/") >= 0) {
+      xenioowebchat.Start("b951edf9-7446-43da-8f75-fa2bbf63f254");
 
+  }  else if (window.location.href.indexOf("/en/") >= 0) {
+   xenioowebchat.Start("9fe6dd4c-7eda-4f13-af57-a84d3cd2ead6");
 
+  }  else if (window.location.href.indexOf("/de/") >= 0) {
+    xenioowebchat.Start("4867c412-f0c5-49d4-bd0e-abaace1b899e");
 
-        
-xenioowebchat.Start("a173731c-2519-4ee7-bfd4-7fd700d806b9");
+  } else if (window.location.href.indexOf("/cn/") >= 0) {
+    xenioowebchat.Start("94158df5-ecde-4cd6-9026-f51f7ada061a");
+
+  } else if (window.location.href.indexOf("/pl/") >= 0) {
+      console.log("polaco");
+    xenioowebchat.Start("526feea1-15b3-4756-904f-91739cdc0ea9");
+
+  }
+
+/* else if (window.location.href.indexOf("/it/") >= 0) { xenioowebchat.Start("52493cef-41c4-490a-8dd3-7ec44699c762"); } */
+       
+/* else if (window.location.href.indexOf("/nl/") >= 0) { $('body').append("<script data-id='xenioo' data-node='app' src='https://static.xenioo.com/webchat/xenioowebchat.js'></script>"); xenioowebchat.Start("4577d544-d1d5-4afd-9198-ef62128464b8"); } */
+
 
   $('.xenioo-send-button-image').attr('alt','boton chatbot');
     $('#xenioo-conversation-header-avatar-image').attr('alt','imagen chatbot');
@@ -53,10 +83,7 @@ xenioowebchat.Start("a173731c-2519-4ee7-bfd4-7fd700d806b9");
            
             $('html,body').scrollTo(this.hash, this.hash);
         });
-
-
-
- /*
+    /*
         var aChildren = $(".menuMicrocementos li").children(); // find the a children of the list items
         var aArray = []; // create the empty aArray
         for (var i = 0; i < aChildren.length; i++) {
@@ -77,7 +104,7 @@ $('#xenioo-chat-widget-button').css('box-shadow', 'none !important');
         }
 
         var arr = ['microcemento', 'microcemento piscinas', 'microcemento bicomponente'];
-
+ 
         var arr = ['microcemento', 'microcemento piscinas', 'microcemento bicomponente'];
         $('body img').each(function () {
         /*resize_image($(this));  */

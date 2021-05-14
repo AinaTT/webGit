@@ -19,17 +19,17 @@
 
     <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
-    <title>纯金属微水泥
+    <title>金属微水泥
         |Pure Mettal</title>
-    <meta name="description" content="用我们的纯金属微水泥Pure Mettal翻修墙壁和家具。
+    <meta name="description" content="用我们的金属微水泥Pure Mettal翻修墙壁和家具。
 金属涂层。这是一种创新产品，您可以在微水泥、混凝土、砖或陶瓷上实现高极装饰性的金属表面" />
 
 
-    <meta property="og:title" content="纯金属微水泥
+    <meta property="og:title" content="金属微水泥
 |Pure Mettal">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/chujinshuxilie-tuliao">
-    <meta property="og:description" content="用我们的纯金属微水泥Pure Mettal翻修墙壁和家具。
+    <meta property="og:description" content="用我们的金属微水泥Pure Mettal翻修墙壁和家具。
 金属涂层。这是一种创新产品，您可以在微水泥、混凝土、砖或陶瓷上实现高极装饰性的金属表面">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
@@ -76,11 +76,11 @@
                         <div class="content">
                             <a id="que-es-puremetal" class="ancla"></a>
                             <h1 class="en2">
-                                纯金属微水泥
+                                金属微水泥
                                 |Pure Mettal</h1>
                             <div class="text-justify">
                                 <p>
-                                    Pure Mettal是我们的高极装饰性双组分纯金属微水泥系列。由于其卓越的金属浓度，它能给任何表面带来真实和自然的金属效果。
+                                    Pure Mettal是我们的高极装饰性双组分金属微水泥系列。由于其卓越的金属浓度，它能给任何表面带来真实和自然的金属效果。
 
                                 </p>
                                 <p>
@@ -125,7 +125,7 @@
 
                     <!-- tipos de cubos -->
                     <h2 class="en3">
-                        Pure Mettal纯金属微水泥类型</h2>
+                        Pure Mettal金属微水泥类型</h2>
 
                     <p>
                         五种金属涂层组成了Topciment Pure Mettal系列：铝、铱、黄铜、青铜和铜。这是我们系列产品中最引人注目，已在此领域的专业人士中引起了真正的轰动。
@@ -207,11 +207,11 @@
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/espesura_capa.png"
+                                        src="https://www.topciment.com/imagenes/pure-mettal/stepbystep/llana.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>每层最大厚度</strong>
-                                    <p>11毫米</p>
+                                    <strong>2种应用方法</strong>
+                                    <p>-以批刀或滚筒施工</p>
                                 </div>
                             </div>
                         </div>
@@ -236,7 +236,7 @@
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        适用于任何载体
+                                        适用于任何基面
                                     </strong>
                                     <p>微水泥、混凝土、砖、陶瓷等。
                                     </p>
@@ -288,7 +288,7 @@
                             title="Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
 
-                    <h2> Pure Mettal 纯金属微水泥的金属和氧化表面处理。</h2>
+                    <h2> Pure Mettal 金属微水泥的金属和氧化表面处理。</h2>
                     <p>
                         以下是Pure
                         Mettal提供的九种装饰效果。根据所选择的产品和颜料，专业人员可以进行多种组合，发挥每种产品所提供的广泛的装饰可能性。左边一栏显示的是金属表面处理，右边一栏显示的是使用我们的Mettal
@@ -402,12 +402,12 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>哪里可以使用Pure Mettal纯金属微水泥？</h2>
+                    <h2>哪里可以使用Pure Mettal金属微水泥？</h2>
 
                     <p>
-                        Pure Mettal纯金属微水泥有多种色调可供选择，可应用于室内和室外的非通行表面。它们是外墙、墙壁、柱子、天花板、长墙或桌子等家具全面翻新的理想选择。
+                        Pure Mettal金属微水泥有多种色调可供选择，可应用于室内和室外的非通行表面。它们是外墙、墙壁、柱子、天花板、长墙或桌子等家具全面翻新的理想选择。
 
-                        可以涂抹Pure Mettal纯金属微水泥的表面非常广泛，如微水泥、陶瓷、石膏板或混凝土等。
+                        可以涂抹Pure Mettal金属微水泥的表面非常广泛，如微水泥、陶瓷、石膏板或混凝土等。
                     </p>
                     <div class="video"><iframe src="https://www.youtube.com/embed/6nNWJM3b9jo"
                             title="YouTube video player" frameborder="0"
@@ -417,14 +417,14 @@
 
                     <div class="stepfloor mt-5">
                         <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>Pure
-                                    Mettal纯金属微水泥应用</strong></a></h2>
+                                    Mettal金属微水泥应用</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- 第1步
  -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第一步： 清洗和准备载体；</strong><br>我们必须确保它有良好的凝聚力，干燥，必要时还要进行抛光。用真空吸尘器清洁载体。
+                                    <strong>第一步： 清洗和准备基面；</strong><br>我们必须确保它有良好的凝聚力，干燥，必要时还要进行抛光。用真空吸尘器清洁基面。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -440,7 +440,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第二步，打底。</strong><br>涂上一层底漆Primacem ABS（吸收性表面）或Primacem PLUS（非吸收性表面）。晾晒1小时左右。
+                                    <strong>第二步，打底。</strong><br>涂上一层底漆Primacem ABS（吸收性表面）或Primacem PLUS（非吸收性表面）。干燥1小时左右。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -458,7 +458,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>第三步： 装饰。</strong><br>
-                                    混合所选Pure Mettal金属色（青铜、铝、铱、黄铜或铜）的A组分和B组分。涂两层，两层之间的干燥时间为2-4小时。晾晒24小时
+                                    混合所选Pure Mettal金属色（青铜、铝、铱、黄铜或铜）的A组分和B组分。涂两层，两层之间的干燥时间为2-4小时。干燥24小时
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -475,7 +475,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>步骤4A： 金属表面处理和密封剂。</strong><br>
-                                    如果需要金属表面，一旦表面被装饰和抛光，就涂上两层Topsealer WT One Coat罩面密封剂来保护基材（两层之间需要24小时干燥时间）。晾晒24小时。
+                                    如果需要金属表面，一旦表面被装饰和抛光，就涂上两层Topsealer WT One Coat罩面密封剂来保护基材（两层之间需要24小时干燥时间）。干燥24小时。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -494,7 +494,7 @@
                                     <strong>步骤4B： 氧化处理和密封剂</strong><br>
                                     如果您喜欢氧化的表面，一旦表面经过装饰和抛光，就可以使用Mettal Activator
                                     氧化活化剂来加速氧化和抛光。然后涂上两层封孔剂（两层之间要间隔4小时），然后抛光。最后用两层Topsealer WT
-                                    One罩面剂保护表面（两层之间需要24小时干燥时间）。晾晒24小时
+                                    One罩面剂保护表面（两层之间需要24小时干燥时间）。干燥24小时
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img

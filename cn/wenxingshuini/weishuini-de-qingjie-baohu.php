@@ -116,7 +116,7 @@
                         <!-- descaripcion -->
                         <div class="col-md-6">
                             <h2>
-                                环保清洁基本性微水泥清洗剂
+                                环保微水泥清洁剂-家庭版
 
                             </h2>
                             <p>
@@ -200,7 +200,7 @@
                         包装 </h3>
                     <p>Ecoclean Basic环保清洁剂有1L和5L的塑料容器。
                     </p>
-                    <h3 class="en3"> 使用Ecoclean Basic环境清洁基本型清洗剂的地方 </h3>
+                    <h3 class="en3"> 使用Ecoclean Basic家庭版环保微水泥清洁剂的地方 </h3>
                     <p>
                         尽管此清洁剂被强烈推荐用于清洁微水泥，但它对去除大理石、花岗岩、瓷砖、陶瓷、石器或抛光混凝土等的污垢同样有效。
 
@@ -237,7 +237,7 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Ecoclean Pro进阶型清洁剂
+                                环保微水泥清洁剂-专业版
 
                             </h2>
                             <p>
@@ -323,9 +323,9 @@
                     <!-- 包装  -->
                     <h3 class="en3">
                         包装 </h3>
-                    <p>Ecoclean Pro进阶型清洗剂有1升，5升和25升的塑料容器包装。
+                    <p>专业版环保微水泥清洁剂有1升，5升和25升的塑料容器包装。
                     </p>
-                    <h3 class="en3">在哪里使用Ecoclean Pro进阶型清洗剂？</h3>
+                    <h3 class="en3">在哪里使用专业版环保微水泥清洁剂？</h3>
                     <p>
                         Ecoclean Pro不仅对清洁微水泥极为有效。它对天然石材、瓷砖、陶瓷、石器、砂浆、混凝土、不锈钢、某些塑料和环氧树脂涂料等同样有效。
 
@@ -364,7 +364,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Ceraciment Basic基础型微水泥保护蜡</h2>
+                            <h2>微水泥打蜡剂-家庭版</h2>
                             <p>
                                 Ceraciment Basic是一种地板保养蜡，可为任何表面提供硬度和自然光泽。
 
@@ -378,7 +378,7 @@
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/Ceraciment-CN.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载基础型微水泥保护蜡Ceraciment Basic的技术参数</strong>
+                                </span><strong>在此下载微水泥打蜡剂-家庭版 Ceraciment Basic的技术参数</strong>
                             </a>
                         </div>
                     </div>
@@ -443,7 +443,7 @@
                     <!-- 包装  -->
                     <h3 class="en3">
                         包装 </h3>
-                    <p>Ceraciment Basic基础型微水泥保护蜡有5升的塑料瓶包装。
+                    <p>微水泥打蜡剂-家庭版有5升的塑料瓶包装。
                     </p>
                 </div>
             </div>
@@ -470,7 +470,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Ceraciment Pro进阶型微水泥保护蜡</h2>
+                            <h2>微水泥打蜡剂-专业版</h2>
                             <p>
                                 Ceraciment Pro是一种用于高抗性地板的维护蜡，具有金属质感。它是一种不会随时间而变黄的化合物，因此能保持表面的原始外观。
 
@@ -483,7 +483,7 @@
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/CeracimentPRO-CN.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Ceraciment Pro进阶型微水泥保护蜡的技术参数</strong>
+                                </span><strong>在此下载微水泥打蜡剂-专业版的技术参数</strong>
                             </a>
                         </div>
                     </div>
@@ -552,7 +552,7 @@
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>Ceraciment Pro基础型微水泥保护蜡有5L塑料瓶包装。
+                    <p>Ceraciment Pro微水泥打蜡剂-专业版有5L塑料瓶包装。
                     </p>
                 </div>
             </div>

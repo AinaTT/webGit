@@ -78,7 +78,7 @@
                 <!--    <h1>Fotos de microcemento</h1> -->
 
                 <h1>微水泥浴室，厨房，地板和墙面照片</h1>
-               <p>微水泥是装饰涂料的时尚。其强大的通用性使其可以在各种类型的表面和房间中使用，并获得出色的效果。在我们的微晶石图库画廊中，我们向您展示了世界上最常用的建筑材料之一的一些广泛的装饰可能性。我们的微水泥被用于地板、墙壁、厨房、浴室、楼梯、游泳池和外墙，这些项目令人鼓舞。</p>
+               <p>微水泥是装饰涂料的时尚。其强大的通用性使其可以在各种类型的表面和房间中使用，并获得出色的效果。在我们的微水泥图库画廊中，我们向您展示了世界上最常用的建筑材料之一的一些广泛的装饰可能性。我们的微水泥被用于地板、墙壁、厨房、浴室、楼梯、游泳池和外墙，这些项目令人鼓舞。</p>
                 <a id="paredes" class="ancla"></a>
                 <h2>微水泥墙面</h2>
                 <p>微水泥在墙体中的应用，从私人住宅到酒店、餐厅等大型建筑面。由于微水泥的诸多特质和美丽的装饰美感，在浴室、厨房或建筑外墙的应用越来越普遍。在这个图库中，您会发现一些我们微水泥被应用于墙壁和外墙的最杰出的项目
@@ -89,7 +89,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-carmen-house"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/paredes-microcemento-carmen-house.webp"
-                                        alt="墙体白色微型水泥内部房屋" title="墙体白色微型水泥内部房屋" /></a> <figcaption>墙体白色微型水泥内部房屋卡门房子（Denia）。</figcaption>
+                                        alt="墙体白色微水泥内部房屋" title="墙体白色微水泥内部房屋" /></a> <figcaption>Carmen House 内白色微水泥墙 (Denia)。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -97,7 +97,7 @@
                                 <a href="../jihua/fotos-revestimientos-microcemento-en-IPIC   ">
                                     <img class="img-fluid foto" width="350" height="300"
                                         src="../../img/microcemento/microcemento-en-paredes-Movie-Theater.webp"
-                                        alt="板岩色微水泥墙电影院" title="板岩色微水泥墙电影院" /></a> <figcaption> IPIC电影院（迈阿密）采用板岩色微水泥墙。
+                                        alt="板岩色微水泥墙电影院" title="板岩色微水泥墙电影院" /></a> <figcaption> IPIC电影院（迈阿密）采用 Pizarra 色微水泥墙。
                                 </figcaption>
                             </figure>
                         </div>
@@ -106,7 +106,7 @@
                                 <a href="../jihua/proyecto-c-lazy-u-ranch"> <img class="img-fluid foto" width="350"
                                         height="300"
                                         src="../../img/microcemento/dormitorio-microcemento-paredes-ranch.webp"
-                                        alt="墙壁上的珍珠色微晶石卧室" title="墙壁上的珍珠色微晶石卧室" /></a> <figcaption> 卧室的墙壁上覆盖着珍珠色的微晶石。</figcaption>
+                                        alt="墙壁上的珍珠色微水泥卧室" title="墙壁上的珍珠色微水泥卧室" /></a> <figcaption>卧室的墙壁上涂抹 Perla 色的微水泥。</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                                 <a href="../jihua/proyecto-rebost-borja-garcia"> <img class="img-fluid foto"
                                         width="350" height="300"
                                         src="../../img/microcemento/pared-microcemento-rebost.webp"
-                                        alt="墙面microcemento餐厅El Rebost" title="墙面microcemento餐厅El Rebost（瓦伦西亚）" /></a> <figcaption> Microcemento在餐厅El Rebost（瓦伦西亚）的墙上。</figcaption>
+                                        alt="墙面microcemento餐厅El Rebost" title="墙面microcemento餐厅El Rebost（瓦伦西亚）" /></a> <figcaption> 瓦伦西亚 El Rebost 餐厅墙面（瓦伦西亚）</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -124,14 +124,14 @@
                                 <a href="../jihua/proyecto-javier-miami-portada"> <img class="img-fluid foto"
                                         width="350" height="300"
                                         src="../../img/microcemento/paredes-microcemento-miami.webp"
-                                        alt="钢制彩色微缩墙体房屋" title="钢制彩色微缩墙体房屋" /></a> <figcaption>房屋内的钢制彩色微缩墙体。</figcaption>
+                                        alt="钢制彩色微缩墙体房屋" title="钢制彩色微缩墙体房屋" /></a> <figcaption>房屋内Acero 色的微水泥墙。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
                                 <a href="../jihua/proyecto-casa-isabel"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/pared-microcemento-casa-isabel.webp"
-                                        alt="浴室微型水泥墙" title="浴室微型水泥墙" /></a> <figcaption>浴室用微型水泥覆盖的墙壁</figcaption>。
+                                        alt="浴室微水泥墙" title="浴室微水泥墙" /></a> <figcaption>浴室微水泥墙壁</figcaption>。
                             </figure>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-carmen-house"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/suelo-microcemento-carmen-house.webp"
-                                        alt="外部白色微晶石地板" title="外部白色微晶石地板" /></a> <figcaption>带有白色微晶石地板的卡门住宅（Dénia）的外部。</figcaption> </figure>
+                                        alt="外部白色微水泥地板" title="外部白色微水泥地板" /></a> <figcaption>Carmen House 白色微水泥地板（Dénia）</figcaption> </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
@@ -176,7 +176,7 @@
                                 <a href="../jihua/proyecto-clinica-hernandez-arquitectos"> <img
                                         class="img-fluid foto" width="350" height="300"
                                         src="../../img/microcemento/suelo-microcemento-clinica.webp"
-                                        alt="瓦伦西亚的Microcemento地板牙科诊所" title="瓦伦西亚的Microcemento地板牙科诊所" /></a> <figcaption> 瓦伦西亚的牙科诊所，地板上有我们的微型水泥。</figcaption>
+                                        alt="瓦伦西亚的Microcemento地板牙科诊所" title="瓦伦西亚的Microcemento地板牙科诊所" /></a> <figcaption> 瓦伦西亚的牙科诊所，地板上有我们的微水泥。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -184,7 +184,7 @@
                                 <a href="../jihua/proyecto-inmobiliaria-interiorismo"> <img class="img-fluid foto"
                                         width="350" height="300"
                                         src="../../img/microcemento/suelo-microcemento-inmobiliaria.webp"
-                                        alt="Suelo microcemento Piedra París inmobiliaria Valencia" title="Suelo microcemento Piedra París inmobiliaria Valencia" /></a> <figcaption>Microcemento floor color Piedra París in real estate I+I （Valencia）. </figcaption> </figure>
+                                        alt="Suelo microcemento Piedra París inmobiliaria Valencia" title="Suelo microcemento Piedra París inmobiliaria Valencia" /></a> <figcaption>微水泥地板 Piedra Par'is 色 (瓦伦西亚) </figcaption> </figure>
                         </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-c-lazy-u-ranch"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/banyo-microcemento-ranch.webp"
-                                        alt="科罗拉多州的页岩灰微水泥浴室" title="科罗拉多州的页岩灰微水泥浴室" /></a> <figcaption>科罗拉多州（美国）这所房子墙壁上的页岩灰微水泥浴室</figcaption>。
+                                        alt="科罗拉多州的页岩灰微水泥浴室" title="科罗拉多州的页岩灰微水泥浴室" /></a> <figcaption>科罗拉多州（美国）房子浴室墙壁， Shale Grey 色</figcaption>。
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -213,7 +213,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-casa-isabel"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/bano-microcemento-casa-isabel.webp"
-                                        alt="瓦伦西亚的卡萨-伊莎贝尔微水泥浴室" title="瓦伦西亚的卡萨-伊莎贝尔微水泥浴室" /></a> <figcaption>壮观的卡萨-伊莎贝尔（瓦伦西亚）的墙壁和地板上的微水泥浴室</figcaption>。
+                                        alt="瓦伦西亚的卡萨-伊莎贝尔微水泥浴室" title="瓦伦西亚的卡萨-伊莎贝尔微水泥浴室" /></a> <figcaption>Casa Isabel 优美的微水泥浴室墙壁和地板</figcaption>。
                             </figure>
                         </div>
                     </div>
@@ -230,7 +230,7 @@
                                 <a href="../jihua/proyecto-inmobiliaria-interiorismo"> <img class="img-fluid foto"
                                         width="350" height="300"
                                         src="../../img/microcemento/bano-microcemento-imasi.webp"
-                                        alt="浴室中的微水泥墙和地板" title="浴室中的微水泥墙和地板" /></a> <figcaption>私人住宅中带有微水泥墙和地板的浴室。</figcaption>
+                                        alt="浴室中的微水泥墙和地板" title="浴室中的微水泥墙和地板" /></a> <figcaption>私人住宅中微水泥浴室的墙壁和地板。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -238,7 +238,7 @@
                                 <a href="../jihua/bano-microcemento-fd-fliesen"> <img class=" img-fluid foto"
                                         width="350" height="300"
                                         src="../../img/microcemento/bano-microcemento-Fliesen.webp"
-                                        alt="德国墙壁和地板上的灰色微型水泥浴室" title="德国墙壁和地板上的灰色微型水泥浴室" /></a> <figcaption>德国一栋房子里的墙壁（喜马拉雅色）和地板（钢色）上的微型水泥浴室</figcaption>。
+                                        alt="德国墙壁和地板上的灰色微水泥浴室" title="德国墙壁和地板上的灰色微水泥浴室" /></a> <figcaption>德国一栋房子里微水泥浴室的墙壁 （ Himalaya色）和地板（ Acero 色）</figcaption>。
                             </figure>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                                 <a href="../jihua/proyecto-carmen-house"> <img class="img-fluid foto" width="350"
                                         height="300"
                                         src="../../img/microcemento/cocinas-de-microcemento-carmen-house.webp"
-                                        alt="面向客厅的白色微型水泥厨房" title="面向客厅的白色微型水泥厨房" /></a> <figcaption>卡门住宅项目（Dénia）面向客厅的大型白色微型水泥厨房。</figcaption>
+                                        alt="面向客厅的白色微水泥厨房" title="面向客厅的白色微水泥厨房" /></a> <figcaption>Carmen House 住宅（Dénia）面向客厅的大型白色微水泥厨房</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -261,14 +261,14 @@
                                 <a href="../jihua/fotos-revestimiento-ligero-microcemento-en-erschwil">
                                     <img class=" img-fluid foto" width="350" height="300"
                                         src="../../img/microcemento/cocina-microcemento-erschwil.webp"
-                                        alt="Microcemento en cocina color arena" title="Microcemento en cocina color arena" /></a> <figcaption>我们的沙色Microcemento应用在这个厨房的地板上。</figcaption>
+                                        alt="Microcemento en cocina color arena" title="Microcemento en cocina color arena" /></a> <figcaption>我们的 Arena 色微水泥应用在这个厨房的地板上。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
                                 <a href="../jihua/proyecto-sardinera"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/cocina-microcemento-sardinera.webp"
-                                        alt="带岛的厨房里的微水泥" title="带岛的厨房里的微水泥" /></a> <figcaption> 宽敞的带岛厨房里的莫哈韦色微水泥地板。</figcaption>
+                                        alt="带岛的厨房里的微水泥" title="带岛的厨房里的微水泥" /></a> <figcaption> 宽敞的带岛厨房里的 Mohave 色微水泥地板。</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -277,7 +277,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-casa-isabel"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/cocina-microcemento-casa-isabe.webp"
-                                        alt="Microcemento kitchen floor color Kalahari" title="Microcemento kitchen floor color Kalahari" /></a> <figcaption>Microcemento color Kalahari是Casa Isabel开放式厨房地板的主角。</figcaption>
+                                        alt="Microcemento kitchen floor color Kalahari" title="Microcemento kitchen floor color Kalahari" /></a> <figcaption>微水泥 Kalahari 色 是Casa Isabel开放式厨房地板的主角。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -292,7 +292,7 @@
                                 <a href="../jihua/proyecto-ambau"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/cocina-microcemento-ambau.webp"
                                         alt="Microcemento gris en cocina " title="Microcemento gris en cocina " /></a>
-                                <figcaption>在这个原始厨房的地板上使用的灰色微水泥。
+                                <figcaption>独特个性厨房的地板上使用的灰色微水泥。
                                 </figcaption>
                             </figure>
                         </div>
@@ -307,7 +307,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-casa-isabel"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/escalera-microcemento-casa-isabel.webp"
-                                        alt="白色微型水泥楼梯" title="白色微型水泥楼梯" /></a> <figcaption>在一所房子里用白色微型水泥覆盖的内部楼梯。
+                                        alt="白色微水泥楼梯" title="白色微水泥楼梯" /></a> <figcaption>在一所房子里用白色微水泥覆盖的内部楼梯。
                                 </figcaption>
                             </figure>
                         </div>
@@ -316,7 +316,7 @@
                                 <a href="../jihua/proyecto-francisco-jesus"> <img class="img-fluid foto" width="350"
                                         height="300"
                                         src="../../img/microcemento/escalera-microcemento-francisco-jesus.webp"
-                                        alt="白色微型水泥楼梯" title="白色微型水泥楼梯" /></a> <figcaption>小型白色微型水泥楼梯</figcaption>。
+                                        alt="白色微水泥楼梯" title="白色微水泥楼梯" /></a> <figcaption>小型白色微水泥楼梯</figcaption>。
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -331,14 +331,14 @@
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/escalera-microcemento-caracol.webp"
-                                    alt="灰色微型水泥螺旋楼梯" title="灰色微型水泥螺旋楼梯" /> <figcaption> 屋内优雅的灰色微型水泥螺旋楼梯。</figcaption>
+                                    alt="灰色微水泥螺旋楼梯" title="灰色微水泥螺旋楼梯" /> <figcaption> 屋内优雅的灰色微水泥螺旋楼梯。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/escalera-microcemento-roja.webp"
-                                    alt="红色微型水泥楼梯中国店" title="红色微型水泥楼梯中国店" /> <figcaption>红色微型水泥楼梯在中国的一家商店。</figcaption>
+                                    alt="红色微水泥楼梯中国店" title="红色微水泥楼梯中国店" /> <figcaption>红色微水泥楼梯在中国的一家商店。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -352,7 +352,7 @@
                 </div>
                 <a id="piscinas" class="ancla"></a>
                 <h2>微水泥游泳池</h2>
-                <p>泳池的外圈和周围涂料有许多不同的替代品，但很少具有微水泥的优势。其强大的附着力、防滑防水的特性和高抗日照的特性，使微水泥成为室外和室内泳池的最佳选择。您会对我们最杰出的微水泥泳池照片感到惊喜。</p>
+                <p>泳池的外圈和周围涂料有许多不同的替代品，但很少具有微水泥的优势。其强大的粘附力、防滑防水的特性和高抗日照的特性，使微水泥成为室外和室内泳池的最佳选择。您会对我们最杰出的微水泥泳池照片感到惊喜。</p>
 
                 <div class="imagenes">
                     <div class="row">
@@ -360,14 +360,14 @@
                             <figure>
                                 <a href="../jihua/proyecto-carmen-house"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/piscina-microcemento-carmen-house.webp"
-                                        alt="室外白色微型水泥池" title="室外白色微型水泥池" /></a> <figcaption>卡门之家的露台上的极简主义白色微型水泥池。</figcaption>
+                                        alt="室外白色微水泥池" title="室外白色微水泥池" /></a> <figcaption>卡门之家的露台上的极简主义白色微水泥池。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
                                 <a href="../jihua/proyecto-sardinera"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/piscina-microcemento-sardinera.webp"
-                                        alt="Piscina interior microcemento" title="Piscina interior microcemento" /></a> <figcaption>房屋内的加热微水泥游泳池。 </figcaption>
+                                        alt="Piscina interior microcemento" title="Piscina interior microcemento" /></a> <figcaption>室内的可调节温度的微水泥游泳池。 </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -385,14 +385,14 @@
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/piscina-microcemento-blanca.webp"
-                                    alt="皇冠游泳馆白色米白色微水泥" title="皇冠游泳馆白色米白色微水泥" /> <figcaption>池冠内衬白色米白色微水泥。</figcaption>
+                                    alt="皇冠游泳馆白色米白色微水泥" title="皇冠游泳馆白色米白色微水泥" /> <figcaption>Blanco roto色的微水泥泳池。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/piscina-microcemento-blanco-roto.webp"
-                                    alt="小型户外微水泥池" title="小型户外微水泥池" /> <figcaption>小型户外池内衬白色微水泥。</figcaption>
+                                    alt="小型户外微水泥池" title="小型户外微水泥池" /> <figcaption>小型室外白色微水泥。</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -421,7 +421,7 @@
                             <figure>
                                 <a href="../jihua/proyecto-sardinera"> <img class="img-fluid foto" width="350"
                                         height="300" src="../../img/microcemento/microcemento-exterior-sardinera.webp"
-                                        alt="外墙微晶石地板" title="外墙微晶石地板" /></a> <figcaption>外墙微晶石地板，丰富了这个房子的环境。
+                                        alt="外墙微水泥地板" title="外墙微水泥地板" /></a> <figcaption>外墙微水泥地板，丰富了这个房子的环境。
                                 </figcaption>
                             </figure>
                         </div>
@@ -438,7 +438,7 @@
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/terraza-exterior-microcemento-piscina.webp"
-                                    alt="Microcemento外部露台" title="Microcemento外部露台" /> <figcaption>令人眼花缭乱的外部露台用微水泥铺设。 </figcaption>
+                                    alt="Microcemento外部露台" title="Microcemento外部露台" /> <figcaption>令人赏心悦目的室外微水泥铺设。 </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -452,7 +452,7 @@
                             <figure>
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/exterior-casa-microcemento.webp"
-                                    alt="外部微型水泥楼梯" title="外部微型水泥楼梯" /> <figcaption> 豪华别墅的外部微型水泥楼梯。</figcaption>
+                                    alt="外部微水泥楼梯" title="外部微水泥楼梯" /> <figcaption> 豪华别墅的外部微水泥楼梯。</figcaption>
                             </figure>
                         </div>
                     </div>

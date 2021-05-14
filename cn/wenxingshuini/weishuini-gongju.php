@@ -13,13 +13,13 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style"/>
     <link rel="stylesheet" href="../../assets/css/familia.css"/>
-    <title>微水泥应用工具：搅拌器、批刀和网格</title>
-    <meta name="description" content="微水泥的应用施工并不简单。请认识Toptools，最便利施工的工具：搅拌器、批刀、网格和滚筒 "/>
+    <title>微水泥应用工具：搅拌杆、批刀和网格</title>
+    <meta name="description" content="微水泥的应用施工并不简单。请认识Toptools，最便利施工的工具：搅拌杆、批刀、网格和滚筒 "/>
 
-    <meta property="og:title" content="微水泥应用工具：搅拌器、批刀和网格">
+    <meta property="og:title" content="微水泥应用工具：搅拌杆、批刀和网格">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/weishuini-gongju">
-    <meta property="og:description" content="微水泥的应用施工并不简单。请认识Toptools，最便利施工的工具：搅拌器、批刀、网格和滚筒 ">
+    <meta property="og:description" content="微水泥的应用施工并不简单。请认识Toptools，最便利施工的工具：搅拌杆、批刀、网格和滚筒 ">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
@@ -60,13 +60,13 @@
                                     <a href="#que-es">各工具的用途</a>
                                 </li>
                                 <li>
-                                    <a href="#varilla"> 双螺旋搅拌器</a>
+                                    <a href="#varilla"> 双螺旋搅拌杆</a>
                                 </li>
                                 <li>
-                                    <a href="#perfil">微水泥楼梯和墙面的铝型固定角板</a>
+                                    <a href="#perfil">微水泥楼梯和墙面的阳角条</a>
                                 </li>
                                 <li>
-                                    <a href="#llana-goma"> 细微水泥的批刀</a>
+                                    <a href="#llana-goma"> 塑胶批刀</a>
                                 </li>
                                 <li>
                                     <a href="#llana-acero">微水泥 Bi-Flex钢质批刀 </a>
@@ -75,7 +75,7 @@
                                     <a href="#malla">微型水泥用玻璃纤维网格</a>
                                 </li>
                                 <li>
-                                    <a href="#rodillo">用于微水泥的短毛滚筒</a>
+                                    <a href="#rodillo">用于微水泥的纤维短毛滚筒</a>
                                 </li>
                                 <!-- Future launch
 					<li><a href="#preguntas-frecuentes">Preguntas frecuentes</a></li>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="content">
                             <a id="que-es" class="ancla"></a>
-                            <h1 class="en2">微水泥应用工具：搅拌器、批刀、网格和滚筒</h1>
+                            <h1 class="en2">微水泥应用工具：搅拌杆、批刀、网格和滚筒</h1>
                       <p>
                             工具的选择是保证微水泥最佳效果的一个基本因素。
 
@@ -95,7 +95,7 @@
 
 </p>    
 <p>
-    在Topciment的配件目录中，我们可以看到应用于微水泥的搅拌器、铝固定角板、用于不同类型的微水泥批刀、玻璃纤维网格和滚筒。
+    在Topciment的配件目录中，我们可以看到应用于微水泥的搅拌杆、阳角条、用于不同类型的微水泥批刀、玻璃纤维网格和滚筒。
 
 </p>    
                         </div>
@@ -121,10 +121,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-<h2>双螺旋搅拌器</h2>
+<h2>双螺旋搅拌杆</h2>
 
 <p>
-    这种搅拌器因其双螺旋而脱颖而出，可以有效地混合水泥砂浆。它是有效的均匀微水泥浆且避免飞溅的理想选择。
+    这种搅拌杆因其双螺旋而脱颖而出，可以有效地混合水泥砂浆。它是有效的均匀微水泥浆且避免飞溅的理想选择。
 
 </p>    
 <p>
@@ -177,7 +177,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         包装 </p>
-                    <p>双螺旋搅拌器是单个出售的。</p>
+                    <p>双螺旋搅拌杆是单个出售的。</p>
                 </div>
             </div>
         </section>
@@ -197,9 +197,9 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>微水泥楼梯和墙面的铝型固定角板</h2>
+                            <h2>微水泥楼梯和墙面的阳角条</h2>
                             <p>
-                             铝型固定角板被放置在墙角和楼梯的边缘，用于装饰和保护。它可以防止破损和磨损。
+                             阳角条被放置在墙角和楼梯的边缘，用于装饰和保护。它可以防止破损和磨损。
                             </p>
 
 
@@ -222,7 +222,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         包装 </p>
-                    <p>铝固定角板以10个和20个为一包出售。
+                    <p>阳角条以10个和20个为一包出售。
                     </p>
                 </div>
 
@@ -246,7 +246,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>细微水泥的批刀</h2>
+                            <h2>塑胶批刀</h2>
                             <p>
                                细微水泥批刀可适用于水平和垂直表面。有了它，你可以得到一个如水般，朦胧的，没有烧痕的效果。
                             </p>
@@ -417,7 +417,7 @@ Bi-Flex钢质 批刀是以每单个密封包装出售。
                         <!-- descripcion -->
                         <div class="col-md-6">
                         <h2>
-                             用于微水泥的短毛滚筒
+                             用于微水泥的纤维短毛滚筒
 
                         </h2>  
 <p>
@@ -425,7 +425,7 @@ Bi-Flex钢质 批刀是以每单个密封包装出售。
 
 </p>    
 <p>
-    DSV搪瓷滚筒是一种毛很短的产品，由于其对溶剂和丙酮的耐受性，强烈推荐用于我们的密封剂。
+    DSV溶剂型滚筒是一种毛很短的产品，由于其对溶剂和丙酮的耐受性，强烈推荐用于我们的密封剂。
       
 </p>                    
                         </div>

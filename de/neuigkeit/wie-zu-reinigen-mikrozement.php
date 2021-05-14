@@ -141,10 +141,11 @@
                             größer,</strong> und deshalb <strong>kann es praktisch alle Flecken und Markierungen
                             entfernen.</strong> Sogar die schwierigsten und hartnäckigsten wie Reifenspuren,
                         Trennmittel, Verschmutzung, Ruß, Kalk, Öl, Essensreste, Fett, Blut, usw. </p>
-                    <p> <strong>Bei der Anwendung </strong>auf Mikrozementwänden oder Mikrozementböden wird es zunächst
-                        <strong>mit Wasser verdünnt und dann auf die zu behandelnde Oberfläche gesprüht</strong>. Das
-                        Produkt muss ca. 30 Sekunden einwirken. Nach Ablauf dieser Zeit mit einem Tuch oder Wattebausch
-                        abwischen und anschließend mit Wasser abspülen. </p>
+             <p>
+                        Was die <strong>Anwendung</strong> auf Mikrozementwänden oder Mikrozementböden betrifft, kann es je nach Verschmutzungsgrad der Oberfläche sowohl konzentriert als auch in Wasser verdünnt</strong> aufgetragen werden. Wird der Reiniger mit Wasser verdünnt und dann auf die zu behandelnde Oberfläche aufgesprüht, sollte man das Produkt 5 bis 15 Minuten einwirken lassen. Nach Ablauf dieser Zeit mit einem Tuch oder Tupfer abwischen und anschließend mit Wasser abspülen.
+
+                    </p>
+
 
                     <!--  <div class="microcemento-madrid.com"> </div>  Esa es mi filosofía de vida junto a no  -->
 

@@ -214,10 +214,10 @@
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
-                                <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/espesura_capa.png" class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
+                                <div class="col-md-3"><img src="https://www.topciment.com/imagenes/pure-mettal/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Maksymalna grubość jednej warstwy</strong>
-                                    <p>1 mm</p>
+                                    <strong>Dwa rodzaje aplikacji</strong>
+                                    <p>Nakłada się pacą lub wałkiem.</p>
                                 </div>
                             </div>
                         </div>

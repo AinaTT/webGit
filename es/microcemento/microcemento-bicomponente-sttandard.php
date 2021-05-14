@@ -135,7 +135,7 @@
                           <h2>Microcemento bicomponente de preparación Sttandard Microbase</h2>
 
 <p>
-    Sttandard Microbase es el microcemento bicomponente tradicional de preparación. Se utiliza siempre antes de la aplicación de Sttandard Microfino, Sttandard Microdeck y Sttandard Microbase.
+    Sttandard Microbase es el microcemento bicomponente tradicional de preparación. Se utiliza siempre antes de la aplicación de Sttandard Microfino, Sttandard Microdeck y Sttandard Microstone.
 
 </p>    
 <p>

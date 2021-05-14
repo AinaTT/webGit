@@ -225,7 +225,7 @@
                                                 looking to go deeper into the most important step in the application of
                                                 microcement.</p> 
                                             <p class="card-text">You will practise with all the sealers available
-                                                (Topsealer WT One Coat, Topsealer WT Anti Slip, Topsealer Quick Dry,
+                                                (Topsealer WT One Coat, Topsealer WT Anti Slip, Topsealer WT Quick Dry,
                                                 Topsealer Pro +, Topsealer DSV and Presealer) and learn how to use each
                                                 one of them in every type of application.</p>
 

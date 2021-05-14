@@ -19,14 +19,14 @@
 
     <title>单组分微水泥演化系列- Evoluttion</title>
     <meta name="description"
-        content="Evoluttion演化系列是Topciment的单组份微水泥。它提供了良好的耐机械强度，并简化了组分混合，避免错误。" />
+        content="Evoluttion单组份微水泥是Topciment的单组份微水泥。它提供了良好的耐机械强度，并简化了组分混合，避免错误。" />
 
 
     <meta property="og:title" content="单组分微水泥演化系列- Evoluttion">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/yanhuaxilie-danzufeng-weishuini">
     <meta property="og:description"
-        content="Evoluttion演化系列是Topciment的单组份微水泥。它提供了良好的耐机械强度，并简化了组分混合，避免错误。">
+        content="Evoluttion单组份微水泥是Topciment的单组份微水泥。它提供了良好的耐机械强度，并简化了组分混合，避免错误。">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
@@ -74,13 +74,13 @@
                                     <h2><a href="#que-es-evoluttion">什么是 Evoluttion?</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microbase">Evoluttion演化系列基础</a></h2>
+                                    <h2><a href="#evoluttion-microbase">Evoluttion单组份微水泥基础</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microfino">Evoluttion演化系列墙面面层</a></h2>
+                                    <h2><a href="#evoluttion-microfino">Evoluttion单组份微水泥墙面面层</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microdeck">Evoluttion演化系列地面面层</a></h2>
+                                    <h2><a href="#evoluttion-microdeck">Evoluttion单组份微水泥地面面层</a></h2>
                                 </li>
                                 <li>
                                     <h2> <a href="#aplicacion">施工</a></h2>
@@ -93,18 +93,18 @@
 
                         <div class="content">
                             <a id="que-es-evoluttion" class="ancla"></a>
-                            <h1 class="en2">单组分微水泥 Evoluttion 演化系列</h1>
+                            <h1 class="en2">单组分微水泥 Evoluttion</h1>
                             <div class="text-justify">
 
                             <p>
-                                  Evoluttion演化系列是Topciment公司进阶的单组份（水泥和水）微水泥系列。有了这个产品，混合和准备工作就简化了，从而将专业人员可能出现的错误减少到最低限度。
+                                  Evoluttion单组份微水泥是Topciment公司进阶的单组份（水泥和水）微水泥系列。有了这个产品，混合和准备工作就简化了，从而将专业人员可能出现的错误减少到最低限度。
 
                             </p>    
 <p>
-    此单组分微水泥，可以夸耀的是以卓越的耐机械阻力保持了传统的Sttandard双组分微水泥系列的良好工作性能。
+    此单组分微水泥，保持了标准系列Sttandard双组分微水泥系列的良好工作性能。
 
 </p>    
-<p>此外，Evoluttion演化系列还减少了运输和储存成本。对微水泥专业人士来说都是好处。</p>
+<p>此外，Evoluttion单组份微水泥还减少了运输和储存成本。对微水泥专业人士来说都是好处。</p>
                             </div>
                         </div>
                     </div>
@@ -133,30 +133,30 @@
                     <div class="row">
                         <!-- Imagen producto -->
                         <div class="col-md-6">
-                            <a data-lightbox="texturas" data-title="Textura Evoluttion演化系列基础"
+                            <a data-lightbox="texturas" data-title="Textura Evoluttion单组份微水泥基础"
                                 href="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microbase_Mono_Textura.jpg">
                                 <img class="img-fluid textura"
                                     src="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microbase_Mono_Textura.jpg"
-                                    alt="Evoluttion演化系列基础" title="Evoluttion演化系列基础">
+                                    alt="Evoluttion单组份微水泥基础" title="Evoluttion单组份微水泥基础">
                             </a>
 
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
                            <h2>
-                               单组份微水泥演化系列基础 Evoluttion Microbase的制备
+                               单组份微水泥基础 Evoluttion Microbase的制备
 
                            </h2>  
 <p>
-    Evoluttion Microbase演化系列基础是用于制备的单组分微水泥，如果你决定将其作为最后饰面使用，也有乡村风格效果。
+    Evoluttion Microbase基础是用于制备的单组分微水泥，如果你决定将其作为最后饰面使用，也有乡村风格效果。
 
 </p>    
 <p>
-    无论如何，这种涂料提供给专业人士的装饰方案都是非常多样和突出的。至于它的应用，永远在涂抹 Evoluttion Microfino演化系列墙面表层 和Evoluttion Microdeck演化系列地面表层之前使用。
+    无论如何，这种涂料提供给专业人士的装饰方案都是非常多样和突出的。至于它的应用，永远在涂抹 Evoluttion Microfino系列墙面表层 和Evoluttion Microdeck系列地面表层之前使用。
 
 </p>    
 <p>
-    Evoluttion Microbase演化系列基础 有3种颗粒度纹理，L，XL和XXL。
+    Evoluttion Microbase基础 有3种颗粒度纹理，L，XL和XXL。
 
 </p>    
     
@@ -164,32 +164,32 @@
                                 href="https://www.topciment.com/cn/data-sheets/Evoluttion_MicrobaseMN_CN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>在此下载Evoluttion Microbase演化系列基础技术参数
+                                </span>在此下载Evoluttion Microbase基础技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">单组份微水泥演化系列基础Evoluttion Microbase的类型</p>
+                    <p class="en3">单组份微水泥系列基础Evoluttion Microbase的类型</p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列基础" title="Evoluttion演化系列基础">
-                                <figcaption class=" text-center">Evoluttion演化系列基础 L</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥基础" title="Evoluttion单组份微水泥基础">
+                                <figcaption class=" text-center">Evoluttion单组份微水泥基础 L</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XL.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列基础" title="Evoluttion演化系列基础">
-                                <figcaption class=" text-center">Evoluttion演化系列基础 XL</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥基础" title="Evoluttion单组份微水泥基础">
+                                <figcaption class=" text-center">Evoluttion单组份微水泥基础 XL</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XXL.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列基础" title="Evoluttion演化系列基础">
-                                <figcaption class=" text-center">Evoluttion演化系列基础 XXL</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥基础" title="Evoluttion单组份微水泥基础">
+                                <figcaption class=" text-center">Evoluttion单组份微水泥基础 XXL</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -229,7 +229,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>抗压性
+                                    <strong>强度
                                     </strong>
                                     <p>≥ 30 N/nm2 (28 天)</p>
                                 </div>
@@ -241,7 +241,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p> ≥ 1,5 N/nm2 (28 天)
                                     </p>
@@ -253,15 +253,15 @@
                     <p class="en3">
                         涂布率</p>
                     <div class="row">
-                        <div class="col-md-12"><span><strong>Evoluttion演化系列基础 L</strong>(2层) - 2,20 Kg/m2</span></div>
-                        <div class="col-md-12"><span><strong>Evoluttion演化系列基础 XL</strong>(2层) - 2,20 Kg/m2</span></div>
-                        <div class="col-md-12"><span><strong>Evoluttion演化系列基础 XXL</strong>(2层) - 2,20 Kg/m2</span></div>
+                        <div class="col-md-12"><span><strong>Evoluttion单组份微水泥基础 L</strong>(2层) - 2,20 Kg/m2</span></div>
+                        <div class="col-md-12"><span><strong>Evoluttion单组份微水泥基础 XL</strong>(2层) - 2,20 Kg/m2</span></div>
+                        <div class="col-md-12"><span><strong>Evoluttion单组份微水泥基础 XXL</strong>(2层) - 2,20 Kg/m2</span></div>
 
                     </div>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>演化系列基础 Evoluttion Microbase单组分微水泥以20公斤的黑色塑料桶包装。
+                    <p>Evoluttion Microbase单组分微水泥基础以20公斤的黑色塑料桶包装。
                     </p>
                 </div>
             </div>
@@ -282,17 +282,17 @@
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/evoluttion/Evoluttion_Microfino_logo.png"
-                            alt="Logo Evoluttion演化系列地面面层" alt="Logo Evoluttion演化系列地面面层">
+                            alt="Logo Evoluttion单组份微水泥地面面层" alt="Logo Evoluttion单组份微水泥地面面层">
                     </div>
                     <div class="row">
                         <!-- imagen producto -->
                         <div class="col-md-6">
 
-                            <a data-lightbox="texturas" data-title="Textura Evoluttion演化系列墙面面层"
+                            <a data-lightbox="texturas" data-title="Textura Evoluttion单组份微水泥墙面面层"
                                 href="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microfino_Textura.jpg">
                                 <img class="img-fluid textura"
                                     src="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microfino_Textura.jpg"
-                                    alt="Textura Evoluttion演化系列墙面面层" title="Textura Evoluttion演化系列墙面面层">
+                                    alt="Textura Evoluttion单组份微水泥墙面面层" title="Textura Evoluttion单组份微水泥墙面面层">
                             </a>
                         </div>
                         <!-- descripcion -->
@@ -302,11 +302,11 @@
 
                           </h2> 
 <p>
-    Evoluttion Microfino演化系列墙面面层是用于墙壁、建筑外墙或家具的最佳单组分微水泥饰面，因为它是为覆盖垂直和非通行的表面而设计的。
+    Evoluttion Microfino系列墙面面层是用于墙壁、建筑外墙或家具的最佳单组分微水泥饰面，因为它是为覆盖垂直和非通行的表面而设计的。
 
 </p>    
 <p>
-    它保证了丝般光滑的触感，并能轻松实现水印。这些品质使Evoluttion Microfino演化系列墙面面层成为室内和室外装饰的高价值涂料。
+    它保证了丝般光滑的触感，并能轻松实现水印。这些品质使Evoluttion Microfino系列墙面面层成为室内和室外装饰的高价值涂料。
 
 </p>    
 <p>
@@ -314,7 +314,7 @@
 
 </p>    
 <p>
-    Evoluttion Microfino演化系列墙面面层有3种颗粒度纹理：XS、S和M。
+    Evoluttion Microfino系列墙面面层有3种颗粒度纹理：XS、S和M。
 
 </p>    
 
@@ -323,32 +323,32 @@
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>在此下载Evoluttion Microfino演化系列墙面面层的技术参数
+                                </span>在此下载Evoluttion Microfino系列墙面面层的技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">用于墙面的Evoluttion Microfino演化系列墙面面层单组分微水泥类型 </p>
+                    <p class="en3">用于墙面的Evoluttion Microfino系列墙面面层单组分微水泥类型 </p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列墙面面层" title="Evoluttion演化系列墙面面层">
-                                <figcaption class="text-center">Evoluttion演化系列墙面面层 XS</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥墙面面层" title="Evoluttion单组份微水泥墙面面层">
+                                <figcaption class="text-center">Evoluttion单组份微水泥墙面面层 XS</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_S.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列墙面面层" title="Evoluttion演化系列墙面面层">
-                                <figcaption class="text-center">Evoluttion演化系列墙面面层 S</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥墙面面层" title="Evoluttion单组份微水泥墙面面层">
+                                <figcaption class="text-center">Evoluttion单组份微水泥墙面面层 S</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_M.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列墙面面层" title="Evoluttion演化系列墙面面层">
-                                <figcaption class="text-center">Evoluttion演化系列墙面面层 M</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥墙面面层" title="Evoluttion单组份微水泥墙面面层">
+                                <figcaption class="text-center">Evoluttion单组份微水泥墙面面层 M</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -390,7 +390,7 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        抗压性
+                                        强度
                                     </strong>
                                     <p> ≥ 29 N/nm2 (28 天)</p>
                                 </div>
@@ -402,7 +402,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>≥ 1,7 N/nm2
                                         (28 天)
@@ -415,15 +415,15 @@
                     <p class="en3">
                         涂布率</p>
                     <div class="row">
-                        <div class="col-md-12">Evoluttion演化系列墙面面层 XS (2层): 0,60 kg/m²</div>
-                        <div class="col-md-12">Evoluttion演化系列墙面面层 S (2层): 0,60 kg/m²2</div>
-                        <div class="col-md-12">Evoluttion演化系列墙面面层 M (2层): 0,60 kg/m²</div>
+                        <div class="col-md-12">Evoluttion单组份微水泥墙面面层 XS (2层): 0,60 kg/m²</div>
+                        <div class="col-md-12">Evoluttion单组份微水泥墙面面层 S (2层): 0,60 kg/m²2</div>
+                        <div class="col-md-12">Evoluttion单组份微水泥墙面面层 M (2层): 0,60 kg/m²</div>
 
                     </div>
                     <!-- 包装  -->
                     <p class="en3"> 包装 </p>
                     <p>
-Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装。
+Evoluttion Microfino系列墙面面层以15公斤的黑色塑料桶包装。
                     </p>
                 </div>
             </div>
@@ -444,16 +444,16 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/evoluttion/Evoluttion_Microdeck_logo.png"
-                            alt="Logo Evoluttion演化系列地面面层" title="Logo Evoluttion演化系列地面面层">
+                            alt="Logo Evoluttion单组份微水泥地面面层" title="Logo Evoluttion单组份微水泥地面面层">
                     </div>
                     <div class="row">
                         <!-- imagen producto -->
                         <div class="col-md-6">
-                            <a data-lightbox="texturas" data-title="Textura Evoluttion演化系列地面面层"
+                            <a data-lightbox="texturas" data-title="Textura Evoluttion单组份微水泥地面面层"
                                 href="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microdeck_Mono_Textura.jpg">
                                 <img class="img-fluid textura"
                                     src="https://www.topciment.com/imagenes/evoluttion/texturas/Evoluttion_Microdeck_Mono_Textura.jpg"
-                                    alt="Textura Evoluttion演化系列地面面层" title="Textura Evoluttion演化系列地面面层">
+                                    alt="Textura Evoluttion单组份微水泥地面面层" title="Textura Evoluttion单组份微水泥地面面层">
                             </a>
                         </div>
                         <!-- descripcion -->
@@ -463,7 +463,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
 
        </h2>  
 <p>
-    Evoluttion Microdeck演化系列地面面层是最好的单组分微水泥，用于室内地板的最佳装饰。这种微水泥给房间带来的外观是最自然和优雅的。
+    Evoluttion Microdeck系列地面面层是最好的单组分微水泥，用于室内地板的最佳装饰。这种微水泥给房间带来的外观是最自然和优雅的。
 
 </p>    
 <p>
@@ -471,7 +471,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
 
 </p>    
 <p>
-    Evoluttion Microdeck演化系列地面面层有两种颗粒度纹理：M和L。
+    Evoluttion Microdeck系列地面面层有两种颗粒度纹理：M和L。
 
 </p>    
 
@@ -480,27 +480,27 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>在此下载Evoluttion Microdeck演化系列地面面层的技术参数。
+                                </span>在此下载Evoluttion Microdeck系列地面面层的技术参数。
 
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">单组份微水泥演化系列地面面层Evoluttion Microdeck的类型 </p>
+                    <p class="en3">单组份微水泥系列地面面层Evoluttion Microdeck的类型 </p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列地面面层 M" title="Evoluttion演化系列地面面层 M">
-                                <figcaption class="text-center">Evoluttion演化系列地面面层 M</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥地面面层 M" title="Evoluttion单组份微水泥地面面层 M">
+                                <figcaption class="text-center">Evoluttion单组份微水泥地面面层 M</figcaption>
                             </figure>
 
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_L.jpg"
-                                    class=" img-fluid " alt="Evoluttion演化系列地面面层 L" title="Evoluttion演化系列地面面层 L">
-                                <figcaption class="text-center">Evoluttion演化系列地面面层 L</figcaption>
+                                    class=" img-fluid " alt="Evoluttion单组份微水泥地面面层 L" title="Evoluttion单组份微水泥地面面层 L">
+                                <figcaption class="text-center">Evoluttion单组份微水泥地面面层 L</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -542,7 +542,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        抗压性
+                                        强度
                                     </strong>
                                     <p> ≥ 40 N/nm2 (28 天)</p>
                                 </div>
@@ -554,7 +554,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>≥ 1,2 N/nm2
                                         (28 天)
@@ -567,8 +567,8 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                     <p class="en3">
                         涂布率</p>
                     <div class="row">
-                        <div class="col-md-12">Evoluttion演化系列地面面层 M (2层) - 1,40 Kg/m2</div>
-                        <div class="col-md-12">Evoluttion演化系列地面面层 L (2层) - 1,40 Kg/m2</div>
+                        <div class="col-md-12">Evoluttion单组份微水泥地面面层 M (2层) - 1,40 Kg/m2</div>
+                        <div class="col-md-12">Evoluttion单组份微水泥地面面层 L (2层) - 1,40 Kg/m2</div>
 
 
                     </div>
@@ -595,7 +595,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Evoluttion演化系列单组份微水泥在墙面的应用</strong></a></h2>
+                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Evoluttion单组份微水泥单组份微水泥在墙面的应用</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- 第1步
  -->
@@ -717,7 +717,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Evoluttion演化系列单组份微水泥在地板的应用</strong></a></h2>
+                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Evoluttion单组份微水泥单组份微水泥在地板的应用</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- 第1步
  -->
@@ -850,7 +850,7 @@ Evoluttion Microfino演化系列墙面面层以15公斤的黑色塑料桶包装�
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Evoluttion演化系列单组份微水泥颜色</h2>
+                        Evoluttion单组份微水泥单组份微水泥颜色</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

@@ -58,7 +58,7 @@
 
             <!-- Start Sttandard -->
           
-            <h1 class="en2s">微水泥，清漆和油漆</h1>
+            <h1 class="en2s">微水泥，清漆和色浆</h1>
               <h2 class="en3s">系列</h2>
             <div class="row altofam">
                 <!-- Logo Sttandard -->
@@ -67,7 +67,7 @@
                 </div>
                 <!-- Description Sttandard -->
                 <div class="col-md-5">
-                    <h2 class="sh2">微水泥双组份</h2>
+                    <h2 class="sh2">标准微水泥双组份</h2>
                     <p class="textos">
                        双组份（水泥+树脂）。它是传统的微水泥，也是应用最广泛的。它的多功能性提供了各种不同表面应用的可能。
 
@@ -103,7 +103,7 @@
     </div>
     <!-- Description Unlimitted -->
     <div class=" col-md-5 col-12">
-                        <h2 class="sh2">双组份微水泥新产品!</h2>
+                        <h2 class="sh2">无局限微水泥双组份 新产品!</h2>
                         <p> 
 这是双组份（水泥+树脂）新系列。它具有Sttandard的所有优点，但提高了工作效率、表面光滑度和耐强度。</p>
 
@@ -195,9 +195,9 @@
                 </div>
                 <!-- Desctiption Efectto -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">即用型微水泥</h2>
+                    <h2 class="sh2">即用型石英石微水泥</h2>
                     <p class="textos">
-                    它是即用型微水泥。它是一种亚克力材料，提供了高品质和无可比拟的自然装饰效果。在保持微水泥质感的同时，降低了水的影响。
+                    它是即用型微水泥，提供了高品质和无可比拟的自然装饰效果。在保持微水泥质感的同时，降低了纹理的影响。
                     </p>
                 </div>
                 <!-- Products Efectto -->
@@ -233,7 +233,7 @@
                 </div>
                 <!-- Description Pure Mettal -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">金属涂料</h2>
+                    <h2 class="sh2">金属微水泥</h2>
                     <p class="textos">
                        它是双组份的金属涂料，其突出的特点是能够创造出真实的金属效果，而且亮度很高。它也提供了氧化效果的可能性。
 
@@ -272,7 +272,7 @@
                 </div>
                 <!-- Description Classic Mettal -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">氧化效果金属漆
+                    <h2 class="sh2">经典金属色浆
 </h2>
                     <p class="textos">
                        这是一系列即用型金属颜料涂料，其特点是能够产生真实的高质量氧化效果。</p>
@@ -314,7 +314,7 @@
                 </div>
                 <!-- Description Elitte -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">金属釉</h2>
+                    <h2 class="sh2">金属釉和珠光</h2>
                     <p class="textos">
                       这是带金属反射的釉料系列。它提供两种不同的效果：闪光效果（Glaze）和珠光效果（Glitter）。</p>
 
@@ -340,7 +340,7 @@
         <div id="top" class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/sistemas/fondo4.jpg'); " data-img-width="1500" data-img-height="945" data-diff="100">
         </div>
         <div class="container text-white">
-            <h2 class="en3s">配件</h2>
+            <h2 class="en3s">辅料和工具</h2>
             <!-- Start Acricem -->
             <div class="row altofam">
                 <!-- Logo Acricem -->
@@ -349,7 +349,7 @@
                 </div>
                 <!-- Description Acricem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">微水泥用树脂</h2>
+                    <h2 class="sh2">微水泥B组份-树脂</h2>
                     <p class="textos">
                       Acricem是我们卓越的微水泥树脂。水性，这种丙烯酸树脂可以提高砂浆的强度和抗渗性。特别推荐用于双组份微水泥。
                     </p>
@@ -378,7 +378,7 @@
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">底漆和附着力促进剂微水泥</h2>
+                    <h2 class="sh2">底漆</h2>
                     <p class="textos">
                   Topciment微水泥底漆和附着力促进剂，这套产品是微水泥应用前的准备，促进和优化既有的支撑表面和新涂层之间的结合。
                     </p>
@@ -415,9 +415,9 @@
                 </div>
                 <!-- Description Arcocem -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">微水泥的颜料和颜色</h2>
+                    <h2 class="sh2">微水泥的色浆</h2>
                     <p class="textos">
-                      这是Topciment研发的颜料和色料系列。由6种基本颜色(Arcocem Basic)组成，让您可以创造出无限数量的色调和颜色范围，以实现真实和个性化的表面处理(Arcocem Plus)。
+                     这是Topciment研发的无机矿物色浆系列。由6种基本颜色(Arcocem Basic)组成，让您可以创造出无限数量的色调和颜色范围，以实现真实和个性化的表面处理(Arcocem Plus)。
 
                     </p>
                 </div>
@@ -448,7 +448,7 @@
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">微水泥罩面剂和清漆</h2>
+                    <h2 class="sh2">微水泥罩面剂</h2>
                     <p class="textos">
                    Topsealer是一套用于微水泥的罩面剂和清漆。具有高耐化学性的产品，可以更长久地保护被微水泥覆盖的表面。
                     </p>
@@ -504,9 +504,10 @@
                 </div>
                 <!-- Description Ecoclean -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">微水泥清洁</h2>
+                    <h2 class="sh2">微水泥专用清洁剂</h2>
                     <p class="textos">
-                        清洁微水泥的高度专业化产品。它们的特点是可在自然元素中分解和环境友好。
+           
+它们的特点是自然分解和保护环境。
 
 
                     </p>
@@ -537,7 +538,7 @@
                 </div>
                 <!-- Description Ceraciment -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">微水泥护理</h2>
+                    <h2 class="sh2">微水泥专用打蜡剂</h2>
                     <p class="textos">
                        保养蜡，使微水泥地板具有迷人的自然光泽和额外的硬度。微水泥护理和保养的必备产品。
                     </p>
@@ -572,7 +573,7 @@
                 <div class="col-md-4 col-12">
                     <h2 class="sh2">微水泥工具</h2>
                     <p class="textos">
-                      经Topciment测试的工具，可使微水泥得到最佳应用。我们有搅拌器、铝制角板、批刀、玻璃纤维网、短毛滚筒。
+             经Topciment测试的工具，可使微水泥得到最佳应用。我们有双螺旋搅拌杆、铝制阳角条、批刀、玻璃纤维网格、短毛纤维滚筒。
 
                     </p>
                 </div>
@@ -580,19 +581,19 @@
                 <div class="col-md-3 col-12">
                     <div class="row mb-2 ">
                         <div class="col-md-12 col-6 p-0"> <a href="weishuini-gongju#varilla" class="vermas">
-                                <strong>双螺旋搅拌器</strong></a><br>
+                                <strong>双螺旋搅拌杆</strong></a><br>
                             <a href="weishuini-gongju#perfil" class="vermas">
-                                <strong>微水泥楼梯和墙面的铝型固定角板</strong></a><br>
+                                <strong>铝制阳角条</strong></a><br>
                             <a href="weishuini-gongju#llana-goma" class="vermas">
-                                <strong>细微水泥的批刀</strong></a>
+                                <strong>塑胶批刀</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
                             <a href="weishuini-gongju#llana-acero" class="vermas">
-                                <strong>微水泥 Bi-Flex钢质批刀</strong></a><br>
+                                <strong>钢批刀</strong></a><br>
                             <a href="weishuini-gongju#malla" class="vermas">
-                                <strong>微型水泥用玻璃纤维网格</strong></a><br>
+                                <strong>玻璃纤维网格</strong></a><br>
                             <a href="weishuini-gongju#rodillo" class="vermas">
-                                <strong>用于微水泥的短毛滚筒</strong></a>
+                                <strong>纤维短毛滚筒</strong></a>
                         </div>
                     </div>
                 </div>

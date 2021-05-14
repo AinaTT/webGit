@@ -17,14 +17,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>用于高级装饰的即用型微型水泥：Efectto Quartz 爱菲特开盖即刮</title>
-    <meta name="description" content="即用型Efectto Quartz 爱菲特开盖即刮微水泥可以创造出无与伦比的高级装饰性连续饰面。但最大的优点无疑是它的快速应用。" />
+    <title>用于高级装饰的即用型微型水泥：Efectto Quartz 即用型石英石微水泥</title>
+    <meta name="description" content="即用型Efectto Quartz 即用型石英石微水泥微水泥可以创造出无与伦比的高级装饰性连续饰面。但最大的优点无疑是它的快速应用。" />
 
 
-    <meta property="og:title" content="用于高级装饰的即用型微型水泥：Efectto Quartz 爱菲特开盖即刮">
+    <meta property="og:title" content="用于高级装饰的即用型微型水泥：Efectto Quartz 即用型石英石微水泥">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/jiyongxing-weishuini">
-    <meta property="og:description" content="即用型Efectto Quartz 爱菲特开盖即刮微水泥可以创造出无与伦比的高级装饰性连续饰面。但最大的优点无疑是它的快速应用。">
+    <meta property="og:description" content="即用型Efectto Quartz 即用型石英石微水泥微水泥可以创造出无与伦比的高级装饰性连续饰面。但最大的优点无疑是它的快速应用。">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
@@ -67,19 +67,19 @@
                                     <a href="#up" style="font-size:26px">Efectto Quartz</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#que-es-efectto">什么是Efectto Quartz 爱菲特开盖即刮？</a></h2>
+                                    <h2><a class="bl" href="#que-es-efectto">什么是Efectto Quartz 即用型石英石微水泥？</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#small-grain">Efectto Quartz 爱菲特开盖即刮 <br> 墙面面层骨料</a></h2>
+                                    <h2><a class="bl" href="#small-grain">Efectto Quartz 即用型石英石微水泥 <br> 墙面面层骨料</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#medium-grain">Efectto Quartz 爱菲特开盖即刮<br>  地面面层骨料</a></h2>
+                                    <h2><a class="bl" href="#medium-grain">Efectto Quartz 即用型石英石微水泥<br>  地面面层骨料</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#big-grain">Efectto Quartz 爱菲特开盖即刮 <br> 墙面基础骨料</a></h2>
+                                    <h2><a class="bl" href="#big-grain">Efectto Quartz 即用型石英石微水泥 <br> 墙面基础骨料</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#super-grain">Efectto Quartz 爱菲特开盖即刮 <br> 地面基础骨料</a></h2>
+                                    <h2><a class="bl" href="#super-grain">Efectto Quartz 即用型石英石微水泥 <br> 地面基础骨料</a></h2>
                                 </li>
                                 <li>
                                     <h2><a class="bl" href="#aplicacion">施工</a></h2>
@@ -94,14 +94,14 @@
                         </div>
                         <div class="content">
                             <a id="que-es-efectto" class="ancla"></a>
-                            <h1 class="en2">用于高级装饰的即用型微型水泥：Efectto Quartz 爱菲特开盖即刮</h1>
+                            <h1 class="en2">用于高级装饰的即用型微型水泥：Efectto Quartz 即用型石英石微水泥</h1>
                             <div class="text-justify">
                                 <p>
-                                    Efectto Quartz 爱菲特开盖即刮是即用型微水泥系列，提供高度装饰性的连续饰面。它的独家配方不含可能导致收缩或开裂的水泥。
+                                    Efectto Quartz 即用型石英石微水泥是即用型微水泥系列，提供高度装饰性的连续饰面。它的独家配方不含可能导致收缩或开裂的水泥。
 
                                 </p>
                                 <p>
-                                    一种专为希望提高生产效率、提高微水泥应用速度和避免碎片的专业人士设计的涂料。由于所有这些原因，爱菲特开盖即刮是在已经有人居住的房屋上施工的最佳选择。
+                                   一种提高批刮效率，避免批涂界限的专业涂层。是旧房改造的极佳选择。
 
                                 </p>
                                 <p>
@@ -109,7 +109,7 @@
 
                                 </p>
                                 <p>
-                                    爱菲特开盖即刮有16种独特的微水泥颜色和四种不同的骨料纹理。这些都以其自然的外观脱颖而出。与传统双组分微水泥Sttandard或单组分微水泥演化系列Evoluttion不同，爱菲特开盖即刮的颜色更加均匀，并保留了涂层的纹理。
+                                    即用型石英石微水泥有16种独特的微水泥颜色和四种不同的骨料纹理。这些都以其自然的外观脱颖而出。与标准双组分微水泥Sttandard或单组分微水泥系列Evoluttion不同， 即用型石英石微水泥的颜色更加统一，并保留了涂层的纹理。
 
                                 </p>
                             </div>
@@ -135,7 +135,7 @@
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/efectto/logo/Logo+Grano_Small.png"
-                            title="Logo Efectto Quartz 爱菲特开盖即刮 墙面面层骨料" alt="Logo Efectto Quartz 爱菲特开盖即刮 墙面面层骨料">
+                            title="Logo Efectto Quartz 即用型石英石微水泥 墙面面层骨料" alt="Logo Efectto Quartz 即用型石英石微水泥 墙面面层骨料">
                     </div>
                     <div class="row">
                         <!-- imagen producto -->
@@ -154,7 +154,7 @@
 
                             </h2>
                             <p>
-                                Efectto Quartz 爱菲特开盖即刮墙面面层骨料是我们的即用型微水泥饰面，用于墙壁和其他垂直表面。在上两层墙面基础骨料后，单层涂抹此墙面面层骨料。它的最大粒径为0.1。
+                                Efectto Quartz 即用型石英石微水泥墙面面层骨料是我们的即用型微水泥饰面，用于墙壁和其他垂直表面。在上两层墙面基础骨料后，单层涂抹此墙面面层骨料。它的最大粒径为0.1。
 
                             </p>
 
@@ -163,7 +163,7 @@
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>在此下载Efectto Quartz Small Grain爱菲特开盖即刮墙面面层骨料的技术参数。</strong>
+                                <strong>在此下载Efectto Quartz Small Grain即用型石英石微水泥墙面面层骨料的技术参数。</strong>
                             </a>
                         </div>
                     </div>
@@ -174,15 +174,15 @@
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg"
-                                    class=" img-fluid " alt="" title="Efectto Quartz 爱菲特开盖即刮 墙面面层骨料 17 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 墙面面层骨料 17 公斤</figcaption>
+                                    class=" img-fluid " alt="" title="Efectto Quartz 即用型石英石微水泥 墙面面层骨料 17 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 墙面面层骨料 17 公斤</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Small_Grain_6Kg.jpg"
-                                    class=" img-fluid " alt="" title="Efectto Quartz 爱菲特开盖即刮 墙面面层骨料 6 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 墙面面层骨料 6 公斤</figcaption>
+                                    class=" img-fluid " alt="" title="Efectto Quartz 即用型石英石微水泥 墙面面层骨料 6 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 墙面面层骨料 6 公斤</figcaption>
                             </figure>
                         </div>
 
@@ -198,7 +198,7 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>每层最大厚度</strong>
-                                    <p>0,31毫米</p>
+                                    <p>0,3毫米</p>
                                 </div>
                             </div>
                         </div>
@@ -247,13 +247,13 @@
                     <p class="en3">涂布率
                     </p>
 
-                    <p><span>一层爱菲特开盖即刮墙面面层骨料：0,250kg / m²
+                    <p><span>一层即用型石英石微水泥墙面面层骨料：0,250kg / m²
                         </span></p>
                     <!-- 包装  -->
                     <p class="en3">
                         包装
                     </p>
-                    <p>爱菲特开盖即刮墙面面层骨料有6公斤和17公斤的黑色塑料桶包装。</p>
+                    <p>即用型石英石微水泥墙面面层骨料有6公斤和17公斤的黑色塑料桶包装。</p>
                 </div>
             </div>
         </section>
@@ -293,7 +293,7 @@
                             </h2>
                             <p>
                                 Efectto Quartz Medium
-                                Grain爱菲特开盖即刮地面面层骨料是我们用于地板和路面的即用型微水泥饰面。它是涂在地面基础骨料之后的单层涂料。它的最大粒径为0.2。
+                                Grain即用型石英石微水泥地面面层骨料是我们用于地板和路面的即用型微水泥饰面。它是涂在地面基础骨料之后的单层涂料。它的最大粒径为0.2。
 
                             </p>
 
@@ -302,7 +302,7 @@
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>在此下载Efectto Quartz Medium Grain爱菲特开盖即刮地面面层骨料技术参数。</strong>
+                                <strong>在此下载Efectto Quartz Medium Grain即用型石英石微水泥地面面层骨料技术参数。</strong>
                             </a>
                         </div>
                     </div>
@@ -312,17 +312,17 @@
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg"
-                                    class=" img-fluid " alt="  Efectto Quartz 爱菲特开盖即刮 地面面层骨料 17 Kg"
-                                    title="  Efectto Quartz 爱菲特开盖即刮 地面面层骨料 17 Kg">
-                                <figcaption class=" text-center"> Efectto Quartz 爱菲特开盖即刮 地面面层骨料 17 公斤</figcaption>
+                                    class=" img-fluid " alt="  Efectto Quartz 即用型石英石微水泥 地面面层骨料 17 Kg"
+                                    title="  Efectto Quartz 即用型石英石微水泥 地面面层骨料 17 Kg">
+                                <figcaption class=" text-center"> Efectto Quartz 即用型石英石微水泥 地面面层骨料 17 公斤</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Medium_Grain_6Kg.jpg"
-                                    class=" img-fluid " alt=" Efectto Quartz 爱菲特开盖即刮 地面面层骨料 6 Kg"
-                                    title=" Efectto Quartz 爱菲特开盖即刮 地面面层骨料 6 Kg">
-                                <figcaption class=" text-center"> Efectto Quartz 爱菲特开盖即刮 地面面层骨料 6 公斤</figcaption>
+                                    class=" img-fluid " alt=" Efectto Quartz 即用型石英石微水泥 地面面层骨料 6 Kg"
+                                    title=" Efectto Quartz 即用型石英石微水泥 地面面层骨料 6 Kg">
+                                <figcaption class=" text-center"> Efectto Quartz 即用型石英石微水泥 地面面层骨料 6 公斤</figcaption>
                             </figure>
                         </div>
 
@@ -338,7 +338,7 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>每层最大厚度</strong>
-                                    <p>0,51毫米</p>
+                                    <p>0,5毫米</p>
                                 </div>
                             </div>
                         </div>
@@ -385,11 +385,11 @@
                     </div>
                     <p class="en3">
                         涂布率</p>
-                    <p><span>一层爱菲特开盖即刮地面面层骨料：0,450 kg/m²
+                    <p><span>一层即用型石英石微水泥地面面层骨料：0,450 kg/m²
                         </span></p>
                     <p class="en3">
                         包装 </p>
-                    <p>爱菲特开盖即刮地面面层骨料有6公斤和17公斤的黑色塑料桶包装。</p>
+                    <p>即用型石英石微水泥地面面层骨料有6公斤和17公斤的黑色塑料桶包装。</p>
                 </div>
             </div>
 
@@ -410,7 +410,7 @@
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/efectto/logo/Logo+Grano_Big.png"
-                            title="Logo Efectto Quartz 爱菲特开盖即刮 墙面基础骨料" alt="Logo Efectto Quartz 爱菲特开盖即刮 墙面基础骨料">
+                            title="Logo Efectto Quartz 即用型石英石微水泥 墙面基础骨料" alt="Logo Efectto Quartz 即用型石英石微水泥 墙面基础骨料">
                     </div>
                     <div class="row">
                         <!-- imagen producto -->
@@ -429,7 +429,7 @@
 
                             </h2>
                             <p>
-                                Efectto Quartz Big Grain爱菲特开盖即刮墙面基础骨料是用于墙面准备的即用型微水泥系列。在涂抹该涂料后，再上一层墙面面层骨料，其最大颗粒度为0.3。
+                                Efectto Quartz Big Grain即用型石英石微水泥墙面基础骨料是用于墙面准备的即用型微水泥系列。在涂抹该涂料后，再上一层墙面面层骨料，其最大颗粒度为0.3。
 
                             </p>
 
@@ -438,7 +438,7 @@
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>在此下载Efectto Quartz Big Grain爱菲特开盖即刮墙面基础骨料技术参数。</strong>
+                                <strong>在此下载Efectto Quartz Big Grain即用型石英石微水泥墙面基础骨料技术参数。</strong>
                             </a>
                         </div>
                     </div>
@@ -448,17 +448,17 @@
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg"
-                                    class=" img-fluid " alt="Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 17 Kg"
-                                    title="Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 17 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 17 公斤</figcaption>
+                                    class=" img-fluid " alt="Efectto Quartz 即用型石英石微水泥 墙面基础骨料 17 Kg"
+                                    title="Efectto Quartz 即用型石英石微水泥 墙面基础骨料 17 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 墙面基础骨料 17 公斤</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Big_Grain_6Kg.jpg"
-                                    class=" img-fluid " alt="Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 6 Kg"
-                                    title="Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 6 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 墙面基础骨料 6 公斤</figcaption>
+                                    class=" img-fluid " alt="Efectto Quartz 即用型石英石微水泥 墙面基础骨料 6 Kg"
+                                    title="Efectto Quartz 即用型石英石微水泥 墙面基础骨料 6 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 墙面基础骨料 6 公斤</figcaption>
                             </figure>
                         </div>
 
@@ -476,7 +476,7 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>每层最大厚度</strong>
-                                    <p>0,81毫米</p>
+                                    <p>0,8毫米</p>
                                 </div>
                             </div>
                         </div>
@@ -524,12 +524,12 @@
                     <!-- Rendimiento -->
                     <p class="en3">
                         涂布率</p>
-                    <p>一层爱菲特开盖即刮墙面基础骨料：0,9kg/m²
+                    <p>一层即用型石英石微水泥墙面基础骨料：0,9kg/m²
                     </p>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>爱菲特开盖即刮墙面基础骨料有6和17公斤的黑色塑料桶包装。</p>
+                    <p>即用型石英石微水泥墙面基础骨料有6和17公斤的黑色塑料桶包装。</p>
                 </div>
             </div>
         </section>
@@ -549,7 +549,7 @@
                     <div class="text-center">
                         <img class="img-fluid logoFam"
                             src="https://www.topciment.com/imagenes/efectto/logo/Logo+Grano_Super-2.png"
-                            alt="Logo Efectto Quartz 爱菲特开盖即刮 地面基础骨料" title="Logo Efectto Quartz 爱菲特开盖即刮 地面基础骨料">
+                            alt="Logo Efectto Quartz 即用型石英石微水泥 地面基础骨料" title="Logo Efectto Quartz 即用型石英石微水泥 地面基础骨料">
                     </div>
                     <div class="row">
 
@@ -570,7 +570,7 @@
 
                             </h2>
                             <p>
-                                Efectto Quartz Super Grain爱菲特开盖即刮地面基础骨料用于准备地板和铺面。在涂抹该产品后，应涂抹一层爱菲特开盖即刮地面面层骨料，最大粒径为0.5。
+                                Efectto Quartz Super Grain即用型石英石微水泥地面基础骨料用于准备地板和铺面。在涂抹该产品后，应涂抹一层即用型石英石微水泥地面面层骨料，最大粒径为0.5。
 
                             </p>
 
@@ -579,7 +579,7 @@
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>在此下载Efectto Quartz Super Grain爱菲特开盖即刮地面基础骨料技术参数。</strong>
+                                <strong>在此下载Efectto Quartz Super Grain即用型石英石微水泥地面基础骨料技术参数。</strong>
                             </a>
                         </div>
                     </div>
@@ -589,17 +589,17 @@
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg"
-                                    class=" img-fluid " alt="Efectto Quartz 爱菲特开盖即刮 地面基础骨料 17 Kg"
-                                    title="Efectto Quartz 爱菲特开盖即刮 地面基础骨料 17 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 地面基础骨料 17 公斤</figcaption>
+                                    class=" img-fluid " alt="Efectto Quartz 即用型石英石微水泥 地面基础骨料 17 Kg"
+                                    title="Efectto Quartz 即用型石英石微水泥 地面基础骨料 17 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 地面基础骨料 17 公斤</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg"
-                                    class=" img-fluid " alt="Efectto Quartz 爱菲特开盖即刮 地面基础骨料 6 Kg"
-                                    title="Efectto Quartz 爱菲特开盖即刮 地面基础骨料 6 Kg">
-                                <figcaption class=" text-center">Efectto Quartz 爱菲特开盖即刮 地面基础骨料 6 公斤</figcaption>
+                                    class=" img-fluid " alt="Efectto Quartz 即用型石英石微水泥 地面基础骨料 6 Kg"
+                                    title="Efectto Quartz 即用型石英石微水泥 地面基础骨料 6 Kg">
+                                <figcaption class=" text-center">Efectto Quartz 即用型石英石微水泥 地面基础骨料 6 公斤</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -614,7 +614,7 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>每层最大厚度</strong>
-                                    <p>11毫米</p>
+                                    <p>1毫米</p>
                                 </div>
                             </div>
                         </div>
@@ -662,12 +662,12 @@
                     <!-- Rendimiento -->
                     <p class="en3">
                         涂布率</p>
-                    <p><span>一层爱菲特开盖即刮墙面基础骨料：1.3kg/m²
+                    <p><span>一层即用型石英石微水泥墙面基础骨料：1.3kg/m²
                         </span></p>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>爱菲特开盖即刮地面基础骨料有6和17公斤的黑色塑料桶包装。</p>
+                    <p>即用型石英石微水泥地面基础骨料有6和17公斤的黑色塑料桶包装。</p>
                 </div>
 
             </div>
@@ -688,14 +688,14 @@
                     <!-- aplicacion paredes -->
                     <div class="stepwalls mt-5">
                         <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+
-                                    爱菲特开盖即刮在墙面的应用</strong></a></h2>
+                                    即用型石英石微水泥在墙面的应用</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- 第1步> -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>第1步
-                                    </strong><br>用爱菲特开盖即刮墙面基础填充接缝，抛光
+                                    </strong><br>用即用型石英石微水泥墙面基础填充接缝，抛光
 
                                 </div>
                                 <!-- Icono -->
@@ -728,7 +728,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第3步</strong><br>用批刀上一层爱菲特开盖即刮墙面基础，抛光。
+                                    <strong>第3步</strong><br>用批刀上一层即用型石英石微水泥墙面基础，抛光。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -745,7 +745,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第4步</strong><br>用批刀上一层爱菲特开盖即刮墙面基础，抛光。
+                                    <strong>第4步</strong><br>用批刀上一层即用型石英石微水泥墙面基础，抛光。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -761,7 +761,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第5步</strong><br>用批刀上一层爱菲特开盖即刮墙面面层，抛光
+                                    <strong>第5步</strong><br>用批刀上一层即用型石英石微水泥墙面面层，抛光
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -811,7 +811,7 @@
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ 爱菲特开盖即刮在地板上的应用</strong></a></h2>
+                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ 即用型石英石微水泥在地板上的应用</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- 第1步
  -->
@@ -819,7 +819,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>第1步
-                                    </strong><br>用爱菲特开盖即刮地面基础填充接缝，抛光
+                                    </strong><br>用即用型石英石微水泥地面基础填充接缝，抛光
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -851,7 +851,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第3步</strong><br>用批刀上一层爱菲特开盖即刮地面基础，抛光
+                                    <strong>第3步</strong><br>用批刀上一层即用型石英石微水泥地面基础，抛光
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -867,7 +867,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第4步</strong><br>用批刀上一层爱菲特开盖即刮地面基础，抛光
+                                    <strong>第4步</strong><br>用批刀上一层即用型石英石微水泥地面基础，抛光
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -883,7 +883,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第5步</strong><br>用批刀上一层爱菲特开盖即刮地面面层，抛光
+                                    <strong>第5步</strong><br>用批刀上一层即用型石英石微水泥地面面层，抛光
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -949,7 +949,7 @@
             <div class="container">
                 <section class="content">
                     <h2 class="en2">
-                        <span>爱菲特开盖即刮颜色</span><br>
+                        <span>即用型石英石微水泥颜色</span><br>
                     </h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
@@ -1114,7 +1114,7 @@
 
             <div class="container">
                 <div class=" content">
-                    <h2 id="preguntasFrecuentesH1" width="100% !important"><span style="padding:5px;">爱菲特开盖即刮常见问题</span><br>
+                    <h2 id="preguntasFrecuentesH1" width="100% !important"><span style="padding:5px;">即用型石英石微水泥常见问题</span><br>
                         <!-- 	<span style="padding:5px;"></span> -->
                     </h2>
 
@@ -1123,13 +1123,13 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                       什么是爱菲特开盖即刮？
+                       什么是即用型石英石微水泥？
                             </strong> </a>
                         <div style="font-size:16px;">
                     
 
 <p>
-    爱菲特开盖即刮是一种即用型高度装饰性微水泥，供专业人士使用，旨在实现独特和优雅的设计。
+    即用型石英石微水泥是一种即用型高度装饰性微水泥，供专业人士使用，旨在实现独特和优雅的设计。
 
 </p>    
 <p>
@@ -1145,17 +1145,17 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                                爱菲特开盖即刮如何应用？
+                                即用型石英石微水泥如何应用？
                             </strong> </a>
                         <div style="font-size:16px;">
                          
 
 <p>
-    在应用爱菲特开盖即刮之前，必需用底漆进行表面制备。
+    在应用即用型石英石微水泥之前，必需用底漆进行表面制备。
 
 </p>    
 <p>
-    爱菲特开盖即刮用批刀分层涂抹，无论是在室内还是室外，也无论是在垂直还是水平表面，只要它们是平整和巩固的。
+    即用型石英石微水泥用批刀分层涂抹，无论是在室内还是室外，也无论是在垂直还是水平表面，只要它们是平整和巩固的。
 
 </p>    
 <p>
@@ -1193,7 +1193,7 @@
                        
 
 <p>
-    如果有接缝，就有必要用爱菲特开盖即刮地面基础平整表面。如果接缝太宽，应使用低收缩度的修复砂浆。
+    如果有接缝，就有必要用即用型石英石微水泥地面基础平整表面。如果接缝太宽，应使用低收缩度的修复砂浆。
            
 </p>               
                         </div>
@@ -1218,12 +1218,12 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                                 爱菲特开盖即刮微水泥有哪些颜色范围 ？
+                                 即用型石英石微水泥微水泥有哪些颜色范围 ？
                             </strong> </a>
                         <div style="font-size:16px;">
 <p>
                            
-    爱菲特开盖即刮有广泛的颜色和色度的可能性，用于地板和墙壁。请参考我们的颜色目录，看看哪一种最适合你的品味。
+    即用型石英石微水泥有广泛的颜色和色度的可能性，用于地板和墙壁。请参考我们的颜色目录，看看哪一种最适合你的品味。
 </p>
                         </div>
 
@@ -1233,7 +1233,7 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                          爱菲特开盖即刮带有颜料吗？
+                          即用型石英石微水泥带有颜料吗？
 
                             </strong> </a>
                         <div style="font-size:16px;">
@@ -1242,7 +1242,7 @@
     不，除非购买1000公斤以上，否则涂料的颜料要单独购买。
 
 </p>    
-<p>为爱菲特开盖即刮加颜料，以手工大力混合，你必须将所有的颜料倒入桶中，并摇动直到得到均匀混合。</p>
+<p>为即用型石英石微水泥加颜料，以手工大力混合，你必须将所有的颜料倒入桶中，并摇动直到得到均匀混合。</p>
                         </div>
 
                     </div>
@@ -1251,12 +1251,12 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                               爱菲特开盖即刮可以用网格吗？
+                               即用型石英石微水泥可以用网格吗？
                             </strong> </a>
                         <div style="font-size:16px;">
                           
 
-<p>不能使用网格，因为它的设计是薄层的装饰性涂料。遵守爱菲特开盖即刮的干燥时间是非常重要的，如此才能达到最大性能。</p>
+<p>不能使用网格，因为它的设计是薄层的装饰性涂料。遵守即用型石英石微水泥的干燥时间是非常重要的，如此才能达到最大性能。</p>
                         </div>
 
                     </div>
@@ -1265,7 +1265,7 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                       如果我在爱菲特开盖即刮铺上网格，会发生什么？
+                       如果我在即用型石英石微水泥铺上网格，会发生什么？
                             </strong> </a>
                         <div style="font-size:16px;">
                          
@@ -1274,7 +1274,7 @@
     对于这种即用型微水泥，不应该使用网格，如前一个问题所解释的那样。如果已经使用了，我们需要更厚的涂料来覆盖它，将影响干燥时间和它的硬度，以及增加开裂的风险。
 
 </p>    
-<p>爱菲特开盖即刮不会水泥，它是由树脂制成的。因此，它的收缩率较小，稍有弹性。这就是为什么铺网格对这种微水泥系列不适合的原因。</p>
+<p>即用型石英石微水泥不含水泥，它是由树脂混合成的膏体。因此，它的收缩率较小，稍有弹性。这就是为什么铺网格对这种微水泥系列不适合的原因。</p>
                         </div>
 
                     </div>
@@ -1284,13 +1284,13 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                                如何保存剩下的爱菲特开盖即刮的质量？
+                             即用型石英石微水泥保质期如何？
                             </strong> </a>
                         <div style="font-size:16px;">
                     
 
 <p>
-    如果你在完成工作后有剩余的产品，建议放置一块塑料布，以防止涂料与空气接触。这样做，爱菲特开盖即刮可以完美地保存下来，而不会失去其特性。
+    如果你在完成工作后有剩余的产品，建议放置一块塑料布，以防止涂料与空气接触。这样做，即用型石英石微水泥可以完美地保存下来，而不会失去其特性。
      
 </p>                       </div>
 
@@ -1300,12 +1300,12 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                             爱菲特开盖即刮有什么保固？
+                             即用型石英石微水泥有什么保固？
 
                             </strong> </a>
                         <div style="font-size:16px;">
                          
-<p>爱菲特开盖即刮从生产之日起保固一年，但如果没有正确遵循使用方式，产品将失去保固。</p>
+<p>即用型石英石微水泥从生产之日起保质一年，但是要遵循正确的储存方法。</p>
                         </div>
 
                     </div>
@@ -1314,12 +1314,12 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                                爱菲特开盖即刮可以应用在哪些基面上？
+                                即用型石英石微水泥可以应用在哪些基面上？
                             </strong> </a>
                         <div style="font-size:16px;">
                         
 
-<p>爱菲特开盖即刮可以应用于垂直和水平表面。</p>
+<p>即用型石英石微水泥可以应用于垂直和水平表面。</p>
 <p>与瓷砖、水磨石、灰泥、水泥等兼容。</p>
                         </div>
 
@@ -1329,13 +1329,13 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                               我们的爱菲特开盖即刮可以用在哪里？
+                               我们的即用型石英石微水泥可以用在哪里？
                             </strong> </a>
                         <div style="font-size:16px;">
                          
 
 <p>
-    爱菲特开盖即刮是一种非常耐磨的涂料，可以在室内和室外使用，也可以在浴室等潮湿的地方使用，甚至在淋浴板内。密封过程是此产品在这些情况下达到完美效果的关键。
+    即用型石英石微水泥是一种非常耐磨的涂料，可以在室内和室外使用，也可以在浴室等潮湿的地方使用，甚至在淋浴板内。密封过程是此产品在这些情况下达到完美效果的关键。
      
 </p>                       </div>
 
@@ -1345,12 +1345,12 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                              如何清洗爱菲特开盖即刮？
+                              如何清洗即用型石英石微水泥？
                             </strong> </a>
                         <div style="font-size:16px;">
                           
 
-<p>为确保爱菲特开盖即刮的寿命长且持久，我们建议使用我们的Ecoclean环保清洁剂和Ceraciment保护蜡。</p>
+<p>为确保即用型石英石微水泥的寿命长且持久，我们建议使用我们的Ecoclean环保清洁剂和Ceraciment保护蜡。</p>
                         </div>
 
                     </div>
@@ -1358,7 +1358,7 @@
                     <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a
                             href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1"
                             style="color:#000; text-decoration:none;"><strong>
-                                  爱菲特开盖即刮可以应用在地暖上吗？
+                                  即用型石英石微水泥可以应用在地暖上吗？
                             </strong></a>
                    
 

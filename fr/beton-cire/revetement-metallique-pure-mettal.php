@@ -232,11 +232,11 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/espesura_capa.png"
+                                        src="https://www.topciment.com/imagenes/pure-mettal/stepbystep/llana.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Épaisseur maximum par couche</strong>
-                                    <p>1 mm</p>
+                                    <strong>Deux types d'application</strong>
+                                    <p>Applicable à la truelle ou au rouleau.</p>
                                 </div>
                             </div>
                         </div>

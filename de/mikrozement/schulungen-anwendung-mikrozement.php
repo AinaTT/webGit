@@ -205,7 +205,7 @@
                                 <p class="card-text">Fokussiert auf den professionellen Verarbeiter, der sich mit dem
                                     wichtigsten Schritt in der Anwendung von Mikrozement beschäftigen möchte. </p>
                                 <p class="card-text">Sie üben mit allen verfügbaren Lacken (Topsealer WT One Coat,
-                                    Topsealer WT Anti Slip, Topsealer All in One, Topsealer Quick Dry, Topsealer Pro +,
+                                    Topsealer WT Anti Slip, Topsealer All in One, Topsealer WT Quick Dry, Topsealer Pro +,
                                     Topsealer DSV und Presealer) und lernen, wie man jeden von ihnen in jeder Art von
                                     Anwendung verwendet. </p>
                                 <p class="card-text"> Der Kurs dauert ca. 8 Stunden (2h Theorie + 6h Praxis) und wird

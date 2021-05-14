@@ -76,15 +76,11 @@
     <div class="container">
       <div id="que-es-microcemento" class="content">
 
-        <h1 class="mb-3">Was ist Microcemento? Gebrauch, Anwendung, Typen, Farben und Vorteile</h1>
+        <h1 class="mb-3">Was ist Mikrozement? Gebrauch, Anwendung, Typen, Farben und Vorteile</h1>
 
         <p>
-          Topciment Mikrozement ist eine dekorative Beschichtung, die aus Zement, Harzen auf Wasserbasis, Zusatzstoffen
-          und Mineralpigmenten besteht und dank ihrer großen Haftfähigkeit auf einer Vielzahl von vertikalen und
-          horizontalen Oberflächen angewendet werden kann. Dieser Baustoff zeichnet sich dadurch aus, dass er direkt auf
-          vorhandene Materialien aufgebracht wird: Fliesen, Holz, Gipskartonplatten oder Putz, neben vielen anderen. Mit
-          wenig Aufwand und einer Dicke von nur 3 Millimetern wird eine schnelle Renovierung von Räumen erreicht.
-
+         Topciment Mikrozement ist eine dekorative Beschichtung, die aus Zement, Harzen auf Wasserbasis, Additiven und Mineralpigmenten besteht und dank ihrer großen Haftfähigkeit auf einer Vielzahl von vertikalen und horizontalen Oberflächen angebracht werden kann. Dieser Baustoff zeichnet sich dadurch aus, dass er direkt auf vorhandene Materialien aufgetragen wird: Fliesen, Gipskartonplatten, Bodenfliesen, Marmor, Terrazzo oder Gips, neben vielen anderen. Mit kaum Arbeit und einer Dicke von nur 3 Millimetern wird eine schnelle Renovierung von Räumen erreicht.
+       
         </p>
         <p>
           Eine hochmoderne, fugenlose Beschichtung, die sowohl für Außen- als auch für Innenräume geeignet ist. Eine

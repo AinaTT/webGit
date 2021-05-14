@@ -66,7 +66,7 @@
 									<a href="#topsealer-anti-slip"> Topsealer WT Anti Slip</a>
 								</li>
 								<li>
-									<a href="#topsealer-quick-dry">Topsealer Quick Dry</a>
+									<a href="#topsealer-quick-dry">Topsealer WT Quick Dry</a>
 								</li>
 								<li>
 									<a href="#topsealer-proplus">Topsealer Pro + </a>
@@ -105,9 +105,7 @@
 
 								</p>
 								<p>
-									Topsealer coatings can be applied both indoors and outdoors and are also capable of
-									creating anti-slip and waterproof surfaces. We offer polyurethane varnishes,
-									water-based varnishes, acrylic varnishes and even spray varnishes.
+									Topsealer coatings can be applied both indoors and outdoors and are also capable of creating anti-slip and waterproof surfaces. We offer polyurethane varnishes, water-based varnishes, two-component 100% solids varnishes, acrylic varnishes and even spray varnishes.
 
 								</p>
 								<p>
@@ -177,7 +175,7 @@
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
 									<strong>Solids</strong>
-									<p>M: 31,5%, S:28,7%, B:28,3% Comp.A<br>
+									<p>30 ±2% Comp.A
 										100% Comp.B</p>
 								</div>
 							</div>
@@ -189,7 +187,7 @@
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
 									<strong>Viscosity</strong>
-									<p>22 - 24s (Ford Cup 4)
+									<p>20 - 30" a 25ºC (Copa Ford 4mm) Comp.A
 										Comp.A</p>
 								</div>
 							</div>
@@ -204,8 +202,8 @@
 								<div class="  col-md-9">
 									<strong>Density
 									</strong>
-									<p>1,018 g/mL Comp.A
-										1,045 - 1,055 g/mL Comp.B</p>
+									<p>1,02 ±0,01 g/ml Comp.A <br>
+										a 25ºC 1,045-1,055 g/mL Comp.B</p>
 								</div>
 							</div>
 						</div>
@@ -290,12 +288,12 @@
 						<div class="col-6">
 							<div class="row">
 								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
+										src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
-									<strong>Hardness</strong>
-									<p>7 days of curing:
-										70 seconds</p>
+									<strong>Solids</strong>
+									<p>Comp A: 34 ±2% <br>
+										Comp B: 100% </p>
 								</div>
 							</div>
 						</div>
@@ -306,7 +304,8 @@
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
 									<strong>Viscosity</strong>
-									<p>22-24” At 20ºC CF-4</p>
+									<p>Comp. A: 14-16s a 25ºC (Copa Ford 4)
+									</p>
 								</div>
 							</div>
 						</div>
@@ -318,10 +317,10 @@
 										src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
-									<strong>Density at 25ºC
+									<strong>Density
 									</strong>
-									<p>1,018 g/ml Comp. A
-										1,045 - 1,055 g/ml Comp. B
+									<p>Comp. A 1,03 ±0,01 g/ml <br>
+										Comp. B a 25ºC: 1,045 - 1,055 g/mL
 									</p>
 
 								</div>
@@ -335,7 +334,7 @@
 								<div class="  col-md-9">
 									<strong>PH
 									</strong>
-									Between 7 and 9</p>
+									7,5 ±0,5</p>
 								</div>
 							</div>
 						</div>
@@ -404,12 +403,13 @@
 						<div class="col-6">
 							<div class="row">
 								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
+										src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
-									<strong>Hardness</strong>
-									<p>7 days of curing:
-										70 seconds</p>
+									<strong>Solids</strong>
+									<p>Comp A: 22% <br>
+Comp A: 100 %
+</p>
 								</div>
 							</div>
 						</div>
@@ -420,7 +420,7 @@
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
 									<strong>Viscosity</strong>
-									<p>22-24” At 20ºC CF-4</p>
+									<p>14 - 15s (Copa Ford 4)</p>
 								</div>
 							</div>
 						</div>
@@ -432,10 +432,10 @@
 										src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
 										class="figure-img img-fluid rounded"></div>
 								<div class="  col-md-9">
-									<strong>Density at 25ºC
+									<strong>Density at 20ºC
 									</strong>
-									<p>1,018 g/ml Comp. A
-										1,045 - 1,055 g/ml Comp. B
+									<p>1,028 g/mL Comp.A <br>
+1,045-1,055 g/mL Comp.B
 									</p>
 
 								</div>
@@ -493,87 +493,124 @@
 						<!-- descripcion -->
 						<div class="col-md-6">
 
-							<h2 class="h2s">Two-component polyurethane varnish</h2>
-							<p>Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.
-								This colourless varnish is designed to be applied in a one coat application, as it
-								penetrates completely into the pores achieving a complete seal.</p>
-							<p>The main singularities of this sealer with a high gloss finish are that it waterproofs
-								any type of substrate, and that it gives an extra hardness to the microcement.
-							</p>
-							<p>There are two types of Topsealer Pro + varnish depending on the speed of drying: Fast and
-								Slow. </p>
-							<a class="links" href="../data-sheets/TopsealerPro+Fast_EN.pdf" target="_blank"> <span
-									class="fa-stack">
-									<i class="fas fa-file-pdf fa-stack-1x"></i>
-								</span><strong>Download the Topsealer Pro + data sheet here</strong>
-							</a>
+						 <h2>Two-component, fast curing, waterproof cold polyurea</h2>
+
+<p>
+	Topsealer Pro+ is a fast curing, waterproof, two-component cold polyurea that is suitable for the protection of interior concrete and microcement coated surfaces. This 100% solids two-component varnish does not require priming, in fact it is designed to be applied in a one coat application as it has the ability to fully penetrate into the pores ensuring a complete seal.
+
+</p>	
+<p>
+	This exclusive high-gloss varnish provides extra hardness to microcement as well as waterproofing any type of substrate. We have two types of two-component cold polyurea Topsealer Pro + depending on the curing times: Fast and Slow.
+
+</p>	
+
 						</div>
 					</div>
+					 <h3>Fast curing, waterproof cold polyurea Topsealer Pro + Fast</h3>
+
+<p>
+	The two-component cold polyurea Topsealer Pro + Fast intensifies and enhances the colour of microcement and concrete substrates. It is applied by "0 pore" roller or trowel and guarantees excellent resistance to water, wear, certain chemicals and UV light.
+
+</p>	
+<p>
+	This two-component, 100% solids varnish, which does not require priming, is highly transparent and waterproof, thus preventing water vapour transpiration. 
+
+</p>	
+<a class="links" href="../data-sheets/TopsealerPro+Fast_EN.pdf" target="_blank"> <span
+									class="fa-stack">
+									<i class="fas fa-file-pdf fa-stack-1x"></i>
+								</span><strong>Download the Topsealer Pro + Fast data sheet here</strong>
+							</a>
+
+<h3>
+	Fast curing, waterproof cold polyurea Topsealer Pro + Slow
+
+</h3>	
+<p>
+	Topsealer Pro + Slow two-component 100% solids varnish does not require priming. A two-component cold polyurea with the ability to waterproof and protect any interior microcement substrate as well as concrete floors.
+
+</p>	
+<p>
+	Being a very glossy varnish, this cold polyurea enhances the gloss of the surface as well as its hardness. It is applied in a single coat with a "0 pore" roller or trowel. It has very good resistance to wear, UV light (no yellowing) and some chemicals.
+
+</p>	
+
+<p>
+	As with the cold polyurea Topsealer Pro + Fast, this two-component 100% solids varnish waterproofs the two-component microcement against running water and prevents water vapour transpiration. 
+
+</p>	
+
+						 	 <a class="links" href="../data-sheets/TopsealerPro+Fast_EN.pdf" target="_blank"> <span
+									class="fa-stack">
+									<i class="fas fa-file-pdf fa-stack-1x"></i>
+								</span><strong>Download the Topsealer Pro +  Slow data sheet here</strong>
+							</a>  
 					<!-- Propiedades -->
 					<p class="en3">
 						Technical characteristics</p>
-					<div class="row">
-						<div class="col-6">
-							<div class="row">
-								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
-										class="figure-img img-fluid rounded"></div>
-								<div class="  col-md-9">
-									<strong>High gloss</strong>
-									<p>Due to the high concentration of metallic components. </p>
-								</div>
-							</div>
-						</div>
-						<div class="col-6">
-							<div class="row">
-								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
-										class="figure-img img-fluid rounded"></div>
-								<div class="  col-md-9">
-									<strong>Fast drying</strong>
-									<p> 2-3 hours approximately.
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-6">
-							<div class="row">
-								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
-										class="figure-img img-fluid rounded"></div>
-								<div class="col-md-9">
-									<strong>Viscosity
-									</strong>
-									<p>35 s (Ford Cup 4)
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-6">
-							<div class="row">
-								<div class=" col-md-3"><img
-										src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_exterior_interior.png"
-										class="figure-img img-fluid rounded"></div>
-								<div class="col-md-9">
-									<strong>Suitable for interiors and exteriors
-									</strong>
-									<p>It can be applied to facades, porches and interior rooms AND WET ROOMS
-									</p>
-								</div>
-							</div>
-						</div>
-					</div>
+					 <!-- Propiedades -->
+                   
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="row">
+                                <div class=" col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
+                                        class="figure-img img-fluid rounded"></div>
+                                <div class="  col-md-9">
+                                    <strong>High gloss</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="row">
+                                <div class=" col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
+                                        class="figure-img img-fluid rounded"></div>
+                                <div class="  col-md-9">
+                                    <strong>Fast drying</strong>
+                                    <p>2-3 hours Topsealer Pro + Fast  <br>8 hours Topsealer Pro + Slow
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="row">
+                                <div class=" col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
+                                        class="figure-img img-fluid rounded"></div>
+                                <div class="col-md-9">
+                                    <strong>Waterproof
+                                    </strong>
+                                    <p>Against standing water
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="row">
+                                <div class=" col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_exterior_interior.png"
+                                        class="figure-img img-fluid rounded"></div>
+                                <div class="col-md-9">
+                                    <strong>Application time
+                                    </strong>
+                                    <p>15 minutes Topsealer Pro + Fast <br>
+25-30 minutes Topsealer Pro + Slow
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 					<!-- Consumption -->
 					<p class="en3">
 						Consumption</p>
-					<p><span>Topsealer Pro+ Fast: One coat of 150 g/m².
-						</span></p>
+					<p>The consumption of the cold polyurethanes Topsealer Pro + Fast and Topsealer Pro + Slow is 60-100 g / m2 in 1 coat. </p>
 					<!-- Packaging -->
 					<p class="en3">
 						Packaging</p>
-					<p>Comes in a two-component pack of 0.54 kg (component A) and 0.8 kg (component B)
+					<p>Topsealer Pro + Fast and Topsealer Pro + Slow two-component 100% solid and waterproof coatings are supplied in a two-component pack of 0.64 kg (component A) and 0.8 kg (component B).
 					</p>
 				</div>
 			</div>
@@ -941,11 +978,11 @@
 								under the action of sunlight.
 
 							</p>
-						  <a class="links" href="https://www.topciment.com/en/data-sheets/TopsealerWT_Spray_EN.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Download the Topsealer WT Spray data sheet here.</strong>
-                            </a> 
+							<a class="links" href="https://www.topciment.com/en/data-sheets/TopsealerWT_Spray_EN.pdf"
+								target="_blank"> <span class="fa-stack">
+									<i class="fas fa-file-pdf fa-stack-1x"></i>
+								</span><strong>Download the Topsealer WT Spray data sheet here.</strong>
+							</a>
 						</div>
 					</div>
 					<!-- Propiedades -->

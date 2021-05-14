@@ -220,7 +220,7 @@
                                     cherche à se plonger dans l'étape la plus importante de l'application du
                                     béton ciré.</p> <br><br>
                                 <p class="card-text"> Vous pratiquerez avec tous les vernis disponibles
-                                    (Topsealer WT One Coat, Topsealer WT Anti Slip, Topsealer Quick Dry,
+                                    (Topsealer WT One Coat, Topsealer WT Anti Slip, Topsealer WT Quick Dry,
                                     Topsealer Pro +, Topsealer DSV et Presealer) et vous apprendrez à
                                     utiliser chacun d'eux dans chaque type d'application.
                                 </p>

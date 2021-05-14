@@ -13,17 +13,17 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
-    <title>Lacke poliuretano, al agua y acrílicos | Lacke Topsealer</title>
+    <title>Lacke Polyurethan, wasserbasiert und Acrylate | Lacke Topsealer</title>
     <meta name="description"
-        content="Los Lacke Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos Lacke de poliuretano, al agua y acrílicos." />
+        content=" Lacke Topsealer bieten hervorragenden Schutz vor Abrieb, Kratzern, Flecken und Sonnenlicht. Wir fertigen Lacke de Polyurethan, wasserbasiert und Acrylate." />
 
 
 
-    <meta property="og:title" content="Lacke poliuretano, al agua y acrílicos | Lacke Topsealer">
+    <meta property="og:title" content="Lacke Polyurethan, wasserbasiert und Acrylate | Lacke Topsealer">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/mikrozement/topselaer-lack">
     <meta property="og:description"
-        content="Los Lacke Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos Lacke de poliuretano, al agua y acrílicos.">
+        content=" Lacke Topsealer bieten hervorragenden Schutz vor Abrieb, Kratzern, Flecken und Sonnenlicht. Wir fertigen Lacke de Polyurethan, wasserbasiert und Acrylate.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
@@ -53,8 +53,6 @@
         <div class="clearfix">
             <div id="content">
                 <section id="up">
-
-
                     <div class="container">
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
@@ -71,7 +69,7 @@
                                     <a href="#topsealer-anti-slip"> Topsealer WT Anti Slip</a>
                                 </li>
                                 <li>
-                                    <a href="#topsealer-quick-dry">Topsealer Quick Dry</a>
+                                    <a href="#topsealer-quick-dry">Topsealer WT Quick Dry</a>
                                 </li>
                                 <li>
                                     <a href="#topsealer-proplus">Topsealer Pro + </a>
@@ -93,7 +91,7 @@
                         </div>
                         <div class="content">
                             <a id="que-es-topsealer" class="ancla"></a>
-                            <h1 class="en2">Lacke poliuretano, al agua y acrílicos | Lacke Topsealer</h1>
+                            <h1 class="en2">Lacke Polyurethan, wasserbasiert und Acrylate | Lacke Topsealer</h1>
 
                             <div class="text-justify">
                                 <p>
@@ -109,11 +107,7 @@
                                     UV-Licht oder aggressive Reinigungsmittel.
 
                                 </p>
-                                <p>
-                                    Topsealer-Lacke können sowohl im Innen- als auch im Außenbereich angewendet werden
-                                    und sind außerdem in der Lage, rutschfeste und wasserfeste Oberflächen zu schaffen.
-                                    Wir bieten Polyurethanlacke, Lacke auf Wasserbasis, Acryllacke und sogar Sprühlacke
-                                    an.
+                                <p>Topsealer-Lacke können sowohl im Innen- als auch im Außenbereich angewendet werden und sind außerdem in der Lage, rutschfeste und wasserfeste Oberflächen zu schaffen. Wir haben alle Arten von Versiegelungen: Polyurethanlacke auf Wasserbasis, Polyurethanlacke auf Lösungsmittelbasis, Zweikomponentenlacke mit 100 % Feststoffen, Acryl-Polyurethanlacke und sogar Polyurethan-Sprühlacke.
 
                                 </p>
                                 <p>
@@ -174,11 +168,11 @@
                                 satinierte Lacke und glänzende Lacke.
 
                             </p>
-                            <!--   <a class="links" href="https://www.topciment.com/de/technische-datenblatter/TopsealerWTonecoat-DE.pdf"
+                          <a class="links" href="https://www.topciment.com/de/technische-datenblatter/TopsealerWTonecoat-DE.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Laden Sie hier das technische Datenblatt von Topsealer WT One Coat</strong>
-                            </a> -->
+                            </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
@@ -317,8 +311,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>Feststoffe</strong>
-                                    <p>Comp A: 17 - 33% <br>
-                                        Comp B: 100%</p>
+                                    <p>Comp A:  34 ±2% <br> Comp B: 100%</p>
                                 </div>
                             </div>
                         </div>
@@ -329,7 +322,8 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>Viskosität</strong>
-                                    <p>25-28S (Ford Cup 4))</p>
+                                    <p>Comp. A: 14-16s a 25ºC (Copa Ford 4) 
+</p>
                                 </div>
                             </div>
                         </div>
@@ -341,10 +335,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
-                                    <strong>Dichte a 25ºC
+                                    <strong>Dichte 
                                     </strong>
-                                    <p>1,018 g/mL Comp.A <br>
-                                        1,045 - 1,055 g/ml Comp.B
+                                    <p>Comp. A 1,03 ±0,01 g/ml <br>
+Comp. B a 25ºC: 1,045 - 1,055 g/mL
                                     </p>
 
                                 </div>
@@ -358,7 +352,7 @@
                                 <div class="  col-md-9">
                                     <strong>PH
                                     </strong>
-                                    <p>Zwischen 7 y 9</p>
+                                    <p> 7,5 ±0,5</p>
                                 </div>
                             </div>
                         </div>
@@ -456,20 +450,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-6">
-                            <div class="row">
-                                <div class=" col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
-                                        class="figure-img img-fluid rounded"></div>
-                                <div class="  col-md-9">
-                                    <strong>Viskosität
-                                    </strong>
-                                    <p>14 - 15s (Ford Cup 4)
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-6">
                             <div class="row">
                                 <div class=" col-md-3"><img
@@ -478,7 +459,7 @@
                                 <div class="  col-md-9">
                                     <strong>PH
                                     </strong>
-                                    <p>Zwischen 7 y 9</p>
+                                    <p>Zwischen 7 - 9</p>
                                 </div>
                             </div>
                         </div>
@@ -522,33 +503,60 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Zweikomponenten-Lack</h2>
+                           <h2>
+                             Zweikomponentiger, schnell aushärtender, wasserdichter Kaltpolyharnstoff
+                       </h2>  
+<p>
+    Topsealer Pro + ist ein schnell aushärtender, wasserdichter, zweikomponentiger Kaltpolyharnstoff, der sich ideal für den Schutz von Mikrozement- und Betonoberflächen im Innenbereich eignet. Dieser Zweikomponentenlack mit 100 % Feststoffgehalt benötigt keine Grundierung, sondern kann in einer einzigen Schicht aufgetragen werden, da er die Fähigkeit hat, vollständig in die Poren einzudringen und eine vollständige Versiegelung zu gewährleisten.
 
-                            <p>
-                                Topsealer Pro + ist ein Zweikomponentenlack mit 100 % Feststoffen, der keine Grundierung
-                                erfordert. Dieser farblose Lack ist so konzipiert, dass es in einer einzigen Schicht
-                                aufgetragen werden kann, da er vollständig in die Poren eindringt und eine komplette
-                                Versiegelung erreicht.
+</p>    
+<p>
+    Dieser exklusive Hochglanzlack verleiht dem Mikrozement eine zusätzliche Härte und macht jede Art von Untergrund wasserdicht. Wir haben zwei Arten von Zweikomponenten-Kaltpolyurea Topsealer Pro +, abhängig von den Aushärtungszeiten: Fast y Slow.
 
-                            </p>
-                            <p>
-                                Die Haupteigenschaften dieser hochglänzenden Versiegelung sind, dass sie jede Art von
-                                Untergrund wasserdicht macht, und dass sie dem Mikrozement eine zusätzliche Härte
-                                verleiht.
+</p>     
 
-                            </p>
-                            <p>
-                                Es gibt zwei Arten von Topsealer Pro + Lack, abhängig von der Trocknungsgeschwindigkeit:
-                                Fast und Slow.
-
-                            </p> <a class="links"
-                                href="https://www.topciment.com/de/technische-datenblatter/TopsealerPro+Fast_DE.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Laden Sie hier das technische Datenblatt von Topsealer Pro +</strong>
-                            </a>
                         </div>
                     </div>
+ <h3>Schnell härtendes, wasserfestes Kaltpolyurea Topsealer Pro + Fast</h3>
+
+<p>
+    Das zweikomponentige Kaltpolyurea Topsealer Pro + Fast intensiviert und veredelt die Farbe von Mikrozement und Betonuntergründen. Er wird mit einer "0-Poren"-Rolle oder -Spachtel aufgetragen und garantiert eine hervorragende Beständigkeit gegen Wasser, Abnutzung, bestimmte Chemikalien und UV-Licht.
+
+</p>    
+<p>
+    Dieser Zweikomponentenlack mit 100 % Feststoffanteil, der keine Grundierung benötigt, ist hochtransparent und wasserabweisend für den Untergrund, so dass die Wasserdampfdiffusion blockiert wird.
+
+</p>    
+
+
+
+                     <a class="links" href="https://www.topciment.com/de/technische-datenblatter/TopsealerPro+Fast_DE.pdf"
+                                target="_blank"> <span class="fa-stack">
+                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                </span><strong>Laden Sie hier das technische Datenblatt von Topsealer Pro + Fast</strong>
+                            </a>
+
+                         <h3>Schnell härtender, wasserfester Kaltpolyharnstoff Topsealer Pro + Slow</h3>
+
+<p>
+    Topsealer Pro + Slow Zweikomponentenlack mit 100 % Feststoffen erfordert keine Grundierung. Ein Zweikomponenten-Kaltpolyharnstoff mit der Fähigkeit, jeden Mikrozementträger im Innenbereich sowie Betonböden abzudichten und zu schützen.
+
+</p>    
+<p>
+    Da es sich um einen sehr hellen Lack handelt, erhöht dieser Kaltpolyharnstoff sowohl den Glanz als auch die Härte der Oberfläche. Es wird in einer einzigen Schicht mit einer "0-Poren"-Rolle oder -Spachtel aufgetragen. Es hat eine sehr gute Beständigkeit gegen Verschleiß, UV-Licht (es vergilbt nicht) und einige chemische Produkte.
+
+</p>    
+<p>Wie der Kaltpolyharnstoff Topsealer Pro + Fast ist dieser zweikomponentige, zu 100 % feststoffdichte Lack</p>
+<p>
+    Zweikomponentenlack mit 100% Feststoffanteil imprägniert Mikrozement gegen fließendes Wasser, indem er die Atmungsaktivität des Wasserdampfes blockiert.
+
+</p>    
+    <a class="links" href="https://www.topciment.com/de/technische-datenblatter/TopsealerPro+Slow_DE.pdf"
+                                target="_blank"> <span class="fa-stack">
+                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                </span><strong>Laden Sie hier das technische Datenblatt von Topsealer Pro + Slow</strong>
+                            </a> 
+
                     <!-- Propiedades -->
                     <p class="en3">
                         Technische Eigenschaften</p>
@@ -560,7 +568,6 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>Hochglanz</strong>
-                                    <p>Dank seines hohen Gehalts an Feststoffe </p>
                                 </div>
                             </div>
                         </div>
@@ -571,7 +578,8 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>Schnell trocknend</strong>
-                                    <p> Schnell: ca. 2,5 Stunden <br> Langsam: ca. 8 Stunden
+                                    <p> 2-3 Stunden Topsealer Pro + Fast <br>
+                                    8 Stunden Topsealer Pro + Slow
                                     </p>
                                 </div>
                             </div>
@@ -584,9 +592,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viskosität
+                                    <strong>Wasserdicht
                                     </strong>
-                                    <p>35-45s (Ford Cup 4)
+                                    <p>Gegen fließendes Wasser
                                     </p>
                                 </div>
                             </div>
@@ -599,8 +607,8 @@
                                 <div class="col-md-9">
                                     <strong>Anwendungszeit
                                     </strong>
-                                    <p>20 Minuten (Fast) <br>
-                                        30 Minuten (Slow)
+                                    <p>15 Minuten Topsealer Pro + Fast <br>
+25-30 Minuten Topsealer Pro + Slow
                                     </p>
                                 </div>
                             </div>
@@ -609,12 +617,13 @@
                     <!-- Leistung -->
                     <p class="en3">
                         Leistung</p>
-                    <p><span>Topsealer Pro+ Fast: 1 Schichtde 150 g/m².
+                    <p><span>Die Leistung der Kaltpolyharnstoffe Topsealer Pro + Fast und Topsealer Pro + Slow beträgt 60-100 g / m2 in 1 Anstrich.
+
                         </span></p>
                     <!-- Verpackung -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>It comes in a two-component pack of 0.54 kg (component A) and 0.8 kg (component B).
+                    <p>Die Zweikomponentenlacke Topsealer Pro + Fast und Topsealer Pro + Slow sind 100% fest und wasserfest und werden in einer Zweikomponentenpackung mit 0,8 kg (Komponente A) und 0,64 kg (Komponente B) geliefert.
                     </p>
                 </div>
             </div>

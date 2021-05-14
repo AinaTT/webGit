@@ -68,11 +68,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1> 微型水泥的树脂</h1>
+                            <h1> 微水泥B组份-树脂</h1>
 
                             <p>
-                                Acricem是一种树脂，可以为微水泥涂层提供附着力、硬度和灵活性。这种丙烯酸和水基树脂特别适合与我们的双组份微水泥系统配套。Sttandard系列,
-                                Unlimitted无局限系列和Atlanttic大西洋系列。
+                                Acricem是一种树脂，可以为微水泥涂层提供附着力、硬度和灵活性。这种水性丙烯酸特别适合与我们的双组份微水泥系统配套。Sttandard系列, Unlimitted无局限系列和Atlanttic大西洋系列。
 
                             </p>
                             <p>

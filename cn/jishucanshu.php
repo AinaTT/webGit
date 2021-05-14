@@ -15,18 +15,18 @@
      <link rel="preload" href="../assets/css/fichas-tecnicas.css" as="style"/>
      <link rel="stylesheet" href="../assets/css/fichas-tecnicas.css"/>
 
-     <title>Fichas técnicas | Topciment</title>
-     <meta name="description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
+     <title>技术数据表 - Topciment</title>
+     <meta name="description" content="下载我们的目录和技术数据表，以选择最适合您需求的解决方案。"/>
 
      <meta property="og:locale" content="zh_CN"/>
      <meta property="og:type" content="website"/>
-     <meta property="og:title" content="Fichas técnicas | Topciment"/>
-     <meta property="og:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
+     <meta property="og:title" content="技术数据表 - Topciment"/>
+     <meta property="og:description" content="下载我们的目录和技术数据表，以选择最适合您需求的解决方案。"/>
      <meta property="og:url" content="https://www.topciment.com/cn/jishucanshu"/>
      <meta property="og:site_name" content="Topciment"/>
      <meta name="twitter:card" content="summary"/>
-     <meta name="twitter:description" content="Descarga nuestro catálogo y nuestras fichas técnicas para eligir la solucion que mejor se ajuste a tus necesidades."/>
-     <meta name="twitter:title" content="Fichas técnicas | Topciment"/>
+     <meta name="twitter:description" content="下载我们的目录和技术数据表，以选择最适合您需求的解决方案。"/>
+     <meta name="twitter:title" content="技术数据表 - Topciment"/>
      <meta name="twitter:site" content="@topciment"/>
      <meta name="twitter:creator" content="@topciment"/>
      <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -35,9 +35,7 @@
      <link rel="canonical" href="https://www.topciment.com/cn/jishucanshu"/>
 
       <link rel="alternate" href="https://www.topciment.com/cn/jishucanshu" hreflang="zh-CN"/>
-     <link rel="alternate" href="https://www.topciment.com/fr/fiches-techniques" hreflang="fr-FR"/>
-           <link rel="alternate" href="https://topciment.com/en/data-sheet" hreflang="en-GB"/>
-           <link rel="alternate" href="https://topciment.com/pl/karty-techniczne" hreflang="pl-PL" />
+    
            
      <?php include("../assets/includes/root-scripts-head.php"); ?>
  </head>
@@ -56,18 +54,17 @@
                  <div id="sidebar" class="menuOculto menuMicrocementos stick">
                      <ul>
                          <li>
-                             <h1><a href="#top" style="font-size:26px">Descargas</a></h1>
+                             <h1><a href="#top" style="font-size:26px">下载</a></h1>
                          </li>
-                         <li><a href="#fichas-tecnicas-topciment"> Fichas técnicas</a></li>
-                         <li><a href="#catalogo-topciment"> Catálogo</a></li>
+                         <li><a href="#fichas-tecnicas-topciment"> 技术参数</a></li>
+                         <li><a href="#catalogo-topciment"> Topciment 目录</a></li>
                      </ul>
                  </div>
                  <div class="content">
                      <a id="jishucanshu-topciment" class="ancla"></a>
                      <h2 class="en2">技术参数</h2>
                      <p>
-                         Descarga nuestro catálogo y nuestras Fichas técnicas para elegir la solución que mejor se ajuste a
-                         tus necesidades.
+                        下载我们的目录和技术参数，以选择最适合您需求的解决方案
                      </p>
                      <h4 class="card-header mb-3">Sttandard
                      </h4>
@@ -147,38 +144,26 @@
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer Pro +</strong>
                           (100%固化，防水聚氨酯清漆)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTonecoat-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One
-                                 Coat</strong>
-                             (Barniz sellador para microcemento)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTquickdry-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick
-                                 Dry</strong> (Barniz sellador para microcemento de secado rápido)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTantiSlip-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti
-                                 Slip</strong> (Barniz sellador antideslizante)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerDSV-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong> (barniz sellador
-                             microcemento base
-                             disolvente)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/Presealer-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong> (Imprimación
-                             tapaporos de piscinas),</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTonecoat-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One Coat</strong>  单层罩面剂（双组分水基聚氨酯清漆）</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTquickdry-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick Dry快干罩面剂</strong> （快干型水基聚氨酯清漆）</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerWTantiSlip-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti Slip  防滑罩面剂</strong> （防滑水性聚氨酯清漆）。</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/TopsealerDSV-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV  溶剂型罩面剂</strong> (双组分，溶剂型丙烯酸聚氨酯清漆)</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/Presealer-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer 封孔剂</strong>（水基丙烯酸清漆）</a><br>
 
                      </p>
 
 
 
-                     <h4 class="card-header mb-3 mt-3"> Limpieza y mantenimiento</h4>
+                     <h4 class="card-header mb-3 mt-3">清洁和维护</h4>
                      <p class="text-dark links-ft">
-                         <a href="https://www.topciment.com/cn/data-sheets/Ceraciment-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment</strong> (Cera de
-                             mantenimiento para suelos.)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/CeracimentPRO-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment PRO</strong>
-                             (Cera de mantenimiento para suelos de alta resistencia y con acabado metalizado.)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/Ecoclean-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean</strong> (Limpiador
-                             ecológico de uso doméstico.)</a><br>
-                         <a href="https://www.topciment.com/cn/data-sheets/EcocleanPRO-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean PRO</strong>
-                             (Limpiador ecológico profesional.)</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/Ceraciment-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Basic 基础型保护蜡</strong>（地板维护和保护蜡）。</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/CeracimentPRO-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Ceraciment Pro 进阶型保护蜡</strong>（高亮光地板维护和保护蜡）。</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/Ecoclean-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Basic</strong> 环保清洁基本型（家用环保清洁剂）。</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/EcocleanPRO-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Pro 进阶型清洁剂</strong>（专业用途的环保清洁剂）。</a><br>
                      </p>
-                     <h4 class="card-header mb-3 mt-3"> Herramientas</h4>
+                     <h4 class="card-header mb-3 mt-3"> 工具</h4>
                      <p class="text-dark links-ft">
-                         <a href="https://www.topciment.com/cn/data-sheets/Builtex-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Builtex</strong> (Malla de Fibra de
-                             vidrio extra plana y flexible)</a><br>
+                         <a href="https://www.topciment.com/cn/data-sheets/Builtex-CN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Builtex</strong></a><br>
 
                      </p>
 
@@ -199,22 +184,8 @@
                  <div class="content">
 
                      <a id="catalogo-topciment" class="ancla"></a>
-                     <h2>Catálogo Topciment</h2>
-                     <p class="texto-catalogo" style="text-align:justify;">Nuestro nuevo catálogo recoge información
-                         detallada de
-                         todas las
-                         soluciones
-                         Topciment. Se trata de una herramienta de consulta en la que incorporamos novedades acompañadas de
-                         los productos
-                         de
-                         siempre.
-                         Descubre la <strong class="links"><a class="links" href="wenxingshuini/weishuini-gongchang">empresa</a></strong>, la
-                         <strong><a class="links" href="wenxingshuini/chanping">forma de
-                                 trabajar</a></strong> y los <strong><a class="links" href="wenxingshuini/tuku">项目</a></strong> en los que
-                         formamos
-                         parte. Gracias a nuestro espíritu innovador centrado en la investigación constante, este catálogo se
-                         convierte
-                         en algo vivo y en constante renovación. ¡Disfrútalo! .
+                     <h2>Topciment 目录</h2>
+                     <p class="texto-catalogo" style="text-align:justify;">我们的新目录包含所有Topciment应用方法的详细信息。这是一个最佳咨询工具，我们将新产品与现有系列一起纳入其中。可以直接了解我们的公司、我们的工作方式以及所参与的作品项目。由于我们不断研究的创新精神，这个目录是极有生命力的，我们将不断地更新。 请尽情享受吧! .
                      </p>
                      <div class="row  container-fluid ">
                          <div class="col-md-12">
@@ -223,7 +194,6 @@
                                  <iframe src="https://www.topciment.com/private/#p=1" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" height="900" width="100%">
                                  </iframe>
                              </div>
-
                          </div>
 
                      </div>

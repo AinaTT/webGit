@@ -103,7 +103,7 @@
 
                     </p>
                     <p>
-                        然而我们还是推荐我们的<a href="../wenxingshuini/weishuini-de-qingjie-baohu">Ecoclean Basic</a> 环保清洁剂基本型 在家中使用，能够去除任何污垢。
+                        然而我们还是推荐我们的<a href="../wenxingshuini/weishuini-de-qingjie-baohu">Ecoclean Basic</a> 环保微水泥清洁剂-家庭版，能够去除任何污垢。
 
                     </p>
 

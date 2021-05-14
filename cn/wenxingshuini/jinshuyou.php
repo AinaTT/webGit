@@ -200,7 +200,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>适用于任何载体</strong>
+                                    <strong>适用于任何基面</strong>
                                     <p>微水泥，混凝土，砖，陶瓷...</p>
                                 </div>
                             </div>
@@ -359,7 +359,7 @@ Elitte Glitter是Topciment的珠光效果的釉料系列，可即时使用。 �
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>适用于任何载体</strong>
+                                    <strong>适用于任何基面</strong>
                                     <p>微水泥，混凝土，砖，陶瓷...</p>
                                 </div>
                             </div>
@@ -444,7 +444,7 @@ Elitte Glitter是Topciment的珠光效果的釉料系列，可即时使用。 �
                     <h2 class="mb-4 mt-4 en3">Elitte 金属和珠光效果釉料的应用
                     </h2>
                     <p>
-无论你是想做金属效果还是想做珠光效果的饰面，Elitte金属釉的应用都是一样的。 如前所述，釉料实际上可以应用于任何载体，如砖、混凝土、陶瓷或微水泥等。一种可以用刷子、滚筒、批刀、海绵甚至是喷枪来完成。
+无论你是想做金属效果还是想做珠光效果的饰面，Elitte金属釉的应用都是一样的。 如前所述，釉料实际上可以应用于任何基面，如砖、混凝土、陶瓷或微水泥等。一种可以用刷子、滚筒、批刀、海绵甚至是喷枪来完成。
 </p>
 <p>这是应用釉料需要的四个步骤，它们非常适合用于墙壁、地板和家具。</p>
                     <div class="stepfloor mt-5">
@@ -456,8 +456,8 @@ Elitte Glitter是Topciment的珠光效果的釉料系列，可即时使用。 �
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>第1步。清洁和准备载体</strong><br>
-                                  检查载体是否具有良好的凝聚性和干燥。用真空吸尘器使其完全清洁。如果有必要，可以对其进行抛光。
+                                    <strong>第1步。清洁和准备基面</strong><br>
+                                  检查基面是否具有良好的凝聚性和干燥。用真空吸尘器使其完全清洁。如果有必要，可以对其进行抛光。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img

@@ -73,7 +73,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/img/microcemento/escalera-microcemento-roja.webp"
                                                                     height="auto" />
-                                                                <p>我们是在中国注册的领先微水泥品牌。在广州国际设计周上年年引起高度注目的产品。
+                                                                <p>我们是世界级注册的微水泥领军品牌。在广州国际设计周上年年引起高度注目的产品。
                                                                 </p>
                                                                 <a href="xinwen/marca-registrada-usa"
                                                                     class="btn float-right btn-primary leermass mt-2">请读</a>

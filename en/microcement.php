@@ -77,12 +77,7 @@
 
         <h1 class="mb-3">What is microcement? Uses, types, application and advantages</h1>
 
-        <p>Topciment microcement is a decorative coating composed of cement, water-based resins, additives and mineral
-          pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence.
-          This construction material stands out because it is applied directly onto existing materials: tiles, wood,
-          plasterboard or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a
-          rapid renovation of spaces is achieved.</p>
-
+<p>Microcement Topciment is a decorative coating composed of cement, water-based resins, additives and mineral pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence. This construction material stands out because it is applied directly onto existing materials: tiles, plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a rapid renovation of spaces is achieved.
         <p>A cutting-edge cladding, jointless and suitable for both outdoor and indoor spaces. A continuous cladding
           that can be applied on floors, walls, stairs, ceilings, swimming pools and even furniture. Its versatility has
           led to its increasing presence in the refurbishment of private homes and in commercial premises and large

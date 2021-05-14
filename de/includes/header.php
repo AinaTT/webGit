@@ -6,8 +6,8 @@
                     alt="Topciment" style="max-width: 60px; max-height: 60px;">
             </a>
             <div class="menu botones menu1b">
-                <ul><a href="#"><img src="https://www.topciment.com/imagenes/flags/china.png"
-                            alt="Topciment Chinese Web" Title="Topciment Chinese Web"></a>
+                <ul><a href="#"><img src="https://www.topciment.com/imagenes/flags/germany.png"
+                            alt="Topciment  germany Web" Title="Topciment germany Web"></a>
 
                     <li><a href="../mikrozemente">Mikrozement</a>
                     </li>

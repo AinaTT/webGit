@@ -16,8 +16,7 @@
     <link rel="stylesheet" href="../assets/css/contacto.css" />
 
     <title>Topciment microcement contact form</title>
-    <meta name="description"
-        content="Solve your doubts, request information, find points of sale, distributors or applicators of microcement. National and international." />
+    <meta name="description" content="Solve your doubts, request information, find points of sale, distributors or applicators of microcement. National and international."/>
 
     <meta property="og:locale" content="en_EN" />
     <meta property="og:type" content="website" />

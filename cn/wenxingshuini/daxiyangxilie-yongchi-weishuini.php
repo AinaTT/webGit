@@ -197,7 +197,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> 抗压性</strong>
+                                    <strong> 强度</strong>
                                     <p>55 N/m² (28 天)
                                 </div>
                             </div>
@@ -208,7 +208,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,5 N/m²</p>
                                 </div>
@@ -265,7 +265,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>第1步
-</strong><br>我们必须确保具有良好的凝聚力，干燥，如果有必要的话，还可以抛光。用真空吸尘器清洁基面。上一层Acricem树脂。
+</strong><br>表面必须确保稳固，干燥，如果有必要的话，还可以抛光。用真空吸尘器清洁基面。上一层Acricem树脂。
  </a> 
                                 </div>
                                 <!-- Icono -->

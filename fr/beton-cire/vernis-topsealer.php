@@ -69,7 +69,7 @@
                                     <a href="#topsealer-anti-slip"> Topsealer WT Anti Slip</a>
                                 </li>
                                 <li>
-                                    <a href="#topsealer-quick-dry">Topsealer Quick Dry</a>
+                                    <a href="#topsealer-quick-dry">Topsealer WT Quick Dry</a>
                                 </li>
                                 <li>
                                     <a href="#topsealer-proplus">Topsealer Pro + </a>
@@ -107,10 +107,8 @@
 
                                 </p>
                                 <p>
-                                    Les revêtements Topsealer peuvent être appliqués aussi bien à l'intérieur qu'à l'extérieur et,
-                                    Ils sont également capables de créer des surfaces antidérapantes et imperméables. Nous avons
-                                    les vernis polyuréthanes, les vernis à l'eau, les vernis acryliques et même les vernis en spray.
-                                    et même des vernis en spray.
+                                    Les vernis Topsealer peuvent être appliqués à l'intérieur et à l'extérieur et sont également capables de créer des surfaces antidérapantes et imperméables. Nous disposons de tous les types de produits d'étanchéité : vernis polyuréthane à base d'eau, vernis polyuréthane à base de solvant, vernis bicomposant 100% solides, vernis polyuréthane acrylique et même vernis polyuréthane en spray.
+
                                 </p>
                                 <p>
                                     Voici la gamme complète des vernis Topsealer.
@@ -386,7 +384,7 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <p>
-<h2>Vernis à l'eau</h2>
+                        <h2>Vernis à l'eau</h2>
                                 <p class="h3s">Topsealer WT Quick Dry est un polyuréthane à deux composants légèrement
                                     alcalin à base d'eau,
                                     adapté à la protection du microciment.</h3>
@@ -499,29 +497,58 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-<h2>Vernis polyuréthane bicomposant</h2>
-                                <p class="h3s">Topsealer Pro+ est un vernis bicomposant 100% solides qui ne necessite
-                                    pas de
-                                    primaire.</h3>
-                                </p>
-                                <p>Il est conçus pour s'appliquer en 1 seule couche, parce qu'il pénètre completement
-                                    dans
-                                    les pores et laisse un scellage complet .
-                                    En plus d'imperméabiliser le support , il apporteun extra de dureté au béton ciré.
-                                    Sa
-                                    finition est haut brillant. </p>
-                                <p>Topsealer Pro+ présente deux types de produits qui se diférencies pour la rapidité de
-                                    séchage:Fast et Slow
-                                    Haut Brillant: Grâce a son fort contenu en solides. </p>
-                                <a class="links"
-                                    href="https://www.topciment.com/en/data-sheets/TopsealerPro+Fast_EN.pdf"
-                                    target="_blank"> <span class="fa-stack">
-                                        <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                    </span><strong>Téléchargez la fiche technique de Pro + ici</strong>
-                                </a>
+                          <h2>Polyurée à froid à deux composants, à durcissement rapide et imperméable</h2>
+
+<p>
+    Topsealer Pro + est une polyurée à froid à deux composants, à durcissement rapide et imperméable, idéale pour la protection des surfaces revêtues de microciment et de béton à l'intérieur. Ce vernis bi-composant 100% solide ne nécessite pas d'apprêt, en fait il est conçu pour être appliqué en une seule couche car il a la capacité de pénétrer complètement les pores garantissant une étanchéité totale.
+
+</p>    
+<p>
+    Ce vernis ultra brillant exclusif confère une dureté supplémentaire au béton ciré en plus d'imperméabiliser tout type de support. Nous avons deux types de polyurée froide à deux composants Topsealer Pro + en fonction des temps de durcissement: rapide et lent.
+
+</p>    
+                               
                         </div>
                     </div>
+                   <h3>Topsealer Pro + Polyurée froide à durcissement rapide imperméable et rapide</h3>
+
+<p>
+    La polyurée froide à deux composants Topsealer Pro + Fast intensifie et rehausse la couleur des substrats en béton ciré et en béton. Il s'applique au rouleau ou à la taloche "0 pore" et garantit une excellente résistance à l'eau, à l'usure, à certains produits chimiques et aux rayons UV.
+
+</p>    
+<p>
+    Ce vernis bi-composant 100% solide qui ne nécessite pas de bouche pores présente une grande transparence en plus de l'imperméabilisation du support, empêchant ainsi sa respirabilité à la vapeur d'eau.
+
+</p>    
+
+  <a class="links"
+                                    href="https://www.topciment.com/fr/fiches-techniques/TopsealerPro+Fast_FR.pdf"
+                                    target="_blank"> <span class="fa-stack">
+                                        <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                    </span><strong>Téléchargez ici la fiche technique de Topsealer Pro + Fast</strong>
+                                </a> 
+<h3> Topsealer Pro + Polyurée froide à séchage rapide et étanche</h3>
+
+<p>
+    Le vernis à deux composants Topsealer Pro + Slow 100% solides ne nécessite pas d'apprêt. Une polyurée froide à deux composants avec la capacité d'imperméabiliser et de protéger tout substrat de béton ciré à l'intérieur ainsi que les chaussées en béton.
+
+</p>    
+<p>
+    Étant un vernis très brillant, cette polyurée à froid améliore la brillance de la surface ainsi que sa dureté. Il est appliqué en une seule couche avec un rouleau "0 pore" ou une taloche. Il a une très bonne résistance à l'usure, aux rayons UV (ne jaunit pas) et à certains produits chimiques.
+
+</p>    
+<p>
+    Comme avec Topsealer Pro + polyurée à froid rapide, ce vernis
+    Bicomposant 100% solide, il imperméabilise le béton ciré contre l'eau courante, évitant la respirabilité à la vapeur d'eau.
+
+</p>    
+
+  <a class="links"
+                                    href="https://www.topciment.com/fr/fiches-techniques/TopsealerPro+Slow_FR.pdf"
+                                    target="_blank"> <span class="fa-stack">
+                                        <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                    </span><strong>Téléchargez ici la fiche technique de Topsealer Pro + Slow</strong>
+                                </a> 
                     <!-- Propiedades -->
                     <p class="en3" >
                         Caracteristiques techniques</p>
@@ -532,7 +559,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
-                                    <strong>Haut Brillant</strong>
+                                    <strong>Haute luminosité</strong>
                                     <p>Grâce a son fort contenu en solides. </p>
                                 </div>
                             </div>
@@ -544,8 +571,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>Séchage rapide</strong>
-                                    <p>Fast:2.5 heures approximativement.
-                                        Slow: 8 heures approximativement
+                                    <p>2-3 heures Topsealer Pro + Fast <br>8 heures Topsealer Pro + Slow
                                     </p>
                                 </div>
                             </div>
@@ -558,9 +584,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viscosité
+                                    <strong>Imperméables
                                     </strong>
-                                    <p>Fast et Slow :35 s- 45 s (Ford Cup 4)
+                                    <p>Face à l'eau courante
                                     </p>
                                 </div>
                             </div>
@@ -573,8 +599,7 @@
                                 <div class="col-md-9">
                                     <strong>Temps d'application
                                     </strong>
-                                    <p>20 minutes(Fast) 35 minutes(Slow)
-                                    </p>
+                                    <p>15 minutes Topsealer Pro + Rapide <br> 25-30 minutes Topsealer Pro + Slow </p>
                                 </div>
                             </div>
                         </div>
@@ -582,12 +607,11 @@
                     <!-- Rendements -->
                     <p class="en3" >
                         Rendements</p>
-                    <p><span>Topsealer Pro+ :Une couche de 150 g/m².
-                        </span></p>
+                    <p>Le rendement des polyurées froides Topsealer Pro + Fast et Topsealer Pro + Slow sont de 1 couche de 60-100 g / m2</p>
                     <!-- Présentation -->
                     <p class="en3" >
                         Présentation</p>
-                    <p>Se présente en un pack de 0.54 kg (composant A) et 0.8 kg ( composant B)
+                    <p>Les vernis bi-composants 100% solides et imperméables Topsealer Pro + Fast et Topsealer Pro + Slow sont présentés dans un pack bi-composant de 0,64 kg (composant B) et 0,8 kg (composant A).
                     </p>
                 </div>
             </div>

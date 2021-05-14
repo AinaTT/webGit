@@ -116,7 +116,7 @@
 
                     </p>
                     <p>
-                       1. <strong> En la primera semana posterior a la aplicación del microcemento,</strong> es muy
+                        1. <strong> En la primera semana posterior a la aplicación del microcemento,</strong> es muy
                         importante <strong> no limpiar</strong>
                         bajo ninguna circunstancia el pavimento. Y es que durante el secado del suelo de microcemento es
                         fundamental airear la estancia para que esta seque correctamente antes de realizar ninguna labor
@@ -126,7 +126,7 @@
 
                     </p>
                     <p>
-                       2. Una vez <strong>transcurrida la primera semana</strong> después de la aplicación del
+                        2. Una vez <strong>transcurrida la primera semana</strong> después de la aplicación del
                         microcemento en suelo, podrá
                         limpiarse con mucha suavidad el pavimento de microcemento utilizando <strong> solamente agua.
                         </strong> ¿Por qué?
@@ -135,7 +135,8 @@
 
                     </p>
                     <p>
-                       3. Dejar esperar como mínimo <strong>un mes</strong> para que el suelo de microcemento adquiera la
+                        3. Dejar esperar como mínimo <strong>un mes</strong> para que el suelo de microcemento adquiera
+                        la
                         dureza y
                         resistencia que proporciona. A partir de este momento, se podrá limpiar el microcemento con
                         <strong>agua
@@ -143,7 +144,8 @@
 
                     </p>
                     <p>
-                      4.  <strong> No utilizar bajo ningún concepto productos abrasivos o agresivos</strong> como cepillos
+                        4. <strong> No utilizar bajo ningún concepto productos abrasivos o agresivos</strong> como
+                        cepillos
                         metálicos, lijas,
                         ácidos o amoniacos, entre otros. Ya que en el caso de hacerlo, podría verse gravemente
                         perjudicado el suelo de microcemento.
@@ -213,12 +215,11 @@
 
                     </p>
                     <p>
-                        <strong> En cuanto a su aplicación </strong> sobre paredes de microcemento o suelos de
-                        microcemento, primero <strong>se
-                            diluye con agua y después se pulveriza sobre la superficie</strong> a tratar. Hay que dejar
-                        actuar el
-                        producto durante unos 30 segundos, una vez pasado ese tiempo, se pasa un paño o balleta y
-                        después se aclara con agua.
+                        En cuanto a su <strong>aplicación </strong>sobre paredes de microcemento o suelos de microcemento, se puede
+                        aplicar<strong> tanto concentrado como diluido en agua </strong>en función del grado de suciedad de la
+                        superficie. En el caso de diluir el limpiador con agua y después pulverizarlo sobre la
+                        superficie a tratar, habría que dejar actuar el producto de 5 a 15 minutos. Una vez pasado ese
+                        tiempo se pasa un paño o balleta y después se aclara con agua.
 
                     </p>
 

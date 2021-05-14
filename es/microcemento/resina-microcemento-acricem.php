@@ -18,8 +18,7 @@
 
     <title>Resina microcemento | Resina acrílica base agua Acricem
     </title>
-    <meta name="description"
-        content="Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente." />
+    <meta name="description" content="Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente." />
 
 
     <meta property="og:title" content="Resina microcemento | Resina acrílica base agua Acricem">
@@ -108,9 +107,8 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h2 class="en3">
-                        Características técnicas resina acrílica Acricem para microcemento</h2>
-                    <div class="row">
+                    <h2 class="en3">Características técnicas resina acrílica Acricem para microcemento</h2>
+                <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img
@@ -168,7 +166,7 @@
                     <!-- Presentación -->
                     <h2 class="en3">
                         Presentación resina acrílica Acricem para microcemento </h2>
-                    <p>La resina acrílica Acricem para nuestros microcementos bicomponentes (Sttandard, Unlimittd y Atlanttic)  se presenta en garrafas de plástico de<strong> 5 y 25 L.</strong></p>
+                    <p>La resina acrílica Acricem para nuestros microcementos bicomponentes (Sttandard, Unlimitted y Atlanttic)  se presenta en garrafas de plástico de<strong> 5 y 25 L.</strong></p>
                 </div>
             </div>
         </section>

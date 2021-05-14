@@ -19,14 +19,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>传统的双组份微水泥 - Sttandard</title>
-    <meta name="description" content="Sttandard微水泥是我们传统的双组份微水泥。一个非常通用的涂层，提供非常独特的纹理。"/>
+    <title>标准双组分微水泥 - Sttandard</title>
+    <meta name="description" content="Sttandard微水泥是我们标准双组分微水泥。一个非常通用的涂层，提供非常独特的纹理。"/>
 
 
-    <meta property="og:title" content="传统的双组份微水泥 - Sttandard">
+    <meta property="og:title" content="标准双组分微水泥 - Sttandard">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/chuantong-shuangzufeng-weishuini">
-    <meta property="og:description" content="Sttandard微水泥是我们传统的双组份微水泥。一个非常通用的涂层，提供非常独特的纹理。">
+    <meta property="og:description" content="Sttandard微水泥是我们标准双组分微水泥。一个非常通用的涂层，提供非常独特的纹理。">
     <meta property="og:type" content="article">
 
 
@@ -82,20 +82,20 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>  传统的双组份微水泥 - Sttandard
+                <h1>  标准双组分微水泥 - Sttandard
 </h1>
                 <div class="text-justify">
             
 <p>
-    Sttandard是我们传统的双组份（水泥+树脂）微水泥系列。对于想创造具有自己特色的纹理的专业人士来说，是理想的选择。
+    Sttandard是标准双组份（水泥+树脂）微水泥系列。对于想创造具有自己特色的纹理的专业人士来说，是理想的选择。
 
 </p>    
 <p>
-    Sttandard传统的双组分微水泥让专业人员发挥他们自己的混合物，从而获得产品的最大效益。
+    Sttandard标准双组分微水泥让专业人员使用的产品从而获得产品的最大效益。
 
 </p>    
 <p>
-    Sttandard是成功的保证，它的坚固性和多功能性使得这种双组分微水泥可以应用于无限多的表面，包括水平和垂直，室内和室外。是专业人士需求极大的装饰涂料。
+    Sttandard这种双组分微水泥可以应用于无限多的表面，包括水平和垂直，室内和室外。是专业人士需求极大的装饰涂料。
 
 </p>    
                 </div>
@@ -134,11 +134,11 @@
                         <div class="col-md-6">
 
 <h2>
-    Sttandard Microbase传统双组分微水泥基础制备
+    Sttandard Microbase标准双组分微水泥基础制备
 
 </h2> 
 <p>
-    Sttandard Microbase是传统双组分微水泥基础的制备。它是在涂抹墙面面层Sttandard Microfino, 地面面层 Sttandard Microdeck和室外面层 Sttandard Microbase之前使用。
+    Sttandard Microbase是标准双组分微水泥基础的制备。它是在涂抹墙面面层Sttandard Microfino, 地面面层 Sttandard Microdeck和室外面层 Sttandard Microbase之前使用。
 
 </p>    
 <p>
@@ -157,7 +157,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Sttandard Microbase传统双组分微水泥基础的颗粒度纹理</p>
+                    <p class="en3">Sttandard Microbase标准双组分微水泥基础的颗粒度纹理</p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg" class=" img-fluid " alt="Sttandard Microbase" title="Sttandard Microbase">
@@ -212,7 +212,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,5 N/m²
                                     </p>
@@ -224,15 +224,15 @@
                     <p class="en3">
                         涂布率</p>
                     <div class="row">
-                        <div class="col-md-4"><span><strong>传统双组分微水泥基础 L</strong><br> (2层) - 2,00 Kg/m2</span></div>
-                        <div class="col-md-4"><span><strong>传统双组分微水泥基础 XL</strong><br>(2层) - 1,40 Kg/m2</span></div>
+                        <div class="col-md-4"><span><strong>标准双组分微水泥基础 L</strong><br> (2层) - 2,00 Kg/m2</span></div>
+                        <div class="col-md-4"><span><strong>标准双组分微水泥基础 XL</strong><br>(2层) - 1,40 Kg/m2</span></div>
 
-                        <div class="col-md-4"><span><strong>传统双组分微水泥基础 XXL</strong><br> (2层) - 1,70 Kg/m2</span></div>
+                        <div class="col-md-4"><span><strong>标准双组分微水泥基础 XXL</strong><br> (2层) - 1,70 Kg/m2</span></div>
                     </div>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>Sttandard Microbase传统双组分微水泥基础是以20公斤的黑色塑料桶包装
+                    <p>Sttandard Microbase标准双组分微水泥基础是以20公斤的黑色塑料桶包装
                     </p>
                 </div>
             </div>
@@ -262,7 +262,7 @@
                         <div class="col-md-6">
 <h2>
     
-    Sttandard Microfino传统双组分微水泥墙面面层
+    Sttandard Microfino标准双组分微水泥墙面面层
 
 </h2>  
 <p>
@@ -274,23 +274,23 @@
 
 </p>    
 <p>
-    从美学上讲，这种传统双组分微水泥墙面面层类似于灰泥，但更自然。
+    从美学上讲，这种标准双组分微水泥墙面面层类似于灰泥，但更自然。
 
 </p>    
 <p>
-    Sttandard Microfino传统双组分微水泥墙面面层有3种颗粒度纹理：XS、S和M。
+    Sttandard Microfino标准双组分微水泥墙面面层有3种颗粒度纹理：XS、S和M。
 
 </p>    
 
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/MicrofinoBI-CN.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Sttandard Microfino传统双组分微水泥墙面面层技术参数。</strong>
+                                </span><strong>在此下载Sttandard Microfino标准双组分微水泥墙面面层技术参数。</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Sttandard Microfino 传统双组分微水泥墙面面层颗粒度纹理
+                    <p class="en3">Sttandard Microfino 标准双组分微水泥墙面面层颗粒度纹理
 </p>
                     <div class="row">
                         <div class="col-md-4">
@@ -348,7 +348,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,2 N/m²
                                     </p>
@@ -360,12 +360,12 @@
                     <p class="en3">涂布率
                     </p>
                     <div class="row">
-                        <div class="col-md-12"><span>Sttandard Microfino 传统双组分微水泥墙面面层  XS/S/M（2层）- 0,50 Kg/m2</div>
+                        <div class="col-md-12"><span>Sttandard Microfino 标准双组分微水泥墙面面层  XS/S/M（2层）- 0,50 Kg/m2</div>
                     </div>
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>所有类型的Sttandard Microfino传统双组分微水泥墙面面层 以15公斤和20公斤的黑色塑料桶包装。</p>
+                    <p>所有类型的Sttandard Microfino标准双组分微水泥墙面面层 以15公斤和20公斤的黑色塑料桶包装。</p>
                 </div>
             </div>
         </section>
@@ -394,34 +394,34 @@
                        
 
                            <h2>
-                                Sttandard Microdeck传统双组分微水泥地面面层
+                                Sttandard Microdeck标准双组分微水泥地面面层
 
                            </h2>  
 <p>
-    Sttandard Microdeck是传统双组分微水泥地面面层，特别适用于室内地板覆盖。一种可应用于地板、楼梯和淋浴板的装饰性涂料。
+    Sttandard Microdeck是标准双组分微水泥地面面层，特别适用于室内地板覆盖。一种可应用于地板、楼梯和淋浴板的装饰性涂料。
 
 </p>    
 <p>
-    然而，它也可以毫无问题地用于墙壁、水槽、厨房台面和建筑外墙。Sttandard Microdeck传统双组分微水泥地面面层因其自然性和优雅性而脱颖而出。
+    然而，它也可以毫无问题地用于墙壁、水槽、厨房台面和建筑外墙。Sttandard Microdeck标准双组分微水泥地面面层因其自然性和优雅性而脱颖而出。
 
 </p>    
 <p>
-    这种传统双组分微水泥地面面层有中等颗粒的质地，比Sttandard Microfino墙面面层的水印效果低。从审美角度看，它类似于抛光水泥，但具有微水泥的所有优点。
+    这种标准双组分微水泥地面面层有中等颗粒的质地，比Sttandard Microfino墙面面层的水印效果低。从审美角度看，它类似于抛光水泥，但具有微水泥的所有优点。
 
 </p>    
 <p>
-    Sttandard Microdeck 传统双组分微水泥地面面层有两种颗粒度纹理：M和L。
+    Sttandard Microdeck 标准双组分微水泥地面面层有两种颗粒度纹理：M和L。
 
 </p>    
 
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/MicrodeckBI-CN.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Sttandard Microdeck 传统双组分微水泥地面面层的技术参数。</strong>
+                                </span><strong>在此下载Sttandard Microdeck 标准双组分微水泥地面面层的技术参数。</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Sttandard Microdeck 传统双组分微水泥地面面层颗粒度纹理
+                    <p class="en3">Sttandard Microdeck 标准双组分微水泥地面面层颗粒度纹理
 </p>
                     <div class="row">
                         <div class="col-md-4">
@@ -473,7 +473,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,2 N/m²
                                     </p>
@@ -493,7 +493,7 @@
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>Sttandard Microdeck传统双组分微水泥地面面层以20公斤的黑色塑料桶包装。
+                    <p>Sttandard Microdeck标准双组分微水泥地面面层以20公斤的黑色塑料桶包装。
                     </p>
                 </div>
 
@@ -525,11 +525,11 @@
                         <div class="col-md-6">
                           <h2>
                               
-                               Sttandard Microstone传统双组分微水泥室外面层
+                               Sttandard Microstone标准双组分微水泥室外面层
 
                           </h2> 
 <p>
-    Sttandard Microstone传统双组分微水泥室外面层，由于其出色的抗磨损性和防滑性，是室外的理想选择。
+    Sttandard Microstone标准双组分微水泥室外面层，由于其出色的抗磨损性和防滑性，是室外的理想选择。
 
 </p>    
 <p>
@@ -537,17 +537,17 @@
 
 </p>    
 <p>
-    Sttandard Microstone传统双组分微水泥室外面层有2种颗粒度纹理，L和XL。
+    Sttandard Microstone标准双组分微水泥室外面层有2种颗粒度纹理，L和XL。
 
 </p>    
                             <a class="links" href="https://www.topciment.com/cn/data-sheets/MicrostoneBI-CN.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Sttandard Microstone传统双组分微水泥室外面层的技术参数。</strong>
+                                </span><strong>在此下载Sttandard Microstone标准双组分微水泥室外面层的技术参数。</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Sttandard Microstone 传统双组分微水泥室外面层颗粒度纹理</p>
+                    <p class="en3">Sttandard Microstone 标准双组分微水泥室外面层颗粒度纹理</p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg" class=" img-fluid " alt="Sttandard Microstone 20 Kg" title="Sttandard Microstone 20 Kg">
@@ -598,7 +598,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,5 N/m²
                                     </p>
@@ -617,7 +617,7 @@
                     <p class="en3">
 
                         包装 </p>
-                    <p>Sttandard Microstone传统双组分微水泥室外面层以20公斤的黑色塑料桶包装。
+                    <p>Sttandard Microstone标准双组分微水泥室外面层以20公斤的黑色塑料桶包装。
                     </p>
 
                 </div>
@@ -639,7 +639,7 @@
                 <div class="content">
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+传统双组分微水泥在墙壁上的应用</strong></a></h2>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+标准双组分微水泥在墙壁上的应用</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- 第1步
  -->
@@ -852,7 +852,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Sttandard传统双组份微水泥颜色</h2>
+                      Sttandard标准双组份微水泥颜色</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

@@ -67,7 +67,7 @@
                                     <a href="#topsealer-anti-slip"> Topsealer WT Anti Slip</a>
                                 </li>
                                 <li>
-                                    <a href="#topsealer-quick-dry">Topsealer Quick Dry</a>
+                                    <a href="#topsealer-quick-dry">Topsealer WT Quick Dry</a>
                                 </li>
                                 <li>
                                     <a href="#topsealer-proplus">Topsealer Pro + </a>

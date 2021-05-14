@@ -78,13 +78,8 @@
       <div id="que-es-microcemento" class="content">
 
         <h1 class="mb-3">Co to jest mikrocement? Zastosowania, rodzaje, zastosowanie i zalety</h1>
-        <p>Microcement Topciment</strong> to powłoka dekoracyjna składająca się z cementu, żywic na bazie wody, dodatków
-          i pigmentów mineralnych, która dzięki doskonałej przyczepności może być stosowana na wielu powierzchniach
-          pionowych i poziomych</strong>. Ten materiał budowlany wyróżnia się tym, że jest nakładany bezpośrednio na
-          istniejący materiał: płytki, drewno, płyty gipsowo-kartonowe lub tynk, wśród wielu innych.przy niewielkim
-          nakładzie pracy i grubości zaledwie 3 milimetrów uzyskuje się szybką renowację pomieszczeń.</p>
-        <p>
-          <p>Nowoczesna powłoka, <strong>bezspoinowa</strong> i odpowiednia zarówno do pomieszczeń zewnętrznych, jak i
+       <p>Microcement Topciment to powłoka dekoracyjna składająca się z cementu, żywic na bazie wody, dodatków i pigmentów mineralnych, która dzięki doskonałej przyczepności może być stosowana na wielu powierzchniach pionowych i poziomych. Ten materiał budowlany wyróżnia się tym, że nakłada się go bezpośrednio na istniejący materiał: m.in. płytki, płyty gipsowo-kartonowe, glazurę, marmur, lastryko czy tynk. Przy niewielkim nakładzie pracy i grubości zaledwie 3 milimetrów uzyskuje się szybką renowację pomieszczeń.
+        <p>Nowoczesna powłoka, <strong>bezspoinowa</strong> i odpowiednia zarówno do pomieszczeń zewnętrznych, jak i
             wewnętrznych. Ciągła powłoka <strong>możliwa do zastosowania na podłogach, ścianach, schodach, sufitach,
               basenach, a nawet meblach.</strong> Jej wszechstronność doprowadziła do jej rosnącej obecności w renowacji
             domów prywatnych i obiektów komercyjnych oraz dużych powierzchni, takich jak centra sportowe, budynki

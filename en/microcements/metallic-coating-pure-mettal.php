@@ -224,11 +224,11 @@
                     <div class="col-6">
                         <div class="row">
                             <div class="col-md-3"><img
-                                    src="https://www.topciment.com/imagenes/sistemas/icons/espesura_capa.png"
+                                    src="https://www.topciment.com/imagenes/pure-mettal/stepbystep/llana.png"
                                     class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                             <div class="col-md-9">
-                                <strong>Maximum thickness per layer</strong>
-                                <p>1 mm</p>
+                                <strong>Two types of application</strong>
+                                <p>Can be applied by trowel or roller.</p>
                             </div>
                         </div>
                     </div>

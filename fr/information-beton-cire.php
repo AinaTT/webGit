@@ -82,12 +82,7 @@
 
         <h1 class="mb-3">Qu'est-ce que le béton ciré? Utilisations, types, applications et avantages</h1>
 
-        <p>Le béton ciré Topciment est un enduit décoratif composé de ciment, de résines aqueuses, d'additifs et de
-          pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa
-          grande adhérence. Et c'est que ce matériau de construction se démarque car il se pose directement sur le
-          matériau existant: carrelage, bois, placoplâtre ou plâtre, entre autres. Avec pratiquement aucun travail et
-          une épaisseur de seulement 3 millimètres, une rénovation rapide des espaces est réalisée</p>
-
+        <p>Le microciment Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il s'applique directement sur un matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, parmi beaucoup d'autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.
         <p>Un revêtement avant-gardiste, sans couture et adapté aux espaces extérieurs et intérieurs. Un revêtement
           continu applicable sur les sols, les murs, les escaliers, les plafonds, les piscines et même les meubles. Sa
           polyvalence l'a conduit à être de plus en plus présent dans la rénovation de logements privés et dans des

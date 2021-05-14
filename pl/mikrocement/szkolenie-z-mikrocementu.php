@@ -198,7 +198,7 @@
                                 <p class="card-text">Skupiony na profesjonalnym aplikatorze, który chce zagłębić się w
                                     najważniejszy etap aplikacji mikrocementu. </p>
                                 <p class="card-text">Przećwiczysz z wszystkimi dostępnymi lakierami (Topsealer WT One
-                                    Coat, Topsealer WT Anti Slip,Topsealer All in One, Topsealer Quick Dry, Topsealer
+                                    Coat, Topsealer WT Anti Slip,Topsealer All in One, Topsealer WT Quick Dry, Topsealer
                                     Pro +, Topsealer DSV i Presealer) i nauczysz się jak używać każdego z nich w każdym
                                     typie aplikacji. </p>
                                 <p class="card-text"> Kurs będzie trwał około 8 godzin (2h teorii + 6h praktyki) i

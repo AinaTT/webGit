@@ -173,13 +173,12 @@
                     soot, limescale, oil, food residues, grease, blood, etc.
 
                 </p>
-                <p>
-                    As for its application on microcement walls or microcement floors, it is first diluted with water
-                    and then sprayed on the surface to be treated. The product must be left to act for about 30 seconds,
-                    after which time it is wiped off with a cloth or a cloth pad and then rinsed off with water.
+                <p>As for its <strong>application </strong>on microcement walls or microcement floors, it can be
+                    applied<strong>both concentrated and diluted in water</strong>depending on the degree of soiling of
+                    the surface. In the case of diluting the cleaner with water and then spraying it on the surface to
+                    be treated, the product should be left to act for 5 to 15 minutes. Once this time has elapsed, wipe
+                    with a cloth or wipe and then rinse with water. </p>
 
-
-                </p>
 
 
                 <h4 class="mt-5 mb-4 en7">You may also be interested in:</h4>

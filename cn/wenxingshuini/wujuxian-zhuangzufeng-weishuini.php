@@ -218,7 +218,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> 抗压性</strong>
+                                    <strong> 强度</strong>
                                     <p>55 N /m² (28 天)
                                 </div>
                             </div>
@@ -231,7 +231,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,5N /m²</p>
                                 </div>
@@ -340,20 +340,20 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos  -->
-                    <p class="en3">无局限双组分微水泥地面面层 Ulimitted Microdeck类型</p>
+                    <p class="en3">无局限双组分微水泥面层 Ulimitted Microdeck类型</p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg"
                                     class=" img-fluid " alt="Unlimitted Microdeck M" title="Unlimitted Microdeck M">
-                                <figcaption class=" text-center"> 无局限地面面层 Ulimitted Microdeck M</figcaption>
+                                <figcaption class=" text-center"> 无局限面层 Ulimitted Microdeck M</figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
                             <figure class="figure"><img
                                     src="https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_S.jpg"
                                     class=" img-fluid " alt="Unlimitted Microdeck S" title="Unlimitted Microdeck S">
-                                <figcaption class=" text-center">无局限地面面层 Ulimitted Microdeck S </figcaption>
+                                <figcaption class=" text-center">无局限面层 Ulimitted Microdeck S </figcaption>
                             </figure>
                         </div>
                     </div>
@@ -378,7 +378,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> 抗压性</strong>
+                                    <strong> 强度</strong>
                                     <p>50 N /m² (28 天)
                                 </div>
                             </div>
@@ -391,7 +391,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>对载体附着粘固力
+                                    <strong>粘附力
                                     </strong>
                                     <p>1,5N /m²</p>
                                 </div>
@@ -415,10 +415,10 @@
                     <p class="en3">
                         涂布率</p>
                     <div class="row">
-                        <div class="col-md-12"><span><strong>无局限地面面层 Ulimitted Microdeck S </strong>
+                        <div class="col-md-12"><span><strong>无局限面层 Ulimitted Microdeck S </strong>
                                 (2层）：2.20kg/m²</span>
                             <br>
-                            <strong> 无局限地面面层 Ulimitted Microdeck M</strong> （2层）：1.80kg/m²
+                            <strong> 无局限面层 Ulimitted Microdeck M</strong> （2层）：1.80kg/m²
                         </div>
                     </div>
                     <!-- 包装  -->
@@ -443,7 +443,7 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ 无局限地面面层
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ 无局限面层
                                     地板和墙壁上的应用 </strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- 第1步
