@@ -610,7 +610,7 @@ Comp A: 100 %
 					<!-- Packaging -->
 					<p class="en3">
 						Packaging</p>
-					<p>Topsealer Pro + Fast and Topsealer Pro + Slow two-component 100% solid and waterproof coatings are supplied in a two-component pack of 0.64 kg (component A) and 0.8 kg (component B).
+					<p>Topsealer Pro + Fast and Topsealer Pro + Slow two-component 100% solid and waterproof coatings are supplied in a two-component pack of 0.64 kg (component B) and 0.8 kg (component A).
 					</p>
 				</div>
 			</div>

@@ -622,7 +622,7 @@
                     <!-- 包装  -->
                     <p class="en3">
                         包装 </p>
-                    <p>快干 Topsealer Pro + Fast和慢干Topsealer Pro + Slow双组分特殊防水罩面剂 包装为0.64 kg（成分A）和0.8 kg（成分B）。
+                    <p>快干 Topsealer Pro + Fast和慢干Topsealer Pro + Slow双组分特殊防水罩面剂 包装为0.64 kg（成分B）和0.8 kg（成分A）。
                     </p>
                 </div>
             </div>

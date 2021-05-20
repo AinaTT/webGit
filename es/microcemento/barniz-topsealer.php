@@ -630,7 +630,7 @@
           <p class="en3">
             Presentación</p>
           <p>El barniz bicomponente 100% sólidos e impermeable Topsealer Pro + Fast se presenta en un pack bicomponente
-            de 0,64 kg (componente A) y 0,8 kg (componente B)
+            de 0,64 kg (componente B) y 0,8 kg (componente A)
           </p>
       
         </div>

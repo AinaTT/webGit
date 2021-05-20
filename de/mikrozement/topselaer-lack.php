@@ -623,7 +623,8 @@ Comp. B a 25ºC: 1,045 - 1,055 g/mL
                     <!-- Verpackung -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Die Zweikomponentenlacke Topsealer Pro + Fast und Topsealer Pro + Slow sind 100% fest und wasserfest und werden in einer Zweikomponentenpackung mit 0,8 kg (Komponente A) und 0,64 kg (Komponente B) geliefert.
+                    <p>Die Zweikomponentenlacke Topsealer Pro + Fast und Topsealer Pro + Slow sind 100% fest und wasserfest und werden in einer Zweikomponentenpackung mit 0,8 kg (Komponente A) 
+                        und 0,64 kg (Komponente B) geliefert.
                     </p>
                 </div>
             </div>

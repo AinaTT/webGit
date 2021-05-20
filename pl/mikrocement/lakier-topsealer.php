@@ -546,8 +546,8 @@
                     <!-- Prezentacja -->
                     <p class="en3">
                         Prezentacja</p>
-                    <p>Dostarczany jest w dwuskładnikowym opakowaniu o masie 0,54 kg. (Komponent A) y 0,8 kg (Komponent
-                        B)
+                    <p>Dostarczany jest w dwuskładnikowym opakowaniu o masie 0,54 kg. (Komponent B) - 0,8 kg (Komponent
+                        A)
                     </p>
                 </div>
             </div>
