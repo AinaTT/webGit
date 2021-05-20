@@ -590,7 +590,391 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Revêtements métalliques Pure Mettal et revêtements métalliques",
+         "description": "gamme de revêtements métalliques bi-composants hautement décoratifs. ",
+    "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1Kg",
+    "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+        "@type": "PropertyValue",
+        "name": "Épaisseur maximale par couche",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Différentes textures",
+        "value": "Cinq textiles avec différents éléments métalliques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable sur tout support",
+        "value": "Microciment, béton, brique, céramique, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Haute brillance",
+        "value": "Grâce à la forte concentration de composants métalliques"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Revêtements et revêtements métalliques"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Revêtements métalliques Pure Mettal et revêtements métalliques Componente A 1 Kg",
+             "description": "gamme de revêtements métalliques bi-composants hautement décoratifs. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+        "size": "1 Kg",
+        "url": "https://www.topciment.com/fr/beton-cire/revetement-metallique-pure-mettal",
+        "sku": "TT05021",
+        "gtin13": "8436575625843",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Épaisseur maximale par couche",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Différentes textures",
+        "value": "Cinq textiles avec différents éléments métalliques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable sur tout support",
+        "value": "Microciment, béton, brique, céramique, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Haute brillance",
+        "value": "Grâce à la forte concentration de composants métalliques"
+      },{
+               "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Revêtements métalliques Pure Mettal et revêtements métalliques Componente A 5 Kg",
+             "description": "gamme de revêtements métalliques bi-composants hautement décoratifs. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Copper_1Kg.jpg",
+        "size": "5 Kg",
+        "url": "https://www.topciment.com/fr/beton-cire/revetement-metallique-pure-mettal",
+        "sku": "TT05035",
+        "gtin13": "8436575620589",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "5Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Épaisseur maximale par couche",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Différentes textures",
+        "value": "Cinq textiles avec différents éléments métalliques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable sur tout support",
+        "value": "Microciment, béton, brique, céramique, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Haute brillance",
+        "value": "Grâce à la forte concentration de composants métalliques"
+      },{
+           "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Revêtements métalliques Pure Mettal et revêtements métalliques Componente B 0,5 L",
+             "description": "gamme de revêtements métalliques bi-composants hautement décoratifs. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": " 0,5  L",
+        "url": "https://www.topciment.com/fr/beton-cire/revetement-metallique-pure-mettal",
+        "sku": "TT05024",
+        "gtin13": "8436575625874",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": " 0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Épaisseur maximale par couche",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Différentes textures",
+        "value": "Cinq textiles avec différents éléments métalliques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable sur tout support",
+        "value": "Microciment, béton, brique, céramique, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Haute brillance",
+        "value": "Grâce à la forte concentration de composants métalliques"
+      },{
+           "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Revêtements métalliques Pure Mettal et revêtements métalliques Componente B 2L",
+             "description": "gamme de revêtements métalliques bi-composants hautement décoratifs. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": "2 L",
+        "url": "https://www.topciment.com/fr/beton-cire/revetement-metallique-pure-mettal",
+        "sku": "TT05034",
+        "gtin13": "8436575620596",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "2 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Épaisseur maximale par couche",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Différentes textures",
+        "value": "Cinq textiles avec différents éléments métalliques"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable sur tout support",
+        "value": "Microciment, béton, brique, céramique, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Haute brillance",
+        "value": "Grâce à la forte concentration de composants métalliques"
+      },{
+           "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

@@ -78,7 +78,7 @@
                                     <a href="#rodillo">Rodillo de pelo corto</a>
                                 </li>
                                 <!-- Future launch
-					<li><a href="#preguntas-frecuentes">Preguntas frecuentes</a></li>
+					<li><a href="#preguntas-frecuentes">Domande frequenti</a></li>
                     -->
 
                             </ul>
@@ -136,7 +136,7 @@
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -177,7 +177,7 @@
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>La varilla mezcladora de doble hélice para microcemento se vende por unidades.</p>
                 </div>
             </div>
@@ -210,7 +210,7 @@
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -224,7 +224,7 @@
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>El perfil de aluminio para escaleras y paredes de microcemento se vende en paquetes de 10 y de 20 unidades.
                     </p>
                 </div>
@@ -261,7 +261,7 @@
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
 
                     <div class="row">
                         <div class="col-6">
@@ -276,7 +276,7 @@
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>
 La llana de goma para microcemento fino se vende por unidades.
                     </p>
@@ -312,7 +312,7 @@ La llana de goma para microcemento fino se vende por unidades.
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -337,7 +337,7 @@ La llana de goma para microcemento fino se vende por unidades.
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>
 La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     </p>
@@ -376,7 +376,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -401,7 +401,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>
     El número de unidades varía según el gramaje de la malla de fibra de vidrio.
                     </p>
@@ -442,7 +442,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -467,7 +467,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     </div>
                     <!-- presentacion -->
                     <p class="en3">
-                        Presentación</p>
+                        Presentazione</p>
                     <p>El rodillo de pelo corto para microcemento se vende en blisters unitarios.
                     </p>
                 </div>

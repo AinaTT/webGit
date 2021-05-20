@@ -63,7 +63,7 @@
                             <ul>
                                 <li><a href="#up" style="font-size:26px">Distributori</a></li>
                                 <li><a href="#quieres-ser-distribuidor">Vuoi essere un distributore?</a></li>
-                                <li><a href="#porque-ser-distribuidor">Perché diventare un distributore? Topciment?</a>
+                                <li><a href="#porque-ser-distribuidor">Perché diventare un distributore? </a>
                                 </li>
                                 <li><a href="#que-te-ofrecemos">Cosa vi offriamo?</a></li>
 
@@ -75,7 +75,7 @@
                                 <h1 class="en2">Distributori di microcemento
                                 </h1>
                                 <a id="quieres-ser-distribuidor" class="ancla"></a>
-                                <h2>Vuoi essere un distributore? </h2>.
+                                <h2>Vuoi essere un distributore? </h2>
                                 <p><strong>A Topciment vogliamo contare su di te. </strong> Il nostro obiettivo è che tu
                                     possa offrire ai tuoi clienti un prodotto innovativo e di qualità, con una grande
                                     richiesta nel mercato. Vi aiutiamo e mettiamo al vostro servizio la nostra grande

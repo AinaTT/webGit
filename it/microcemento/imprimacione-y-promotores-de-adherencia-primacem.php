@@ -17,22 +17,18 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Imprimaciones y promotores adherencia de microcemento | Primacem
+    <title>Primer e promotori di aderenza per microcemento | Primacem
     </title>
     <meta name="description"
-        content="Protege las superficies antes de aplicar microcemento con Primacem, nuestras imprimaciones y promotores de adherencia que facilitan la adherencia entre el viejo y nuevo soporte." />
+        content="Proteggere le superfici prima di applicare il microcemento con Primacem, i nostri primer e promotori di aderenza che facilitano l'adesione tra il vecchio e il nuovo supporto." />
 
-    <meta property="og:title" content="Imprimaciones y promotores adherencia de microcemento | Primacem">
+    <meta property="og:title" content="Primer e promotori di aderenza per microcemento | Primacem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url"
         content="https://www.topciment.com/es/microcemento/imprimacione-y-promotores-de-adherencia-primacem" <meta
         property="og:description"
-        content="Protege las superficies antes de aplicar microcemento con Primacem, nuestras imprimaciones y promotores de adherencia que facilitan la adherencia entre el viejo y nuevo soporte.">
+        content="Proteggere le superfici prima di applicare il microcemento con Primacem, i nostri primer e promotori di aderenza che facilitano l'adesione tra il vecchio e il nuovo supporto.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/primacem/background/primacem_fondo_02.jpg">
 
 
@@ -72,7 +68,7 @@
                                 <li>
                                     <a href="#up" style="font-size:26px">Primacem</a>
                                 </li>
-                                <li><a href="#que-es-primacem">¿Qué es Primacem?</a></li>
+                                <li><a href="#que-es-primacem">Cos'è Primacem?</a></li>
                                 <li>
                                     <a href="#primacem">Primacem Fix </a>
                                 </li>
@@ -93,34 +89,21 @@
                         <div class="content">
                             <a id="que-es-primacem" class="ancla"></a>
                             <h1 class="en2">
-                                Imprimaciones y promotores adherencia de microcemento | Primacem</h1>
-                            <p>
-                                Primacem es nuestra línea de imprimaciones y promotores de adherencia para microcemento
-                                y otros materiales como azulejos, hormigón o baldosas, entre otros. Productos
-                                fundamentales ya que constituyen el primer paso del proceso de aplicación de
-                                microcemento. Su función es facilitar la unión entre el soporte existente y el nuevo
-                                revestimiento.
+                                Primer e promotori di aderenza per microcemento | Primacem</h1>
+                         <p>
+                             Primacem è la nostra linea di primer e promotori di aderenza per microcemento e altri materiali come piastrelle, cemento o piastrelle, tra gli altri. Prodotti fondamentali perché sono il primo passo nel processo di applicazione del microcemento. La sua funzione è quella di facilitare l'unione tra il supporto esistente e il nuovo rivestimento.
 
-                            </p>
-                            <p>
-                                Nuetra gama de imprimaciones ofrecen diferentes posibilidades y soluciones en función de
-                                la superficie que haya que recubrir. Es por ello que contamos con imprimaciones para
-                                superficies absorbentes, superficies no absorbentes, con efecto tacking, con árido e
-                                incluso imprimaciones epoxi antihumedad.
+                         </p>  
+<p>
+  La nostra gamma di primer offre diverse possibilità e soluzioni a seconda della superficie da rivestire. Ecco perché abbiamo primer per superfici assorbenti, non assorbenti, con effetto tacking, con aggregato e persino primer epossidici antiumidità.
 
-                            </p>
-                            <p>
-                                Para garantizar una consolidación óptima, es importante seguir los pasos y
-                                recomendaciones de uso de cada uno de los promotores de adherencia para microcemento y
-                                demás soportes que fabricamos.
+</p>  
+Per garantire un consolidamento ottimale, è importante seguire le fasi e le raccomandazioni per l'uso di ciascuno dei promotori di aderenza per microcemento e altri supporti che produciamo.
 
-                            </p>
-                            <p>
-                                A continuación os presentamos los cinco tipos de imprimaciones y promotores de
-                                adherencia que conforman la gama Primacem.
-
-                            </p>
-                        </div>
+<p>
+  Di seguito presentiamo i cinque tipi di primer e promotori di aderenza che compongono la gamma Primacem.
+   
+</p>                       </div>
                 </section>
             </div>
         </div>
@@ -146,34 +129,30 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Imprimación con efecto tacking
+                               Primer con effetto tacking
 
                             </h2>
-                            <p>
-                                Primacem Fix es una imprimación con microcemento con efecto tacking que se presenta
-                                lista al uso y que favorece la adhesión del soporte existente y el nuevo. Es especialmente recomendable  como puente de unión entre hormigones
-                                y morteros.
+                          <p>
+                            Primacem Fix è un primer con effetto adesivo pronto all'uso che favorisce l'adesione del supporto esistente e di quello nuovo. È anche particolarmente raccomandato come ponte di incollaggio tra il calcestruzzo e la malta.
 
-                            </p>
-                            <p>
-                                Esta imprimación base agua y con gran poder de adherencia en los diferentes soportes es
-                                muy resistente a los álcalis. En cuanto a su aplicación, el promotor de adherencia
-                                Primacem Fix se realiza mediante brocha o rodillo de microfibra. Con una única capa es
-                                más que suficiente.
+                          </p>  
+<p>
+  Questo primer a base d'acqua con grande potere di adesione su diversi supporti ed è molto resistente agli alcali. Per quanto riguarda la sua applicazione, il promotore di aderenza Primacem Fix si applica a pennello o a rullo in microfibra. Una sola mano è più che sufficiente.
 
-                            </p>
+</p>  
+
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Primacem-ES.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong> Descarga la ficha técnica de Primacem aquí</strong>
+                                <strong> Scarica qui la scheda tecnica di Primacem </strong>
                             </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -182,7 +161,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
                                     <strong>PH</strong>
-                                    <p>Entre 8 y 9</p>
+                                    <p>Tra 8 e 9</p>
                                 </div>
                             </div>
                         </div>
@@ -192,9 +171,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Secado al tacto
+                                    <strong>Asciutto al tatto
                                     </strong>
-                                    <p>tack permanente</p>
+                                    <p>Puntina permanente</p>
                                 </div>
                             </div>
                         </div>
@@ -206,7 +185,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viscosidad Brookfield RVT a 20ºC (3/20rpm)
+                                    <strong>Viscosità Brookfield RVT a 20ºC (3/20rpm)
                                     </strong>
                                     <p>
                                         1700-2200 mPa•s
@@ -217,14 +196,14 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <p>
-                        El rendimiento de la imprimación con efecto tacking Primacem Fix es de 0,10 L/m2 a
-                        1 mano.</p>
-                    <!-- Presentación -->
+                      Il rendimento del primer Primacem Fix effetto tacking è di 0,10 L/m2 a 1 mano.
+</p>
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El promotor de adherencia con efecto tacking  Primacem Fix se presenta en garrafas de plástico de 5 y 25 litros</p>
+                        Presentazione</p>
+                    <p>Il promotore di adesione Primacem Fix con effetto adesivo è disponibile in bottiglie di plastica da 5 e 25 litri.</p>
                 </div>
             </div>
         </section>
@@ -253,35 +232,31 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Imprimación microcemento superficies no absorbentes
+                            Primer per microcemento per superfici non assorbenti
+
 
                             </h2>
-                            <p>
-                                Primacem Plus es nuestra imprimación con en superficies no absorbentes.
-                                Esta dispersión polimérica acuosa acrílica y base agua se aplica mediante rodillo o
-                                brocha en una única mano.
+                          <p>
+                            Primacem Plus è il nostro primer per microcemento con superfici non assorbenti. Questa dispersione polimerica acquosa acrilica a base d'acqua si applica a rullo o a pennello in una sola mano.
 
-                            </p>
-                            <p>
-                                Además de ser perfecta para superficies no absorbentes de microcemento, este promotor de
-                                adherencia listo al uso es muy recomendable en materiales como azulejos. Producto
-                                extento de plastificantes, disolventes, amoniaco y libre de emulsionantes.
+                          </p>  
+<p>
+  Oltre ad essere perfetto per superfici di microcemento non assorbenti, questo promotore di aderenza pronto all'uso è altamente raccomandato per materiali come le piastrelle. Prodotto privo di plastificanti, solventi, ammoniaca ed emulsionanti.
 
-                            </p>
-                            <p>
+</p>  
+                           
                                 <a class="links" href="https://www.topciment.com/fichas-tecnicas/PrimacemPLUS-ES.pdf"
                                     target="_blank"><span class="fa-stack">
                                         <i class="fas fa-file-pdf fa-stack-1x"></i>
                                     </span>
-                                    <strong>Descarga la ficha técnica de Primacem Plus aquí</strong>
+                                    <strong>Scarica qui la scheda tecnica di Primacem Plus </strong>
 
                                 </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -290,7 +265,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
                                     <strong>PH</strong>
-                                    <p>Entre 8 y 9</p>
+                                    <p>Tra 8 e 9</p>
                                 </div>
                             </div>
                         </div>
@@ -300,9 +275,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Secado al tacto
+                                    <strong>Asciutto al tatto
                                     </strong>
-                                    <p>30 minutos</p>
+                                    <p>30 minuti</p>
                                 </div>
                             </div>
                         </div>
@@ -314,9 +289,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viscosidad
+                                    <strong>Viscosità
                                     </strong>
-                                    <p>12-13 s (Copa Ford 4)
+                                    <p>12-13 s (Ford Cup 4)
                                     </p>
                                 </div>
                             </div>
@@ -324,14 +299,13 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <p>
-                        El rendimiento de la imprimación  en superficies no absorbentes Primacem Plus
-                        es de 0,09 L/m2 a 1 mano.</p>
-                    <!-- Presentación -->
+                      La performance del primer per microcemento su superfici non assorbenti Primacem Plus è di 0,09 L/m2 a 1 mano</p>
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p> El promotor de adherencia Primacem Plus se presenta en garrafas de plástico de 5 litros.</p>
+                        Presentazione</p>
+                    <p>Il promotore di adesione Primacem Plus è presentato in bottiglie di plastica da 5 litri.</p>
                 </div>
             </div>
         </section>
@@ -361,34 +335,29 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Imprimación microcemento superficies absorbentes
+                              Primer per microcemento per superfici assorbenti
 
                             </h2>
-                            <p>
-                                Primacem ABS es la imprimación indicada para microcemento en superficies absorbentes.
-                                Esta dispersión acrílica en medio acuoso es perfecta para emplearse sobre otros
-                                materiales como pladur o yeso.
+                          <p>
+                             Primacem ABS è il primer indicato per il microcemento con superfici assorbenti. Questa dispersione acrilica in ambiente acquoso è perfetta per l'uso su altri materiali come il gesso o il cartongesso.
 
-                            </p>
-                            <p>
-                                Este promotor de adherencia especialmente recomendable para microcemento se presenta
-                                listo al uso para su aplicación mediante brocha o rodillo de microfibra en una única
-                                mano.
+                          </p>  
+<p>
+  Questo promotore di aderenza specialmente raccomandato per il microcemento è presentato pronto all'uso per l'applicazione a pennello o a rullo in microfibra in una sola mano.
 
-                            </p>
+</p>  
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/PrimacemABS-ES.pdf"
                                 target="_blank">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>Descarga la ficha técnica de Primacem ABS aquí</strong>
+                                <strong>Scarica qui la scheda tecnica di Primacem ABS </strong>
                             </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -398,7 +367,7 @@
                                 <div class="col-md-9">
                                     <strong> PH
                                     </strong>
-                                    <p> entre 8 y 9
+                                    <p> entre 8 e 9
                                     </p>
                                 </div>
                             </div>
@@ -409,9 +378,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong> Secado al tacto
+                                    <strong> Asciutto al tatto
                                     </strong>
-                                    <p> 30 minutos
+                                    <p> 30 minuti
                                     </p>
                                 </div>
                             </div>
@@ -424,9 +393,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong> Viscosidad
+                                    <strong> Viscosità
                                     </strong>
-                                    <p> 10-11 s (Copa Ford 4)
+                                    <p> 10-11 s (Ford Cup 4)
                                     </p>
                                 </div>
                             </div>
@@ -434,13 +403,13 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
-                    <p>El rendimiento de la imprimación  en superficies absorbentes Primacem ABS es de
-                        0,10 L/m2 a dos manos.</p>
-                    <!-- Presentación -->
+                        Performance</p>
+                    <p>La prestazione del primer per microcemento su superfici assorbenti Primacem ABS è di 0,10 L/m2 in 1 mano singola.
+</p>
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El promotor de adherencia Primacem ABS se presenta en garrafas de plástico de 5 litros</p>
+                        Presentazione</p>
+                    <p>Il promotore di adesione Primacem ABS è disponibile in bottiglie di plastica da 5 litri.</p>
                 </div>
             </div>
         </section>
@@ -470,33 +439,29 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Imprimación microcemento con árido
+                                Primer per microcemento con aggregato
 
                             </h2>
-                            <p>
-                                Primacem Grip es nuestra imprimación  de microcemento con árido y que puede aplicarse
-                                tanto en superficies interiores como exteriores. Proporciona una excelente adherencia
-                                sobre sustratos liusos o de baja absorción, por ello es muy recomendable aplicarse sobre
-                                revoques, azulejos, hormigón, cerámica o baldosas hidráulicas además del microcemento.
+                           <p>
+                              Primacem Grip è il nostro primer per microcemento con aggregato e può essere applicato sia su superfici interne che esterne. Fornisce un'eccellente aderenza su substrati lisci o a basso assorbimento, quindi è altamente raccomandato per essere applicato su intonaco, piastrelle, calcestruzzo, ceramica o piastrelle idrauliche oltre al microcemento.
 
-                            </p>
-                            <p>
-                                Este promotor de adherencia listo al uso facilita el anclaje y permite crear texturas
-                                rugosas. Su aplicación se lleva a cabo mediante brocha o rodillo en una única mano.
+                           </p>  
+<p>
+  Questo promotore di aderenza pronto all'uso facilita l'ancoraggio e permette la creazione di texture ruvide. Si applica a pennello o a rullo in una sola mano.
 
-                            </p>
+</p>  
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/PrimacemGRIP-ES.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong>Descarga la ficha técnica de Primacem GRIP aquí</strong>
+                                <strong>Scarica qui la scheda tecnica di Primacem GRIP </strong>
                             </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -505,7 +470,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
                                     <strong>PH</strong>
-                                    <p>entre 7,5 y 9</p>
+                                    <p>Tra 7,5 e 9</p>
                                 </div>
                             </div>
                         </div>
@@ -515,10 +480,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Secado al tacto
+                                    <strong>Asciutto al tatto
                                     </strong>
-                                    <p>3/4h, según espesor aplicado
-                                        y condiciones ambientales</p>
+                                    <p>3/4h, a seconda dello spessore applicato e delle condizioni ambientali</p>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +494,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viscosidad
+                                    <strong>Viscosità
                                     </strong>
                                     <p> A 20ºC (3/20 rpm): 1.700 - 2.200 mPa·s
                                     </p>
@@ -542,7 +506,7 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/abrasion_taber.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Abrasión Taber
+                                    <strong>Abrasione di Taber
                                     </strong>
                                     <p>66 mg
                                     </p>
@@ -552,16 +516,16 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <p>
-                        El rendimiento de la imprimación de microcemento con árido Primacem Grip es de 0,25 L/m² a 1
-                        sola mano.
+                      Il rendimento del primer per microcemento con aggregato Primacem Grip è di 0,25 L/m² in una mano.
+
 
                     </p>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El promotor de adherencia Primacem Grip se presenta en garrafas de 5 L.
+                        Presentazione</p>
+                    <p>Il promotore di adesione Primacem Grip è presentato in taniche da 5 L.
                     </p>
 
                 </div>
@@ -592,24 +556,19 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                Imprimación epoxi antihumedad
+                                Primer impermeabilizzante epossidico
 
                             </h2>
-                            <p>
-                                Primacem Impoxy (A+B) es una imprimación epoxi antihumedad diseñado para bloquear la
-                                humedad por capilaridad y que actúa como barrera de vapor. Este sistema epoxi
-                                bicomponente 100% sólidos destaca por su excelente trabajabilidad, su baja viscosidad y
-                                su alta adherencia a cualquier tipo de soporte.
+                        <p>
+                            Primacem Impoxy (A+B) è un primer epossidico antiumidità progettato per bloccare l'umidità di risalita e agire come barriera al vapore. Questo sistema epossidico bicomponente 100% solidi si distingue per la sua eccellente lavorabilità, la sua bassa viscosità e la sua alta aderenza a qualsiasi tipo di supporto.
 
-                            </p>
-                            <p>
-                                El promotor de adherencia epoxi Primacem Impoxy es compatible con microcemento,
-                                azulejos, baldosas, cerámica, e incluso hormigón húmedo, entre otros muchos materiales.
-
-                            </p>
+                        </p>  
+<p>
+  Il promotore di aderenza epossidica Primacem Impoxy è compatibile con il microcemento, le piastrelle, la ceramica e anche il calcestruzzo bagnato, tra molti altri materiali.
+</p>  
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Impoxy-ES.pdf"
                                 target="_blank">
-                                <strong>Descarga la ficha técnica de Primacem Impoxy aquí</strong>
+                                <strong>Scarica qui la scheda tecnica di Primacem Impoxy </strong>
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
@@ -617,7 +576,7 @@
                         </div>
                     </div>
                     <p class="en3">
-                        Características técnicas
+                       Dati tecnici
                     </p>
                     <div class="row">
                         <div class="col-6">
@@ -626,7 +585,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Densidad (DIN 53 217, T4)</strong>
+                                    <strong>Densità (DIN 53 217, T4)</strong>
                                     <p>Impoxy A 1,13 g/cm3<br>s
                                         Impoxy B 1,02 g/cm3</p>
                                 </div>
@@ -638,9 +597,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Secado al tacto
+                                    <strong>Asciutto al tatto
                                     </strong>
-                                    <p>30 minutos</p>
+                                    <p>30 minuti</p>
                                 </div>
                             </div>
                         </div>
@@ -652,7 +611,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Viscosidad A+B (DIN 53 015)
+                                    <strong>Viscosità A+B (DIN 53 015)
                                     </strong>
                                     <p>600-800 mPa.s
                                     </p>
@@ -662,21 +621,20 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento
+                        Performance
                     </p>
-                    <p>Dependiendo del grado de humedad que haya, de la superficie donde se aplique y del tipo de
-                        aplicación que se realice, la imprimación epoxi antihumedad Primacem Impoxy puede actuar como
-                        barrera de vapor o como barrera de humedad por capilaridad.
+                    <p>A seconda del grado di umidità, della superficie su cui viene applicato e del tipo di applicazione, il primer epossidico Primacem Impoxy può agire come barriera al vapore o come barriera all'umidità per azione capillare.
+
 
                     </p>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación
+                        Presentazione
                     </p>
                     <p>
-                        El promotor de adherencia epoxi Primacem Impoxy se presenta en envases metálicos: <br>
-                        Impoxy A (base) 3,1 kg e Impoxy B (reactor) 1,9 kg <br>
-                        Impoxy A (base) 12,4 kg e Impoxy B (reactor) 7,6 kg</p>
+                       Il promotore di adesione epossidica Primacem Impoxy è presentato in contenitori metallici: <br>
+Impoxy A (base) 3,1 kg e Impoxy B (reattore) 1,9 kg. <br>
+Impoxy A (base) 12,4 kg e Impoxy B (reattore) 7,6 kg</p>
                 </div>
             </div>
         </section>
@@ -758,27 +716,27 @@
      {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad Brookfield RVT a 20ºC (3/20rpm)",
+      "name": "Viscosità Brookfield RVT a 20ºC (3/20rpm)",
       "value": "1700-2200 mPa•s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "tack permanente"
+      "name": "Asciutto al tatto",
+      "value": "Puntina permanente"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,10 L/m2"
+      "value": "(1 mani)- 0,10 L/m2"
     }
     ],
     "potentialAction": {
@@ -839,27 +797,27 @@
         "additionalProperty": [  {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad Brookfield RVT a 20ºC (3/20rpm)",
+      "name": "Viscosità Brookfield RVT a 20ºC (3/20rpm)",
       "value": "1700-2200 mPa•s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "tack permanente"
+      "name": "Asciutto al tatto",
+      "value": "Puntina permanente"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,10 L/m2"
+      "value": "(1 mani)- 0,10 L/m2"
     }
         ],
         "aggregateRating": {
@@ -915,27 +873,27 @@
         "additionalProperty": [  {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad Brookfield RVT a 20ºC (3/20rpm)",
+      "name": "Viscosità Brookfield RVT a 20ºC (3/20rpm)",
       "value": "1700-2200 mPa•s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "tack permanente"
+      "name": "Asciutto al tatto",
+      "value": "Puntina permanente"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,10 L/m2"
+      "value": "(1 mani)- 0,10 L/m2"
     }
         ],
         "aggregateRating": {
@@ -993,27 +951,27 @@
     {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
       "name": "Viscosidad",
-      "value": "12-13 s (Copa Ford 4)"
+      "value": "12-13 s (Ford Cup 4)"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,9 L/m2"
+      "value": "(1 mani)- 0,9 L/m2"
     }
     ],
     "potentialAction": {
@@ -1074,27 +1032,27 @@
         "additionalProperty": [     {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
       "name": "Viscosidad",
-      "value": "12-13 s (Copa Ford 4)"
+      "value": "12-13 s (Ford Cup 4)"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,9 L/m2"
+      "value": "(1 mani)- 0,9 L/m2"
     }
         ],
         "aggregateRating": {
@@ -1157,13 +1115,13 @@
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad A+B (DIN 53 015)",
+      "name": "Viscosità A+B (DIN 53 015)",
       "value": "600-800 mPa.s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     	{
      "@type": "PropertyValue",
@@ -1232,13 +1190,13 @@
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad A+B (DIN 53 015)",
+      "name": "Viscosità A+B (DIN 53 015)",
       "value": "600-800 mPa.s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     	{
      "@type": "PropertyValue",
@@ -1303,13 +1261,13 @@
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad A+B (DIN 53 015)",
+      "name": "Viscosità A+B (DIN 53 015)",
       "value": "600-800 mPa.s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     	{
      "@type": "PropertyValue",
@@ -1374,13 +1332,13 @@
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad A+B (DIN 53 015)",
+      "name": "Viscosità A+B (DIN 53 015)",
       "value": "600-800 mPa.s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     	{
      "@type": "PropertyValue",
@@ -1445,13 +1403,13 @@
     },
     {
      "@type": "PropertyValue",
-      "name": "Viscosidad A+B (DIN 53 015)",
+      "name": "Viscosità A+B (DIN 53 015)",
       "value": "600-800 mPa.s"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
     	{
      "@type": "PropertyValue",
@@ -1516,22 +1474,22 @@
        {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
       "name": "Viscosidad",
-      "value": "10-11 s (Copa Ford 4)"
+      "value": "10-11 s (Ford Cup 4)"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,10 L/m2"
+      "value": "(1 mani)- 0,10 L/m2"
     }
     ],
     "potentialAction": {
@@ -1591,22 +1549,22 @@
         "additionalProperty": [       {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 8 y 9"
+      "value": "Entre 8 e 9"
     },
     {
      "@type": "PropertyValue",
       "name": "Viscosidad",
-      "value": "10-11 s (Copa Ford 4)"
+      "value": "10-11 s (Ford Cup 4)"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
-      "value": "30 minutos"
+      "name": "Asciutto al tatto",
+      "value": "30 minuti"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,10 L/m2"
+      "value": "(1 mani)- 0,10 L/m2"
     }
         ],
         "aggregateRating": {
@@ -1665,7 +1623,7 @@
     {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 7,5 y 9"
+      "value": "Entre 7,5 e 9"
     },
     {
      "@type": "PropertyValue",
@@ -1674,13 +1632,13 @@
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
+      "name": "Asciutto al tatto",
       "value": "3/4h, según espesor aplicado y condiciones ambientales"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,25 L/m²"
+      "value": "(1 mani)- 0,25 L/m²"
     }
     ],
     "potentialAction": {
@@ -1740,7 +1698,7 @@
         "additionalProperty": [       {
       "@type": "PropertyValue",
       "name": "PH",
-      "value": "Entre 7,5 y 9"
+      "value": "Entre 7,5 e 9"
     },
     {
      "@type": "PropertyValue",
@@ -1749,13 +1707,13 @@
     },
 	{
      "@type": "PropertyValue",
-      "name": "Secado al tacto",
+      "name": "Asciutto al tatto",
       "value": "3/4h, según espesor aplicado y condiciones ambientales"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(1 mano)- 0,25 L/m²"
+      "value": "(1 mani)- 0,25 L/m²"
     }
         ],
         "aggregateRating": {

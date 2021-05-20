@@ -19,14 +19,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcemento bicomponente tradicional | Sttandard</title>
-    <meta name="description" content="El microcemento Sttandard es nuestro microcemento bicomponente tradicional. Un revestimiento muy versátil que ofrece texturas muy singulares."/>
+    <title>Microcemento bicomponente tradizionale: Sttandard</title>
+    <meta name="description" content="Il microcemento Sttandard è il nostro tradizionale microcemento bicomponente. Un rivestimento molto versatile che offre texture uniche."/>
 
 
-    <meta property="og:title" content="Microcemento bicomponente tradicional | Sttandard">
+    <meta property="og:title" content="Microcemento bicomponente tradizionale: Sttandard">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard">
-    <meta property="og:description" content="El microcemento Sttandard es nuestro microcemento bicomponente tradicional. Un revestimiento muy versátil que ofrece texturas muy singulares.">
+    <meta property="og:description" content="Il microcemento Sttandard è il nostro tradizionale microcemento bicomponente. Un rivestimento molto versatile che offre texture uniche.">
     <meta property="og:type" content="article">
 
 
@@ -57,7 +57,7 @@
                         <a href="#up" style="font-size:26px">Sttandard</a>
                     </li>
                     <li>
-                        <a href="#que-es-sttandard">¿Qué es Sttandard?</a>
+                        <a href="#que-es-sttandard">Cos'è Sttandard?</a>
                     </li>
                     <li>
                         <a href="#sttandard-microbase">Sttandard Microbase</a>
@@ -74,28 +74,28 @@
 
 
                     <li>
-                        <a href="#aplicacion">Aplicación</a>
+                        <a href="#aplicacion">Applicazione</a>
                     </li>
                     <li>
-                         <a href="#colores">Colores</a>
+                         <a href="#colores">Colori</a>
                     </li>
                 </ul>
             </div>
             <div class="content">
-                <h1>Microcemento bicomponente tradicional | Sttandard</h1>
+                <h1>Microcemento bicomponente tradizionale | Sttandard</h1>
                 <div class="text-justify">
-             <p>
-                   Sttandard es nuestra línea de microcemento bicomponente (cemento y resina) tradicional. Ideal para el artesano aplicador que tiene como objetivo crear texturas con carácter propio.
+         <p>
+            Sttandard è la nostra linea di microcemento tradizionale a due componenti (cemento e resina). Ideale per l'applicatore artigianale che mira a creare texture con il proprio carattere.
 
-             </p>    
+         </p>  
 <p>
-    El microcemento bicomponente tradicional Sttandard permite al profesional jugar con sus propias mezclas y sacar así, el máximo partido a los productos.
+  Il microcemento bicomponente tradizionale Sttandard permette al professionista di giocare con le proprie miscele e ottenere così il massimo dai prodotti.
 
-</p>    
+</p>  
 <p>
-    Apostar por Sttandard es sinónimo de éxito. Y es que su robustez y versatilidad posibilitan que este microcemento bicomponente pueda aplicarse en infinidad de superficies, tanto horizontales y verticales como interiores y exteriores. No es de extrañar que sea uno de los revestimientos más demandados por los aplicadores.
+  Puntare su Sttandard è sinonimo di successo. La sua robustezza e versatilità rendono possibile l'applicazione di questo microcemento bicomponente su un numero infinito di superfici, sia orizzontali che verticali, così come interne ed esterne. Non c'è da stupirsi che sia uno dei rivestimenti più richiesti dagli applicatori.
 
-</p>    
+</p>  
                 </div>
             </div>
         </div>
@@ -132,29 +132,29 @@
                         <div class="col-md-6">
 
 
-                          <h2>Microcemento bicomponente de preparación Sttandard Microbase</h2>
+                          <h2>Preparazione bicomponente per microcemento Sttandard Microbase</h2>
 
 <p>
-    Sttandard Microbase es el microcemento bicomponente tradicional de preparación. Se utiliza siempre antes de la aplicación de Sttandard Microfino, Sttandard Microdeck y Sttandard Microbase.
+  Sttandard Microbase è il tradizionale microcemento bicomponente per la preparazione. Si usa sempre prima dell'applicazione di Sttandard Microfino, Sttandard Microdeck e Sttandard Microstone.
 
-</p>    
+</p>  
 <p>
-    Gracias al acabado rústico que ofrece, también puede utilizarse como microcemento bicomponente de terminación. La variedad de este revestimiento decorativo pone a disposición del profesional un amplio abanico de soluciones.
+  Grazie alla finitura rustica che offre, può essere utilizzato anche come microcemento bicomponente di finitura. La varietà di questo rivestimento decorativo offre al professionista una vasta gamma di soluzioni.
 
-</p>    
+</p>  
 <p>
-    Sttandard Microbase está disponible en 3 granulometrías: L, XL y XXL
-          
-</p>                     
+  Sttandard Microbase è disponibile in 3 granulometrie: L, XL e XXL
+     
+</p>                 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrobaseBI-ES.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microbase</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento bicomponente de preparación Sttandard Microbase</h3>
+                    <h3 class="en3">Tipi di preparazione di microcemento bicomponente Sttandard Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg" class=" img-fluid " alt="Sttandard Microbase" title="Sttandard Microbase">
@@ -173,15 +173,14 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>10 N/m² (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>10 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +188,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego</strong>
+                                    <strong>Resistenza al fuoco</strong>
                                     <p>BFL S1</p>
                                 </div>
                             </div>
@@ -200,9 +199,9 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la compresión
+                                    <strong>Resistenza alla compressione
                                     </strong>
-                                    <p>45 N/m² (28 días)</p>
+                                    <p>45 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +209,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,5 N/m²
                                     </p>
@@ -220,21 +219,21 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
                         <div class="col-md-4"><span><strong>Sttandard Microbase L</strong><br> (2
-                                manos)
+                               mani)
                                 - 2,00 Kg/m2</span></div>
                         <div class="col-md-4"><span><strong>Sttandard Microbase XL</strong><br> (2
-                                mano) - 1,40 Kg/m2</span></div>
+                                mani) - 1,40 Kg/m2</span></div>
 
                         <div class="col-md-4"><span><strong>Sttandard Microbase XXL</strong><br> (2
-                                mano) - 1,70 Kg/m2</span></div>
+                                mani) - 1,70 Kg/m2</span></div>
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento bicomponente tradicional de preparación Sttandard Microbase se presenta en cubos cónicos de plástico negro de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento bicomponente tradizionale Sttandard Microbase si presenta in contenitori conici di plastica nera da 20 kg.
 
                     </p>
                 </div>
@@ -265,35 +264,35 @@
                         <div class="col-md-6">
 
  <h2>
-     Microcemento bicomponente de terminación Sttandard Microfino
+   Microcemento di finitura bicomponente Sttandard Microfino
 
 </h2> 
 <p>
-    Sttandard Microfino es el microcemento bicomponente tradicional de terminación para superficies verticales y no transitables.
+  Sttandard Microfino è il tradizionale microcemento bicomponente per la finitura di superfici verticali e non calpestabili.
 
-</p>    
+</p>  
 <p>
-    Es un revestimiento decorativo perfecto para cubrir paredes, fachadas o mobiliario. Una vez aplicado, proporciona un acabado sedoso y suave al tacto. Además, su capacidad para conseguir marcas de agua le otorga un alto valor decorativo.
+  È un perfetto rivestimento decorativo per coprire muri, facciate o mobili. Una volta applicato, fornisce una finitura setosa e liscia al tatto. Inoltre, la sua capacità di ottenere filigrane gli conferisce un alto valore decorativo.
 
-</p>    
+</p>  
 <p>
-    A nivel estético, este microcemento bicomponente tradicional de terminación se parece al estuco cal pero con un acabado mucho más natural.
+  Esteticamente, questa finitura tradizionale in microcemento bicomponente assomiglia allo stucco di calce, ma con una finitura molto più naturale.
 
-</p>    
+</p>  
 <p>
-    Sttandard Microfino está disponible en 3 granulometrías: XS, S y M
-
-</p>    
+  Sttandard Microfino è disponibile in 3 diverse granulometrie: XS, S e M.
+    
+</p>
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrofinoBI-ES.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microfino</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3"> Tipos de microcemento bicomponente de terminación Sttandard Microfino</h3>
+                    <h3 class="en3"> Tipi di finitura in microcemento bicomponente Sttandard Microfino</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg" class=" img-fluid " alt="Sttandard Microfino XS" title="Sttandard Microfino XS">
@@ -313,15 +312,14 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>7 N/m² (28 días)
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>7 N/m² (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -330,8 +328,8 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la compresión</strong>
-                                    <p>22 N/m² (28 días)</p>
+                                    <strong>Resistenza alla compressione</strong>
+                                    <p>22 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -341,7 +339,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego
+                                    <strong>Resistenza al fuoco
                                     </strong>
                                     <p>BFL S1</p>
                                 </div>
@@ -351,7 +349,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,2 N/m²
                                     </p>
@@ -361,16 +359,16 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento
+                        Performance
                     </p>
                     <div class="row">
                         <div class="col-md-12"><span><strong>Sttandard Microfino XS/S/M</strong> (2
-                                manos)- 0,50 Kg/m2</span></div>
+                               mani)- 0,50 Kg/m2</span></div>
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>Todos los tipos del microcemento bicomponente tradicional de terminación Sttandard Microfino se presentan en cubos cónicos de plástico negro de 15 y 20 kg.
+                        Presentazione</p>
+                    <p>Tutti i tipi di microcemento di finitura bicomponente tradizionale Sttandard Microfino si presenta in contenitori conici di plastica nera da 15 e 20 kg.
 </p>
                 </div>
             </div>
@@ -399,32 +397,32 @@
                         <div class="col-md-6">
                         
 
-                          <h2> Microcemento bicomponente de terminación Sttandard Microdeck</h2>
+                          <h2>Microcemento di finitura bicomponente Sttandard Microdeck</h2>
 
 <p>
-    Sttandard Microdeck es el microcemento bicomponente tradicional de terminación indicado especialmente para revestir suelos de interior. Un revestimiento decorativo que puede aplicarse en pavimentos, escaleras y platos de ducha.
+  Sttandard Microdeck è il tradizionale microcemento bicomponente per finiture, particolarmente indicato per rivestimenti di pavimenti interni. Un rivestimento decorativo che può essere applicato su pavimenti, scale e piatti doccia.
 
-</p>    
+</p>  
 <p>
-    Aunque puede utilizarse también sin problemas en paredes, lavabos, encimeras y fachadas. El aspecto que confiere Sttandard Microdeck a las estancias destaca por su naturalidad y elegancia.
+  Tuttavia, può essere utilizzato senza problemi anche su pareti, lavabi, piani di lavoro e facciate. L'aspetto che Sttandard Microdeck dà alle stanze si distingue per la sua naturalezza ed eleganza.
 
-</p>    
+</p>  
 <p>
-    Con una textura de grano medio, este microcemento bicomponente tradicional de terminación posee un efecto de aguas inferior al de Sttandard Microfino. Estéticamente se asemeja al cemento pulido pero con todas las ventajas del microcemento.
+  Con una struttura a grana media, questo microcemento di finitura bicomponente tradizionale ha un effetto acqua inferiore a Sttandard Microfino. Esteticamente assomiglia al cemento lucidato ma con tutti i vantaggi del microcemento.
 
-</p>    
+</p>  
 <p>
-    Sttandard Microdeck está disponible en 2 granulometrías: M y L
-
-</p>    
+  Sttandard Microdeck è disponibile in 2 granulometrie: M e L.
+     
+</p>
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrodeckBI-ES.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha técnica Sttandard Microdeck</strong>
+                                </span><strong>Scarica qui la scheda tecnica di Sttandard Microdeck</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento bicomponente de terminación Sttandard Microdeck
+                    <h3 class="en3">Tipi di microcemento di finitura bicomponente Sttandard Microdeck
 </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -440,14 +438,14 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>10 N/m² (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>10 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -455,7 +453,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego</strong>
+                                    <strong>Resistenza al fuoco</strong>
                                     <p>BFL S1</p>
                                 </div>
                             </div>
@@ -466,9 +464,9 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la compresión
+                                    <strong>Resistenza alla compressione
                                     </strong>
-                                    <p>35N/m² (28 días</p>
+                                    <p>35N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -476,7 +474,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,2 N/m²
                                     </p>
@@ -486,18 +484,18 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
                         <div class="col-md-4"><span><strong>Sttandard Microdeck M</strong><br>(2
-                                manos) - 1,00 Kg/m2</span></div>
+                               mani) - 1,00 Kg/m2</span></div>
                         <div class="col-md-4"><span><strong>Sttandard Microdeck L</strong><br>(2
-                                manos) - 1,00 Kg/m2</span></div>
+                               mani) - 1,00 Kg/m2</span></div>
 
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento bicomponente tradicional de terminación Sttandard Microdeck se presenta en cubos cónicos de plástico negro de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento di finitura bicomponente tradizionale Sttandard Microdeck si presenta in contenitori conici di plastica nera da 20 kg.
 
                     </p>
                 </div>
@@ -530,29 +528,31 @@
                         <div class="col-md-6">
                          
                          
- <h2>Microcemento bicomponente de terminación Sttandard Microstone</h2>
+<h2>
+  Sttandard Microstone microcemento di finitura bicomponente
 
+</h2>  
 <p>
-    Sttandard Microstone es nuestra línea de microcemento bicomponente tradicional de terminación ideal para zonas exteriores gracias a su excelente resistencia a la abrasión y su carácter antideslizante. 
+  Sttandard Microstone è la nostra linea di finitura tradizionale in microcemento bicomponente ideale per le aree esterne grazie alla sua eccellente resistenza all'abrasione e al suo carattere antiscivolo.
 
-</p>    
+</p>  
 <p>
-    El aspecto piedra natural y color uniforme de este revestimiento, pone al alcance del profesional crear ambientes naturales con mucha personalidad en terrazas, porches e incluso fachadas. 
+  L'aspetto di pietra naturale e il colore uniforme di questo rivestimento, permette al professionista di creare ambienti naturali con molta personalità su terrazze, portici e anche facciate.
 
-</p>    
+</p>  
 <p>
-    Sttandard Microstone está disponible en 2 granulometrías: L y XL.
-
-</p>    
+  Sttandard Microstone è disponibile in 2 granulometrie: L e XL.
+     
+</p> 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrostoneBI-ES.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microstone</strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Tipos de microcemento bicomponente de terminación Sttandard Microstone</p>
+                    <p class="en3">Tipi di finitura in microcemento bicomponente Sttandard Microstone</p>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg" class=" img-fluid " alt="Sttandard Microstone 20 Kg" title="Sttandard Microstone 20 Kg">
@@ -567,15 +567,14 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>11 N/m² (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>11 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -583,7 +582,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego</strong>
+                                    <strong>Resistenza al fuoco</strong>
                                     <p>BFL S1</p>
                                 </div>
                             </div>
@@ -594,9 +593,9 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la compresión
+                                    <strong>Resistenza alla compressione
                                     </strong>
-                                    <p>50 N/m² (28 días)</p>
+                                    <p>50 N/m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -604,7 +603,7 @@
                             <div class="row">
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,5 N/m²
                                     </p>
@@ -614,18 +613,18 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
                         <div class="col-md-12"><span><strong>Sttandard Microstone L</strong>(2
-                                manos) - 2,00 Kg/m2</span></div>
+                               mani) - 2,00 Kg/m2</span></div>
                         <div class="col-md-12"><span><strong>Sttandard Microstone XL</strong>(2
-                                manos) - 2,00 Kg/m2</span></div>
+                               mani) - 2,00 Kg/m2</span></div>
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
 
-                        Presentación</p>
-                    <p>El microcemento bicomponente tradicional de terminación Sttandard Microstone se presenta en cubos cónicos de plástico negro de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento di finitura bicomponente tradizionale Sttandard Microstone si presenta in contenitori di plastica nera da 20 kg.
 
                     </p>
 
@@ -648,17 +647,13 @@
                 <div class="content">
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                  <h2>      <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación microcemento bicomponente Sttandard en paredes</strong></a></h2>
+                  <h2>      <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Applicazione di microcemento bicomponente standard su pareti</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Colocar la malla sobre la
-                                    superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
-                                        Plus
-                                        / ABS</a>.
+                                    <strong>Passo 1</strong><br>Posizionare la rete sulla superficie da rivestire. Applicare Primacem Plus / ABS</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -671,9 +666,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2</strong><br>Aplicar una
-                                    primera capa de
-                                    <a class="links" href="#sttandard-microbase">Microbase</a> sin pigmento.Lijar
+                                    <strong>Passo 2</strong><br>Applicare una prima mano di Microbase senza pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -686,9 +680,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#sttandard-microbase">Microbase</a> con
-                                    pigmento. Lijar*
+                                    <strong>Passo 3</strong><br>Applicare un secondo strato di Microbase con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -701,9 +694,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4</strong><br>Aplicar una primera
-                                    capa de <a class="links" href="#sttandard-microfino">Microfino</a> con
-                                    pigmento. Lijar
+                                    <strong>Passo 4</strong><br>Applicare una prima mano di Microfine con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -716,9 +708,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#sttandard-microfino">Microfino</a> con
-                                    pigmento.Lijar
+                                    <strong>Passo 5</strong><br>Applicare un secondo strato di Microfine con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -731,9 +722,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6</strong><br>Aplicar mediante rodillo dos
-                                    capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-bronze">Presealer</a>
+                                    <strong>Passo 6</strong><br>Applicare due mani di Presealer a rullo.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -746,10 +736,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
-                                    capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-aluminium">
-                                        Topsealer</a>.
+                                    <strong>Passo 7</strong><br>Applicare due mani di Topsealer a rullo.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -759,22 +747,19 @@
                                 </div>
                             </div>
                             <br>
-                            <p>*Con Sttandard Microstone se elimina el paso 3.</p>
+                            <p>*Con Sttandard Microstone il passo 3 è eliminato.</p>
                         </div>
                     </div>
                     <!-- Aplicacion suelo -->
                     <div class="stepfloor mt-5">
-                     <h2>   <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación microcemento bicomponente Sttandard en suelos</strong></a></h2>
+                     <h2>   <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+Applicazione del microcemento bicomponente Sttandard sui pavimenti</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Colocar la malla sobre la
-                                    superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
-                                        Plus
-                                        / ABS</a>.
+                                    <strong>Passo 1</strong><br>Posizionare la rete sulla superficie da rivestire. Applicare Primacem Plus /ABS
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -787,9 +772,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2</strong><br>Aplicar una
-                                    primera capa de
-                                    <a class="links" href="#sttandard-microbase">Microbase</a> sin pigmento.Lijar
+                                    <strong>Passo 2</strong><br>Applicare una prima mano di Microbase senza pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -802,9 +786,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#sttandard-microbase">Microbase</a> con
-                                    pigmento.Lijar
+                                    <strong>Passo 3</strong><br>Applicare un secondo strato di Microbase con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -817,9 +800,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4</strong><br>Aplicar una primera
-                                    capa de <a class="links" href="#sttandard-microdeck">Microdeck</a> con
-                                    pigmento. Lijar
+                                    <strong>Passo 4</strong><br>Applicare una prima mano di Microdeck con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -832,9 +814,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#sttandard-microdeck">Microdeck</a> con
-                                    pigmento.Lijar
+                                    <strong>Passo 5</strong><br>Applicare un secondo strato di Microdeck con pigmento.Carteggiare.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -847,8 +827,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank" href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                    <strong>Passo 6</strong><br>Applicare due mani di Presealer a rullo.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -861,10 +841,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
-                                    capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-aluminium">
-                                        Topsealer</a>.
+                                    <strong>Passo 7</strong><br>Applicare due mani di Topsealer a rullo.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -891,7 +868,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Colores microcemento bicomponente Sttandard </h2>
+                       Colori bicomponenti per microcemento Sttandard </h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1150,22 +1127,22 @@
   "additionalProperty": [
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "45 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "45 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
   ],
@@ -1226,22 +1203,22 @@
 	"additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "45 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "45 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
     ],
@@ -1299,22 +1276,22 @@
 	"additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "45 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "45 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
     ],
@@ -1372,22 +1349,22 @@
 	"additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "45 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "45 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
     ],
@@ -1446,28 +1423,28 @@
     "variesBy": "size",
     "additionalProperty": [{
         "@type": "PropertyValue",
-        "name": "Resistencia a la flexión",
-        "value": "7 N/m² (28 días)"
+        "name": "Resistenza alla flessione",
+        "value": "7 N/m² (28 giorni)"
       },
       {
         "@type": "PropertyValue",
-        "name": "Resistencia al fuego",
+        "name": "Resistenza al fuoco",
         "value": "BFL S1"
       },
       {
         "@type": "PropertyValue",
-        "name": "Resistencia a la compresión",
-        "value": "22 N/m² (28 días)"
+        "name": "Resistenza alla compressione",
+        "value": "22 N/m² (28 giorni)"
       },
       {
         "@type": "PropertyValue",
-        "name": "Adherencia al soporte",
+        "name": "Aderenza al supporto",
         "value": "1,2 N/m²"
       },
       {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "(2 manos)- 0,50 Kg/m²"
+        "value": "(2 mani)- 0,50 Kg/m²"
       }
     ],
     "potentialAction": {
@@ -1526,28 +1503,28 @@
         },
         "additionalProperty": [{
             "@type": "PropertyValue",
-            "name": "Resistencia a la flexión",
-            "value": "7 N/m² (28 días)"
+            "name": "Resistenza alla flessione",
+            "value": "7 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia al fuego",
+            "name": "Resistenza al fuoco",
             "value": "BFL S1"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia a la compresión",
-            "value": "22 N/m² (28 días)"
+            "name": "Resistenza alla compressione",
+            "value": "22 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Adherencia al soporte",
+            "name": "Aderenza al supporto",
             "value": "1,2 N/m²"
           },
           {
             "@type": "PropertyValue",
             "name": "Rendimiento",
-            "value": "(2 manos)- 0,50 Kg/m²"
+            "value": "(2 mani)- 0,50 Kg/m²"
           }
         ],
         "aggregateRating": {
@@ -1604,28 +1581,28 @@
         },
         "additionalProperty": [{
             "@type": "PropertyValue",
-            "name": "Resistencia a la flexión",
-            "value": "7 N/m² (28 días)"
+            "name": "Resistenza alla flessione",
+            "value": "7 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia al fuego",
+            "name": "Resistenza al fuoco",
             "value": "BFL S1"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia a la compresión",
-            "value": "22 N/m² (28 días)"
+            "name": "Resistenza alla compressione",
+            "value": "22 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Adherencia al soporte",
+            "name": "Aderenza al supporto",
             "value": "1,2 N/m²"
           },
           {
             "@type": "PropertyValue",
             "name": "Rendimiento",
-            "value": "(2 manos)- 0,50 Kg/m²"
+            "value": "(2 mani)- 0,50 Kg/m²"
           }
         ],
         "aggregateRating": {
@@ -1681,28 +1658,28 @@
         },
         "additionalProperty": [{
             "@type": "PropertyValue",
-            "name": "Resistencia a la flexión",
-            "value": "7 N/m² (28 días)"
+            "name": "Resistenza alla flessione",
+            "value": "7 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia al fuego",
+            "name": "Resistenza al fuoco",
             "value": "BFL S1"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia a la compresión",
-            "value": "22 N/m² (28 días)"
+            "name": "Resistenza alla compressione",
+            "value": "22 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Adherencia al soporte",
+            "name": "Aderenza al supporto",
             "value": "1,2 N/m²"
           },
           {
             "@type": "PropertyValue",
             "name": "Rendimiento",
-            "value": "(2 manos)- 0,50 Kg/m²"
+            "value": "(2 mani)- 0,50 Kg/m²"
           }
         ],
         "aggregateRating": {
@@ -1760,28 +1737,28 @@
     "additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "35 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "35 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,2 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 1 Kg/m²"
+      "value": "(2 mani)- 1 Kg/m²"
     }
     ],
     "potentialAction": {
@@ -1840,28 +1817,28 @@
         },
         "additionalProperty": [{
             "@type": "PropertyValue",
-            "name": "Resistencia a la flexión",
-            "value": "7 N/m² (28 días)"
+            "name": "Resistenza alla flessione",
+            "value": "7 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia al fuego",
+            "name": "Resistenza al fuoco",
             "value": "BFL S1"
           },
           {
             "@type": "PropertyValue",
-            "name": "Resistencia a la compresión",
-            "value": "22 N/m² (28 días)"
+            "name": "Resistenza alla compressione",
+            "value": "22 N/m² (28 giorni)"
           },
           {
             "@type": "PropertyValue",
-            "name": "Adherencia al soporte",
+            "name": "Aderenza al supporto",
             "value": "1,2 N/m²"
           },
           {
             "@type": "PropertyValue",
             "name": "Rendimiento",
-            "value": "(2 manos)- 0,50 Kg/m²"
+            "value": "(2 mani)- 0,50 Kg/m²"
           }
         ],
         "aggregateRating": {
@@ -1918,28 +1895,28 @@
         "additionalProperty": [
             {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "35 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "35 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,2 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 1 Kg/m²"
+      "value": "(2 mani)- 1 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -1998,28 +1975,28 @@
     "additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "11 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "11 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 2 Kg/m²"
+      "value": "(2 mani)- 2 Kg/m²"
     }
     ],
     "potentialAction": {
@@ -2078,28 +2055,28 @@
         },
         "additionalProperty": [{
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "11 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "11 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 2 Kg/m²"
+      "value": "(2 mani)- 2 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -2156,28 +2133,28 @@
         "additionalProperty": [
             {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "11 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "11 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 2 Kg/m²"
+      "value": "(2 mani)- 2 Kg/m²"
     }
         ],
         "aggregateRating": {

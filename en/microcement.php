@@ -1217,7 +1217,96 @@
                 src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">
               </script>
               <!-- include jQuery -->
-
+<script type = "application/ld+json" > 
+{
+    "@context": "https://schema.org/",
+    "@type": "Thing",
+    "name": "Microcement",
+    "description:": "Topciment microcement is a decorative coating composed of cement, water-based resins, additives and mineral pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence. This construction material stands out because it is applied directly onto existing materials: tiles, plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a rapid renovation of spaces is achieved.",
+    "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Where can microcement be applied?",
+      "value": " From microcement stairs or microcement swimming pools to furniture clad with microcement. Although the use par excellence of microcement is in floors and walls of kitchens, bathrooms and outdoor spaces such as terraces and terraces."
+    },{
+      "@type": "PropertyValue",
+      "name": "Advantages of microcement",
+      "value": " Multiple decorative finishes, seamless surface; Can be applied on floors, walls, ceilings, swimming pools and furniture. Indoor and outdoor spaces; Wide variety of microcement colours and textures ;Handcrafted application. Exclusive and personalised result ; High adhesion. Compatible with tiles, marble, ceramic, ceramic tiles, stoneware, terrazzo, plasterboard, concrete, cement, gypsum, etc. Resistant to traffic, knocks, scratches and chemical products. Waterproof. Anti-slip, depending on the finish. Quick and rubble-free work. Thickness of the material 2/3 mm, so it does not affect the structural load of the building. Natural materials. 100% environmentally friendly product. Easy maintenance and cleaning; with water and neutral pH soap. Germ and bacteria free spaces."
+    }
+    ,{
+      "@type": "PropertyValue",
+      "name": "Microcement finishes",
+      "value": "The different microcement finishes that can be obtained depend on the textures and varnishes or sealants used, as these are two elements that condition the appearance and final finish of our microcements. We have matte, super matte, satin, gloss and non-slip matte finishes."
+    },{
+      "@type": "PropertyValue",
+      "name": "Microcement colours",
+      "value": "We have a wide range of microcement colours. The pigmentation system allows you to create any colour to measure, thus personalising rooms and environments to achieve your own style.white, grey, green, red, black or blue are just some of the many colours of microcement available for our systems."
+    }
+  ],
+  "hasVariant":[
+    {
+      "@type": "Product",
+      "name": "Two-component microcement Sttandard",
+	  "description": "Traditional two-component micro-cement applicable in both floors and walls. It stands out for its robustness, versatility and capacity to create unequalled textures.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
+	  "brand": "Atlanttic",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "20"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Two-component microcement Unlimitted",
+	  "description": "Bicomponent microcement for coating surfaces in permanent contact with water, such as swimming pools, ponds or fountains.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
+	  "brand": "Unlimitted",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "19"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Evoluttion one-component microcement",
+	  "description": "Simplifying mixtures reduces future errors. This is what EVOLUTTION, our one-component microcement, guarantees. It provides very good mechanical resistance and high workability of the material.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
+	  "brand": "Evoluttion",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "19"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Atlanttic microcement for swimming pools",
+	  "description": "ATLANTTIC is our exclusive line of microcement for swimming pools and other surfaces in constant contact with water. ",
+	  "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
+	  "brand": "Atlanttic",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "25"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Ready-to-use microcement Efectto",
+	  "description": "No other microcement ensures such a fast application as EFECTTO QUARTZ, our ready-to-use microcement available in 4 granulometries. ",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
+	  "brand": "Efectto",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "17"
+	  }
+    }
+  ]
+  } 
+  </script>
 </body>
 
 </html>

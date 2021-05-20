@@ -657,7 +657,1056 @@ Impoxy A (base) 12,4 kg et Impoxy B (réacteur) 7,6 kg</p>
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Primacem ABS, apprêt pour microciment pour surfaces absorbantes",
+    "description": "Primaire pour microciment sur surfaces absorbantes.",
+    "image": "https://www.topciment.com/imagenes/primacem/Primacem-Abs.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "10-11 s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Sec au toucher",
+      "value": "30 minutes"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,10 L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Apprêts et promoteurs d'adhésion du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Primacem ABS, apprêt pour microciment pour surfaces absorbantes 5L",
+        "description": "Primaire pour microciment sur surfaces absorbantes.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Abs.jpg",
+        "size": "5L",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-abs",
+        "sku": "TT03004",
+        "gtin13": "8436575620398",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [       {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "10-11 s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,10 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Primacem Fix Primaire pour microciment avec effet d'accrochage",
+    "description": "un primaire pour microciment à effet tacking, prêt à l'emploi, qui favorise l'adhérence du support en microciment existant et du nouveau.",
+    "image": "https://www.topciment.com/imagenes/primacem/Primacem_Fix_producto.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "25 Kg et 5 kG",
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité Brookfield RVT AT 20ºC(3/20rpm)",
+      "value": "1700-2200 mPa•s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "tack permanent"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "≥ 1,7 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,10 L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Apprêts et promoteurs d'adhésion du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "10"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Primacem Fix Primaire pour microciment avec effet d'accrochage 5 L",
+        "description": "un primaire pour microciment à effet tacking, prêt à l'emploi, qui favorise l'adhérence du support en microciment existant et du nouveau.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem_Fix_producto.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem",
+        "sku": "TT03001",
+        "gtin13": "8436575620367",
+        
+        "weight": "5kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [  {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité Brookfield RVT AT 20ºC(3/20rpm)",
+      "value": "1700-2200 mPa•s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "tack permanent"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "≥ 1,7 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,10 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Primacem Fix Primaire pour microciment avec effet d'accrochage 25 L",
+        "description": "un primaire pour microciment à effet tacking, prêt à l'emploi, qui favorise l'adhérence du support en microciment existant et du nouveau.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem_Fix_producto.jpg",
+        "size": "25 L",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem",
+        "sku": "TT03002",
+        "gtin13": "8436575620374",
+        "weight": "25kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [  {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité Brookfield RVT AT 20ºC(3/20rpm)",
+      "value": "1700-2200 mPa•s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "tack permanent"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "≥ 1,7 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,10 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      }
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Primaire de microciment avec agrégat Primacem Grip",
+    "description": "Primaire pour microciment avec et agrégat qui peut être appliqué sur des surfaces intérieures et extérieures.",
+    "image": "https://www.topciment.com/imagenes/primacem/Primacem-Grip.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 7,5 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "AT 20ºC(3/20 rpm): 1.700 - 2.200 mPa·s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "3/4h, en fonction de l'épaisseur appliquée et des conditions environnementales"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,25 L/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Apprêts et promoteurs d'adhésion du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "25"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Primaire de microciment avec agrégat Primacem Grip 5L",
+        "description": "Primaire pour microciment avec et agrégat qui peut être appliqué sur des surfaces intérieures et extérieures.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Grip.jpg",
+        "size": "5L",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-grip",
+        "sku": "TT03003",
+        "gtin13": "8436575620381",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [       {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 7,5 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "AT 20ºC(3/20 rpm): 1.700 - 2.200 mPa·s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "3/4h, en fonction de l'épaisseur appliquée et des conditions environnementales"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,25 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "25"
+        }
+      }
+      
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Primacem Impoxy primaire époxy anti-humidité",
+    "description": "Primacem Impoxy (A+B) est un primaire époxy anti-humidité conçu pour bloquer les remontées d'humidité et agir comme un pare-vapeur.",
+    "image": "https://www.topciment.com/imagenes/primacem/Primacem-Impoxy.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "7,6 kg et 3,1 Kg",
+    "variesBy": "Deux composantes",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Densité (DIN 53 217, T4)",
+      "value": "Impoxy A 1,13 g/cm3 - Impoxy B 1,02 g/cm3"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité A+B (DIN 53 015)",
+      "value": "600-800 mPa.s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    	{
+     "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "Dépend du degré d'humidité"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Apprêts et promoteurs d'adhésion du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "19"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Primacem Impoxy primaire époxy anti-humidité A 7,6 kg",
+        "description": "Primacem Impoxy (A+B) est un primaire époxy anti-humidité conçu pour bloquer les remontées d'humidité et agir comme un pare-vapeur.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Impoxy.jpg",
+        "size": "7,6 kg",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-impoxy",
+        "sku": "TT03011",
+        "gtin13": "8436575624877",
+        "weight": "7,6 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [    {
+      "@type": "PropertyValue",
+      "name": "Densité (DIN 53 217, T4)",
+      "value": "Impoxy A 1,13 g/cm3 - Impoxy B 1,02 g/cm3"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité A+B (DIN 53 015)",
+      "value": "600-800 mPa.s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    	{
+     "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "Dépend du degré d'humidité"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "19"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Primacem Impoxy primaire époxy anti-humidité A 7,6 kg",
+        "description": "Primacem Impoxy (A+B) est un primaire époxy anti-humidité conçu pour bloquer les remontées d'humidité et agir comme un pare-vapeur.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Impoxy.jpg",
+        "size": "7,6 kg",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-impoxy",
+        "sku": "TT03013",
+        "gtin13": "8436575620459",
+        "weight": "7,6 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [    {
+      "@type": "PropertyValue",
+      "name": "Densité (DIN 53 217, T4)",
+      "value": "Impoxy A 1,13 g/cm3 - Impoxy B 1,02 g/cm3"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité A+B (DIN 53 015)",
+      "value": "600-800 mPa.s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    	{
+     "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "Dépend du degré d'humidité"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "19"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Primacem Impoxy primaire époxy anti-humidité B 0,9 Kg",
+        "description": "Primacem Impoxy (A+B) est un primaire époxy anti-humidité conçu pour bloquer les remontées d'humidité et agir comme un pare-vapeur.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Impoxy.jpg",
+        "size": "0,9 Kg",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-impoxy",
+        "sku": "TT03010",
+        "gtin13": "8436575620435",
+        "weight": "0,9 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [    {
+      "@type": "PropertyValue",
+      "name": "Densité (DIN 53 217, T4)",
+      "value": "Impoxy A 1,13 g/cm3 - Impoxy B 1,02 g/cm3"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité A+B (DIN 53 015)",
+      "value": "600-800 mPa.s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    	{
+     "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "Dépend du degré d'humidité"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "19"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Primacem Impoxy primaire époxy anti-humidité B 7,6 kg",
+        "description": "Primacem Impoxy (A+B) est un primaire époxy anti-humidité conçu pour bloquer les remontées d'humidité et agir comme un pare-vapeur.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Impoxy.jpg",
+        "size": "7,6 kg",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-impoxy",
+        "sku": "TT03014",
+        "gtin13": "8436575620466",
+        "weight": "7,6 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [    {
+      "@type": "PropertyValue",
+      "name": "Densité (DIN 53 217, T4)",
+      "value": "Impoxy A 1,13 g/cm3 - Impoxy B 1,02 g/cm3"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité A+B (DIN 53 015)",
+      "value": "600-800 mPa.s"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    	{
+     "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "Dépend du degré d'humidité"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "19"
+        }
+      }
+      
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Primacem Plus apprêt pour microciment surfaces non absorbantes",
+    "description": "Primaire pour microciment sur des surfaces non absorbantes.",
+    "image": "https://www.topciment.com/imagenes/primacem/Primacem-Plus.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 kG",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "12-13 s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "≥ 1,7 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,9 L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Apprêts et promoteurs d'adhésion du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "26"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Primacem Plus apprêt pour microciment surfaces non absorbantes 5 L",
+        "description": "Primaire pour microciment sur des surfaces non absorbantes.",
+        "image": "https://www.topciment.com/imagenes/primacem/Primacem-Plus.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem#primacem-plus",
+        "sku": "TT03005",
+        "gtin13": "8436575620404",
+        
+        "weight": "5kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+      "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Entrez 8 et 9"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosité",
+      "value": "12-13 s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Séchage au toucher",
+      "value": "30 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "≥ 1,7 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Rendement",
+      "value": "(1 couche)- 0,9 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "26"
+        }
+      }
+      
+    ]
+  } </script>
 </body>
 
 </html>

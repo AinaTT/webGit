@@ -614,7 +614,179 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json" > {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Microcement beginners course",
+    "description": "You will learn basic knowledge of the microcement application process, from primer to sealer, and the different tools.",
+    "occupationalCredentialAwarded": "Diploma accrediting the completion of the microcement course..",
+    "audience": {
+      "@type": "Audience",
+      "name": "Microcement applicators",
+      "geographicArea": {
+        "@type": "AdministrativeArea",
+        "name": ["Europa", "China", "EEUU"]
+      }
+    },
+    "hasCourseInstance": [{
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-02-19",
+        "startDate": "2021-02-19",
+        "name": "International microcement introductory course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      },
+      {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-02-26",
+        "startDate": "2021-02-26",
+        "name": "National microcement initiation course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-03-12",
+        "startDate": "2021-03-12",
+        "name": "International microcement introductory course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-03-26",
+        "startDate": "2021-03-26",
+        "name": "National microcement initiation course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-04-16",
+        "startDate": "2021-04-16",
+        "name": "International microcement introductory course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-04-30",
+        "startDate": "2021-04-30",
+        "name": "National microcement initiation course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-05-14",
+        "startDate": "2021-05-14",
+        "name": "International microcement introductory course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-05-28",
+        "startDate": "2021-05-28",
+        "name": "National microcement initiation course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-06-04",
+        "startDate": "2021-06-04",
+        "name": "International microcement introductory course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Presencial",
+        "endDate": "2021-06-18",
+        "startDate": "2021-06-18",
+        "name": "National microcement initiation course",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }
+    ],
+    "provider": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "url": "https://www.topciment.com"
+    }
+  } </script> 
 </body>
 
 </html>

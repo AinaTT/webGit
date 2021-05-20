@@ -64,7 +64,7 @@
                                 <li>
                                     <a href="#up" style="font-size:26px">Mettal Activator</a>
                                 </li>
-                                <li><a href="#que-es-puremetal">¿Qué es Mettal Activator?</a></li>
+                                <li><a href="#que-es-puremetal">Cos'è Mettal Activator?</a></li>
                                 <li><a href="#pure-mettal">Pure Mettal </a></li>
                                 <li><a href="#classic-mettal">Classic Mettal</a></li>
                             </ul>
@@ -77,7 +77,7 @@
                                 <div class="col-md-7 ">
                                     <p>
                                     <h1 class="en2">
-                                        ¿Qué es Mettal Activator?</h1>
+                                        Cos'è Mettal Activator?</h1>
                                     <h1 class="h2s"></h1>
                                     <p> Mettal Activator es un agente oxidante base agua que reacciona
                                         cuando entra en contacto con las partículas metálicas.</p> Se utiliza para
@@ -94,7 +94,7 @@
 
                             <!-- Propiedades -->
                             <p class="en3">
-                                Características técnicas</p>
+                               Dati tecnici</p>
                             <div class="row">
                                 <div class="col-6">
                                     <div class="row">
@@ -133,12 +133,12 @@
                             </div>
                             <!-- Rendimiento -->
                             <p class="en3">
-                                Rendimiento</p>
+                                Performance</p>
                             <p>Mettal Activator es un activador de óxido. Por ello, en función del efecto óxido que se
                                 quiera obtener, el consumo puede variar entre 13-15 m² por litro.</p>
-                            <!-- Presentación -->
+                            <!--  Presentazione -->
                             <p class="en3">
-                                Presentación</p>
+                                Presentazione</p>
                             <p>Envase de 400 mL con pulverizador. <br>
                                 Botella de 1 L sin pulverizador. </p>
 

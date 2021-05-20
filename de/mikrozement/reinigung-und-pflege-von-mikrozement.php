@@ -492,7 +492,7 @@
                                 <div class=" col-md-9">
                                     <strong>
                                         PH</strong>
-                                    <p>Zwischen 8.5 - 9.5</p>
+                                    <p>9 ± 0,5</p>
                                 </div>
                             </div>
                         </div>
@@ -517,7 +517,7 @@
                                 <div class=" col-md-9">
                                     <strong>Feststoffe
                                     </strong>
-                                    <p>23.37%
+                                    <p>23 ± 2 %
                                     </p>
 
                                 </div>
@@ -531,7 +531,7 @@
                                 <div class=" col-md-9">
                                     <strong>Viskosität
                                     </strong>
-                                    <p>12.84s (Ford Cup 4)
+                                    <p>13 ± 1s (Ford Cup 4)
                                     </p>
                                 </div>
                             </div>

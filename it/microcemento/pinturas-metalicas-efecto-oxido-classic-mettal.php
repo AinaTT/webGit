@@ -74,14 +74,14 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                                 <a href="#up" style="font-size:26px">Classic Mettal</a>
                             </li>
                             <li>
-                                <a href="#que-es-classic-mettal">¿Qué es Classic Mettal?</a>
+                                <a href="#que-es-classic-mettal">Cos'è Classic Mettal?</a>
                             </li>
                             <li>
                                 <a href="#puremetal-aluminium">Classic Mettal </a>
                             </li>
                             <li> <a href="#colores">Acabados</a> </li>
                             <li>
-                                <a href="#aplicacion">Aplicación</a>
+                                <a href="#aplicacion">Applicazione</a>
                             </li>
 
                         </ul>
@@ -202,7 +202,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                     </div>
                     <!-- Propiedades -->
                     <h2 class="en3">
-                        Características técnicas</h2>
+                       Dati tecnici</h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -210,10 +210,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Aplicable sobre cualquier
-                                        tipo de soporte</strong>
-                                    <p>Microcemento, hormigón,
-                                        ladrillo,cerámica, panel de
+                                    <strong>Applicabile su qualsiasi tipo di supporto</strong>
+                                    <p>Microcemento, calcestruzzo, mattoni, ceramica, panel de
                                         cartón yeso, yeso, vidrio,
                                         papel y metales.</p>
                                 </div>
@@ -244,9 +242,9 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                                         src="https://www.topciment.com/imagenes/sistemas/icons/listo_al_uso.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Producto listo al uso
+                                    <strong>Prodotto pronto all'uso
                                     </strong>
-                                    <p>No diluir con agua.
+                                    <p>Non diluire con acqua.
                                     </p>
                                 </div>
                             </div>
@@ -257,7 +255,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                                         src="https://www.topciment.com/imagenes/sistemas/icons/versatilidad_aplicacion.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Versatilidad de aplicación
+                                    <strong>Versatilità di applicazione
                                     </strong>
                                     <p>Aplicable mediante llana,
                                         pincel, brocha, esponja,
@@ -269,21 +267,21 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                     </div>
                     <!-- Rendimiento -->
                     <h2 class="en3">
-                        Rendimiento</h2>
+                        Performance</h2>
                     <p>
                         El rendimiento de las pinturas metálicas y efecto óxido Classic Mettal <strong>dependerán del
                             soporte a
                             revestir y del método de aplicación.</strong> En
                         una aplicación mediante llana el rendimiento es el siguiente: 0.15 L/m2.</p>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <h2 class="en3">
-                        Presentación</h2>
+                        Presentazione</h2>
                     <p>Las pinturas metálicas y efecto óxido Classic Mettal se presentan en tarros de 1L.</p>
                        <h2 class="en3">
                                        Ficha técnica</h2>
                                     <p><a class="links" href="https://www.topciment.com/fichas-tecnicas/Classic_Mettal_ES.pdf" target="_blank"> <span class="fa-stack">
                                                 <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                            </span><strong>Descarga aquí la ficha técnica de
+                                            </span><strong>Scarica qui la scheda tecnica di
                                                 Classic Mettal</strong>
                                         </a></p>
                     <!-- logo -->
@@ -412,7 +410,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1. Limpieza y preparación del soporte.</strong><br>Debemos asegurarnos
+                                    <strong>Passo 1. Limpieza y preparación del soporte.</strong><br>Debemos asegurarnos
                                     de que está bien cohesionado, seco y si es necesario lijado. Aspirar para dejar
                                     limpio el soporte.
 
@@ -431,7 +429,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
+                                    <strong>Passo 2. Imprimación.</strong><br>
                                     Aplicar una capa de imprimación Primacem ABS (soporte absorbente) o Primacem PLUS
                                     (soporte no absorbente). Dejar secar alrededor de 1 hora.
 
@@ -450,10 +448,10 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Decoración.</strong><br>Aplicar una o dos capas del producto de
+                                    <strong>Passo 3. Decoración.</strong><br>Aplicar una o dos capas del producto de
                                     Classic Mettal deseado (Cobre, Bronce, Hierro 004, Hierro 030 o Latón) con llana o
-                                    rodillo sobre la superficie dejando entre 2 y 4 horas de secado entre capas. Dejar
-                                    secar 24 horas y lijar.
+                                    rodillo sobre la superficie dejando entre 2 y 4 orede secado entre capas. Dejar
+                                    secar 24 orey lijar.
 
                                 </div>
                                 <!-- Icono -->
@@ -470,7 +468,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4A. Acabado metálico y sellador</strong><br>
+                                    <strong>Passo 4A. Acabado metálico y sellador</strong><br>
                                     Si se busca un acabado metálico, una vez la superficie esté decorada, aplicar a
                                     continuación dos manos del barniz Topsealer WT One Coat (dejando secar 24 horas
                                     entre aplicaciones) para proteger el soporte. Dejar secar 24 horas.
@@ -489,11 +487,11 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4B. Acabado oxidado y sellador.</strong><br>Si en cambio se busca un
+                                    <strong>Passo 4B. Acabado oxidado y sellador.</strong><br>Si en cambio se busca un
                                     acabado oxidado, una vez decorada la superficie, aplicar Mettal Activator para
-                                    acelerar la oxidación y lijar. 24 horas después, aplicar dos manos de Presealer
-                                    (dejando 4 horas entre manos) y lijar. Por último, proteger la superficie con dos
-                                    capas del barniz Topsealer WT One Coat (24 horas entre capas). Dejar secar 24 horas.
+                                    acelerar la oxidación y lijar. 24 oredespués, aplicar dos manos de Presealer
+                                    (dejando 4 oreentremani) y lijar. Por último, proteger la superficie con dos
+                                    capas del barniz Topsealer WT One Coat (24 oreentre capas). Dejar secar 24 horas.
                                     <!-- Icono -->
                                 </div>
                                 <div class="col-3 col-md-2"><img
@@ -597,8 +595,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
     "additionalProperty": [
          {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -608,8 +606,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",
@@ -636,7 +634,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "url": "https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal",
         "sku": "TT05002",
         "gtin13": "8436575624204",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -675,8 +673,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "additionalProperty": [ 
                   {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -686,8 +684,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",
@@ -710,7 +708,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "url": "https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal",
         "sku": "TT05001",
         "gtin13": "8436575624198",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -749,8 +747,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "additionalProperty": [ 
                   {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -760,8 +758,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",
@@ -784,7 +782,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "url": "https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal",
         "sku": "TT05003",
         "gtin13": "8436575624211",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -823,8 +821,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "additionalProperty": [ 
                   {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -834,8 +832,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",
@@ -858,7 +856,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "url": "https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal",
         "sku": "TT05005",
         "gtin13": "8436575624235",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -897,8 +895,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "additionalProperty": [ 
                   {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -908,8 +906,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",
@@ -932,7 +930,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "url": "https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal",
         "sku": "TT05004",
         "gtin13": "8436575624228",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -971,8 +969,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
         "additionalProperty": [ 
                   {
         "@type": "PropertyValue",
-        "name": "Producto listo al uso",
-        "value": "No diluir con agua."
+        "name": "Prodotto pronto all'uso",
+        "value": "Non diluire con acqua."
       },
       {
         "@type": "PropertyValue",
@@ -982,8 +980,8 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       
       {
         "@type": "PropertyValue",
-        "name": "Versatilidad de aplicación",
-        "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+        "name": "Versatilità di applicazione",
+        "value": "Può essere applicato con cazzuola, pennello, spazzola, spugna, rullo o pistola a spruzzo."
       },
 	{
       "@type": "PropertyValue",

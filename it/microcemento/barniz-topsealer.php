@@ -13,17 +13,17 @@
   <?php include("../../assets/includes/styles.php"); ?>
   <link rel="preload" href="../../assets/css/familia.css" as="style" />
   <link rel="stylesheet" href="../../assets/css/familia.css" />
-  <title>Barnices poliuretano, al agua y acrílicos |Topsealer</title>
+  <title>Rivestimenti poliuretanici, a base d'acqua e acrilici |Topsealer</title>
   <meta name="description"
-    content="Los barnices Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos barnices de poliuretano, al agua y acrílicos." />
+    content="Le vernici Topsealer offrono una protezione superiore contro l'abrasione, i graffi, le macchie e la luce del sole. Produciamo rivestimenti poliuretanici, a base d'acqua e acrilici." />
 
 
 
-  <meta property="og:title" content="Barnices poliuretano, al agua y acrílicos |Topsealer">
+  <meta property="og:title" content="Rivestimenti poliuretanici, a base d'acqua e acrilici |Topsealer">
   <meta property="og:site_name" content="Topciment">
   <meta property="og:url" content="https://www.topciment.com/es/microcemento/barniz-topsealer">
   <meta property="og:description"
-    content="Los barnices Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos barnices de poliuretano, al agua y acrílicos.">
+    content="Le vernici Topsealer offrono una protezione superiore contro l'abrasione, i graffi, le macchie e la luce del sole. Produciamo rivestimenti poliuretanici, a base d'acqua e acrilici.">
   <meta property="og:type" content="article">
   <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
   <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
@@ -62,7 +62,7 @@
                   <a href="#up" style="font-size:26px">Topsealer</a>
                 </li>
                 <li>
-                  <a href="#que-es-topsealer">¿Qué es Topsealer?</a>
+                  <a href="#que-es-topsealer">Cos'è Topsealer?</a>
                 </li>
                 <li>
                   <a href="#topsealer-one-coat">Topsealer WT One Coat</a>
@@ -93,31 +93,26 @@
             </div>
             <div class="content">
               <a id="que-es-topsealer" class="ancla"></a>
-              <h1 class="en2">Barnices poliuretano, al agua y acrílicos |Topsealer</h1>
+              <h1 class="en2">Rivestimenti poliuretanici, a base d'acqua e acrilici |Topsealer</h1>
 
               <div class="text-justify">
-                <p>
-                  Topsealer es la línea de selladores de Topciment diseñados para la protección de múltiples soportes
-                  como microcemento, parquet, madera, hormigón impreso o metales, entre otros.
+             <p>
+                Topsealer è la linea di sigillanti Topciment progettata per la protezione di multipli supporti come microcemento, parquet, legno, cemento stampato o metalli, tra molti altri.
 
-                </p>
-                <p>
-                  Disponemos de una gran variedad de barnices de poliuretano en función del material que se quiera
-                  proteger y del acabado que se busque lograr. Selladores de inmejorables resistencias mecánicas y
-                  químicas como a la abrasión, al agua, al rayado, a las manchas, a la luz solar y ultravioleta o a los
-                  productos de limpieza agresivos.
+             </p>  
+<p>
+  Abbiamo una grande varietà di vernici poliuretaniche a seconda del materiale da proteggere e della finitura da ottenere. Sigillanti con una resistenza meccanica e chimica imbattibile all'abrasione, all'acqua, ai graffi, alle macchie, alla luce solare e ultravioletta o ai prodotti di pulizia aggressivi.
 
-                </p>
-                <p>
-            Los barnices Topsealer se pueden aplicar tanto en interiores como exteriores y, además, son capaces de crear superficies antideslizantes e impermeables. Contamos con todo tipo de selladores: barnices de poliuretano al agua, barnices de poliuretano al disolvente, barnices bicomponentes 100% sólidos, barnices de poliuretano acrílicos e incluso barnices de poliuretano con pistola.
+</p>  
+<p>
+  Le vernici Topsealer possono essere applicate sia all'interno che all'esterno e sono anche in grado di creare superfici antiscivolo e impermeabili. Abbiamo tutti i tipi di sigillanti: vernici poliuretaniche a base d'acqua, vernici poliuretaniche a base di solventi, vernici bicomponente 100% solidi, vernici poliuretaniche acriliche e anche vernici poliuretaniche a spruzzo.
 
+</p>  
 
-                </p>
+<p>
+  Ecco la vasta gamma di sigillanti Topsealer.
 
-                <p>
-                  A continuación, te presentamos la amplia gama de selladores Topsealer.
-
-                </p>
+</p>  
               </div>
             </div>
           </div>
@@ -151,48 +146,42 @@
             <!-- descripcion -->
             <div class="col-md-6">
               <h2>
-                Barniz poliuretano al agua bicomponente
+                Vernice poliuretanica bicomponente a base d'acqua
 
               </h2>
-              <p>
-                Topsealer WT One Coat es un barniz poliuretano al agua bicomponente que se emplea para preservar y
-                proteger el microcemento.
+<p>
+  Topsealer WT One Coat è una vernice poliuretanica bicomponente a base d'acqua utilizzata per conservare e proteggere il microcemento.
 
-              </p>
-              <p>
-                Este barniz al agua que facilita la limpieza y mantenimiento del microcemento, presenta elevadas
-                resistencias al desgaste, a la abrasión y arañazos, a los productos químicos, a la suciedad y al
-                amarilleamiento.
+</p>  
+<p>
+  Questa vernice a base d'acqua che facilita la pulizia e la manutenzione del microcemento, ha un'alta resistenza all'usura, all'abrasione e ai graffi, agli agenti chimici, allo sporco e all'ingiallimento.
 
-              </p>
-              <p>
-                El sellador poliuretano Topsealer WT One Coat es apto para aplicar en múltiples soportes: metales,
-                pavimentos de hormigón impreso y cemento, parquet y madera.
+</p>  
+<p>
+  Il sigillante poliuretanico Topsealer WT One Coat è adatto all'applicazione su diversi supporti: metalli, pavimenti in cemento e cemento stampato, parquet e legno.
 
-              </p>
-              <p>
-                En cuanto a los acabados que ofrece este barniz de poliuretano, encontramos barniz mate o supermate;
-                barniz satinado y barniz brillante.
+</p>  
+<p>
+  Per quanto riguarda le finiture offerte da questa vernice poliuretanica, troviamo la vernice opaca o super opaca; la vernice satinata e la vernice lucida.
 
-              </p>
+</p>  
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTonecoat-ES.pdf"
                 target="_blank"><span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT One Coat</strong>
+                </span><strong>Scarica qui la scheda tecnica di Topsealer WT One Coat</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
+                  <strong>Solidi</strong>
                   <p>30 ±2% Comp.A <br>
                     100% Comp.B
                   </p>
@@ -204,8 +193,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>20 - 30" a 25ºC (Copa Ford 4mm) Comp.A
+                  <strong>Viscosità</strong>
+                  <p>20 - 30" a 25ºC (Ford Cup 4mm) Comp.A
                   </p>
                 </div>
               </div>
@@ -218,7 +207,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad
+                  <strong>Densità
                   </strong>
                   <p> 1,02 ±0,01 g/ml Comp.A <br>
                     a 25ºC 1,045-1,055 g/mL Comp.B</p>
@@ -232,7 +221,7 @@
                 <div class="  col-md-9">
                   <strong>PH
                   </strong>
-                  <p>entre 7-9 Comp.A
+                  <p>Tra 7-9 Comp.A
                   </p>
 
                 </div>
@@ -241,14 +230,13 @@
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> TopSealer WT One Coat(2 manos) - 0,15 L/m²
+            Performance</p>
+          <p><span> TopSealer WT One Coat(2 mani) - 0,15 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua bicomponente Topsealer WT One Coat se presenta en envases de 5 L (Componente
-            A) + 1 L (Componente B)</p>
+            Presentazione</p>
+          <p>La vernice poliuretanica bicomponente a base d'acqua Topsealer WT One Coat è disponibile in contenitori da 5 L (componente A) + 1 L (componente B).</p>
 
         </div>
       </div>
@@ -279,43 +267,38 @@
             <!-- descripcion -->
             <div class="col-md-6">
               <h2>
-                Barniz poliuretano al agua antideslizante
+                Vernice antiscivolo poliuretanica a base d'acqua
 
               </h2>
-              <p>
-                Topsealer WT Anti Slip es un barniz poliuretano al agua antideslizante y con acabado mate cuya función
-                principal es la de convertir las superficies en antideslizantes.
+<p>
+  Topsealer WT Anti Slip è una vernice poliuretanica antiscivolo a base d'acqua con una finitura opaca la cui funzione principale è quella di rendere le superfici antiscivolo.
 
-              </p>
-              <p>
-                Este sellador poliuretano bicomponente es especialmente recomendable para proteger el microcemento,
-                aunque puede utilizarse también sobre pavimentos de hormigón y para la renovación de parquets.
+</p>  
+<p>
+  Questo sigillante poliuretanico bicomponente è particolarmente raccomandato per proteggere il microcemento, anche se può essere utilizzato anche su pavimenti in calcestruzzo e per la ristrutturazione di parquets.
 
-              </p>
-              <p>
-                Gracias a sus buenas resistencias químicas y mecánicas, el barniz al agua Topsealer WT Anti Slip se
-                puede aplicar en márgenes de piscinas, cuartos de baño y cocinas, suelos y pasillos de áreas comunes y
-                rampas y pavimentos de hormigón.
+</p>  
+<p>
+  Grazie alla sua buona resistenza chimica e meccanica, la vernice all'acqua Topsealer WT Anti Slip può essere applicata su bordi di piscine, bagni e cucine, pavimenti e corridoi di aree comuni e rampe e pavimentazioni in cemento.
 
-              </p>
+</p>  
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTantiSlip-ES.pdf"
                 target="_blank"><span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT Anti Slip</strong>
+                </span><strong>Scarica qui la scheda tecnica di Topsealer WT Anti Slip</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades  -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
+                  <strong>Solidi</strong>
                   <p>Comp A: 34 ±2% <br>
                     Comp B: 100%</p>
                 </div>
@@ -326,8 +309,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>Comp. A: 14-16s a 25ºC (Copa Ford 4) </p>
+                  <strong>Viscosità</strong>
+                  <p>Comp. A: 14-16s a 25ºC (Ford Cup 4) </p>
                 </div>
               </div>
             </div>
@@ -339,7 +322,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 25ºC
+                  <strong>Densità a 25ºC
                   </strong>
                   <p>Comp. A 1,03 ±0,01 g/ml <br>
                     Comp. B a 25ºC: 1,045 - 1,055 g/mL
@@ -362,14 +345,14 @@
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span>Topsealer WT Anti Slip (2 manos) - 0,12 L/m²
+            Performance</p>
+          <p><span>Topsealer WT Anti Slip (2 mani) - 0,12 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua antideslizante Topsealer WT Anti Slip se presenta en garrafas de 5 L
-            (Componente A) + botella de 1 L (Componente B)
+            Presentazione</p>
+          <p>La vernice poliuretanica all'acqua Topsealer WT Anti Slip è disponibile in bottiglie da 5 L (componente A) + 1 L (componente B).
+
           </p>
         </div>
       </div>
@@ -399,39 +382,36 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua secado rápido
+          <h2>
+             Vernice poliuretanica a base d'acqua Quick Dry
 
-              </h2>
-              <p>
-                Topsealer WT Quick Dry es un barniz de poliuretano al agua de dos componentes e idóneo para la
-                protección del microcemento.
+          </h2>
+<p>
+  Topsealer WT Quick Dry è una vernice poliuretanica bicomponente a base d'acqua adatta alla protezione del microcemento.
 
-              </p>
-              <p>
-                Una de las características principales de este barniz de poliuretano al agua es que tiene un secado muy
-                rápido. Además, este sellador de poliuretano presenta buenas resistencias a la abrasión y a los agentes
-                químicos.
+</p>  
+<p>
+  Una delle caratteristiche principali di questa vernice poliuretanica a base d'acqua è che si asciuga molto velocemente. Inoltre, questo sigillante poliuretanico ha una buona resistenza all'abrasione e agli agenti chimici.
 
+</p>  
 
               </p> <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTquickdry-ES.pdf"
                 target="_blank"><span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT Quick Dry</strong>
+                </span><strong>Scarica qui la scheda tecnica di Topsealer WT Quick Dry</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
+                  <strong>Solidi</strong>
                   <p>Comp A: 22% <br>
                     Comp A: 100 %</p>
                 </div>
@@ -443,7 +423,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 20º</strong>
+                  <strong>Densità a 20º</strong>
                   <p>1,028 g/mL Comp.A <br>
                     1,045-1,055 g/mL Comp.B
 
@@ -458,9 +438,9 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad
+                  <strong>Viscosità
                   </strong>
-                  <p>14 - 15s (Copa Ford 4)
+                  <p>14 - 15s (Ford Cup 4)
                   </p>
 
                 </div>
@@ -473,21 +453,21 @@
                 <div class="  col-md-9">
                   <strong>PH
                   </strong>
-                  <p>Entre 7 y 9</p>
+                  <p>Tra 7 e 9</p>
                 </div>
               </div>
             </div>
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span>Topsealer WT Quick Dry (2 manos) - 0,12 L/m²
+            Performance</p>
+          <p><span>Topsealer WT Quick Dry (2 mani) - 0,12 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua de secado rápido Topsealer WT Quick Dry se presenta en garrafas de 5 L
-            (Componente A) + botella de 0,5 L (Componente B)
+            Presentazione</p>
+          <p>La vernice poliuretanica all'acqua Topsealer WT Quick Dry è disponibile in bottiglie da 5 L (componente A) + 0,5 L (componente B).
+
           </p>
         </div>
       </div>
@@ -517,68 +497,65 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Poliurea en frío bicomponente de curado rápido e impermeable
+             <h2>Poliurea a freddo bicomponente, a indurimento rapido, impermeabile</h2>
 
-              </h2>
-              <p>
-                Topsealer Pro + es una poliurea en frío bicomponente de curado rápido e impermeable que es idóneo para
-                la protección de superficies revestidas con microcemento en interiores. Este barniz bicomponente 100%
-                sólidos no requiere de imprimación, de hecho está diseñado para aplicarse en una sola capa ya que tiene
-                la capacidad de penetrar completamente en los poros garanizando un sellado total.
+<p>
+  Topsealer Pro + è una poliurea a freddo bicomponente con indurimento rapido, impermeabile, ideale per la protezione di superfici interne in microcemento e calcestruzzo. Questa vernice bicomponente solida al 100% non richiede una mano di fondo, infatti è progettata per essere applicata in una sola mano poiché ha la capacità di penetrare completamente nei pori assicurando una tenuta totale.
 
-              </p>
-              <p>
-                Este exclusivo barniz de alto brillo aporta un extra de dureza al microcemento además de impermeabilizar
-                cualquier tipo de soporte. Contamos con dos tipos de poliurea en frío y de curado rápido Topsealer Pro +
-                en función de la velocidad de aplicación y tiempo de secado: Fast y Slow.
+</p>  
+<p>
+  Questa vernice esclusiva ad alta brillantezza conferisce una durezza extra al microcemento oltre a impermeabilizzare qualsiasi tipo di supporto. Abbiamo due tipi di poliurea fredda bicomponente Topsealer Pro + a seconda dei tempi di indurimento: Veloce e Lento.
 
-              </p>
+</p>  
 
 
             </div>
           </div>
-           <h3>Poliurea en frío de curado rápido e impermeable Topsealer Pro + Fast</h3>
+        <h3>polimerizzazione e impermeabilizzazione rapida della poliurea a freddo Topsealer Pro + Fast</h3>
 
 <p>
-  La poliurea en frío bicomponente Topsealer Pro + Fast intensifica y realza el color de los soportes de mirocemento y hormigón. Su aplicación se realiza con "poro 0" o llana y garantiza unas excelentes resistencias al agua, al desgaste, a ciertos productos químicos y a la luz UV.
+  La poliurea a freddo bicomponente Topsealer Pro + Fast intensifica ed esalta il colore dei supporti in microcemento e calcestruzzo. Si applica con un rullo o una spatola a poro 0 e garantisce un'eccellente resistenza all'acqua, all'usura, a certi prodotti chimici e ai raggi UV.
 
 </p>  
 <p>
-  Este barniz bicomponente 100% sólidos y que no necesita imprimación presenta una gran transparencia además de impermeabilizar el soporte, impidiendo así su transpirabilidad al vapor de agua. 
-     
-</p>                 
-</p>
-<h3>Poliurea en frío de curado rápido e impermeable Topsealer Pro + Slow</h3>
-
-<p>
-  El barniz bicomponente 100% sólidos Topsealer Pro + Slow no necesita imprimación. Una poliurea en frío bicomponente con la capacidad de impermeabilizar y proteger cualquier soporte de microcemento en interiores además de pavimentos de hormigón.
+  Questa vernice bicomponente 100% solida, che non richiede una mano di fondo, è altamente trasparente e impermeabilizza anche il supporto, impedendo così la sua traspirazione al vapore acqueo.
 
 </p>  
 <p>
-  Al ser un barniz muy brillante, esta poliurea en frío realza el brillo de la superficie además de su dureza. Se aplica en una única mano tanto con rodillo "poro 0" o llana. Posee muy buenas resistencias al desgaste, a la luz UV (no amarillea) y a algunos productos químicos.
+  Scarica qui la scheda tecnica di Topsealer Pro + Fast
 
 </p>  
-<p>Del mismo modo que ocurre con la poliurea en frío Topsealer Pro + Fast, este barniz</p>
-<p>bicomponente 100% sólidos impermeabiliza el microcemento frente al agua corriente evitando la transpirabilidad al vapor de agua. </p>
+<h3>Polimerizzazione rapida e impermeabile della poliurea a freddo Topsealer Pro + Slow</h3>
+
+<p>
+  La vernice bicomponente Topsealer Pro + Slow, 100% solidi, non richiede primer. Una poliurea a freddo bicomponente con la capacità di impermeabilizzare e proteggere qualsiasi supporto interno in microcemento così come i pavimenti in cemento.
+
+</p>  
+<p>
+  Essendo una vernice molto brillante, questa poliurea a freddo esalta la luminosità della superficie così come la sua durezza. Si applica in una sola mano con un rullo o una spatola a "poro 0". Ha un'ottima resistenza all'usura, ai raggi UV (non ingiallisce) e ad alcuni prodotti chimici.
+
+</p>  
+<p>
+  Come per la poliurea a freddo Topsealer Pro + Fast, questa vernice bicomponente 100% solidi impermeabilizza il microcemento contro l'acqua corrente e impedisce la traspirazione del vapore acqueo.
+
+</p>  
 <!-- <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Slow_ES.pdf" target="_blank"> <span class="fa-stack"> <i class="fas fa-file-pdf fa-stack-1x"></i>
-                              Descarga aquí la ficha técnica de Topsealer Pro + Slow<strong></strong>
+                              Scarica qui la scheda tecnica di Topsealer Pro + Slow<strong></strong>
                             </a>   -->  
                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Fast_ES.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica de Topsealer Pro + Fast</strong>
+                                </span><strong>Scarica qui la scheda tecnica di Topsealer Pro + Fast</strong>
                             </a>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Alto brillo</strong>
+                  <strong>Alta brillantezza</strong>
                 </div>
               </div>
             </div>
@@ -587,9 +564,9 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Secado rápido</strong>
-                  <p>2-3 horas Topsealer Pro + Fast <br>
-                    8 horas Topsealer Pro + Slow
+                  <strong>Asciugatura rapida</strong>
+                  <p>2-3 ore Topsealer Pro + Fast <br>
+                    8 ore Topsealer Pro + Slow
                   </p>
                 </div>
               </div>
@@ -601,9 +578,9 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="col-md-9">
-                  <strong>Impermeables
+                  <strong>Impermeabile
                   </strong>
-                  <p>Frente al agua corriente
+                  <p>Contro l'acqua corrente
                   </p>
                 </div>
               </div>
@@ -614,9 +591,9 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_exterior_interior.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="col-md-9">
-                  <strong>Tiempo de aplicación
+                  <strong>Tempo di applicazione
                   </strong>
-                  <p>15 minutos Topsealer Pro + Fast <br> 25-30 minutos Topsealer Pro + Slow
+                  <p>15 minuti Topsealer Pro + Fast <br> 25-30 minuti Topsealer Pro + Slow
                   </p>
                 </div>
               </div>
@@ -624,13 +601,14 @@
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p>El rendimiento de la poliurea en frío Topsealer Pro + Fast es a 1 mano de 60-100 g / m2</p>
-          <!-- Presentación -->
+            Performance</p>
+          <p>La resa dei poliuretani a freddo Topsealer Pro + Fast e Topsealer Pro + Slow è di 60-100 g / m2 in 1 mano.
+</p>
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz bicomponente 100% sólidos e impermeable Topsealer Pro + Fast se presenta en un pack bicomponente
-            de 0,64 kg (componente A) y 0,8 kg (componente B)
+            Presentazione</p>
+          <p>Le vernici bicomponenti Topsealer Pro + Fast e Topsealer Pro + Slow, 100% solide e impermeabili, sono disponibili in una confezione di 0,64 kg (componente B) e 0,8 kg (componente A).
+
           </p>
       
         </div>
@@ -663,46 +641,41 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano acrílico bicomponente al disolvente
+             <h2>
+                Vernice poliuretanica acrilica bicomponente a base di solventi
 
-              </h2>
-              <p>
-                Topsealer DSV es un barniz poliuretano acrílico bicomponente (A + B) al disolvente. Este sellador
-                protege las superficies recubiertas con microcemento en interiores y exteriores.
+             </h2>
+<p>
+  Topsealer DSV è una vernice poliuretanica acrilica a due componenti (A + B) a base di solvente. Questo sigillante protegge le superfici rivestite di microcemento in interni ed esterni.
 
-              </p>
-              <p>
-                Este sellador poliuretano de dos componentes confiere buenas resistencias a la abrasión, al rayado, al
-                agua, a la luz ultravioleta y a los agentes de limpieza domésticos.
+</p>  
+<p>
+  Questo sigillante poliuretanico bicomponente conferisce una buona resistenza all'abrasione, ai graffi, all'acqua, alla luce ultravioletta e ai detergenti domestici.
 
-              </p>
-              <p>
-                Además, es un barniz acrílico que realza considerablemente el color de los revestimientos de
-                microcemento, hormigón, madera o parquet. Los tres acabados de Topsealer DSV son: mate, brillo y
-                satinado.
+</p>  
+<p>
+  Inoltre, è una vernice acrilica che migliora notevolmente il colore dei rivestimenti in microcemento, cemento, legno o parquet. Le tre finiture di Topsealer DSV sono: opaca, lucida e satinata.
 
-              </p>
+</p>  
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank">
                 <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer DSV</strong>
+                </span><strong>Scarica qui la scheda tecnica di Topsealer DSV</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Dureza</strong>
-                  <p>14 días de curado:
-                    120 segundos</p>
+                  <strong>Durezza</strong>
+                  <p>14 giorni tempo di indurimento:
+                   120 secondi</p>
                 </div>
               </div>
             </div>
@@ -712,8 +685,8 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
-                  <p>20 s (Copa Ford 4)</p>
+                  <strong>Viscosità </strong>
+                  <p>20 s (Ford Cup 4)</p>
                 </div>
               </div>
             </div>
@@ -724,7 +697,7 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos
+                  <strong>Solidi
                   </strong>
                   <p>Comp.A 40%
                     Comp.B 39% </p>
@@ -734,17 +707,17 @@
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento
+            Rendimento
           </p>
           <p><span> Microfino - 0,17 L/m2<br>
               Microdeck - 0,20 L/m2<br>
               Microstone - 0,25 L/m2</span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación
+             Presentazione
           </p>
-          <p>El barniz poliuretano acrílico bicomponente al disolvente Topsealer DSV se presenta en un envase de 4 L
-            (componente A) + dos envases de 1 L cada uno (endurecedor componente B)
+          <p>La vernice poliuretanica acrilica bicomponente a base solvente Topsealer DSV si presenta in un contenitore da 4 L (componente A) + due contenitori da 1 L ciascuno (induritore componente B).
+
           </p>
         </div>
       </div>
@@ -774,45 +747,42 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz acrílico al agua
+            <h2>
+               Vernice acrilica a base d'acqua
 
-              </h2>
-              <p>
-                Presealer es un sellador formulado a base de copolímero acrílico en emulsión e inalterable a la humedad.
-                Por ello, es ideal para proteger "Atlanttic", el microcemento en piscinas.
+            </h2>
+<p>
+  Presealer è un sigillante formulato a base di copolimero acrilico in emulsione e inalterabile all'umidità. È quindi ideale per proteggere "Atlanttic", il microcemento delle piscine.
 
-              </p>
-              <p>
-                Un barniz acrílico al agua que puede utilizarse como sistema de imprimación, ya que es capaz de actuar
-                como puente de unión entre el microcemento y el acabado.
+</p>  
+<p>
+  Una vernice acrilica a base d'acqua che può essere utilizzata come sistema di fondo, in quanto è in grado di fare da ponte di adesione tra il microcemento e la finitura.
 
-              </p>
-              <p>
-                Hay que aplicar dos capas de Presealer antes del Topsealer WT One Coat y Topsealer WT Anti Slip.
+</p>  
+<p>
+  Due mani di Presealer devono essere applicate prima di Topsealer WT One Coat e Topsealer WT Anti Slip.
 
-              </p>
+</p>  
 
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/Presealer-ES.pdf" target="_blank"> <span
                   class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de
+                </span><strong>Scarica qui la scheda tecnica di
                   Presealer</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Secado al tacto</strong>
-                  <p>20 minutos</p>
+                  <strong>Asciutto al tatto</strong>
+                  <p>20 minuti</p>
                 </div>
               </div>
             </div>
@@ -821,8 +791,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>10 - 11s (Copa Ford 4)</p>
+                  <strong>Viscosità</strong>
+                  <p>10 - 11s (Ford Cup 4)</p>
                 </div>
               </div>
             </div>
@@ -834,7 +804,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 20ºC</strong>
+                  <strong>Densità a 20ºC</strong>
                   <p>1 ± 0,01 g/mL</p>
                 </div>
               </div>
@@ -845,21 +815,21 @@
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
                   <strong>PH</strong>
-                  <p>entre 7,5 y 9</p>
+                  <p>Tra 7,5 e 9</p>
                 </div>
               </div>
             </div>
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Presealer (2 manos) - 0,12 L/m²
+            Performance</p>
+          <p><span> Presealer (2 mani) - 0,12 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación
+             Presentazione
           </p>
-          <p>El barniz acrílico Presealer se presenta en garrafas de 5L.</p>
+          <p>La vernice acrilica a base d'acqua Presealer è disponibile in barattoli da 5L.</p>
         </div>
       </div>
     </section>
@@ -888,45 +858,40 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua monocomponente
+            <h2>
+               Vernice poliuretanica monocomponente a base d'acqua
 
-              </h2>
-              <p>
-                Topsealer WT All in One es un barniz poliuretano al agua monocomponente desarrollado especialmente para
-                la protección de nuestro microcemento listo al uso "Efectto". Aunque también puede aplicarse sobre
-                microcemento epoxi, parquet o madera.
+            </h2>
+<p>
+  Topsealer WT All in One è una vernice poliuretanica monocomponente a base d'acqua sviluppata appositamente per la protezione del nostro microcemento pronto all'uso "Efectto". Può anche essere applicato su microcemento epossidico, parquet o legno.
 
-              </p>
-              <p>
-                Este sellador de poliuretano realza considerablemente el color del microcemento listo al uso y
-                proporciona elevadas resistencias mecánicas tanto al desgaste por abrasión como al rayado.
+</p>  
+<p>
+  Questo sigillante poliuretanico migliora notevolmente il colore del microcemento pronto all'uso e fornisce un'elevata resistenza meccanica all'usura per abrasione e graffi.
 
-              </p>
-              <p>
-                Presenta buenas resistencias químicas, siendo además impermeable frente al agua e inalterable a la luz
-                ultravioleta. Disponible en mate y satinado.
+</p>  
+<p>
+  Ha una buona resistenza chimica, essendo impermeabile all'acqua e inalterabile alla luce ultravioletta. Disponibile in versione opaca e satinata.
 
-              </p>
+</p>  
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerAll_In_One_ES.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de
+                </span><strong>Scarica qui la scheda tecnica di
                   Topsealer WT All in One</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos </strong>
+                  <strong>Solidi </strong>
                   <p>22 ± 2%</p>
                 </div>
               </div>
@@ -936,7 +901,7 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza_shore.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Dureza Shore D </strong>
+                  <strong>Durezza Shore D </strong>
                   <p>70 ± 3</p>
                 </div>
               </div>
@@ -949,7 +914,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad</strong>
+                  <strong>Densità</strong>
                   <p>1,03 ± 0,01g/cm3 </p>
                 </div>
               </div>
@@ -959,8 +924,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
-                  <p> 50 ± 10 s (Copa Ford 4mm)</p>
+                  <strong>Viscosità </strong>
+                  <p> 50 ± 10 s (Ford Cup 4mm)</p>
                 </div>
               </div>
             </div>
@@ -971,7 +936,7 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Secado </strong>
+                  <strong>Asciutto al tatto </strong>
                   <p>1-2h</p>
                 </div>
               </div>
@@ -980,15 +945,16 @@
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Topsealer WT All in One - 0,2L/m2 (para 3 manos)
+            Performance</p>
+          <p><span> Topsealer WT All in One - 0,2L/m2 (per 3 mani)
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación
+             Presentazione
           </p>
           <p>
-            El barniz poliuretano al agua monocomponente Topsealer WT All in One se presenta en envases de 2 y 5 litros.
+           La vernice poliuretanica monocomponente all'acqua Topsealer WT All in One è disponibile in confezioni da 2 e 5 litri.
+
           </p>
         </div>
       </div>
@@ -1021,47 +987,40 @@
             <!-- descripcion  -->
             <div class="col-md-6">
               <h2>
-                Barniz poliuretano al agua con pistola
+                Vernice spray poliuretanica a base d'acqua
 
               </h2>
-              <p>
-                Topsealer WT Spray es un barniz al agua con pistola diseñado para proteger las superficies recubiertas
-                con microcemento u hormigón. Además de aplicarse con pistola a diferencia del resto de selladores de
-                poliuretano, destaca por su extraordinaria durezca y por tener resistencias químicas y mecánicas
-                mejoradas.
+<p>
+  Topsealer WT Spray è una vernice spray a base d'acqua progettata per proteggere le superfici ricoperte di microcemento o cemento. Oltre ad essere applicato con una pistola a spruzzo, a differenza di altri sigillanti poliuretanici, si distingue per la sua straordinaria durezza e per avere una migliore resistenza chimica e meccanica.
 
-              </p>
-              <p>
-                Este barniz de poliuretano bicomponente es muy recomendable para cocinas de microcemento y baños de
-                microcemento. Aguanta perfectamente a la lejía, detergentes, manchas de vinagre, aceite, vino, grasas,
-                etc.
+</p>  
+<p>
+  Questa vernice poliuretanica bicomponente è altamente raccomandata per cucine e bagni in microcemento. È perfettamente resistente a candeggina, detergenti, macchie di aceto, olio, vino, grasso, ecc.
 
-              </p>
-              <p>
-                Topsealer WT Spray es un barniz al agua con pistola que está disponible en brillo y que presenta buena
-                resistencia a la abrasión, a los arañazos, a los agentes químicos, al agua, a los álcalis y que no
-                amarillea bajo la acción de la luz solar.
+</p>  
+<p>
+  Topsealer WT Spray è una vernice spray a base d'acqua disponibile in versione lucida e con una buona resistenza all'abrasione, ai graffi, agli agenti chimici, all'acqua, agli alcali e non ingiallisce sotto l'azione della luce solare.
 
-              </p>
+</p>
+
               <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWT_Spray_ES.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de
+                </span><strong>Scarica qui la scheda tecnica di
                   Topsealer Spray</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+           Dati tecnici</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos </strong>
+                  <strong>Solidi </strong>
                   <p>32 ±2% Comp. A <br>
                     100% Comp. B</p>
                 </div>
@@ -1085,7 +1044,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad</strong>
+                  <strong>Densità</strong>
                   <p>1,05 ±0,01 g/ml Comp.A <br>
                     1,05 ±0,01 g/ml Comp.B </p>
                 </div>
@@ -1096,23 +1055,23 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
-                  <p> 60” ±5 a 25ºC Comp.A (Copa Ford 4)</p>
+                  <strong>Viscosità </strong>
+                  <p> 60” ±5 a 25ºC Comp.A (Ford Cup 4)</p>
                 </div>
               </div>
             </div>
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Topsealer WT Spray (1 mano) 1 mano: 140 ±10 g/m2
+            Performance</p>
+          <p><span> Topsealer WT Spray (1 mani): 140 ±10 g/m2
             </span></p>
-          <!-- Presentación -->
+          <!--  Presentazione -->
           <p class="en3">
-            Presentación
+             Presentazione
           </p>
-          <p>El barniz poliuretano al agua con pistola Topsealer WT Spray se presenta en garrafas de 3 L (Componente A)
-            + botella de 1 L (Componente B)
+          <p>La vernice poliuretanica all'acqua Topsealer WT Spray è disponibile in bottiglie da 3 L (componente A) + 1 L (componente B).
+
           </p>
         </div>
       </div>
@@ -1201,7 +1160,7 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+          "value": "20 - 30min a 25ºC (Ford Cup 4mm) Comp.A"
         },
         {
           "@type": "PropertyValue",
@@ -1212,7 +1171,7 @@
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(2 manos) - 0,15 L/m²"
+          "value": "(2 mani) - 0,15 L/m²"
         }
       ],
       "potentialAction": {
@@ -1293,7 +1252,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+                "value": "20 - 30min a 25ºC (Ford Cup 4mm) Comp.A"
               },
               {
                 "@type": "PropertyValue",
@@ -1304,7 +1263,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,15 L/m²"
+                "value": "(2 mani) - 0,15 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1360,7 +1319,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              "value": "20 - 30min a 25ºC (Ford Cup 4mm) Comp.A"
             },
             {
               "@type": "PropertyValue",
@@ -1371,7 +1330,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,15 L/m²"
+              "value": "(2 mani) - 0,15 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1449,7 +1408,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+                "value": "20 - 30min a 25ºC (Ford Cup 4mm) Comp.A"
               },
               {
                 "@type": "PropertyValue",
@@ -1460,7 +1419,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,15 L/m²"
+                "value": "(2 mani) - 0,15 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1516,7 +1475,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              "value": "20 - 30min a 25ºC (Ford Cup 4mm) Comp.A"
             },
             {
               "@type": "PropertyValue",
@@ -1527,7 +1486,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,15 L/m²"
+              "value": "(2 mani) - 0,15 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1598,7 +1557,7 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "25-28S (Copa Ford 4)"
+          "value": "25-28S (Ford Cup 4)"
         },
         {
           "@type": "PropertyValue",
@@ -1609,7 +1568,7 @@
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
+          "value": "(2 mani) - 0,12 L/m²"
         }
       ],
       "potentialAction": {
@@ -1690,7 +1649,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "25-28S (Copa Ford 4)"
+                "value": "25-28S (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -1701,7 +1660,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "value": "(2 mani) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1757,7 +1716,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "25-28S (Copa Ford 4)"
+              "value": "25-28S (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -1768,7 +1727,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "value": "(2 mani) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1846,7 +1805,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "25-28S (Copa Ford 4)"
+                "value": "25-28S (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -1857,7 +1816,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "value": "(2 mani) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1913,7 +1872,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "25-28S (Copa Ford 4)"
+              "value": "25-28S (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -1924,7 +1883,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "value": "(2 mani) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1995,7 +1954,7 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "14 - 15s (Copa Ford 4)"
+          "value": "14 - 15s (Ford Cup 4)"
         },
         {
           "@type": "PropertyValue",
@@ -2006,7 +1965,7 @@
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
+          "value": "(2 mani) - 0,12 L/m²"
         }
       ],
       "potentialAction": {
@@ -2087,7 +2046,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "14 - 15s (Copa Ford 4)"
+                "value": "14 - 15s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -2098,7 +2057,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "value": "(2 mani) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -2154,7 +2113,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "14 - 15s (Copa Ford 4)"
+              "value": "14 - 15s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -2165,7 +2124,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "value": "(2 mani) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -2243,7 +2202,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "14 - 15s (Copa Ford 4)"
+                "value": "14 - 15s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -2254,7 +2213,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "value": "(2 mani) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -2310,7 +2269,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "14 - 15s (Copa Ford 4)"
+              "value": "14 - 15s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -2321,7 +2280,7 @@
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "value": "(2 mani) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -2380,29 +2339,29 @@
       "variesBy": "Dos componentes",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Alto brillo",
+          "name": "Alta brillantezza",
           "value": "Gracias a su alto contenido en sólidos"
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad ",
-          "value": "35-45s (Copa Ford 4)"
+          "name": "Viscosità ",
+          "value": "35-45s (Ford Cup 4)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Tiempo de aplicación",
-          "value": "20 minutos (Fast) - 30 minutos (Slow)"
+          "name": "Tempo di applicazione",
+          "value": "20 minuti (Fast) - 30 minuti (Slow)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Secado rápido",
-          "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
+          "name": "Asciugatura rapida",
+          "value": "Fast:2,5 oreaproximadamente - Slow: 8 oreaproximadamente"
         },
 
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(1 mano) -  150 g/m²"
+          "value": "(1 mani) -  150 g/m²"
         }
       ],
       "potentialAction": {
@@ -2470,29 +2429,29 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Alto brillo",
+                "name": "Alta brillantezza",
                 "value": "Gracias a su alto contenido en sólidos"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad ",
-                "value": "35-45s (Copa Ford 4)"
+                "name": "Viscosità ",
+                "value": "35-45s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Tiempo de aplicación",
-                "value": "20 minutos (Fast) - 30 minutos (Slow)"
+                "name": "Tempo di applicazione",
+                "value": "20 minuti (Fast) - 30 minuti (Slow)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Secado rápido",
-                "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
+                "name": "Asciugatura rapida",
+                "value": "Fast:2,5 oreaproximadamente - Slow: 8 oreaproximadamente"
               },
 
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(1 mano) -  150 g/m²"
+                "value": "(1 mani) -  150 g/m²"
               }
             ],
             "aggregateRating": {
@@ -2537,29 +2496,29 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Alto brillo",
+              "name": "Alta brillantezza",
               "value": "Gracias a su alto contenido en sólidos"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad ",
-              "value": "35-45s (Copa Ford 4)"
+              "name": "Viscosità ",
+              "value": "35-45s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Tiempo de aplicación",
-              "value": "20 minutos (Fast) - 30 minutos (Slow)"
+              "name": "Tempo di applicazione",
+              "value": "20 minuti (Fast) - 30 minuti (Slow)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Secado rápido",
-              "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
+              "name": "Asciugatura rapida",
+              "value": "Fast:2,5 oreaproximadamente - Slow: 8 oreaproximadamente"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(1 mano) -  150 g/m²"
+              "value": "(1 mani) -  150 g/m²"
             }
           ],
           "aggregateRating": {
@@ -2624,29 +2583,29 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Alto brillo",
+                "name": "Alta brillantezza",
                 "value": "Gracias a su alto contenido en sólidos"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad ",
-                "value": "35-45s (Copa Ford 4)"
+                "name": "Viscosità ",
+                "value": "35-45s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Tiempo de aplicación",
-                "value": "20 minutos (Fast) - 30 minutos (Slow)"
+                "name": "Tempo di applicazione",
+                "value": "20 minuti (Fast) - 30 minuti (Slow)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Secado rápido",
-                "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
+                "name": "Asciugatura rapida",
+                "value": "Fast:2,5 oreaproximadamente - Slow: 8 oreaproximadamente"
               },
 
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(1 mano) -  150 g/m²"
+                "value": "(1 mani) -  150 g/m²"
               }
             ],
             "aggregateRating": {
@@ -2691,29 +2650,29 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Alto brillo",
+              "name": "Alta brillantezza",
               "value": "Gracias a su alto contenido en sólidos"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad ",
-              "value": "35-45s (Copa Ford 4)"
+              "name": "Viscosità ",
+              "value": "35-45s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Tiempo de aplicación",
-              "value": "20 minutos (Fast) - 30 minutos (Slow)"
+              "name": "Tempo di applicazione",
+              "value": "20 minuti (Fast) - 30 minuti (Slow)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Secado rápido",
-              "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
+              "name": "Asciugatura rapida",
+              "value": "Fast:2,5 oreaproximadamente - Slow: 8 oreaproximadamente"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(1 mano) -  150 g/m²"
+              "value": "(1 mani) -  150 g/m²"
             }
           ],
           "aggregateRating": {
@@ -2783,7 +2742,7 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "20 s (Copa Ford 4)"
+          "value": "20 s (Ford Cup 4)"
         },
         {
           "@type": "PropertyValue",
@@ -2866,7 +2825,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "20 s (Copa Ford 4)"
+                "value": "20 s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -2928,7 +2887,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "20 s (Copa Ford 4)"
+              "value": "20 s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -3009,7 +2968,7 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "20 s (Copa Ford 4)"
+                "value": "20 s (Ford Cup 4)"
               },
               {
                 "@type": "PropertyValue",
@@ -3070,7 +3029,7 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "20 s (Copa Ford 4)"
+              "value": "20 s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
@@ -3135,8 +3094,8 @@
       "variesBy": "size",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Secado al tacto",
-          "value": "20 minutos"
+          "name": "Asciutto al tatto",
+          "value": "20 minuti"
         },
         {
           "@type": "PropertyValue",
@@ -3146,17 +3105,17 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "10 - 11s (Copa Ford 4)"
+          "value": "10 - 11s (Ford Cup 4)"
         },
         {
           "@type": "PropertyValue",
           "name": "PH",
-          "value": "Entre 7,5 y 9"
+          "value": "Entre 7,5 e 9"
         },
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
+          "value": "(2 mani) - 0,12 L/m²"
         }
       ],
       "potentialAction": {
@@ -3214,8 +3173,8 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Secado al tacto",
-              "value": "20 minutos"
+              "name": "Asciutto al tatto",
+              "value": "20 minuti"
             },
             {
               "@type": "PropertyValue",
@@ -3225,17 +3184,17 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "10 - 11s (Copa Ford 4)"
+              "value": "10 - 11s (Ford Cup 4)"
             },
             {
               "@type": "PropertyValue",
               "name": "PH",
-              "value": "Entre 7,5 y 9"
+              "value": "Entre 7,5 e 9"
             },
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "value": "(2 mani) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -3309,18 +3268,18 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Dureza Shore D",
+          "name": "Durezza Shore D",
           "value": "70 ± 3"
         }, {
           "@type": "PropertyValue",
-          "name": "Dureza Shore D",
+          "name": "Durezza Shore D",
           "value": "70 ± 3"
         },
 
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(3 manos) - 0,2L/m2"
+          "value": "(3mani) - 0,2L/m2"
         }
       ],
       "potentialAction": {
@@ -3393,18 +3352,18 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
+              "name": "Durezza Shore D",
               "value": "70 ± 3"
             }, {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
+              "name": "Durezza Shore D",
               "value": "70 ± 3"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(3 manos) - 0,2L/m2"
+              "value": "(3mani) - 0,2L/m2"
             }
           ],
           "aggregateRating": {
@@ -3474,18 +3433,18 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
+              "name": "Durezza Shore D",
               "value": "70 ± 3"
             }, {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
+              "name": "Durezza Shore D",
               "value": "70 ± 3"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(3 manos) - 0,2L/m2"
+              "value": "(3mani) - 0,2L/m2"
             }
           ],
           "aggregateRating": {
@@ -3560,13 +3519,13 @@
         {
           "@type": "PropertyValue",
           "name": "Viscosidad",
-          "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+          "value": "60” ±5 a 25ºC Comp.A (Ford Cup 4)"
         },
 
         {
           "@type": "PropertyValue",
           "name": "Rendimiento",
-          "value": "(1 mano) - 140 ±10 g/m2"
+          "value": "(1 mani) - 140 ±10 g/m2"
         }
       ],
       "potentialAction": {
@@ -3650,13 +3609,13 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+                "value": "60” ±5 a 25ºC Comp.A (Ford Cup 4)"
               },
 
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(1 mano) - 140 ±10 g/m2"
+                "value": "(1 mani) - 140 ±10 g/m2"
               }
             ],
             "aggregateRating": {
@@ -3717,13 +3676,13 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+              "value": "60” ±5 a 25ºC Comp.A (Ford Cup 4)"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(1 mano) - 140 ±10 g/m2"
+              "value": "(1 mani) - 140 ±10 g/m2"
             }
           ],
           "aggregateRating": {
@@ -3804,13 +3763,13 @@
               {
                 "@type": "PropertyValue",
                 "name": "Viscosidad",
-                "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+                "value": "60” ±5 a 25ºC Comp.A (Ford Cup 4)"
               },
 
               {
                 "@type": "PropertyValue",
                 "name": "Rendimiento",
-                "value": "(1 mano) - 140 ±10 g/m2"
+                "value": "(1 mani) - 140 ±10 g/m2"
               }
             ],
             "aggregateRating": {
@@ -3871,13 +3830,13 @@
             {
               "@type": "PropertyValue",
               "name": "Viscosidad",
-              "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+              "value": "60” ±5 a 25ºC Comp.A (Ford Cup 4)"
             },
 
             {
               "@type": "PropertyValue",
               "name": "Rendimiento",
-              "value": "(1 mano) - 140 ±10 g/m2"
+              "value": "(1 mani) - 140 ±10 g/m2"
             }
           ],
           "aggregateRating": {

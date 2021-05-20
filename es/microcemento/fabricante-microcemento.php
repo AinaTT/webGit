@@ -12,7 +12,7 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-
+ 
 
     <title>Fabricantes de microcemento | Topciment microcementos</title>
     <meta name="description" content="Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en productos desarrollados con las últimas tecnologías."/>
@@ -78,7 +78,13 @@
                                 revestimientos
                                 metálicos) así como imprimaciones, barnices o selladores, limpiadores especializados y
                                 complementos relacionados con el microcemento.</p>
+<div class="video"><iframe src="https://www.youtube.com/embed/yCvdqsvgT8I"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
 
+                   
                             <h2>Fábrica microcementos Topciment</h2>
                             <p>La fábrica de microcemento de Topciment es única en España. Unas <strong>innovadoras
                                     instalaciones</strong> cuya superficie supera los 4.000 metros cuadrados y que están
@@ -188,8 +194,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/Topciment_Quienes_somos_fondo.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
-                    </div>
+                   <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/Topciment_Quienes_somos_fondo.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
+                    </div> 
+                      <!--  <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/laboratorio-topciment-microcemento.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
+                    </div> -->
                     <div class="container">
                         <div class="content text-justify">
                             <h2 class="mt-4">Mirando al futuro</h2>
@@ -213,7 +221,9 @@
 
             <div id="separador50px">
             </div>
-            <img src="https://www.topciment.com/imagenes/nosotros_fondo.jpg" class="img-fluid" width="100%" style="margin-bottom:-50px;" alt="tienda topciment microcemento valencia">
+          <!--   <img src="https://www.topciment.com/imagenes/nosotros_fondo.jpg" class="img-fluid" width="100%" style="margin-bottom:-50px;" alt="tienda topciment microcemento valencia"> -->
+       <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/laboratorio-topciment-microcemento.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
+                    </div>
         </div>
     </div>
 
@@ -227,7 +237,7 @@
         {
             "@context": "https://schema.org/",
             "@type": "Organization",
-            "name": "Fabricamentes de microcemento",
+            "name": "Fabricantes de microcemento",
             "url": "https://www.topciment.com/es/fabricante-microcemento",
             "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
             "image": "https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg",

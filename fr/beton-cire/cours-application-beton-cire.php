@@ -625,7 +625,180 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+< script type = "application/ld+json" > {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Cours d'initiation au microciment",
+    "description": "Vous apprendrez les connaissances de base du processus d'application du microciment, de l'apprêt au scellant, et des différents outils.",
+    "occupationalCredentialAwarded": "Diplôme accréditant l'achèvement du cours de microcemento.",
+    "audience": {
+      "@type": "Audience",
+      "name": "Applicateurs de microciment",
+      "geographicArea": {
+        "@type": "AdministrativeArea",
+        "name": ["Europa", "China", "EEUU"]
+      }
+    },
+    "hasCourseInstance": [{
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-02-19",
+        "startDate": "2021-02-19",
+        "name": "Cours d'initiation au microciment internacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      },
+      {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-02-26",
+        "startDate": "2021-02-26",
+        "name": "Cours d'initiation au microciment nacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-03-12",
+        "startDate": "2021-03-12",
+        "name": "Cours d'initiation au microciment internacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-03-26",
+        "startDate": "2021-03-26",
+        "name": "Cours d'initiation au microciment nacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-04-16",
+        "startDate": "2021-04-16",
+        "name": "Cours d'initiation au microciment internacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-04-30",
+        "startDate": "2021-04-30",
+        "name": "Cours d'initiation au microciment nacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-05-14",
+        "startDate": "2021-05-14",
+        "name": "Cours d'initiation au microciment internacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-05-28",
+        "startDate": "2021-05-28",
+        "name": "Cours d'initiation au microciment nacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-06-04",
+        "startDate": "2021-06-04",
+        "name": "Cours d'initiation au microciment internacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "En personne",
+        "endDate": "2021-06-18",
+        "startDate": "2021-06-18",
+        "name": "Cours d'initiation au microciment nacional",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }
+    ],
+    "provider": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "url": "https://www.topciment.com"
+    }
+  } <
+  /script>
 </body>
 
 </html>

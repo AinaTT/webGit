@@ -65,7 +65,7 @@
                         <p>Medir en un recipiente limpio, la cantidad de resina o agua correspondiente a los kilos de polvo que vayamos a preparar. Verter la cantidad medida en un envase lo suficientemente grande para recibir los dos componentes (liquido y sólido) y añadir el pigmento correspondiente a la cantidad de
                             <a href="../microcementos">microcemento</a>, mezclando hasta conseguir un color uniforme. Es importante enjuagar el envase del pigmento para utilizar todo su contenido, y que no se produzcan diferencias de color entre una amasada y otra.
                         </p>
-                        <p> Verter poco a poco el componente seco al mismo tiempo que se <strong>mezcla la masa durante un mínimo de 4 minutos</strong>. El resultado será una masa homogénea exenta de grumos y de color uniforme.</p>
+                        <p> Verter poco a poco el componente seco al mismo tiempo que se <strong>mezcla la masa durante un mínimo de 4 minuti</strong>. El resultado será una masa homogénea exenta de grumos y de color uniforme.</p>
                         <p> No será necesario pigmentar la primera mano de Microbase.</p>
                         <p> Para la mezcla del microcemento es recomendable el uso de la varilla mezcladora de doble hélice Topciment , de acero inoxidable. Su mástil hexagonal se acopla fácilmente a la mayoría de los agitadores, su doble hélice facilita la mezcla de los morteros, obteniendo una pasta completamente homogénea</p>
                     </div>

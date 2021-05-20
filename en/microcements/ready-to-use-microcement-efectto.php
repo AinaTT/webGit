@@ -1404,7 +1404,957 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ready to use microcement for wall preparation Efectto Quartz Big",
+         "description": "Ready-to-use microcement finish for the wall system.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg and 6 Kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "21"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Ready to use microcement for wall preparation Efectto Quartz Big 17Kg",
+             "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#big-grain",
+        "sku": "TT01209",
+        "gtin13": "8436575625232",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ready to use microcement for wall preparation Efectto Quartz Big 6Kg",
+             "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#big-grain",
+        "sku": "TT01210",
+        "gtin13": "8436575625249",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ready-to-use microcement for floor finishing Efectto Quartz Medium Grain",
+         "description": "Ready-to-use microcement finish for the wall system.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg and 6 Kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,450 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "20"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Ready-to-use microcement for floor finishing Efectto Quartz Medium Grain 17Kg",
+             "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#medium-grain",
+        "sku": "TT01215",
+        "gtin13": "8436575625294",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,450 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "20"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ready-to-use microcement for floor finishing Efectto Quartz Medium Grain 6Kg",
+        "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Medium_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#medium-grain",
+        "sku": "TT01216",
+        "gtin13": "8436575625300",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+               {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,450 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "20"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ready-to-use microcement for wall finishing  Efectto Quartz Small Grain",
+         "description": "Ready-to-use microcement finish for the wall system.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg and 6 Kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,250 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "14"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Ready-to-use microcement for wall finishing  Efectto Quartz Small Grain 17Kg",
+             "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#small-grain",
+        "sku": "TT01211",
+        "gtin13": "8436575625256",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,250 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ready-to-use microcement for wall finishing  Efectto Quartz Small Grain 6Kg",
+             "description": "Ready-to-use microcement finish for the wall system.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Small_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#small-grain",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 0,250 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ready-to-use microcement for floor preparation  Efectto Quartz Super Grain",
+         "description": "Ready-to-use  microcement finish for the flooring system.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg and 6 Kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "21"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Ready-to-use microcement for floor preparation  Efectto Quartz Super Grain 17Kg",
+             "description": "Ready-to-use  microcement finish for the flooring system.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#super-grain",
+        "sku": "TT01213",
+        "gtin13": "8436575625270",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ready-to-use microcement for floor preparation  Efectto Quartz Super Grain 6Kg",
+             "description": "Ready-to-use  microcement finish for the flooring system.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto#super-grain",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Maximum thickness per layer",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      }
+     
+    ]
+  } </script> 
 </body>
 
 </html>

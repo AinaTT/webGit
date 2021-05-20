@@ -67,9 +67,9 @@
                                 <li>
                                     <a href="#up" style="font-size:26px">Pure Mettal</a>
                                 </li>
-                                <li><a href="#que-es-puremetal">¿Qué es Pure Mettal?</a></li>
+                                <li><a href="#que-es-puremetal">Cos'è Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
-                                <li><a href="#aplicacion">Aplicación</a></li>
+                                <li><a href="#aplicacion">Applicazione</a></li>
                             </ul>
                         </div>
                         <div class="content">
@@ -96,8 +96,8 @@
                                 <p>
                                     Las sensaciones visuales y táctiles que ofrece Pure Mettal son de lo más
                                     distinguidas, de ahí que sea uno de los productos más alucinantes de Topciment.
-                                    Estos revestimientos y recubrimientos metálicos de alto brillo están conformados por
-                                    un <strong>Componente A</strong> (partículas de metal en polvo) y un
+                                    Estos revestimientos y recubrimientos metálicos de Alta brillantezza están conformados por
+                                    un <strong>Componente A</strong> (partículas de metal In polvere) y un
                                     <strong>Componente B</strong> (resina híbrida
                                     orgánica desarrollada específicamente para este sistema).
 
@@ -229,7 +229,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/espesura_capa.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Máxima espesura por capa</strong>
+                                    <strong>Spessore massimo per strato</strong>
                                     <p>1 mm</p>
                                 </div>
                             </div>
@@ -267,7 +267,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Alto brillo
+                                    <strong>Alta brillantezza
                                     </strong>
                                     <p>Gracias a la alta concentración de componentes metálicos
                                     </p>
@@ -277,15 +277,15 @@
                     </div>
                     <!-- Rendimiento -->
                     <h2 class="en3">
-                        Rendimiento</h2>
+                        Performance</h2>
                     <p>El rendimiento de la <strong> primera capa</strong> de los revestimientos y recubrimientos
                         metálicos Pure Mettal es
                         de <strong>305g/m2.</strong> En cuanto a la <strong>segunda mano</strong>, el rendimiento
                         desciende a <strong>260g/m2.</strong>
                     </p>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <h2 class="en3">
-                        Presentación</h2>
+                        Presentazione</h2>
                     <p>El <strong>componente A</strong> de Pure Mettal se presenta en cubos cónicos de plástico negro de
                         <strong>5 y 1 kg.</strong> Por lo
                         que respecta al <strong>componente B</strong> de los revestimientos y recubrimientos metálicos
@@ -298,7 +298,7 @@
                     <p><a class="links" href="https://www.topciment.com/fichas-tecnicas/PureMettal_ES.pdf"
                             target="_blank"> <span class="fa-stack">
                                 <i class="fas fa-file-pdf fa-stack-1x"></i>
-                            </span><strong>Descarga aquí la ficha técnica de
+                            </span><strong>Scarica qui la scheda tecnica di
                                 Pure Mettal</strong>
                         </a></p>
                     <!-- logo -->
@@ -469,7 +469,7 @@
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1. Limpieza y preparación del
+                                    <strong>Passo 1. Limpieza y preparación del
                                         soporte.</strong><br>Debemos asegurarnos de que está bien cohesionado, seco y si
                                     es necesario lijado. Aspirar para dejar limpio el soporte.
                                 </div>
@@ -487,7 +487,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>Aplicar una capa de imprimación Primacem
+                                    <strong>Passo 2. Imprimación.</strong><br>Aplicar una capa de imprimación Primacem
                                     ABS (soporte absorbente) o Primacem PLUS (soporte no absorbente). Dejar secar
                                     alrededor de 1 hora.
                                 </div>
@@ -506,10 +506,10 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Decoración.</strong><br>
+                                    <strong>Passo 3. Decoración.</strong><br>
                                     Mezclar el componente A y el componente B del acabado Pure Mettal elegido (Bronze,
                                     Aluminium, Iridium, Brass o Copper). Aplicar dos manos dejando secar entre 2 y 4
-                                    horas entre capas. Dejar secar 24 horas.
+                                    oreentre capas. Dejar secar 24 horas.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -525,10 +525,10 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4A. Acabado metálico y sellador.</strong><br>
+                                    <strong>Passo 4A. Acabado metálico y sellador.</strong><br>
                                     En el caso de querer un acabado metálico, una vez decorada y pulida la superficie,
                                     aplicar dos manos del sellador Topsealer WT One Coat para proteger el soporte
-                                    (dejando secar 24 horas entre aplicaciones). Dejar secar 24 horas.
+                                    (dejando secar 24 oreentre aplicaciones). Dejar secar 24 horas.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -544,11 +544,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4B. Acabado oxidado y sellador</strong><br>
+                                    <strong>Passo 4B. Acabado oxidado y sellador</strong><br>
                                     En el caso de preferir un acabado oxidado, una vez decorada y pulida la superficie,
                                     aplicar Mettal Activator para acelerar la oxidación y lijar. Después aplicar dos
-                                    manos de Presealer (dejando 4 horas entre manos) y lijar. Finalmente proteger la
-                                    superficie con dos capas del sellador Topsealer WT One Coat (24 horas entre capas).
+                                    manos de Presealer (dejando 4 oreentremani) y lijar. Finalmente proteger la
+                                    superficie con dos capas del sellador Topsealer WT One Coat (24 oreentre capas).
                                     Dejar secar 24 horas.
                                 </div>
                                 <!-- Icono -->
@@ -655,12 +655,12 @@
       }
     },
     "weight": "1Kg",
-    "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+    "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
     "variesBy": "size",
     "additionalProperty": [
             {
         "@type": "PropertyValue",
-        "name": "Máxima espesura por capa",
+        "name": "Spessore massimo per strato",
         "value": "1 mm"
       },
       {
@@ -675,7 +675,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Alto brillo",
+        "name": "Alta brillantezza",
         "value": "Gracias a la alta concentración de componentes metálicos"
       }
     ],
@@ -698,7 +698,7 @@
         "url": "https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium",
         "sku": "TT05021",
         "gtin13": "8436575625843",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "1Kg",
         "brand": {
           "@type": "Organization",
@@ -737,7 +737,7 @@
         "additionalProperty": [ 
                  {
         "@type": "PropertyValue",
-        "name": "Máxima espesura por capa",
+        "name": "Spessore massimo per strato",
         "value": "1 mm"
       },
       {
@@ -752,7 +752,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Alto brillo",
+        "name": "Alta brillantezza",
         "value": "Gracias a la alta concentración de componentes metálicos"
       },{
                "@type": "PropertyValue",
@@ -775,7 +775,7 @@
         "url": "https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium",
         "sku": "TT05035",
         "gtin13": "8436575620589",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "5Kg",
         "brand": {
           "@type": "Organization",
@@ -814,7 +814,7 @@
         "additionalProperty": [ 
                  {
         "@type": "PropertyValue",
-        "name": "Máxima espesura por capa",
+        "name": "Spessore massimo per strato",
         "value": "1 mm"
       },
       {
@@ -829,7 +829,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Alto brillo",
+        "name": "Alta brillantezza",
         "value": "Gracias a la alta concentración de componentes metálicos"
       },{
            "@type": "PropertyValue",
@@ -852,7 +852,7 @@
         "url": "https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium",
         "sku": "TT05024",
         "gtin13": "8436575625874",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": " 0,5 Kg",
         "brand": {
           "@type": "Organization",
@@ -891,7 +891,7 @@
         "additionalProperty": [ 
                  {
         "@type": "PropertyValue",
-        "name": "Máxima espesura por capa",
+        "name": "Spessore massimo per strato",
         "value": "1 mm"
       },
       {
@@ -906,7 +906,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Alto brillo",
+        "name": "Alta brillantezza",
         "value": "Gracias a la alta concentración de componentes metálicos"
       },{
            "@type": "PropertyValue",
@@ -928,7 +928,7 @@
         "url": "https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium",
         "sku": "TT05034",
         "gtin13": "8436575620596",
-        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "material": "Partículas de metal In polvere y resina específica desarrollada para el sistema.",
         "weight": "2 Kg",
         "brand": {
           "@type": "Organization",
@@ -967,7 +967,7 @@
         "additionalProperty": [ 
                  {
         "@type": "PropertyValue",
-        "name": "Máxima espesura por capa",
+        "name": "Spessore massimo per strato",
         "value": "1 mm"
       },
       {
@@ -982,7 +982,7 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Alto brillo",
+        "name": "Alta brillantezza",
         "value": "Gracias a la alta concentración de componentes metálicos"
       },{
            "@type": "PropertyValue",

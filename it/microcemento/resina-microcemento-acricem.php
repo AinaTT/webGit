@@ -16,17 +16,17 @@
     <link rel="stylesheet" href="../../assets/css/familia.css" />
 
 
-    <title>Resina microcemento | Resina acrílica base agua Acricem
+    <title>Resina di microcemento | Resina acrilica a base acquosa Acricem
     </title>
     <meta name="description"
-        content="Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente." />
+        content="Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente." />
 
 
-    <meta property="og:title" content="Resina microcemento | Resina acrílica base agua Acricem">
+    <meta property="og:title" content="Resina di microcemento | Resina acrilica a base acquosa Acricem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/resina-microcemento-acricem">
     <meta property="og:description"
-        content="Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente.">
+        content="Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente.">
     <meta property="og:type" content="article">
     <meta property="og:image"
         content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
@@ -70,28 +70,29 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Resina acrílica para microcemento Acricem</h1>
-                            <p> Acricem es una resina que aporta adherencia, dureza y flexibilidad a los revestimientos
-                                de microcemento. Esta resina acrílica y de base agua es especialmente indicada para
-                                acompañar a nuestros sistemas de microcemento bicomponente: Sttandard, Unlimitted y
-                                Atlanttic.
-                            </p>
-                            <p>Esta resina  para microcemento exenta de disolventes mejora considerablemente las
-                                resistencias mecánicas así como la impermeabilidad del mortero. Además, disminuye la
-                                posible aparición de fisuras por retracción</p>
-                            <p>Puede utilizarse también como imprimación, ya que Acricem es una resina acrílica y de base agua que permite
-                                consolidar las superficies
-                                cementosas absorbentes.</p>
+                         <h1>  Resina acrilica per microcemento Acricem</h1> 
+<p>
+  Acricem è una resina che fornisce aderenza, durezza e flessibilità ai rivestimenti in microcemento. Questa resina acrilica a base d'acqua è particolarmente adatta per accompagnare i nostri sistemi di microcemento bicomponente: Sttandard, Unlimitted e Atlanttic.
+
+</p>  
+<p>
+  Questa resina senza solventi per microcemento migliora notevolmente la resistenza meccanica e l'impermeabilità della malta. Riduce anche la possibile comparsa di crepe dovute al ritiro.
+
+</p>  
+<p>
+  Può anche essere usato come primer, poiché Acricem è una resina acrilica a base d'acqua che consolida le superfici cementizie assorbenti.
+
+</p>  
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Acricem-ES.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong> Descarga la ficha técnica de Acricem aquí</strong>
+                                <strong> Scarica qui la scheda tecnica di Acricem </strong>
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h2 class="en3">Tipos de  resina acrílica y base agua para microcemento bicomponente Acricem</h2>
+                    <h2 class="en3">Tipi di resina acrilica a base d'acqua per microcemento bicomponente Acricem</h2>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img class="img-fluid" alt="Acricem" title="Acricem 5 L"
@@ -109,7 +110,7 @@
                     </div>
                     <!-- Propiedades -->
                     <h2 class="en3">
-                        Características técnicas resina acrílica Acricem para microcemento</h2>
+                      Caratteristiche tecniche Acricem resina acrilica per microcemento</h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -117,8 +118,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/excelente_penetracion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Excelente penetración y
-                                        estabilización del sustrato</strong>
+                                    <strong>Eccellente penetrazione e stabilizzazione del substrato</strong>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/no_inflamable.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>No inflamable, base agua</strong>
+                                    <strong>Non infiammabile, a base d'acqua</strong>
                                 </div>
                             </div>
                         </div>
@@ -140,8 +140,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/roller.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Aplicable mediante rodillo
-                                        o brocha en una mano.
+                                    <strong>Può essere applicato a rullo o a pennello in una mano
                                     </strong>
                                 </div>
                             </div>
@@ -152,8 +151,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/listo_al_uso.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>El producto se suministra
-                                        listo para su empleo.
+                                    <strong>Il prodotto viene fornito pronto all'uso
                                     </strong>
                                 </div>
                             </div>
@@ -161,14 +159,16 @@
                     </div>
                     <!-- Rendimiento -->
                     <h2 class="en3">
-                        Rendimiento resina acrílica Acricem para microcemento</h2>
+                       Prestazioni della resina acrilica Acricem per microcemento</h2>
                     <div class="row">
-                        <div class="col-md-12"><span>El rendimiento de la resina acrílica y de base agua Acricem para nuestros sistemas de microcemento bicomponente es a <strong>1 mano de 0,10 L/m2</strong></span></div>
+                        <div class="col-md-12">
+                      <p>Il rendimento della resina acrilica a base d'acqua Acricem per i nostri sistemi di microcemento bicomponente è di 0,10 L/m2 in 1 mano.</p></div>
+                   
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <h2 class="en3">
-                        Presentación resina acrílica Acricem para microcemento </h2>
-                    <p>La resina acrílica Acricem para nuestros microcementos bicomponentes (Sttandard, Unlimitted y Atlanttic)  se presenta en garrafas de plástico de<strong> 5 y 25 L.</strong></p>
+                      Presentazione Acricem resina acrilica per microcemento </h2>
+                   <p>La resina acrilica Acricem per i nostri microcementi bicomponenti (Sttandard, Unlimitted e Atlanttic) è disponibile in bottiglie di plastica da 5 e 25 L</p>
                 </div>
             </div>
         </section>
@@ -195,7 +195,7 @@
     "@context": "https://schema.org",
     "@type": "ProductGroup",
     "name": "Resina microcemento acrílica base agua Acricem",
-    "description": "Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente.",
+    "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
     "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_y_25L_2021.jpg",
     "brand": {
       "@type": "Organization",
@@ -257,7 +257,7 @@
       {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "(1 mano)- 0,10 L/m2"
+        "value": "(1 mani)- 0,10 L/m2"
       }
     ],
     "potentialAction": {
@@ -273,7 +273,7 @@
       {
         "@type": "Product",
         "name": "Resina microcemento acrílica base agua Acricem 5 L",
-        "description": "Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente.",
+        "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
         "size": "5 L",
         "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
@@ -338,7 +338,7 @@
       {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "(1 mano)- 0,10 L/m2"
+        "value": "(1 mani)- 0,10 L/m2"
       }
         ],
         "aggregateRating": {
@@ -350,7 +350,7 @@
       {
         "@type": "Product",
         "name": "Resina microcemento acrílica base agua Acricem 25 L",
-        "description": "Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente.",
+        "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
         "size": "25 L",
         "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
@@ -414,7 +414,7 @@
       {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "(1 mano)- 0,10 L/m2"
+        "value": "(1 mani)- 0,10 L/m2"
       }
         ],
         "aggregateRating": {
@@ -426,7 +426,7 @@
       {
         "@type": "Product",
         "name": "Resina microcemento acrílica base agua Acricem M",
-        "description": "Resina acrílica que incrementa las resistencias mecánicas. De base agua, esta resina otorga un extra de dureza y flexibilidad al microcemento bicomponente.",
+        "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
@@ -491,7 +491,7 @@
       {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "(1 mano)- 0,10 L/m2"
+        "value": "(1 mani)- 0,10 L/m2"
       }
         ],
         "aggregateRating": {

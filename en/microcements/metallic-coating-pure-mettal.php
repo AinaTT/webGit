@@ -582,7 +582,391 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Pure Mettal metal coatings and metallic coatings",
+         "description": "range of highly decorative two-component metallic coatings and linings. ",
+    "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1Kg",
+    "material": "Powdered metal particles and specific resin developed for the system.",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+        "@type": "PropertyValue",
+        "name": "Maximum thickness per layer",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Different textures",
+        "value": "Five textiles with different metallic elements"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramics, etc.."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "High gloss",
+        "value": "Thanks to the high concentration of metallic components"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metal cladding and coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Pure Mettal metal coatings and metallic coatings Componente A 1 Kg",
+             "description": "range of highly decorative two-component metallic coatings and linings. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+        "size": "1 Kg",
+        "url": "https://www.topciment.com/en/microcements/metallic-coating-pure-mettal",
+        "sku": "TT05021",
+        "gtin13": "8436575625843",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximum thickness per layer",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Different textures",
+        "value": "Five textiles with different metallic elements"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramics, etc.."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "High gloss",
+        "value": "Thanks to the high concentration of metallic components"
+      },{
+               "@type": "PropertyValue",
+          "name": "Consumption",
+          "value": "First layer - 305g/m2 , Second layer - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Pure Mettal metal coatings and metallic coatings Componente A 5 Kg",
+             "description": "range of highly decorative two-component metallic coatings and linings. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Copper_1Kg.jpg",
+        "size": "5 Kg",
+        "url": "https://www.topciment.com/en/microcements/metallic-coating-pure-mettal",
+        "sku": "TT05035",
+        "gtin13": "8436575620589",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "5Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximum thickness per layer",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Different textures",
+        "value": "Five textiles with different metallic elements"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramics, etc.."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "High gloss",
+        "value": "Thanks to the high concentration of metallic components"
+      },{
+           "@type": "PropertyValue",
+          "name": "Consumption",
+          "value": "First layer - 305g/m2 , Second layer - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Pure Mettal metal coatings and metallic coatings Componente B 0,5 L",
+             "description": "range of highly decorative two-component metallic coatings and linings. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": " 0,5  L",
+        "url": "https://www.topciment.com/en/microcements/metallic-coating-pure-mettal",
+        "sku": "TT05024",
+        "gtin13": "8436575625874",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": " 0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximum thickness per layer",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Different textures",
+        "value": "Five textiles with different metallic elements"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramics, etc.."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "High gloss",
+        "value": "Thanks to the high concentration of metallic components"
+      },{
+           "@type": "PropertyValue",
+          "name": "Consumption",
+          "value": "First layer - 305g/m2 , Second layer - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Pure Mettal metal coatings and metallic coatings Componente B 2L",
+             "description": "range of highly decorative two-component metallic coatings and linings. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": "2 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-coating-pure-mettal",
+        "sku": "TT05034",
+        "gtin13": "8436575620596",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "2 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximum thickness per layer",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Different textures",
+        "value": "Five textiles with different metallic elements"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramics, etc.."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "High gloss",
+        "value": "Thanks to the high concentration of metallic components"
+      },{
+           "@type": "PropertyValue",
+          "name": "Consumption",
+          "value": "First layer - 305g/m2 , Second layer - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

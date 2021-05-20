@@ -497,7 +497,418 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Bi-Flex steel trowel for microcement",
+         "description": "Extra light Bi-Flex steel trowel. It has a transparent polycarbonate handle, durable and ergonomic.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Biflex.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "300 x 110 mm 350 x 110 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Thickness",
+      "value": "0,40 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Sold in single blister packs."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Rubber trowel for fine microcementç",
+         "description": "The flexible soft rubber microcement trowel is suitable for horizontal and vertical surfaces.  ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Goma.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "140 x 300 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Sold individually."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Fibreglass mesh for microcement",
+         "description": "ideal for the reinforcement of continuous microcement floor and wall coverings, as it supports the substrate and allows the surface to be waterproofed.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+   {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "Rollo de 50 x 1m"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Thickness",
+      "value": "Builtex GR 50 - Builtex GR 58 - Builtex GR 160"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "The number of units varies according to the grammage of the fibreglass mesh."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Aluminium profile for stairs and walls microcemento",
+         "description": "The aluminium profile is placed on wall corners and stair edges for decoration and protection. ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "2700 x 3 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Sold in packs of 10 and 20 units."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Short pile roller for microcement",
+         "description": "Special roller for priming and sealing of microcement. ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "4 x 180 mm - 4 x 220 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Material",
+      "value": "Polyester fibre (WT), Woven virgin wool (DSV)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Sold in single blister packs."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Double helix mixing rod for microcement",
+         "description": "This rod stands out for its double helix, which allows efficient mixing of cementitious mortars..",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Measures",
+      "value": "120 x 500 mm"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Mixing capacity",
+      "value": "30 Kg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Suitable for",
+      "value": "Liquid materials, paints, varnishes, wall paints and dispersion paints, starch glues, adhesives, tile adhesives"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Sold individually"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Microcement tools "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
 </body>
 
 </html>

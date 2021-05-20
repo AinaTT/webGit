@@ -499,7 +499,7 @@
                                 <div class=" col-md-9">
                                     <strong>
                                         pH值</strong>
-                                    <p>在8.5 - 9.5之间</p>
+                                    <p>9 ± 0,5</p>
                                 </div>
                             </div>
                         </div>
@@ -524,7 +524,7 @@
                                 <div class=" col-md-9">
                                     <strong>固体
                                     </strong>
-                                    <p>23.37%
+                                    <p>23 ± 2 %
                                     </p>
 
                                 </div>
@@ -538,7 +538,7 @@
                                 <div class=" col-md-9">
                                     <strong>粘度
                                     </strong>
-                                    <p>12.84s (福特杯4)
+                                    <p>13 ± 1s (福特杯4)
                                     </p>
                                 </div>
                             </div>

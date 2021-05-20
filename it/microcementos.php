@@ -16,17 +16,17 @@
   <link rel="stylesheet" href="../assets/css/microcemento.css"/>
   <!-- ********** END NEW LINKS ********** -->
 
-  <title>¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas </title>
+  <title>Cos'è el Microcemento? Usos, aplicación, tipos, colores y ventajas </title>
   <meta name="description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
   <meta property="og:locale" content="es_ES"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
+  <meta property="og:title" content="Cos'è el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
   <meta property="og:description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
   <meta property="og:url" content="https://www.topciment.com/es/microcementos"/>
   <meta property="og:site_name" content="Topciment"/>
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
-  <meta name="twitter:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
+  <meta name="twitter:title" content="Cos'è el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
   <meta name="twitter:site" content="@topciment"/>
   <meta name="twitter:creator" content="@topciment"/>
   <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -52,13 +52,13 @@
         <li>
           <a href="#up" style="font-size:26px">Microcemento</a>
         </li>
-        <li><a href="#que-es-microcemento">¿Qué es el microcemento?</a></li>
+        <li><a href="#que-es-microcemento">Cos'è el microcemento?</a></li>
         <li><a href="#donde-aplicar">¿Dónde se puede aplicar?</a></li>
         <li><a href="#tipos-de-microcemento">Tipos de microcemento</a></li>
         <li><a href="#ventajas">Ventajas del microcemento</a></li>
         <li><a href="#acabadosmicro">Acabados de microcemento</a></li>
-        <li><a href="#microcement-colors">Colores microcemento</a></li>
-        <li><a href="#preguntas-frecuentes-ok">Preguntas frecuentes</a></li>
+        <li><a href="#microcement-colors">Colori microcemento</a></li>
+        <li><a href="#preguntas-frecuentes-ok">Domande frequenti</a></li>
       </ul>
     </div>
 
@@ -73,7 +73,7 @@
     <div class="container">
       <div id="que-es-microcemento" class="content">
 
-        <h1 class="mb-3">¿Qué es el microcemento? Usos, tipos, aplicación y ventajas</h1>
+        <h1 class="mb-3">Cos'è el microcemento? Usos, tipos, aplicación y ventajas</h1>
 
         <p>El <strong>microcemento Topciment</strong> es un revestimiento decorativo compuesto a base de cemento,
           resinas base agua,
@@ -418,7 +418,7 @@
       <div class="content">
         <div style="float:none; clear:both;"></div>
         <span id="preguntas-frecuentes-ok" class="ancla"></span>
-        <h2 class="faqs">Preguntas frecuentes</h2>
+        <h2 class="faqs">Domande frequenti</h2>
 
         <!-- Accordion -->
         <div id="accordionExample" class="accordion shadow">
@@ -477,7 +477,7 @@
                     Topsealers protegen de las manchas de aceite, bebida cola, vino tinto y similares.
 
                   <p>Las manchas en microcemento de vinagre o zumo de limón, dejan ligeras marcas a partir de las
-                    dos horas de exposición. A esta superficie le afecta el ácido al igual que al mármol, aunque si
+                    dos orede exposición. A esta superficie le afecta el ácido al igual que al mármol, aunque si
                     actuamos limpiando rápidamente, no quedarán marcas.
                     Las manchas de salfumán, lejía pura, acetona y amoniaco dejan marca a partir de la media hora de
                     exposición. No obstante, si limpiamos el microcemento rápidamente, no quedarán marcas. Hay que
@@ -610,7 +610,7 @@
                   <p>No son adecuados los soportes con morteros pulverulentos ya que el estado de la base de aplicación
                     debe
                     ser consistente y de lo contrario habrá que consolidarlo.</p>
-                  <p><strong>Después de aplicar el microcemento</strong>, deberemos esperar al menos 48 horas antes de
+                  <p><strong>Después de aplicar el microcemento</strong>, deberemos esperar al menos 48 oreantes de
                     volver
                     a encender la calefacción de forma gradual (+5 °C cada día).</p>
                   <p>Cambie siempre la temperatura de forma gradual al inicio y al final del período de uso de la
@@ -912,7 +912,7 @@
                         </tr>
                         <tr>
                           <th><strong>Hormigón pulido</strong> o<strong> </strong>Cemento pulido</th>
-                          <td>Tratamiento superficial de la losa de hormigón ya endurecido</td>
+                          <td>Tratamiento superficial de la losa de hormigón ya Temprato</td>
                           <td>Suelos</td>
                           <td>5 -10 cm</td>
                           <td>Como máximo cada 25 m2</td>
@@ -1125,7 +1125,7 @@
             <div id="collapse14" aria-labelledby="heading14" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
             <p>El tiempo de secado entre capas del sellador o barniz dependerá de varios factores. Como por ejemplo las condiciones climáticas, el grado de humedad relativa, la temperatura ambiente de la estancia, si se trata de un espacio cerrado y húmedo como puede ser un baño, si el sol impacta directamente, etc.</p>
-                      <p>En todo caso, intentaremos siempre en cualquier circunstancia dejar el máximo tiempo posible de secado entre capas para evitar que se formen manchas blancas por estar la superficie todavía húmeda. El tiempo mínimo de secado entre capas es de 4 horas para el Presealer y 24 horas para el Topsealer.</p>
+                      <p>En todo caso, intentaremos siempre en cualquier circunstancia dejar el máximo tiempo posible de secado entre capas para evitar que se formen manchas blancas por estar la superficie todavía húmeda. El tiempo mínimo de secado entre capas es de 4 orepara el Presealer y 24 orepara el Topsealer.</p>
               </div>
             </div>
           </div>

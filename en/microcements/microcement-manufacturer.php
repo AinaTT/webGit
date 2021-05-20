@@ -68,7 +68,13 @@
 <p>But we are not only microcement manufacturers. We also produce all types of decorative coatings (metallic paints, glazes, pigments and metallic coatings) as well as primers, varnishes or sealants, specialised cleaners and accessories related to microcement.
 </p>
                            
+<div class="video"><iframe src="https://www.youtube.com/embed/uD_AtCwaRho"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
 
+                      
                             <h2>Microcement factory Topciment</h2>
                          <p>Topciment's microcement factory is unique in Spain. Innovative facilities which cover an area of over 4,000 square metres and which are equipped with the most modern machinery on the microcement market and the most advanced technologies.
 </p>
@@ -93,7 +99,7 @@ What do we offer you as microcement manufacturers?</h2>
                             <h3>Distributor support</h3>
                             <p> Our distributors are the heart and soul of Topciment, they make it possible for the microcements we manufacture to be marketed in more than 58 countries. An extensive network that continues to grow and of which you too can form part.
 </p>
-
+ 
                             <h2 class="mt-3 mb-3 ">Our values</h2>
                             <div class="row">
 
@@ -165,7 +171,8 @@ What do we offer you as microcement manufacturers?</h2>
 
             <div id="separador50px">
             </div>
-            <img src="https://www.topciment.com/imagenes/nosotros_fondo.jpg" class="img-fluid" width="100%" style="margin-bottom:-50px;" alt="tienda topciment microcemento valencia">
+                   <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/laboratorio-topciment-microcemento.jpg');" data-img-width="1920" data-img-height="1080" data-diff="100">
+                    </div>
         </div>
     </div>
 
@@ -175,12 +182,12 @@ What do we offer you as microcement manufacturers?</h2>
     </div>
 
     <!-- include jQuery -->
-    <script type="application/ld+json">
+   <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Organization",
-            "name": "Fabricamentes de microcemento",
-            "url": "https://www.topciment.com/es/microcement-manufacturer",
+            "name": "Microcement manufacturers",
+            "url": "https://www.topciment.com/en/microcements/microcement-manufacturer",
             "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
             "image": "https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg",
             "email": "info@topciment.com",
@@ -198,50 +205,50 @@ What do we offer you as microcement manufacturers?</h2>
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Microcemento bicomponente",
+                            "name": "Two-component microcement",
                             "brand": "Sttandard",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Microcemento Sttandard es ideal para el artesano aplicador que tiene como objetivo crear texturas con carácter propio. Sttandard le permite jugar con sus propias mezclas y sacar, así, el máximo partido a los productos."
+                            "description": "Microcemento Sttandard is ideal for the craftsman applicator who aims to create textures with their own character. Sttandard allows you to play with your own mixtures and thus get the most out of the products."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Microcemento bicomponente",
+                            "name": "Two-component microcement",
                             "brand": "Unlimitted",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Unlimitted es la nueva línea de microcemento bicomponente (cemento + resina)."
+                            "description": "Unlimitted is the new line of Two-component microcement (cement + resin)."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Microcemento monocomponente",
+                            "name": "Monocomponent microcement",
                             "brand": "Evoluttion",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Evoluttion es la mejorada línea de microcementos monocomponentes(cemento + agua)."
+                            "description": "Evoluttion is the improved line of single-component microcements (cement + water)."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Microcemento para piscinas",
-                            "description": " Atlanttic es la línea de microcemento bicomponente(cemento + resina) desarrollada, específicamente, para superficiesen contacto permanente con agua.",
+                            "name": "Microcement for swimming pools",
+                            "description": "Atlanttic is the two-component microcement (cement + resin) line developed specifically for surfaces in permanent contact with water.",
                             "brand": "Atlanttic",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -254,140 +261,140 @@ What do we offer you as microcement manufacturers?</h2>
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Microcemento listo al uso",
+                            "name": "Microcement ready to use",
                             "brand": "Efectto",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Efectto Quartz es la línea de microcemento listo al uso, que permite conseguir acabados continuos de alta decoración. Su exclusiva fórmula no contiene cementos que puedan producir retracciones imprevistas ni fisuras."
+                            "description": "Efectto Quartz is the Microcement ready to use line, which allows for highly decorative continuous finishes. Its exclusive formula does not contain cements that can cause unforeseen shrinkage or cracking."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Revestimiento metálico",
+                            "name": "Metal cladding",
                             "brand": "Pure Mettal",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Pure Mettal es el revestimiento metálico bicomponente desarrollado, específicamente, para conseguir acabados de aspecto metalizado."
+                            "description": "Pure Mettal is the two-component metallic coating specifically developed to achieve metallised appearance finishes."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Pintura metálica natural y óxido",
+                            "name": "Natural metallic paint and rust",
                             "brand": "Classic Mettal",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Classic Mettal es la gama de recubrimientos metálicos listos al uso con posibilidad de acabado oxidable."
+                            "description": "Classic Mettal is the range of ready-to-use metallic coatings with the possibility of an oxidisable finish."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Efecto metálico y veladuras",
+                            "name": "Metallic effect and glazes",
                             "brand": "Elitte",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Elitte es la gama de veladuras con reflejos metalizados"
+                            "description": "Elitte is the range of glazes with metallised reflections"
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Promotores de adherencia",
+                            "name": "Adhesion promoters",
                             "brand": "Primacem",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Primacem es la línea de imprimaciones."
+                            "description": "Primacem is the primer line."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Pigmentos",
+                            "name": "Pigments",
                             "brand": "Arcocem",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Arcocem es la línea de pastas pigmentarias. Son colorantes líquidos muy concentrados que se añaden durante la preparación del microcemento."
+                            "description": "Arcocem is the line of pigment pastes. These are highly concentrated liquid dyes that are added during the preparation of the microcement."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Barnices",
+                            "name": "Varnishes",
                             "brand": "Topsealer",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Topsealer es la línea de barnices de poliuretano de Topciment. Un producto que se utiliza en el paso final de la aplicación de microcemento para la protección de superficies."
+                            "description": "Topsealer is Topciment's line of polyurethane varnishes. A product used in the final step of microcement application for surface protection."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Limpieza del microcemento",
+                            "name": "Cleaning of microcement",
                             "brand": "Ecoclean",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Productos altamente especializados para la limpieza y mantenimiento del microcemento. "
+                            "description": "Highly specialised products for the cleaning and maintenance of microcement. "
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Cuidado del microcemento",
+                            "name": "Care of microcement",
                             "brand": "Ceraciment",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "La solución de Topciment para dotar a los suelos de microcemento de un atractivo brillo natural y dar durabilidad a la superficie tratada."
+                            "description": "Topciment's solution for giving microcement floors an attractive natural shine and durability to the treated surface."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Herramientas para microcemento",
+                            "name": "Tools for microcement",
                             "brand": "Toptool",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Herramientas testadas por Topciment para una óptima aplicación del microcemento."
+                            "description": "Tools tested by Topciment for an optimal application of microcement."
                         }
                     }
 
@@ -400,13 +407,13 @@ What do we offer you as microcement manufacturers?</h2>
             },
 
             "legalName": "Grupo Negocios PO SLU",
-            "isicV4": "fabricante de microcemento",
+            "isicV4": "microcement manufacturer",
             "location": {
                 "@type": "PostalAddress",
                 "postalCode": "46940",
                 "streetAddress": "Calle Rosas 33, Manises 46940, Valencia"
             },
-            "slogan": "Es más que microcemento, es Topciment",
+            "slogan": "It's more than microcement, it's Topciment",
             "taxID": "B97539076"
         }
     </script>

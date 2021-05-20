@@ -571,7 +571,578 @@
     </div>
     </div>
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze",
+         "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+    "image": "https://www.topciment.com/imagenes/elitte/Elitte_Glaze_producto.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+    "variesBy": "size",
+    "additionalProperty": [
+           {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
 
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Les glacis de peinture à effet métallique et pailleté"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze Aluminio 054",
+             "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Aluminio054.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/fr/beton-cire/glacis-et-pigments-metallique-elitte",
+        "sku": "TT05008",
+        "gtin13": "8436575624266",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    },{
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "12,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze Gold 063",
+             "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Gold063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/fr/beton-cire/glacis-et-pigments-metallique-elitte",
+        "sku": "TT05011",
+        "gtin13": "8436575624297",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    },{
+              "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze Cobre 063",
+             "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Cobre063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/fr/beton-cire/glacis-et-pigments-metallique-elitte",
+        "sku": "TT05009",
+        "gtin13": "8436575624273",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    },{
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze Cobre Red 063",
+             "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+        "image": "https://www.topciment.com/imagenes/elitte/CobreRed063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/fr/beton-cire/glacis-et-pigments-metallique-elitte",
+        "sku": "TT05010",
+        "gtin13": "8436575624280",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    },{
+         "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Les glacis de peinture à effet métallique et pailleté Elitte Glaze Blanco Plata 500 ",
+             "description": "Gamme de glaçures métalliques prêtes à l'emploi offrant des effets décoratifs pour les surfaces praticables et non praticables, tant à l'intérieur qu'à l'extérieur. ",
+        "image": "https://www.topciment.com/imagenes/elitte/BlancoPlata500.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/fr/beton-cire/glacis-et-pigments-metallique-elitte",
+        "sku": "TT05007",
+        "gtin13": "8436575624259",
+        "material": "Particules métalliques en poudre et résine spécifique développée pour le système.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    },{
+         "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "14,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+     
+    ]
+  } </script>
+  <script type = "application/ld+json" > {
+  "@context": "https://schema.org",
+  "@type": "ProductModel",
+  "name": "Elitte Glitter métal et peinture à effet pailleté vernis ",
+  "description": "Gamme de glaçures métalliques prêtes à l'emploi.",
+  "brand": "Elitte Glitter",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Topciment",
+    "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+    "url": "https://www.topciment.com"
+  },
+  "logo": "https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "83"
+  },
+  "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
+  "material": "De véritables particules métalliques de cuivre, de bronze, de fer et de laiton.",
+  "weight": "1kg",
+  "potentialAction": {
+    "@type": "Action",
+    "name": "Application des peintures métalliques"
+  },
+  "category": "Peintures métallisées et effet de rouille",
+  "additionalProperty": [{
+      "@type": "PropertyValue",
+      "name": "Produit prêt à l'emploi",
+      "value": "Ne pas diluer avec de l'eau."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable sur tout support",
+      "value": "Microciment, béton, brique, céramique."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Polyvalence de l'application",
+      "value": "Applicable à la truelle, au pinceau, à la brosse, à l'éponge, au rouleau ou au pistolet."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zone d'application",
+      "value": "Convient à un usage intérieur et extérieur."
+    }
+  ],
+  "hasVariant": [{
+      "@type": "Product",
+      "name": "Elitte Glitter métal et peinture à effet pailleté vernis Bronze 200",
+      "description": "Gamme de glaçures métalliques prêtes à l'emploi.",
+      "image": "https://www.topciment.com/imagenes/elitte/Bronze200.jpg",
+      "size": "500 mL",
+      "brand": "Elitte Glitter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "17"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "Cela dépend du type de finition que vous voulez obtenir."
+      }
+    },{
+      "@type": "Product",
+      "name": "Elitte Glitter métal et peinture à effet pailleté vernis Gold 500",
+      "description": "Gamme de glaçures métalliques prêtes à l'emploi.",
+      "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
+      "size": "500 mL",
+      "brand": "Elitte Glitter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "17"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "Cela dépend du type de finition que vous voulez obtenir."
+      }
+    },{
+      "@type": "Product",
+      "name": "Elitte Glitter métal et peinture à effet pailleté vernis Silver 500",
+      "description": "Gamme de glaçures métalliques prêtes à l'emploi.",
+      "image": "https://www.topciment.com/imagenes/elitte/Silver500.jpg",
+      "size": "500 mL",
+      "brand": "Elitte Glitter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "17"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "Cela dépend du type de finition que vous voulez obtenir."
+      }
+    }
+   
+  ]
+} </script>
 </body>
 
 </html>

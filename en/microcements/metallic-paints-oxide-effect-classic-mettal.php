@@ -540,7 +540,455 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Metallic and rust effect paints Classic Mettal",
+         "description": "Ready to use one-component metallic and rust effect paints. ",
+    "image": "https://www.topciment.com/imagenes/classic-mettal/Classic_Mettal_Cobre.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1Kg",
+    "material": "Water-based metallic paint with fine copper particles, the application of which gives a natural copper effect.",
+    "variesBy": "size",
+    "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metallic paints and rust effect"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "27"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Metallic and rust effect paints Classic Mettal Componente A Cobre 1 L",
+             "description": "Ready to use one-component metallic and rust effect paints. ",
+        "image": "https://www.topciment.com/imagenes/classic-mettal/Classic_Mettal_Cobre.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal",
+        "sku": "TT05002",
+        "gtin13": "8436575624204",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                  {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+     {
+        "@type": "Product",
+        "name": "Metallic and rust effect paints Classic Mettal Componente A Bronce 1 L",
+             "description": "Ready to use one-component metallic and rust effect paints. ",
+        "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Bronce.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal",
+        "sku": "TT05001",
+        "gtin13": "8436575624198",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                  {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic and rust effect paints Classic Mettal Componente A Mettal Hierro 004  1 L",
+             "description": "Ready to use one-component metallic and rust effect paints. ",
+        "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroFino.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal",
+        "sku": "TT05003",
+        "gtin13": "8436575624211",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                  {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic and rust effect paints Classic Mettal Componente A Latón 1 L",
+             "description": "Ready to use one-component metallic and rust effect paints. ",
+        "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Laton.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal",
+        "sku": "TT05005",
+        "gtin13": "8436575624235",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                  {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic and rust effect paints Classic Mettal Componente A Hierro 030 1 L",
+             "description": "Ready to use one-component metallic and rust effect paints. ",
+        "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroGrueso.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal",
+        "sku": "TT05004",
+        "gtin13": "8436575624228",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                  {
+        "@type": "PropertyValue",
+        "name": "Ready to use product",
+        "value": "Do not dilute with water."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Applicable on any substrate",
+        "value": "Microcement, concrete, brick, ceramic, plasterboard, gypsum, glass, paper and metals."
+      },
+      
+      {
+        "@type": "PropertyValue",
+        "name": "Versatility of application",
+        "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+      },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "0.15 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

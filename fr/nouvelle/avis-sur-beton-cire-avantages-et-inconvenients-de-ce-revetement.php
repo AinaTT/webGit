@@ -209,7 +209,7 @@
                         <figcaption class="figure-caption">Image du restaurant Nacionsushi à Valence avec la chaussée
                             recouverte de notre béton ciré.</figcaption>.
                     </figure>
-                    <h2>Inconvénients du béton ciré</h2>
+                    <h2>Avantages et inconvénients du microciment</h2>
 
                     <p>
                         Il est à noter que si un matériau de qualité est utilisé et que l'application est réalisée par
@@ -219,8 +219,7 @@
                         ciré ou au mauvais état du support qui sert de base du nouveau revêtement.
 
                     </p>
-                    <h3>Faire des erreurs dans l'application du béton ciré</h3>
-
+                    <h3>Faire des erreurs dans l'application du béton ciré</h3> 
                     <p>
                         L'application du béton ciré comporte des étapes très marquées. Modifier la commande ou faire des
                         erreurs dans le processus, en particulier lors de l'amorçage et du scellage, conduira

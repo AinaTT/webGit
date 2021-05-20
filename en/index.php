@@ -44,7 +44,6 @@
     <link rel="alternate" href="https://www.topciment.com/gr/" hreflang="el-GR" />
     <link rel="alternate" href="https://www.topciment.ru/" hreflang="ru-RU" />
     <link rel="alternate" href="https://www.topciment.us/" hreflang="en-US" />
-    <link rel="alternate" href="https://www.topciment.cn/" hreflang="zh-CN" />
 
 
     <link rel="preload" href="../assets/css/home.css" as="style" />
@@ -500,7 +499,7 @@
 
 
 
-    <script type="application/ld+json">
+     <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Organization",
@@ -508,7 +507,7 @@
   "url": "https://www.topciment.com/es/",
   "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
   "email": "info@topciment.com",
-  "description": "We are leaders in the manufacture of microcement in Spain. Guarantee of up to 10 years on all our products.",
+  "description": "We are leaders in the manufacture of microcement in Spain. Guarantee of up to 10 years on all our products",
   "telephone": "+34 963 925 989",
   "legalName":"Grupo Negocios PO SLU",
   "taxID":"B97539076",
@@ -518,7 +517,7 @@
     "postalCode": "46940",
     "streetAddress": "Calle Rosas 33, Manises 46940, Valencia"
   },
-  "slogan": "It is more than microcement, it is Topciment."
+  "slogan": "It's more than microcement, it's Topciment"
 }
 </script>
 

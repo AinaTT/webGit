@@ -64,7 +64,7 @@
                             <p>Somos fabricantes de microcementos desarrollados con las <strong>últimas tecnologías del
                                     mercado
                                     y 100% respetuosos con el medioambiente. </strong> Aunque nuestra mejor carta de
-                                presentación es
+                                 Presentazione es
                                 la opinión de nuestros clientes tras casi dos décadas de experiencia en el sector de la
                                 construcción.</p>
                             <p>En la búsqueda de la máxima calidad, seleccionamos cuidadosamente los materiales para que

@@ -12,21 +12,21 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/productos.css" as="style"/>
-    <link rel="stylesheet" href="../../assets/css/productos.css"/>
+    <link rel="stylesheet" href="../../assets/css/productos.css"/> 
 
 
-    <title>Gama de microcementos, barnices y pinturas | Productos Topciment</title>
-    <meta name="description" content="Conoce nuestra gama de microcementos, barnices, pinturas, pigmentos, veladuras, imprimaciones, productos de limpieza y herramientas."/>
+    <title>Gamma di microcementi, vernici e pitture : Topciment Products</title>
+    <meta name="description" content="Scopri la nostra gamma di microcementi, vernici, pitture, pigmenti, smalti, primer, prodotti per la pulizia e strumenti."/>
 
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Gama de microcementos, barnices y pinturas | Productos Topciment"/>
-    <meta property="og:description" content="Conoce nuestra gama de microcementos, barnices, pinturas, pigmentos, veladuras, imprimaciones, productos de limpieza y herramientas."/>
+    <meta property="og:title" content="Gamma di microcementi, vernici e pitture : Topciment Products"/>
+    <meta property="og:description" content="Scopri la nostra gamma di microcementi, vernici, pitture, pigmenti, smalti, primer, prodotti per la pulizia e strumenti."/>
     <meta property="og:url" content="https://www.topciment.com/es/productos"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Conoce nuestra gama de microcementos, barnices, pinturas, pigmentos, veladuras, imprimaciones, productos de limpieza y herramientas."/>
-    <meta name="twitter:title" content="Conoce nuestra gama de microcementos, barnices, pinturas, pigmentos, veladuras, imprimaciones, productos de limpieza y herramientas."/>
+    <meta name="twitter:description" content="Scopri la nostra gamma di microcementi, vernici, pitture, pigmenti, smalti, primer, prodotti per la pulizia e strumenti."/>
+    <meta name="twitter:title" content="Scopri la nostra gamma di microcementi, vernici, pitture, pigmenti, smalti, primer, prodotti per la pulizia e strumenti."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -58,8 +58,8 @@
 
             <!-- Start Sttandard -->
           
-            <h1 class="en2s">Microcementos, barnices y pinturas</h1>
-              <h2 class="en3s">SISTEMAS</h2>
+            <h1 class="en2s">Microcementi, vernici e pitture</h1>
+              <h2 class="en3s">SISTEMI</h2>
             <div class="row altofam">
                 <!-- Logo Sttandard -->
                 <div class="col-md-5 col text-center">
@@ -69,11 +69,10 @@
                 <div class="col-md-5">
                     <h2 class="sh2">Microcemento bicomponente</h2>
                     <p class="textos">
-                        Es la línea bicomponente (cemento + resina). Es el microcemento tradicional y el
-                        más
-                        utilizado. Su versatilidad ofrece una amplia variedad de acabados y permite su aplicación en
-                        infinidad de
-                        superficies.
+                         È la linea bicomponente (cemento + resina). È il microcemento tradizionale e il
+            più usato. Il suo multiuso offre un'ampia varietà di finiture e permette applicarlo a un'infinità di
+            superfici.
+          
 
                     </p>
                 </div>
@@ -107,16 +106,11 @@
     </div>
     <!-- Description Unlimitted -->
     <div class=" col-md-5 col-12">
-                        <h2 class="sh2">Microcemento bicomponente <span class="badge badge-warning">¡Nuevo!</span></h2>
-                        <p> Es la nueva línea
-                            bicomponente (cemento
-                            + resina). Tiene todas las
-                            ventajas de Sttandard,
-                            pero mejorando
-                            la trabajabilidad,
-                            la suavidad de los
-                            acabados y las
-                            resistencias mecánicas.</p>
+                        <h2 class="sh2">Microcemento bicomponente <span class="badge badge-warning">Nuovo!</span></h2>
+                        <p> È la nuova linea di microcemento bicomponente (cemento + resina). È la versione migliorata
+            della gamma Sttandard, ma con maggiore lavorabilità, finiture più delicate e liscie e migliore resistenze
+            meccaniche.
+          </p>
 
                 </div>
                 <!-- Products Unlimitted -->
@@ -147,10 +141,9 @@
                 <div class="col-md-5 col-12">
                     <h2 class="sh2">Microcemento monocomponente</h2>
                     <p class="textos">
-                        Es el microcemento monocomponente (cemento + agua). Permite simplificar las
-                        mezclas, la
-                        preparación, los posibles errores de aplicación e incluso los costes de transporte y
-                        almacenaje.
+                       È il microcemento monocomponent (cemento + acqua). Permette facilitare le
+            miscele, la preparazione, i possibili errori e persino i costi di trasporto e stoccaggio.
+          
                     </p>
                 </div>
                 <!-- Products Evoluttion -->
@@ -182,12 +175,10 @@
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento para piscinas</h2>
-                    Es la línea de microcemento bicomponente (cemento + resina) diseñada, especialmente,
-                    para
-                    piscinas y espacios en contacto permanente con agua. Su fórmula innovadora mejora
-                    sustancialmente la
-                    resistencia en inmersión.
+                    <h2 class="sh2">Microcemento per piscine</h2>
+              È la linea di microcemento bicomponente (cemento + resina) sviluppata, specificamente, per superfici a
+contatto permanente con l'acqua. La sua innovativa formula migliora sostanzialmente la resistenza all'immersione
+          
 
                 </div>
                 <!-- Products Evoluttion -->
@@ -213,13 +204,9 @@
                 </div>
                 <!-- Desctiption Efectto -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento listo al uso</h2>
+                    <h2 class="sh2">Microcemento pronto all'uso</h2>
                     <p class="textos">
-                        Es el microcemento listo al uso. Es un material acrílico que ofrece acabados
-                        decorativos
-                        naturales de alta calidad e inimitables. Permite reducir el efecto de aguas manteniendo la
-                        textura propia
-                        del microcemento.
+                        È il microcemento pronto all'uso. È un materiale acrilico che offre finiture decorative naturali di alta qualità e inimitabili. Riduce l'effetto dell'acqua mantenendo la consistenza del microcemento.
                     </p>
                 </div>
                 <!-- Products Efectto -->
@@ -255,12 +242,9 @@
                 </div>
                 <!-- Description Pure Mettal -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Revestimiento metálico</h2>
+                    <h2 class="sh2">Rivestimento metallico</h2>
                     <p class="textos">
-                        Es el revestimiento metálico bicomponente que destaca por su capacidad para
-                        crear efectos
-                        metálicos
-                        auténticos y con alto grado de brillo. Ofrece la posibilidad de obtener acabados oxidados.
+                        È il rivestimento metallico bicomponente che si distingue per la sua capacità di creare autentici effetti metallici con un alto grado di luminosità. Offre la possibilità di ottenere finiture ossidate.
 
 
                     </p>
@@ -297,11 +281,9 @@
                 </div>
                 <!-- Description Classic Mettal -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Pintura metálica efecto óxido</h2>
+                    <h2 class="sh2">Vernice metallica effetto ruggine</h2>
                     <p class="textos">
-                        Es la gama de recubrimientos con pigmentos metálicos listos al uso caracterizada
-                        por su
-                        capacidad para crear efectos oxidados auténticos y de alta calidad.</h3>
+                        È la gamma di rivestimenti di pigmenti metallici pronti all'uso, caratterizzati dalla loro capacità di creare effetti di ruggine autentici e di alta qualità.</h3>
 
                     </p>
                 </div>
@@ -340,11 +322,9 @@
                 </div>
                 <!-- Description Elitte -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Veladuras metálicas</h2>
+                    <h2 class="sh2">Smalti metallici</h2>
                     <p class="textos">
-                        Es la gama de veladuras con reflejos metalizados. Ofrece dos variedades de
-                        resultados:
-                        acabado metálico (Glaze) y acabado con purpurina (Glitter).</h3>
+                        È la gamma di smalti con riflessi metallici. Offre due varietà di risultati: finitura metallica (Glaze) e finitura glitter (Glitter).</h3>
 
 
                 </div>
@@ -368,7 +348,7 @@
         <div id="top" class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/sistemas/fondo4.jpg'); " data-img-width="1500" data-img-height="945" data-diff="100">
         </div>
         <div class="container text-white">
-            <h2 class="en3s">COMPLEMENTOS</h2>
+            <h2 class="en3s">COMPLEMENTI</h2>
             <!-- Start Acricem -->
             <div class="row altofam">
                 <!-- Logo Acricem -->
@@ -377,10 +357,9 @@
                 </div>
                 <!-- Description Acricem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Resina para microcemento</h2>
+                    <h2 class="sh2">Resina per microcemento</h2>
                     <p class="textos">
-                        Acricem es nuestra resina para microcemento por excelencia. De base agua, esta resina acrílica aumenta las resistencias mecánicas y la impermeabilidad del mortero. Especialmente recomendada para el microcemento bicomponente.
-
+                        Acricem è la nostra resina di microcemento per eccellenza. A base d'acqua, questa resina acrilica aumenta la resistenza meccanica e l'impermeabilità della malta. Specialmente raccomandato per il microcemento bicomponente.
                     </p>
                 </div>
                 <!-- Products Acricem -->
@@ -407,11 +386,9 @@
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Imprimaciones y promotores adherencia microcemento</h2>
+                    <h2 class="sh2">Primer e promotori di adesione microcemento</h2>
                     <p class="textos">
-                        Gama de imprimaciones y promotores de adherencia de microcemento de Topciment. Conjunto de
-                        productos que forman parte del proceso previo a la aplicación del microcemento, facilitando y
-                        optimizando la unión entre el soporte existente y el nuevo revestimiento.
+                        Gamma di primer e promotori di adesione microcemento Topciment. Insieme di prodotti che fanno parte del processo prima dell'applicazione del microcemento, facilitando e ottimizzando l'unione tra il supporto esistente e il nuovo rivestimento.
                     </p>
                 </div>
                 <!-- Products Primacem -->
@@ -446,11 +423,9 @@
                 </div>
                 <!-- Description Arcocem -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Pigmentos y colores microcemento</h2>
+                    <h2 class="sh2">Pigmenti e colori di microcemento</h2>
                     <p class="textos">
-                        Es la línea de pigmentos y colores de microcemento de Topciment. Compuesta por 6 colores básicos
-                        (Arcocem Basic) que permiten crear infinidad de tonos y gamas comáticas para conseguir acabados
-                        auténticos y personalizados (Arcocem Plus).
+                        È la linea di pigmenti e colori per microcemento di Topciment. Composto da 6 colori di base (Arcocem Basic) che permettono di creare un numero infinito di toni e gamme di colori per ottenere finiture autentiche e personalizzate (Arcocem Plus).
 
                     </p>
                 </div>
@@ -481,11 +456,9 @@
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Selladores y barnices microcemento</h2>
+                    <h2 class="sh2">Sigillanti e vernici per microcemento</h2>
                     <p class="textos">
-                        Topsealer es el conjunto de selladores y barnices de microcemento. Productos de elevadas
-                        resistencias químicas y mecánicas con los que protegerás por mucho más tiempo las superficies
-                        recubiertas con microcemento.
+                        Topsealer è il set di sigillanti e vernici per microcemento. Prodotti con alta resistenza chimica e meccanica con i quali si proteggono le superfici ricoperte di microcemento per molto più tempo.
                     </p>
                 </div>
                 <!-- Products TopSealer -->
@@ -539,10 +512,9 @@
                 </div>
                 <!-- Description Ecoclean -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Limpieza del microcemento</h2>
+                    <h2 class="sh2">Pulizia del microcemento</h2>
                     <p class="textos">
-                        Productos altamente especializados para la limpieza del microcemento. Se caracterizan por ser
-                        biodegradables y respetuosos con el medioambiente.
+                        Prodotti altamente specializzati per la pulizia del microcemento. Si caratterizzano per essere biodegradabili e rispettosi dell'ambiente.
 
 
                     </p>
@@ -573,10 +545,9 @@
                 </div>
                 <!-- Description Ceraciment -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Cuidado del microcemento</h2>
+                    <h2 class="sh2">Cura del microcemento</h2>
                     <p class="textos">
-                        Ceras de mantenimiento que dotan a los suelos de microcemento de un atractivo brillo natural y
-                        un extra de dureza. Productos imprescindibles para el cuidado y mantenimiento del microcemento.
+                        Cere di manutenzione che danno ai pavimenti in microcemento una lucentezza naturale attraente e una durezza extra. Prodotti essenziali per la cura e la manutenzione del microcemento.
                     </p>
                 </div>
                 <!-- Products Ceraciment -->
@@ -607,11 +578,9 @@
                 </div>
                 <!-- Description TopTools -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Herramientas microcemento</h2>
+                    <h2 class="sh2">Attrezzi per microcemento</h2>
                     <p class="textos">
-                        Herramientas testadas por Topciment para una óptima aplicación del microcemento. Contamos con
-                        varillas mezcladoras, perfil de aluminio, llanas de goma y acero, malla de fibra de vidrio y
-                        rodillo de pelo corto.
+                        Strumenti testati da Topciment per l'applicazione ottimale del microcemento. Abbiamo aste di miscelazione, profili in alluminio, cazzuole in gomma e acciaio, rete in fibra di vetro e rullo a pelo corto.
 
 
                     </p>
@@ -635,8 +604,7 @@
                                 <strong>Rodillo de pelo corto</strong></a>
                         </div>
                     </div>
-                </div>
-
+                </div> 
             </div>
             <div class="separador">
             </div>

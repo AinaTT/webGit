@@ -172,7 +172,7 @@
                         <h2>Reazione al fuoco</h2>
                         <div id="iconoIzquierda"><img
                                 src="https://www.topciment.com/imagenes/icono-resistencia-fuego.jpg"
-                                alt="Resistencia al fuego"></div>
+                                alt="Resistenza al fuoco"></div>
                         <div id="leyendaIcono">
                             <p>La reazione al fuoco dei materiali da costruzione è il comportamento di un materiale
                                 contro il fuoco secondo il suo contributo allo sviluppo del fuoco. Questo comportamento

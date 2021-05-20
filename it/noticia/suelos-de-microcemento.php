@@ -270,7 +270,7 @@
                         importantes o que perjudiquen a la resina y, por último, mover muebles de aquí para allá. Si se
                         tienen en cuenta todos estos consejos, no habrá problemas futuros en los suelos de microcemento.
                     </p>
-                    <p>Para más información sobre el microcemento, explora nuestra página ¿Qué es el microcemento?  <a href="https://www.topciment.com/es/microcementos"> ¿Qué es el 
+                    <p>Para más información sobre el microcemento, explora nuestra página Cos'è el microcemento?  <a href="https://www.topciment.com/es/microcementos"> Cos'è el 
                     
                     microcemento?</a>. En ella resolvemos algunas de las preguntas más frecuentes sobre este
                         revesimiento.

@@ -16,16 +16,16 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcemento bicomponente con mayor trabajabilidad | Unlimitted</title>
+    <title>Microcemento bicomponente con migliore lavorabilità | Unlimitted</title>
     <meta name="description"
-        content="El microcemento Unlimitted es el microcemento bicomponente con mejor trabajabilidad de Topciment. Reduce el efecto de quemado y ofrece acabados más suaves." />
+        content="Il microcemento illimitato è il microcemento bicomponente con una migliore lavorabilità di Topciment. Riduce l'effetto bruciato e offre finiture più lisce." />
 
 
-    <meta property="og:title" content="Microcemento bicomponente con mayor trabajabilidad | Unlimitted">
+    <meta property="og:title" content="Microcemento bicomponente con migliore lavorabilità | Unlimitted">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcementos/unlimitted">
     <meta property="og:description"
-        content="El microcemento Unlimitted es el microcemento bicomponente con mejor trabajabilidad de Topciment. Reduce el efecto de quemado y ofrece acabados más suaves.">
+        content="Il microcemento illimitato è il microcemento bicomponente con una migliore lavorabilità di Topciment. Riduce l'effetto bruciato e offre finiture più lisce.">
     <meta property="og:type" content="article">
 
 
@@ -68,7 +68,7 @@
                                     <a href="#up" style="font-size:26px">Unlimitted</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-unlimitted">¿Qué es Unlimitted?</a></h2>
+                                    <h2><a href="#que-es-unlimitted">Cos'è Unlimitted?</a></h2>
                                 </li>
                                 <li>
                                     <h2><a href="#unlimitted-microbase">Unlimitted Microbase</a></h2>
@@ -77,10 +77,10 @@
                                     <h2><a href="#unlimitted-microdeck">Unlimitted Microdeck</a></h2>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Aplicación</a></h2>
+                                    <h2> <a href="#aplicacion">Applicazione</a></h2>
                                 </li>
                                 <li>
-                                    <h2><a href="#colores">Colores</a></h2>
+                                    <h2><a href="#colores">Colori</a></h2>
                                 </li>
 
 
@@ -90,23 +90,23 @@
 
                             <a id="que-es-unlimitted" class="ancla"></a>
 
-                            <h1 class="en2">Microcemento bicomponente con mayor trabajabilidad | Unlimitted</h1>
+                            <h1 class="en2">Microcemento bicomponente con migliore lavorabilità | Unlimitted</h1>
                             <div class="text-justify">
 
 
 
-                               <p>
-                                    Unlimitted es la nueva línea de microcemento bicomponente (cemento y resina) de Topciment. Su principal cualidad es que mejora considerablemente la trabajabilidad del material por parte del aplicador.
+                         <p>
+                              Unlimitted è la nuova linea di microcemento bicomponente (cemento e resina) di Topciment. La sua qualità principale è che migliora notevolmente la lavorabilità del materiale da parte dell'applicatore.
 
-                               </p>    
+                         </p>    
 <p>
-    Gracias a su innovadora fórmula, las resistencias mecánicas finales de Unlimitted son excepcionales. Un microcemento bicomponente cuyos acabados decorativos son mucho más suaves y lisos y que puede presumir de una extraordinaria resistencia al tránsito.
+    Grazie alla sua formula innovativa, la resistenza meccanica finale di Unlimitted è eccezionale. Un microcemento bicomponente le cui finiture decorative sono molto più morbide e lisce e che può vantare una straordinaria resistenza al traffico.
 
 </p>    
 <p>
-    Otra de las cualidades de este revestimiento es que reduce el efecto de quemado fruto de la aplicación del material con llana de acero. Ofrece además una ductilidad similar a los morteros base cal.
-
-</p>    
+    Un'altra delle qualità di questo rivestimento è che riduce l'effetto bruciato risultante dall'applicazione del materiale con una spatola d'acciaio. Offre anche una duttilità simile alle malte a base di calce.
+      
+</p> 
 
 
                             </div>
@@ -153,31 +153,31 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
 
-                            <h2>Microcemento bicomponente de preparación Unlimitted Microbase</h2>
+                            <h2>Microcemento bicomponente per la preparazione Unlimitted Microbase</h2>
 
 <p>
-    Unlimitted Microbase es el microcemento bicomponente de preparación de la gama Unlimitted. Se aplica siempre con anterioridad a Unlimitted Microdeck S y a Unlimitted Microdeck M.
+    Unlimitted Microbase è la preparazione di microcemento bicomponente della gamma Unlimitted. Viene sempre applicato prima di Unlimitted Microdeck S e Unlimitted Microdeck M.
 
 </p>    
 <p>
-    Entre los múltiples acabados decorativos disponibles, Unlimitted da la opción al profesional de apostar por un acabado rústico. Es por esto que este revestimiento puede utilizarse también como microcemento bicomponente de terminación.
+    Tra le molte finiture decorative disponibili, Unlimitted dà al professionista la possibilità di optare per una finitura rustica. Ecco perché questo rivestimento può essere utilizzato anche come microcemento di finitura bicomponente.
 
 </p>    
 <p>
-    Unlimitted Microbase está disponible en 3 granulometrías: L, XL y XXL.
-
-</p>    
+    Unlimitted Microbase è disponibile in 3 granulometrie: L, XL e XXL.
+     
+</p>  
                             <a class="links"
                                 href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrobaseBI-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de
+                                </span>Scarica qui la scheda tecnica di
                                 Unlimitted Microbase
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento bicomponente de preparación Unlimitted Microbase</h3>
+                    <h3 class="en3">Tipi di microcemento bicomponente di preparazione Unlimitted Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -203,8 +203,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -212,8 +211,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>9 N /m² (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>9 N /m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -223,8 +222,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Resistencia a la compresión</strong>
-                                    <p>55 N /m² (28 días)
+                                    <strong> Resistenza alla compressione</strong>
+                                    <p>55 N /m² (28 giorni)
                                 </div>
                             </div>
                         </div>
@@ -236,7 +235,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,5N /m²</p>
                                 </div>
@@ -248,7 +247,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego
+                                    <strong>Resistenza al fuoco
                                     </strong>
                                     <p> BFL S1
                                     </p>
@@ -258,18 +257,18 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
-                        <div class="col-md-12"> Unlimitted Microbase L (2 manos / 2 layers): 2,0 kg/m2</div>
-                        <div class="col-md-12"> Unlimitted Microbase XL (2 manos / 2 layers): 3,0 kg/m2 </div>
+                        <div class="col-md-12"> Unlimitted Microbase L (2 mani ): 2,0 kg/m2</div>
+                        <div class="col-md-12"> Unlimitted Microbase XL (2 mani ): 3,0 kg/m2 </div>
 
-                        <div class="col-md-12"> Unlimitted Microbase XXL (2 manos / 2 layers): 3,0 kg/m2 </div>
+                        <div class="col-md-12"> Unlimitted Microbase XXL (2 mani ): 3,0 kg/m2 </div>
 
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento bicomponente de preparación Unlimitted Microbase se presenta en cubos cónicos negros de plástico de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento di preparazione bicomponente Unlimitted Microbase si presenta in contenitori conici di plastica nera da 20 kg.
                     </p>
                 </div>
             </div>
@@ -311,36 +310,36 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
 
-                         <h2> Microcemento bicomponente de terminación Unlimitted Microdeck</h2>
+                         <h2> Microcemento di finitura bicomponente Unlimitted Microdeck</h2>
 
 <p>
-    Unlimitted Microdeck se utiliza como microcemento bicomponente de terminación. Este recubrimiento se puede aplicar en todo tipo de superficies transitables y no transitables, ya sea en estancias interiores o exteriores.
+    Unlimitted Microdeck è usato come una finitura di microcemento bicomponente. Questo rivestimento può essere applicato su tutti i tipi di superfici transitabili e non transitabili, sia all'interno che all'esterno.
 
 </p>    
 <p>
-    En comparación con Sttandard Microdeck, los acabados de Unlimitted Microdeck son más suaves. Asimismo, si el profesional lo aplica mediante llana de acero no tendrá que preocuparse por el típico efecto de quemado, ya que no hay tal.
+    Rispetto a Sttandard Microdeck, Unlimitted Microdeck ha una finitura più liscia. Inoltre, se il professionista lo applica con una spatola d'acciaio, non c'è bisogno di preoccuparsi del tipico effetto bruciato, perché non c'è.
 
 </p>    
 <p>
-    En cuanto a la comparación de las dos granulometrías en las que se encuentra disponible Unlimitted Microdeck, Unlimitted Microdeck S asegura acabados más suaves que su análogo Unlimmited Microdeck M. Además, seca más despacio y se puede repasar.
+    Confrontando le due dimensioni delle particelle in cui Unlimitted Microdeck è disponibile, Unlimitted Microdeck S assicura finiture più lisce rispetto al suo analogo Unlimmited Microdeck M. Inoltre, si asciuga più lentamente ed è più facile da passare.
+    
 
 </p>    
-
 <p>
-    Unlimitted Microdeck está disponible en 2 granulometrías: S y M.
+    Unlimitted Microdeck è disponibile in 2 granulometrie: S e M.
 
 </p>    
                             <a class="links"
                                 href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrodeckBI-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de
+                                </span>Scarica qui la scheda tecnica di
                                 Unlimitted Microdeck
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos  -->
-                    <h3 class="en3">Tipos de microcemento bicomponente de terminación Unlimitted Microdeck</h3>
+                    <h3 class="en3">Tipi di microcemento bicomponente di terminazione Unlimitted Microdeck</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -359,7 +358,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -367,8 +366,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>9 N /m² (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>9 N /m² (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -378,8 +377,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Resistencia a la compresión</strong>
-                                    <p>50 N /m² (28 días)
+                                    <strong> Resistenza alla compressione</strong>
+                                    <p>50 N /m² (28 giorni)
                                 </div>
                             </div>
                         </div>
@@ -391,7 +390,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>1,5N /m²</p>
                                 </div>
@@ -403,7 +402,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/inflamable.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia al fuego
+                                    <strong>Resistenza al fuoco
                                     </strong>
                                     <p> BFL S1
                                     </p>
@@ -413,18 +412,18 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
-                        <div class="col-md-12"><span><strong>Unlimitted Microdeck S </strong> (2 manos): 2,20
+                        <div class="col-md-12"><span><strong>Unlimitted Microdeck S </strong> (2 mani): 2,20
                                 kg/m²</span>
                             <br>
-                            <strong> Unlimitted Microdeck M</strong> (2 manos): 1,80 kg/m²
+                            <strong> Unlimitted Microdeck M</strong> (2 mani): 1,80 kg/m²
                         </div>
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento bicomponente de terminación Unlimitted Microdeck se presenta en cubos de plástico cónicos negros de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento di finitura bicomponente Unlimitted Microdeck si presenta in contenitori di plastica conici neri da 20 kg.
 
                     </p>
                 </div>
@@ -445,7 +444,7 @@
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
                     <h2>
-                            <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación microcemento bicomponente Unlimitted en suelos y paredes
+                            <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+Applicazione Microcemento bicomponente illimitato su pavimenti e pareti
                                 </strong></a>
                     </h2>
                         <div class="ocultable" id="wall" style="display: block;">
@@ -453,7 +452,7 @@
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Colocar la malla sobre la superficie a recubrir.
+                                    <strong>Passo 1</strong><br>Posizionare la rete sulla superficie da rivestire.
                                     <br>Aplicar Primacem Plus/ABS</a> .
                                 </div>
                                 <!-- Icono -->
@@ -471,8 +470,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2</strong><br>Aplicar una primera capa de Microbase sin pigmento.
-                                    Lijar.
+                                    <strong>Passo 2</strong><br>Applicare una prima mano di Microbase senza pigmento. Carteggiare.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -488,8 +486,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3</strong><br> Aplicar una segunda capa de Microbase con pigmento.
-                                    Lijar.
+                                    <strong>Passo 3</strong><br> Applicare un secondo strato di Microbase con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -505,8 +503,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4</strong><br>Aplicar una primera capa de Microdeck con pigmento.
-                                    Lijar.
+                                    <strong>Passo 4</strong><br>Applicare una prima mano di Microdeck con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -522,8 +520,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5</strong><br>Aplicar una segunda capa de Microdeck con pigmento.
-                                    Lijar.
+                                    <strong>Passo 5</strong><br>Applicare un secondo strato di Microdeck con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -539,7 +537,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6</strong><br>Aplicar mediante rodillo dos capas de Presealer. <br>
+                                    <strong>Passo 6</strong><br>Applicare due mani di Presealer a rullo. <br>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -555,7 +553,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 7</strong><br>Aplicar mediante rodillo dos capas de Topsealer. <br>
+                                    <strong>Passo 7</strong><br>Applicare a rullo due mani di Topsealer. <br>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -587,7 +585,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Colores microcemento bicomponente Unlimitted</h2>
+                       Colori di microcemento bicomponente Unlimitted</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -973,22 +971,22 @@
     "additionalProperty": [
       {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "55 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "55 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
     ],
@@ -1048,22 +1046,22 @@
         },
         "additionalProperty": [{
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "55 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "55 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
         ],
@@ -1121,22 +1119,22 @@
         "additionalProperty": [
           {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "55 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "55 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
         ],
@@ -1194,22 +1192,22 @@
         "additionalProperty": [
           {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "55 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "55 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
         ],
@@ -1269,22 +1267,22 @@
     "additionalProperty": [
       {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
     ],
@@ -1344,22 +1342,22 @@
         },
         "additionalProperty": [   {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
         ],
@@ -1417,22 +1415,22 @@
         "additionalProperty": [
             {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "9 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "9 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Resistencia al fuego",
+      "name": "Resistenza al fuoco",
       "value": "BFL S1"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "50 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "50 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "1,5 N/m²"
     }
         ],

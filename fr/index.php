@@ -439,7 +439,7 @@
 
 
     <script defer src='../assets/js/script.js'></script>
-     <script type="application/ld+json">
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Organization",
@@ -447,7 +447,7 @@
   "url": "https://www.topciment.com/es/",
   "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
   "email": "info@topciment.com",
-  "description": "Nous sommes les leaders de la fabrication de béton ciréen Espagne. Garantie jusqu'à 10 ans sur tous nos produits.",
+  "description": "Nous sommes les leaders de la fabrication de microciment en Espagne. Garantie jusqu'à 10 ans sur tous nos produits.",
   "telephone": "+34 963 925 989",
   "legalName":"Grupo Negocios PO SLU",
   "taxID":"B97539076",
@@ -457,7 +457,7 @@
     "postalCode": "46940",
     "streetAddress": "Calle Rosas 33, Manises 46940, Valencia"
   },
-  "slogan": "C'est plus que du microciment, c'est du Topciment."
+  "slogan": "C'est plus que du béton ciré, c'est  Topciment"
 }
 </script>
 </body>

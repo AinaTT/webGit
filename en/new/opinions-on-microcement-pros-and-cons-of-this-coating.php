@@ -194,7 +194,7 @@
                         alt="Nacionsushi restaurant with microcemento pavement" width="auto" height="auto">
                     <figcaption class="figure-caption">Image of the Nacionsushi restaurant in Valencia with the flooring coated with our microcement. </figcaption>.
                 </figure>
-                <h2>Cons of microcement</h2>
+                <h2>Advantages and disadvantages of microcement </h2>
 
                 <p>
                     It should be noted that if a quality material is used and the application is carried out by a

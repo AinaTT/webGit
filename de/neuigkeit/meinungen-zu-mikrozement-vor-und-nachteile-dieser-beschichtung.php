@@ -213,7 +213,7 @@
                         <figcaption class="figure-caption">Bild des Nacionsushi Restaurants in Valencia mit der
                             Pflasterung mit unserem microcemento.</figcaption>.
                     </figure>
-                    <h2>Nachteile von Mikrozement</h2>
+                    <h2>Vorteile und Nachteile von Mikrozement </h2>
 
                     <p>
                         Es sollte beachtet werden, dass Mikrozement keine Nachteile hat, wenn ein Qualitätsmaterial

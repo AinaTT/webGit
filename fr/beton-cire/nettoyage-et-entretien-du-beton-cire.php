@@ -503,7 +503,7 @@
                                 <div class=" col-md-9">
                                     <strong>
                                         PH</strong>
-                                    <p>Entre 8.5 - 9.5</p>
+                                    <p>9 ± 0,5</p>
                                 </div>
                             </div>
                         </div>
@@ -528,7 +528,7 @@
                                 <div class=" col-md-9">
                                     <strong>Solides
                                     </strong>
-                                    <p>23.37%
+                                    <p> 23 ± 2 %
                                     </p>
 
                                 </div>
@@ -542,7 +542,7 @@
                                 <div class=" col-md-9">
                                     <strong>viscosité
                                     </strong>
-                                    <p>12.84s (Copa Ford 4)
+                                    <p>13 ± 1s (Copa Ford 4)
                                     </p>
                                 </div>
                             </div>
@@ -581,7 +581,880 @@
     </div>
 
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Cire protectrice microciment Ceraciment Basic",
+         "description": "Ceraciment Basic est une cire d'entretien pour sols qui apporte dureté et brillance naturelle à toute surface.",
+    "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Entrez 6,5 - 7,5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,00 ±0.005 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Pas de jaunissement",
+        "value": "Pas de jaunissement même après une exposition prolongée au soleil."
+      },
 
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "A la main 0,25 mL/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Nettoyage et entretien microcemento "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "11"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Cire protectrice microciment Ceraciment Basic 5L",
+             "description": "Ceraciment Basic est une cire d'entretien pour sols qui apporte dureté et brillance naturelle à toute surface.",
+        "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ceraciment-basic",
+        "sku": "TT07001",
+        "gtin13": "8436575624570",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Entrez 6,5 - 7,5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,00 ±0.005 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Pas de jaunissement",
+        "value": "Pas de jaunissement même après une exposition prolongée au soleil."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "A la main 0,25 mL/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "11"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Cire protectrice pour microciment Ceraciment Pro",
+         "description": "Ceraciment Pro est une cire d'entretien pour les sols à usage intensif avec une finition métallique.",
+    "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Entrez 8.5 - 9.5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,03 ± 0.01 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Viscosité",
+        "value": "12.84s (Copa Ford 4)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Solids",
+        "value": "23.37%"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "Machine 20-40 mL/m2 A la main 30-50 mL/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Nettoyage et entretien microcemento "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Cire protectrice pour microciment Ceraciment Pro 5L",
+             "description": "Ceraciment Pro est une cire d'entretien pour les sols à usage intensif avec une finition métallique.",
+        "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ceraciment-pro",
+        "sku": "TT07002",
+        "gtin13": "8436575624587",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Entrez 8.5 - 9.5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,03 ± 0.01 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Viscosité",
+        "value": "12.84s (Copa Ford 4)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Solids",
+        "value": "23.37%"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "Machine 20-40 mL/m2 A la main 30-50 mL/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "15"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Nettoyant de base pour microciment Ecoclean",
+         "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment.",
+    "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg et 5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dans l'eau",
+        "value": "Soluble Dans l'eau"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "165-250 ml/m2 produit pur - 33 - 50 ml / m2 dilué 1: 5 Dans l'eau -10 - 12, ml / m2 dilué 1: 20 Dans l'eau "
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Nettoyage et entretien microcemento "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "16"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Nettoyant de base pour microciment Ecoclean 1L",
+             "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment..",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-basic",
+        "sku": "TT07003",
+        "gtin13": "8436575624594",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dans l'eau",
+        "value": "Soluble Dans l'eau"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "165-250 ml/m2 produit pur - 33 - 50 ml / m2 dilué 1: 5 Dans l'eau -10 - 12, ml / m2 dilué 1: 20 Dans l'eau "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Nettoyant de base pour microciment Ecoclean 5 L",
+             "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment..",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-basic",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dans l'eau",
+        "value": "Soluble Dans l'eau"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "165-250 ml/m2 produit pur - 33 - 50 ml / m2 dilué 1: 5 Dans l'eau -10 - 12, ml / m2 dilué 1: 20 Dans l'eau "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Nettoyant pour microciment Ecoclean Pro",
+         "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
+    "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg, 5 Kg et 25Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Détartrant",
+        "value": "Pouvoir séquestrant élevé, Détartrant et émulsifiant."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "166-250 ml/m2 pur - 33-50 ml/m2 dilué 1:5 dans l'eau -  16-25 ml/m2 dilué 1:10 dans l'eau "
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Nettoyage et entretien microcemento "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "12"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Nettoyant pour microciment Ecoclean Pro 1L",
+             "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Détartrant",
+        "value": "Pouvoir séquestrant élevé, Détartrant et émulsifiant."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "166-250 ml/m2 pur - 33-50 ml/m2 dilué 1:5 dans l'eau -  16-25 ml/m2 dilué 1:10 dans l'eau "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Nettoyant pour microciment Ecoclean Pro 5 L",
+             "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Détartrant",
+        "value": "Pouvoir séquestrant élevé, Détartrant et émulsifiant."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "166-250 ml/m2 pur - 33-50 ml/m2 dilué 1:5 dans l'eau -  16-25 ml/m2 dilué 1:10 dans l'eau "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Nettoyant pour microciment Ecoclean Pro 25 L",
+             "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "25 L",
+        "url": "https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        "weight": "25 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Environnement",
+        "value": "Produit écologique et biodégradable"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Densité",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Détartrant",
+        "value": "Pouvoir séquestrant élevé, Détartrant et émulsifiant."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "166-250 ml/m2 pur - 33-50 ml/m2 dilué 1:5 dans l'eau -  16-25 ml/m2 dilué 1:10 dans l'eau "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

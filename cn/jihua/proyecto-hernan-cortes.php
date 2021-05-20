@@ -21,7 +21,6 @@
  <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-hernan-cortes" hreflang="zh-CN"/>
    
 
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

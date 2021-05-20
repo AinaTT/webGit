@@ -1191,7 +1191,96 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">
   </script>
   <!-- include jQuery -->
-
+<script type = "application/ld+json" > 
+{
+    "@context": "https://schema.org/",
+    "@type": "Thing",
+    "name": "Béton ciré",
+    "description:": "Le microciment Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il se pose directement sur le matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, entre autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.",
+    "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Où peut-on appliquer le microciment ?",
+      "value": " Des escaliers ou des piscines en microciment aux meubles recouverts de microciment. Bien que l'utilisation par excellence du microciment soit dans les sols et les murs des cuisines, des salles de bains et des espaces extérieurs tels que les terrasses."
+    },{
+      "@type": "PropertyValue",
+      "name": "Avantages du microciment",
+      "value": " Multiples finitions décoratives, surface sans joints ; Peut être appliqué sur les sols, les murs, les plafonds, les piscines et les meubles. Espaces intérieurs et extérieurs ; Grande variété de couleurs et de textures de microciment ; Application artisanale. Résultat exclusif et personnalisé ; Haute adhérence. Compatible avec les carreaux, le marbre, la céramique, le grès, le terrazzo, les plaques de plâtre, le béton, le ciment, le plâtre, etc. Résistant au trafic, aux coups, aux rayures et aux produits chimiques. Imperméable. Antidérapant, selon la finition. Des travaux rapides et sans débris. L'épaisseur du matériau est de 2/3 mm, ce qui n'affecte pas la charge structurelle du bâtiment. Matériaux naturels. Produit 100% écologique. Entretien et nettoyage faciles ; avec de l'eau et du savon à pH neutre. Espaces exempts de germes et de bactéries."
+    }
+    ,{
+      "@type": "PropertyValue",
+      "name": "Finitions en microciment",
+      "value": "Les différentes finitions de microciment que l'on peut obtenir dépendent des textures et des vernis ou scellants utilisés, car ce sont deux éléments qui conditionnent l'aspect et la finition finale de nos microciments. Nous avons des finitions mates, super mates, satinées, brillantes et mates antidérapantes."
+    },{
+      "@type": "PropertyValue",
+      "name": "Couleurs du microciment",
+      "value": "Nous disposons d'une large gamme de couleurs de microciment. Le système de pigmentation vous permet de créer n'importe quelle couleur sur mesure, personnalisant ainsi les pièces et les environnements pour obtenir votre propre style.Blanc, gris, vert, rouge, noir ou bleu ne sont que quelques-unes des nombreuses couleurs de microciment disponibles pour nos systèmes."
+    }
+  ],
+  "hasVariant":[
+    {
+      "@type": "Product",
+      "name": "Microciment à deux composants Sttandard",
+	  "description": "Microciment traditionnel à deux composants applicable à la fois aux sols et aux murs. Il se distingue par sa robustesse, sa polyvalence et sa capacité à créer des textures uniques.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
+	  "brand": "Atlanttic",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "20"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Microciment à deux composants Non limité",
+	  "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
+	  "brand": "Unlimitted",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "19"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Microciment monocomposant Evoluttion",
+	  "description": "La simplification des mélanges réduit les erreurs futures. C'est ce que garantit EVOLUTTION, notre microciment monocomposant. Il offre une très bonne résistance mécanique et une grande maniabilité du matériau.",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
+	  "brand": "Evoluttion",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "19"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Microciment Atlanttic pour piscines",
+	  "description": "ATLANTTIC est notre ligne exclusive de microciment pour les piscines et autres surfaces en contact permanent avec l'eau. ",
+	  "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
+	  "brand": "Atlanttic",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "25"
+	  }
+    },
+	{
+      "@type": "Product",
+      "name": "Microciment prêt à l'emploi Efectto",
+	  "description": "Aucun autre microciment ne garantit une application aussi rapide que le QUARTZ EFECTTO, notre microciment prêt à l'emploi disponible en 4 granulométries. ",
+	  "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
+	  "brand": "Efectto",
+	  "aggregateRating": {
+		"@type": "AggregateRating",
+		"ratingValue": "5",
+		"reviewCount": "17"
+	  }
+    }
+  ]
+  } 
+  </script>
 </body>
 
 </html>

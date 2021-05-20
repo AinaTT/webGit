@@ -1090,7 +1090,7 @@
                              ¿Cómo preservar la calidad del microcemento empastado sobrante?
                             </strong> </a>
                         <div style="font-size:16px;">
-                          <p>Si tras finalziar el trabajo te sobra producto, es recomendable poner un plástico que evite que el material esté en contacto con el aire. Haciendo esto, el microcemento empastado Efectto Quartz se conservará perfectamente sin perder sus propiedades.</p>
+                          <p>Si tras finalizar el trabajo te sobra producto, es recomendable poner un plástico que evite que el material esté en contacto con el aire. Haciendo esto, el microcemento empastado Efectto Quartz se conservará perfectamente sin perder sus propiedades.</p>
                         </div>
 
                     </div>

@@ -141,7 +141,7 @@
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Fast_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer Pro +</strong> (barniz poliuretano 100% sólidos e impermeable)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTonecoat-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One Coat</strong> (barniz poliuretano al agua bicomponente)</a><br>
-                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTquickdry-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick Dry</strong> (barniz poliuretano al agua de secado rápido)</a><br>
+                         <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTquickdry-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick Dry</strong> (barniz poliuretano al agua de Asciugatura rapida)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTantiSlip-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti Slip</strong> (barniz poliuretano al agua antideslizante) </a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong> (barniz poliuretano acrílico bicomponente al disolvente)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/Presealer-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong> (barniz acrílico al agua)</a><br>
@@ -155,7 +155,7 @@
                          <a href="https://www.topciment.com/fichas-tecnicas/Ceraciment-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Basic</strong>  (cera mantenimiento y protección suelos)
                             </a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/CeracimentPRO-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Pro</strong>
-                            (cera mantenimiento y protección suelos de alto brillo)</a><br>
+                            (cera mantenimiento y protección suelos de Alta brillantezza)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/Ecoclean-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Basic</strong> (limpiador ecológico de  uso doméstico)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/EcocleanPRO-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ecoclean Pro</strong>
                              (limpiador ecológico de uso profesional)</a><br>

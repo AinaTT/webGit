@@ -3,27 +3,28 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000"/>
-    <meta name="viewport" content="width=device-width"/>
+    <meta name="theme-color" content="#000" />
+    <meta name="viewport" content="width=device-width" />
 
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
+    <meta name="Language" content="ES" />
 
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <link rel="preload" href="../../assets/css/contacto.css" as="style"/>
-    <link rel="stylesheet" href="../../assets/css/contacto.css"/>
+    <link rel="preload" href="../../assets/css/contacto.css" as="style" />
+    <link rel="stylesheet" href="../../assets/css/contacto.css" />
 
 
-    <title>Microcemento Bilbao >> Aplicacion, Presupuesto GRATIS y SIN COMPROMISO</title>
-    <meta name="description" content="Microcemento en Bilbao Topciment. Aplicador de microcemento profesional en Bilbao y alrededores: Portugalete, Barakaldo, Sestao, Getxo, Basauri, Amorabieta"/>
+    <title>Microcemento Bilbao - Presupuesto  aplicación de microcemento</title>
+    <meta name="description"
+        content="Pide presupuesto de instalación y aplicación de microcemento en Bilbao. Todo tipo de obras en Portugalete, Barakaldo, Getxo, Basauri y Amarobieta" />
 
 
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/delegaciones/microcemento-bilbao"/>
- <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-bilbao" hreflang="es-ES"/>
+    <link rel="canonical" href="https://www.topciment.com/es/delegaciones/microcemento-bilbao" />
+    <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-bilbao" hreflang="es-ES" />
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -45,85 +46,161 @@
                         <div class="map-wrap">
                             <div class="overlay" onClick="style.pointerEvents='none'"></div>
                             <!-- wrap map iframe to turn off mouse scroll and turn it back on on click -->
-                            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46486.8700555201!2d-2.9685173898608994!3d43.26337961244587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e4e27664b89b9%3A0x6534acc41e95a645!2sBilbao+(Bilbo)%2C+Vizcaya%2C+Espa%C3%B1a!5e0!3m2!1ses!2sus!4v1490256717708" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <iframe class="map"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46486.8700555201!2d-2.9685173898608994!3d43.26337961244587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4e4e27664b89b9%3A0x6534acc41e95a645!2sBilbao+(Bilbo)%2C+Vizcaya%2C+Espa%C3%B1a!5e0!3m2!1ses!2sus!4v1490256717708"
+                                width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
-                </div><a id="contactanos" style="display: block; height: 60px; margin-top: -60px; visibility: hidden;"></a>
+                </div><a id="contactanos"
+                    style="display: block; height: 60px; margin-top: -60px; visibility: hidden;"></a>
 
                 <div class="container">
                     <div class="content">
 
-                        <h1 id="queeselmicrocemento" ><span style=" padding:5px;">Delegación Bilbao</span></h1>
+                        <h1  class="h2"><span style=" padding:5px;">Microcemento Bilbao -  Presupuesto aplicación de  microcemento</span></h1>
                     </div>
 
                     <div class="container">
                         <div class="content">
+                            <p>Somos <strong>especialistas</strong> en la<strong> instalación y aplicación de microcemento</strong> en Bilbao. Nuestros
+                                más de 15 años de trayectoria en el sector son nuestra mejor carta de presentación. 
+                                De hecho, somos <strong>líderes</strong> del sector del microcemento <strong>en España</strong> y contamos con
+                                distribuidores en más de 58 países del planeta como Estados Unidos, Reino Unido,
+                                Alemania o China.
 
-                            <div >
-                                <p>Disponemos de aplicadores profesionales en Bilbao y alrededores: Portugalete,
-                                    Barakaldo, Sestao, Getxo, Basauri, Amorabieta</p>
-                                <p> Topciment - Delegación Bilbao</p>
-                                <p><strong><a target="_blank" href="https://www.microcemento-bilbao.com">www.microcemento-bilbao.com</a></strong></p>
+                            </p>
+                            <p>
+                                En Topciment realizamos todo tipo de obras con microcemento en Bilbao, tanto en
+                                interiores como en exteriores. Las principales localidades en las que llevamos a cabo
+                                proyectos son  Bilbao capital, Portugalete, Barakaldo, Getxo, Basauri y Amarobieta.
 
-                                <div class="text-left mt-4 mb-5">
-                                    <h2 style=" font-size: 30px;	font-weight: 300;">Topciment no dispone de aplicadores propios ya que somos fabricantes,
-                                        exclusivamente dedicados al desarrollo y produccion de revestimientos
-                                        decorativos continuos.Trabajamos con aplicadores de microcemento profesionales
-                                        en las principales ciudades de España.</h2>
-                                </div>
-                                <p>Ver todas las delegaciones</p>
-                                <form name="form" id="form">
-                                    <select name="jumpMenu" id="jumpMenu" style="margin-top: 5px;
-margin-bottom: 5px;
-color: #4d4d4d;
-color: #4d4d4d;
-width: 244px;
-height: 38px;
-border: #C9C9C9 solid thin;
-border-radius: 0;
-box-shadow: none;
-font-size: 13px;
--webkit-appearance: none;
--moz-appearance: none;
-background: #fff url(https://www.angelgrafico.es/microcemento/imagenes/select-arrow.png) no-repeat 90% center;
-padding-left: 5px;">
+                            </p>
+                            <p>
+                               <strong> El microcemento que <a class="links" href="../microcemento/fabricante-microcemento">fabricamos</a></strong> desde nuestra sede
+                                central ubicada en Valencia, se suministra al resto de distribuidores colaboradores y
+                                delegaciones. Un revestimiento decorativo de altas prestaciones y con un grosor menor a
+                                3 milímetros que <strong>facilita una rápida renovación de los espacios.</strong>
 
-                                        <option value="microcemento-barcelona">Barcelona</option>
-                                        <option value="microcemento-madrid">Madrid</option>
-                                        <option value="microcemento-valencia">Valencia</option>
-                                        <option value="microcemento-sevilla">Sevilla</option>
-                                        <option value="microcemento-malaga">Málaga</option>
-                                        <option value="microcemento-mallorca">Mallorca</option>
-                                        <option value="microcemento-zaragoza">Zaragoza</option>
-                                        <option value="microcemento-alicante">Alicante</option>
-                                        <option value="microcemento-tenerife">Tenerife</option>
-                                        <option value="microcemento-murcia">Murcia</option>
-                                        <option value="microcemento-laspalmas">Las Palmas</option>
-                                        <option value="microcemento-albacete">Albacete</option>
-                                        <option value="microcemento-alcala">Alcala</option>
-                                        <option value="microcemento-bilbao">Bilbao</option>
-                                        <option value="microcemento-caceres">Caceres</option>
-                                        <option value="microcemento-cadiz">Cádiz</option>
-                                        <option value="microcemento-cordoba">Córdoba</option>
-                                        <option value="microcemento-granada">Granada</option>
-                                        <option value="microcemento-huelva">Huelva</option>
-                                        <option value="microcemento-ibiza">Ibiza</option>
-                                        <option value="microcemento-leon">León</option>
-                                        <option value="microcemento-marbella">Marbella</option>
-                                        <option value="microcemento-vigo">Vigo</option>
-                                        <option value="microcemento-valladolid">Valladolid</option>
-                                    </select>
-                                    <input type="button" name="go_button" id="go_button" value="IR" onClick="MM_jumpMenuGo('jumpMenu','parent',0)" style="padding:10px; background-color:#000; color:#fff; font-size:16px; border: none; cursor:pointer; width:80px;">
-                                    <input type='hidden' id="zc_gad" name="zc_gad" value=""/>
-                                </form>
-                            </div>
-                            <div>
+                            </p>
+                            <p>
+                                Un ínfimo espesor que sumado a sus excelentes resistencias, permiten a Topciment
+                                Microcemento en Bilbao crear<strong> pavimentos continuos y revestimientos de paredes de alta calidad y diseño </strong>sobre prácticamente cualquier soporte como terrazo, mármol, azulejos,
+                                gresite u hormigón, entre otros muchos.
+                           <strong>     <a class="links" href="../microcementos">Un recubrimiento</a></strong> que destaca también por su flexibilidad
+                                e inmejorable adherencia.
 
-                                <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+                            </p>
+                            <p>
+                              En un espacio muy corto de tiempo, nuestros instaladores de microcemento renovarán
+                                cualquier estancia como baños, cocinas o terrazas sin obras ni escombros. Una ventaja
+                                competitiva que permite que<strong> durante la reforma de la vivienda, esta siga siendo habitable.</strong> Y lo mejor de todo: al mejor precio garantizado.
+                            </p>
+                            <p>
+                               <strong> Ofrecemos soluciones decorativas elegantes, de tendencia y muy funcionales.</strong> Creaciones
+                                únicas y totalmente personalizables gracias a la gran variedad de colores y acabados de
+                                los que disponemos.
 
-                                    <!-- Note :    - You can modify the font style and form style to suit your website.     - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code.     - The Mandatory check script can modified as to suit your business needs.     - It is important that you test the modified form before going live.    - Do not remove captcha and other form elements that are necessary for the form to work.  -->
+                            </p>
+                            <h2>Aplicadores microcemento en Bilbao</h2>
+
+                            <p>
+                                En Topciment contamos con aplicadores de microcemento en Bilbao que llevan a sus espaldas numerosas obras. Instaladores de microcemento<strong> cualificados y formados de manera continua </strong>que realizan todo tipo de trabajos. Desde reformas en viviendas particulares a
+                                reformas de locales y negocios como pueden ser restaurantes, hoteles o grandes naves
+                                como polideportivos, etc.
+
+                            </p>
+                            <p>
+                               <strong> Puedes solicitar gratis y sin compromiso un presupuesto.</strong> Nuestros profesionales
+                                evaluarán tu caso de manera individualizada para que sepas antes de contratar nuestros
+                                servicios el precio final de la obra. Un importe que dependerá de la complejidad de la
+                                reforma, el estado de la superficie que se va a revestir con nuestro microcemento así
+                                como los metros cuadrados de superficie que se van a recubrir.
+
+                            </p>
+                            <p>
+                                Nuestro equipo de aplicadores hacen<strong> obras con microcemento por todo Bilbao</strong>: Bilbao
+                                capital, Barakaldo, Alonsotegi, Arrigorriaga, Basauri, Etxebarri, Galdakao, Zamudio,
+                                Sondika, Erandio, Getxo, Lezama, Larrabetzu, Lauro, Derio, Sestao, Leioa, Trapagaran,
+                                Portugalete, Ortuella, Abanto, Santurtzi, Zierbena y Muskiz.
+
+                            </p>
+                            <p>
+                                Además, te asesorarán sobre el cuidado, mantenimiento y limpieza del microcemento una
+                                vez la obra haya concluido para que esté en perfecto estado durante mucho tiempo. Y es
+                                que si hay algo que define a nuestro microcemento es que es un revestimiento decorativo
+                                de larga durabilidad.
+
+                            </p>
+                            <h2>Obras con microcemento en Bilbao</h2>
+
+                            <p>
+                                Nuestros aplicadores de microcemento hacen obras en los principales municipios y
+                                localidades que conforman Bilbao y que mencionamos a continuación.
+
+                            </p>
+                            <h3> Obras con microcemento en Bilbao capital </h3>
+                            <h3> Obras con microcemento en Barakaldo </h3>
+                            <h3> Obras con microcemento en Alonsotegi </h3>
+                            <h3> Obras con microcemento en Arrigorriaga </h3>
+                            <h3> Obras con microcemento en Basauri </h3>
+                            <h3> Obras con microcemento en Etxebarri </h3>
+                            <h3> Obras con microcemento en Galdakao </h3>
+                            <h3> Obras con microcemento en Zamudio </h3>
+                            <h3> Obras con microcemento en Sondika </h3>
+                            <h3> Obras con microcemento en Erandio </h3>
+                            <h3> Obras con microcemento en Getxo </h3>
+                            <h3> Obras con microcemento en Lezama </h3>
+                            <h3> Obras con microcemento en Larrabetzu </h3>
+                            <h3> Obras con microcemento en Lauro </h3>
+                            <h3> Obras con microcemento en Derio </h3>
+                            <h3> Obras con microcemento en Sestao </h3>
+                            <h3> Obras con microcemento en Leioa </h3>
+                            <h3> Obras con microcemento en Trapagaran </h3>
+                            <h3> Obras con microcemento en Portugalete </h3>
+                            <h3> Obras con microcemento en Ortuella </h3>
+                            <h3> Obras con microcemento en Abanto </h3>
+                            <h3> Obras con microcemento en Santurtzi </h3>
+                            <h3> Obras con microcemento en Zierbena </h3>
+                            <h3> Obras con microcemento en Muskiz </h3>
+                            <p class="mt-3">
+                                Si por casualidad vives en un municipio o localidad distinto, no dudes en ponerte en
+                                contacto con nosotros. Nuestros instaladores de microcemento en Bilbao se desplazarán.
+
+                           
+                               <strong> En Topciment somos especialistas en revestir de microcemento</strong> suelos y paredes de baños y
+                                cocinas, techos, paredes y cocinas de grandes comercios, piscinas de hoteles y
+                                particulares y terrazas.
+
+                            </p>
+                            <p>
+                               <strong>  Materiales que destacan por su gran durabilidad</strong>, sus acabados impermeables y
+                                antideslizantes y excelentes resistencias al tránsito, a la abrasión, al desgaste y a la
+                                luz UV, entre otras muchas.
+
+                            </p>
+
+                            <h2>Comprar microcemento en Bilbao</h2>
+
+                            <Debido>¿Tienes una empresa del sector y te gustaría contar con los microcementos que fabricamos
+                                para ofrecerlos a tus clientes? <br> Debido a la gran demanda del mercado del microcemento en Bilbao <strong>estamos buscando nuevos distribuidores.</strong></p>
+
+                            <p>
+                                Contacta con nosotros e <strong>infórmate de los <a href="../distribuidores">requisitos y ventajas</a> </strong>de convertirse en el nuevo distribuidor del microcemento Topciment de
+                                Bilbao.
+ <!--  -->
+                            </p>
+                            <h2>Contacta con nuestro servicio técnico de microcemento</h2>
+
+                            <p>
+                                Si te gustaría saber más sobre nosotros, pedir presupuesto a uno de nuestros aplicadores
+                                de microcemento en Bilbao o resolver dudas sobre nuestros productos, completa por favor
+                                el formulario que mostramos a continuación. Un técnico te contactará lo antes posible.
+                                ¡Gracias!
+
+                            </p>
                                     <div id='crmWebToEntityForm' style='margin:auto;'>
                                         <META HTTP-EQUIV='content-type' CONTENT='text/html;charset=UTF-8'>
+                                        <script src='https://www.google.com/recaptcha/api.js' async defer></script>
                                         <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory2193829000000221001()' accept-charset='UTF-8'>
 
                                             <!-- Do not remove this code. -->
@@ -132,16 +209,15 @@ padding-left: 5px;">
                                             <input type='text' style='display:none;' name='xmIwtLD' value='b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e' />
                                             <input type='text' style='display:none;' name='actionType' value='TGVhZHM=' />
 
-                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias.html' />
+                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias' />
                                             <!-- Do not remove this code. -->
                                             <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
                                             <input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
                                             <!-- Do not remove this code. -->
                                             <div class="formulario">
-                                                <div class=" card-block border-radius mt-5" style=" background-color: rgba(247, 247, 249, 0.34);">
+                                                <div class=" card-block border-radius mt-5">
                                                     <div class="text-center mt-3 mb-4" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "2"}'>
-                                                        <h2 style="   font-size: 35px;	font-weight: 400;">¿Podemos
-                                                            ayudarle?</h2>
+                                                        <h2 style="   font-size: 35px;	font-weight: 400;">¿Podemos ayudarte?</h2>
                                                     </div>
 
                                                     <div class="form-group input-group">
@@ -173,8 +249,7 @@ padding-left: 5px;">
                                                     <label class="form-group has-float-label">
                                                         <select name='LEADCF11' multiple class="form-control custom-select">
                                                             <option value='Aplicador'>Aplicador</option>
-                                                            <option value='Cliente&#x20;final'>Cliente final
-                                                            </option>
+                                                            <option value='Cliente&#x20;final'>Cliente final</option>
                                                             <option value='Distribuidor'>Distribuidor</option>
                                                             <option value="Fabricante">Fabricante</option>
                                                         </select>
@@ -190,41 +265,26 @@ padding-left: 5px;">
                                                             <option value="Conocidos">Conocidos</option>
                                                             <option value="Festool">Festool</option>
                                                             <option value="Revistas">Revistas</option>
-                                                            <option value="Redes&#x20;sociales">Redes sociales
-                                                            </option>
+                                                            <option value="Redes&#x20;sociales">Redes sociales</option>
                                                             <option value="Otros">Otros</option>
                                                         </select>
                                                         <span>¿Cómo nos ha conocido?:</span>
                                                     </label>
-                                                    <div class="form-group input-group">
-                                                        <span class="has-float-label">
-                                                            <input name='enterdigest' maxlength='80' class="form-control" style="min-height: 70px;" id="captcha" type="text"/>
-                                                            <label for="captcha">Introduzca el captcha</label>
-                                                        </span>
-                                                        <label class="has-float-label">
-                                                            <img class="form-control" style="height: 100%;" id='imgid' src='https://crm.zoho.com/crm/CaptchaServlet?formId=b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e&grpid=0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf'>
-
-                                                            <span><a href='javascript:;' onclick='reloadImg()'>Recargar</a></span>
-                                                        </label>
-                                                    </div>
-                                                    <!-- Invisible -->
+                                                    <div class='g-recaptcha' data-sitekey='6LfrYPwUAAAAAEBodEiAqDVxHWRVeHwl1oOm-ov3' data-theme='light' data-callback='rccallback' captcha-verified='false' id='recap'></div>
+                                                    <!--  <div class="form-group input-group">
+                          
 
                                                     <select style='display: none !important;' name='Lead Source'>
                                                         <option value='-None-'>-None-</option>
                                                         <option value='Feria'>Feria</option>
-                                                        <option value='00&#x20;Importado&#x20;A3ERP'>00 Importado
-                                                            A3ERP</option>
-                                                        <option value='04&#x20;Captaci&oacute;n&#x20;nuestra'>04
-                                                            Captaci&oacute;n nuestra</option>
-                                                        <option value='05&#x20;Distribuidor'>05 Distribuidor
-                                                        </option>
+                                                        <option value='00&#x20;Importado&#x20;A3ERP'>00 Importado A3ERP</option>
+                                                        <option value='04&#x20;Captaci&oacute;n&#x20;nuestra'>04 Captaci&oacute;n nuestra</option>
+                                                        <option value='05&#x20;Distribuidor'>05 Distribuidor</option>
                                                         <option value='Facebook'>Facebook</option>
                                                         <option selected value='Web'>Web</option>
                                                         <option value='Festool'>Festool</option>
-                                                        <option value='Recuperado&#x20;de&#x20;Topciment'>Recuperado
-                                                            de Topciment</option>
-                                                        <option value='Cambio&#x20;de&#x20;nombre'>Cambio de nombre
-                                                        </option>
+                                                        <option value='Recuperado&#x20;de&#x20;Topciment'>Recuperado de Topciment</option>
+                                                        <option value='Cambio&#x20;de&#x20;nombre'>Cambio de nombre</option>
                                                     </select>
 
                                                     <!-- /Invisible -->
@@ -232,8 +292,7 @@ padding-left: 5px;">
                                                         <label class="custom-control custom-checkbox">
                                                             <input name='LEADCF102' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator "></span>
-                                                            <span class="custom-control-description">He leído y
-                                                                acepto la <a target="_blank" href="https://www.topciment.com/es/condiciones-uso-politica-privacidad"></a>
+                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="condiciones-uso-politica-privacidad"></a>
                                                                 política de
                                                                 privacidad<span style='color:red;'>*</span></span>
                                                         </label>
@@ -242,27 +301,22 @@ padding-left: 5px;">
                                                         <label class="custom-control custom-checkbox">
                                                             <input name='LEADCF109' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator"></span>
-                                                            <span class="custom-control-description">Acepto recibir
-                                                                comunicaciones comerciales<span style='color:red;'>*</span></span>
+                                                            <span class="custom-control-description">Acepto recibir comunicaciones comerciales<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
                                                             <input name='LEADCF106' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator"></span>
-                                                            <span class="custom-control-description">Autorizo la
-                                                                cesión de mis datos a
-                                                                terceros.Necesitamos su consentimiento expreso para
-                                                                compartir sus datos de contacto y su
-                                                                solicitud con distribuidores y aplicadores en su
-                                                                localidad<span style='color:red;'>*</span></span>
+                                                            <span class="custom-control-description">Autorizo la cesión de mis datos a
+                                                                terceros.Necesitamos tu consentimiento expreso para compartir tus datos de contacto y tu
+                                                                solicitud con distribuidores y aplicadores en tu localidad<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <select style='display: none;' name='LEADCF34' multiple>
                                                         <option value='Alem&aacute;n'>Alem&aacute;n</option>
                                                         <option value='Chino'>Chino</option>
-                                                        <option selected value='Espa&ntilde;ol'>Espa&ntilde;ol
-                                                        </option>
+                                                        <option selected value='Espa&ntilde;ol'>Espa&ntilde;ol</option>
                                                         <option value='Franc&eacute;s'>Franc&eacute;s</option>
                                                         <option value='Griego'>Griego</option>
                                                         <option value='Holand&eacute;s'>Holand&eacute;s</option>
@@ -279,42 +333,39 @@ padding-left: 5px;">
                                             </div>
 
                                             <script>
-                                                var mndFileds = new Array('First Name', 'Last Name', 'Email',
-                                                    'LEADCF11', 'LEADCF102',
+                                                var mndFileds = new Array('First Name', 'Last Name', 'Email', 'LEADCF11', 'LEADCF102',
                                                     'LEADCF109',
                                                     'LEADCF106', 'Phone', 'City');
-                                                var fldLangVal = new Array('Nombre', 'Apellidos',
-                                                    'Correo electrónico', 'Usted es',
-                                                    'He leído y acepto la política de privacidad',
-                                                    'Acepto recibir comunicaciones comerciales',
-                                                    'Autorización cesión datos a terceros', 'Teléfono',
-                                                    'Localidad / Provincia');
+                                                var fldLangVal = new Array('Nombre', 'Apellidos', 'Correo electrónico', 'Usted es',
+                                                    'He leído y acepto la política de privacidad', 'Acepto recibir comunicaciones comerciales',
+                                                    'Autorización cesión datos a terceros', 'Teléfono', 'Localidad / Provincia');
                                                 var name = '';
                                                 var email = '';
 
                                                 /* Do not remove this code. */
-                                                function reloadImg() {
-                                                    if (document.getElementById('imgid').src.indexOf('&d') !== -1) {
-                                                        document.getElementById('imgid').src = document
-                                                            .getElementById('imgid').src.substring(0,
-                                                                document
-                                                                .getElementById('imgid').src.indexOf('&d')) + '&d' +
-                                                            new Date().getTime();
-                                                    } else {
-                                                        document.getElementById('imgid').src = document
-                                                            .getElementById('imgid').src + '&d' +
-                                                            new Date()
-                                                            .getTime();
+                                                function rccallback() {
+                                                    document.getElementById('formsubmit').removeAttribute('disabled');
+                                                    if (document.getElementById('privacyTool') != undefined) {
+                                                        var recap = document.getElementById('recap');
+                                                        recap.setAttribute('captcha-verified', true);
+                                                    }
+                                                }
+
+                                                function checkReCapSubmit() {
+                                                    if (document.getElementById('recap') != undefined) {
+                                                        var submitbutton = document.getElementById('formsubmit');
+                                                        var recap = document.getElementById('recap');
+                                                        if (recap.getAttribute('captcha-verified') == 'false') {
+                                                            submitbutton.setAttribute('disabled', true);
+                                                        }
                                                     }
                                                 }
 
                                                 function checkMandatory2193829000000221001() {
                                                     for (i = 0; i < mndFileds.length; i++) {
-                                                        var fieldObj = document.forms[
-                                                            'WebToLeads2193829000000221001'][mndFileds[i]];
+                                                        var fieldObj = document.forms['WebToLeads2193829000000221001'][mndFileds[i]];
                                                         if (fieldObj) {
-                                                            if (((fieldObj.value).replace(/^\s+|\s+$/g, ''))
-                                                                .length == 0) {
+                                                            if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length == 0) {
                                                                 if (fieldObj.type == 'file') {
                                                                     alert('Seleccione un archivo para cargar.');
                                                                     fieldObj.focus();
@@ -324,8 +375,7 @@ padding-left: 5px;">
                                                                 fieldObj.focus();
                                                                 return false;
                                                             } else if (fieldObj.nodeName == 'SELECT') {
-                                                                if (fieldObj.options[fieldObj.selectedIndex]
-                                                                    .value == '-None-') {
+                                                                if (fieldObj.options[fieldObj.selectedIndex].value == '-None-') {
                                                                     alert(fldLangVal[i] + ' no puede ser nulo.');
                                                                     fieldObj.focus();
                                                                     return false;
@@ -347,96 +397,23 @@ padding-left: 5px;">
                                                     trackVisitor();
                                                 }
                                             </script>
-                                            <script type='text/javascript' id='VisitorTracking'>
-                                                var $zoho = $zoho || {};
-                                                $zoho.salesiq = $zoho.salesiq || {
-                                                    widgetcode: '7e78cb83d15a60689cfbb20a8903bc4acf81a6c960d39dee1212f343ec7821c9533163b23229b79e91104310dadb43de',
-                                                    values: {},
-                                                    ready: function() {
-                                                        $zoho.salesiq.floatbutton.visible('hide');
-                                                    }
-                                                };
-                                                var d = document;
-                                                s = d.createElement('script');
-                                                s.type = 'text/javascript';
-                                                s.id = 'zsiqscript';
-                                                s.defer = true;
-                                                s.src = 'https://salesiq.zoho.com/widget';
-                                                t = d.getElementsByTagName('script')[0];
-                                                t.parentNode.insertBefore(s, t);
 
-                                                function trackVisitor() {
-                                                    try {
-                                                        if ($zoho) {
-                                                            var LDTuvidObj = document.forms[
-                                                                'WebToLeads2193829000000221001']['LDTuvid'];
-                                                            if (LDTuvidObj) {
-                                                                LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();
-                                                            }
-                                                            var firstnameObj = document.forms[
-                                                                'WebToLeads2193829000000221001']['First Name'];
-                                                            if (firstnameObj) {
-                                                                name = firstnameObj.value + ' ' + name;
-                                                            }
-                                                            $zoho.salesiq.visitor.name(name);
-                                                            var emailObj = document.forms[
-                                                                'WebToLeads2193829000000221001']['Email'];
-                                                            if (emailObj) {
-                                                                email = emailObj.value;
-                                                                $zoho.salesiq.visitor.email(email);
-                                                            }
-                                                        }
-                                                    } catch (e) {}
-                                                }
-                                            </script>
 
                                         </form>
                                         <!-- Do not remove this code. -->
                                         <iframe name='captchaFrame' style='display:none;'></iframe>
                                     </div>
-                                    </p>
-
-                                    <div id="separador50px"></div>
-                                    <p><img src="https://www.topciment.com/imagenes/microcemento-bilbao.jpg" width="100%" alt="Precio microcemento en Bilbao"><br>
-                                        <!--<div id="mitadTextoIzquierda" >
-			  <h2>Referente en la fabricación de morteros técnicos y microcementos<br>
-			    </h2>
-			  <p>En Topciment contamos con más de 8 años de experiencia en nuestro sector. Con el objetivo de proporcionar a los clientes un producto de alta calidad a precios competitivos, lo acompañamos con asesoramiento y atención personalizados.</p>
-		    <p>La calidad de nuestros productos es el resultado de un feedback continuo entre clientes, y nuestros técnicos encargados de desarrollar el producto en fábrica. Esta experiencia se traslada nuestros clientes profesionales mediante formación y asesoramiento técnico permanente.</p>
-			  <p><img src="https://www.topciment.com/imagenes/tienda-topciment-microcemento-valencia.jpg" width="100%" alt="tienda de productos topciment"><br>
-		    </p>
-			  <h2>Asesoramiento técnico y comercial<br>
-			    </h2>
-			  <p>Atención personalizada de profesionales del microcemento, que te recomendarán los productos necesarios para trabajar correctamente con el revestimiento. Tenemos un servicio de asesoramiento técnico y comercial con atención telefónica y a través de mensajería instantánea. No dudes en pedir consejos y conocer todos los trucos.</p>
-			  <p>También contamos con &quot;El rincón del aplicador&quot; donde puedes ver videotutoriales con todos los métodos de aplicación del microcemento.</p>
-			  <h2>&nbsp;</h2>
-        </div>
-		  <div id="mitadTextoDerecha" >
-		    <h2>Topciment - Oficinas en Valencia<br>
-		      </h2>
-		    <p>Plaza Rojas Clemente, 17 - Valencia, 46008 - España<br>
-		      Tel: +34 963 92 59 89<br>
-		      Email: info@topciment.com</p>
-		    <p><img src="https://www.topciment.com/imagenes/topciment-valencia.jpg" width="100%" alt="Topciment - Oficinas en Valencia"></p>
-
-<h2>En Valencia, exposición y formación<br>
-	        </h2>
-		    <p>Nuestro Showroom es una herramienta para que los aplicadores puedan enseñarles a sus clientes que quieran ver y tocar los diferentes acabados y colores. En nuestra Exposición tienen acceso a muestras naturales de todos los colores, de texturas en suelos y paredes y muestras de los efectos metalizados.</p>
-		    <p><img src="https://www.topciment.com/imagenes/topciment-exposicion-colores-microcemento.jpg" width="100%" alt="Nuestro Showroom"></p>
-		    <p>Somos conscientes de la falta de información sobre el microcemento. Las ventajas de este revestimientos continuos son muchas, y sus características son para la mayoría desconocidas. Es por esto que impartimos cursos básicos y avanzados una vez al mes, en nuestras instalaciones en Valencia. Esta formación es de pago y completamente reembolsable con el siguiente pedido de producto, contactarnos para más información.</p>
-		  </div>-->
-                                    <div id="separador50px"></div>
-                            </div>
                         </div>
                     </div>
                 </div>
-
-            </section>
-
-            <div id="separador50px">
-            </div>
-
         </div>
+
+        </section>
+
+        <div id="separador50px">
+        </div>
+
+    </div>
     </div>
 
     <?php include "../includes/footer.php"; ?>

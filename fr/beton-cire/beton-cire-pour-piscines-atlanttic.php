@@ -419,7 +419,230 @@
     </div>
     </div>
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment",
+         "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 Kg",
+    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Application du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "14"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment M",
+             "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+        "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pour-piscines-atlanttic",
+        "sku": "TT01008",
+        "gtin13": "8436575620091",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [        {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment XL",
+             "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
 
+
+        "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_XL.jpg",
+        "size": "XL",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pour-piscines-atlanttic",
+        "sku": "TT01007",
+        "gtin13": "8436575620084",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

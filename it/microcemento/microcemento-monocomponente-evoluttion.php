@@ -17,21 +17,17 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcemento monocomponente | Evoluttion</title>
+    <title>Microcemento monocomponente: Evoluttion</title>
     <meta name="description"
-        content="El microcemento Evoluttion es el microcemento monocomponente de Topciment. Confiere buenas resistencias mecánicas y simplifica las mezclas para evitar errores." />
+        content="Il microcemento Evoluttion è il microcemento monocomponente di Topciment. Fornisce una buona resistenza meccanica e semplifica la miscelazione per evitare errori." />
 
 
-    <meta property="og:title" content="Microcemento monocomponente | Evoluttion">
+    <meta property="og:title" content="Microcemento monocomponente: Evoluttion">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion">
     <meta property="og:description"
-        content="El microcemento Evoluttion es el microcemento monocomponente de Topciment. Confiere buenas resistencias mecánicas y simplifica las mezclas para evitar errores.">
+        content="Il microcemento Evoluttion è il microcemento monocomponente di Topciment. Fornisce una buona resistenza meccanica e semplifica la miscelazione per evitare errori.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
 
 
@@ -71,7 +67,7 @@
                                     <a href="#up" style="font-size:26px">Evoluttion</a>
                                 </li>
                                 <li>
-                                    <a href="#que-es-evoluttion">¿Qué es Evoluttion?</a>
+                                    <a href="#que-es-evoluttion">Cos'è Evoluttion?</a>
                                 </li>
                                 <li>
                                     <a href="#evoluttion-microbase">Evoluttion Microbase</a>
@@ -83,32 +79,31 @@
                                     <a href="#evoluttion-microdeck">Evoluttion Microdeck</a>
                                 </li>
                                 <li>
-                                     <a href="#aplicacion">Aplicación</a>
+                                     <a href="#aplicacion">Applicazione</a>
                                 </li>
                                 <li>
-                                     <a href="#colores">Colores</a>
+                                     <a href="#colores">Colori</a>
                                 </li>
                             </ul>
                         </div>
 
                         <div class="content">
                             <a id="que-es-evoluttion" class="ancla"></a>
-                            <h1 class="en2">Microcemento monocomponente | Evoluttion</h1>
+                            <h1 class="en2">Microcemento monocomponente: Evoluttion</h1>
                             <div class="text-justify">
-
-                               <p>
-                                    Evoluttion es la mejorada línea de microcemento monocomponente (cemento y agua) de Topciment. Con este producto las mezclas y preparación se simplifican, con lo que se reducen al mínimo los posibles errores por parte del profesional.
-
-                               </p>    
 <p>
-    Un microcemento monocomponente que puede presumir de mantener la buena trabajabilidad de la gama de microcemento bicomponente tradicional Sttandard, con la particularidad de que ofrece resistencias mecánicas superiores.
+    
+                          Evoluttion è la linea migliorata di microcemento monocomponente (cemento e acqua) di Topciment. Con questo prodotto, la miscelazione e la preparazione sono semplificate, riducendo così al minimo i possibili errori del professionista.
 
 </p>    
 <p>
-    Además, con Evoluttion se disminuyen los costes de transporte y almacenaje. Todo beneficios para el aplicador de microcemento.
+    Un microcemento monocomponente che può vantare di mantenere la buona lavorabilità della gamma di microcementi bicomponenti tradizionali Sttandard, con la particolarità di offrire una resistenza meccanica superiore.
 
 </p>    
-                            </div>
+<p>
+    Inoltre, Evoluttion riduce i costi di trasporto e stoccaggio. Tutti vantaggi per l'applicatore di microcemento. 
+     
+</p>                           </div>
                         </div>
                     </div>
                 </section>
@@ -146,31 +141,25 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                       <h2> Microcemento monocomponente de preparación Evoluttion Microbase</h2>
+              <h2> Microcemento monocomponente di preparazione Evoluttion Microbase</h2>
 
-<p>
-    Evoluttion Microbase es el microcemento monocomponente de preparación, también conocido como microcemento rústico si se decide utilizarlo como microcemento de terminación.
+Evoluttion Microbase è il microcemento monocomponente per la preparazione, conosciuto anche come microcemento rustico se si decide di utilizzarlo come microcemento di finitura.
 
-</p>    
-<p>
-    De cualquier forma, las soluciones decorativas que ofrece este recubrimiento al profesional son de lo más variadas y distinguidas. En cuanto a su aplicación hay que resaltar que se utiliza siempre antes de la aplicación de Evoluttion Microfino y Evoluttion Microdeck.
+In ogni caso, le soluzioni decorative offerte da questo rivestimento al professionista sono molto varie e distinte. Per quanto riguarda la sua applicazione, va notato che viene sempre utilizzato prima dell'applicazione di Evoluttion Microfino ed Evoluttion Microdeck.
 
-</p>    
-<p>
-    Evoluttion Microbase está disponible en 3 granulometrías: L, XL y XXL.
-
-</p>    
+Evoluttion Microbase è disponibile in 3 granulometrie: L, XL e XXL.
+  
                             <a class="links"
                                 href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrobaseMN_ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de
+                                </span>Scarica qui la scheda tecnica di
                                 Evoluttion Microbase
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3"> Tipos microcemento monocomponente de preparación Evoluttion Microbase</h3>
+                    <h3 class="en3">Tipi di preparazione di microcemento monocomponente Evoluttion Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -196,8 +185,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -205,8 +193,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p>≥ 11.90 N/nm2 (28 días)</p>
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p>≥ 11.90 N/nm2 (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -216,10 +204,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad aparente</strong>
-                                    <p>En polvo - 1.175 ± 50Kg/m3<br>
-                                        En pasta - 1.545 ± 50Kg/m3<br>
-                                        Endurecido - 1.470 ± 50Kg/m3</p>
+                                    <strong> Densità apparente</strong>
+                                    <p>In polvere - 1.175 ± 50Kg/m3<br>
+                                        In pasta - 1.545 ± 50Kg/m3<br>
+                                        Temprato - 1.470 ± 50Kg/m3</p>
                                 </div>
                             </div>
                         </div>
@@ -231,9 +219,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_compresion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la compresión
+                                    <strong>Resistenza alla compressione
                                     </strong>
-                                    <p>≥ 30 N/nm2 (28 días)</p>
+                                    <p>≥ 30 N/nm2 (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -243,9 +231,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
-                                    <p> ≥ 1,5 N/nm2 (28 días)
+                                    <p> ≥ 1,5 N/nm2 (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -253,20 +241,20 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
                         <div class="col-md-12"><span><strong>Evoluttion Microbase L</strong>(2
-                                manos) - 2,20 Kg/m2</span></div>
+                               mani) - 2,20 Kg/m2</span></div>
                         <div class="col-md-12"><span><strong>Evoluttion Microbase XL</strong>(2
-                                manos) - 2,20 Kg/m2</span></div>
+                               mani) - 2,20 Kg/m2</span></div>
                         <div class="col-md-12"><span><strong>Evoluttion Microbase XXL</strong>(2
-                                manos) - 2,20 Kg/m2</span></div>
+                               mani) - 2,20 Kg/m2</span></div>
 
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento monocomponente de preparación Evoluttion Microbase se presenta en cubos cónicos de plástico negro de 20 kg.
+                        Presentazione</p>
+                    <p>Il microcemento monocomponente Evoluttion Microbase per la preparazione è presentato in contenitori conici di plastica nera da 20 kg.
 
                     </p>
                 </div>
@@ -304,36 +292,37 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                            
-<h2>Microcemento monocomponente de terminación para paredes</h2>
+<h2>
+    Microcemento monocomponente per la finitura delle pareti
 
+</h2>  
 <p>
-    Evoluttion Microfino es el microcemento monocomponente de terminación óptimo para paredes, fachadas o muebles, ya que está pensado únicamente para revestir superficies verticales y no transitables.
-
-</p>    
-<p>
-    Garantiza un acabado sedoso y suave al tacto y facilita la consecución de marcas de agua con facilidad. Unas cualidades que convierten a Evoluttion Microfino en un revestimiento de alto valor en la decoración de interiores y exteriores.
+    Evoluttion Microfino è il microcemento monocomponente di finitura ottimale per pareti, facciate o mobili, in quanto è progettato solo per rivestire superfici verticali e non transitabili.
 
 </p>    
 <p>
-    A nivel estético es un revcubrimiento que se parece al estuco cal con la diferencia de que su acabado es mucho más natural que el estuco cal.
+    Garantisce una finitura setosa e liscia al tatto e facilita la realizzazione di filigrane. Queste qualità fanno di Evoluttion Microfino un rivestimento di alto valore nella decorazione di interni ed esterni.
 
 </p>    
 <p>
-    Evoluttion Microfino está disponible en 3 granulometrías: XS, S y M.
-        
-</p>                       
-                            <a class="links"
+    Esteticamente è un rivestimento che assomiglia allo stucco di calce con la differenza che la sua finitura è molto più naturale dello stucco di calce.
+
+</p>    
+<p>
+    Evoluttion Microfino è disponibile in 3 granulometrie: XS, S e M.                     
+     
+</p>                           <a class="links"
                                 href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrofinoMN_ES.pdf"
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica
+                                </span>Scarica qui la scheda tecnica di
                                 Evoluttion Microfino
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos microcemento monocomponente de terminación para paredes Evoluttion Microfino</h3>
+                    <h3 class="en3">Tipi di microcemento monocomponente di finitura per pareti Evoluttion Microfino</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -359,8 +348,7 @@
                     </div>
                     <!-- Proiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -368,8 +356,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p> ≥ 8 N/nm2 (28 días)
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p> ≥ 8 N/nm2 (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -380,10 +368,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad aparente</strong>
-                                    <p>En polvo - 1.005 ± 50Kg/m3
-                                        En pasta - 1.505 ± 50Kg/m3
-                                        Endurecido - 1.285 ± 50Kg/m3</p>
+                                    <strong> Densità apparente</strong>
+                                    <p>In polvere - 1.005 ± 50Kg/m3
+                                        In pasta - 1.505 ± 50Kg/m3
+                                        Temprato - 1.285 ± 50Kg/m3</p>
                                 </div>
                             </div>
                         </div>
@@ -396,9 +384,9 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        Resistencia a la compresión
+                                        Resistenza alla compressione
                                     </strong>
-                                    <p> ≥ 29 N/nm2 (28 días)</p>
+                                    <p> ≥ 29 N/nm2 (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -408,10 +396,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>≥ 1,7 N/nm2
-                                        (28 días)
+                                        (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -419,17 +407,16 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
-                        <div class="col-md-12">Evoluttion Microfino XS (2 manos): 0,60 kg/m²</div>
-                        <div class="col-md-12">Evoluttion Microfino S (2 manos): 0,60 kg/m²2</div>
-                        <div class="col-md-12">Evoluttion Microfino M (2 manos): 0,60 kg/m²</div>
+                        <div class="col-md-12">Evoluttion Microfino XS (2 mani): 0,60 kg/m²</div>
+                        <div class="col-md-12">Evoluttion Microfino S (2 mani): 0,60 kg/m²2</div>
+                        <div class="col-md-12">Evoluttion Microfino M (2 mani): 0,60 kg/m²</div>
 
                     </div>
-                    <!-- Presentación -->
-                    <p class="en3"> Presentación</p>
-                    <p>El microcemento monocomponente de terminación Evoluttion Microfino, especialmente recomendable para paredes, se presenta en cubos cónicos de plástico negro de 15 kg.
-
+                    <!--  Presentazione -->
+                    <p class="en3"> Presentazione</p>
+                    <p>Il microcemento di finitura monocomponente Evoluttion Microfino, specialmente raccomandato per le pareti, è presentato in contenitori conici di plastica nera da 15 kg.
                     </p>
                 </div>
             </div>
@@ -465,34 +452,34 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                      <h2>
-                          Microcemento monocomponente de terminación para suelos
+                          Microcemento monocomponente per la finitura dei pavimenti
 
                         </h2>  
+
 <p>
-    Evoluttion Microdeck conforma el mejor microcemento monocomponente de terminación para suelos y pavimentos de interior. El aspecto que confiere este microcemento a las estancias es de lo más natural y elegante.
+    Evoluttion Microdeck è il miglior microcemento monocomponente per la finitura di pavimenti e pavimentazioni interne. L'aspetto che questo microcemento dà alle stanze è il più naturale ed elegante.
 
 </p>    
 <p>
-    Pero Evoluttion Microdeck también puede aplicarse sobre escaleras, platos de ducha, lavabos, encimeras y paredes. Debido a su textura de grano medio, el efecto de aguas es inferior al de Evoluttion Microfino. A nivel estético, este microcemento monocomponente de terminación es muy parecido al cemento pulido.
+    Ma Evoluttion Microdeck può essere applicato anche su scale, piatti doccia, lavabi, piani di lavoro e pareti. A causa della sua grana media, l'effetto acqua è inferiore a Evoluttion Microfino. Esteticamente, questa finitura di microcemento monocomponente è molto simile al cemento lucidato.
 
 </p>    
 <p>
-    Evoluttion Microdeck está disponible en 2 granulometrías: M y L.
-
-</p>    
-                            <a class="links"
+    Evoluttion Microdeck è disponibile in 2 granulometrie: M e L.    
+      
+</p>                          <a class="links"
                                 href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrodeckMN_ES.pdf"
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica
+                                </span>Scarica qui la scheda tecnica di
                                 Evoluttion Microdeck
 
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos microcemento monocomponente de terminación para suelos Evoluttion Microdeck</h3>
+                    <h3 class="en3">Tipi di finitura per pavimenti in microcemento monocomponente Evoluttion Microdeck</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -512,8 +499,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Características
-                        técnicas</p>
+                       Dati tecnici</p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -521,8 +507,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_flexion.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Resistencia a la flexión</strong>
-                                    <p> ≥ 10 N/nm2 (28 días)
+                                    <strong>Resistenza alla flessione</strong>
+                                    <p> ≥ 10 N/nm2 (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -533,10 +519,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad aparente</strong>
-                                    <p> En polvo - 1.175 ± 50Kg/m3
-                                        En pasta - 1.480 ± 50Kg/m3
-                                        Endurecido - 1.430 ± 50Kg/m3</p>
+                                    <strong> Densità apparente</strong>
+                                    <p> In polvere - 1.175 ± 50Kg/m3
+                                        In pasta - 1.480 ± 50Kg/m3
+                                        Temprato - 1.430 ± 50Kg/m3</p>
                                 </div>
                             </div>
                         </div>
@@ -549,9 +535,9 @@
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        Resistencia a la compresión
+                                        Resistenza alla compressione
                                     </strong>
-                                    <p> ≥ 40 N/nm2 (28 días)</p>
+                                    <p> ≥ 40 N/nm2 (28 giorni)</p>
                                 </div>
                             </div>
                         </div>
@@ -561,10 +547,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Adherencia al soporte
+                                    <strong>Aderenza al supporto
                                     </strong>
                                     <p>≥ 1,2 N/nm2
-                                        (28 días)
+                                        (28 giorni)
                                     </p>
                                 </div>
                             </div>
@@ -572,17 +558,17 @@
                     </div>
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <div class="row">
-                        <div class="col-md-12">Evoluttion Microdeck M (2 manos) - 1,40 Kg/m2</div>
-                        <div class="col-md-12">Evoluttion Microdeck L (2 manos) - 1,40 Kg/m2</div>
+                        <div class="col-md-12">Evoluttion Microdeck M (2 mani) - 1,40 Kg/m2</div>
+                        <div class="col-md-12">Evoluttion Microdeck L (2 mani) - 1,40 Kg/m2</div>
 
 
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <p class="en3">
-                        Presentación</p>
-                    <p>El microcemento monocomponente de terminación Evoluttion Microdeck, cuyas resistencias alcanzan otro nivel en suelos de interior, se presenta en cubos cónicos de plástico negro de 20 kg.
+                        Presentazione</p>
+                   <p>Il microcemento di finitura monocomponente Evoluttion Microdeck, la cui resistenza raggiunge un altro livello nei pavimenti interni, è presentato in contenitori conici di plastica nera da 20 kg.
 </p>
                 </div>
             </div>
@@ -603,18 +589,15 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación microcemento monocomponente Evoluttion en paredes</strong></a></h2>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+
+Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Colocar la malla sobre la
-                                    superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
-                                        Plus
-                                        / ABS</a> .
+                                    <strong>Passo 1</strong><br>Posizionare la rete sulla superficie da rivestire. Applicare Primacem Plus / ABS.
+
                                 </div>
                                 <!-- Icono -->
 
@@ -631,9 +614,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2</strong><br>Aplicar una
-                                    primera capa de
-                                    <a class="links" href="#evoluttion-microbase">Microbase</a> sin pigmento. Lijar
+                                    <strong>Passo 2</strong><br>Applicare una prima mano di Microbase senza pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -649,9 +631,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#evoluttion-microbase">Microbase</a> con
-                                    pigmento. Lijar
+                                    <strong>Passo 3</strong><br>Applicare una seconda mano di Microbase con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -667,9 +648,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4</strong><br>Aplicar una primera
-                                    capa de <a class="links" href="#evoluttion-microfino">Microfino </a> con
-                                    pigmento. Lijar
+                                    <strong>Passo 4</strong><br>Applicare una prima mano di Microfino con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -685,9 +665,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#evoluttion-microfino">Microfino</a> con
-                                    pigmento. Lijar
+                                    <strong>Passo 5</strong><br>Applicare una seconda mano di Microfino con pigmento. Carteggiare.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -703,9 +682,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                    <strong>Passo 6</strong><br>Applicare due mani di Presealer a rullo.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -721,9 +699,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 7</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-aluminium"> Topsealer</a>
+                                    <strong>Passo 7</strong><br>Applicare a rullo due mani di Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -739,20 +715,14 @@
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación microcemento monocomponente Evoluttion en suelos</strong></a></h2>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Applicazione del microcemento monocomponente Evoluttion sui pavimenti</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Colocar la malla sobre la
-                                    superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">
-                                        Primacem Plus</a>
-                                    <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-abs"> /
-                                        ABS</a> .
+                                    <strong>Passo 1</strong><br>Posizionare la rete sulla superficie da rivestire. Applicare Primacem Plus / ABS .
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -768,9 +738,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2</strong><br>Aplicar una
-                                    primera capa de
-                                    <a class="links" href="#evoluttion-microbase">Microbase</a> sin pigmento.
+                                    <strong>Passo 2</strong><br>Applicare una prima mano di Microbase senza pigmento.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -786,9 +755,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#evoluttion-microbase">Microbase</a> con
-                                    pigmento.
+                                    <strong>Passo 3</strong><br>Applicare una seconda mano di Microbase con pigmento.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -804,9 +772,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4</strong><br>Aplicar una primera
-                                    capa de <a class="links" href="#evoluttion-microdeck">Microdeck</a> con
-                                    pigmento.
+                                    <strong>Passo 4</strong><br>Applicare una prima mano di Microdeck con pigmento.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -822,9 +789,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5</strong><br>Aplicar una segunda
-                                    capa de <a class="links" href="#evoluttion-microdeck">Microdeck</a> con
-                                    pigmento.
+                                    <strong>Passo 5</strong><br>Applicare una seconda mano di Microdeck con pigmento.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -840,9 +806,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                    <strong>Passo 6</strong><br>Applicare due mani di Presealer a rullo.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -858,9 +823,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 7</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-aluminium"> Topsealer</a>.
+                                    <strong>Passo 7</strong><br>Applicare a rullo due mani di Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -891,7 +854,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                         Colores microcemento monocomponente Evoluttion</h2>
+                        Colori per microcemento monocomponente Evoluttion</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1275,32 +1238,32 @@
     "additionalProperty": [
        {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 11,90 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 11,90 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1,175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1,545 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1,470 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 30 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 30 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,5 N/m²"
     },
 	{
@@ -1366,32 +1329,32 @@
         },
         "additionalProperty": [       {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 11,90 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 11,90 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1,175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1,545 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1,470 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 30 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 30 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,5 N/m²"
     },
 	{
@@ -1455,32 +1418,32 @@
         "additionalProperty": [
           {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 11,90 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 11,90 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1,175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1,545 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1,470 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 30 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 30 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,5 N/m²"
     },
 	{
@@ -1544,32 +1507,32 @@
         "additionalProperty": [
           {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 11,90 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 11,90 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1,175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1,545 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1,470 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 30 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 30 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,5 N/m²"
     },
 	{
@@ -1634,38 +1597,38 @@
     "additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 8 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 8 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.005 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.505 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.285 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 29 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 29 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 0,60 Kg/m²"
+      "value": "(2 mani)- 0,60 Kg/m²"
     }
     ],
     "potentialAction": {
@@ -1724,38 +1687,38 @@
         },
         "additionalProperty": [       {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 8 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 8 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.005 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.505 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.285 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 29 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 29 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 0,60 Kg/m²"
+      "value": "(2 mani)- 0,60 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -1814,38 +1777,38 @@
         "additionalProperty": [
        {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 8 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 8 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.005 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.505 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.285 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 29 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 29 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 0,60 Kg/m²"
+      "value": "(2 mani)- 0,60 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -1904,38 +1867,38 @@
         "additionalProperty": [
            {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 8 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 8 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.005 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.505 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.285 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 29 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 29 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,7 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 0,60 Kg/m²"
+      "value": "(2 mani)- 0,60 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -1994,38 +1957,38 @@
     "additionalProperty": [
         {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.480 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.430 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 40 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 40 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,2 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 1,40 Kg/m²"
+      "value": "(2 mani)- 1,40 Kg/m²"
     }
     ],
     "potentialAction": {
@@ -2084,38 +2047,38 @@
         },
         "additionalProperty": [          {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.480 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.430 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 40 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 40 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,2 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 1,40 Kg/m²"
+      "value": "(2 mani)- 1,40 Kg/m²"
     }
         ],
         "aggregateRating": {
@@ -2174,38 +2137,38 @@
         "additionalProperty": [
          {
       "@type": "PropertyValue",
-      "name": "Resistencia a la flexión",
-      "value": "≥ 10 N/m² (28 días)"
+      "name": "Resistenza alla flessione",
+      "value": "≥ 10 N/m² (28 giorni)"
     },
     {
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Polvo",
+      "name": "Densità apparente In polvere",
       "value": "1.175 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente en Pasta",
+      "name": "Densità apparente In pasta",
       "value": "1.480 ± 50Kg/m3"
     },
 	{
      "@type": "PropertyValue",
-      "name": "Densidad Aparente Endurecido",
+      "name": "Densità apparente Temprato",
       "value": "1.430 ± 50Kg/m3"
     },
     {
       "@type": "PropertyValue",
-      "name": "Resistencia a la compresión",
-      "value": "≥ 40 N/m² (28 días)"
+      "name": "Resistenza alla compressione",
+      "value": "≥ 40 N/m² (28 giorni)"
     },
     {
       "@type": "PropertyValue",
-      "name": "Adherencia al soporte",
+      "name": "Aderenza al supporto",
       "value": "≥ 1,2 N/m²"
     },
 	{
       "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "(2 manos)- 1,40 Kg/m²"
+      "value": "(2 mani)- 1,40 Kg/m²"
     }
         ],
         "aggregateRating": {

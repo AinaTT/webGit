@@ -142,11 +142,11 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <h2>
-                                双组分多合一罩面树脂
+                                双组分水基聚氨酯清漆
 
                             </h2>
                             <p>
-                                Topsealer WT One Coat是一种双组分多合一罩面树脂，用于保存和维护微水泥。
+                                Topsealer WT One Coat是一种双组分水基聚氨酯清漆，用于保存和维护微水泥。
 
                             </p>
                             <p>

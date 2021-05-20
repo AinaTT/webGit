@@ -380,7 +380,304 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Microcement colours Arcocem Basic",
+    "description": "Pigments in aqueous dispersion, allowing to achieve all the colours available in the Topciment colour chart.",
+    "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg and 0,5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+   {
+      "@type": "PropertyValue",
+      "name": "Alkali resistant",
+      "value": "Arcocem Basic is resistant to alkalis such as ammonia."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Compatible with aqueous systems",
+      "value": "Arcocem Basic is compatible with water-based paints."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "High colour stability",
+      "value": "The colours of Arcocem Basic remain durable over time without alterations caused by light or ageing."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Depending on the colour of the dose to be made."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement colours"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "23"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Microcement colours Arcocem Basic 1 L",
+        "description": "Pigments in aqueous dispersion, allowing to achieve all the colours available in the Topciment colour chart..",
+        "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
+        "size": "1L",
+        "url": "https://www.topciment.com/en/microcements/pigments-for-microcement-arcocem#arcocem-basic",
+        "sku": "TT04001",
+        "gtin13": "8436575620480",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [    {
+      "@type": "PropertyValue",
+      "name": "Alkali resistant",
+      "value": "Arcocem Basic is resistant to alkalis such as ammonia."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Compatible with aqueous systems",
+      "value": "Arcocem Basic is compatible with water-based paints."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "High colour stability",
+      "value": "The colours of Arcocem Basic remain durable over time without alterations caused by light or ageing."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Depending on the colour of the dose to be made."
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "23"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Microcement colours Arcocem Basic 0,5 L",
+        "description": "Pigments in aqueous dispersion, allowing to achieve all the colours available in the Topciment colour chart.",
+        "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
+        "size": "0,5L",
+        "url": "https://www.topciment.com/en/microcements/pigments-for-microcement-arcocem#arcocem-basic",
+        "sku": "TT04504",
+        "gtin13": "8436575625102",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [      {
+      "@type": "PropertyValue",
+      "name": "Alkali resistant",
+      "value": "Arcocem Basic is resistant to alkalis such as ammonia."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Compatible with aqueous systems",
+      "value": "Arcocem Basic is compatible with water-based paints."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "High colour stability",
+      "value": "The colours of Arcocem Basic remain durable over time without alterations caused by light or ageing."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Depending on the colour of the dose to be made."
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "23"
+        }
+      }
+      
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Microcement pigments Arcocem Plus",
+    "description": "Pigments in aqueous dispersion, allowing to achieve all the colours available in the Topciment colour chart.",
+    "image": "https://www.topciment.com/imagenes/Arcocem/ArcocemPlus.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0.30 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+  {
+      "@type": "PropertyValue",
+      "name": "Easily miscible.",
+      "value": "Pour the dye into the resin and stir slowly with a spatula or mechanical stirrer at low speed."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Non-flammable",
+      "value": "Arcocem Plus is a water-based liquid colouring agent."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "High colour stability",
+      "value": "The colours of Arcocem Plus remain durable over time without alterations caused by light or ageing."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "To obtain the colours in the catalogue, the indicated dosage must be respected. The quantity and type of microcement used and the Topsealer used must be taken into account."
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Presentation",
+      "value": "Plastic containers of different sizes depending on colour and dosage."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement pigments"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "12"
+    }
+  } </script>
 </body>
 
 </html>

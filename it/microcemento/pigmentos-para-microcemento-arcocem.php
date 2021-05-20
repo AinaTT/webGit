@@ -56,7 +56,7 @@
                                     <a style="font-size:26px" href="#up">Arcocem</a>
                                 </li>
                                 <li>
-                                    <a href="#que-es-arcocem">¿Qué es Arcocem?</a>
+                                    <a href="#que-es-arcocem">Cos'è Arcocem?</a>
                                 </li>
                                 <li>
                                      <a href="#arcocem-basic">Arcocem Basic</a>
@@ -64,7 +64,7 @@
                                 <li>
                                     <a href="#arcocem-plus">Arcocem Plus</a>
                                 </li>
-                                <!--<li><a href="#preguntas-frecuentes">Preguntas frecuentes</a></li>-->
+                                <!--<li><a href="#preguntas-frecuentes">Domande frequenti</a></li>-->
                             </ul>
                         </div>
                         <div class="content">
@@ -128,7 +128,7 @@
                     </div>
                     <!-- Propiedades -->
                     <h3 class="en3">
-                       Características técnicas colores microcemento Arcocem Basic</h3>
+                      Dati tecnici colores microcemento Arcocem Basic</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -166,17 +166,17 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Presentación -->
+                    <!--  Presentazione -->
                     <h3 class="en3">
-                        Presentación </h3>
+                        Presentazione </h3>
                     <p>Los colores de microcemento Arcocem Basic se presenta en envases con dosificador de 0,5 L o tarros de 1 L.</p>
 
                     <!-- Rendimiento -->
                     <p class="en3">
-                        Rendimiento</p>
+                        Performance</p>
                     <p>En función del color de la dosis a realizar.</p>
                     <h3 class="en3">
-                        Colores</h3>
+                       Colori</h3>
                     <p> Dentro de esta línea, podemos encontrar los seis colores básicos:</p><br>
                     <div class="row text-center mb-2">
 
@@ -259,7 +259,7 @@
                     </div>
                     <!-- propiedades -->
                     <h3 class="en3">
-                       Características técnicas pigmentos microcemento Arcocem Plus
+                      Dati tecnici pigmentos microcemento Arcocem Plus
 </h3>
 
                     <div class="row">
@@ -301,13 +301,13 @@
                     </div>
                     <!-- rendimiento -->
                     <h3 class="en3">
-                        Rendimiento</h3>
+                        Performance</h3>
                     <p>
 Para obtener los colores del catálogo, hay que respetar la dosificación indicada. Así, hay que tener en cuenta la cantidad y el tipo de microcemento empleado y el Topsealer utilizado.
                     </p>
                     <!-- presentacion -->
                     <h3 class="en3">
-                        Presentación</h3>
+                        Presentazione</h3>
                     <p>Los pigmentos de microcemento Arcocem Plus se presentan en envases de plástico de diferente tamaño en función del color y de la dosis .</p>
                 </div>
 

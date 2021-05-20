@@ -40,7 +40,6 @@
     <link rel="alternate" href="https://www.topciment.com/gr/" hreflang="el-GR" />
     <link rel="alternate" href="https://www.topciment.ru/" hreflang="ru-RU" />
     <link rel="alternate" href="https://www.topciment.us/" hreflang="en-US" />
-    <link rel="alternate" href="https://www.topciment.cn/" hreflang="zh-CN" />
 
 
     <link rel="preload" href="../assets/css/home.css" as="style" />

@@ -30,7 +30,6 @@
     <link rel="alternate" href="https://www.topciment.com/nl/projecten-inmobiliaria-interiorismo.html" hreflang="nl-NL"/>
     <link rel="alternate" href="https://www.topciment.com/gr/gr-project-inmobiliaria-interiorismo.html" hreflang="el-GR"/>
     <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-inmobiliaria-interiorismo.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-inmobiliaria-interiorismo.html" hreflang="zh-CN"/>
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>

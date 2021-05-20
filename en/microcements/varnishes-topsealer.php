@@ -1081,7 +1081,2775 @@ Comp A: 100 %
 	</div>
 	</div>
 	<!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "single component polyurethane varnish Topsealer WT All in One",
+         "description": "Topsealer WT All in One is a one-component water-based polyurethane coating specially developed for the protection of our ready-to-use microcement 'Efectto'.",
+    "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "22 ± 2%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,03 ± 0,01g/cm3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Drying",
+      "value": "24h"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(3 layers) - 0,2L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "25"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "single component polyurethane varnish Topsealer WT All in One Componente A 2L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane coating specially developed for the protection of our ready-to-use microcement 'Efectto'.",
+        "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+        "size": "2 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#all-in-one",
+        "sku": "TT02030",
+        "gtin13": "8436575620244",
+        "weight": "2 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+             {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "22 ± 2%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,03 ± 0,01g/cm3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Drying",
+      "value": "24h"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(3 layers) - 0,2L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "25"
+        }
+      },
+        {
+        "@type": "Product",
+        "name": "single component polyurethane varnish Topsealer WT All in One Componente B 5L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane coating specially developed for the protection of our ready-to-use microcement 'Efectto'..",
+        "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+        "size": "5 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#all-in-one",
+        "sku": "TT02048",
+        "gtin13": "8436575625744",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+             {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "22 ± 2%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,03 ± 0,01g/cm3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Drying",
+      "value": "24h"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },{
+     "@type": "PropertyValue",
+      "name": "Hardness Shore D",
+      "value": "70 ± 3"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(3 layers) - 0,2L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "25"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Topsealer WT Anti Slip Varnish",
+         "description": "Topsealer WT Anti Slip is a matt finish anti-slip varnish whose main function is to make surfaces slip-resistant.",
+    "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "material": "Slightly alkaline two-component water based polyurethane.",
+    "variesBy": "Two components",
+    "additionalProperty": [
+           {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 17 - 33% Comp B: 100%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density a 25ºC ",
+      "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "25-28S (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Topsealer WT Anti Slip Varnish Componente A 5L",
+             "description": "Topsealer WT Anti Slip is a matt finish anti-slip varnish whose main function is to make surfaces slip-resistant..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+        "sku": "TT02110",
+        "gtin13": "8436575625225",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "isAccessoryOrSparePartFor":
+         {
+        "@type": "Product",
+        "name": "Topsealer WT Anti Slip Varnish Componente B 1L",
+             "description": "Topsealer WT Anti Slip is a matt finish anti-slip varnish whose main function is to make surfaces slip-resistant..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 17 - 33% Comp B: 100%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density a 25ºC ",
+      "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "25-28S (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 17 - 33% Comp B: 100%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density a 25ºC ",
+      "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "25-28S (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Topsealer WT Anti Slip Varnish Componente B 1L",
+             "description": "Topsealer WT Anti Slip is a matt finish anti-slip varnish whose main function is to make surfaces slip-resistant..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "isAccessoryOrSparePartFor": {
+        "@type": "Product",
+        "name": "Topsealer WT Anti Slip Varnish Componente A 5L",
+             "description": "Topsealer WT Anti Slip is a matt finish anti-slip varnish whose main function is to make surfaces slip-resistant..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+        "sku": "TT02110",
+        "gtin13": "8436575625225",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 17 - 33% Comp B: 100%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density a 25ºC ",
+      "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "25-28S (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 17 - 33% Comp B: 100%"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density a 25ºC ",
+      "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "25-28S (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Two-component acrylic varnish Topsealer DSV",
+         "description": "Topsealer DSV is a two-component (A + B) solvent-based acrylic varnish. This sealer protects surfaces coated with microcement in interiors and exteriors.",
+    "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg",
+    "variesBy": "Two components",
+    "additionalProperty": [
+         {
+      "@type": "PropertyValue",
+      "name": "Hardness",
+      "value": "14 days curing time: 120 seconds"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Solids ",
+      "value": "Comp.A 40% Comp.B 39%"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 s (Copa Ford 4)"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "27"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Two-component acrylic varnish Topsealer DSV Componente A 4 L",
+             "description": "Topsealer DSV is a two-component (A + B) solvent-based acrylic varnish. This sealer protects surfaces coated with microcement in interiors and exteriors..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
+        "size": "4 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealerdsv",
+        "sku": "TT02017",
+        "gtin13": "8436575625683",
+        "isAccessoryOrSparePartFor":  {
+        "@type": "Product",
+        "name": "Two-component acrylic varnish Topsealer DSV Componente B 1 L",
+             "description": "Topsealer DSV is a two-component (A + B) solvent-based acrylic varnish. This sealer protects surfaces coated with microcement in interiors and exteriors..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
+        "size": "1  L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealerdsv",
+        "sku": "TT02012",
+        "gtin13": "8436575620275",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Hardness",
+      "value": "14 days curing time: 120 seconds"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Solids ",
+      "value": "Comp.A 40% Comp.B 39%"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 s (Copa Ford 4)"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+        "weight": "4 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+           {
+      "@type": "PropertyValue",
+      "name": "Hardness",
+      "value": "14 days curing time: 120 seconds"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Solids ",
+      "value": "Comp.A 40% Comp.B 39%"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 s (Copa Ford 4)"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Two-component acrylic varnish Topsealer DSV Componente B 1 L",
+             "description": "Topsealer DSV is a two-component (A + B) solvent-based acrylic varnish. This sealer protects surfaces coated with microcement in interiors and exteriors..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
+        "size": "1  L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealerdsv",
+        "sku": "TT02012",
+        "gtin13": "8436575620275",
+        "weight": "1 Kg",
+        "isAccessoryOrSparePartFor":{
+        "@type": "Product",
+        "name": "Two-component acrylic varnish Topsealer DSV Componente A 4 L",
+             "description": "Topsealer DSV is a two-component (A + B) solvent-based acrylic varnish. This sealer protects surfaces coated with microcement in interiors and exteriors..",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
+        "size": "4 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealerdsv",
+        "sku": "TT02017",
+        "gtin13": "8436575625683",
+        "weight": "4 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+           {
+      "@type": "PropertyValue",
+      "name": "Hardness",
+      "value": "14 days curing time: 120 seconds"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Solids ",
+      "value": "Comp.A 40% Comp.B 39%"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 s (Copa Ford 4)"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Hardness",
+      "value": "14 days curing time: 120 seconds"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Solids ",
+      "value": "Comp.A 40% Comp.B 39%"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 s (Copa Ford 4)"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Two components polyurethane varnish  Topsealer WT One Coat",
+         "description": "Topsealer WT One Coat is a two-component polyurethane varnish used to preserve and protect microcement.",
+    "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "material": "Slightly alkaline two-component water based polyurethane.",
+    "variesBy": "Two components",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "30 ±2% Comp.A 100% Comp.B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density ",
+      "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9 Comp.A"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,15 L/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Two components polyurethane varnish  Topsealer WT One Coat Componente A 5L",
+             "description": "Topsealer WT One Coat is a two-component polyurethane varnish used to preserve and protect microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+        "sku": "TT02030",
+        "gtin13": "8436575620244",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "isAccessoryOrSparePartFor": 
+        {
+        "@type": "Product",
+        "name": "Two components polyurethane varnish  Topsealer WT One Coat Componente B 1L",
+             "description": "Topsealer WT One Coat is a two-component polyurethane varnish used to preserve and protect microcement.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "30 ±2% Comp.A 100% Comp.B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density ",
+      "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9 Comp.A"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,15 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "30 ±2% Comp.A 100% Comp.B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density ",
+      "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9 Comp.A"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,15 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Two components polyurethane varnish  Topsealer WT One Coat Componente B 1L",
+             "description": "Topsealer WT One Coat is a two-component polyurethane varnish used to preserve and protect microcement.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "isAccessoryOrSparePartFor":
+         {
+        "@type": "Product",
+        "name": "Two components polyurethane varnish  Topsealer WT One Coat Componente A 5L",
+             "description": "Topsealer WT One Coat is a two-component polyurethane varnish used to preserve and protect microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+        "sku": "TT02030",
+        "gtin13": "8436575620244",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "30 ±2% Comp.A 100% Comp.B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density ",
+      "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9 Comp.A"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,15 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "30 ±2% Comp.A 100% Comp.B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density ",
+      "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9 Comp.A"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,15 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Presealer Acrylic Varnish",
+         "description": "Presealer is an acrylic copolymer based sealer in emulsion and is moisture resistant.",
+    "image": "https://www.topciment.com/imagenes/topsealer/presealer.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Dry touch",
+      "value": "20 minutes"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1 ± 0,01 g/mL"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "10 - 11s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7,5 and 9"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "27"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Presealer Acrylic Varnish 5 L",
+             "description": "Presealer is an acrylic copolymer based sealer in emulsion and is moisture resistant.",
+        "image": "https://www.topciment.com/imagenes/topsealer/presealer.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#presealer",
+        "sku": "TT02020",
+        "gtin13": "8436575620350",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+            {
+      "@type": "PropertyValue",
+      "name": "Dry touch",
+      "value": "20 minutes"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1 ± 0,01 g/mL"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "10 - 11s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7,5 and 9"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Two-component polyurethane varnish Topsealer Pro +",
+         "description": "Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.",
+    "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "variesBy": "Two components",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "High gloss",
+      "value": "Thanks to its high solids content."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosity ",
+      "value": "35-45s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Application time",
+      "value": "20 minutes (Fast) - 30 minutes (Slow)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Quick drying",
+      "value": "Fast:2,5 hours approx - Slow: 8 hours approx"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) -  150 g/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "27"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Two-component polyurethane varnish Topsealer Pro + Componente A 0,54 Kg",
+             "description": "Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+        "size": "0,54 Kg",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-proplus",
+        "sku": "TT02142",
+        "gtin13": "8436575620121",
+        "weight": "0,5 Kg",
+        "isAccessoryOrSparePartFor":{
+        "@type": "Product",
+        "name": "Two-component polyurethane varnish Topsealer Pro + Componente B 0,8Kg",
+             "description": "Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+        "size": "0,8 Kg",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-proplus",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "weight": "0,8 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "High gloss",
+      "value": "Thanks to its high solids content."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosity ",
+      "value": "35-45s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Application time",
+      "value": "20 minutes (Fast) - 30 minutes (Slow)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Quick drying",
+      "value": "Fast:2,5 hours approx - Slow: 8 hours approx"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) -  150 g/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+             {
+      "@type": "PropertyValue",
+      "name": "High gloss",
+      "value": "Thanks to its high solids content."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosity ",
+      "value": "35-45s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Application time",
+      "value": "20 minutes (Fast) - 30 minutes (Slow)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Quick drying",
+      "value": "Fast:2,5 hours approx - Slow: 8 hours approx"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) -  150 g/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Two-component polyurethane varnish Topsealer Pro + Componente B 0,8Kg",
+             "description": "Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+        "size": "0,8 Kg",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-proplus",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "weight": "0,8 Kg",
+        "isAccessoryOrSparePartFor":{
+        "@type": "Product",
+        "name": "Two-component polyurethane varnish Topsealer Pro + Componente A 0,54 Kg",
+             "description": "Topsealer Pro + is a two-component 100% solids clearcoat that does not require priming.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+        "size": "0,54 Kg",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-proplus",
+        "sku": "TT02142",
+        "gtin13": "8436575620121",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+             {
+      "@type": "PropertyValue",
+      "name": "High gloss",
+      "value": "Thanks to its high solids content."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosity ",
+      "value": "35-45s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Application time",
+      "value": "20 minutes (Fast) - 30 minutes (Slow)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Quick drying",
+      "value": "Fast:2,5 hours approx - Slow: 8 hours approx"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) -  150 g/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "High gloss",
+      "value": "Thanks to its high solids content."
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Viscosity ",
+      "value": "35-45s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Application time",
+      "value": "20 minutes (Fast) - 30 minutes (Slow)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Quick drying",
+      "value": "Fast:2,5 hours approx - Slow: 8 hours approx"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) -  150 g/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "27"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Topsealer WT Quick Dry water-based varnish",
+         "description": "Topsealer WT Quick Dry is a two-component polyurethane varnish suitable for the protection of microcement.",
+    "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "material": "Slightly alkaline two-component water based polyurethane.",
+    "variesBy": "Two components",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 22% Comp A: 100 %"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "14 - 15s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Topsealer WT Quick Dry water-based varnish Componente A 5L",
+             "description": "Topsealer WT Quick Dry is a two-component polyurethane varnish suitable for the protection of microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-quick-dry",
+        "sku": "TT02045",
+        "gtin13": "8436575620176",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "isAccessoryOrSparePartFor": {
+        "@type": "Product",
+        "name": "Topsealer WT Quick Dry water-based varnish Componente B 1L",
+             "description": "Topsealer WT Quick Dry is a two-component polyurethane varnish suitable for the protection of microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-quick-dry",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 22% Comp A: 100 %"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "14 - 15s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 22% Comp A: 100 %"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "14 - 15s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Topsealer WT Quick Dry water-based varnish Componente B 1L",
+             "description": "Topsealer WT Quick Dry is a two-component polyurethane varnish suitable for the protection of microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-quick-dry",
+        "sku": "TT02016",
+        "gtin13": "8436575625737",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "1 Kg",
+        "isAccessoryOrSparePartFor":{
+        "@type": "Product",
+        "name": "Topsealer WT Quick Dry water-based varnish Componente A 5L",
+             "description": "Topsealer WT Quick Dry is a two-component polyurethane varnish suitable for the protection of microcement.",
+        "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+        "size": "5  L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#topsealer-quick-dry",
+        "sku": "TT02045",
+        "gtin13": "8436575620176",
+        "material": "Slightly alkaline two-component water based polyurethane.",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 22% Comp A: 100 %"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "14 - 15s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+              {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "Comp A: 22% Comp A: 100 %"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density At 20ºC ",
+      "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "14 - 15s (Copa Ford 4)"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "PH",
+      "value": "Between 7-9"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers) - 0,12 L/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Barniz with Topsealer WT Spray gun",
+         "description": "Topsealer WT All in One is a one-component water-based polyurethane varnish specially developed for the protection of our ready-to-use microcement 'Efectto'.",
+    "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg",
+    "variesBy": "Two components",
+    "additionalProperty": [
+               {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "32 ±2% Comp. A - 100% Comp. B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "pH",
+      "value": "8 ±1 Comp. A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) - 140 ±10 g/m2"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Polyurethane, waterborne and acrylic coatings"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "29"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Topsealer WT Spray Componente A 3L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane varnish specially developed for the protection of our ready-to-use microcement 'Efectto'..",
+        "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
+        "size": "3 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#spray",
+        "sku": "TT02051",
+        "gtin13": "8436575620343",
+        "weight": "3 Kg",
+        "isAccessoryOrSparePartFor": {
+        "@type": "Product",
+        "name": "Topsealer WT Spray Componente B 1L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane varnish specially developed for the protection of our ready-to-use microcement 'Efectto'..",
+        "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#spray",
+        "sku": "TT02050",
+        "gtin13": "8436575620305",
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+               {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "32 ±2% Comp. A - 100% Comp. B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "pH",
+      "value": "8 ±1 Comp. A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) - 140 ±10 g/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "29"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "32 ±2% Comp. A - 100% Comp. B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "pH",
+      "value": "8 ±1 Comp. A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) - 140 ±10 g/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "29"
+        }
+      },
+        {
+        "@type": "Product",
+        "name": "Topsealer WT Spray Componente B 1L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane varnish specially developed for the protection of our ready-to-use microcement 'Efectto'..",
+        "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
+        "size": "1 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#spray",
+        "sku": "TT02050",
+        "gtin13": "8436575620305",
+        "weight": "1 Kg",
+        "isAccessoryOrSparePartFor":
+         {
+        "@type": "Product",
+        "name": "Topsealer WT Spray Componente A 3L",
+             "description": "Topsealer WT All in One is a one-component water-based polyurethane varnish specially developed for the protection of our ready-to-use microcement 'Efectto'..",
+        "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
+        "size": "3 L",
+        "url": "https://www.topciment.com/en/microcements/varnishes-topsealer#spray",
+        "sku": "TT02051",
+        "gtin13": "8436575620343",
+        "weight": "3 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "32 ±2% Comp. A - 100% Comp. B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "pH",
+      "value": "8 ±1 Comp. A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) - 140 ±10 g/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "29"
+        }
+      },
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+               {
+      "@type": "PropertyValue",
+      "name": "Solids",
+      "value": "32 ±2% Comp. A - 100% Comp. B"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Density",
+      "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "pH",
+      "value": "8 ±1 Comp. A"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Viscosity",
+      "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(1 layer) - 140 ±10 g/m2"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "29"
+        }
+      }
+     
+    ] 
+  } </script> 
 </body>
 
 </html>

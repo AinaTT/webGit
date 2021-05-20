@@ -1305,7 +1305,1089 @@
 	</div>
 	</div>
 	<!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProductGroup",
+ "name": "Two-component microcement Sttandard Microbase",  
+  "description": "Two-component microcement preparation used for continuous low-thickness coating on floors and walls.",
+  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
+  "brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "weight": "20 Kg",
+  "material": "Hydraulic binders, selected aggregates and specific additives",
+  "variesBy": "size",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "45 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    }
+  ],
+  "potentialAction": {
+    "@type": "Action",
+	"name": "Microcement application"	
+  },	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }, 
+  "hasVariant": [
+  {
+    "@type": "Product",
+     "name": "Two-component microcement Sttandard Microbase L",
+	  "description": "Two-component microcement preparation used for continuous low-thickness coating on floors and walls.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
+	"url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microbase",
+	"sku": "TT01001",
+  "gtin13":"8436575620015",  
+    "size": "L",
+  "material": "Hydraulic binders, selected aggregates and specific additives",
+	"weight": "20 Kg",
+	 "brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "45 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  },
+  {
+    "@type": "Product",
+	    "name": "Two-component microcement Sttandard Microbase XL",
+	  "description": "Two-component microcement preparation used for continuous low-thickness coating on floors and walls.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XL.jpg",
+	"url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microbase",
+	"sku": "TT01017",  
+  "gtin13":"8436575624617",
+    "size": "XL",
+	 "material": "Hydraulic binders, selected aggregates and specific additives",
+	"weight": "20 Kg",
+	"brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "45 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  },
+  {
+    "@type": "Product",
+ "name": "Two-component microcement Sttandard Microbase XXL",
+	  "description": "Two-component microcement preparation used for continuous low-thickness coating on floors and walls.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XXL.jpg",
+	"url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microbase",
+	"sku": "TT01018",
+  "gtin13":"8436575624815",
+    "size": "XXL",
+ "material": "Hydraulic binders, selected aggregates and specific additives",
+	"weight": "20 Kg",
+		"brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "45 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  }
+  ]
+}
+</script>
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Sttandard Microdeck Two-Component Microcement", 
+    "description": "Two-component finishing microcement for interior floor coverings",
+    "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "35 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,2 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers)- 1 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "16"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Sttandard Microdeck Two-Component Microcement M",
+        "description": "Two-component finishing microcement for interior floor coverings",
+        "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microdeck",
+        "sku": "TT01005",
+        "gtin13": "8436575620053",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Bending strength",
+            "value": "7 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Fire resistance",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Compression resistance",
+            "value": "22 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Adhesion to the substrate",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Consumption",
+            "value": "(2 layers)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Microdeck Two-Component Microcement L",
+        "description": "Two-component finishing microcement for interior floor coverings",
+        "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_L.jpg",
+        "size": "L",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microdeck",
+        "sku": "TT01012",
+        "gtin13": "8436575620138",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "10 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "35 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,2 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers)- 1 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Sttandard Two-Component Microcement",
+    "description": "Two-component finishing microcement for walls and non-trafficable vertical surfaces",
+    "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "15kg and 20kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [{
+        "@type": "PropertyValue",
+        "name": "Bending strength",
+        "value": "7 N/m² (28 days)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Fire resistance",
+        "value": "BFL S1"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Compression resistance",
+        "value": "22 N/m² (28 days)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Adhesion to the substrate",
+        "value": "1,2 N/m²"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Consumption",
+        "value": "(2 layers)- 0,50 Kg/m²"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Sttandard Two-Component Microcement XS",
+        "description": "Two-component finishing microcement for walls and non-trafficable vertical surfaces",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
+        "size": "XS",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microfino",
+        "sku": "TT01015",
+        "gtin13": "8436575620701",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "15kg and 20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Bending strength",
+            "value": "7 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Fire resistance",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Compression resistance",
+            "value": "22 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Adhesion to the substrate",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Consumption",
+            "value": "(2 layers)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Two-Component Microcement S",
+        "description": "Two-component finishing microcement for walls and non-trafficable vertical surfaces",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_S.jpg",
+        "size": "S",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microfino",
+        "sku": "TT01004",
+        "gtin13": "8436575620046",
+        
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "15kg and 20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Bending strength",
+            "value": "7 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Fire resistance",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Compression resistance",
+            "value": "22 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Adhesion to the substrate",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Consumption",
+            "value": "(2 layers)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Two-Component Microcement M",
+        "description": "Two-component finishing microcement for walls and non-trafficable vertical surfaces",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microfino",
+        "sku": "TT01016",
+        "gtin13": "8436575620718",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "15kg and 20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Bending strength",
+            "value": "7 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Fire resistance",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Compression resistance",
+            "value": "22 N/m² (28 days)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Adhesion to the substrate",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Consumption",
+            "value": "(2 layers)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      }
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Two-component microcement Sttandard Microstone",
+    "description": "Two-component microcement finish for outdoor areas",
+    "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Hydraulic binders, selected aggregates and specific additives",
+    "variesBy": "size",
+    "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "11 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "50 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers)- 2 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Microcement application"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "12"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Two-component microcement Sttandard Microstone L",
+        "description": "Two-component microcement finish for outdoor areas",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
+        "size": "L",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microstone",
+        "sku": "TT01024",
+        "gtin13": "8436575620756",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "11 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "50 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers)- 2 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Two-component microcement Sttandard Microstone XL",
+        "description": "Two-component microcement finish for outdoor areas",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
+        "size": "XL",
+        "url": "https://www.topciment.com/en/microcements/two-component-microcement-sttandard#sttandard-microstone",
+        "sku": "TT01006",
+        "gtin13": "8436575620060",
+        "material": "Hydraulic binders, selected aggregates and specific additives",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Bending strength",
+      "value": "11 N/m² (28 days)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Fire resistance",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Compression resistance",
+      "value": "50 N/m² (28 days)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhesion to the substrate",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Consumption",
+      "value": "(2 layers)- 2 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

@@ -121,7 +121,6 @@
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/en/data-sheets/Mettal_Activator-EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Mettal Activator</strong> (Finition rouillée
                              Accélérateur)</a><br>
-
                      </p>
                      <h5 class="card-header mb-3 mt-3"> Elitte
                      </h5>
@@ -160,7 +159,7 @@
                              (agent de scellage base eau pour béton ciré)</a><br>
                          <a href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTquickdry-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick
                                  Dry</strong>(agent de scellage base eau pour béton ciré)</a><br>
-                         <a href="https://www.topciment.com/en/data-sheets/TopsealerWTantiSlip-EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti
+                         <a href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTantiSlip-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti
                                  Slip</strong> (Vernis scellant Antidérapant)</a><br>
                          <a href="fiches-techniques/TopsealerDSV-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong>((agent de
                              scellage pour béton ciré base dissolvant)</a><br>

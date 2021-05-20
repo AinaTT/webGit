@@ -241,7 +241,7 @@
                         <figcaption class="figure-caption">Imagen del restaurante Nacionsushi de Valencia con el
                             pavimento revestido con nuestro microcemento.</figcaption>
                     </figure>
-                    <h2>Contras  y desventajas del microcementodel microcemento </h2>
+                    <h2>Ventajas  y desventajas del microcemento </h2>
 
                     <p>
                         Hay que remarcar que<strong> si se utiliza un material de calidad</strong> y la<strong>

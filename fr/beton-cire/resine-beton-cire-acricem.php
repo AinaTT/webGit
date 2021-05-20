@@ -176,7 +176,317 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Résine acrylique à base d'eau pour microciment Acricem",
+    "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+    "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_y_25L_2021.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "25 Kg et 5 kG",
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Substrat",
+        "value": "Excellente pénétration et stabilisation du substrat."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aplicación",
+        "value": "Il peut être appliqué au rouleau ou au pinceau en une seule couche."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Inflammation",
+        "value": "Ininflammable, à base d'eau"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Distribution",
+        "value": "Le produit est livré prêt à l'emploi."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "(1 couche)- 0,10 L/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Résine de microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "10"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Résine acrylique à base d'eau pour microciment Acricem 5 L",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",
+        "sku": "TT01009",
+        "gtin13": "8436575620107",
+        
+        "weight": "5kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Substrat",
+        "value": "Excellente pénétration et stabilisation du substrat."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aplicación",
+        "value": "Il peut être appliqué au rouleau ou au pinceau en une seule couche."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Inflammation",
+        "value": "Ininflammable, à base d'eau"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Distribution",
+        "value": "Le produit est livré prêt à l'emploi."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "(1 couche)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Résine acrylique à base d'eau pour microciment Acricem 25 L",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
+        "size": "25 L",
+        "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",
+        "sku": "TT01010",
+        "gtin13": "8436575620114",
+        "weight": "25kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Substrat",
+        "value": "Excellente pénétration et stabilisation du substrat."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aplicación",
+        "value": "Il peut être appliqué au rouleau ou au pinceau en une seule couche."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Inflammation",
+        "value": "Ininflammable, à base d'eau"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Distribution",
+        "value": "Le produit est livré prêt à l'emploi."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "(1 couche)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Résine acrylique à base d'eau pour microciment Acricem M",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",
+        "sku": "TT01016",
+        "gtin13": "8436575620718",
+        
+        "weight": "15kg et 20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Substrat",
+        "value": "Excellente pénétration et stabilisation du substrat."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aplicación",
+        "value": "Il peut être appliqué au rouleau ou au pinceau en une seule couche."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Inflammation",
+        "value": "Ininflammable, à base d'eau"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Distribution",
+        "value": "Le produit est livré prêt à l'emploi."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Rendement",
+        "value": "(1 couche)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      }
+    ]
+  } </script>
 </body>
 
 </html>

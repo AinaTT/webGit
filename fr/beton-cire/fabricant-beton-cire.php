@@ -190,18 +190,16 @@ développés avec les dernières technologies."/>
     </div>
 
     <!-- include jQuery -->
-    <script type="application/ld+json">
+ <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "Organization",
-            "name": "Fabricamentes de microcemento",
-            "url": "https://www.topciment.com/fabricant-beton-cire.html",
+            "name": "Fabricant de béton ciré",
+            "url": "https://www.topciment.com/fr/beton-cire/fabricant-beton-cire",
             "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
             "image": "https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg",
             "email": "info@topciment.com",
-            "description": "Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits
-            développés avec les dernières technologies.
-            ",
+            "description": "Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits développés avec les dernières technologies.    ",
             "address": {
                 "@type": "PostalAddress",
                 "postalCode": "46940",
@@ -222,7 +220,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Microcemento Sttandard es ideal para el artesano aplicador que tiene como objetivo crear texturas con carácter propio. Sttandard le permite jugar con sus propias mezclas y sacar, así, el máximo partido a los productos."
+                            "description": "Microcemento Sttandard est idéal pour l'artisan applicateur qui cherche à créer des textures ayant leur propre caractère. Sttandard vous permet de jouer avec vos propres mélanges et de tirer le meilleur parti des produits."
                         }
                     },
                     {
@@ -236,7 +234,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Unlimitted es la nueva línea de microcemento bicomponente (cemento + resina)."
+                            "description": "Unlimitted est la nouvelle ligne de microciment à deux composants (ciment + résine)."
                         }
                     },
                     {
@@ -250,7 +248,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Evoluttion es la mejorada línea de microcementos monocomponentes(cemento + agua)."
+                            "description": "Evoluttion est la gamme améliorée de microciments monocomposants (ciment + eau)."
                         }
                     },
                     {
@@ -258,7 +256,7 @@ développés avec les dernières technologies."/>
                         "itemOffered": {
                             "@type": "Product",
                             "name": "Microcemento para piscinas",
-                            "description": " Atlanttic es la línea de microcemento bicomponente(cemento + resina) desarrollada, específicamente, para superficiesen contacto permanente con agua.",
+                            "description": " Atlanttic est la ligne de microciment à deux composants (ciment + résine) spécifiquement développée pour les surfaces en contact permanent avec l'eau.",
                             "brand": "Atlanttic",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -278,7 +276,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Efectto Quartz es la línea de microcemento listo al uso, que permite conseguir acabados continuos de alta decoración. Su exclusiva fórmula no contiene cementos que puedan producir retracciones imprevistas ni fisuras."
+                            "description": "Efectto Quartz est la ligne de microciment prête à l'emploi qui vous permet de réaliser des finitions continues hautement décoratives. Sa formule exclusive ne contient pas de ciments susceptibles de produire des rétrécissements ou des fissures imprévus."
                         }
                     },
                     {
@@ -292,49 +290,49 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Pure Mettal es el revestimiento metálico bicomponente desarrollado, específicamente, para conseguir acabados de aspecto metalizado."
+                            "description": "Pure Mettal est le revêtement métallique à deux composants spécialement conçu pour obtenir des finitions d'aspect métallique."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Pintura metálica natural y óxido",
+                            "name": "Peinture métallique naturelle et oxyde",
                             "brand": "Classic Mettal",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Classic Mettal es la gama de recubrimientos metálicos listos al uso con posibilidad de acabado oxidable."
+                            "description": "Classic Mettal est la gamme de revêtements métalliques prêts à l'emploi avec la possibilité d'une finition oxydable."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Efecto metálico y veladuras",
+                            "name": "Effet métallique et glacis",
                             "brand": "Elitte",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Elitte es la gama de veladuras con reflejos metalizados"
+                            "description": "Elitte est la gamme de glaçures aux reflets métalliques."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Promotores de adherencia",
+                            "name": "Promoteurs d'adhésion",
                             "brand": "Primacem",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Primacem es la línea de imprimaciones."
+                            "description": "Primacem est la ligne d'amorçage."
                         }
                     },
                     {
@@ -348,35 +346,35 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Arcocem es la línea de pastas pigmentarias. Son colorantes líquidos muy concentrados que se añaden durante la preparación del microcemento."
+                            "description": "Arcocem est la ligne de pâtes pigmentaires. Ce sont des colorants liquides très concentrés qui sont ajoutés lors de la préparation du microciment."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Barnices",
+                            "name": "Vernis",
                             "brand": "Topsealer",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Topsealer es la línea de barnices de poliuretano de Topciment. Un producto que se utiliza en el paso final de la aplicación de microcemento para la protección de superficies."
+                            "description": "Topsealer est la gamme de vernis polyuréthane de Topciment. Un produit qui est utilisé dans l'étape finale de l'application du microciment pour la protection des surfaces."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Limpieza del microcemento",
+                            "name": "Nettoyage du microciment",
                             "brand": "Ecoclean",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Productos altamente especializados para la limpieza y mantenimiento del microcemento. "
+                            "description": "Produits hautement spécialisés pour le nettoyage et l'entretien du microciment. "
                         }
                     },
                     {
@@ -390,21 +388,21 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "La solución de Topciment para dotar a los suelos de microcemento de un atractivo brillo natural y dar durabilidad a la superficie tratada."
+                            "description": "La solution de Topciment pour donner aux sols en microciment une brillance naturelle attrayante et une durabilité à la surface traitée."
                         }
                     },
                     {
                         "@type": "Offer",
                         "itemOffered": {
                             "@type": "Product",
-                            "name": "Herramientas para microcemento",
+                            "name": "Outils pour le microciment",
                             "brand": "Toptool",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Herramientas testadas por Topciment para una óptima aplicación del microcemento."
+                            "description": "Outils testés par Topciment pour une application optimale du microciment"
                         }
                     }
 

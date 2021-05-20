@@ -17,7 +17,7 @@
          </div>
          <div id="menuocultomovil">
              <ul>
-                 <li><a href="../beton-cire/produits" onclick="ocultarmovil()">Productos</a></li>
+                 <li><a href="../beton-cire/produits" onclick="ocultarmovil()">Produits</a></li>
                  <li><a href="../professionnels" onclick="ocultarmovil()">Professionnels</a></li>
                  <li><a href="../beton-cire/cours-application-beton-cire" onclick="ocultarmovil()">Cours</a></li>
                  <li><a href="../beton-cire/galerie" onclick="ocultarmovil()">Galerie</a></li>

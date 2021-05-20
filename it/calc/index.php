@@ -17,7 +17,7 @@
     <script src="themes/jquery-1.8.2.min.js"></script>
     <script src="themes/jquery.mobile-1.4.0.min.js"></script>
 
-    <title>Calculadora precio microcemento, barnices, imprimación y colores</title>
+    <title>Calculadora precio microcemento, barnices, imprimación yColori</title>
     <meta name="description" content="¿Quieres aplicar microcemento y no sabes cuánto material necesitas? Con nuestra calculadora sabrás la cantidad según la superficie a revestir, los m2 y el color de microcemento."/>
 
     <link rel="canonical" href="https://www.topciment.com/es/calc/"/>

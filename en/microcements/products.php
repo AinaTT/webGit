@@ -267,7 +267,7 @@
                 </div>
                 <!-- Description Pure Mettal -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Mettalic covering</h2>
+                    <h2 class="sh2">Metallic covering</h2>
                     <p class="textos">
                         Pure Mettal is the two-component metallic covering that stands out for its ability to create
                         authentic and high-gloss metallic effects. It offers the possibility of obtaining oxidised

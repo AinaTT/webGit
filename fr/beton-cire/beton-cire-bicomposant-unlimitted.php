@@ -722,7 +722,523 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Microciment à préparation bicomposante Microbase Unlimitted",
+    "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+    "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Application du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "17"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Microciment à préparation bicomposante Microbase Unlimitted L",
+        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg",
+        "size": "L",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
+        "sku": "TT01085",
+        "gtin13": "8436575620657",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "17"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Microciment à préparation bicomposante Microbase Unlimitted XL",
+        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
+        "size": "XL",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
+        "sku": "TT01080",
+        "gtin13": "8436575620602",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "17"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Microciment à préparation bicomposante Microbase Unlimitted XXL",
+        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_XXL.jpg",
+        "size": "XXL",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
+        "sku": "TT01086",
+        "gtin13": "8436575620664",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "55 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "17"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée",
+      "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+    "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "50 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Application du microciment"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "17"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée M",
+          "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+        "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microdeck",
+        "sku": "TT01082",
+        "gtin13": "8436575620626",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [   {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "50 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "17"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée S",
+          "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+        "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_S.jpg",
+        "size": "S",
+        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microdeck",
+        "sku": "TT01081",
+        "gtin13": "8436575620619",
+        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Résistance à la flexion",
+      "value": "9 N/m² (28 jours)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Résistance au feu",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Résistance à la compression",
+      "value": "50 N/m² (28 jours)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Adhésion au substrat",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "17"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

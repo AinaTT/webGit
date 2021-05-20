@@ -31,8 +31,6 @@
     <link rel="alternate" href="https://www.topciment.com/gr/gr-project-casa-isabel.html" hreflang="el-GR"/>
     <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-casa-isabel.html" hreflang="ru-RU"/>
 
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-casa-isabel.html" hreflang="zh-CN"/>
-
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 

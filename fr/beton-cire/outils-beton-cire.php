@@ -538,7 +538,424 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Truelle en acier Bi-Flex pour microciment",
+         "description": "Truelle en acier Bi-Flex extra légère. Il possède une poignée en polycarbonate transparent, résistante et ergonomique.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Biflex.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "300 x 110 mm 350 x 110 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Épaisseur",
+      "value": "0,40 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Vendu en emballage individuel sous blister."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Truelle en caoutchouc pour microciment fin.",
+         "description": "La truelle flexible en caoutchouc souple pour microciment est adaptée aux surfaces horizontales et verticales.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Goma.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "140 x 300 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Vendus à l'unité."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Maille en fibre de verre pour microciment",
+         "description": "idéal pour le renforcement des sols et des revêtements continus en microciment, car il soutient le support et permet l'imperméabilisation de la surface",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+   {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "Rouleau de 50 x 1m"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Épaisseur",
+      "value": "Builtex GR 50 - Builtex GR 58 - Builtex GR 160"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Le nombre d'unités varie en fonction du poids de la maille en fibre de verre."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Profilé en aluminium pour escaliers et parois en microciment",
+         "description": "Le profilé en aluminium est placé sur les angles des murs et sur les bords des escaliers pour décorer et protéger. ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "2700 x 3 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Vendu en paquets de 10 et 20 unités."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Rouleau à poils courts pour microciment",
+         "description": "Rouleau spécial pour l'apprêt et le scellement du microciment. ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "4 x 180 mm - 4 x 220 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Material",
+      "value": "Fibra de poliéster (WT),
+      Lana virgen tejida (DSV)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Vendu en emballage individuel sous blister."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Tige de mélange à double hélice pour microciment",
+         "description": "Cette tige se distingue par sa double hélice, qui permet un mélange efficace des mortiers de ciment.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Mesures",
+      "value": "120 x 500 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Marge de fixation",
+      "value": "10 mL"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Capacité de mélange",
+      "value": "30 Kg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Convient pour",
+      "value": "Matériaux liquides, peintures, vernis, peintures murales et peintures de dispersion, colles d'amidon, adhésifs, adhésifs pour carrelage"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Présentation",
+      "value": "Vendus à l'unité"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " Outils de microciment "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
 </body>
 
 </html>
