@@ -124,7 +124,7 @@
       "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
     }
   },
-  "description":"tests of slipperiness of microcement at the only testing laboratory in Spain specialised in this field"
+  "description":"Tests of slipperiness of microcement at the only testing laboratory in Spain specialised in this field"
 } 
 </script>
 </body>
