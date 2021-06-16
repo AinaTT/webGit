@@ -140,10 +140,10 @@
                             http://windows.microsoft.com/es-ES/windows7/How-to-manage-cookies-in-Internet-Explorer-9</a>
                     </p>
                     <p> Safari™: </p>
-                    <p> <a href="http://support.apple.com/kb/PH5042?viewlocale=es_ES%20">
-                            http://support.apple.com/kb/PH5042?viewlocale=es_ES</a> </p>
-                    <p><a href="http://support.apple.com/kb/HT1677?viewlocale=es_ES%20">
-                            http://support.apple.com/kb/HT1677?viewlocale=es_ES</a> </p>
+                    <p> <a href="http://support.apple.com/kb/PH5042?viewlocale=zh_CN%20">
+                            http://support.apple.com/kb/PH5042?viewlocale=zh_CN</a> </p>
+                    <p><a href="http://support.apple.com/kb/HT1677?viewlocale=zh_CN%20">
+                            http://support.apple.com/kb/HT1677?viewlocale=zh_CN</a> </p>
                     <p> Google™: <a href="https://support.google.com/chrome/answer/95647?hl=es&hlrm=en%20">
                             https://support.google.com/chrome/answer/95647?hl=es&amp;hlrm=en</a> </p>
                     <p> Firefox™:<a

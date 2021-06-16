@@ -15,24 +15,24 @@
     <link rel="preload" href="../../assets/css/cursos.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/cursos.css" />
 
-    <title>Topciment Training: Mikrozement-Anwendungsschulungen</title>
+    <title>Topciment Training: mikrozement -Anwendungsschulungen</title>
     <meta name="description"
-        content="Ihre berufliche Zukunft ist uns wichtig. In Topciment bieten wir Ihnen mehrere Kurse zur Anwendung von Mikrozement, Lacken und Metallic-Farben." />
+        content="Ihre berufliche Zukunft ist uns wichtig. In Topciment bieten wir Ihnen mehrere Kurse zur Anwendung von mikrozement , Lacken und Metallic-Farben." />
 
 
-    <meta property="og:title" content="Topciment Training: Mikrozement-Anwendungsschulungen">
+    <meta property="og:title" content="Topciment Training: mikrozement -Anwendungsschulungen">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement">
+    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement ">
     <meta property="og:description"
-        content="Ihre berufliche Zukunft ist uns wichtig. In Topciment bieten wir Ihnen mehrere Kurse zur Anwendung von Mikrozement, Lacken und Metallic-Farben.">
+        content="Ihre berufliche Zukunft ist uns wichtig. In Topciment bieten wir Ihnen mehrere Kurse zur Anwendung von mikrozement , Lacken und Metallic-Farben.">
     <meta property="og:type" content="article">
     <meta property="og:image"
         content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
 
 
-    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement" />
+    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement " />
 
-    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement"
+    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/schulungen-anwendung-mikrozement "
         hreflang="de-DE" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/cours-application-beton-cire"
         hreflang="fr-FR" />
@@ -73,7 +73,7 @@
             <div class="content">
                 <a id="invertimos-en-tu-futuro" class="ancla"></a>
 
-                <h1 class="mb-4">Mikrozement-Anwendungsschulungen</h1>
+                <h1 class="mb-4">mikrozement -Anwendungsschulungen</h1>
                 <h2>Wir investieren in Ihre Zukunft</h2>
                 <p>Zusammenarbeit, Aufmerksamkeit und Engagement sind die Werte, die den Umgang von Topciment mit seinen
                     zugelassenen Applikatoren kennzeichnen. Kontinuierliche Weiterbildung des Fachpersonals ist die
@@ -89,12 +89,12 @@
                 <h2 class="en5">Was werden Sie lernen?</h2>
                 <p>In den Topciment-Schulungen zeigen Ihnen die Verarbeitungsmeister die verschiedenen Techniken, die es
                     je nach Art der dekorativen Beschichtung und der zu beschichtenden Fläche oder des Untergrunds gibt.
-                    Sie beraten Sie bei der Vorbereitung, Anwendung, Versiegelung und Pflege von Mikrozement und anderen
+                    Sie beraten Sie bei der Vorbereitung, Anwendung, Versiegelung und Pflege von mikrozement  und anderen
                     dekorativen Oberflächen mit Tipps und Tricks.
                 </p>
 
                 <p>Wir haben eine große Auswahl an Kursen, um genau das zu finden, wonach Sie suchen. Von Schulungen
-                    über Mikrozement oder Lacken bis hin zu Schulungen über Texturen oder Metallic-Farben, unter
+                    über mikrozement  oder Lacken bis hin zu Schulungen über Texturen oder Metallic-Farben, unter
                     anderem. Entdecken Sie alle.</p>
 
 
@@ -117,20 +117,20 @@
                         </div>
                         <div class="col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Einführungsschulung für Mikrozement</h5>
-                                    <p class="card-text">Wenn Sie eine Einführung in die Anwendung von Mikrozement
+                                <h3 class="card-title">Einführungsschulung für mikrozement </h5>
+                                    <p class="card-text">Wenn Sie eine Einführung in die Anwendung von mikrozement 
                                         suchen, ist dies der richtige Kurs für Sie. Sie erlernen Grundkenntnisse über
                                         den Applikationsprozess, von der Grundierung bis zur Versiegelung, und die
                                         verschiedenen Werkzeuge. </p>
                                     <p class="card-text">Der Kurs dauert ca. 8 Stunden (2 Std. Theorie + 6 Std. Praxis)
                                         und wird von Jorge Coimbra unterrichtet, einem Applikationsmeister mit mehr als
-                                        15 Jahren Erfahrung in der Anwendung von Mikrozement.</p>
-                                    <p class="card-text">Das Programm dieses Mikrozementkurses konzentriert sich
+                                        15 Jahren Erfahrung in der Anwendung von mikrozement .</p>
+                                    <p class="card-text">Das Programm dieses mikrozement kurses konzentriert sich
                                         hauptsächlich auf "Sttandard", die traditionelle
-                                        Zweikomponenten-Mikrozementlinie von Topciment. Aber auch die anderen Sortimente
+                                        Zweikomponenten-mikrozement linie von Topciment. Aber auch die anderen Sortimente
                                         werden vorgestellt, so dass die Studenten andere Produkte ausprobieren können,
-                                        wie "Evoluttion", einkomponentiger Mikrozement; "Efectto", gebrauchsfertiger
-                                        Mikrozement; und "Unlimitted", der zweikomponentige Mikrozement, der die
+                                        wie "Evoluttion", einkomponentiger mikrozement ; "Efectto", gebrauchsfertiger
+                                        mikrozement ; und "Unlimitted", der zweikomponentige mikrozement , der die
                                         Verarbeitbarkeit verbessert. </p>
                                     <p class="card-text">
 
@@ -149,14 +149,14 @@
                                           </div>
                                           <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Kurs für fortgeschrittene Mikrozement-Anwendungstechniken
+                                <h3 class="card-title">Kurs für fortgeschrittene mikrozement -Anwendungstechniken
                                 </h3>
                                 <p class="card-text">Gestaltet für den erfahrenen Verarbeiter, der die Produktivität
-                                    beim Auftragen von Mikrozement verbessern und gleichzeitig die Kosten so weit wie
+                                    beim Auftragen von mikrozement  verbessern und gleichzeitig die Kosten so weit wie
                                     möglich reduzieren möchte. </p>
                                 <p class="card-text">Mit Hilfe des Trainers César Orellana lernen Sie, wie Sie mehr
                                     Meter Fläche in kürzerer Zeit zurücklegen können. Der Kurs über fortgeschrittene
-                                    Mikrozement-Applikationstechniken wird ca. 8 Stunden dauern (1 h Theorie + 7 h
+                                    mikrozement -Applikationstechniken wird ca. 8 Stunden dauern (1 h Theorie + 7 h
                                     Praxis). </p>
                                 <p class="card-text">
 
@@ -203,7 +203,7 @@
                             <div class="card-body">
                                 <h3 class="card-title">Fortgeschrittener Lackkurs</h3>
                                 <p class="card-text">Fokussiert auf den professionellen Verarbeiter, der sich mit dem
-                                    wichtigsten Schritt in der Anwendung von Mikrozement beschäftigen möchte. </p>
+                                    wichtigsten Schritt in der Anwendung von mikrozement  beschäftigen möchte. </p>
                                 <p class="card-text">Sie üben mit allen verfügbaren Lacken (Topsealer WT One Coat,
                                     Topsealer WT Anti Slip, Topsealer All in One, Topsealer WT Quick Dry, Topsealer Pro +,
                                     Topsealer DSV und Presealer) und lernen, wie man jeden von ihnen in jeder Art von
@@ -229,15 +229,15 @@
                           </div>
                            <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Fortgeschrittener Mikrozementkurs für Schwimmbäder</h3>
+                                <h3 class="card-title">Fortgeschrittener mikrozement kurs für Schwimmbäder</h3>
                                 <p class="card-text">Zielgerichtet auf den erfahrenen Verarbeiter, der in der Anwendung
-                                    von Mikrozement geübt ist und einen weiteren Schritt in seiner Ausbildung machen
-                                    möchte, indem er lernt, wie man Mikrozementbecken beschichtet. Ein Thema, das zu
+                                    von mikrozement  geübt ist und einen weiteren Schritt in seiner Ausbildung machen
+                                    möchte, indem er lernt, wie man mikrozement becken beschichtet. Ein Thema, das zu
                                     komplex ist für diejenigen, die nicht über umfangreiche Erfahrungen in diesem Sektor
                                     verfügen und zuvor andere Kurse besucht haben.</p>
                                 <p class="card-text">Mit einer ungefähren Dauer von 8 Stunden (1 h Theorie + 7 h Praxis)
                                     wird der Applikationsmeister César Orellana die Besonderheiten von "Atlanttic", dem
-                                    exklusiv von Topciment entwickelten Zweikomponenten-Mikrozement für Schwimmbäder,
+                                    exklusiv von Topciment entwickelten Zweikomponenten-mikrozement  für Schwimmbäder,
                                     vermitteln. Ein Produkt, das auch für die Beschichtung anderer Oberflächen verwendet
                                     werden kann, die in ständigem Kontakt mit Wasser stehen, wie z. B. Teiche oder
                                     Springbrunnen. </p>
@@ -311,11 +311,11 @@
 
                 <a id="modalidades" class="ancla"></a>
 
-                <h2>Modalitäten der Mikrozement-Schulung</h2>
+                <h2>Modalitäten der mikrozement -Schulung</h2>
                 <p>Wir haben mehrere Schulungen, die sich an den Kenntnisstand des jeweiligen Anwenders anpassen. </p>
                 <p>Um das Lernen so vollständig wie möglich zu gestalten, <strong>ist es wichtig, den Kurs zu wählen,
                         der am besten zu Ihren Fähigkeiten passt.</strong> Alle unsere Kurse zum Auftragen von
-                    Mikrozement und Endlosbeschichtungen werden von Meisterverarbeitern mit langjähriger Erfahrung
+                    mikrozement  und Endlosbeschichtungen werden von Meisterverarbeitern mit langjähriger Erfahrung
                     unterrichtet und sind in vier Modalitäten verfügbar: Klassenzimmer, Vor-Ort-Schulung, Online- und
                     Video-Tutorials. </p>
                 <div class="mod">
@@ -325,9 +325,9 @@
                             <div class=" col-md-8">
                                 <div class="card-body">
                                     <h3 class="card-title">Vor-Ort-Kurse</h3>
-                                    <p class="card-text">Vor-Ort-Kurse für Topciment können in unserer Mikrozementfabrik
+                                    <p class="card-text">Vor-Ort-Kurse für Topciment können in unserer mikrozement fabrik
                                         oder in den Einrichtungen eines Händlers in Ihrer Nähe abgehalten werden. </p>
-                                    <p class="card-text">Die Kurse in der Mikrozementfabrik Topciment haben eine
+                                    <p class="card-text">Die Kurse in der mikrozement fabrik Topciment haben eine
                                         maximale Kapazität von 12 Personen. Mit dieser Einschränkung garantieren wir,
                                         dass jede Person die Vorteile des Kurses voll ausschöpft, indem sie einen
                                         individuellen Arbeitsbereich hat, in dem sie das Material auf horizontalen und
@@ -356,7 +356,7 @@
                                         <p class="card-text">Sind Sie mitten in einer Baustelle und brauchen Hilfe?
                                             Machen Sie sich keine Sorgen. Bei Topciment stellen wir Ihnen unsere
                                             Ausbilder zur Verfügung, um Ihre Mitarbeiter in der Anwendung von
-                                            Mikrozement oder anderen dekorativen Beschichtungen zu schulen.
+                                            mikrozement  oder anderen dekorativen Beschichtungen zu schulen.
                                             <p class="card-text">
 
                                                 <div class="home_link2 mt-4">
@@ -376,7 +376,7 @@
                                 <div class="card-body">
                                     <h3 class="card-title">Online-Kurse</h5>
                                         <p class="card-text">Alle von uns angebotenen Präsenzkurse zur Anwendung von
-                                            Mikrozement, Lacken und dekorativen Oberflächen können auch von zu Hause aus
+                                            mikrozement , Lacken und dekorativen Oberflächen können auch von zu Hause aus
                                             durchgeführt werden. </p>
                                         <p class="card-text"> Die Online-Schulungen von Topciment sind für Personen
                                             gedacht, die nicht zu unseren Einrichtungen reisen können, sowie für
@@ -403,7 +403,7 @@
                                 <div class="card-body">
                                     <h3 class="card-title"> Videotutorials</h3>
                                     <p class="card-text">Wir haben Videotutorials für diejenigen, die daran interessiert
-                                        sind, sehr spezifische Dinge über die Anwendung von Mikrozement zu lernen. </p>
+                                        sind, sehr spezifische Dinge über die Anwendung von mikrozement  zu lernen. </p>
                                     <p class="card-text">Zusätzlich haben diejenigen, die einen Klassenzimmerkurs
                                         belegen, für die nächsten 3 Monate unbegrenzten Zugang zu unserer
                                         Video-Tutorial-Plattform. </p>
@@ -458,7 +458,7 @@
                                 class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                             <h5 class="mb-0">Jorge Coimbra</h5>
                             Ausgebildet im eigenen Haus, ist Coimbra um die halbe Welt gereist, um unsere
-                            Mikrozement-Anwendungskurse zu unterrichten. Mit 15 Jahren Erfahrung ist er der
+                            mikrozement -Anwendungskurse zu unterrichten. Mit 15 Jahren Erfahrung ist er der
                             dienstälteste Ausbilder bei Topciment.
                         </div>
                     </div>
@@ -472,7 +472,7 @@
                             <h5 class="mb-0">César Orellana</h5>
                             <p class="description">
                                 Obwohl er als kaufmännischer Techniker begann, führte ihn sein umfangreiches Wissen in
-                                der Anwendung von Mikrozement dazu, ein Topciment-Trainer auf nationaler Ebene zu
+                                der Anwendung von mikrozement  dazu, ein Topciment-Trainer auf nationaler Ebene zu
                                 werden. Orellana leitet vor allem die Kurse, die sich an unsere Distributoren in Spanien
                                 richten.
                             </p>
@@ -499,13 +499,13 @@
 
                 <a id="donde-se-hacen" class="ancla"></a>
 
-                <h2 class="mt-5">Wo finden die Mikrozementkurse statt?</h2>
-                <p>Die Topciment Mikrozement-Anwendungskurse werden in <strong>modernen Einrichtungen</strong> mit
+                <h2 class="mt-5">Wo finden die mikrozement kurse statt?</h2>
+                <p>Die Topciment mikrozement -Anwendungskurse werden in <strong>modernen Einrichtungen</strong> mit
                     <strong>4.000 Quadratmetern abgehalten. </strong></p>
                 <p>Während der theoretische Teil in einem Raum mit einer Kapazität von 100 Personen stattfindet, findet
                     der praktische Teil in einem großen Schulungsraum von 140 Quadratmetern statt, in dem jeder Fachmann
                     einen geeigneten Arbeitsplatz hat. </p>
-                <p>Unser Mikrozementwerk befindet sich in der <strong>Calle Viena 31 del Polígono Industrial Mas de Tous
+                <p>Unser mikrozement werk befindet sich in der <strong>Calle Viena 31 del Polígono Industrial Mas de Tous
                         de Pobla de Vallbona (València).</strong> </p>
                
                             <div class="map-wrap mt-5">
@@ -538,7 +538,179 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org/",
+    "@type": "Course",
+    "name": "Einführungskurs mikrozement ",
+    "description": "Sie lernen die Grundlagen des mikrozement -Auftragsprozesses, von der Grundierung bis zur Versiegelung, und die verschiedenen Werkzeuge kennen.",
+    "occupationalCredentialAwarded": "Diplom, das den Abschluss des Kurses für mikrozement  bestätigt.",
+    "audience": {
+      "@type": "Audience",
+      "name": "mikrozement -Applikatoren",
+      "geographicArea": {
+        "@type": "AdministrativeArea",
+        "name": ["Europa", "China", "EEUU"]
+      }
+    },
+    "hasCourseInstance": [{
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-02-19",
+        "startDate": "2021-02-19",
+        "name": "Internationaler mikrozement -Einführungskurs",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      },
+      {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-02-26",
+        "startDate": "2021-02-26",
+        "name": "Nationaler Einführungskurs für mikrozement ",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-03-12",
+        "startDate": "2021-03-12",
+        "name": "Internationaler mikrozement -Einführungskurs",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-03-26",
+        "startDate": "2021-03-26",
+        "name": "Nationaler Einführungskurs für mikrozement ",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-04-16",
+        "startDate": "2021-04-16",
+        "name": "Internationaler mikrozement -Einführungskurs",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-04-30",
+        "startDate": "2021-04-30",
+        "name": "Nationaler Einführungskurs für mikrozement ",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-05-14",
+        "startDate": "2021-05-14",
+        "name": "Internationaler mikrozement -Einführungskurs",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-05-28",
+        "startDate": "2021-05-28",
+        "name": "Nationaler Einführungskurs für mikrozement ",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-06-04",
+        "startDate": "2021-06-04",
+        "name": "Internationaler mikrozement -Einführungskurs",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }, {
+        "@type": "CourseInstance",
+        "courseMode": "Von Angesicht zu Angesicht",
+        "endDate": "2021-06-18",
+        "startDate": "2021-06-18",
+        "name": "Nationaler Einführungskurs für mikrozement ",
+        "location": {
+          "@type": "Place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "C/Rosas 33",
+            "addressLocality": "Manises",
+            "addressRegion": "Valencia"
+          }
+        }
+      }
+    ],
+    "provider": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "url": "https://www.topciment.com"
+    }
+  } </script>
 </body>
 
 </html>

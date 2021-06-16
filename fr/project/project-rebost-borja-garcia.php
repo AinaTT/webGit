@@ -36,13 +36,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-rebost-borja-garcia" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-rebost-borja-garcia" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-rebost-borja-garcia.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-rebost-borja-garcia.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-rebost-borja-garcia.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-rebost-borja-garcia.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-rebost-borja-garcia.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-rebost-borja-garcia.html" hreflang="zh-CN"/>
-
+    
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -80,7 +74,7 @@
                     <p>Ce restaurant bien connu, situé au centre de la ville valencienne de Sueca, est installé dans un
                         bâtiment historique du XIXe siècle. Une réforme dans un lieu présentant ces caractéristiques doit préserver le charme des années
                         le charme du passage des années, mais l'adapter aux caractéristiques d'un menu où la cuisine méditerranéenne de toute vie
-                        La cuisine méditerranéenne est à la base d'une proposition innovante. Le <a href="../information-beton-cire">Béton Ciré</a> est le matériau idéal pour obtenir cet effet, le parfait mélange de modernité et de tradition.
+                        La cuisine méditerranéenne est à la base d'une proposition innovante. Le <a href="../information-beton-cire">béton ciré </a> est le matériau idéal pour obtenir cet effet, le parfait mélange de modernité et de tradition.
                         un mélange parfait de modernité et de tradition. L'osier et l'argile sont présents pour ne pas oublier les racines, les murs fixes mais
                         les racines, des murs fixes mais ouverts pour contribuer à sa luminosité, et une répartition souple des tables font de ce restaurant un
                         et une répartition flexible des tables font de ce restaurant un espace unique.

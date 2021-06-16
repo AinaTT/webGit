@@ -113,7 +113,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/design-and-comfort-for-outdoor-spaces"
+  },
+  "headline": "Design and comfort for outdoor spaces",
+  "image":"https://www.topciment.com/imagenes/exteriores/diseno-y-confort-exterior-viviendas-1.jpg",
+  "datePublished": "2020-01-15",
+  "dateModified": "2020-01-15",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Topciment presents the most modern solution for exteriors, terraces, balconies and patios, the Microstone microcement for exteriors. It is the most innovative product in continuous decorative coatings because it achieves a clean, pleasant and avant-garde environment."
+}
+</script>
 </body>
 
 </html>

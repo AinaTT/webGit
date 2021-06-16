@@ -92,10 +92,7 @@
             <div class="content-a" onClick="location.href='microcement'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles"
-                        style="text-align:right;" data-animate-scroll='{"x": "0",
-                    "y": "50",
-                    "alpha": "0",
-                    "duration": "1"}'>
+                        style="text-align:right;"  >
                         <h1 class="enHome3 br1">IT'S MORE THAN <span class="negrita">MICROCEMENT,</span><br>IT'S <span
                                 class="negrita">TOPCIMENT</span></h1>
                         <h2 class="txHome2 br1"> At Topciment, excellence leads the way.</h2>
@@ -358,7 +355,7 @@
                                         <li class="arcocemF"><a class="linkB"
                                                 href="microcements/pigments-for-microcement-arcocem">Pigments</a></li>
                                         <li class="topsealerF"><a class="linkB"
-                                                href="microcements/varnishes-topsealer">Primers</a></li>
+                                                href="microcements/polyurethane-waterbased-acrylic-varnishes-topsealer">Primers</a></li>
                                         <li class="limpieF"><a class="linkB"
                                                 href="microcements/cleaning-and-care-of-microcement">Cleaning and care
                                                 of

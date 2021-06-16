@@ -14,7 +14,7 @@
                      <li class="primacemF"><a class="linkB" href="wenxingshuini/nianzhuo-de-diqi">粘合剂</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="wenxingshuini/weishuini-sejiang-yanliao">颜料</a></li>
-                     <li class="topsealerF"><a class="linkB" href="wenxingshuini/mifeng-zhaomianji-yingyong">清漆</a></li>
+                     <li class="topsealerF"><a class="linkB" href="wenxingshuini/qingqi-juanzhi-bingxisuan-shui-mifengji">清漆</a></li>
                      <li class="limpieF"><a class="linkB" href="wenxingshuini/weishuini-de-qingjie-baohu">微水泥的清洁和保养</a></li>
                      <li class="herramF"><a class="linkB" href="wenxingshuini/weishuini-gongju">工具</a></li>
                  </ul>

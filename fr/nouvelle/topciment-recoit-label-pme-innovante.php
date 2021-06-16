@@ -61,7 +61,7 @@
                 <h1>Topciment reçoit le label PME INNOVANTE </h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
                   <p>L'engagement déterminé de Topciment dans la recherche, le développement et l'innovation dans le secteur des revêtements décoratifs a été reconnu par le ministère espagnol de la Science et de l'Innovation, qui nous a décerné le label INNOVATIVE PME.
- Un engagement concrétisé dans le projet "Recherche et Développement de Béton ciré Assainissants à Propriétés Multifonctionnelles", financé par le CDTI (Centre de Développement Technologique Industriel) et portant le numéro IDI-20200482.
+ Un engagement concrétisé dans le projet "Recherche et Développement de béton ciré  Assainissants à Propriétés Multifonctionnelles", financé par le CDTI (Centre de Développement Technologique Industriel) et portant le numéro IDI-20200482.
 </p>
 
 <p>Une décision qui nous plaît profondément puisqu'elle met en lumière le grand investissement en R & D & I que nous avons réalisé ces dernières années pour offrir à nos clients des produits à valeur ajoutée et à la pointe de la technologie.</p>
@@ -202,10 +202,10 @@
                                                     <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color:black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 13px" placeholder="Email" changeitem="SIGNUP_FORM_FIELD" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL">
                                                 </div>
                                                 <div style="position: relative; margin: 15px 15px 15px 15px; width: 150px; height: 28px; display: inline-block" class="SIGNUP_FLD">
-                                                    <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
+                                                    <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nom" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block" class="SIGNUP_FLD">
-                                                    <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                    <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType" value="optinCustomView">

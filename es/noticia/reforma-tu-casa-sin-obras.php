@@ -309,7 +309,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/reforma-tu-casa-sin-obras"
+  },
+  "headline": "Reformar tu casa sin obras y en poco tiempo es posible",
+  "image":"https://www.topciment.com/imagenes/news/habitacion-suelo-microcemento%20-portada.jpg",
+  "datePublished": "2020-11-16",
+  "dateModified": "2020-11-16",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Han pasado ya unos cuantos años desde que te compraste tu casa con toda la ilusión del mundo, sin embargo el paso del tiempo ha hecho estragos. Con el microcemento de Topciment, revestimiento decorativo de altas pretaciones podrás reformar tu casa sin obras y en poco tiempo."
+  
+}
+</script>
 </body>
 
 </html>

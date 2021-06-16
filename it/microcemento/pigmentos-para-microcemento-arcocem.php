@@ -14,14 +14,14 @@
     <link rel="preload" href="../../assets/css/familia.css" as="style"/>
     <link rel="stylesheet" href="../../assets/css/familia.css"/>
 
-    <title>Pigmentos y colores microcemento | Arcocem</title>
-    <meta name="description" content="Renueva superficies y crea nuevos espacios en interiores y exteriores con nuestros pigmentos y colores de microcemento: : gris, blanco, negro, rojo, verde... Cualquier combinación es posible."/>
+    <title>Pigmenti e colori microcemento | Arcocem</title>
+    <meta name="description" content="Rinnovare le superfici e creare nuovi spazi in interni ed esterni con i nostri pigmenti e colori di microcemento: : grigio, bianco, nero, rosso, verde.... Qualsiasi combinazione è possibile."/>
 
 
-    <meta property="og:title" content="Pigmentos y colores microcemento | Arcocem">
+    <meta property="og:title" content="Pigmenti e colori microcemento | Arcocem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/pigmentos-para-microcemento-arcocem">
-    <meta property="og:description" content="Renueva superficies y crea nuevos espacios en interiores y exteriores con nuestros pigmentos y colores de microcemento: : gris, blanco, negro, rojo, verde... Cualquier combinación es posible. ">
+    <meta property="og:description" content="Rinnovare le superfici e creare nuovi spazi in interni ed esterni con i nostri pigmenti e colori di microcemento: : grigio, bianco, nero, rosso, verde.... Qualsiasi combinazione è possibile. ">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
 
@@ -69,20 +69,19 @@
                         </div>
                         <div class="content">
                             <a id="que-es-arcocem" class="ancla"></a>
-                            <h1 class="en2">Pigmentos y colores microcemento | Arcocem</h1>
-                    
+                            <h1 class="en2">Pigmenti e colori microcemento | Arcocem</h1>
 <p>
-    Arcocem es la línea de pigmentos y colores de microcemento exclusiva de Topciment. Una amplia línea de pastas pigmentarias compuesta por más de 30 tonalidades con las que se pueden conseguir ilimitados acabados decorativos en espacios interiores y exteriores.
+  Arcocem è la linea esclusiva di Topciment di pigmenti e colori in microcemento. Un'ampia linea di paste di pigmento composta da più di 30 tonalità con cui si possono ottenere finiture decorative illimitate in spazi interni ed esterni.
 
-</p>    
+</p>  
 <p>
-    Dentro de esta gama de colorantes líquidos muy concentrados que se añaden durante la preparación del microcemento, encontramos dos líneas: Arcocem Basic y Arcocem Plus. Ambas son compatibles con todo tipo de superficies: paredes, suelos, terrazas... Con Arcocem cualquier combinación es posible para renovar estancias.
+  All'interno di questa gamma di coloranti liquidi altamente concentrati che vengono aggiunti durante la preparazione del microcemento, ci sono due linee: Arcocem Basic e Arcocem Plus. Entrambi sono compatibili con tutti i tipi di superfici: pareti, pavimenti, terrazze? Con Arcocem è possibile qualsiasi combinazione per rinnovare le stanze.
 
-</p>    
+</p>  
 <p>
-    Por un lado tenemos los colores de microcemento Arcocem Basic: blanco, negro, azul, rojo anaranjado, verde y amarillo. Estos colores sirven de base para el amplio espectro de pigmentos de microcemento que forman Arcocem Plus. Por otro lado, se encuentra Arcocem Plus. Se trata de las pastas pigmentarias en monodosis a partir de las cuales surgen el resto de colores de microcemento de la amplia carta de Topciment. Entre ellos una rica escala de grises, uno de los colores más demandado por los profesionales.
-         
-</p>                  
+  Da un lato abbiamo i colori del microcemento Arcocem Basic: bianco, nero, blu, rosso arancio, verde e giallo. Questi colori servono come base per l'ampio spettro di pigmenti di microcemento che formano Arcocem Plus. D'altra parte, c'è Arcocem Plus. Queste sono le paste di pigmento monodose da cui vengono prodotte le altre tinte di microcemento nella vasta gamma di colori di Topciment. Tra questi c'è una ricca scala di grigi, uno dei colori più richiesti dai professionisti.
+
+</p>                 
                         </div>
                     </div>
                 </section>
@@ -109,14 +108,17 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Colores microcemento Arcocem Basic</h2>
-                            <p>
-                               Arcocem Basic es el nombre de las pastas pigmentarias base de Topciment. Es una gama de colores de microcemento en dispersión acuosa, que permite conseguir todos los colores disponibles en la carta de pigmentos de Topciment. También se utilizan para la preparación de monodosis/Arcocem Plus empleadas en la coloración del microcemento.
-                            </p>
+                         <h2>
+                              Arcocem Colori base del microcemento
+
+                         </h2>
+<p>
+  Arcocem Basic è il nome delle paste di pigmento base di Topciment. Si tratta di una gamma di colori di microcemento in dispersione acquosa, che permette di ottenere tutti i colori disponibili nella tabella dei pigmenti Topciment. Si usano anche per la preparazione di dosi singole/Arcocem Plus utilizzate nella colorazione del microcemento.
+
+</p>  
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/ArcocemBASIC-ES.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Arcocem Basic</strong>
 
                             </a>
@@ -134,9 +136,8 @@
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Resistente a los álcalis</strong>
-                                    <p>Arcocem Basic es resistente
-                                        a álcalis como el amoniaco</p>
+                                    <strong>Resistente agli alcali</strong>
+                                    <p>Arcocem Basic è resistente agli alcali come l'ammoniaca.</p>
                                 </div>
                             </div>
                         </div>
@@ -144,11 +145,9 @@
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Alta estabilidad del color</strong>
-                                    <p>Los colores de Arcocem Basic
-                                        se mantienen en el tiempo sin
-                                        alteraciones producidas por la
-                                        luz o envejecimiento</p>
+                                    <strong>lta stabilità del colore</strong>
+                                    <p>I colori del microcemento Arcocem Basic si mantengono nel tempo senza alterazioni dovute alla luce o all'invecchiamento.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -158,10 +157,10 @@
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/compatible_sistemas_acuosos.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Compatible con los sistemas
-                                        acuosos
+                                    <strong>Compatibile con i sistemi acquosi
                                     </strong>
-                                    <p>Los colores de microcemento Arcocem Basic es compatible con las pinturas base agua.</p>
+                                    <p>I colori del microcemento Arcocem Basic sono compatibili con le vernici a base d'acqua.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -169,32 +168,34 @@
                     <!--  Presentazione -->
                     <h3 class="en3">
                         Presentazione </h3>
-                    <p>Los colores de microcemento Arcocem Basic se presenta en envases con dosificador de 0,5 L o tarros de 1 L.</p>
+                    <p>I colori per microcemento Arcocem Basic sono presentati in contenitori con dispenser da 0,5 L o in barattoli da 1 L.
+</p>
 
                     <!-- Rendimiento -->
                     <p class="en3">
                         Performance</p>
-                    <p>En función del color de la dosis a realizar.</p>
+                    <p>A seconda del colore del dosaggio da fare.</p>
                     <h3 class="en3">
                        Colori</h3>
-                    <p> Dentro de esta línea, podemos encontrar los seis colores básicos:</p><br>
+                    <p> All'interno di questa linea, possiamo trovare i sei colori di base:
+</p><br>
                     <div class="row text-center mb-2">
 
                         <div class="col-md-4">
 
                             <div class="col-md-12" style="border: 1px black solid; min-height: 60px;width: 100%;"></div>
                             <br>
-                            <span>Blanco</span>
+                            <span>Bianco</span>
                         </div>
                         <div class="col-md-4">
                             <div class="col-md-12" style="background-color: black; min-height: 60px;width: 100%;"></div>
                             <br>
-                            <span ">Negro</span>
+                            <span ">Nero</span>
                             </div>
                             <div class=" col-md-4">
                                 <div class="col-md-12" style="background-color:#013067; min-height: 60px;width: 100%;">
                                 </div><br>
-                                <span>Azul</span>
+                                <span>Blu</span>
                         </div>
                     </div>
                     <div class="row text-center">
@@ -202,7 +203,7 @@
 
                             <div class="col-md-12" style="background-color: #ac1c20; min-height: 60px;width: 100%;">
                             </div><br>
-                            <span>Rojo naranja</span>
+                            <span>Rosso arancione</span>
                         </div>
                         <div class="col-md-4">
                             <div class="col-md-12" style="background-color:#008939; min-height: 60px;width: 100%;">
@@ -212,7 +213,7 @@
                         <div class="col-md-4">
                             <div class="col-md-12" style="background-color:#e6a200; min-height: 60px;width: 100%;">
                             </div><br>
-                            <span>Amarillo</span>
+                            <span>Giallo</span>
                         </div>
                     </div>
                 </div>
@@ -239,16 +240,18 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
 
-                        <h2>Pigmentos microcemento Arcocem Plus</h2>
-                            <p>
-                                <strong>Arcocem Plus</strong>
-                               es el nombre que reciben las monodosis de los pigmentos de microcemento de Topciment. Estos nos permiten obtener todos los colores de microcemento que forman las cartas Topciment. Una carta que dispone de 34 colores para los sistemas de microcemento Sttandard, Unlimitted y Evoluttion; y otra carta de 16 pigmentos para nuestro microcemento listo al uso Efectto.
-                            </p>
+                     <h2>
+                        Pigmenti microcement Arcocem Plus
+
+                     </h2>
+<p>
+  Arcocem Plus è il nome assegnato alle singole dosi di pigmenti microcementi Topciment. Questi ci permettono di ottenere tutti i colori di microcemento che formano le carte Topciment. Una carta con 34 colori per i sistemi di microcemento Sttandard, Unlimitted ed Evoluttion; e un'altra carta con 16 pigmenti per il nostro microcemento pronto all'uso Efectto.
+
+</p>  
                           
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/ArcocemPLUS-ES.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Arcocem Plus</strong>
 
                             </a>
@@ -268,8 +271,8 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Alta estabilidad del color</strong>
-                                    <p>Los pigmentos de microcemento Arcocem Plus se mantienen en el tiempo sin alteraciones producidas por la luz o el envejecimiento. </p>
+                                    <strong>lta stabilità del colore</strong>
+                                    <p>I pigmenti di microcemento Arcocem Plus si mantengono nel tempo senza alterazioni causate dalla luce o dall'invecchiamento.</p>
                                 </div>
                             </div>
                         </div>
@@ -278,8 +281,9 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/no_inflamable.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>No inflamable</strong>
-                                    <p>Los pigmentos de microcemento Arcocem Plus es un colorante líquido base agua.</p>
+                                    <strong>Non infiammabile</strong>
+                                    <p>Arcocem Plus pigmenti di microcemento è un colorante liquido a base d'acqua.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -290,9 +294,9 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/facilmente_miscibles.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Fácilmente miscibles.
+                                    <strong>Facilmente miscibile.
                                     </strong>
-                                    <p>Verter el colorante en la resina y remover lentamente con una espátula o un agitador mecánico a bajas revoluciones.
+                                    <p>Versare il colorante nella resina e mescolare lentamente con una spatola o un agitatore meccanico a bassi giri.
                                     </p>
 
                                 </div>
@@ -303,12 +307,13 @@
                     <h3 class="en3">
                         Performance</h3>
                     <p>
-Para obtener los colores del catálogo, hay que respetar la dosificación indicada. Así, hay que tener en cuenta la cantidad y el tipo de microcemento empleado y el Topsealer utilizado.
-                    </p>
+Per ottenere i colori del catalogo, bisogna rispettare il dosaggio indicato. Bisogna tener conto della quantità e del tipo di microcemento usato e del Topsealer utilizzato.
+         </p>
                     <!-- presentacion -->
                     <h3 class="en3">
                         Presentazione</h3>
-                    <p>Los pigmentos de microcemento Arcocem Plus se presentan en envases de plástico de diferente tamaño en función del color y de la dosis .</p>
+                    <p>I pigmenti di microcemento Arcocem Plus sono presentati in contenitori di plastica di diverse dimensioni a seconda del colore e del dosaggio.
+</p>
                 </div>
 
 
@@ -388,7 +393,7 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
     "additionalProperty": [
    {
       "@type": "PropertyValue",
-      "name": "Resistente a los álcalis",
+      "name": "Resistente agli alcali",
       "value": "Arcocem Basic es resistente a álcalis como el amoniaco"
     },
     {
@@ -398,13 +403,13 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
     },
 	{
      "@type": "PropertyValue",
-      "name": "Alta estabilidad del color",
+      "name": "lta stabilità del colore",
       "value": "Los colores de Arcocem Basic se mantienen en el tiempo sin alteraciones producidas por la luz o envejecimiento"
     },
 	{
      "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "En función del color de la dosis a realizar."
+      "value": "A seconda del colore del dosaggio da fare."
     }
     ],
     "potentialAction": {
@@ -463,7 +468,7 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
         },
         "additionalProperty": [    {
       "@type": "PropertyValue",
-      "name": "Resistente a los álcalis",
+      "name": "Resistente agli alcali",
       "value": "Arcocem Basic es resistente a álcalis como el amoniaco"
     },
     {
@@ -473,13 +478,13 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
     },
 	{
      "@type": "PropertyValue",
-      "name": "Alta estabilidad del color",
+      "name": "lta stabilità del colore",
       "value": "Los colores de Arcocem Basic se mantienen en el tiempo sin alteraciones producidas por la luz o envejecimiento"
     },
 	{
      "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "En función del color de la dosis a realizar."
+      "value": "A seconda del colore del dosaggio da fare."
     }
         ],
         "aggregateRating": {
@@ -534,7 +539,7 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
         },
         "additionalProperty": [      {
       "@type": "PropertyValue",
-      "name": "Resistente a los álcalis",
+      "name": "Resistente agli alcali",
       "value": "Arcocem Basic es resistente a álcalis como el amoniaco"
     },
     {
@@ -544,13 +549,13 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
     },
 	{
      "@type": "PropertyValue",
-      "name": "Alta estabilidad del color",
+      "name": "lta stabilità del colore",
       "value": "Los colores de Arcocem Basic se mantienen en el tiempo sin alteraciones producidas por la luz o envejecimiento"
     },
 	{
      "@type": "PropertyValue",
       "name": "Rendimiento",
-      "value": "En función del color de la dosis a realizar."
+      "value": "A seconda del colore del dosaggio da fare."
     }
         ],
         "aggregateRating": {
@@ -608,17 +613,17 @@ Para obtener los colores del catálogo, hay que respetar la dosificación indica
     "additionalProperty": [
   {
       "@type": "PropertyValue",
-      "name": "Fácilmente miscibles.",
+      "name": "Facilmente miscibile.",
       "value": "Verter el colorante en la resina y remover lentamente con una espátula o un agitador mecánico a bajas revoluciones."
     },
     {
      "@type": "PropertyValue",
-      "name": "No inflamable",
+      "name": "Non infiammabile",
       "value": "Arcocem Plus es un colorante líquido base agua."
     },
 	{
      "@type": "PropertyValue",
-      "name": "Alta estabilidad del color",
+      "name": "lta stabilità del colore",
       "value": "Los colores de Arcocem Plus se mantienen en el tiempo sin alteraciones producidas por la luz o envejecimiento"
     },
 	{

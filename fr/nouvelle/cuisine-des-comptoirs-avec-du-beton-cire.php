@@ -46,15 +46,15 @@
 
             <div class="content">
                 <div id="mitadTextoIzquierda">
-                    <h1>Des comptoirs de cuisine avec du béton ciré?</h1>
-                    <h2>Des comptoirs en béton ciré? Absolument oui !</h2>
+                    <h1>Des comptoirs de cuisine avec du béton ciré ?</h1>
+                    <h2>Des comptoirs en béton ciré ? Absolument oui !</h2>
                     <p> Ne laissez rien gâcher le projet de cuisine idéal dont vous avez toujours rêvé.
                         Le
                         la rénovation ou la conception de notre cuisine, mérite de la prévoyance et de
                         bons conseils, et en
                         Topciment nous travaillons pour vous offrir toutes les solutions liées à votre
                         idée de
-                        rénovation avec du béton cirécomme revêtement. Il est important de définir le
+                        rénovation avec du béton ciré comme revêtement. Il est important de définir le
                         style
                         et la gamme de couleurs, mais aussi des questions techniques et fonctionnelles
                         qui facilitent
@@ -62,7 +62,7 @@
                         stockage et la dégustation
                         confortablement dans cette partie de la maison.</p>
 
-                    <h2>Les comptoirs en béton cirésont possibles</h2>
+                    <h2>Les comptoirs en béton ciré sont possibles</h2>
 
                     <p>Aujourd'hui, il existe de nombreux matériaux parmi lesquels choisir pour la
                         conception de notre cuisine.
@@ -79,7 +79,7 @@
 
 
                     <img src="https://www.topciment.com/imagenes/encimeras/encimera-cocina-con-microcemento-topciment.jpg" width="100%" alt="Encimeras de cocina con Topciment">
-                    <p>L'élégance et l'intemporalité du béton cirépermettent de le couvrir et de
+                    <p>L'élégance et l'intemporalité du béton ciré permettent de le couvrir et de
                         l'adapter
                         aux surfaces de toutes formes et de tous styles décoratifs, des plus rustiques
                         aux plus vintage
@@ -97,11 +97,11 @@
                 <div id="mitadTextoDerecha">
                     <h2>Fonctionnalité et maintenance sans complications</h2>
 
-                    <p>Résistantes aux taches et à la saleté, les surfaces en béton cirésont faciles à
+                    <p>Résistantes aux taches et à la saleté, les surfaces en béton ciré sont faciles à
                         nettoyer avec un minimum
                         l'entretien. Tant qu'il est utilisé correctement et que son nettoyage et son
                         entretien sont simples
-                        l'entretien est suivi, notre plan de travail en béton cirésera parfait car
+                        l'entretien est suivi, notre plan de travail en béton ciré sera parfait car
                         a fait dès le premier jour, avec l'avantage de faire de futures rénovations de
                         couleurs,
                         les finitions et les styles de manière simple et beaucoup plus économique que ce
@@ -112,7 +112,7 @@
                         d'expansion
                         joints, tout en repoussant l'eau sans la laisser passer. En outre, dans un
                         un espace comme la cuisine, où la propreté est si importante pour la nourriture
-                        la béton ciréest un matériau hygiénique facile à nettoyer qui empêche la
+                        la béton ciré est un matériau hygiénique facile à nettoyer qui empêche la
                         la prolifération de germes et de bactéries à sa surface.</p>
                     <img src="https://www.topciment.com/imagenes/encimeras/microcemento-encimera.jpg" width="100%" alt="Encimera de cocina con microcemento Topciment">
 
@@ -120,7 +120,7 @@
                         comptoir.
                     </h2>
 
-                    <p>Comme mentionné ci-dessus, les caractéristiques qui font du béton ciréun bon
+                    <p>Comme mentionné ci-dessus, les caractéristiques qui font du béton ciré un bon
                         matériau pour
                         le revêtement des cuisines et des plans de travail est sa résistance, son
                         imperméabilité, sa facilité de nettoyage

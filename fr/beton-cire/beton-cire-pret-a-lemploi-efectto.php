@@ -17,22 +17,18 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Béton ciré prêt à l'emploi de haute décoration  | 
+    <title>béton ciré  prêt à l'emploi de haute décoration  | 
 Efectto Quartz </title>
-    <meta name="description" content="Le béton ciré prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide."/>
+    <meta name="description" content="Le béton ciré  prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide."/>
 
 
-    <meta property="og:title" content="Béton ciré prêt à l'emploi de haute décoration  | 
+    <meta property="og:title" content="béton ciré  prêt à l'emploi de haute décoration  | 
 Efectto Quartz ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto">
-    <meta property="og:description" content="Le béton ciré prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide.">
+    <meta property="og:description" content="Le béton ciré  prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
+  <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto"/>
@@ -91,10 +87,10 @@ Efectto Quartz ">
                         </div>
                         <div class="content">
                             <a id="que-es-efectto" class="ancla"></a>
-                            <h1 class="en2">Béton ciré prêt à l'emploi Efectto Quartz </h1>
+                            <h1 class="en2">béton ciré  prêt à l'emploi Efectto Quartz </h1>
                             <div class="text-justify">
                                 <p>
-                                    Efectto Quartz est la ligne de béton ciré prèt à l'emploi de Topciment qui permet
+                                    Efectto Quartz est la ligne de béton ciré  prèt à l'emploi de Topciment qui permet
                                     d'obtenir des finitions
                                     contunues de haute décoration. </h2>Sa formule exclusive no contient pas de
                                     ciment qui peuvent produire des rétracctions
@@ -116,7 +112,7 @@ Efectto Quartz ">
                                 <p>Il est disponible dans une ample gamme de couleurs et en quatre granulométrie
                                     différentes, qui se démarquent pour son
                                     aspect naturel. A la différence de Sttandard ou Evoluttion, la couleur est plus
-                                    homogène et conserve la texture propre du béton ciré.
+                                    homogène et conserve la texture propre du béton ciré .
 
                                 </p>
                             </div>
@@ -1012,8 +1008,8 @@ Efectto Quartz ">
                         <div style="font-size:16px;">
                             <ul>
                                 <li>Prêt à l'emploi, donc aucun mélange n'est nécessaire.</li>
-                                <li>Application beaucoup plus rapide qu'un béton ciré traditionnel.</li>
-                                <li>Séchage plus rapide qu'un béton ciré traditionnel.</li>
+                                <li>Application beaucoup plus rapide qu'un béton ciré  traditionnel.</li>
+                                <li>Séchage plus rapide qu'un béton ciré  traditionnel.</li>
                                 <li>Facile à appliquer, sans expérience préalable en application.</li>
                                 <li>Très bonne adhérence au support.</li>
                                 <li>Flexible et sans rétraction, il ne se fissure pas.</li>
@@ -1155,8 +1151,8 @@ Efectto Quartz ">
                                 <h3>Comment nettoyer l'Efectto Quartz?
                             </strong></h3></a>
                         <div style="font-size:16px;">
-                            <p>Pour assurer une durée de vie longue et utile à notre béton ciré, nous recommandons
-                                l'utilisation des produits de nettoyage et d'entretien du béton ciré Topciment:
+                            <p>Pour assurer une durée de vie longue et utile à notre béton ciré , nous recommandons
+                                l'utilisation des produits de nettoyage et d'entretien du béton ciré  Topciment:
                                 nettoyant
                                 Ecoclean et cire d'entretien Ceraciment, comme indiqué dans ce pdf >> Guide de nettoyage
                                 et
@@ -1165,7 +1161,7 @@ Efectto Quartz ">
 
                     </div>
                     <!-- End question FAQ -->
-                    <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1" style="color:#000; text-decoration:none;"> <strong> Peut-on appliquer du béton ciré
+                    <div style="border-top:thin solid #000; padding:10px 0; font-size:22px; text-align:left;"><a href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1" style="color:#000; text-decoration:none;"> <strong> Peut-on appliquer du béton ciré 
 
                                 sur un sol rayonnant ? </strong> </a>
                         <p style="font-size:16px;">Oui, mais avant de l’appliquer nous devrons réaliser le protocole
@@ -1184,12 +1180,12 @@ Efectto Quartz ">
                             progressivement la température de
 
                             l’eau jusqu’à 45 °C et la maintenir pendant plusieurs jours.</p>
-                        <p>3. Éteindre le chauffage au moins 48 h avant de commencer l’installation du béton ciré. La
+                        <p>3. Éteindre le chauffage au moins 48 h avant de commencer l’installation du béton ciré . La
                             température maximale du sol devra
 
                             être de 18 °C.&nbsp;
                         </p>
-                        <p> <strong> Les pavements de béton ciré doivent être appliqués </strong> &nbsp;sur des mortiers
+                        <p> <strong> Les pavements de béton ciré  doivent être appliqués </strong> &nbsp;sur des mortiers
                             cémenteux qui ont atteint une phase
 
                             avancée de prise. Ceci se produit au terme de trois ou quatre semaines, en fonction du
@@ -1205,7 +1201,7 @@ Efectto Quartz ">
                             d’application doit être consistante, sinon il faudra la
 
                             consolider. </p>
-                        <p> <strong> Après l’application du béton ciré </strong> nous devrons attendre au moins 48
+                        <p> <strong> Après l’application du béton ciré  </strong> nous devrons attendre au moins 48
                             heures
                             avant de rallumer le chauffage de forme
 
@@ -1247,8 +1243,8 @@ Efectto Quartz ">
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment prêt à l'emploi pour la préparation des murs Efectto Quartz Big",
-         "description": "Finition en microciment prête à l'emploi pour le système mural.",
+    "name": "béton ciré prêt à l'emploi pour la préparation des murs Efectto Quartz Big",
+         "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
     "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
     "brand": {
       "@type": "Organization",
@@ -1325,8 +1321,8 @@ Efectto Quartz ">
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment prêt à l'emploi pour la préparation des murs Efectto Quartz Big 17Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "béton ciré prêt à l'emploi pour la préparation des murs Efectto Quartz Big 17Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
         "size": "17 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#big-grain",
@@ -1403,8 +1399,8 @@ Efectto Quartz ">
       },
       {
         "@type": "Product",
-        "name": "Microciment prêt à l'emploi pour la préparation des murs Efectto Quartz Big 6Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "béton ciré prêt à l'emploi pour la préparation des murs Efectto Quartz Big 6Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
         "size": "6 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#big-grain",
@@ -1485,8 +1481,8 @@ Efectto Quartz ">
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Finition de plancher en microciment prête à l'emploi Efectto Quartz Medium Grain",
-         "description": "Finition en microciment prête à l'emploi pour le système mural.",
+    "name": "Finition de plancher en béton ciré prête à l'emploi Efectto Quartz Medium Grain",
+         "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
     "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
     "brand": {
       "@type": "Organization",
@@ -1563,8 +1559,8 @@ Efectto Quartz ">
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Finition de plancher en microciment prête à l'emploi Efectto Quartz Medium Grain 17Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "Finition de plancher en béton ciré prête à l'emploi Efectto Quartz Medium Grain 17Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
         "size": "17 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#medium-grain",
@@ -1641,8 +1637,8 @@ Efectto Quartz ">
       },
       {
         "@type": "Product",
-        "name": "Finition de plancher en microciment prête à l'emploi Efectto Quartz Medium Grain 6Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "Finition de plancher en béton ciré prête à l'emploi Efectto Quartz Medium Grain 6Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Medium_Grain_6Kg.jpg",
         "size": "6 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#medium-grain",
@@ -1723,8 +1719,8 @@ Efectto Quartz ">
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Finition des murs en microciment prête à l'emploi  Efectto Quartz Small Grain",
-         "description": "Finition en microciment prête à l'emploi pour le système mural.",
+    "name": "Finition des murs en béton ciré prête à l'emploi  Efectto Quartz Small Grain",
+         "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
     "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
     "brand": {
       "@type": "Organization",
@@ -1801,8 +1797,8 @@ Efectto Quartz ">
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Finition des murs en microciment prête à l'emploi  Efectto Quartz Small Grain 17Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "Finition des murs en béton ciré prête à l'emploi  Efectto Quartz Small Grain 17Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
         "size": "17 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#small-grain",
@@ -1878,8 +1874,8 @@ Efectto Quartz ">
       },
       {
         "@type": "Product",
-        "name": "Finition des murs en microciment prête à l'emploi  Efectto Quartz Small Grain 6Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système mural.",
+        "name": "Finition des murs en béton ciré prête à l'emploi  Efectto Quartz Small Grain 6Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système mural.",
         "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Small_Grain_6Kg.jpg",
         "size": "6 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#small-grain",
@@ -1960,8 +1956,8 @@ Efectto Quartz ">
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain",
-         "description": "Finition en microciment prête à l'emploi pour le système de revêtement de sol.",
+    "name": "béton ciré prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain",
+         "description": "Finition en béton ciré prête à l'emploi pour le système de revêtement de sol.",
     "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
     "brand": {
       "@type": "Organization",
@@ -2038,8 +2034,8 @@ Efectto Quartz ">
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain 17Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système de revêtement de sol.",
+        "name": "béton ciré prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain 17Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système de revêtement de sol.",
         "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
         "size": "17 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#super-grain",
@@ -2116,8 +2112,8 @@ Efectto Quartz ">
       },
       {
         "@type": "Product",
-        "name": "Microciment prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain 6Kg",
-             "description": "Finition en microciment prête à l'emploi pour le système de revêtement de sol.",
+        "name": "béton ciré prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain 6Kg",
+             "description": "Finition en béton ciré prête à l'emploi pour le système de revêtement de sol.",
         "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
         "size": "6 Kg",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto#super-grain",

@@ -66,7 +66,7 @@
                     <h2>Planificación de la obra</h2>
                     <p>
                         Antes de empezar debemos planificar la obra para darle a la aplicación del microcemento el tiempo y el espacio adecuados entre los demás oficios. Dejaremos la aplicación de microcemento siempre para el final a excepción de la última mano de pintura, la colocación de la carpintería y de los sanitarios. </p>
-                    <h2>Herramientas necesarias</h2>
+                    <h2>Strumenti necesarias</h2>
                     <p> El microcemento se aplica con herramientas específicas aunque de uso común en la construcción. </p>
                     <p><strong>Cinta de carrocero o papel con cinta:</strong> para proteger las zonas donde no se va a aplicar el microcemento de salpicaduras.</p>
                     <p><strong>Jarra medidora: </strong>el uso de la jarra permite dosificar la cantidad de resina (para los microcementos bicomponentes) o de agua (para los monocomponentes) necesaria para la mezcla.</p>

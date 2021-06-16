@@ -7,7 +7,7 @@
             <div class="menu botones menu1b">
                 <ul>
 
-                    <li><a href="information-beton-cire">Béton Ciré</a>
+                    <li><a href="information-beton-cire">béton ciré </a>
                     </li>
                     <!--    <li><a href="epoxi">Epoxi</a></li> -->
                     <li class="submenu idiomas"><a href="#"><img src="https://www.topciment.com/imagenes/flags/france.png" alt="Topciment french Web" Title="Topciment french Web"></a>

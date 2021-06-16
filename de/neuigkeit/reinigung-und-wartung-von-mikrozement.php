@@ -14,28 +14,28 @@
     <link rel="preload" href="../../assets/css/noticias.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
-    <title>Produkte zur Reinigung und Pflege von Mikrozementoberflächen</title>
+    <title>Produkte zur Reinigung und Pflege von mikrozement oberflächen</title>
     <meta name="description"
-        content="Topciment bringt vier neue Produkte auf den Markt, die speziell für die Pflege, Wartung und Reinigung von Mikrozement entwickelt wurden. " />
+        content="Topciment bringt vier neue Produkte auf den Markt, die speziell für die Pflege, Wartung und Reinigung von mikrozement  entwickelt wurden. " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Produkte zur Reinigung und Pflege von Mikrozementoberflächen" />
+    <meta property="og:title" content="Produkte zur Reinigung und Pflege von mikrozement oberflächen" />
     <meta property="og:description"
-        content="Topciment bringt vier neue Produkte auf den Markt, die speziell für die Pflege, Wartung und Reinigung von Mikrozement entwickelt wurden. " />
-    <meta property="og:url" content="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement" />
+        content="Topciment bringt vier neue Produkte auf den Markt, die speziell für die Pflege, Wartung und Reinigung von mikrozement  entwickelt wurden. " />
+    <meta property="og:url" content="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement " />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Topciment führt vier neue Produkte ein, die speziell für die Pflege, Wartung und Reinigung von Mikrozement entwickelt wurden. " />
-    <meta name="twitter:title" content="Produkte zur Reinigung und Pflege von Mikrozementoberflächen" />
+        content="Topciment führt vier neue Produkte ein, die speziell für die Pflege, Wartung und Reinigung von mikrozement  entwickelt wurden. " />
+    <meta name="twitter:title" content="Produkte zur Reinigung und Pflege von mikrozement oberflächen" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
 
-    <link rel="canonical" href="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement" />
+    <link rel="canonical" href="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement " />
 
-    <link rel="alternate" href="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement"
+    <link rel="alternate" href="https://www.topciment.com/de/neuigkeit/reinigung-und-wartung-von-mikrozement "
         hreflang="de-DE" />
 
 
@@ -62,14 +62,14 @@
             <div class="content">
                 <h1>Neue Produkte zur Reinigung und Pflege von dekorativen Beschichtungen</h1>
                 <h3 style="text-align:left; font-weight:300;">Topciment bringt vier neue Produkte auf den Markt, die
-                    speziell für die Pflege, Wartung und Reinigung von Mikrozement entwickelt wurden. </h3>
+                    speziell für die Pflege, Wartung und Reinigung von mikrozement  entwickelt wurden. </h3>
                 <div id="halfTextLeft">
                     <h2>Ecoclean und Ecoclean PRO</h2>
                     <h3>Reinigung.</h3> Die <strong>Ecoclean</strong> und <strong>Ecoclean PRO</strong> Reiniger sind
                     ökologisch und ihre Verwendung ist für den häuslichen bzw. professionellen Gebrauch angezeigt. Beide
                     Produkte sind ideal für jede Art von Oberfläche und bestehen aus biologisch gut abbaubaren
                     Elementen. Die Version für den Hausgebrauch ist perfekt für die Aufrechterhaltung der Kontinuität
-                    von Mikrozement, während die Option für Profis für sporadische Behandlungen und schwierige und
+                    von mikrozement , während die Option für Profis für sporadische Behandlungen und schwierige und
                     hartnäckige Verschmutzungen geeignet ist. </p>
                 </div>
                 <div id="halfRightText">
@@ -79,7 +79,7 @@
                         erhalten wir die Härte und den natürlichen Glanz viel länger. Seine spezielle Formel ermöglicht
                         die Anreicherung und das Eindringen in die behandelten Böden, besonders geeignet für
                         Microcemento-Böden. Seine spezielle Formel ermöglicht die Anreicherung und Penetration in den
-                        behandelten Böden und sind besonders geeignet für die Anwendung auf Mikrozement. Sie ermöglichen
+                        behandelten Böden und sind besonders geeignet für die Anwendung auf mikrozement . Sie ermöglichen
                         es, die Farbe und das ursprüngliche Finish der Oberflächen zu erhalten. Darüber hinaus verfügt
                         die PRO-Version über eine Metallic-Oberfläche, die dem Boden einen hohen Glanz verleiht, ohne
                         seine leitfähigen Eigenschaften zu beeinträchtigen. </p>

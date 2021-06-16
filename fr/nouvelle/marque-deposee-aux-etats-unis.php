@@ -234,7 +234,7 @@
                                                         class="SIGNUP_FLD">
                                                         <input type="text"
                                                             style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                            placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                            placeholder="Nom" changeitem="SIGNUP_FORM_FIELD"
                                                             name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                     </div>
                                                     <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
@@ -242,7 +242,7 @@
                                                         <input type="button"
                                                             style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
                                                             name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin"
-                                                            value="Suscríbete">
+                                                            value="Souscrivez">
                                                     </div>
                                                     <input type="hidden" id="fieldBorder" value="">
                                                     <input type="hidden" id="submitType" name="submitType"

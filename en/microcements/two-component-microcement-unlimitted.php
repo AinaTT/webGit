@@ -17,13 +17,13 @@
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
     <title>Two-component microcement with improved workability | Unlimitted</title>
-    <meta name="description" content="Unlimitted microcement is Topciment's best workable two-component microcement. It reduces the burnt effect and offers smoother finishes."/>
+    <meta name="description" content="Unlimitted microcement is Topciment's best working two-component microcement. It reduces the burnt effect and offers smoother finishes."/>
 
 
     <meta property="og:title" content="Two-component microcement with improved workability | Unlimitted">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/en/microcements/two-component-microcement-unlimitted">
-    <meta property="og:description" content="Unlimitted microcement is Topciment's best workable two-component microcement. It reduces the burnt effect and offers smoother finishes.">
+    <meta property="og:description" content="Unlimitted microcement is Topciment's best working two-component microcement. It reduces the burnt effect and offers smoother finishes.">
     <meta property="og:type" content="article">
 
 
@@ -72,27 +72,23 @@
 
                             <a id="que-es-unlimitted" class="ancla"></a>
 
-                            <h1 class="en2">Two-component microcement Unlimitted</h1>
+                            <h1 class="en2">Two-component microcement with improved workability | Unlimitted</h1>
                             <div class="text-justify">
 
 
 
-                                <p class="h3s"> Unlimitted is the new bicomponent microcement (cement + resin)
-                                        product line. It is the improved version of the Sttandard range. It offers
-                                    many
-                                    advantages:
-                                    <ul>
-                                        <li>Improves the workability of the material</li>
-                                        <li> It allows to obtain smoother and softer finishes than Sttandard Microdeck
-                                        </li>
-                                        <li>It improves its final mechanical resistance. </li>
-                                        <li>It reduces the burning effect produced by the application with a steel
-                                            trowel.</li>
-                                        <li> Offers a ductility similar to lime based mortars</li>
-                                    </ul>
-                                </p>
+                                <p>
+                                    Unlimitted is the new product line of two-component microcements (cement and resin) from Topciment. Its main quality is that it considerably improves the workability of the material by the applicator.
 
+                                </p>    
+<p>
+    Thanks to its innovative formula, the final mechanical resistance of Unlimitted is exceptional. A two-component microcement whose decorative finishes are much smoother and smoother and which can boast extraordinary resistance to traffic.
 
+</p>    
+<p>
+    Another of the qualities of this coating is that it reduces the burning effect resulting from the application of the material with a steel trowel. It also offers similar ductility to lime-based mortars.
+
+</p>    
 
                             </div>
                         </div>
@@ -143,15 +139,22 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Unlimitted Microbase</h2>
-                                <p>It is the preparation microcement of Unlimited.</h3> It
-                                is always used before the application of Unlimitted Microdeck S and Unlimitted Microdeck
-                                M.
-                            </p>
-                            <p>It can be used as a finishing microcement due to its rustic finish.</p>
-                            <p>Unlimitted Microbase is available in 3 granulometries: L, XL, XXL.</p>
+                           <h2>
+                                Unlimitted Microbase two-component preparation microcement
 
+                           </h2>   
+<p>
+    Unlimitted Microbase is the two-component microcement for preparation of the Unlimitted range. It is always applied prior to Unlimitted Microdeck S and Unlimitted Microdeck M.
+
+</p>    
+<p>
+    Among the many decorative finishes available, Unlimitted gives the professional the option of opting for a rustic finish. This is why this coating can also be used as a two-component microcement finish.
+
+</p>    
+<p>
+    Unlimitted Microbase is available in 3 granulometries: L, XL and XXL.
+
+</p>    
                               <a class="links" href="../data-sheets/Unlimitted_Microbase_EN.pdf" target="_blank" style="font-weight: 700;"> <span
                                     class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -161,8 +164,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types of
-                        Unlimitted Microdeck</p>
+                    <h3 class="en3" >Two-component preparation microcement types Unlimitted Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg"
@@ -251,7 +253,7 @@
                     <!-- Presentación -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Unlimitted Microbase is available in 20 kg black plastic conical buckets.
+                    <p>Unlimitted Microbase two-component microcement is packaged in 20 kg black plastic conical buckets.
                     </p>
 
                 </div>
@@ -291,19 +293,26 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Unlimitted Microdeck</h2>
-                                <p>It is used as a finishing microcement.</h3>
-                            </p>
-                            <p>It can be applied on all types of walkable and non walkable surfaces and in exterior and
-                                interior rooms.</p>
-                            <p>It allows to obtain smoother finishes than Sttandard Microdeck and without the burning
-                                effect produced by the application with a steel trowel.</p>
-                            <p>Unlimitted Microdeck it is available in two granulometries: S and M.</p>
-                            <p>Unlimitted Microdeck S offers much
-                                smoother and more uniform finishes
-                                than Unlimitted Microdeck M. It dries
-                                slower and can be reworked. </p>
+                         <h2>
+                              Unlimitted Microdeck two-component finishing microcement
+
+                         </h2>    
+<p>
+    Unlimitted Microdeck is used as a two-component finishing microcement. This coating can be applied on all types of trafficable and non-trafficable surfaces, both indoors and outdoors.
+
+</p>    
+<p>
+    Compared to Sttandard Microdeck, Unlimitted Microdeck has a smoother finish. Also, if the professional applies it with a steel trowel, he does not have to worry about the typical burnt effect, as there is no burnt effect.
+
+</p>    
+<p>
+    When comparing the two granulometries in which Unlimitted Microdeck is available, Unlimitted Microdeck S ensures smoother finishes than its analogue Unlimmited Microdeck M. Furthermore, it dries more slowly and can be skimmed over.
+
+</p>     
+<p>
+    Unlimitted Microdeck is available in 2 granulometries: S and M.
+
+</p>   
 
                            <a class="links" href="../data-sheets/Unlimitted_Microdeck_EN.pdf" target="_blank" style="font-weight: 700;"> <span
                                     class="fa-stack">
@@ -314,8 +323,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos  -->
-                    <p class="en3" >Types of
-                        Unlimitted Microdeck</p>
+                    <h2 class="en3">Types of finishing two-component microcement Unlimitted Microdeck</h2>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg"
@@ -394,7 +402,7 @@
                     <!-- Presentación -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Unlimitted Microdeck is available in black plastic conical buckets of 20 kg.
+                    <p>Unlimitted Microdeck two-component microcement finish is packaged in 20 kg black conical plastic buckets.
                     </p>
                 </div>
         </section>
@@ -413,16 +421,14 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ STEP BY STEP (walls
-                                and floors)
-                            </strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Two-component microcement application Unlimitted on floors and walls </strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 1</strong><br> Place the mesh on the surface to be coated.<br>Apply
-                                    Primacem Plus/ABS
+                                    <strong>Step 1</strong><br> Place the mesh on the surface to be coated. <br>
+Apply Primacem Plus/ABS.
                                 </div>
                                 <!-- Icono -->
 
@@ -437,9 +443,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 2</strong><br>Application of the first layer of Microbase without
-                                    pigment.
-                                    Sand.
+                                    <strong>Step 2</strong><br>Apply a first coat of Microbase without pigment. Sand.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -454,8 +459,8 @@
                             <div class="row mt-3">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 3</strong><br> Application of the second layer of Microbase with
-                                    pigment. Sand.
+                                    <strong>Step 3</strong><br> Apply a second coat of Microbase with pigment. Sand.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -470,8 +475,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 4</strong><br>Application of the first layer of Microdeck with pigment.
-                                    Sand.
+                                    <strong>Step 4</strong><br>Apply a first coat of Microdeck with pigment. Sand.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -486,8 +491,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 5</strong><br>Application of the second layer of Microdeck with
-                                    pigment. sand.
+                                    <strong>Step 5</strong><br>Apply a second coat of Microdeck with pigment. Sand. 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -517,7 +521,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 6</strong><br>Apply two coats of Topsealer by roller.
+                                    <strong>Step 7</strong><br>Apply by roller two coats of Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png"
@@ -548,7 +552,7 @@
             <div class="container">
              <div class="content">
                     <h2 class="en2">
-                        Colours</h2>
+                        Two-component microcement Unlimitted colours </h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

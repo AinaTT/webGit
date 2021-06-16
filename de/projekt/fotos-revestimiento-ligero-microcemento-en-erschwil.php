@@ -14,22 +14,22 @@
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
-    <title>Leichtgewichtiger Mikrozement-Bodenbelag in der Schweiz</title>
+    <title>Leichtgewichtiger mikrozement -Bodenbelag in der Schweiz</title>
     <meta name="description"
-        content="Die besten Bilder des leichtgewichtigen Topciment Mikrozement-Bodenbelags in einem Privathaus in Erschwil, Schweiz" />
+        content="Die besten Bilder des leichtgewichtigen Topciment mikrozement -Bodenbelags in einem Privathaus in Erschwil, Schweiz" />
     <meta property="og:locale" content="en_US" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Leichte Mikrozementverkleidung in der Schweiz" />
+    <meta property="og:title" content="Leichte mikrozement verkleidung in der Schweiz" />
     <meta property="og:description"
-        content="Die besten Bilder des leichten Mikrozement-Bodenbelags Topciment in einem Privathaus in Erschwil, Schweiz" />
+        content="Die besten Bilder des leichten mikrozement -Bodenbelags Topciment in einem Privathaus in Erschwil, Schweiz" />
     <meta property="og:url"
         content="https://www.topciment.com/de/projekt/fotos-revestimiento-ligero-microcemento-en-erschwil" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter: description"
-        content="Die besten Bilder des leichten Mikrozement-Bodenbelags Topciment in einem Privathaus in Erschwil, Schweiz" />
-    <meta name="twitter:title" content="Leichte Mikrozement-Bodenbeläge in der Schweiz" />
-    <meta name="twitter:title" content="Leichte Mikrozement-Bodenbeläge in der Schweiz" />
+        content="Die besten Bilder des leichten mikrozement -Bodenbelags Topciment in einem Privathaus in Erschwil, Schweiz" />
+    <meta name="twitter:title" content="Leichte mikrozement -Bodenbeläge in der Schweiz" />
+    <meta name="twitter:title" content="Leichte mikrozement -Bodenbeläge in der Schweiz" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />

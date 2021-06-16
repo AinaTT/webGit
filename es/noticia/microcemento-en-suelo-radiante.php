@@ -88,7 +88,7 @@
                         profesionales sobre la aplicación del microcemento. Una de las más recurrentes es precisamente
                         acerca de la posibilidad de instalar un suelo radiante de microcemento.
                     </p>
-                    <p>A continuación, te explicamos el paso a paso para que la  <a class="links" href="../microcemento/metodos-de-aplicacion-microcemento"> aplicación del microcemento</a> sobre suelo
+                    <p>A continuación, te explicamos el paso a paso para que la  <a class="links" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso"> aplicación del microcemento</a> sobre suelo
                         radiante sea todo un éxito. Toma nota de nuestros consejos.
                     </p>
                     <h3>Calentar el suelo antes de aplicar el microcemento</h3>
@@ -97,7 +97,7 @@
                         temperatura en la solera puedan perjudicar al microcemento.
                     </p>
 
-                    <p>Encender la calefacción al menos 4 semanas después de colocar el mortero de cemento.
+                    <p>Encender la calefacción al menos 4 semanas antes de colocar el mortero de cemento.
                     </p>
                     <p>Sostener el agua de entrada a los circuitos a 25ºC durante un periodo de 2 o 3 días.
                     </p>
@@ -242,7 +242,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/microcemento-en-suelo-radiante"
+  },
+  "headline": "Aplicar microcemento sobre calefacción por suelo radiante con éxito",
+  "image":"https://www.topciment.com/imagenes/news/comedor-microcemento-suelo-radiante.jpg",
+  "datePublished": "2021-03-29",
+  "dateModified": "2021-03-29",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "No solo es posible aplicar microcemento sobre calefacción por suelo radiante, sino que además es una alternativa que ofrece numerosas ventajas. Echa un vistazo a este artículo y aprende a realizar una instalación exitosa con los consejos de nuestro equipo técnico."
+  
+}
+</script>
 </body>
 
 </html>

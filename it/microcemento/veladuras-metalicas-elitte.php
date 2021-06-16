@@ -610,7 +610,7 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Aplicable sobre cualquier soporte",
+          "name": "Applicabile su qualsiasi supporto",
           "value": "Microcemento, hormigón, ladrillo,cerámica."
         },
 
@@ -686,7 +686,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Aplicable sobre cualquier soporte",
+              "name": "Applicabile su qualsiasi supporto",
               "value": "Microcemento, hormigón, ladrillo,cerámica."
             },
 
@@ -762,7 +762,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Aplicable sobre cualquier soporte",
+              "name": "Applicabile su qualsiasi supporto",
               "value": "Microcemento, hormigón, ladrillo,cerámica."
             },
 
@@ -839,7 +839,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Aplicable sobre cualquier soporte",
+              "name": "Applicabile su qualsiasi supporto",
               "value": "Microcemento, hormigón, ladrillo,cerámica."
             },
 
@@ -916,7 +916,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Aplicable sobre cualquier soporte",
+              "name": "Applicabile su qualsiasi supporto",
               "value": "Microcemento, hormigón, ladrillo,cerámica."
             },
 
@@ -993,7 +993,7 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Aplicable sobre cualquier soporte",
+              "name": "Applicabile su qualsiasi supporto",
               "value": "Microcemento, hormigón, ladrillo,cerámica."
             },
 
@@ -1058,7 +1058,7 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Aplicable sobre cualquier soporte",
+          "name": "Applicabile su qualsiasi supporto",
           "value": "Microcemento, hormigón, ladrillo,cerámica."
         },
 

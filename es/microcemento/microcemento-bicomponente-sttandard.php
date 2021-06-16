@@ -26,6 +26,7 @@
     <meta property="og:title" content="Microcemento bicomponente tradicional | Sttandard">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard">
+
     <meta property="og:description" content="El microcemento Sttandard es nuestro microcemento bicomponente tradicional. Un revestimiento muy versátil que ofrece texturas muy singulares.">
     <meta property="og:type" content="article">
 
@@ -733,7 +734,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-bronze">Presealer</a>
+                                    <a class="links" target="_blank" href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-bronze">Presealer</a>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -748,7 +749,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-aluminium">
+                                    <a class="links" target="_blank" href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-aluminium">
                                         Topsealer</a>.
                                 </div>
                                 <!-- Icono -->
@@ -848,7 +849,7 @@
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo
-                                    dos capas de <a class="links" target="_blank" href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                    dos capas de <a class="links" target="_blank" href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-bronze">Presealer</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -863,7 +864,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo dos
                                     capas de
-                                    <a class="links" target="_blank" href="barniz-topsealer#puremetal-aluminium">
+                                    <a class="links" target="_blank" href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-aluminium">
                                         Topsealer</a>.
                                 </div>
                                 <!-- Icono -->

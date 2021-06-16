@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>Nouveau vernis antidérapant pour le béton ciréTopciment</title>
+    <title>Nouveau vernis antidérapant pour le béton ciré Topciment</title>
     <meta name="description" content="Avec le vernis antidérapant Topsealer WT pour microciment, vous obtenez une adhérence supplémentaire sur les surfaces qui en ont besoin, comme les douches ou les escaliers."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Nouveau vernis antidérapant pour le béton ciréTopciment"/>
+    <meta property="og:title" content="Nouveau vernis antidérapant pour le béton ciré Topciment"/>
     <meta property="og:description" content="Avec le vernis antidérapant Topsealer WT pour microciment, vous obtenez une adhérence supplémentaire sur les surfaces qui en ont besoin, comme les douches ou les escaliers."/>
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/nouveau-vernis-scellant-antiderapan"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Avec le vernis antidérapant Topsealer WT pour microciment, vous obtenez une adhérence supplémentaire sur les surfaces qui en ont besoin, comme les douches ou les escaliers."/>
-    <meta name="twitter:title" content="Nouveau vernis antidérapant pour le béton ciréTopciment"/>
+    <meta name="twitter:title" content="Nouveau vernis antidérapant pour le béton ciré Topciment"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>

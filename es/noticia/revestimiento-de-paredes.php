@@ -120,6 +120,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/revestimiento-de-paredes"
+  },
+  "headline": "Revestimiento de paredes",
+  "image":"https://www.topciment.com/imagenes/revestimiento-paredes.jpg",
+  "datePublished": "2020-01-19",
+  "dateModified": "2020-01-19",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "El Revestimiento de las paredes en algunas de las habitaciones, o de toda la vivienda, nos da calidad y un resultado estético y duradero, en especial en paredes que exigen una higiene y limpieza constantes, como pueden ser las de cocina o el baño."
+  
+}
+</script>
 
 </body>
 

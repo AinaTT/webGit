@@ -102,7 +102,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/antislip-noticia"
+  },
+  "headline": "¡Nuevo barniz sellador antideslizante!",
+  "image":"https://www.topciment.com/imagenes/productos/antislip_main.jpg",
+  "datePublished": "2020-03-30",
+  "dateModified": "2020-03-30",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Topsealer WT Ansti Slip se une a la familia de barnices selladores para ofrecer un producto clave para superficices de microcemento: el sellador antideslizante" 
+}
+</script>
 </body>
 
 </html>

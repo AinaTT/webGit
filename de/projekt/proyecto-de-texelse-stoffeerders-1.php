@@ -15,22 +15,22 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Badrenovierung mit Mikrozement</title>
-    <meta name="description" content="Neue Fotos von Mikrozement in Bädern einer großen Renovierung in Holland" />
+    <title>Badrenovierung mit mikrozement </title>
+    <meta name="description" content="Neue Fotos von mikrozement  in Bädern einer großen Renovierung in Holland" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Badrenovierung mit Mikrozement" />
+    <meta property="og:title" content="Badrenovierung mit mikrozement " />
     <meta property="og:description"
-        content="Neue Fotos von Mikrozement in Badezimmern einer großen Renovierung in Holland" />
+        content="Neue Fotos von mikrozement  in Badezimmern einer großen Renovierung in Holland" />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-de-texelse-stoffeerders-1" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Neue Fotos von Mikrozement in Badezimmern einer tollen Badrenovierung in Holland" />
-    <meta name="twitter:title" content="Badrenovierung mit Mikrozement" />
+        content="Neue Fotos von mikrozement  in Badezimmern einer tollen Badrenovierung in Holland" />
+    <meta name="twitter:title" content="Badrenovierung mit mikrozement " />
     <meta name="twitter:description"
-        content="Neue Fotos von Mikrozement in Badezimmern einer tollen Badrenovierung in Holland" />
-    <meta name="twitter:title" content="Badrenovierung mit Mikrozement" />
+        content="Neue Fotos von mikrozement  in Badezimmern einer tollen Badrenovierung in Holland" />
+    <meta name="twitter:title" content="Badrenovierung mit mikrozement " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -76,10 +76,10 @@
                 <h2 id="galleryH2" class="wow fadeInLeft justified">Holland<br> Fotos: Von Texelse Stoffeerders</h2>
                 <div class="wow fadeInRight justified" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>Aus den Händen von Texelse Stoffeerders und aus Holland kommend, finden wir dieses Badezimmer mit
-                        unendlicher Persönlichkeit. Dank der <a href="../mikrozemente">Mikrozemente</a> war die Reform
+                        unendlicher Persönlichkeit. Dank der <a href="../mikrozemente">mikrozement e</a> war die Reform
                         dieses geräumigen und originellen Badezimmers einfacher. Es gab eine Komplikation, die dank
                         <strong>Microfino</strong> gelöst wurde: Der Winkel der Duschdecke war unregelmäßig, daher war
-                        die Beschichtung dieser Oberfläche mit Mikrozement die beste Lösung. Neben einer Applikation auf
+                        die Beschichtung dieser Oberfläche mit mikrozement  die beste Lösung. Neben einer Applikation auf
                         Dusche, Wänden, Boden und Arbeitsplatte wurde das Projekt mit einem Holzschrank, passend zu den
                         freiliegenden Balken, abgeschlossen. Für die Oberflächen der Duschabtrennung und der Armaturen
                         wurden metallische Materialien gewählt, die Glanz und Matt kombinieren.
@@ -89,17 +89,17 @@
 
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left"><img
                         src="https://www.topciment.com/imagenes/de-texelse-stoffeerders/topciment-suelo-pared-bano-holanda.jpg"
-                        width="100%" alt="Mikrozementböden en salon"></div>
+                        width="100%" alt="mikrozement böden en salon"></div>
                 <div id="separador20px"></div>
 
 
                 <div class="wow fadeInLeft" style="float:left; width:49%;"><img
                         src="https://www.topciment.com/imagenes/de-texelse-stoffeerders/topciment-suelo-pared-ducha-holanda.jpg"
-                        width="100%" alt="microcemento en piscinas"></div>
+                        width="100%" alt="mikrozement en piscinas"></div>
 
                 <div class="wow fadeInRight" style="float:right; width:49%;"><img
                         src="https://www.topciment.com/imagenes/de-texelse-stoffeerders/topciment-lavabo-pared-bano-holanda.jpg"
-                        width="100%" alt="microcemento ></div>
+                        width="100%" alt="mikrozement ></div>
 	<div id=" separador20px"></div>
 
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left"><img

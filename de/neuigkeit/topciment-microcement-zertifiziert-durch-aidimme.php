@@ -15,22 +15,22 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Topciment Mikrozement mit AIDIMME-Prüfung und -Zertifizierung</title>
+    <title>Topciment mikrozement  mit AIDIMME-Prüfung und -Zertifizierung</title>
     <meta name="description"
-        content="Topciment zertifiziert die Qualität seiner Produkte, hauptsächlich Mikrozement im AIDIMME-Labor" />
+        content="Topciment zertifiziert die Qualität seiner Produkte, hauptsächlich mikrozement  im AIDIMME-Labor" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Topciment Mikrozement mit AIDIMME-Prüfung und -Zertifizierung" />
+    <meta property="og:title" content="Topciment mikrozement  mit AIDIMME-Prüfung und -Zertifizierung" />
     <meta property="og:description"
-        content="Topciment zertifiziert die Qualität seiner Produkte, Mikrozement hauptsächlich im AIDIMME-Labor" />
+        content="Topciment zertifiziert die Qualität seiner Produkte, mikrozement  hauptsächlich im AIDIMME-Labor" />
     <meta property="og:url"
         content="https://www. topciment. com/de/neuigkeit/topciment-microcement-zertifiziert-durch-aidimme" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter: description"
-        content="Topciment zertifiziert die Qualität seiner Produkte, hauptsächlich Mikrozement im AIDIMME-Labor" />
-    <meta name="twitter:title" content="Topciment Mikrozement mit AIDIMME-Prüfung und Zertifizierung" />
-    <meta name="twitter:title" content="Topciment Mikrozement mit AIDIMME-Prüfung und Zertifizierung" />
+        content="Topciment zertifiziert die Qualität seiner Produkte, hauptsächlich mikrozement  im AIDIMME-Labor" />
+    <meta name="twitter:title" content="Topciment mikrozement  mit AIDIMME-Prüfung und Zertifizierung" />
+    <meta name="twitter:title" content="Topciment mikrozement  mit AIDIMME-Prüfung und Zertifizierung" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -64,7 +64,7 @@
             </div>
 
             <div class="content">
-                <h1>Topciment-Mikrozement mit AIDIMME-Prüfung und -Zertifizierung</h1>
+                <h1>Topciment-mikrozement  mit AIDIMME-Prüfung und -Zertifizierung</h1>
                 <p>Topciment geht in seinem kontinuierlichen Verbesserungsprozess und der Einführung guter
                     Arbeitsmethoden einen weiteren Schritt nach vorn bei der Zertifizierung seiner Produkte, um seinen
                     Kunden und Händlern die Qualität der Produktion zu sichern. </p>
@@ -95,7 +95,7 @@
                     <p>Die Haftung der Beschichtungen wird mit Hilfe des Gitterschertests nach der Norm UNE en 2409:2013
                         untersucht und so beurteilt, ob es zu einer Ablösung der Beschichtung kommt.</p> <img
                         src="https://www.topciment.com/imagenes/aidimme/microcemento-aidimme.jpg" width="100%"
-                        alt="Topciment Mikrozement mit Tests und AIDIMME-Zertifizierung">
+                        alt="Topciment mikrozement  mit Tests und AIDIMME-Zertifizierung">
                     <p>Die Beständigkeit gegen Flüssigkeiten wird auch nach der Norm UNE EN ISO 2813-3:2013 und die
                         Beständigkeit gegen chemische Mittel nach der Norm UNE EN 13442:2013 geprüft, wodurch die
                         ordnungsgemäße Verwendung und Wartung unserer Entwicklungen nachgewiesen wird. </p>

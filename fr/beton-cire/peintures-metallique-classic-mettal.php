@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
     <title>Peintures métalliques et effets rouillé </title>
     <meta name="description" content="Créez des finitions décoratives uniques sur les murs et les meubles avec Classic Mettal,
-nos peintures métallisées et effet rouille. Peintures prêtes à l'emploi et applicables sur le béton ciré
+nos peintures métallisées et effet rouille. Peintures prêtes à l'emploi et applicables sur le béton ciré 
 béton, brique, céramique et même métaux. Découvrez-les." />
 
 
@@ -28,19 +28,11 @@ béton, brique, céramique et même métaux. Découvrez-les." />
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/peintures-metallique-classic-mettal">
     <meta property="og:description" content="Créez des finitions décoratives uniques sur les murs et les meubles avec Classic Mettal,
-nos peintures métallisées et effet rouille. Peintures prêtes à l'emploi et applicables sur le béton ciré
+nos peintures métallisées et effet rouille. Peintures prêtes à l'emploi et applicables sur le béton ciré 
 béton, brique, céramique et même métaux. Découvrez-les.">
     <meta property="og:type" content="article">
     <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
+        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg"> 
 
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/peintures-metallique-classic-mettal" />
@@ -74,14 +66,13 @@ béton, brique, céramique et même métaux. Découvrez-les.">
                                 <a href="#up" style="font-size:26px">Classic Mettal</a>
                             </li>
                             <li>
-                                <h2><a href="#que-es-classic-mettal">Qu'est-ce que Classic Mettal?</a></h2>
+                               <a href="#que-es-classic-mettal">Qu'est-ce que Classic Mettal?</a> 
                             </li>
                             <li>
-                                <h2><a href="#puremetal-aluminium">Classic Mettal </a></h2>
+                                 <a href="#puremetal-aluminium">Classic Mettal </a> 
                             </li>
-                            <li>
-                                <h2><a href="#aplicacion">Applicattion</a></h2>
-                            </li>
+                             <li> <a href="#colores">Finitions</a> </li>
+                            <li> <a href="#aplicacion">Applicattion</a> </li>
                         </ul>
                     </div>
                     <div class="content">
@@ -141,7 +132,7 @@ béton, brique, céramique et même métaux. Découvrez-les.">
                             src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Generico_Web.png" " "
                             title=" Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
-
+<a id="colores" class="links"></a>
                     <h2>Types de peintures métalliques et effet rouille Classic Mettal</h2>
 
                     <p>
@@ -221,7 +212,7 @@ béton, brique, céramique et même métaux. Découvrez-les.">
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
                                     <strong> Applicable sur tout types de supports</strong>
-                                    <p>Béton ciré, ciment , brique , carrelage ,
+                                    <p>béton ciré , ciment , brique , carrelage ,
                                         etc... </p>
                                 </div>
                             </div>
@@ -392,7 +383,7 @@ béton, brique, céramique et même métaux. Découvrez-les.">
                    <h2>Où appliquer les peintures métallisées et effet rouille Classic Mettal</h2>
 
 <p>
-    Les peintures classiques Mettal peuvent être appliquées sur pratiquement tous les types de matériaux. Ils sont compatibles avec le béton ciré, le béton, la brique, la céramique, le verre, le plâtre, les plaques de plâtre ou le papier, entre autres. En ce sens, son utilisation comme peinture métallique est fortement recommandée en raison de sa forte teneur en particules métalliques.
+    Les peintures classiques Mettal peuvent être appliquées sur pratiquement tous les types de matériaux. Ils sont compatibles avec le béton ciré , le béton, la brique, la céramique, le verre, le plâtre, les plaques de plâtre ou le papier, entre autres. En ce sens, son utilisation comme peinture métallique est fortement recommandée en raison de sa forte teneur en particules métalliques.
 
 </p>    
 <p>

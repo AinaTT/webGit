@@ -13,16 +13,16 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
-    <title>Outils d'application béton ciré | Tige mélangeur, talôche , et maille anti fissures. </title>
+    <title>Outils d'application béton ciré  | Tige mélangeur, talôche , et maille anti fissures. </title>
     <meta name="description"
-        content="L'application du béton cirén'a jamais été aussi facile. Rendez-vous sur Toptools, nos outils pour une application optimale : tiges, truelles, mailles et rouleaux." />
+        content="L'application du béton ciré n'a jamais été aussi facile. Rendez-vous sur Toptools, nos outils pour une application optimale : tiges, truelles, mailles et rouleaux." />
 
     <meta property="og:title"
-        content="Outils d'application béton ciré  | Tige mélangeur, talôche , et maille anti fissures. <">
+        content="Outils d'application béton ciré   | Tige mélangeur, talôche , et maille anti fissures. <">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/outils-beton-cire">
     <meta property="og:description"
-        content="L'application du béton cirén'a jamais été aussi facile. Rendez-vous sur Toptools, nos outils pour une application optimale : tiges, truelles, mailles et rouleaux.">
+        content="L'application du béton ciré n'a jamais été aussi facile. Rendez-vous sur Toptools, nos outils pour une application optimale : tiges, truelles, mailles et rouleaux.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
@@ -66,7 +66,7 @@
                                     <a href="#perfil"> Profile Aluminium </a>
                                 </li>
                                 <li>
-                                    <a href="#llana-goma">Taloche Béton ciré gomme </a>
+                                    <a href="#llana-goma">Taloche béton ciré  gomme </a>
                                 </li>
                                 <li>
                                     <a href="#llana-acero"> Taloche beton cire en acier Bi-Flex </a>
@@ -86,11 +86,11 @@
                         <div class="content">
                             <a id="que-es" class="ancla"></a>
 
-                            <h1 class="en2">Outils d'application du béton ciré: tiges, taloches, treillis et rouleaux
+                            <h1 class="en2">Outils d'application du béton ciré : tiges, taloches, treillis et rouleaux
                             </h1>
                             </p>
                             <p>Le choix des outils est un facteur fondamental pour garantir une application optimale du
-                                béton ciré</p>
+                                béton ciré </p>
                             <p>Topciment propose à ses clients des outils efficaces et de qualité qui garantissent
                                 l'obtention de bons résultats. </p>
                             <p>Dans le catalogue d'accessoires de Topciment, nous pouvons trouver des tiges de mélange
@@ -121,10 +121,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2> Tige de mélange à double hélice pour béton ciré</h2>
+                            <h2> Tige de mélange à double hélice pour béton ciré </h2>
                             <p class="h3s">Cette tige idéal pour sa double hélice , qui permet de mélanger de manière
                                 efficace des mortiers cimenteux .
-                                Elle est idéal pour obtenir une pâte de béton ciré homogène et éviter les éclaboussures
+                                Elle est idéal pour obtenir une pâte de béton ciré  homogène et éviter les éclaboussures
                                 .
 
                                 </h3>
@@ -199,7 +199,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Se vend à l'unité .
+                    <p>La palette de mélange à double hélice pour béton ciré est vendu à l'unité.
                     </p>
                 </div>
             </div>
@@ -223,7 +223,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Profile d'aluminium pour les escaliers et les murs en béton ciré</h2>
+                            <h2>Profile d'aluminium pour les escaliers et les murs en béton ciré </h2>
                             <p class="h3s">Le profile d'aluminium s'installe dans les coins des murs et sur les bords
                                 des escaliers pour décorer et protéger . Evite la rupture et l'usure .</h3>
 
@@ -249,7 +249,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Se ven en paquets de 10 et de 20 unités .
+                    <p>Le profilé en aluminium pour escaliers et murs en béton ciré est vendu en paquets de 10 et 20 unités.
                     </p>
                 </div>
 
@@ -276,10 +276,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Taloche en caoutchouc pour béton ciré fino</h2>
-                            <p class="h3s">La taloche flexible pour béton ciré en gomme blanche est idéale pour des
+                            <h2>Taloche en caoutchouc pour béton ciré  fino</h2>
+                            <p class="h3s">La taloche flexible pour béton ciré  en gomme blanche est idéale pour des
                                 superficies horizontales et verticales .
-                                Elle s'utilise pour l'application de béton ciré fin. Avec cette taloche vous obtenez une
+                                Elle s'utilise pour l'application de béton ciré  fin. Avec cette taloche vous obtenez une
                                 finition effet d'eau , floue, et sans marque de brûlures.</h3>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Taloche en acier Bi Flex pour béton ciré </h2>
+                            <h2>Taloche en acier Bi Flex pour béton ciré  </h2>
                             <p class="h3s">Truelle en acier Bi-Flex extra légère. Elle possède une poignée en
                                 polycarbonate transparente, résistante et ergonomique. La lame a des pointes arrondies
                                 et le bord est biseauté.
@@ -396,16 +396,16 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Maille de fibre de verre pour béton ciré
+                            <h2>Maille de fibre de verre pour béton ciré 
                             </h2>
-                            <p class="h3s">La maille flexible en fibre de verre pour béton ciré est idéal pour le
-                                renfort de revêtements continus en béton ciré.
+                            <p class="h3s">La maille flexible en fibre de verre pour béton ciré  est idéal pour le
+                                renfort de revêtements continus en béton ciré .
                                 </h3>
                                 <p>
                                     Cette maille plate flexible en fibre de verre Builtex sert à renforcer les bords des
                                     murs et des escaliers.
                                     De plus , elle prévient anticipe l'apparition de fissures lors de la rencontre entre
-                                    deux matériaux de natures différentes et pour les revêtements de béton ciré
+                                    deux matériaux de natures différentes et pour les revêtements de béton ciré 
                                     sur les mortiers de ciment. </p>
                         </div>
                     </div>
@@ -456,7 +456,7 @@
             style="background-image:url('https://www.topciment.com/imagenes/toptools/background/tools_fondo_03.jpg'); "
             data-img-width="1920" data-img-height="1080" data-diff="100"></div>
         <a id="rodillo" class="ancla"></a>
-        <section>
+        <section>º
             <div class="container">
                 <div class="content">
                     <div class="row">
@@ -467,8 +467,8 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Rouleau à poils courts pour béton ciré </h2>
-                            <p class="h3s">Rouleau spécial pour les apprêts et les vernis de béton ciré
+                            <h2>Rouleau à poils courts pour béton ciré  </h2>
+                            <p class="h3s">Rouleau spécial pour les apprêts et les vernis de béton ciré 
 
                                 Le rouleau émailleur WT est spécialement conçus pour nos primaires et vernis en phase
                                 aqueuse.C 'est un rouleau qui apporte une finition fine , uniforme et de grande qualité.
@@ -527,7 +527,7 @@
         <div><img class="imgde" src="https://www.topciment.com/imagenes/toptools/background/tools_fondo_900X443_02.jpg"
                 width="100%" alt="microcementos">
         </div>
-        <!-- start preguntas -->
+        <!-- start preguntas  -->
         <div id="separador50px">
         </div>
         <!-- Acricem End -->
@@ -600,7 +600,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -611,8 +611,8 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Truelle en caoutchouc pour microciment fin.",
-         "description": "La truelle flexible en caoutchouc souple pour microciment est adaptée aux surfaces horizontales et verticales.",
+    "name": "Truelle en caoutchouc pour béton ciré fin.",
+         "description": "La truelle flexible en caoutchouc souple pour béton ciré est adaptée aux surfaces horizontales et verticales.",
     "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Goma.jpg",
     "brand": {
       "@type": "Organization",
@@ -664,7 +664,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -734,7 +734,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -798,7 +798,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -869,7 +869,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -948,7 +948,7 @@
     ],
     "potentialAction": {
       "@type": "Action",
-      "name": " Outils de microciment "
+      "name": " Outils de béton ciré "
     },
     "aggregateRating": {
       "@type": "AggregateRating",

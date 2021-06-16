@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Photos du béton cirédans la clinique dentaire María Vázquez</title>
-    <meta name="description" content="Application de béton cirésur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton cirépar Germán Cabo."/>
+    <title>Photos du béton ciré dans la clinique dentaire María Vázquez</title>
+    <meta name="description" content="Application de béton ciré sur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton ciré par Germán Cabo."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Photos du béton cirédans la clinique dentaire María Vázquez"/>
-    <meta property="og:description" content="Application de béton cirésur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton cirépar Germán Cabo."/>
+    <meta property="og:title" content="Photos du béton ciré dans la clinique dentaire María Vázquez"/>
+    <meta property="og:description" content="Application de béton ciré sur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton ciré par Germán Cabo."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/pproyecto-clinica-hernandez-arquitectos"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Application de béton cirésur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton cirépar Germán Cabo."/>
-    <meta name="twitter:title" content="Photos du béton cirédans la clinique dentaire María Vázquez"/>
+    <meta name="twitter:description" content="Application de béton ciré sur le sol d'une clinique dentaire. Projet de rénovation par Hernández arquitectos. Photographie de béton ciré par Germán Cabo."/>
+    <meta name="twitter:title" content="Photos du béton ciré dans la clinique dentaire María Vázquez"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -36,14 +36,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-clinique-hernandez-architectes" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-clinic-hernandez-architects" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-clinica-hernandez-arquitectos.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-clinica-hernandez-arquitectos.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-clinica-hernandez-arquitectos.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-clinica-hernandez-arquitectos.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-clinica-hernandez-arquitectos.html" hreflang="ru-RU"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-clinica-hernandez-arquitectos.html" hreflang="zh-CN"/>
-
+    
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -81,7 +74,7 @@
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>L'excellence des traitements à la <forte>Clínica de la Doctora María Vázquez</strong> s'inscrit dans le droit fil de sa conception intérieure.
                             est en accord avec le design de son intérieur. Dans le but d'être accessible et de rechercher
-                            confort du patient, la meilleure solution est le <a href="../information-beton-cire">Béton Ciré</a>.
+                            confort du patient, la meilleure solution est le <a href="../information-beton-cire">béton ciré </a>.
                             Les revêtements de sol en topciment n'ont pas besoin des joints que d'autres matériaux peuvent avoir besoin, ce qui permet d'obtenir une surface lisse et continue.
                             une surface lisse et continue. Dans ce type de locaux, la recherche de <strong>exquise propreté et de durabilité</strong>.
                             et la durabilité</strong> sont deux objectifs que nos matériaux sont conçus pour atteindre. <a href="../garantie" target="blank">responden sin problemas</a>. Fotos de Germán Cabo.

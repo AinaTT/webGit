@@ -18,11 +18,11 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcement for swimming pools : Atlanttic</title>
+    <title>Microcement for swimming pools | Atlanttic</title>
     <meta name="description" content="Atlanttic microcement for swimming pools stands out for its resistance to immersion and its non-slip finish. Ideal for covering the crown and around the pool."/>
 
 
-    <meta property="og:title" content="Microcement for swimming pools : Atlanttic">
+    <meta property="og:title" content="Microcement for swimming pools | Atlanttic">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/en/microcements/microcement-for-pools-atlanttic">
     <meta property="og:description" content="Atlanttic microcement for swimming pools stands out for its resistance to immersion and its non-slip finish. Ideal for covering the crown and around the pool.">
@@ -63,37 +63,36 @@
                                     <a href="#up" style="font-size:26px">Atlanttic</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-atlanttic">What is Atlanttic?</a></h2>
+                                    <a href="#que-es-atlanttic">What is Atlanttic?</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#atlanttic-aquaciment">Atlanttic Aquaciment</a></h2>
+                                    <a href="#atlanttic-aquaciment">Atlanttic Aquaciment</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Application</a></h2>
+                                     <a href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#colores">Colours</a></h2>
+                                    <a href="#colores">Colours</a>
                                 </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Swimming pools microcement Atlanttic</h1>
+                            <h1 class="en2">Microcement for swimming pools | Atlanttic</h1>
                             <div class="text-justify">
 
+<p>
+    Atlanttic is our two-component microcement (cement + resin) developed specifically for coating surfaces that are in permanent contact with water thanks to the non-slip finishes it offers.
 
-                                <p class="h3s"> Atlanttic is the two-component microcement (cement + resin) line,
-                                        developed specifically, for coating surfaces in permanent contact with water.</p>
-                                </p>
-    <p> It allows to create continuous spaces which helps to the union of several areas,
-                                    making each room uniform and unique. As it happens with the swimming pool, its
-                                    borders, and the area around them.</p>
-                                <p>It offers anti-slip finishes for the
-                                    more slippery surfaces. That’s
-                                    why, it is suitable also for terraces,
-                                    humid areas and in vertical and
-                                    trafficable surfaces.</p>
+</p>    
+<p>
+    Its innovative formula and the beauty of its finishes make Atlanttic the perfect microcement for swimming pools. With it, the professional can coat the crown and the outside area surrounding the pool, as these are the areas most prone to slipping.
 
+</p>    
+<p>
+    Thanks to its waterproof character, this two-component microcement for swimming pools is also ideal for fountains, ponds and other wet areas.
+
+</p>    
 
                             </div>
                         </div>
@@ -132,37 +131,45 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Atlanttic Aquaciment</h2>
-                                <p>is the microcement par excellence for coating
-                                    surfaces in permanent contact with water, such as swimming pools, ponds or
-                                    fountains.</h3>
-                                Its innovative formula produces a 100% activation of the cement, which substantially
-                                improves the resistance in immersion.
-                            </p>
-                            <p>The burning effect of the steel trowel is reduced and, with time, it reaches high degrees
-                                of hardness.
-                            </p>
-                            <p>Atlanttic Aquaciment is available in 2 granulometries: </p>
-                            <p><strong>Atlanttic Aquaciment XL:</strong>as a preparation microcement before Aquaciment
-                                M, and also as a finishing microcement and to achieve non-slip textures (ideal for pool
-                                edges).
-                            </p>
-                            <p><strong>Atlanttic Aquaciment M:</strong>as a finishing microcement with a softer texture.
-                            </p>
+                         <h2>
+                               Two-component microcement for swimming pools
 
+                         </h2>   
+<p>
+    As mentioned above, Atlanttic Aquaciment is not only perfect for creating microcement swimming pools, but also for coating terraces, fountains or ponds. Both walkable and non-walkable surfaces.
 
-                            <!--    <a class="links" href="../fichas-tecnicas/Aquaciment-ES.pdf" target="_blank"
+</p>    
+<p>
+    This exclusive two-component microcement for surfaces in contact with water, produces a 100% activation of the cement, exponentially improving the resistance in immersion.
+
+</p>    
+<p>
+    Atlanttic allows the professional applicator to create continuous spaces that facilitate the union between various areas, making each room uniform and unequalled. In addition, the burnt effect of the steel trowel is reduced and, over time, it reaches an extraordinary hardness.
+
+</p>    
+<p>
+    The two-component microcement for swimming pools Atlanttic Aquaciment is packaged in 2 granulometries:
+
+</p>    
+<p>
+    Atlanttic Aquaciment XL: is the two-component microcement for preparation pools, so it must always be applied before Atlanttic Aquaciment M. Although it can also be used as a finishing microcement and to achieve anti-slip textures, so it is ideal for the edges of the pool.
+
+</p>    
+<p>
+    Atlanttic Aquaciment M: is the two-component microcement for finishing pools. It offers a smoother texture.
+
+</p>    
+
+                             <a class="links" href="../data-sheets/Aquaciment-EN.pdf" target="_blank"
                                 style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>Download here the technical sheet of
                                 Atlanttic Aquaciment
-                            </a>  iwa ma 3-->
+                            </a>    
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types of
-                        Atlanttic Aquaciment</p>
+                    <h3 class="en3" >Types of microcement for swimming pools Atlanttic Aquaciment</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg"
@@ -242,7 +249,7 @@
                     <!-- Presentación -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Atlanttic Aquaciment is available in black plastic conical buckets of 20 kg.
+                    <p>Atlanttic Aquaciment microcement for swimming pools is packaged in 20 kg black plastic conical buckets.
                     </p>
                 </div>
             </div>
@@ -263,16 +270,14 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+STEP BY STEP 
-                            </strong></a>
+                       <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+Application of microcement for swimming pools Atlanttic</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 1</strong><br>We must make sure that is well consolidated, dry and, if
-                                    necesssary, bounded.
-                                    Vacuum to clean the surface. <br>Apply a coat of Sttandard Acricem.
+                                    <strong>Step 1</strong><br>Ensure the substrate is cohesive, dry and, if necessary, bonded. Vacuum to clean it. Apply a coat of Acricem resin by roller. Allow to dry for at least 30 minutes.
+
                                 </div>
                                 <!-- Icono -->
 
@@ -287,8 +292,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 2</strong><br>Apply a first layer of Aquaciment XL without pigment.
-                                    Sand.
+                                    <strong>Step 2</strong><br>Apply a first coat of Atlanttic Aquaciment XL without pigment. Allow to dry for 24 hours and sand with 40 grit sandpaper.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/llana.png"
@@ -302,8 +307,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 3</strong><br> Apply a second layer of Aquaciment XL with pigment.
-                                    Sand.
+                                    <strong>Step 3</strong><br>Apply a second coat of Atlanttic Aquaciment XL with pigment. Allow to dry for 24 hours and sand with 40 grit.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/llana.png"
@@ -317,7 +322,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 4</strong><br>Apply a first layer of Aquaciment M with pigment. Sand.
+                                    <strong>Step 4</strong><br>Apply a first coat of Atlanttic Aquaciment M with pigment. Allow to dry for 24 hours and sand with 40 grit.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/llana.png"
@@ -331,7 +337,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 5</strong><br>Apply a second layer of Aquaciment M with pigment. Sand.
+                                    <strong>Step 5</strong><br>Apply a second coat of Atlanttic Aquaciment M with pigment. Allow to dry for 24 hours and sand with 40 grit. 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/llana.png"
@@ -345,10 +351,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 6</strong><br>Apply two layers of Presealer in order to protect the
-                                    surface. <br>
-                                    Leave 4 hours of drying between each layer. <br>
-                                    The drying time before filling the pool must be of at least 5 days. </a>.
+                                    <strong>Step 6</strong><br>Apply two coats of Presealer by roller to protect the surface, allowing 4 hours drying time between coats. Allow to dry for at least 5 days before filling the pool.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/roller.png"

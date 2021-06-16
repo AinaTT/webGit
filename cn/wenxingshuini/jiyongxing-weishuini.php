@@ -26,11 +26,7 @@
     <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/jiyongxing-weishuini">
     <meta property="og:description" content="即用型Efectto Quartz 即用型石英石微水泥微水泥可以创造出无与伦比的高级装饰性连续饰面。但最大的优点无疑是它的快速应用。">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
+  <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/jiyongxing-weishuini" />

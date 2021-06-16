@@ -53,7 +53,7 @@
                     <p>
                         Dopo settimane di lavoro possiamo finalmente presentarvi Topsealer WT All in One, la nostra nuova vernice poliuretanica monocomponente a base d'acqua che si aggiunge alla vasta gamma di vernici
                         <a class="links"
-                            href="https://www.topciment.com/es/microcemento/barniz-topsealer">Topsealer</a>. Se state cercando un sigillante poliuretanico ad alte prestazioni per proteggere tutti i tipi di pavimenti e rivestimenti... Continua a leggere! </p>
+                            href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealer</a>. Se state cercando un sigillante poliuretanico ad alte prestazioni per proteggere tutti i tipi di pavimenti e rivestimenti... Continua a leggere! </p>
 
                     <p>Questo prodotto innovativo è stato ampiamente progettato per preservare le superfici rivestite con il nostro
                      <a class="link" href="https://www.topciment.com/es/microcemento/microcemento-listo-al-uso-efectto">microcemento pronto all'uso "Efetto"</a> . Tuttavia, la sua invidiabile resistenza meccanica e chimica può essere utilizzata anche su microcemento epossidico e su altri substrati come il parquet e il legno. Non è fantastico?</p>

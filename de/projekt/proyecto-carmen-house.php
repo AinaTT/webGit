@@ -14,18 +14,18 @@
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
-    <title>Carmen Haus Projekt mit Mikrozement</title>
+    <title>Carmen Haus Projekt mit mikrozement </title>
     <meta name="description" content="Carmen Haus von dem renommierten Architekten Carles Faus" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Carmen Haus Projekt mit Mikrozement" />
+    <meta property="og:title" content="Carmen Haus Projekt mit mikrozement " />
     <meta property="og:description" content="Carmen Haus des renommierten Architekten Carles Faus" />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-carmen-house" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="Haus Carmen des renommierten Architekten Carles Faus" />
-    <meta name="twitter:title" content="Haus Carmen Projekt mit Mikrozement" />
-    <meta name="twitter:title" content="Haus Carmen Projekt mit Mikrozement" />
+    <meta name="twitter:title" content="Haus Carmen Projekt mit mikrozement " />
+    <meta name="twitter:title" content="Haus Carmen Projekt mit mikrozement " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -72,7 +72,7 @@
                         House zu einem der viralsten Werke in sozialen Netzwerken geworden und ein Beispiel für Eleganz,
                         Raffinesse und Kontinuität. Sein Architekt, carles Faus, hat ein Werk geschaffen, in dem Weiß
                         der eigentliche Protagonist ist, da es als Generator und Leiter des Lichts fungiert. </p>
-                    <p>Die Nachvollziehbarkeit und Linearität, die mit dem weißen Mikrozement der Kontinuität geschaffen
+                    <p>Die Nachvollziehbarkeit und Linearität, die mit dem weißen mikrozement  der Kontinuität geschaffen
                         wurden, vereinen die vertikalen und horizontalen Pflasterungen, die dem ganzen Haus Amplitude
                         verleihen. </p>
                     <p>Verwendete Topciment-Produkte:</p>

@@ -68,12 +68,12 @@
                             <li>
                                 <a href="#elitte-glaze">Elitte Glaze </a>
                             </li>
+                             <li> <a href="#colores-glaze">Elitte Glaze finishs</a> </li>
                             <li>
                                 <a href="#elitte-glitter">Elitte Glitter</a>
                             </li>
-                            <li>
-                                <a href="#aplicacion">Anwendung</a>
-                            </li>
+                             <li> <a href="#elitte-glaze">Elitte Glitter finishs</a> </li>
+                            <li> <a href="#aplicacion">Anwendung</a> </li>
                         </ul>
                     </div>
                     <div class="content">
@@ -125,6 +125,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glaze_logo.png"
                             title="Logo Elitte Glaze" alt="Logo Elitte Glaze">
                     </div>
+                    <a id="colores-glaze" class="ancla"></a>
                     <h2 class="mt-4 mb-4 en3">Elitte Glaze Metalleffekt-Farbglasuren</h2>
 
                     <p>
@@ -214,7 +215,7 @@
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
                                     <strong>Anwendbar auf jede Art von Träger.</strong>
-                                    <p>Mikrozement, Beton, Ziegel, Keramik...</p>
+                                    <p>mikrozement , Beton, Ziegel, Keramik...</p>
                                 </div>
                             </div>
                         </div>
@@ -306,6 +307,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png"
                             title="Logo Elitte Glitter" alt="Logo Elitte Glitter">
                     </div>
+                    <a id="colores-glitter" class="ancla"></a>
                     <h2 class="en3">Glitzereffekt-Lasuren Elitte Glitter</h2>
                     <p>
                         Elitte Glitter ist die Linie der gebrauchsfertigen Glitzereffektglasuren von Topciment. Perfekt
@@ -376,7 +378,7 @@
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
                                     <strong>Anwendbar auf jede Art von Halterung</strong>
-                                    <p>Mikrozement, Beton, Ziegel, Keramik...</p>
+                                    <p>mikrozement , Beton, Ziegel, Keramik...</p>
                                 </div>
                             </div>
                         </div>
@@ -460,7 +462,7 @@
                     </h2>
                   
                   <p>
-                        Die Anwendung der Elitte-Glasuren ist gleich, egal ob Sie eine Metall-Effekt-Oberfläche oder eine Glitzer-Effekt-Oberfläche wünschen. Glasuren, die, wie bereits erwähnt, praktisch auf jeden Untergrund wie Ziegel, Beton, Keramik oder Mikrozement u.a. aufgetragen werden können. Eine Anwendung, die mit Pinsel, Bürste, Rolle, Spachtel, Schwamm und sogar Spray erfolgen kann.
+                        Die Anwendung der Elitte-Glasuren ist gleich, egal ob Sie eine Metall-Effekt-Oberfläche oder eine Glitzer-Effekt-Oberfläche wünschen. Glasuren, die, wie bereits erwähnt, praktisch auf jeden Untergrund wie Ziegel, Beton, Keramik oder mikrozement  u.a. aufgetragen werden können. Eine Anwendung, die mit Pinsel, Bürste, Rolle, Spachtel, Schwamm und sogar Spray erfolgen kann.
 
                   </p>    
 <p>
@@ -553,9 +555,9 @@ Versiegeln Sie die Poren mit zwei Schichten Presealer (4 Stunden zwischen den Sc
         </div>
         <!-- FAQ Start -->
         <div><img class="imgiz" src="https://www.topciment.com/imagenes/elitte/background/elitte_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente"></div>
+                width="100%" alt="mikrozement e"></div>
         <div><img class="imgde" src="https://www.topciment.com/imagenes/elitte/background/elitte_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div id="separador50px">
         </div>
@@ -570,7 +572,944 @@ Versiegeln Sie die Poren mit zwei Schichten Presealer (4 Stunden zwischen den Sc
     </div>
     </div>
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren",
+         "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+    "image": "https://www.topciment.com/imagenes/elitte/Elitte_Glaze_producto.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+    "variesBy": "size",
+    "additionalProperty": [
+           {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
 
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metallic- und Glitzereffekt-Lasuren"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren Aluminio 054",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Aluminio054.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glaze",
+        "sku": "TT05008",
+        "gtin13": "8436575624266",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "12,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren Gold 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Gold063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glaze",
+        "sku": "TT05011",
+        "gtin13": "8436575624297",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+              "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren Cobre 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Cobre063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glaze",
+        "sku": "TT05009",
+        "gtin13": "8436575624273",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren Cobre Red 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+        "image": "https://www.topciment.com/imagenes/elitte/CobreRed063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glaze",
+        "sku": "TT05010",
+        "gtin13": "8436575624280",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+         "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Elitte Glaze Metall- und Glitzereffekt-Farbglasuren Blanco Plata 500 ",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren mit dekorativen Effekten für befahrbare und nicht befahrbare Oberflächen im Innen- und Außenbereich. ",
+        "image": "https://www.topciment.com/imagenes/elitte/BlancoPlata500.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glaze",
+        "sku": "TT05007",
+        "gtin13": "8436575624259",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+         "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "14,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter",
+         "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+    "image": "https://www.topciment.com/imagenes/elitte/Bronze200.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+    "variesBy": "size",
+    "additionalProperty": [
+           {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metallic- und Glitzereffekt-Lasuren"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter Aluminio 054",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Aluminio054.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glitter",
+        "sku": "TT05008",
+        "gtin13": "8436575624266",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "12,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter Gold 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Gold063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glitter",
+        "sku": "TT05011",
+        "gtin13": "8436575624297",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+              "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter Cobre 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Cobre063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glitter",
+        "sku": "TT05009",
+        "gtin13": "8436575624273",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter Cobre Red 063",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+        "image": "https://www.topciment.com/imagenes/elitte/CobreRed063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glitter",
+        "sku": "TT05010",
+        "gtin13": "8436575624280",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+         "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Metallic- und Glitzereffekt-Lasuren Elitte Glitter Blanco Plata 500 ",
+             "description": "Sortiment an gebrauchsfertigen Metallic-Lasuren. ",
+        "image": "https://www.topciment.com/imagenes/elitte/BlancoPlata500.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/de/mikrozement/elitte-metallische-glasuren#elitte-glitter",
+        "sku": "TT05007",
+        "gtin13": "8436575624259",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Gebrauchsfertiges Produkt",
+      "value": "Nicht mit Wasser verdünnen."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendbar auf jeden Träger",
+      "value": "mikrozement , Beton, Ziegel, Keramik."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Vielseitigkeit der Anwendung",
+      "value": "Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Anwendungsbereich",
+      "value": "Geeignet für den Innen- und Außeneinsatz."
+    },{
+         "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "14,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+     
+    ]
+  } </script>
 </body>
 
 </html>

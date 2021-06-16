@@ -27,11 +27,7 @@
         content="Gotowy do użycia mikrocement Efectto Quartz tworzy niezrównane ciągłe wykończenia dla wysokich dekoracji. Ale najlepszą rzeczą jest niewątpliwie jej szybka aplikacja.">
     <meta property="og:type" content="article">
     <meta property="og:type" content="article">.
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
+  <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/pl/mikrocement/gotowy-do-uzycia-mikrocement-efectto" />

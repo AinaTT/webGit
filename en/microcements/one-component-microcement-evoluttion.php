@@ -17,19 +17,15 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcement monocomponent | Evoluttion</title>
+    <title>One-component microcement | Evoluttion</title>
     <meta name="description" content="Evoluttion microcement is Topciment's one-component microcement. It provides good mechanical resistance and simplifies mixing to avoid mistakes."/>
 
 
-    <meta property="og:title" content="Microcement monocomponent | Evoluttion">
+    <meta property="og:title" content="One-component microcement | Evoluttion">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/en/microcements/one-component-microcement-evoluttion">
     <meta property="og:description" content="Evoluttion microcement is Topciment's one-component microcement. It provides good mechanical resistance and simplifies mixing to avoid mistakes.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
 
 
@@ -63,22 +59,22 @@
                                     <a href="#up" style="font-size:26px">Evoluttion</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-evoluttion">What is Evoluttion?</a></h2>
+                                    <a href="#que-es-evoluttion">What is Evoluttion?</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microbase">Evoluttion Microbase</a></h2>
+                                    <a href="#evoluttion-microbase">Evoluttion Microbase</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microfino">Evoluttion Microfino</a></h2>
+                                    <a href="#evoluttion-microfino">Evoluttion Microfino</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microdeck">Evoluttion Microdeck</a></h2>
+                                    <a href="#evoluttion-microdeck">Evoluttion Microdeck</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Application</a></h2>
+                                     <a href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#colores">Colours</a></h2>
+                                     <a href="#colores">Colours</a>
                                 </li>
                             </ul>
                         </div>
@@ -131,17 +127,22 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Evoluttion Microbase</h2>
-                                <p>is the preparation microcement. It is also known as
-                                    rustic microcement when used as a finish.</h3>
-                            </p>
+                           <h2>
+                                One-component microcement for preparation Evoluttion Microbase
 
-                            <p>Evoluttion Microbase is always used before the application of Evoluttion Microfino and
-                                Evoluttion Microdeck.</p>
-                            <p>It offers the market the widest range of decorative solutions. </p>
-                            <p>It is available in 3 granulometries: L, XL and XXL. </p>
+                           </h2>    
+<p>
+    Evoluttion Microbase is the one-component microcement for preparation, also known as rustic microcement if you decide to use it as a finishing microcement.
 
+</p>    
+<p>
+    In any case, the decorative solutions offered by this coating to the professional are very varied and distinguished. As for its application, it should be noted that it is always used before the application of Evoluttion Microfino and Evoluttion Microdeck.
+
+</p>    
+<p>
+    Evoluttion Microbase is available in 3 granulometries: L, XL and XXL.
+
+</p>    
                             <a class="links" href="../data-sheets/Evoluttion_MicrobaseMN_EN.pdf" target="_blank"
                                 style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -151,8 +152,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types of
-                        Evoluttion Microbase</p>
+                    <h3 class="en3" >Types of one-component preparation microcement Evoluttion Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -245,7 +245,7 @@
                     <!-- Packaging -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Evoluttion Microbase is available in black plastic conical buckets of 20 kg.
+                    <p>Evoluttion Microbase single-component microcement is packaged in 20 kg black plastic conical buckets.
                     </p>
                 </div>
             </div>
@@ -280,17 +280,26 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Evoluttion Microfino</h2>
-                                <p>is the most suitable microcement for walls.</h3> It is
-                                designed only for vertical and non-trafficable surfaces.
-                            </p>
+                          <h2>
+                              One-component finishing microcement for walls
 
-                            <p>Once applied, it provides a silky smooth finish to the touch. In addition, it allows
-                                water marks to be achieved easily, giving it a high decorative value.
-                            </p>
-                            <p>Aesthetically, it resembles lime stucco, but with a much more natural finish.</p>
-                            <p>Evoluttion Microfino is available in 3 granulometries: XS, S and M.</p>
+                          </h2>  
+<p>
+    Evoluttion Microfino is the optimal finishing one-component microcement for walls, facades or furniture, as it is only intended for coating vertical and non-trafficable surfaces.
+
+</p>    
+<p>
+    It guarantees a silky and smooth finish to the touch and makes it easy to achieve watermarks. These qualities make Evoluttion Microfino a coating of high value in interior and exterior decoration.
+
+</p>    
+<p>
+    Aesthetically it is a coating that resembles lime stucco with the difference that its finish is much more natural than lime stucco.
+
+</p>    
+<p>
+    Evoluttion Microfino is available in 3 granulometries: XS, S and M.
+
+</p>    
                             <a class="links" href="../data-sheets/Evoluttion_MicrofinoMN_EN.pdf" target="_blank"
                                 style="font-weight: 700;">
                                 <span class="fa-stack">
@@ -301,8 +310,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types of
-                        Evoluttion Microfino</p>
+                    <h3 class="en3" >Types Evoluttion Microfino one-component finishing microcement for walls</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -395,7 +403,7 @@
                     <!-- Packaging -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Sttandard Microfino is available in black plastic conical buckets of 15 kg.
+                    <p>The single-component finishing microcement Evoluttion Microfino, especially recommended for walls, is packaged in 15 kg black plastic conical buckets.
                     </p>
                 </div>
             </div>
@@ -429,18 +437,22 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                                <h2 class="h2s">Evoluttion Microdeck</strong>
-                                    <p>is particularly suitable for indoor flooring, but
-                                        is often also applied to stairs, shower trays, basins, worktops and walls.</h3>
-                            </p>
-                            <p>Evoluttion Microdeck gives rooms a very natural and elegant look. Its texture is medium
-                                grain. This makes the water effect in the finish more subtle than with Evoluttion
-                                Microfino.
-                            </p>
+                           <h2>
+                               One-component finishing microcement for floors
 
-                            <p>Aesthetically, it resembles polished cement.</p>
-                            <p>Evoluttion Microdeck is available in 2 grain sizes: M and L .</p>
+                           </h2>  
+<p>
+    Evoluttion Microdeck is the best one-component microcement for finishing interior floors and floors. The appearance that this microcement gives to the rooms is very natural and elegant.
+
+</p>    
+<p>
+    But Evoluttion Microdeck can also be applied on stairs, shower trays, washbasins, worktops and walls. Due to its medium-grained texture, the water effect is lower than that of Evoluttion Microfino. Aesthetically, this single-component microcement finish is very similar to polished concrete.
+
+</p>    
+<p>
+    Evoluttion Microdeck is available in 2 granulometries: M and L.
+
+</p>    
                             <a class="links" href="../data-sheets/Evoluttion_MicrodeckMN_EN.pdf" target="_blank"
                                 style="font-weight: 700;">
                                 <span class="fa-stack">
@@ -452,8 +464,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types of
-                        Evoluttion Microdeck</p>
+                    <h3 class="en3" >Types of one-component finishing microcement for floors Evoluttion Microdeck</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -540,7 +551,8 @@
                     <!-- Packaging -->
                     <p class="en3" >
                         Packaging</p>
-                    <p>Evoluttion Microdeck is available in black plastic conical buckets of 20 kg.</p>
+                    <p>Evoluttion Microdeck single-component finishing microcement, whose resistance reaches a new level in interior floors, is packaged in 20 kg black plastic conical buckets.
+</p>
                 </div>
             </div>
         </section>
@@ -560,15 +572,13 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ MICROFINO STEP BY
-                                STEP</strong></a>
+                     <h2>   <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Evoluttion one-component microcement application on walls</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 1</strong><br>Place the mesh on the surface to be coated. Apply
-                                    Primacem Plus / ABS.
+                                    <strong>Step 1</strong><br>Place the mesh on the surface to be coated. Apply Primacem Plus / ABS.
                                 </div>
                                 <!-- Icono -->
 
@@ -583,7 +593,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 2</strong><br>Apply a first layer of Microbase without pigment.
+                                    <strong>Step 2</strong><br>Apply a first coat of Microbase without pigment. Sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -598,7 +608,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 3</strong><br>Apply a second layer of Microbase with pigment
+                                    <strong>Step 3</strong><br>Apply a second coat of Microbase with pigment. Sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -613,7 +623,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 4</strong><br>Apply a first layer of Microfino with pigment
+                                    <strong>Step 4</strong><br>Apply a first coat of Microfino with pigment. Sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -628,7 +638,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 5</strong><br>Apply a second layer of Microfino with pigment
+                                    <strong>Step 5</strong><br>Apply a second coat of Microfino with pigment. Sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -643,7 +653,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 6</strong><br>Apply two coats of Pre-Sealer by roller.
+                                    <strong>Step 6</strong><br>Apply two coats of Presealer by roller.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png"
@@ -658,7 +668,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 7</strong><br>Apply two coats of Topsealer by roller.
+                                    <strong>Step 7</strong><br>Apply by roller two coats of Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png"
@@ -673,15 +683,13 @@
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ MICRODECK STEP BY
-                                STEP</strong></a>
+                      <h2>  <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+Application of Evoluttion one-component microcement on floors</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 1</strong><br>Place the mesh on the surface to be coated.
-                                    Apply Primacem Plus / ABS.
+                                    <strong>Step 1</strong><br>Place the mesh on the surface to be coated. Apply Primacem Plus / ABS .
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png"
@@ -695,7 +703,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 2</strong><br>Apply a first layer of Microbase without pigment.
+                                    <strong>Step 2</strong><br>Apply a first coat of Microbase without pigment.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -710,7 +718,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 3</strong><br>Apply a second layer of Microbase with pigment.
+                                    <strong>Step 3</strong><br>Apply a second coat of Microbase with pigment.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -725,7 +733,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 4</strong><br>Apply a first layer of Microdeck with pigment.
+                                    <strong>Step 4</strong><br>Apply a first coat of Microdeck with pigment.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -740,7 +748,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 5</strong><br>Apply a second layer of Microdeck with pigment.
+                                    <strong>Step 5</strong><br>Apply a second coat of Microdeck with pigment.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -770,7 +778,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 7</strong><br>Apply two coats of Topsealer by roller.
+                                    <strong>Step 7</strong><br>Apply by roller two coats of Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png"
@@ -800,7 +808,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Colours</h2>
+                        Evoluttion one component microcement colours</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

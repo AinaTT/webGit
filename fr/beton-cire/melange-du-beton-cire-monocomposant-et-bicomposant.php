@@ -13,8 +13,8 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Préparation du mélange de béton ciré, consommation et rendement.</title>
-    <meta name="description" content="Lors de la préparation de toute variété de béton ciré, il faut toujours respecter les proportions de mélange recommandées."/>
+    <title>Préparation du mélange de béton ciré , consommation et rendement.</title>
+    <meta name="description" content="Lors de la préparation de toute variété de béton ciré , il faut toujours respecter les proportions de mélange recommandées."/>
 
 
 
@@ -37,15 +37,15 @@
         <div class="container">
             <div class="content">
 
-                <h1 id="queeselmicrocemento" ><span style=" padding:5px;">Mélange du béton ciré monocomposant et
+                <h1 id="queeselmicrocemento" ><span style=" padding:5px;">Mélange du béton ciré  monocomposant et
                         bicomposant</span></h1>
             </div>
 
             <div class="container">
                 <div class="content">
 
-                    <h3 style="text-align:left; ;" >Au moment de préparer n’importe quelle variété de béton ciré, nous devrons
-                        toujours respecter les proportions de mélange recommandées pour pouvoir obtenir un béton ciré facile à
+                    <h3 style="text-align:left; ;" >Au moment de préparer n’importe quelle variété de béton ciré , nous devrons
+                        toujours respecter les proportions de mélange recommandées pour pouvoir obtenir un béton ciré  facile à
                         travailler, avec des propriétés optimales.</h3>
                     <h3 style="text-align:left; ;" >
                         Le temps de vie du mélange ou « pot life » sera de 1 heure à 20º C.</h3>
@@ -54,14 +54,14 @@
                         <p>Mesurer dans un récipient propre la quantité de résine (pour les bétons cirés bi composants) ou
                             d’eau (pour les mono composants) correspondant aux kilos de poudre que nous préparerons. Verser la
                             quantité mesurée dans un emballage suffisamment grand pour recevoir les deux composants (liquide et
-                            solide) et ajouter le pigment correspondant à la quantité de béton ciré, en mélangeant jusqu’à
+                            solide) et ajouter le pigment correspondant à la quantité de béton ciré , en mélangeant jusqu’à
                             obtenir une couleur uniforme. Il est important de rincer l’emballage du pigment pour utiliser tout
                             son contenu, et qu’il ne se produise pas de différences de couleur entre une pâte et une autre.
                         </p>
                         <p>Verser peu à peu le composant sec tout en <strong>mélangeant la pâte pendant au moins 4 minutes.
                             </strong> Le résultat sera une pâte homogène sans grumeaux et de couleur uniforme.</p>
                         <p>Il ne sera pas nécessaire de pigmenter la première couche de Microbase.</p>
-                        <p>Pour le mélange du béton ciré, il est recommandé d’utiliser la tige mélangeuse à double hélice
+                        <p>Pour le mélange du béton ciré , il est recommandé d’utiliser la tige mélangeuse à double hélice
                             Topciment, en acier inoxydable, son mât hexagonal s’accouple facilement à la plupart des agitateurs,
                             sa double hélice facilite le mélange des mortiers, ce qui permet d’obtenir une pâte complètement
                             homogène</p>

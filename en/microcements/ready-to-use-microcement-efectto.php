@@ -10,7 +10,7 @@
     <meta name="Language" content="EN"/>
 
 
-    <?php include("../../assets/includes/styles.php"); ?>
+ <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style"/>
     <link rel="stylesheet" href="../../assets/css/familia.css"/>
 
@@ -26,18 +26,14 @@
     <meta property="og:url" content="https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto">
     <meta property="og:description" content="The ready to use Efectto Quartz microcement creates unique, highly decorative continuous finishes. But the best thing is undoubtedly its quick application.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
+  	<meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto"/>
 
 		 <link rel="alternate" href="https://www.topciment.com/en/microcements/ready-to-use-microcement-efectto" hreflang="en-GB"/>
      <link rel="alternate" href="https://www.topciment.com/es/microcemento/microcemento-listo-al-uso-efectto" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto" hreflang="fr-FR"/
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto" hreflang="fr-FR"/>
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -62,55 +58,52 @@
                                     <a href="#up" style="font-size:26px">Efectto Quartz</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#que-es-efectto">What is Efectto Quartz?</a></h2>
+                                    <a class="bl" href="#que-es-efectto">What is Efectto Quartz?</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#small-grain">Efectto Quartz Small Grain</a></h2>
+                                    <a class="bl" href="#small-grain">Efectto Quartz Small Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#medium-grain">Efectto Quartz Medium Grain</a></h2>
+                                    <a class="bl" href="#medium-grain">Efectto Quartz Medium Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#big-grain">Efectto Quartz Big Grain</a></h2>
+                                    <a class="bl" href="#big-grain">Efectto Quartz Big Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#super-grain">Efectto Quartz Super Grain</a></h2>
+                                    <a class="bl" href="#super-grain">Efectto Quartz Super Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#aplicacion">Application</a></h2>
+                                    <a class="bl" href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#colores"> Colours</a></h2>
+                                    <a class="bl" href="#colores"> Colours</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#preguntas-frecuentes-ok">Frequent questions</a></h2>
+                                    <a class="bl" href="#preguntas-frecuentes-ok">Frequent questions</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="content">
                             <a id="que-es-efectto" class="ancla"></a>
-                            <h1 class="en2">Ready to use microcement Efectto Quartz</h1>
+                            <h1 class="en2">Ready-to-use microcement for high decoration | Efectto Quartz</h1>
                             <div class="text-justify">
-                                <p> Efectto Quartz
-                                    is the ready-to-use microcement range,
-										which allows to create a continuous high decoration finish. Its exclusive
-									formula
-									does not contain cements that can produce unexpected shrinkage or cracks.
-                                </p>
+                              <p>
+                              	Efectto Quartz is the ready-to-use microcement line that offers highly decorative continuous finishes. Its exclusive formula does not contain cements that can cause unforeseen shrinkage or cracking.
 
-                              <p>Efectto Quartz has been designed for professionals who are looking for speed in
-									application and to avoid debris. Therefore, it is the ideal choice for works in
-									inhabited houses.
-								</p>
+                              </p>	
+<p>
+	A coating conceived for professionals who want to be more productive, increase the speed of microcement application and avoid debris. For all these reasons, Efectto Quartz is the best choice for work on houses that are already inhabited.
 
-								<p>It is a low-thickness continuous decorative coating that, due to its high adhesion,
-									can be applied on practically any surface, both indoors and outdoors, as well as on
-									vertical and horizontal surfaces.</p>
+</p>	
+<p>
+	This ready-to-use microcement stands out for its low thickness which, together with its great adherence, makes it possible to apply it on practically any substrate. A coating suitable for vertical and horizontal surfaces, indoors and outdoors.
 
-								<p>It is available in a wide range of colours and in four different granulometries,
-									which stand out for their natural appearance. Unlike Sttandard or Evoluttion, the
-									colour is more homogeneous and preserves the texture of microcement.
-								</p>
+</p>	
+<p>Efeccto Quartz is available in 16 exclusive microcement colours and in four different granulometries. All of them stand out for their natural look.</p>
+<p>
+	Unlike the two-component microcement Sttandard or the one-component microcement Evoluttion, the colour of Efectto Quartz is more homogeneous and retains the coating's own texture.
+
+</p>	
                             </div>
                         </div>
                     </div>
@@ -147,25 +140,25 @@
 						</div>
 						<!-- descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Efectto Quartz Small Grain</h2>
-								<p>is the finishing
-									layer for the wall system.</h3>
-								<br>It is applied in one coat after two coats of Quartz Big Grain Effect.
-								<br>It has a maximum grain size of 0.1
-							</p>
+						<h2>
+							Ready-to-use microcement for wall finishes
+
+</h2>	
+<p>
+	Efectto Quartz Small Grain is our ready-to-use microcement finish for walls and other vertical surfaces. It is a filled microcement that is applied in a single coat after two coats of Efectto Quartz Big Grain. It has a maximum grain size of 0.1.
+
+</p>	
 							<a class="links"
 								href="https://www.topciment.com/en/data-sheets/Ficha_Tecnica_Efectto_EN.pdf"
 								target="_blank"><span class="fa-stack">
 									<i class="fas fa-file-pdf fa-stack-1x"></i>
 								</span>
-								<strong>Download the Efectto Quartz data sheet here</strong>
+								<strong>Download the Efectto Quartz Small data sheet here</strong>
 							</a>
 						</div>
 					</div>
 					<!-- Tipos de cubos-->
-					<p class="en3" >
-						Types of Efectto Quartz Small Grain</p>
+					<h3 class="en3" >Types of ready-to-use finishing microcement for walls</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg"
@@ -239,13 +232,12 @@
 						Consumption
 					</p>
 
-					<p><span>One layer of Small Grain 0,250 kg/m²
-						</span></p>
+<p>One coat of Efectto Quartz Small Grain : 0,250 kg/m².</p>
 					<!-- Packaging -->
 					<p class="en3" >
 						Packaging
 					</p>
-					<p>Efectto Quartz Small Grain is available in conical black plastic buckets of 17 kg and 6 kg. </p>
+					<p>Efectto Quartz Small Grain ready-to-use microcement wall finish is packaged in 6 and 17 kg black plastic conical buckets.</p>
 				</div>
 			</div>
 		</section>
@@ -279,24 +271,23 @@
 						</div>
 						<!-- descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Efectto Quartz Medium Grain</h2>
-								<p> is the finishing layer for the flooring system.</h3>
-								It is applied in one coat after Efectto Quartz Super Grain.
-								<br> It has a maximum grain size of 0.2
-							</p>
+							<h2>Ready-to-use finishing microcement for floors and paving</h2>
+
+<p>
+	Efectto Quartz Medium Grain is our ready-to-use microcement finish for floors and pavements. It is applied in a single coat after Efectto Quartz Super Grain. Its maximum grain size is 0.2.
+
+</p>	
 							<a class="links"
 								href="https://www.topciment.com/en/data-sheets/Ficha_Tecnica_Efectto_EN.pdf"
 								target="_blank"><span class="fa-stack">
 									<i class="fas fa-file-pdf fa-stack-1x"></i>
 								</span>
-								<strong>Download the Efectto Quartz data sheet here</strong>
+								<strong>Download the Efectto Quartz  Medium Grain data sheet here</strong>
 							</a>
 						</div>
 					</div>
 					<!-- Tipos de cubos-->
-					<p class="en3" >Types of
-						Efectto Quartz Medium Grain</p>
+					<h3 class="en3" >Ready-to-use finishing microcement types for floors</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg"
@@ -369,11 +360,10 @@
 					</div>
 					<p class="en3" >
 						Consumption</p>
-					<p><span>One layer of Medium Grain - 0,250 kg/m².
-						</span></p>
+					<p>One coat of Efectto Quartz Medium Grain: 0,450 kg/m².</p>
 					<p class="en3" >
 						Packaging</p>
-					<p>Efectto Quartz Medium Grain is available in conical black plastic buckets of 17 kg and 6 kg. </p>
+					<p>Efectto Quartz Medium Grain ready-to-use microcement floor finish is packaged in 6 and 17 kg black plastic conical buckets. </p>
 				</div>
 			</div>
 
@@ -397,7 +387,7 @@
 							title="Logo Efectto Quartz Big Grain" alt="Logo Efectto Quartz Big Grain">
 					</div>
 					<div class="row">
-						<!-- imagen producto -->
+						<!-- imagen producto  -->
 						<div class="col-md-6">
 							<a data-lightbox="texturas" data-title="Textura Efectto Big Grain"
 								href="https://www.topciment.com/imagenes/efectto/texturas/Textura_Efectto_Big.jpg">
@@ -408,24 +398,23 @@
 						</div>
 						<!-- descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Efectto Quartz Big Grain</h2>
-								<p>is the preparation ready-to-use microcement for
-									the wall system.</h3>
-								A layer of Efectto Quartz Small Grain is applied over this product.
-								<br> It has a maximum grain size of 0.3 <br><br>
+							<h2>Ready to use preparation microcement for walls</h2>
+
+<p>
+	Efectto Quartz Big Grain is the ready-to-use microcement line for wall preparation. After applying this coating, a layer of Efectto Quartz Small Grain finishing microcement with a maximum grain size of 0.3 is applied.
+
+</p>	
 								<a class="links"
 									href="https://www.topciment.com/en/data-sheets/Ficha_Tecnica_Efectto_EN.pdf"
 									target="_blank"><span class="fa-stack">
 										<i class="fas fa-file-pdf fa-stack-1x"></i>
 									</span>
-									<strong>Download the Efectto Quartz data sheet here.</strong>
+									<strong>Download the Efectto Quartz  Big Grain data sheet here.</strong>
 								</a>
 						</div>
 					</div>
 					<!-- Tipos de cubos-->
-					<p class="en3" >Types of
-						Efectto Quartz Big Grain</p>
+					<h3 class="en3" >Types of ready-to-use microcement for wall preparation</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg"
@@ -502,12 +491,12 @@
 					<!-- Consumption -->
 					<p  class="en3">
 						Consumption</p>
-					<p><span>One layer of Big Grain -0,9 kg/m²
-						</span></p>
+				<p>One coat of Efectto Small Grain: 0,9 kg/m².
+</p>
 					<!-- Packaging -->
 					<p  class="en3">
 						Packaging</p>
-					<p>Efectto Quartz Big Grain is available in black plastic conical buckets of 17 kg and 6 kg.</p>
+					<p>Efectto Quartz Big Grain ready-to-use microcement for wall preparation is packaged in 6 and 17 kg black plastic conical buckets.</p>
 				</div>
 			</div>
 		</section>
@@ -543,25 +532,23 @@
 						</div>
 						<!-- descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Efectto Quartz Super Grain </h2>
-								<p>is the preparation layer for the floor
-									system.</h3>
-								A layer of Efectto Quartz Medium Grain is applied over this product.
-								<br> It has a maximum grain size of 0.5
-							</p>
+							<h2>Ready-to-use microcement for floor and wall preparation</h2>
+
+<p>
+	Efectto Quartz Super Grain is the ready-to-use microcement range for preparing floors and pavements. After applying this product, a coat of Efectto Quartz Medium Grain finishing microcement should be applied. The maximum grain size is 0.5.
+
+</p>	
 							<a class="links"
 								href="https://www.topciment.com/en/data-sheets/Ficha_Tecnica_Efectto_EN.pdf"
 								target="_blank"><span class="fa-stack">
 									<i class="fas fa-file-pdf fa-stack-1x"></i>
 								</span>
-								<strong>Download the Efectto Quartz data sheet here</strong>
+								<strong>Download the Efectto Quartz Super Grain data sheet here</strong>
 							</a>
 						</div>
 					</div>
 					<!-- Tipos de cubos-->
-					<p class="en3" >Types of
-						Efectto Quartz Super Grain</p>
+					<h3 class="en3" >Types of ready-to-use microcement for floor preparation</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg"
@@ -634,12 +621,11 @@
 					<!-- Consumption -->
 					<p  class="en3">
 						Consumption</p>
-					<p><span>One layer of Big Grain 1.3 kg/m²
-						</span></p>
+					<p>One coat of Efectto Quartz Small Grain: 1,3 kg/m².</p>
 					<!-- Packaging -->
 					<p  class="en3">
 						Packaging</p>
-					<p>Efectto Quartz Big Grain is available in black plastic conical buckets of 17 kg and 6 kg.</p>
+					<p>Efectto Quartz Super Grain ready-to-use microcement is packaged in 6 kg and 17 kg black plastic conical buckets.</p>
 				</div>
 
 			</div>
@@ -659,129 +645,13 @@
 				<div class="content">
 					<!-- aplicacion paredes -->
 					<div class="stepwalls mt-5">
-						<a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ STEP BY STEP
-								WALLS</strong></a>
+						<h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>Ready-to-use microcement application Efectto Quartz on walls</strong></a></h2>
 						<div class="ocultable" id="wall" style="display: block;">
 							<!-- Paso 1 -->
 							<div class="row mt-5 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 1</strong><br>Fill the joints with Efectto Quartz Big Grain
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PureMettal_P0.jpg" class="img-fluid">
-								</div>
-							</div>
-							<!-- Paso 2 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 2</strong><br>
-									Apply a coat of Primacem Plus/ABS by roller.
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PureMettal_P1.jpg" class="img-fluid">
-								</div>
-							</div>
-							<!-- Paso 3 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 3</strong><br>
-									Apply a layer of Efectto Quartz Big Grain by trowel and sand.
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso3.jpg"
-										class="img-fluid">
-								</div>
-							</div>
-
-							<!-- Paso 4 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 4</strong><br>Apply by trowel a layer of Quartz Big Grain Efectto and
-									sand.
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso3.jpg"
-										class="img-fluid">
-								</div>
-							</div>
-							<!-- Paso 5 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 5</strong><br>Apply a layer of Quartz Small Grain Efectto with a trowel
-									and sand.
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso5.jpg"
-										class="img-fluid">
-								</div>
-							</div>
-							<!-- Paso 6 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 6</strong><br> Apply by roller a coat of Topsealer WT One Coat and sand
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso6.jpg"
-										class="img-fluid">
-								</div>
-							</div>
-							<!-- Paso 7 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 7</strong>Apply by roller a coat of Topsealer WT One Coat<br>
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso7.jpg"
-										class="img-fluid">
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- aplicacion suelos -->
-					<div class="stepfloor mt-5">
-						<a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ STEP BY STEP
-								FLOORS</strong></a>
-						<div class="ocultable" id="floor" style="display: block;">
-							<!-- Paso 1 -->
-							<div class="row mt-5 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 1</strong><br> Fill the joints with Efectto Quartz Super Grain
+									<strong>Step 1</strong><br>Fill the joints with Efectto Quartz Big Grain and sand.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
@@ -809,7 +679,106 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 3</strong><br>rowel a coat of Efectto Quartz Super Grain and sand it.
+									<strong>Step 3</strong><br>Trowel on a coat of Efectto Quartz Big Grain and sand.
+
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso3.jpg"
+										class="img-fluid">
+								</div>
+							</div>
+
+							<!-- Paso 4 -->
+							<div class="row mt-3 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 4</strong><br>Trowel on a coat of Efectto Quartz Big Grain and sand.
+
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso3.jpg"
+										class="img-fluid">
+								</div>
+							</div>
+							<!-- Paso 5 -->
+							<div class="row mt-3 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 5</strong><br>Trowel on a coat of Efectto Quartz Small Grain and sand.
+
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso5.jpg"
+										class="img-fluid">
+								</div>
+							</div>
+							<!-- Paso 6 -->
+							<div class="row mt-3 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 6</strong><br> Apply three coats of Topsealer WT All in One by roller and sand.
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Paredes_Paso6.jpg"
+										class="img-fluid">
+								</div>
+							</div>
+							 
+						</div>
+					</div>
+					<!-- aplicacion suelos -->
+					<div class="stepfloor mt-5">
+				<h2>		<a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Ready-to-use microcement application Efectto Quartz on floors </strong></a></h2>
+						<div class="ocultable" id="floor" style="display: block;">
+							<!-- Paso 1 -->
+							<div class="row mt-5 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 1</strong><br>Fill the joints with Efectto Quartz Super Grain and sand.
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PureMettal_P0.jpg" class="img-fluid">
+								</div>
+							</div>
+							<!-- Paso 2 -->
+							<div class="row mt-3 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 2</strong><br>Apply a coat of Primacem Plus/ABS by roller.
+								</div>
+								<!-- Icono -->
+								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
+										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+								<!-- Imagen paso a paso -->
+								<div class="col-12 col-md-5">
+									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PureMettal_P1.jpg" class="img-fluid">
+								</div>
+							</div>
+							<!-- Paso 3 -->
+							<div class="row mt-3 ">
+								<!-- Texto -->
+								<div class="col-9 col-md-5 pasoapli">
+									<strong>Step 3</strong><br>Trowel on a coat of Efectto Quartz Super Grain and sand.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
@@ -824,8 +793,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 4</strong><br>Apply by trowel a coat of Quartz Super Grain Effect and
-									sand.
+									<strong>Step 4</strong><br>Trowel on a coat of Efectto Quartz Super Grain and sand.
+
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
@@ -840,8 +809,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 5</strong><br>Apply a layer of Quartz Medium Grain Effect with a trowel
-									and sand.
+									<strong>Step 5</strong><br>Trowel on a coat of Efectto Quartz Medium Grain and sand.
+
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png"
@@ -856,7 +825,7 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 6</strong><br>Apply by roller a coat of Topsealer WT One Coat and sand.
+									<strong>Step 6</strong><br>Apply three coats of Topsealer WT All in One  by roller and sand.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
@@ -867,21 +836,7 @@
 										class="img-fluid">
 								</div>
 							</div>
-							<!-- Paso 7 -->
-							<div class="row mt-3 ">
-								<!-- Texto -->
-								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 7</strong><br>Apply by roller a coat of Topsealer WT One Coat
-								</div>
-								<!-- Icono -->
-								<div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png"
-										class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
-								<!-- Imagen paso a paso -->
-								<div class="col-12 col-md-5">
-									<img src="https://www.topciment.com/imagenes/efectto/stepbystep/PasoxPaso_Efectto_Suelos_Paso7.jpg"
-										class="img-fluid">
-								</div>
-							</div>
+							 
 						</div>
 					</div>
 				</div>

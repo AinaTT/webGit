@@ -81,7 +81,7 @@
                             perfekt mit der minimalistischen und natürlichen Dekoration und den erdigen Farben, die Ruhe
                             hervorrufen. </p>
                         <p>All das lenkt unsere Aufmerksamkeit auf das Innere des Hauses und lässt uns von der weißen
-                            Farbe des in der Verkleidung verwendeten Mikrozements täuschen, der als Generator und Leiter
+                            Farbe des in der Verkleidung verwendeten mikrozement s täuschen, der als Generator und Leiter
                             des Lichts wirkt. </p>
 
                         <img class="img-fluid"
@@ -90,13 +90,13 @@
                             title="Revestimientos interiores y exteriores de Carmen House ">
 
                         <p><span class="en3">Carmen House und Topciment</span></p>
-                        <p>Das Haus Carmen gehört zweifellos zu den Projekten, die inspirieren und bei denen jedes Detail zählt: von den Farben bis zu den Materialien, die für die Gestaltung verwendet wurden. </p> <p>Und in dieser Hinsicht hat Topciment eine Menge zu tun. Unser Mikrozement der Sttandard-Reihe war maßgeblich an der Entstehung dieses architektonischen Werkes beteiligt:</p> 
+                        <p>Das Haus Carmen gehört zweifellos zu den Projekten, die inspirieren und bei denen jedes Detail zählt: von den Farben bis zu den Materialien, die für die Gestaltung verwendet wurden. </p> <p>Und in dieser Hinsicht hat Topciment eine Menge zu tun. Unser mikrozement  der Sttandard-Reihe war maßgeblich an der Entstehung dieses architektonischen Werkes beteiligt:</p> 
                         <p>- <a href="../mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microdeck"
                                 class="links">Sttandard Microdeck</a> in weißer Farbe und satinierter Ausführung: für Boden- und Wandbeläge im Innenbereich. <br>
 
                             - <a href="../mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microbase"
-                                class="links">Sttandard Microbase</a> weiße Farbe und satinierte Oberfläche: für Bodenbeläge im Außenbereich. </p> <p>Bei Topciment stellen wir seit 15 Jahren Mikrozement her und bieten Lösungen für Profis an, um leistungsstarke Projekte mit hohen dekorativen Qualitäten wie das Carmen House zu realisieren. </p> <p>Wenn Sie Ihre Arbeit machen wollen, beraten wir Sie gerne und helfen Ihnen beim Aufbau
-                                     <a href="../projekte"> Projekte</a> wie dieses. Denn mit Mikrozement gibt es keine Grenzen. </p> <p><span class="de3">Sollen wir anfangen?</span></p>
+                                class="links">Sttandard Microbase</a> weiße Farbe und satinierte Oberfläche: für Bodenbeläge im Außenbereich. </p> <p>Bei Topciment stellen wir seit 15 Jahren mikrozement  her und bieten Lösungen für Profis an, um leistungsstarke Projekte mit hohen dekorativen Qualitäten wie das Carmen House zu realisieren. </p> <p>Wenn Sie Ihre Arbeit machen wollen, beraten wir Sie gerne und helfen Ihnen beim Aufbau
+                                     <a href="../projekte"> Projekte</a> wie dieses. Denn mit mikrozement  gibt es keine Grenzen. </p> <p><span class="de3">Sollen wir anfangen?</span></p>
                         <br><br>
 
                 </div>

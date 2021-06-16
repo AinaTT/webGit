@@ -118,7 +118,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/microcement-in-kitchens"
+  },
+  "headline": "Microcement in kitchens",
+  "image":"https://www.topciment.com/imagenes/microcemento-cocinas-1.jpg",
+  "datePublished": "2020-01-21",
+  "dateModified": "2020-01-21",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Microcement is a neutral material neutral material that combines in any type of kitchen, from classic to classic classic to contemporary, industrial and industrial and Nordic."
+}
 
+</script>
 </body>
 
 </html>

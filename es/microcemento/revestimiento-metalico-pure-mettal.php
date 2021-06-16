@@ -22,14 +22,16 @@
     <title>Revestimientos y recubrimientos metálicos
         | Pure Mettal</title>
     <meta name="description"
-        content="El revestimiento metálico Pure Mettal de Topciment crea acabados metálicos auténticos en aluminio, iridio, bronce, cobre y latón" />
+        content="Transforma paredes y muebles con Pure Mettal, nuestros revestimientos y
+recubrimientos metálicos. Un producto innovador con el que conseguirás acabados metálicos de alta decoración sobre microcemento, hormigón, ladrillo o cerámica." />
 
 
     <meta property="og:title" content="Revestimientos y recubrimientos metálicos| Pure Mettal">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal">
     <meta property="og:description"
-        content="El revestimiento metálico Pure Metal de Topciment crea acabados metálicos auténticos en aluminio, iridio, bronce, cobre y latón">
+        content="Transforma paredes y muebles con Pure Mettal, nuestros revestimientos y
+recubrimientos metálicos. Un producto innovador con el que conseguirás acabados metálicos de alta decoración sobre microcemento, hormigón, ladrillo o cerámica.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
 
@@ -69,6 +71,7 @@
                                 </li>
                                 <li><a href="#que-es-puremetal">¿Qué es Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
+                                  <li> <a href="#colores">Acabados</a> </li>
                                 <li><a href="#aplicacion">Aplicación</a></li>
                             </ul>
                         </div>
@@ -315,7 +318,7 @@
                             src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Generic.png"
                             title="Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
-
+    <a id="colores" class="ancla"></a>
                     <h2>Acabados metálicos y óxidos Pure Mettal</h2>
                     <p>A continuación, os presentamos los nueve acabados decorativos que los revestimientos y
                         recubrimientos metálicos Pure Mettal ofrecen. Según el producto y pigmento elegido, el

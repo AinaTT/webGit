@@ -16,16 +16,16 @@
 
 
     <title>Maison spectaculaire avec microciment.</title>
-    <meta name="description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciréet d'éclairage."/>
+    <meta name="description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciré et d'éclairage."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Maison spectaculaire avec microciment."/>
-    <meta property="og:description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciréet d'éclairage."/>
+    <meta property="og:description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciré et d'éclairage."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/project-reverter"/>
     <meta property=" og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciréet d'éclairage."/>
+    <meta name="twitter:description" content="Photos d'une maison rénovée avec du microciment. Combinaison de béton ciré et d'éclairage."/>
     <meta name="twitter:title" content="Maison spectaculaire avec microciment."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
@@ -35,14 +35,7 @@
     <link rel="canonical" href="https://www.topciment.com/fr/project/project-reverter"/>
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-reverter" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-reverter" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-reverter.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-reverter.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-reverter.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-reverter.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-reverter.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-reverter.html" hreflang="zh-CN"/>
-
-
+  
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -78,7 +71,7 @@
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>Personne ne rénove sa maison en pensant en commun. Dans ce cas, le résultat est unique. Futurisme et
                         l'originalité de lier leurs mains pour obtenir la finition de cette maison avec des vues spectaculaires sur l'ancien fleuve Turia
-                        La vue sur l'ancien lit de la rivière Turia est totalement exclusive. Avec le <a href="../information-beton-cire">Béton Ciré</a>, un engagement clair en faveur de l'éclairage donne à cette maison deux airs complètement différents : <a href="../information-beton-cire">Béton Ciré</a>.
+                        La vue sur l'ancien lit de la rivière Turia est totalement exclusive. Avec le <a href="../information-beton-cire">béton ciré </a>, un engagement clair en faveur de l'éclairage donne à cette maison deux airs complètement différents : <a href="../information-beton-cire">béton ciré </a>.
                         deux airs complètement différents : alors que pendant la journée l'intérieur de la maison est
                         l'intérieur de la maison est moderne et lumineux, à la tombée de la nuit, les panneaux s'animent et transforment les pièces en une danse de lumière.
                         les salles dans une danse de teintes bleutées. Photos de Mariela Apollonio. </p>

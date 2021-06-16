@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos von modernen Wohnungen mit Mikrozement.</title>
+    <title>Fotos von modernen Wohnungen mit mikrozement .</title>
     <meta name="description"
-        content="Bilder von spektakulären Wohnungen mit Anwendung von Mikrozement auf Böden und Wände von Wohnzimmer, Küche und Bäder. " />
+        content="Bilder von spektakulären Wohnungen mit Anwendung von mikrozement  auf Böden und Wände von Wohnzimmer, Küche und Bäder. " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bilder von modernem Wohnen mit Mikrozement." />
+    <meta property="og:title" content="Bilder von modernem Wohnen mit mikrozement ." />
     <meta property="og:description"
-        content="Bilder von spektakulärem Wohnen mit Mikrozement-Anwendung auf Böden und Wänden von Wohnzimmer, Küche und Bädern. " />
+        content="Bilder von spektakulärem Wohnen mit mikrozement -Anwendung auf Böden und Wänden von Wohnzimmer, Küche und Bädern. " />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-hernan-cortes" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Bilder eines spektakulären Hauses mit Mikrozementanwendung auf Böden und Wänden in Wohnzimmer, Küche und Bädern. " />
-    <meta name="twitter:title" content="Bilder von modernen Häusern mit Mikrozement." />
+        content="Bilder eines spektakulären Hauses mit mikrozement anwendung auf Böden und Wänden in Wohnzimmer, Küche und Bädern. " />
+    <meta name="twitter:title" content="Bilder von modernen Häusern mit mikrozement ." />
     <meta name="twitter:title" content="Zusammenfassung" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -40,8 +40,6 @@
     <link rel="alternate" href="https://www.topciment.com/de/projekt/proyecto-hernan-cortes" hreflang="de-DE" />
 
 
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html"
-        hreflang="zh-CN" />
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

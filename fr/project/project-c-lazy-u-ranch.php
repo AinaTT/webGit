@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>project de béton ciré dans Ranch</title>
-    <meta name="description" content="De belles photos de béton cirédans un ranch."/>
+    <title>project de béton ciré  dans Ranch</title>
+    <meta name="description" content="De belles photos de béton ciré dans un ranch."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="project de béton ciré dans Ranch"/>
-    <meta property="og:description" content="De belles photos de béton cirédans un ranch."/>
+    <meta property="og:title" content="project de béton ciré  dans Ranch"/>
+    <meta property="og:description" content="De belles photos de béton ciré dans un ranch."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/project-c-lazy-u-ranch"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="De belles photos de béton cirédans un ranch."/>
-    <meta name="twitter:title" content="project de béton ciré dans Ranch"/>
+    <meta name="twitter:description" content="De belles photos de béton ciré dans un ranch."/>
+    <meta name="twitter:title" content="project de béton ciré  dans Ranch"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>

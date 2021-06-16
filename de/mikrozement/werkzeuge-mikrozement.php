@@ -13,24 +13,20 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
-    <title>Mikrozement-Applikationswerkzeuge: Stäbe, Kellen und Matten</title>
+    <title>Werkzeuge zum Auftragen von Mikrozement | Stäbe, Spachteln und Gewebe.</title>
     <meta name="description"
-        content="Die Applikation von Mikrozement war noch nie so einfach. Lernen Sie Toptools kennen, unsere Werkzeuge für die optimale Anwendung: Stäbe, Kellen, Netze und Rollen. " />
+        content="Die Anwendung von Mikrozement war noch nie so einfach. Das sind unsere Toptools, unsere Werkzeuge für die optimale Anwendung: Stäbe, Spachteln, Gewebe und Rollen. " />
     <meta property="og:title" content="Microcement application tools | rods, trowels and rollers">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement">
+    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement ">
     <meta property="og:description"
-        content="Noch nie war das Auftragen von Microcement so einfach. Lernen Sie Toptools kennen, unsere Werkzeuge für die optimale Anwendung: Stäbe, Kellen, Netze und Rollen. ">
+        content="Die Anwendung von Mikrozement war noch nie so einfach. Das sind unsere Toptools, unsere Werkzeuge für die optimale Anwendung: Stäbe, Spachteln, Gewebe und Rollen. ">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/toptools/background/tools_fondo_04.jpg">
 
-    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement" />
+    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement " />
 
-    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement" hreflang="de-DE" />
+    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/werkzeuge-mikrozement " hreflang="de-DE" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/outils-beton-cire" hreflang="fr-FR" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/narzedzia-do-aplikacji-mikrocementu"
         hreflang="pl-PL" />
@@ -87,12 +83,20 @@
                         </div>
                         <div class="content">
                             <a id="que-es" class="ancla"></a>
-                            <h1 class="en2">Die Wahl der Werkzeuge ist ein grundlegender Faktor für eine optimale
-                                Anwendung von Mikrozement.
+                            <h1 class="en2">Werkzeuge zum Auftragen von Mikrozement: Stäbe, Spachteln, Gewebe und Rollen
                             </h1>
-                            <p>Die Wahl der Werkzeuge ist ein grundlegender Faktor, um eine optimale Anwendung von Mikrozement zu gewährleisten</p> <p>Topciment bietet seinen Kunden effiziente und qualitativ hochwertige Werkzeuge, die das Erreichen guter Ergebnisse garantieren.</p> <p>Im Zubehörkatalog von Topciment finden wir spezielle Mischstäbe für Mikrozement, Aluminiumprofile, verschiedene Kellen für die Anwendung der verschiedenen Mikrozemente, Faser- und Glasgitter und Rollen. </p>
+                           <p>
+                                Die Wahl der Werkzeuge ist ein grundlegender Faktor, um eine optimale Anwendung von Mikrozement zu gewährleisten.
 
-                        </div>
+                           </p>    
+<p>
+    Topciment bietet seinen Kunden effiziente und hochwertige Werkzeuge, die das Erreichen guter Ergebnisse garantieren.
+
+</p>    
+<p>
+    Im Zubehörkatalog von Topciment finden wir spezielle Mischstäbe für Mikrozement, Aluminiumprofile, verschiedene Kellen zum Auftragen der verschiedenen Mikrozemente, Glasfasergewebe und Walzen.
+     
+</p>                       </div>
                     </div>
                 </section>
             </div>
@@ -119,23 +123,23 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Varilla mezcladora de doble hélice para microcemento</h2>
-                         
-                                <p> Die Edelstal Mischer zeichnet sich durch seine Doppelhelix aus, die es
-                                    ermöglicht,
-                                    zementhaltigen Mörtel effektiv zu mischen. Es ist ideal, um eine homogene
-                                    Mikrozementpaste
-                                    zu erzielen und Spritzer zu vermeiden.</p>
-                            
+                      <h2>
+                            Doppelhelix-Mischstab für Mikrozement
 
-                            <p> Es besteht aus Edelstahl und zeichnet sich durch lange Lebensdauer und hohe
-                                Beständigkeit
-                                aus, insbesondere auf Grundlagen die sich mit der Zeit abschleifen.</p>
+                      </h2>   
+<p>
+    Dieser Stab ist durch seine Doppelhelix gekennzeichnet, die ein effektives Mischen von zementhaltigen Mörteln ermöglicht. Es ist ideal, um einen homogenen Mikrozementleim zu erzielen und Spritzer zu vermeiden.
 
-                            <p>Die hexadezimale Schnellverbindungsstange eignet sich perfekt zum Anbringen an Bohrern
-                                und
-                                Mischern ohne Gewinde.</p>
-                        </div>
+</p>    
+<p>
+    Es ist aus Edelstahl hergestellt und zeichnet sich durch eine lange Lebensdauer und hohe Beständigkeit aus, insbesondere bei abrasiven Materialien.
+
+</p>    
+<p>
+    Der Schnellverschluss-Stab in Sechskantform ist perfekt für die Befestigung an Bohrmaschinen und Mixern ohne Gewinde.
+     
+</p>                       
+</div>
                     </div>
                     <!-- propiedades -->
                     <p class="en3">
@@ -197,7 +201,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Einzelner verkauf
+                    <p>Der Doppelhelix-Mischstab für Mikrozement wird einzeln verkauft.
                         </p>
                 </div>
             </div>
@@ -251,7 +255,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Verkauf in Packungen mit 10 und 20 Einheiten.
+                    <p>Das Aluminiumprofil für Treppen und Mikrozementwände wird in Packungen mit 10 und 20 Stück verkauft.
                     </p>
                 </div>
 
@@ -279,10 +283,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Flexible gummikelle feiner Mikrozement</h2>
-                            <p>Die flexible Weichgummi-Mikrozementkelle ist ideal für horizontale und
+                            <h2>Flexible gummikelle feiner mikrozement </h2>
+                            <p>Die flexible Weichgummi-mikrozement kelle ist ideal für horizontale und
                                     vertikale
-                                    Oberflächen. Es wird bei der Anwendung von feinem Mikrozement verwendet. Damit wird
+                                    Oberflächen. Es wird bei der Anwendung von feinem mikrozement  verwendet. Damit wird
                                     ein
                                     Wassereffekt erzielt, verschwommen und ohne Brandspuren.
                             </p>
@@ -308,7 +312,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Verkauf in Einheiten.
+                    <p>Der Gummispachtel für feinen Mikrozement wird in Kartons mit 20 Stück verkauft.
                     </p>
                 </div>
             </div>
@@ -336,14 +340,14 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2> Biflex stahlkelle für Mikrozement</h2>
+                            <h2> Biflex stahlkelle für mikrozement </h2>
                             <p>
                                 Extra leichte Bi-Flex Stahlkelle. Es hat einen transparenten,
                                     widerstandsfähigen und
                                     ergonomischen Polycarbonatgriff. Die Klinge hat abgerundete Spitzen und die Kante
                                     ist
                                     abgeschrägt. Stahlkellen sind für die Anwendung von hochkörnigen oder strukturierten
-                                    Mikrozementen vorgesehen.
+                                    mikrozement en vorgesehen.
                             </p>
                         </div>
                     </div>
@@ -379,7 +383,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Verkauf in Einzelverpackung
+                    <p>Die Bi-Flex-Stahlkelle für Mikrozement wird in Kartons mit 20 Stück verkauft.
                     </p>
                 </div>
             </div>
@@ -405,10 +409,10 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Glasfasergewebe für Mikrozement</h2>
-                        <p >Das flexible Glasfasernetz für die Mikrozementierung ist ideal für die
+                            <h2>Glasfasergewebe für mikrozement </h2>
+                        <p >Das flexible Glasfasernetz für die mikrozement ierung ist ideal für die
                                     Verstärkung von
-                                    Gehwegen und durchgehenden Mikrozementbeschichtungen, da es den Untergrund
+                                    Gehwegen und durchgehenden mikrozement beschichtungen, da es den Untergrund
                                     verfestigt
                                     und
                                     die Oberfläche wasserdicht macht.</p>
@@ -417,7 +421,7 @@
                                 Verstärkung der Kanten an Wänden und Treppen. Darüber hinaus verhindert es das Auftreten
                                 von
                                 Rissen beim Zusammentreffen zweier Materialien unterschiedlicher Art und in den
-                                Mikrozementbeschichtungen auf Zementmörteln.</p>
+                                mikrozement beschichtungen auf Zementmörteln.</p>
                         </div>
                     </div>
                     <!-- propiedades -->
@@ -452,7 +456,7 @@
                     <!-- presentacion -->
                     <p class="en3">
                         Verpackung</p>
-                    <p>Die Anzahl der Einheiten variiert je nach Gewicht des Netzes.
+                    <p>Die Kurzstapelrolle für Mikrozement wird in Kartons mit 20 Stück verkauft.
                     </p>
                 </div>
 
@@ -480,8 +484,8 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Kurzhaarwalze für Mikrozement</h2>
-                               <p> Spezialwalze zum Grundieren und Versiegeln der Mikrozement.</p>
+                            <h2>Kurzhaarwalze für mikrozement </h2>
+                               <p> Spezialwalze zum Grundieren und Versiegeln der mikrozement .</p>
                            
 
                             <p> Die WT-Polyesterwalze eignet sich besonders für unsere Grundierungen und Versiegelungen
@@ -537,10 +541,10 @@
         </div>
         <!-- end rodillo -->
         <div><img class="imgiz" src="https://www.topciment.com/imagenes/toptools/background/tools_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div><img class="imgde" src="https://www.topciment.com/imagenes/toptools/background/tools_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <!-- start preguntas -->
         <div id="separador50px">
@@ -553,7 +557,418 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Llana acero Bi-Flex para microcemento",
+         "description": "Llana de acero Bi-Flex extra ligero. Cuenta con un mango de policarbonato transparente, resistente y ergonómico.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Biflex.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "300 x 110 mm 350 x 110 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Dicke",
+      "value": "0,40 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Verkauft in einzelnen Blisterpackungen."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Gummispachtel für feinen mikrozement ",
+         "description": "Der flexible Weichgummi-mikrozement spachtel ist für horizontale und vertikale Flächen geeignet.  ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Llana_Goma.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "140 x 300 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Verkauft nach Einheiten."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Glasfasergewebe für mikrozement ",
+         "description": "ideal für die Armierung von durchgehenden mikrozement -Boden- und Wandbelägen, da es den Untergrund stützt und eine Abdichtung der Oberfläche ermöglicht.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+   {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "Rolle von 50 x 1m"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Dicke",
+      "value": "Builtex GR 50 - Builtex GR 58 - Builtex GR 160"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Die Anzahl der Einheiten variiert je nach Gewicht des Glasfasergewebes."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Aluminiumprofil für Treppen und Wände microcemento",
+         "description": "Das Aluminiumprofil wird an den Ecken von Wänden und an den Kanten von Treppen zur Dekoration und zum Schutz angebracht. ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "2700 x 3 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Verkauft in Packungen mit 10 und 20 Einheiten."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Kurzstapelwalze für mikrozement ",
+         "description": "Spezialrolle zum Grundieren und Versiegeln von mikrozement . ",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Malla.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "4 x 180 mm - 4 x 220 mm"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Material",
+      "value": "Polyester-Faser (WT),Gewebte Schurwolle (DSV)"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Verkauft in einzelnen Blisterpackungen."
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Doppelhelix-Mischstab für mikrozement ",
+         "description": "Dieser Stab zeichnet sich durch seine Doppelhelix aus, die ein effizientes Mischen von zementhaltigen Mörteln ermöglicht.",
+    "image": "https://www.topciment.com/imagenes/toptools/TT_Varillas.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Messungen",
+      "value": "120 x 500 mm"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Mischleistung",
+      "value": "30 Kg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Geeignet für",
+      "value": "Flüssige Materialien, Farben, Lacke, Wandfarben und Dispersionsfarben, Stärkeleime, Klebstoffe, Fliesenkleber"
+    },
+    
+	{
+      "@type": "PropertyValue",
+      "name": "Präsentation",
+      "value": "Einzeln verkauft"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": " mikrozement  Werkzeuge "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    }
+  } </script>
 </body>
 
 </html>

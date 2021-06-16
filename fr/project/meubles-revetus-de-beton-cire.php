@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Meubles avec béton ciré</title>
+    <title>Meubles avec béton ciré </title>
     <meta name="description" content="Images d'un incroyable mobilier super original revêtu de microciment"/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Meubles avec béton ciré"/>
+    <meta property="og:title" content="Meubles avec béton ciré "/>
     <meta property="og:description" content="Images d'un incroyable mobilier super original revêtu de microciment"/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/meubles-revetus-de-beton-cire"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Images d'un incroyable mobilier super original revêtu de microciment"/>
-    <meta name="twitter:title" content="Meubles avec béton ciré"/>
+    <meta name="twitter:title" content="Meubles avec béton ciré "/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -71,7 +71,7 @@
                     Fotos: @the_ply </h2>
 
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
-                    <p>Les possibilités infinies du béton ciréTopciment ont permis à l'imagination de nos collègues russes de s'envoler vers
+                    <p>Les possibilités infinies du béton ciré Topciment ont permis à l'imagination de nos collègues russes de s'envoler vers
                         nos collègues russes dans des endroits incroyables. <a href="https://www.theply.ru/" target="blank" rel="nofollow">@the_ply</a> ha descubierto en nuestros productos
                         <strong>la possibilité de créer des meubles incroyables</strong>. Avec Microbase comme microciment
                         finition rustique, et avec un design des plus originaux, cette entreprise a réalisé de véritables bijoux : canapés, tables, miroirs, et bien d'autres choses encore...

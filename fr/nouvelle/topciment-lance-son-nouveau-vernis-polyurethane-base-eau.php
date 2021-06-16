@@ -17,20 +17,20 @@
 
     <title> Topciment lance son nouveau vernis polyuréthane à base d'eau: Topsealer WT All in One</title>
     <meta name="description"
-        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
+        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré  prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title"
         content=" Topciment lance son nouveau vernis polyuréthane à base d'eau: Topsealer WT All in One"/>
     <meta property="og:description"
-        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
+        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré  prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
     <meta property="og:url"
         content="https://www.topciment.com/fr/nouvelle/topciment-lance-son-nouveau-vernis-polyurethane-base-eau"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description"
-        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
+        content="Le nouveau vernis polyuréthane à base d'eau Topsealer WT All in One a tout pour plaire. Particulièrement indiqué pour protéger le béton ciré  prêt à l'emploi, résistant à l'eau, à l'abrasion, aux rayures et aux rayons ultraviolets. Il n'y en a pas d'autre aussi complet sur le marché!"/>
     <meta name="twitter:title"
         content=" Topciment lance son nouveau vernis polyuréthane à base d'eau: Topsealer WT All in One"/>
     <meta name="twitter:site" content="@topciment"/>
@@ -68,7 +68,7 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>Topsealer WT All in One: nouveau vernis polyuréthane à base d'eau pour béton ciré prêt à l'emploi
+                <h1>Topsealer WT All in One: nouveau vernis polyuréthane à base d'eau pour béton ciré  prêt à l'emploi
                 </h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
 
@@ -77,14 +77,14 @@
                             One</strong> notre nouveau vernis polyuréthane monocomposant à l'eau qui rejoint la large
                         gamme de vernis Topsealer
                         <a class="links"
-                            href="https://www.topciment.com/fr/beton-cire/vernis-topsealer#all-in-one">Topsealer</a>.
+                            href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer#all-in-one">Topsealer</a>.
                         Si vous recherchez un vernis polyuréthane haute performance pour protéger tous les types de
                         revêtements pour sols et murs ... Continuez à lire!
                     </p>
 
                     <p>Ce produit innovant a été largement conçu pour préserver les surfaces revêtues de notre <strong><a class="links"
                                 href="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto">microcemento
-                                l béton ciré prêt à l'emploi  Efectto</a></strong> . Cependant, sa résistance mécanique et chimique enviable peut également être utilisée sur d'autres substrats en béton, matériaux minéraux poreux, parquet, bois et même béton ciré époxy. N'est-ce pas génial?</p>
+                                l béton ciré  prêt à l'emploi  Efectto</a></strong> . Cependant, sa résistance mécanique et chimique enviable peut également être utilisée sur d'autres substrats en béton, matériaux minéraux poreux, parquet, bois et même béton ciré  époxy. N'est-ce pas génial?</p>
 
 
 
@@ -100,7 +100,7 @@
                         <p>Parmi ses nombreuses caractéristiques techniques, se distingue sa résistance à l'usure par abrasion et aux rayures, ainsi qu'à l'eau et à l'alcalinité. De plus, si cela ne suffisait pas, il est inaltérable en lumière ultraviolette et ne jaunit pas!
                         </p>
                         <p>
-                        Mais il y a plus, beaucoup plus. Dans le cas des revêtements de béton ciré prêts à l'emploi, notre nouveau vernis à l'eau Topsealer WT All in One rehausse la couleur de la surface sans altérer le moins du monde la texture d'origine.
+                        Mais il y a plus, beaucoup plus. Dans le cas des revêtements de béton ciré  prêts à l'emploi, notre nouveau vernis à l'eau Topsealer WT All in One rehausse la couleur de la surface sans altérer le moins du monde la texture d'origine.
                         </p>
                         <p>Aussi, grâce à ce vernis, le support est imperméabilisé tout en préservant sa respirabilité à la vapeur d'eau. Pour toutes ces raisons, ce vernis polyuréthane est l'un des plus complets du marché.</p>
                             <h2>Application de vernis polyuréthane Topsealer WT All in One</h2>              
@@ -248,7 +248,7 @@
                                                         class="SIGNUP_FLD">
                                                         <input type="text"
                                                             style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                            placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                            placeholder="Nom" changeitem="SIGNUP_FORM_FIELD"
                                                             name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                     </div>
                                                     <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
@@ -256,7 +256,7 @@
                                                         <input type="button"
                                                             style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
                                                             name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin"
-                                                            value="Suscríbete">
+                                                            value="Souscrivez">
                                                     </div>
                                                     <input type="hidden" id="fieldBorder" value="">
                                                     <input type="hidden" id="submitType" name="submitType"

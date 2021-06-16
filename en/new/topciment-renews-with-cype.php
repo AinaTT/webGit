@@ -131,6 +131,37 @@
 
     <!-- include jQuery -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/topciment-renews-with-cype"
+  },
+  "headline": "Topciment renews with CYPE for another year",
+  "image":"https://www.topciment.com/imagenes/productos-limpieza-y-mantenimiento-del-microcemento.jpg",
+  "datePublished": "2020-01-25",
+  "dateModified": "2020-01-25",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Topciment has renewed for another year with Cype and with this agreement, it will continue to provide service to construction professionals in terms of preparing budgets for works with microcement."
+}
+
+</script>
 </body>
 
 </html>

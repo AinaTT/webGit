@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Reform in Böden und Wände des Hauses mit Mikrozement</title>
+    <title>Reform in Böden und Wände des Hauses mit mikrozement </title>
     <meta name="description"
-        content="Duplex mit Mikrozement in Böden und Wänden. Reform von Interiorisme & Projectes de Disseny." />
+        content="Duplex mit mikrozement  in Böden und Wänden. Reform von Interiorisme & Projectes de Disseny." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Reform in Böden und Wänden des Hauses mit Mikrozement" />
+    <meta property="og:title" content="Reform in Böden und Wänden des Hauses mit mikrozement " />
     <meta property="og:description"
-        content="Duplex mit Mikrozement in Böden und Wänden. Reform by Interiorisme & Projectes de Disseny." />
+        content="Duplex mit mikrozement  in Böden und Wänden. Reform by Interiorisme & Projectes de Disseny." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-francisco-jesus" />
     <meta property=" og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Duplex mit Mikrozement in Böden und Wänden. Reform von Interiorisme & Projectes de Disseny." />
-    <meta name="twitter:title" content="Reform in Böden und Wänden des Hauses mit Mikrozement" />
+        content="Duplex mit mikrozement  in Böden und Wänden. Reform von Interiorisme & Projectes de Disseny." />
+    <meta name="twitter:title" content="Reform in Böden und Wänden des Hauses mit mikrozement " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -81,7 +81,7 @@
                         Pujol <u><a href="http://www.larapujol.com/" target="blank" rel="nofollow">Interiorisme &
                                 Projectes de Disseny</a></u>. Ein Projekt, das mit einer Besonderheit begann: dem
                         dreieckigen Grundriss, mit einem ziemlich fortgeschrittenen Verfall aufgrund der Jahre, in denen
-                        es geschlossen war. Aus diesem Grund wurde <a href="../mikrozemente">Mikrozement</a> Topciment
+                        es geschlossen war. Aus diesem Grund wurde <a href="../mikrozemente">mikrozement </a> Topciment
                         gewählt, um die Pflasterung des Hauptgeschosses zu vereinheitlichen, da eine
                         <strong>kontinuierliche Verkleidung</strong> gesucht wurde, die keine neuen Fugen oder
                         Raumbrüche in einer Architektur mit unregelmäßigen Formen erzeugen würde. Die <u><a

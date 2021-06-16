@@ -325,7 +325,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/topciment-recibe-sello-pyme-innovadora"
+  },
+  "headline": "Topciment recibe el sello de PYME INNOVADORA",
+  "image":"https://www.topciment.com/imagenes/news/pyme-innovadora-topciment.jpg",
+  "datePublished": "2021-03-12",
+  "dateModified": "2021-03-12",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Hemos recibido el sello de PYME INNOVADORA del Ministerio de Ciencia e Innovación. Una magnífica noticia que demuestra que el Ministerio de Ciencia e Innovación valora la importante inversión de Topciment en I+D+I."
+}
+</script>
 </body>
 
 </html>

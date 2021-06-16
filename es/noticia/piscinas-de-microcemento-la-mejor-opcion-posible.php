@@ -333,7 +333,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/piscinas-de-microcemento-la-mejor-opcion-posible"
+  },
+  "headline": "Piscinas de microcemento, la mejor opción posible",
+  "image":"https://www.topciment.com/imagenes/news/portada.jpg",
+  "datePublished": "2020-10-02",
+  "dateModified": "2020-10-02",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Tener piscina propia suele ser uno de los sueños más recurrentes. Y es que ¿quién no querría estar todo el día en remojo o en el césped de su casa tomando tranquilamente el sol? Y, si queremos lo mejor, una piscina de microcemento es la opción perfecta."
+  
+}
+</script>
 </body>
 
 </html>

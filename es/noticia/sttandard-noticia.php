@@ -140,6 +140,39 @@
 
     <!-- include jQuery -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/sttandard-noticia"
+  },
+  "headline": "¡Topciment cambia de imagen!",
+  "image":"https://www.topciment.com/imagenes/sttandard/noticia_Standard_Microbase-2.jpg",
+  "datePublished": "2020-01-13",
+  "dateModified": "2020-01-13",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Desde Topciment hemos decidido dar un paso más en cuanto a diseño se refiere y hemos actualizado nuestra imagen y la estética de nuestros cubos.
+
+Presentamos nuestra gama de productos Sttandard , misma calidad y prestaciones, pero con una imagen renovada mucho más visual y actual, siempre sin perder la esencia Topciment."
+
+}
+</script>
 </body>
 
 </html>

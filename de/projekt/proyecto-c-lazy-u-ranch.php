@@ -14,18 +14,18 @@
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
-    <title>Unser Mikrozement-Projekt in einer schönen Ranch,</title>
-    <meta name="description" content="Beeindruckendes Haus mit Mikrozement in einer Ranch.Entdecken Sie sie hier! " />
+    <title>Unser mikrozement -Projekt in einer schönen Ranch,</title>
+    <meta name="description" content="Beeindruckendes Haus mit mikrozement  in einer Ranch.Entdecken Sie sie hier! " />
     <meta property="og:locale" content="de_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Unser Mikrozement-Projekt auf einer wunderschönen Ranch," />
+    <meta property="og:title" content="Unser mikrozement -Projekt auf einer wunderschönen Ranch," />
     <meta property="og:description"
-        content="Beeindruckendes Haus mit Mikrozement auf einer Ranch. Entdecken Sie sie hier!" />
+        content="Beeindruckendes Haus mit mikrozement  auf einer Ranch. Entdecken Sie sie hier!" />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-c-lazy-u-ranch" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Tolles Haus mit Mikrozement auf einer Ranch. Entdecken Sie sie hier!" />
-    <meta name="twitter:title" content="Unser Mikrozement-Projekt auf einer wunderschönen Ranch," />
+    <meta name="twitter:description" content="Tolles Haus mit mikrozement  auf einer Ranch. Entdecken Sie sie hier!" />
+    <meta name="twitter:title" content="Unser mikrozement -Projekt auf einer wunderschönen Ranch," />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />

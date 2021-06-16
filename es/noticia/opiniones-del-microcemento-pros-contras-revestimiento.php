@@ -25,7 +25,7 @@
     <meta property="og:description"
         content="El microcemento es popular en la decoración de interiores y exteriores. Conoce los pros y contras del revestimiento para hogares y comercios." />
     <meta property="og:url"
-        content="https://www.topciment.com/cn/xinwen/opiniones-del-microcemento-pros-contras-revestimiento" />
+        content="https://www.topciment.com/es/noticia/opiniones-del-microcemento-pros-contras-revestimiento" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
@@ -37,9 +37,9 @@
 
 
     <link rel="canonical"
-        href="https://www.topciment.com/cn/xinwen/opiniones-del-microcemento-pros-contras-revestimiento" />
+        href="https://www.topciment.com/es/noticia/opiniones-del-microcemento-pros-contras-revestimiento" />
 
-    <link rel="alternate" href="https://www.topciment.com/cn/xinwen/opiniones-del-microcemento-pros-contras-revestimiento"
+    <link rel="alternate" href="https://www.topciment.com/es/noticia/opiniones-del-microcemento-pros-contras-revestimiento"
         hreflang="es-ES" />
 
 
@@ -188,7 +188,7 @@
                     </p>
                     <p>
                         En Topciment contamos con una amplia variedad de <a class="links"
-                            href="../microcemento/barniz-topsealer">barnices </a>, en función
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">barnices </a>, en función
                         del acabado que se quiera otorgar a la superficie revestida con microcemento alisado:
                         <strong>acabado con brillo, mate, super mate, ssatinado e incluso antideslizante e
                             impermeable.</strong>
@@ -207,7 +207,7 @@
                         Uno de los espacios en los que más se ha extendido el uso del microcemento es en los baños. Algo
                         que ha sucedido porque este recubrimiento puede ofrecer un <strong>acabado impermeable</strong>
                         si se utiliza un sellador que le confiera esta capacidad. En Topciment contamos con <strong><a class="links"
-                                href="../microcemento/barniz-topsealer">Topsealers</a></strong>,
+                                href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealers</a></strong>,
                         nuestra gama de barnices de poliuretano  convierte automáticamente al microcemento alisado en
                         impermeable. Es por esto que es muy habitual encontrar platos de ducha forrados con
                         microcemento, pilas , lavabos y bañeras además de paredes y suelos.
@@ -216,7 +216,7 @@
                     <p>
                         Pero hay más. Las superficies revestidas con microcemento también pueden lograr un
                         <strong>acabado antideslizante</strong> con nuestro barniz al agua
-                        <strong> <a class="links" href="../microcemento/barniz-topsealer#topsealer-anti-slip">Topsealer
+                        <strong> <a class="links" href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip">Topsealer
                                 WT Anti
                                 Slip</a></strong>. ¡Se acabaron
                         los resbalones! 
@@ -319,7 +319,7 @@
                     </p>
                     <p>
                         Como tampoco se pueden cometer fallos en la imprimación del soporte o en el sellado del mismo.
-                        <a class="link" href="../microcemento/metodos-de-aplicacion-microcemento">En esta página</a>,
+                        <a class="link" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">En esta página</a>,
                         encontrarás todo lo que tienes que saber para no realizar
                         errores en la aplicación de microcemento.
 
@@ -636,7 +636,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/opiniones-del-microcemento-pros-contras-revestimiento"
+  },
+  "headline": "Opiniones del microcemento: pros y contras de este revestimiento",
+  "image":"https://www.topciment.com/imagenes/news/microcemento-gris-suelo-dormitorio.jpeg",
+  "datePublished": "2021-04-23",
+  "dateModified": "2021-04-23",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "El microcemento es muy popular en la decoración de interiores y exteriores de hogares y comercios. Un revestimiento que genera todo tipo de opiniones. En este artículo descubrirás sus ventajas y problemas principales."
+  
+}
+</script>
 </body>
 
 </html>

@@ -76,11 +76,11 @@
                         arbeiten, zu erleichtern.</p>
                     <p>Das unverwechselbare TT von Topciment tritt in diesem neuen Design in den Vordergrund und war die
                         zentrale Achse dieser Erneuerung des Images und der Namensgebung des Produkts. Die
-                        <strong>Zweikomponenten</strong>-Linie der Mikrozemente ändert also ihren Namen. Es ist ein
+                        <strong>Zweikomponenten</strong>-Linie der mikrozement e ändert also ihren Namen. Es ist ein
                         riskanter Schritt, aber wir sind von einem sehr generischen Namen als Bikomponente zu einem auf
                         Topciment zugeschnittenen Namen übergegangen: Sttandard, immer mit unserem TT zur Verstärkung
                         der Marke.</p>
-                    <p>Daher werden <strong>von nun an unsere Bikomponenten-Mikrozemente heißen:</strong> </p>
+                    <p>Daher werden <strong>von nun an unsere Bikomponenten-mikrozement e heißen:</strong> </p>
 
                     <ul>
 
@@ -111,7 +111,7 @@
                             src="https://www.topciment.com/imagenes/sttandard/logo-sttandard-bn.jpg"
                             alt="Logo Sttandard" width="100%" height="auto"></a>
                     <p>Mit all diesen Verbesserungen will Topciment sein Image stärken und sich als <strong>die beste
-                            Marke für Mikrozement</strong> positionieren, sowohl was die Materialqualität als auch was
+                            Marke für mikrozement </strong> positionieren, sowohl was die Materialqualität als auch was
                         das Design betrifft. Immer ohne die Menschen zu vergessen, die mit uns arbeiten, denn alles ist
                         von und für sie. </p>
                     <br><br>

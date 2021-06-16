@@ -15,15 +15,15 @@
     <link rel="stylesheet" href="../../assets/css/familia.css"/>
 
 
-    <title>Resine béton ciré | Résine acrylique base eau Acricem 
+    <title>Resine béton ciré  | Résine acrylique base eau Acricem 
     </title>
-    <meta name="description" content="Résine acrylique qui augmente la résistance mécanique . A base d'eau , cette résine confèrent une dureté et flexibilité au béton ciré bicomposant"/>
+    <meta name="description" content="Résine acrylique qui augmente la résistance mécanique . A base d'eau , cette résine confèrent une dureté et flexibilité au béton ciré  bicomposant"/>
 
 
-    <meta property="og:title" content="Resine béton ciré | Résine acrylique base eau Acricem ">
+    <meta property="og:title" content="Resine béton ciré  | Résine acrylique base eau Acricem ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem">
-    <meta property="og:description" content="Résine acrylique qui augmente la résistance mécanique . A base d'eau , cette résine confèrent une dureté et flexibilité au béton ciré bicomposant">
+    <meta property="og:description" content="Résine acrylique qui augmente la résistance mécanique . A base d'eau , cette résine confèrent une dureté et flexibilité au béton ciré  bicomposant">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
@@ -74,11 +74,11 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Résine pour béton ciré </h1>
-                            <p> Acricem est une résine qui confère adhérence, dureté et flexibilité aux revêtements de béton ciré . Cette résine acrylique et à base d'eau est particulièrement indiquée pour accompagner nos systèmes de béton ciré à deux composants: Sttandard, Unlimited et Atlanttic.
+                            <h1>Résine pour béton ciré  </h1>
+                            <p> Acricem est une résine qui confère adhérence, dureté et flexibilité aux revêtements de béton ciré  . Cette résine acrylique et à base d'eau est particulièrement indiquée pour accompagner nos systèmes de béton ciré  à deux composants: Sttandard, Unlimited et Atlanttic.
 
                             </p>
-                            <p>Cette résine pour béton ciré sans solvant améliore considérablement la résistance mécanique ainsi que l'imperméabilité du mortier. De plus, il réduit l'apparition possible de fissures de retrait.</p>
+                            <p>Cette résine pour béton ciré  sans solvant améliore considérablement la résistance mécanique ainsi que l'imperméabilité du mortier. De plus, il réduit l'apparition possible de fissures de retrait.</p>
                             <p>Il peut également être utilisé comme apprêt, car Acricem est une résine qui permet de consolider les surfaces absorbantes à base de ciment.</p>
                             <!--    <a class="links" href="https://www.topciment.com/fiches-techniques/Primacem-ES.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -179,8 +179,8 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Résine acrylique à base d'eau pour microciment Acricem",
-    "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+    "name": "Résine acrylique à base d'eau pour béton ciré Acricem",
+    "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au béton ciré à deux composants.",
     "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_y_25L_2021.jpg",
     "brand": {
       "@type": "Organization",
@@ -257,8 +257,8 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Résine acrylique à base d'eau pour microciment Acricem 5 L",
-        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "name": "Résine acrylique à base d'eau pour béton ciré Acricem 5 L",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au béton ciré à deux composants.",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
         "size": "5 L",
         "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",
@@ -334,8 +334,8 @@
       },
       {
         "@type": "Product",
-        "name": "Résine acrylique à base d'eau pour microciment Acricem 25 L",
-        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "name": "Résine acrylique à base d'eau pour béton ciré Acricem 25 L",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au béton ciré à deux composants.",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
         "size": "25 L",
         "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",
@@ -410,8 +410,8 @@
       },
       {
         "@type": "Product",
-        "name": "Résine acrylique à base d'eau pour microciment Acricem M",
-        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au microciment à deux composants.",
+        "name": "Résine acrylique à base d'eau pour béton ciré Acricem M",
+        "description": "Résine acrylique qui augmente la résistance mécanique. A base d'eau, cette résine donne une dureté et une flexibilité supplémentaires au béton ciré à deux composants.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem",

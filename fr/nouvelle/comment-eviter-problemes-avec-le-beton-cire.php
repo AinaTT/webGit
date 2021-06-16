@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>Béton ciré sans problème</title>
-    <meta name="description" content="Béton ciré sans problème"/>
+    <title>béton ciré  sans problème</title>
+    <meta name="description" content="béton ciré  sans problème"/>
 
     
 
@@ -48,7 +48,7 @@
             <div class="content">
                 <h1>Le microcrédit sans problème</h1>
                 <div id="mitadTextoIzquierda" style="width: 100%;">
-                    <p>Un remodelage au béton ciréréalisé par des
+                    <p>Un remodelage au béton ciré réalisé par des
                         professionnels et avec
                         des produits de haute qualité évite l'apparition de problèmes pendant et
                         après son
@@ -56,7 +56,7 @@
                     <p>La première étape consiste à choisir un spécialiste qui connaît les différents
                         les matériaux et
                         choisit la meilleure qualité.</p>
-                    <p>Différencier les types de béton ciréet les appliquer sur le
+                    <p>Différencier les types de béton ciré et les appliquer sur le
                         surface pour laquelle
                         ont été développés est essentiel pour garantir une
                         le remodelage.
@@ -81,7 +81,7 @@
                         la base de la fissuration.</p>
                 </div>
                 <div id="mitadTextoDerecha" style="width: 100%;">
-                    <p>Les instructions d'utilisation du béton cirédoivent être strictement
+                    <p>Les instructions d'utilisation du béton ciré doivent être strictement
                         suivi pour assurer une
                         travailler sans problèmes. Un bon professionnel mélangera correctement les
                         les composantes de

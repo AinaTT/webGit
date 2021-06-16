@@ -160,15 +160,15 @@
                     <p>El último paso de la aplicación del microcemento en suelo conforma uno de los más importantes. El
                         suelo de microcemento ya está listo, ahora falta protegerlo. Para ello se aplicarán  dos capas de
                         <a class="links"
-                            href="https://www.topciment.com/es/microcemento/barniz-topsealer#presealer">PRESEALER</a>
+                            href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#presealer">PRESEALER</a>
                         mediante rodillo y, después, otras  dos manos de
-                        <a class="links" href="https://www.topciment.com/es/microcemento/barniz-topsealer">TOPSEALER
+                        <a class="links" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer">TOPSEALER
                             WT</a>  . Además de
                         proteger el microcemento del suelo, se podrá impermeabilizar e incluso conseguir un acabado
                         antideslizante.
                     </p>
                     <p>
-                        <a class="links" href="../microcemento/metodos-de-aplicacion-microcemento">En esta página</a>,
+                        <a class="links" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">En esta página</a>,
                         podrás informarte también de la aplicación de
                         microcemento en paredes y piscinas.</p>
                     <figure class="figure mt-4">

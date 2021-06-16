@@ -1134,7 +1134,7 @@ Un microcemento listo al uso compatible sobre azulejo, terrazo, enlucidos de yes
                               ¿El microcemento listo al uso Efectto Quartz es impermeable?
                             </strong> </a>
                         <div style="font-size:16px;">
-                            <p>Por sí mismo no es impermeable, pero puede llegar a serlo gracias a nuestro barniz de poliuretano <a href="barniz-topsealer">Topsealer Pro +</a> 
+                            <p>Por sí mismo no es impermeable, pero puede llegar a serlo gracias a nuestro barniz de poliuretano <a href="barniz-poliuretano-acrilico-alagua-topsealer">Topsealer Pro +</a> 
                              Con el uso de este barniz impermeable bicomponente, el microcemento listo al uso Efectto Quartz se convertirá en impermeable  y podrá así aplicarse en cualquier superficie.</p>
                         </div>
 

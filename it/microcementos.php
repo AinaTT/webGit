@@ -93,7 +93,7 @@
 
         <p> <strong>Topciment te ofrece un amplio abanico de posibilidades y acabados decorativos,</strong> donde el
           límite lo pones tú.
-          Imprime a las estancias un carácter único y personal gracias a las diferentes texturas (gruesa, media o fina);
+          Imprime a las estancias un carácter único y personal gracias a las Texture diverse (gruesa, media o fina);
           la gran variedad de colores de microcemento; y los distintos acabados que permiten nuestros barnices y
           revestimientos metálicos.</p>
 
@@ -188,7 +188,7 @@
           todas las opciones de aplicar microcemento en exteriores.</p>
 
           <p>Ahora que ya sabes dónde se puede aplicar, ha llegado el momento de que aprendas cómo hacerlo. 
-             <a class="links" href="microcemento/metodos-de-aplicacion-microcemento">En esta página</a> encontrarás el paso a paso de la aplicación de microcemento en suelos, paredes y piscinas.</p>
+             <a class="links" href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">En esta página</a> encontrarás el paso a paso de la aplicación de microcemento en suelos, paredes y piscinas.</p>
       </div>
     </div>
     <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/microcemento/imagen1.jpg');" data-img-width="1920" data-img-height="1281" data-diff="100" background-position="top">
@@ -1074,7 +1074,7 @@
             <div id="collapse11" aria-labelledby="heading11" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  La <a href="microcemento/metodos-de-aplicacion-microcemento">aplicación del
+                  La <a href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación del
                     microcemento</a>
                  es un trabajo artesanal, factores como la carga de material o el rodillo empleado en el sellado hacen que pueda haber pequeñas diferencias de brillo entre la muestra y la obra.. Los catálogos se sellan con rodillo, si el sellado se realiza con pistola se consigue un poco más de brillo.
                 </p>

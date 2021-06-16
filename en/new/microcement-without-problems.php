@@ -108,7 +108,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/microcement-without-problems"
+  },
+  "headline": "Microcement without problemas",
+  "image":"https://www.topciment.com/imagenes/evita-problemas-microcemento-con-profesionales.jpg",
+  "datePublished": "2020-01-22",
+  "dateModified": "2020-01-22",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"How to avoid problems with microcement? An application with Topciment products guarantees products of the best quality products, certified applicators and microcement experts"
+  
+}
 
+</script>
 </body>
 
 </html>

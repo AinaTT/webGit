@@ -16,13 +16,13 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Béton ciré bicomposant avec une meilleur maniabilitée | Unlimited</title>
-    <meta name="description" content="Le béton ciré Unlimited est le béton ciré bicomposant 
+    <title>béton ciré  bicomposant avec une meilleur maniabilitée | Unlimited</title>
+    <meta name="description" content="Le béton ciré  Unlimited est le béton ciré  bicomposant 
 avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre des finitions plus douces. "/>
-    <meta property="og:title" content="Béton ciré bicomposant avec une meilleur maniabilitée | Unlimited">
+    <meta property="og:title" content="béton ciré  bicomposant avec une meilleur maniabilitée | Unlimited">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/information-beton-cire/unlimitted">
-    <meta property="og:description" content="Le béton ciré Unlimited est le béton ciré bicomposant 
+    <meta property="og:description" content="Le béton ciré  Unlimited est le béton ciré  bicomposant 
 avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre des finitions plus douces. ">
     <meta property="og:type" content="article">
 
@@ -82,12 +82,12 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
 
                             <a id="que-es-unlimitted" class="ancla"></a>
 
-                            <h1 class="en2">Béton ciré bicomposant Unlimited </h1>
+                            <h1 class="en2">béton ciré  bicomposant Unlimited </h1>
                             <div class="text-justify">
 
 
 
-                                <p class="h3s"> Unlimitted est la nouvelle ligne de béton ciré bicomposant ( ciment + résine ).</p> C'est la version amélioré de la gamme Sttandard. Unlimited offre beaucoup
+                                <p class="h3s"> Unlimitted est la nouvelle ligne de béton ciré  bicomposant ( ciment + résine ).</p> C'est la version amélioré de la gamme Sttandard. Unlimited offre beaucoup
                                 d'avantages:
                                 <ul>
                                     <li> Améloire la maniabilité du matériel. </li>
@@ -146,11 +146,11 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <p>
 
                             <p class="h3s">
-                                Unlimitted Microbase C'est le béton ciré de préparation d'Unlimited.</p> Il est toujours utilisé avant
+                                Unlimitted Microbase C'est le béton ciré  de préparation d'Unlimited.</p> Il est toujours utilisé avant
                             la application de'Unlimited Microdeck S et Un limited Microdeck M.
 
                             </p>
-                            <p> Peut s'utiliser comme béton ciré de finition grâce à sa finition rustique.
+                            <p> Peut s'utiliser comme béton ciré  de finition grâce à sa finition rustique.
                             </p>
                             <p>Unlimitted Microbase est disponible en 3 granulométrie : L , XL, XXL.</p>
 
@@ -280,7 +280,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                         <div class="col-md-6">
                             <p>
 
-                            <p class="h3s">Unlimitted Microdeck il est utilisé comme béton ciré de finition.
+                            <p class="h3s">Unlimitted Microdeck il est utilisé comme béton ciré  de finition.
                             </p>
                             </p>
                             <p>Il peut être appliqué sur tous types de surfaces praticables et non praticables et dans
@@ -725,8 +725,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment à préparation bicomposante Microbase Unlimitted",
-    "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+    "name": "béton ciré à préparation bicomposante Microbase Unlimitted",
+    "description": "Préparation de béton ciré à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
     "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg",
     "brand": {
       "@type": "Organization",
@@ -798,8 +798,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment à préparation bicomposante Microbase Unlimitted L",
-        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "name": "béton ciré à préparation bicomposante Microbase Unlimitted L",
+        "description": "Préparation de béton ciré à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg",
         "size": "L",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
@@ -870,8 +870,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
       },
       {
         "@type": "Product",
-        "name": "Microciment à préparation bicomposante Microbase Unlimitted XL",
-        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "name": "béton ciré à préparation bicomposante Microbase Unlimitted XL",
+        "description": "Préparation de béton ciré à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
         "size": "XL",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
@@ -943,8 +943,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
       },
       {
         "@type": "Product",
-        "name": "Microciment à préparation bicomposante Microbase Unlimitted XXL",
-        "description": "Préparation de microciment à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
+        "name": "béton ciré à préparation bicomposante Microbase Unlimitted XXL",
+        "description": "Préparation de béton ciré à bicomposant utilisée pour le revêtement continu de faible épaisseur sur les sols et les murs.",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_XXL.jpg",
         "size": "XXL",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microbase",
@@ -1020,8 +1020,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée",
-      "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+    "name": "Microdeck, un béton ciré de finition à deux composants, sans limitation de durée",
+      "description": "béton ciré de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
     "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg",
     "brand": {
       "@type": "Organization",
@@ -1093,8 +1093,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée M",
-          "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+        "name": "Microdeck, un béton ciré de finition à deux composants, sans limitation de durée M",
+          "description": "béton ciré de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microdeck",
@@ -1165,8 +1165,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
       },
       {
         "@type": "Product",
-        "name": "Microdeck, un microciment de finition à deux composants, sans limitation de durée S",
-          "description": "Microciment de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
+        "name": "Microdeck, un béton ciré de finition à deux composants, sans limitation de durée S",
+          "description": "béton ciré de finition à deux composants pour le revêtement des sols et des murs intérieurs et extérieurs",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_S.jpg",
         "size": "S",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted#unlimitted-microdeck",

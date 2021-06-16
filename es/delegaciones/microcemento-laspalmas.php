@@ -3,269 +3,280 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000"/>
-    <meta name="viewport" content="width=device-width"/>
-
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
-
-
-    <?php include("../../assets/includes/styles.php"); ?>
-
-    <link rel="preload" href="../../assets/css/contacto.css" as="style"/>
-    <link rel="stylesheet" href="../../assets/css/contacto.css"/>
-
-
-
-    <title>Microcemento en Las Palmas y alrededores</title>
-    <meta name="description" content="Microcemento Las Palmas, aplicador de microcemento profesional en Las Palmas de Gran Canarias, Telde, Maspalomas"/>
-
-
-    <link rel="canonical" href="https://www.topciment.com/es/delegaciones/microcemento-laspalmas"/>
- <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-laspalmas" hreflang="es-ES"/>
-
-
+    <meta name="theme-color" content="#000" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
+    <meta name="Language" content="ES" /> <?php include("../../assets/includes/styles.php"); ?>
+    <link rel="preload" href="../../assets/css/contacto.css" as="style" />
+    <link rel="stylesheet" href="../../assets/css/contacto.css" />
+    <title>Microcemento en Las Palmas - Expertos en microcemento alisado</title>
+    <meta name="description"
+        content="Expertos microcemento alisado. Fabricantes y aplicadores de microcemento en Las Palmas: Las Palmas de Gran Canaria, Telde, Arrecife, Santa Lucía de Tirajana y Puerto del Rosario. " />
+    <link rel="canonical" href="https://www.topciment.com/es/delegaciones/microcemento-laspalmas" />
+    <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-laspalmas" hreflang="es-ES" />
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
-<body id="delegaciones">
-
-    <?php include("../includes/header.php"); ?>
-
-
-    <?php include("../includes/menu-movil.php"); ?>
-
-
+<body id="delegaciones"> <?php include("../includes/header.php"); ?> <?php include("../includes/menu-movil.php"); ?>
     <div id="main">
         <div class="clearfix">
             <section id="up">
                 <div class="fullscreen background parallax">
                     <div class="content-a">
                         <div class="map-wrap">
-                            <div class="overlay" onClick="style.pointerEvents='none'"></div><!-- wrap map iframe to turn off mouse scroll and turn it back on on click -->
-                            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d900852.8239651506!2d-15.439617!3d28.117361000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xc40950e91c097d1%3A0xab36b5ac5338ba65!2sLas+Palmas+de+Gran+Canaria%2C+Las+Palmas%2C+Espa%C3%B1a!5e0!3m2!1ses!2sus!4v1490255951577" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <div class="overlay" onClick="style.pointerEvents='none'"></div>
+                            <!-- wrap map iframe to turn off mouse scroll and turn it back on on click --> <iframe
+                                class="map"
+                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d900852.8239651506!2d-15.439617!3d28.117361000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xc40950e91c097d1%3A0xab36b5ac5338ba65!2sLas+Palmas+de+Gran+Canaria%2C+Las+Palmas%2C+Espa%C3%B1a!5e0!3m2!1ses!2sus!4v1490255951577"
+                                width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
-                </div><a id="contactanos" style="display: block; height: 135px; margin-top: -135px; visibility: hidden;"></a>
-
+                </div><a id="contactanos"
+                    style="display: block; height: 135px; margin-top: -135px; visibility: hidden;"></a>
                 <div class="container">
                     <div class="content">
-
-                        <h1 id="queeselmicrocemento" ><span style=" padding:5px;">Delegación Las Palmas</span></h1>
+                        <h1 class="h3"> Microcemento en Las Palmas - Expertos en microcemento alisado</h1>
                     </div>
-
                     <div class="container">
                         <div class="content">
-
-                            <div id="mitadTextoIzquierda" >
-                                <p>Disponemos de aplicadores profesionales y de confianza de microcemento Las Palmas, Molina de en Las Palmas de Gran Canarias, Telde, Maspalomas<br>
-                                </p>
-                                <p> Topciment - Delegación Las Palmas</p>
-                                <p>www.microcemento-laspalmas.com</p>
-
-                                <h2> Disponemos de aplicadores en las principales ciudades.</h2>
-                                <p>Ver todas las delegaciones</p>
-                                <form name="form" id="form">
-                                    <select name="jumpMenu" id="jumpMenu" style="margin-top: 5px;
-margin-bottom: 5px;
-color: #4d4d4d;
-color: #4d4d4d;
-width: 244px;
-height: 38px;
-border: #C9C9C9 solid thin;
-border-radius: 0;
-box-shadow: none;
-font-size: 13px;
--webkit-appearance: none;
--moz-appearance: none;
-background: #fff url(https://www.angelgrafico.es/microcemento/imagenes/select-arrow.png) no-repeat 90% center;
-padding-left: 5px;">
-
-                                        <option value="microcemento-barcelona">Barcelona</option>
-                                        <option value="microcemento-madrid">Madrid</option>
-                                        <option value="microcemento-valencia">Valencia</option>
-                                        <option value="microcemento-sevilla">Sevilla</option>
-                                        <option value="microcemento-malaga">Málaga</option>
-                                        <option value="microcemento-mallorca">Mallorca</option>
-                                        <option value="microcemento-zaragoza">Zaragoza</option>
-                                        <option value="microcemento-alicante">Alicante</option>
-                                        <option value="microcemento-tenerife">Tenerife</option>
-                                        <option value="microcemento-murcia">Murcia</option>
-                                        <option value="microcemento-laspalmas">Las Palmas</option>
-                                        <option value="microcemento-albacete">Albacete</option>
-                                        <option value="microcemento-alcala">Alcala</option>
-                                        <option value="microcemento-bilbao">Bilbao</option>
-                                        <option value="microcemento-caceres">Caceres</option>
-                                        <option value="microcemento-cadiz">Cádiz</option>
-                                        <option value="microcemento-cordoba">Córdoba</option>
-                                        <option value="microcemento-granada">Granada</option>
-                                        <option value="microcemento-huelva">Huelva</option>
-                                        <option value="microcemento-ibiza">Ibiza</option>
-                                        <option value="microcemento-leon">León</option>
-                                        <option value="microcemento-marbella">Marbella</option>
-                                        <option value="microcemento-vigo">Vigo</option>
-                                        <option value="microcemento-valladolid">Valladolid</option>
-                                    </select>
-                                    <input type="button" name="go_button" id="go_button" value="IR" onClick="MM_jumpMenuGo('jumpMenu','parent',0)" style="padding:10px; background-color:#000; color:#fff; font-size:16px; border: none; cursor:pointer; width:80px;">
-                                    <input type='hidden' id="zc_gad" name="zc_gad" value=""/>
-                                </form>
-                            </div>
-                            <div id="mitadTextoDerecha" >
-                                <h2>O rellene el siguiente formulario</h2>
-                                <div id='crmWebToEntityForm' style='width:300px;margin:auto;'>
-                                    <!-- Note :    - You can modify the font style and form style to suit your website.     - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code.     - The Mandatory check script can modified as to suit your business needs.     - It is important that you test the modified form before going live.    - Do not remove captcha and other form elements that are necessary for the form to work.  -->
-                                    <div id='crmWebToEntityForm' style='width:300px;margin:auto;'>
+                            <p> El microcemento Topciment es un revestimiento decorativo genial para <strong>transformar cualquier superficie y espacio,</strong> tanto interior como exterior, 
+                           <strong> rápidamente y sin obras con plenas garantías.</strong> Gracias a su mínimo espesor (entre 2 y 3 milímetros) y no
+                                necesitar de juntas de dilatación, en apenas días se obtienen revestimientos continuos
+                                en suelos, paredes, baños, duchas, encimeras, muebles, terrazas o piscinas. </p>
+                            <p><strong> Somos expertos en microcemento alisado</strong>. Desde nuestra fundación en 2005, somos una
+                                empresa dedicada a la <strong>venta y aplicación de microcemento en Las Palmas.</strong> Nuestra vasta
+                                trayectoria nos avala como especialistas no solo en Las Palmas, sino en el resto de
+                                España, Europa, América e incluso China. Contamos con una amplia red de distribuidores
+                                de microcemento Topciment en más de 58 países, un reconocimiento internacional que nos
+                                hemos ganado por las altas prestaciones y durabilidad de los <a href="../microcemento/fabricante-microcemento">microcementos que fabricamos</a>. </p>
+                            <p> Acabados decorativos de lo más singulares gracias a la amplia gama de colores de
+                                microcemento, texturas y barnices con los que contamos. La gran adherencia, flexibilidad
+                                y resistencia son las señas de identidad del <a href="../microcementos">microcemento</a>
+                                Topciment en Las Palmas. </p>
+                            <h2> Garantía del microcemento Topciment de Las Palmas</h2>
+                            <p> Además de las ventajas de nuestro microcemento alisado anteriormente mencionadas, en
+                                Topciment garantizamos, siempre y cuando se cumplan a rajatabla las indicaciones de las
+                                correspondientes fichas técnicas, lo siguiente: </p>
+                            <h3>1. El microcemento Topciment de Las Palmas no fisura</h3>
+                            <p> Utilizamos las mejores materias primas y materiales para fabricar nuestros microcementos
+                                en Las Palmas. Unas prestaciones técnicas inmejorables que garantizan que nuestro
+                                microcemento alisado no fisura a diferencia de otros productos del mercado. Una
+                                extraordinaria resistencia a la que hay que sumar la de los golpes, abrasión, desgaste,
+                                impermeabilidad frente al agua corriente... </p>
+                            <h3> 2. El microcemento Topciment de Las Palmas es compatible con cualquier material </h3>
+                            <p> La <strong>magnífica adherencia y flexibilidad</strong> de nuestro microcemento facilita que nuestros
+                                profesionales pueden revestir con él rápidamente y con plenas garantías sobre mármol,
+                                granito, azulejos, terrazo, hormigón y otros muchos soportes. Un microcemento alisado
+                                que ni se despega ni desconcha. </p>
+                            <h3>3. Durabilidad del microcemento Topciment de Las Palmas </h3>
+                            <p> La profesionalidad y capacitación de nuestros aplicadores de microcemento Topciment de
+                                Las Palmas, que realizarán el correspondiente sellado para proteger el futuro
+                                revestimiento de microcemento, asegurarán la durabilidad del soporte de microcemento. Un
+                                revestimiento de alto valor decorativo que permanecerá en un óptimo estado durante
+                                muchísimos años, cómo mínimo 10 años en revestimiento de paredes y 5 años en pavimentos
+                                continuos. </p>
+                            <h2>Aplicadores microcemento en Las Palmas</h2>
+                            <p> Contamos con un equipo de <strong>profesionales con décadas de experiencia en la aplicación de microcemento. </strong>Instaladores de microcemento alisado en la provincia de Las Palmas y que
+                                son instruidos constantemente. Personal acostumbrado a realizar todo tipo de reformas
+                                con microcemento en viviendas, oficinas, restaurantes, bares, hoteles, centros
+                                comerciales, cines y todo tipo de locales comerciales o negocios. </p>
+                            <p> <strong>¿Necesita reformar su vivienda o negocio?</strong> Los aplicadores de microcemento en Las Palmas
+                                estudiarán de manera pormenorizada su caso y le realizarán un<strong> presupuesto sin compromiso y totalmente gratuito.</strong> Dependiendo de la longitud de la superficie a recubrir,
+                                terminarán la obra en un día o en menos de una semana para que pueda disfrutar de su
+                                nuevo hogar y comercio lo antes posible.Sea cual sea las necesidades de su obra, será
+                             <strong>   asesorado en todo momento.</strong> </p>
+                            <h2>Obras con microcemento en la provincia de Las Palmas</h2>
+                            <p> Realizamos <strong>obras con microcemento por toda la provincia de Las Palmas,</strong> con especial
+                                hincapié en las principales localidades como Las Palmas de Gran Canaria, Telde, Santa
+                                Lucía de Tirajana, Arrecice, San Bartolomé de la Tirajana, Puerto del Rosario, Arucas,
+                                Agüimes, Ingenio, La Oliva y muchas más. </p>
+                            <h3> Obras con microcemento en Las Palmas de Gran Canaria </h3>
+                            <h3> Obras con microcemento en Telde </h3>
+                            <h3> Obras con microcemento en Santa Lucía de Tirajana </h3>
+                            <h3> Obras con microcemento en Arrecife </h3>
+                            <h3> Obras con microcemento en San Bartolomé de la Tirajana </h3>
+                            <h3> Obras con microcemento en Puerto del Rosario </h3>
+                            <h3> Obras con microcemento en Arucas </h3>
+                            <h3> Obras con microcemento en Agüimes </h3>
+                            <h3> Obras con microcemento en Ingenio </h3>
+                            <h3> Obras con microcemento en La Oliva </h3>
+                            <p> <strong>Si reside en otra localidad o municipio</strong> de la provincia de Las Palmas y le gustaría
+                                contratar los servicios de nuestros aplicadores de microcemento alisado, contacte con
+                                nosotros. Le escribiremos o llamaremos lo antes posible. </p>
+                            <h2>Cursos microcemento en Las Palmas</h2>
+                            <p> Para nosotros, es fundamental la formación de nuestros aplicadores oficiales de
+                                microcemento Topciment. Es por ello, que <strong>impartimos con frecuencia cursos de microcemento para profesionales del sector en Las Palmas.</strong> Una formación de vital
+                                importancia para garantizar una buena aplicación del producto y evitar problemas. </p>
+                            <p> Si está interesado o interesada en asistir a uno de nuestros cursos, contacta con
+                                nosotros y le informaremos del calendario, precio y programa formativo. </p>
+                            <h2>Departamento técnico de microcemento en Las Palmas</h2>
+                            <p> Somos expertos del microcemento alisado en todas sus facetas. Ponemos a vuestra
+                                disposición a todo un departamento técnico cualificado que os aconsejará y asesorará en
+                                todo lo que sea necesario. </p>
+                            <h2>Contacta con Topciment Microcemento en Las Palmas</h2>
+                            <p> Si le gustaría saber más sobre nosotros, resolver cuestiones, solicitar un presupuesto
+                                para una obra con microcemento en Las Palmas y alrededores o apuntarse a uno de nuestros
+                                cursos, complete el siguiente formulario. Le responderemos lo antes posible. </p>
+                                  <div id='crmWebToEntityForm' style='margin:auto;'>
                                         <META HTTP-EQUIV='content-type' CONTENT='text/html;charset=UTF-8'>
-                                        <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset=\"UTF-8\"; return checkMandatory2193829000000221001()' accept-charset='UTF-8'>
+                                        <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+                                        <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory2193829000000221001()' accept-charset='UTF-8'>
+
                                             <!-- Do not remove this code. -->
                                             <input type='text' style='display:none;' name='xnQsjsdp' value='0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf' />
                                             <input type='hidden' name='zc_gad' id='zc_gad' value='' />
                                             <input type='text' style='display:none;' name='xmIwtLD' value='b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e' />
                                             <input type='text' style='display:none;' name='actionType' value='TGVhZHM=' />
-                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias.html' />
+
+                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias' />
                                             <!-- Do not remove this code. -->
                                             <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
                                             <input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
                                             <!-- Do not remove this code. -->
-                                            <style>
-                                                tr,
-                                                td {
-                                                    padding: 6px;
-                                                    border-spacing: 0px;
-                                                    border-width: 0px;
-                                                }
-                                            </style>
-                                            <table style='width:300px;background-color:#ffffff;color:black'>
-                                                <tr>
-                                                    <td colspan='2' style='text-align:left;color:black;font-family:Arial;font-size:16px;'><strong>&iquest;Podemos ayudarle&#x3f;</strong></td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Nombre<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='text' maxlength='40' style='width:250px;' name='First Name'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Apellidos<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='text' maxlength='80' style='width:250px;' name='Last Name'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Correo electrónico<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='text' maxlength='100' style='width:250px;' name='Email'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Teléfono<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='text' maxlength='30' style='width:250px;' name='Phone'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Localidad / Provincia<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='text' maxlength='100' style='width:250px;' name='City'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Autorización cesión datos a terceros<span style='color:red;'>*</span>Si usted es cliente final necesitamos su consentimiento expreso para enviar sus datos de contacto</span>
-                                                        <br>
-                                                        <input type='checkbox' name='LEADCF106'></input>
-                                                    </td>
-                                                    <td></td>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>He leído y acepto la política de privacidad
-                                                            <span style='color:red;'>*</span><a href='https://www.topciment.com/es/condiciones-uso-politica-privacidad' target='_blank'>Acepta las condiciones de uso y la pol&iacute;tica de protecci&oacute;n de datos de Topciment.</a></span>
-                                                        <br>
-                                                        <input type='checkbox' name='LEADCF102'></input>
-                                                    </td>
-                                                    <td></td>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Acepto recibir comunicaciones comerciales<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <input type='checkbox' name='LEADCF109'></input>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Usted es<span style='color:red;'>*</span></span>
-                                                        <br>
-                                                        <select style='width:250px;' name='LEADCF11' multiple>
+                                            <div class="formulario">
+                                                <div class=" card-block border-radius mt-5">
+                                                    <div class="text-center mt-3 mb-4" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "2"}'>
+                                                        <h2 style="   font-size: 35px;	font-weight: 400;">¿Podemos ayudarte?</h2>
+                                                    </div>
+
+                                                    <div class="form-group input-group">
+                                                        <span class="has-float-label">
+                                                            <input name='First Name' maxlength='40' class="form-control" id="first" type="text" placeholder="Su nombre"/>
+                                                            <label for="first">Nombre<span style='color:red;'>*</span></label>
+                                                        </span>
+                                                        <label class="has-float-label">
+                                                            <input name='Last Name' maxlength='80' class="form-control" type="text" placeholder="Sus apellidos"/>
+                                                            <span>Apellidos<span style='color:red;'>*</span></span>
+                                                        </label>
+                                                    </div>
+
+                                                    <div class="form-group input-group">
+                                                        <span class="input-group-addon">@</span>
+                                                        <label class="has-float-label">
+                                                            <input name='Email' maxlength='100' class="form-control" type="text" placeholder="email@ejemplo.com"/>
+                                                            <span>E-mail<span style='color:red;'>*</span></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-group has-float-label">
+                                                        <input name='Phone' maxlength='30' class="form-control" id="telefono" type="text" placeholder="Ej: +34 666 565 852"/>
+                                                        <label for="telefono">Teléfono<span style='color:red;'>*</span></label>
+                                                    </div>
+                                                    <div class="form-group has-float-label">
+                                                        <input name='City' maxlength='30' class="form-control" id="localidad" type="text" placeholder="Ej: Valencia"/>
+                                                        <label for="localidad">Localidad/Provincia<span style='color:red;'>*</span></label>
+                                                    </div>
+                                                    <label class="form-group has-float-label">
+                                                        <select name='LEADCF11' multiple class="form-control custom-select">
                                                             <option value='Aplicador'>Aplicador</option>
                                                             <option value='Cliente&#x20;final'>Cliente final</option>
                                                             <option value='Distribuidor'>Distribuidor</option>
-                                                            <option value='Fabricante'>Fabricante</option>
-                                                            <option value='Arquitecto'>Arquitecto</option>
-                                                            <option value='Decorador'>Decorador</option>
+                                                            <option value="Fabricante">Fabricante</option>
                                                         </select>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>Mensaje</span>
-                                                        <br>
-                                                        <textarea maxlength='2000' style='width:250px;' name='LEADCF9' style='width:250px;'>&nbsp;</textarea>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;font-size:14px;font-family:Arial;width:200px;line-height: 22px;'>C&oacute;mo nos ha conocido</span>
-                                                        <br>
-                                                        <select style='width:250px;' name='LEADCF35'>
-                                                            <option value='-None-'>-None-</option>
-                                                            <option value='Festool'>Festool</option>
-                                                            <option value='Google'>Google</option>
-                                                            <option value='Conocidos'>Conocidos</option>
-                                                            <option value='Revistas'>Revistas</option>
-                                                            <option value='Redes&#x20;sociales'>Redes sociales</option>
-                                                            <option value='Otros'>Otros</option>
+                                                        <span>Usted es:</span>
+                                                    </label>
+                                                    <div class="form-group has-float-label">
+                                                        <textarea name='LEADCF9' maxlength='2000' class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                        <span>Mensaje:</span>
+                                                    </div>
+                                                    <label class="form-group has-float-label">
+                                                        <select name='LEADCF35' class="form-control custom-select">
+                                                            <option value="Google">Google</option>
+                                                            <option value="Conocidos">Conocidos</option>
+                                                            <option value="Festool">Festool</option>
+                                                            <option value="Revistas">Revistas</option>
+                                                            <option value="Redes&#x20;sociales">Redes sociales</option>
+                                                            <option value="Otros">Otros</option>
                                                         </select>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td><span style='nowrap:nowrap;text-align:top;font-size:14px;font-family:Arial;width:200px;line-height:22px;'>Introduzca el captcha</span>
-                                                        <br>
-                                                        <input type='text' style='width:250px;' maxlength='80' name='enterdigest' />
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <!-- Do not remove this code. -->
-                                                    <td><img id='imgid' src='https://crm.zoho.com/crm/CaptchaServlet?formId=b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e&grpid=0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf'> <a href='javascript:;' onclick='reloadImg()'>Recargar</a></td>
-                                                </tr>
-                                                <tr>
-                                                <tr style='display:none;'>
-                                                    <td style='nowrap:nowrap;text-align:top;font-size:14px;font-family:Arial;width:50%'></td>
-                                                    <td style='width:250px;'>
-                                                        <select style='width:250px;' name='Lead Source'>
-                                                            <option selected value='Web'>Web</option>
-                                                        </select>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                <tr style='display:none;'>
-                                                    <td style='nowrap:nowrap;text-align:top;font-size:14px;font-family:Arial;width:50%'>Idioma</td>
-                                                    <td style='width:250px;'>
-                                                        <select style='width:250px;' name='LEADCF34' multiple>
-                                                            <option selected value='Espa&ntilde;ol'>Espa&ntilde;ol</option>
-                                                        </select>
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan='2' style='text-align:left; padding-top:15px;font-size:14px;'>
-                                                        <input style='font-size:14px;color:black' type='submit' value='Enviar' />
-                                                        <input type='reset' style='font-size:14px;color:black' value='Restablecer' />
-                                                    </td>
-                                                </tr>
-                                            </table>
+                                                        <span>¿Cómo nos ha conocido?:</span>
+                                                    </label>
+                                                    <div class='g-recaptcha' data-sitekey='6LfrYPwUAAAAAEBodEiAqDVxHWRVeHwl1oOm-ov3' data-theme='light' data-callback='rccallback' captcha-verified='false' id='recap'></div>
+                                                    <!--  <div class="form-group input-group">
+                          
+
+                                                    <select style='display: none !important;' name='Lead Source'>
+                                                        <option value='-None-'>-None-</option>
+                                                        <option value='Feria'>Feria</option>
+                                                        <option value='00&#x20;Importado&#x20;A3ERP'>00 Importado A3ERP</option>
+                                                        <option value='04&#x20;Captaci&oacute;n&#x20;nuestra'>04 Captaci&oacute;n nuestra</option>
+                                                        <option value='05&#x20;Distribuidor'>05 Distribuidor</option>
+                                                        <option value='Facebook'>Facebook</option>
+                                                        <option selected value='Web'>Web</option>
+                                                        <option value='Festool'>Festool</option>
+                                                        <option value='Recuperado&#x20;de&#x20;Topciment'>Recuperado de Topciment</option>
+                                                        <option value='Cambio&#x20;de&#x20;nombre'>Cambio de nombre</option>
+                                                    </select>
+
+                                                    <!-- /Invisible -->
+                                                    <div class="form-group">
+                                                        <label class="custom-control custom-checkbox">
+                                                            <input name='LEADCF102' class="custom-control-input" type="checkbox"/>
+                                                            <span class="custom-control-indicator "></span>
+                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="../condiciones-uso-politica-privacidad"></a>
+                                                                política de
+                                                                privacidad<span style='color:red;'>*</span></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="custom-control custom-checkbox">
+                                                            <input name='LEADCF109' class="custom-control-input" type="checkbox"/>
+                                                            <span class="custom-control-indicator"></span>
+                                                            <span class="custom-control-description">Acepto recibir comunicaciones comerciales<span style='color:red;'>*</span></span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="custom-control custom-checkbox">
+                                                            <input name='LEADCF106' class="custom-control-input" type="checkbox"/>
+                                                            <span class="custom-control-indicator"></span>
+                                                            <span class="custom-control-description">Autorizo la cesión de mis datos a
+                                                                terceros.Necesitamos tu consentimiento expreso para compartir tus datos de contacto y tu
+                                                                solicitud con distribuidores y aplicadores en tu localidad<span style='color:red;'>*</span></span>
+                                                        </label>
+                                                    </div>
+                                                    <select style='display: none;' name='LEADCF34' multiple>
+                                                        <option value='Alem&aacute;n'>Alem&aacute;n</option>
+                                                        <option value='Chino'>Chino</option>
+                                                        <option selected value='Espa&ntilde;ol'>Espa&ntilde;ol</option>
+                                                        <option value='Franc&eacute;s'>Franc&eacute;s</option>
+                                                        <option value='Griego'>Griego</option>
+                                                        <option value='Holand&eacute;s'>Holand&eacute;s</option>
+                                                        <option value='Ingl&eacute;s'>Ingl&eacute;s</option>
+                                                        <option value='Italiano'>Italiano</option>
+                                                        <option value='Portugu&eacute;s'>Portugu&eacute;s</option>
+                                                        <option value='Rumano'>Rumano</option>
+                                                        <option value='Ruso'>Ruso</option>
+                                                        <option value='Turco'>Turco</option>
+                                                    </select>
+                                                    <input type='submit' value='Enviar' id='formsubmit' class="btn float-left btn-primary leermass mt-2"/>
+                                                    <input type='reset' name='reset' value='Restablecer' class="btn float-left btn-primary leermass mt-2"/>
+                                                </div>
+                                            </div>
+
                                             <script>
-                                                var mndFileds = new Array('First Name', 'Last Name', 'Email', 'LEADCF11', 'LEADCF102', 'LEADCF109', 'LEADCF106', 'Phone', 'City');
-                                                var fldLangVal = new Array('Nombre', 'Apellidos', 'Correo electrónico', 'Usted es', 'He leído y acepto la política de privacidad', 'Acepto recibir comunicaciones comerciales', 'Autorización cesión datos a terceros', 'Teléfono', 'Localidad / Provincia');
+                                                var mndFileds = new Array('First Name', 'Last Name', 'Email', 'LEADCF11', 'LEADCF102',
+                                                    'LEADCF109',
+                                                    'LEADCF106', 'Phone', 'City');
+                                                var fldLangVal = new Array('Nombre', 'Apellidos', 'Correo electrónico', 'Usted es',
+                                                    'He leído y acepto la política de privacidad', 'Acepto recibir comunicaciones comerciales',
+                                                    'Autorización cesión datos a terceros', 'Teléfono', 'Localidad / Provincia');
                                                 var name = '';
-                                                var email = ''; /* Do not remove this code. */
-                                                function reloadImg() {
-                                                    if (document.getElementById('imgid').src.indexOf('&d') !== -1) {
-                                                        document.getElementById('imgid').src = document.getElementById('imgid').src.substring(0, document.getElementById('imgid').src.indexOf('&d')) + '&d' + new Date().getTime();
-                                                    } else {
-                                                        document.getElementById('imgid').src = document.getElementById('imgid').src + '&d' + new Date().getTime();
+                                                var email = '';
+
+                                                /* Do not remove this code. */
+                                                function rccallback() {
+                                                    document.getElementById('formsubmit').removeAttribute('disabled');
+                                                    if (document.getElementById('privacyTool') != undefined) {
+                                                        var recap = document.getElementById('recap');
+                                                        recap.setAttribute('captcha-verified', true);
+                                                    }
+                                                }
+
+                                                function checkReCapSubmit() {
+                                                    if (document.getElementById('recap') != undefined) {
+                                                        var submitbutton = document.getElementById('formsubmit');
+                                                        var recap = document.getElementById('recap');
+                                                        if (recap.getAttribute('captcha-verified') == 'false') {
+                                                            submitbutton.setAttribute('disabled', true);
+                                                        }
                                                     }
                                                 }
 
@@ -273,7 +284,7 @@ padding-left: 5px;">
                                                     for (i = 0; i < mndFileds.length; i++) {
                                                         var fieldObj = document.forms['WebToLeads2193829000000221001'][mndFileds[i]];
                                                         if (fieldObj) {
-                                                            if (((fieldObj.value).replace(/^\\\s+|\\\s+$/g, '')).length == 0) {
+                                                            if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length == 0) {
                                                                 if (fieldObj.type == 'file') {
                                                                     alert('Seleccione un archivo para cargar.');
                                                                     fieldObj.focus();
@@ -305,103 +316,22 @@ padding-left: 5px;">
                                                     trackVisitor();
                                                 }
                                             </script>
-                                            <script type='text/javascript' id='VisitorTracking'>
-                                                var $zoho = $zoho || {};
-                                                $zoho.salesiq = $zoho.salesiq || {
-                                                    widgetcode: '7e78cb83d15a60689cfbb20a8903bc4acf81a6c960d39dee1212f343ec7821c9533163b23229b79e91104310dadb43de',
-                                                    values: {},
-                                                    ready: function() {
-                                                        $zoho.salesiq.floatbutton.visible('hide');
-                                                    }
-                                                };
-                                                var d = document;
-                                                s = d.createElement('script');
-                                                s.type = 'text/javascript';
-                                                s.id = 'zsiqscript';
-                                                s.defer = true;
-                                                s.src = 'https://salesiq.zoho.com/widget';
-                                                t = d.getElementsByTagName('script')[0];
-                                                t.parentNode.insertBefore(s, t);
 
-                                                function trackVisitor() {
-                                                    try {
-                                                        if ($zoho) {
-                                                            var LDTuvidObj = document.forms['WebToLeads2193829000000221001']['LDTuvid'];
-                                                            if (LDTuvidObj) {
-                                                                LDTuvidObj.value = $zoho.salesiq.visitor.uniqueid();
-                                                            }
-                                                            var firstnameObj = document.forms['WebToLeads2193829000000221001']['First Name'];
-                                                            if (firstnameObj) {
-                                                                name = firstnameObj.value + ' ' + name;
-                                                            }
-                                                            $zoho.salesiq.visitor.name(name);
-                                                            var emailObj = document.forms['WebToLeads2193829000000221001']['Email'];
-                                                            if (emailObj) {
-                                                                email = emailObj.value;
-                                                                $zoho.salesiq.visitor.email(email);
-                                                            }
-                                                        }
-                                                    } catch (e) {}
-                                                }
-                                            </script>
+
                                         </form>
                                         <!-- Do not remove this code. -->
                                         <iframe name='captchaFrame' style='display:none;'></iframe>
                                     </div>
-                                    <!-- Do not remove this code. -->
-                                    <iframe name='captchaFrame' style='display:none;'></iframe>
-                                    <!--js-->
-                                    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
-                                    <p>
-                                </div>
-                                <div id="separador50px"></div>
-                                <p><img src="https://www.topciment.com/imagenes/microcemento-laspalmas.jpg" width="100%" alt="Precio microcemento en Las Palmas"><br>
-                                    <!--<div id="mitadTextoIzquierda" >
-			  <h2>Referente en la fabricación de morteros técnicos y microcementos<br>
-			    </h2>
-			  <p>En Topciment contamos con más de 8 años de experiencia en nuestro sector. Con el objetivo de proporcionar a los clientes un producto de alta calidad a precios competitivos, lo acompañamos con asesoramiento y atención personalizados.</p>
-		    <p>La calidad de nuestros productos es el resultado de un feedback continuo entre clientes, y nuestros técnicos encargados de desarrollar el producto en fábrica. Esta experiencia se traslada nuestros clientes profesionales mediante formación y asesoramiento técnico permanente.</p>
-			  <p><img src="https://www.topciment.com/imagenes/tienda-topciment-microcemento-valencia.jpg" width="100%" alt="tienda de productos topciment"><br>
-		    </p>
-			  <h2>Asesoramiento técnico y comercial<br>
-			    </h2>
-			  <p>Atención personalizada de profesionales del microcemento, que te recomendarán los productos necesarios para trabajar correctamente con el revestimiento. Tenemos un servicio de asesoramiento técnico y comercial con atención telefónica y a través de mensajería instantánea. No dudes en pedir consejos y conocer todos los trucos.</p>
-			  <p>También contamos con &quot;El rincón del aplicador&quot; donde puedes ver videotutoriales con todos los métodos de aplicación del microcemento.</p>
-			  <h2>&nbsp;</h2>
-        </div>
-		  <div id="mitadTextoDerecha" >
-		    <h2>Topciment - Oficinas en Valencia<br>
-		      </h2>
-		    <p>Plaza Rojas Clemente, 17 - Valencia, 46008 - España<br>
-		      Tel: +34 963 92 59 89<br>
-		      Email: info@topciment.com</p>
-		    <p><img src="https://www.topciment.com/imagenes/topciment-valencia.jpg" width="100%" alt="Topciment - Oficinas en Valencia"></p>
 
-<h2>En Valencia, exposición y formación<br>
-	        </h2>
-		    <p>Nuestro Showroom es una herramienta para que los aplicadores puedan enseñarles a sus clientes que quieran ver y tocar los diferentes acabados y colores. En nuestra Exposición tienen acceso a muestras naturales de todos los colores, de texturas en suelos y paredes y muestras de los efectos metalizados.</p>
-		    <p><img src="https://www.topciment.com/imagenes/topciment-exposicion-colores-microcemento.jpg" width="100%" alt="Nuestro Showroom"></p>
-		    <p>Somos conscientes de la falta de información sobre el microcemento. Las ventajas de este revestimientos continuos son muchas, y sus características son para la mayoría desconocidas. Es por esto que impartimos cursos básicos y avanzados una vez al mes, en nuestras instalaciones en Valencia. Esta formación es de pago y completamente reembolsable con el siguiente pedido de producto, contactarnos para más información.</p>
-		  </div>-->
-                                <div id="separador50px"></div>
-                            </div>
+                            <div id="separador50px"></div>
                         </div>
                     </div>
                 </div>
-            </section>
-
-            <div id="separador50px">
-            </div>
-
         </div>
+        </section>
+        <div id="separador50px"> </div>
     </div>
-
-    <?php include "../includes/footer.php"; ?>
-
-    <?php include "../../assets/includes/scripts.php"; ?>
-    </div>
-
-
+    </div> <?php include "../includes/footer.php"; ?> <?php include "../../assets/includes/scripts.php"; ?> </div>
 </body>
 
 </html>

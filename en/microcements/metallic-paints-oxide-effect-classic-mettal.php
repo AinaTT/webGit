@@ -32,15 +32,7 @@
         content="Create unique decorative finishes on walls and furniture with Classic Mettal, our metallic and rust effect paints. Ready-to-use paints that can be applied on microcement, concrete, brick, ceramic and even metals. Discover them.">
     <meta property="og:type" content="article">
     <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
+        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg"> 
 
 
     <link rel="canonical"
@@ -77,14 +69,13 @@
                                 <a href="#up" style="font-size:26px">Classic Mettal</a>
                             </li>
                             <li>
-                                <h2><a href="#que-es-classic-mettal">What is Classic Mettal?</a></h2>
+                                <a href="#que-es-classic-mettal">What is Classic Mettal?</a> 
                             </li>
                             <li>
-                                <h2><a href="#puremetal-aluminium">Classic Mettal </a></h2>
+                                <a href="#puremetal-aluminium">Classic Mettal </a> 
                             </li>
-                            <li>
-                                <h2><a href="#aplicacion">Application</a></h2>
-                            </li>
+                              <li> <a href="#colores">Finishes</a> </li>
+                            <li> <a href="#aplicacion">Application</a> </li>
                         </ul>
                     </div>
                     <div class="content">
@@ -140,6 +131,7 @@
                             src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Generico_Web.png" " "
                             title=" Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
+                    <a id="colores" class="ancla"></a>
                     <h2>Types of Classic Mettal metallic and rust effect paints</h2>
 
                     <p>

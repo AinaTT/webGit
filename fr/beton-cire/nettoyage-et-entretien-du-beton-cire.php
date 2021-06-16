@@ -14,18 +14,18 @@
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
     <title>
-        Nettoyage et entretien béton ciré | Cires protectrices et nettoyeurs
+        Nettoyage et entretien béton ciré  | Cires protectrices et nettoyeurs
     </title>
     <meta name="description"
-        content="Tirez le meilleur parti du nettoyage et de l'entretien de vos revêtements en béton ciré.Découvrez nos cires protectrices et nos nettoyants biodégradable." />
+        content="Tirez le meilleur parti du nettoyage et de l'entretien de vos revêtements en béton ciré .Découvrez nos cires protectrices et nos nettoyants biodégradable." />
 
 
-    <meta property="og:title" content="Nettoyage et entretien béton ciré | Cires protectrices et nettoyeurs
+    <meta property="og:title" content="Nettoyage et entretien béton ciré  | Cires protectrices et nettoyeurs
 ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/nettoyage-et-entretien-du-beton-cire">
     <meta property="og:description"
-        content="Tirez le meilleur parti du nettoyage et de l'entretien de vos revêtements en béton ciré.Découvrez nos cires protectrices et nos nettoyants biodégradable.">
+        content="Tirez le meilleur parti du nettoyage et de l'entretien de vos revêtements en béton ciré .Découvrez nos cires protectrices et nos nettoyants biodégradable.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/ecoclean/limpieza_fondo_02.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/ecoclean/limpieza_fondo_02.jpg">
@@ -61,7 +61,7 @@
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
                                 <li>
-                                    <p> <a href="#up">Nettoyage et entretien <br> du béton ciré </a> </p>
+                                    <p> <a href="#up">Nettoyage et entretien <br> du béton ciré  </a> </p>
                                 </li>
                                 <li>
                                     <a href="#que-es-limpieza">Qu'est-ce que c'est ?</a>
@@ -82,12 +82,12 @@
                         </div> <a id="que-es-limpieza" class="ancla"></a>
                         <div class="content">
 
-                            <h1 class="en3"> Nettoyage et entretien béton ciré | Cires protectrices et nettoyeurs
+                            <h1 class="en3"> Nettoyage et entretien béton ciré  | Cires protectrices et nettoyeurs
                             </h1>
                             <div class="text-justify">
 
                                 <p>
-                                    Le béton ciré est un matériel avec des caractéristiques et propriétés
+                                    Le béton ciré  est un matériel avec des caractéristiques et propriétés
                                     très particulières
                                     .Pour cela , il est necessaire d'utiliser les produits adéquates qui garantissent un
                                     entretien optimum.
@@ -95,7 +95,7 @@
 
 
                                 <p>Topciment à développer quatre produits spécifiques pour le nettoyage et la
-                                    maintenance du béton ciré.
+                                    maintenance du béton ciré .
 
                                 </p>
 
@@ -133,14 +133,14 @@
                         </div>
                         <!-- descaripcion -->
                         <div class="col-md-6">
-                            <h2>Nettoyant béton ciré Ecoclean Basic </h2>
+                            <h2>Nettoyant béton ciré  Ecoclean Basic </h2>
                             <p>
                                 Ecoclean Basic est un nettoyant détergent écologique, respectueux de l'environnement et
-                                idéal pour le nettoyage des surfaces enduites de béton ciré.
+                                idéal pour le nettoyage des surfaces enduites de béton ciré .
 
                             </p>
                             <p>
-                                Conçu avec des ingrédients biodégradables, ce nettoyant pour béton ciré légèrement
+                                Conçu avec des ingrédients biodégradables, ce nettoyant pour béton ciré  légèrement
                                 alcalin est très efficace contre les saletés domestiques les plus courantes telles que
                                 la graisse, les restes de nourriture, les traces de calcaire, l'huile, le vin, le sang,
                                 le chocolat, etc.
@@ -148,7 +148,7 @@
                             </p>
                             <p>
                                 Mais Ecoclean Basic est non seulement efficace pour éliminer la saleté domestique
-                                quotidienne sur le béton ciré, mais également sur d'autres matériaux tels que le marbre,
+                                quotidienne sur le béton ciré , mais également sur d'autres matériaux tels que le marbre,
                                 les carreaux ou le granit.
 
                             </p>
@@ -194,9 +194,9 @@
                         Présentation</p>
                     <p>Ecoclean Basic se présente en bidons plastiques de 1 et 5 litres.
                     </p>
-                    <h3>Où appliquer le nettoyant pour béton ciré Ecoclean Basic</h3>
+                    <h3>Où appliquer le nettoyant pour béton ciré  Ecoclean Basic</h3>
                     <p>
-                        Bien qu'Ecoclean Basic soit fortement recommandé pour le nettoyage du béton ciré, il est tout
+                        Bien qu'Ecoclean Basic soit fortement recommandé pour le nettoyage du béton ciré , il est tout
                         aussi efficace pour éliminer la saleté domestique sur les substrats en marbre, granit,
                         carrelage, céramique, grès ou béton poli, entre autres.
 
@@ -234,23 +234,23 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Nettoyant béton ciré Ecoclean Pro</h2>
+                            <h2>Nettoyant béton ciré  Ecoclean Pro</h2>
                             <p>
                                 Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés
-                                tenaces et persistante. Ce nettoyant de surface pour béton ciré a été conçu avec des
+                                tenaces et persistante. Ce nettoyant de surface pour béton ciré  a été conçu avec des
                                 ingrédients biodégradables et respectueux de l'environnement.
 
                             </p>
                             <p>
                                 De caractère alcalin et avec un grand pouvoir séquestrant et détergent, ce nettoyant
-                                pour béton ciré est capable d'éradiquer presque tous les types de taches et marques:
+                                pour béton ciré  est capable d'éradiquer presque tous les types de taches et marques:
                                 suie, graisse, restes de nourriture, biofilm, traces de calcaire, marques de pneus,
                                 agents de démoulage, pollution, etc. etc. .
 
                             </p>
                             <p>
                                 Pouvant éliminer les saletés les plus incrustées, Ecoclean Pro est destiné au nettoyage
-                                professionnel et industriel non seulement des substrats en béton ciré, mais aussi des
+                                professionnel et industriel non seulement des substrats en béton ciré , mais aussi des
                                 terrasses, du béton estampé, des carreaux, du grès, des mortiers ou des mortiers.
 
                             </p>
@@ -326,9 +326,9 @@
                         Présentation</p>
                     <p>Ecoclean Pro est présenté en emballages platique de 1 , 5 et 25 litres.
                     </p>
-                    <h3>Où appliquer le nettoyant pour béton ciré Ecoclean Pro</h3>
+                    <h3>Où appliquer le nettoyant pour béton ciré  Ecoclean Pro</h3>
                     <p>
-                        Ecoclean Pro n'est pas seulement extrêmement efficace pour nettoyer le béton ciré. Il est tout
+                        Ecoclean Pro n'est pas seulement extrêmement efficace pour nettoyer le béton ciré . Il est tout
                         aussi efficace sur les supports en pierre naturelle, carrelage, céramique, grès, mortiers,
                         béton, acier inoxydable, certains plastiques et peintures époxy, entre autres.
 
@@ -368,7 +368,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Cire protectrice béton ciré Ceraciment Basic</h2>+
+                            <h2>Cire protectrice béton ciré  Ceraciment Basic</h2>+
                             <p class="h3s">Ceraciment Basic est une cire de maintenance pour sols qui apporte dureté et
                                 un éclat
                                 naturel à n'importe quelle surface.</h3>
@@ -377,7 +377,7 @@
 
 
                                 Sa formule spéciale permet l'enrichissement et la pénétration des sols traités , indiqué
-                                spécialement pour des sols en béton ciré.
+                                spécialement pour des sols en béton ciré .
                                 Son application est destiné à un usage domestique.
                             </p>
 
@@ -476,7 +476,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Cire protectrice béton ciré Ceraciment Pro</h2>
+                            <h2>Cire protectrice béton ciré  Ceraciment Pro</h2>
                             <p class="h3s">Ceraciment Pro est une cire de maintenance pour les sols à haute résistance
                                 avec une
                                 finition métallique. Il s'agit d'un composé qui ne jaunit pas avec le temps et
@@ -584,7 +584,7 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Cire protectrice microciment Ceraciment Basic",
+    "name": "Cire protectrice béton ciré Ceraciment Basic",
          "description": "Ceraciment Basic est une cire d'entretien pour sols qui apporte dureté et brillance naturelle à toute surface.",
     "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
     "brand": {
@@ -658,7 +658,7 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Cire protectrice microciment Ceraciment Basic 5L",
+        "name": "Cire protectrice béton ciré Ceraciment Basic 5L",
              "description": "Ceraciment Basic est une cire d'entretien pour sols qui apporte dureté et brillance naturelle à toute surface.",
         "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
         "size": "5 L",
@@ -740,7 +740,7 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Cire protectrice pour microciment Ceraciment Pro",
+    "name": "Cire protectrice pour béton ciré Ceraciment Pro",
          "description": "Ceraciment Pro est une cire d'entretien pour les sols à usage intensif avec une finition métallique.",
     "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
     "brand": {
@@ -819,7 +819,7 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Cire protectrice pour microciment Ceraciment Pro 5L",
+        "name": "Cire protectrice pour béton ciré Ceraciment Pro 5L",
              "description": "Ceraciment Pro est une cire d'entretien pour les sols à usage intensif avec une finition métallique.",
         "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
         "size": "5 L",
@@ -901,7 +901,7 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Nettoyant de base pour microciment Ecoclean",
+    "name": "Nettoyant de base pour béton ciré Ecoclean",
          "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment.",
     "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
     "brand": {
@@ -980,7 +980,7 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Nettoyant de base pour microciment Ecoclean 1L",
+        "name": "Nettoyant de base pour béton ciré Ecoclean 1L",
              "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment..",
         "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
         "size": "1 L",
@@ -1058,7 +1058,7 @@
       },
       {
         "@type": "Product",
-        "name": "Nettoyant de base pour microciment Ecoclean 5 L",
+        "name": "Nettoyant de base pour béton ciré Ecoclean 5 L",
              "description": "Détergent nettoyant écologique, respectueux de l'environnement et adapté au nettoyage des surfaces revêtues de microciment..",
         "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
         "size": "5 L",
@@ -1141,7 +1141,7 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Nettoyant pour microciment Ecoclean Pro",
+    "name": "Nettoyant pour béton ciré Ecoclean Pro",
          "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
     "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
     "brand": {
@@ -1220,7 +1220,7 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Nettoyant pour microciment Ecoclean Pro 1L",
+        "name": "Nettoyant pour béton ciré Ecoclean Pro 1L",
              "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
         "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
         "size": "1 L",
@@ -1298,7 +1298,7 @@
       },
       {
         "@type": "Product",
-        "name": "Nettoyant pour microciment Ecoclean Pro 5 L",
+        "name": "Nettoyant pour béton ciré Ecoclean Pro 5 L",
              "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
         "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
         "size": "5 L",
@@ -1376,7 +1376,7 @@
       },
        {
         "@type": "Product",
-        "name": "Nettoyant pour microciment Ecoclean Pro 25 L",
+        "name": "Nettoyant pour béton ciré Ecoclean Pro 25 L",
              "description": "Ecoclean Pro est un nettoyant détergent écologique idéal pour éliminer les saletés les plus tenaces et les plus rebelles.",
         "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
         "size": "25 L",

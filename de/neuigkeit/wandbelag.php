@@ -17,17 +17,17 @@
 
     <title>Wandverkleidung: Wir haben die Lösung in Topciment</title>
     <meta name="description"
-        content="Mikrozement ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
+        content="mikrozement  ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
     <meta property="og:title" content="Wandverkleidung: Wir haben die Lösung in Topciment" />
     <meta property="og:description"
-        content="Der Mikrozement ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
+        content="Der mikrozement  ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
     <meta property="og:url" content="https://www.topciment.com/de/neuigkeit/wandbelag" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter: description"
-        content="Mikrozement ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
+        content="mikrozement  ein Material, das uns eine Qualität und ein ästhetisches und dauerhaftes Ergebnis gibt, das am besten für Wandverkleidungen geeignet ist" />
     <meta name="twitter:title" content="Wandverkleidungen: wir haben die Lösung in Topciment" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -67,8 +67,8 @@
                         durchzuführen und was ist die Technik, die uns mehr Ärger und Geld sparen wird. Wir suchen auch
                         nach einem Material, das uns Qualität und ein <strong>ästhetisches und dauerhaftes Ergebnis
                             liefert.</strong></p>
-                    <p>Mikrozement ist aufgrund seiner Widerstandsfähigkeit und einfachen Pflege ideal für jede Art von
-                        Verkleidung, aber <strong>wo Mikrozement mit seinem eigenen Licht glänzt, ist an
+                    <p>mikrozement  ist aufgrund seiner Widerstandsfähigkeit und einfachen Pflege ideal für jede Art von
+                        Verkleidung, aber <strong>wo mikrozement  mit seinem eigenen Licht glänzt, ist an
                             Wänden</strong>, besonders an solchen, die ständige Hygiene und Reinigung erfordern, wie
                         Küchen- oder Badezimmerwände. Dieses Material macht komplizierte Arbeiten und Verschmutzungen
                         überflüssig, so dass es ideal für alle Arten von Räumen ist.</p> <br> <img
@@ -77,7 +77,7 @@
                     <h2><strong>Topciment </strong>hat ein unschlagbares Produkt für die
                         <strong>Wandverkleidung</strong> entwickelt: Das <strong><a
                                 href="https://www.topciment.com/de/mikrozemente">Microfino</a></strong>. </h2>
-                    <p>Microfino</strong> ist ein Mikrozement für dekorative Oberflächen mit einer <strong>feinkörnigen
+                    <p>Microfino</strong> ist ein mikrozement  für dekorative Oberflächen mit einer <strong>feinkörnigen
                             Textur</strong>, die sich sehr angenehm und seidig anfühlt und einen charakteristischen
                         Wasserzeicheneffekt erzeugt. Diese Eigenschaften machen <strong>Microfino</strong> zum idealen
                         Produkt für Wandverkleidungen und zu einem von Designern und Innenarchitekten weltweit sehr
@@ -87,17 +87,17 @@
                     <p><strong>Eine weitere hochwertige Option, die Topciment seinen Kunden anbietet, ist
                             Microdeck.</strong> <strong><a
                                 href="https://www.topciment.com/de/mikrozemente">Microdeck</a></strong> ist ein
-                        Mikrozement mit mittlerer Struktur, der meist auf Fußböden verwendet wird, jedoch bei der
+                        mikrozement  mit mittlerer Struktur, der meist auf Fußböden verwendet wird, jedoch bei der
                         Anwendung auf Wänden mit dem <strong>"fresco-on-fresco"</strong>
                         erhalten Sie eine fast ebenso glatte, aber natürlichere Oberfläche als Microfino, da
                         Wasserzeichen weniger auffallen.</p> <br> <img
                         src="https://www.topciment.com/imagenes/revestimiento-paredes/revestimiento-paredes-con-microcemento-topciment.jpg"
-                        width="100%" alt="Wandverkleidungen mit Mikrozement"> <br><br><br>
-                    <p>Beide Produkte, kombiniert mit der <strong>">Farb-, Struktur- und Lackpalette</strong> von
+                        width="100%" alt="Wandverkleidungen mit mikrozement "> <br><br><br>
+                    <p>Beide Produkte, kombiniert mit der <strong>Farb-, Struktur- und Lackpalette</strong> von
                         Topciment, verleihen den Wandverkleidungen der Räume eine ästhetische Dimension, die über dem
                         Gewohnten liegt.</p>
-                   </div> </div> <?php include "../includes/footer.php"; ?>
-                        <?php include("../../assets/includes/scripts.php"); ?> </div> <!-- include jQuery -->
+                   </div> </div></div> <!-- include jQuery --> <?php include "../includes/footer.php"; ?>
+                        <?php include("../../assets/includes/scripts.php"); ?> 
 
 </body>
 

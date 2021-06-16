@@ -127,7 +127,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/festool"
+  },
+  "headline": "Topciment recommends Festool for perfect application",
+  "image":"https://www.topciment.com/imagenes/topciment-recomienda-festool.jpg",
+  "datePublished": "2020-01-18",
+  "dateModified": "2020-01-18",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"A good application of microcement is conditioned by is conditioned by several factors factors, the quality of the products quality products, the application technique application technique, but also but also the use of the best tools. tools."
+}
+</script>
 </body>
 
 </html>

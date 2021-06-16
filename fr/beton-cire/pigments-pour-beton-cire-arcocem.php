@@ -15,22 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/familia.css"/>
 
     <title>Pigments et couleurs de béton ciré | Arcocem </title>
-    <meta name="description" content="Renouvelez les surfaces et créez de nouveaux espaces à l'intérieur et à l'extérieur avec nos pigments et couleurs de béton ciré: gris, blanc, noir, rouge, vert ... Toute combinaison est possible.
+    <meta name="description" content="Renouvelez les surfaces et créez de nouveaux espaces à l'intérieur et à l'extérieur avec nos pigments et couleurs de béton ciré: gris, blanc, noir, rouge, vert ... Toute combinaison est possible..
 "/>
 
 
     <meta property="og:title" content="Pigments et couleurs de béton ciré | Arcocem ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/pigments-pour-beton-cire-arcocem">
-    <meta property="og:description" content="Renouvelez les surfaces et créez de nouveaux espaces à l'intérieur et à l'extérieur avec nos pigments et couleurs de béton ciré: gris, blanc, noir, rouge, vert ... Toute combinaison est possible.
+    <meta property="og:description" content="Renouvelez les surfaces et créez de nouveaux espaces à l'intérieur et à l'extérieur avec nos pigments et couleurs de béton ciré: gris, blanc, noir, rouge, vert ... Toute combinaison est possible..
  ">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
-
+    
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/pigments-pour-beton-cire-arcocem"/>
 
@@ -76,19 +72,19 @@
                             <a id="que-es-arcocem" class="ancla"></a>
                             <h1 class="en2">Pigments et couleurs de béton ciré | Arcocem
 </h1>
-                         <p>
-                              Arcocem est la gamme exclusive de pigments et de couleurs de béton ciréde Topciment. Une large gamme de pâtes pigmentaires composée de plus de 30 nuances avec lesquelles des finitions décoratives illimitées peuvent être obtenues dans les espaces intérieurs et extérieurs.
+                      
+<p>
+    Arcocem est la gamme exclusive de pigments et de couleurs de béton ciré de Topciment. Une large gamme de pâtes pigmentaires composée de plus de 30 nuances avec lesquelles des finitions décoratives illimitées peuvent être obtenues dans les espaces intérieurs et extérieurs.
 
-                         </p>    
+</p>    
 <p>
     Dans cette gamme de colorants liquides très concentrés qui s'ajoutent lors de la préparation du béton ciré, on retrouve deux gammes: Arcocem Basic et Arcocem Plus. Les deux sont compatibles avec tous types de surfaces: murs, sols, terrasses ... Avec Arcocem toute combinaison est possible pour rénover des pièces.
 
 </p>    
 <p>
-    D'une part, nous avons les couleurs de béton ciré Arcocem Basic: blanc, noir, bleu, rouge-orange, vert et jaune. Ces couleurs servent de base au large spectre de pigments de béton ciré qui composent Arcocem Plus. D'autre part, il y a Arcocem Plus. Ce sont les pâtes pigmentaires à dose unique desquelles sortent le reste des couleurs de béton ciré du vaste menu de Topciment. Parmi eux, une riche échelle de gris, l'une des couleurs les plus demandées par les professionnels.
+    D'une part, nous avons les couleurs de béton ciré Arcocem Basic: blanco, Negro, Negro de Humo, amarillo, amarillo limon, amarillo vainilla, rojo, rojo intenso, rojo naranja, naranja, asul, verde et magenta. Ces couleurs servent de base au large spectre de pigments de béton ciré qui composent Arcocem Plus. D'autre part, il y a Arcocem Plus. Ce sont les pâtes pigmentaires à dose unique à partir desquelles sont produites le reste des couleurs de béton ciré du vaste menu de Topciment. Parmi eux, une riche échelle de gris, l'une des couleurs les plus demandées par les professionnels.  
 
 </p>    
-
 
                         </div>
                     </div>
@@ -117,11 +113,26 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                           <h2>Couleurs du béton ciré Arcocem Basic </h2>
+                           <h2>Couleurs de béton ciré Arcocem Basic
+ </h2>
 
-                            <p class="h3s">Arcocem Basic est le nom des pâtes pigmentaires de base de Topciment. Il s'agit d'une gamme de couleurs de béton ciréen dispersion aqueuse, qui permet d'obtenir toutes les couleurs disponibles dans la charte de pigments Topciment. Ils sont également utilisés pour la préparation de monodose / Arcocem Plus utilisé dans la coloration du béton ciré.
+                            
+<p>
+    Arcocem Basic est le nom des pâtes pigmentaires de base de Topciment. C'est une gamme de couleurs de béton ciré en dispersion aqueuse, qui permet d'obtenir toutes les couleurs disponibles dans le nuancier de béton ciré Topciment.
 
-                            </p>
+</p>    
+<p>
+    Les pâtes pigmentaires en dispersion aqueuse Arcocem Basic offrent une large gamme d'applications qui vont au-delà des revêtements pigmentaires en béton ciré: peintures, artisanat, artisanat et matériaux de construction, entre autres.
+
+</p>    
+<p>
+    Un total de 13 couleurs de béton ciré composent la famille Arcocem Basic de Topciment: blanco, negro, Negro de Humo, azul, magenta, verde, rojo, rojo naranja, rojo intenso, naranja, amarillo, amarillo limón et amarillo vainilla. Pigments de béton ciré dont la teinte ne varie pas d'un iota lorsqu'ils sont utilisés dans les revêtements extérieurs, à l'exception du rojo intenso, dont l'intensité peut diminuer à l'extérieur.
+
+</p>    
+<p>
+    Ils sont également utilisés pour la préparation de monodose (Arcocem Plus) utilisé dans la coloration du béton ciré. Parmi ses qualités, la haute résistance qu'ils présentent aux alcalis et à la lumière du soleil se démarque.
+        
+</p>  
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/ArcocemBASIC-FR.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique de
@@ -132,15 +143,15 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3" >
-                        Caracteristiques techniques</p>
+                    <h3 class="en3" >
+                      Caractéristiques techniques des pâtes pigmentaires de béton ciré Arcocem Basic</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Résistance aux alcalins</strong>
-                                    <p>Arcocem Basic est résistant à l'alcalin comme l'ammoniaque.</p>
+                                    <h4>Haute résistance aux alcalis</h4>
+                                    <p>Les couleurs de béton ciré Arcocem Basic sont très résistantes aux alcalis tels que l'ammoniac.</p>
                                 </div>
                             </div>
                         </div>
@@ -148,10 +159,8 @@
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Haute stabilitée de couleur</strong>
-                                    <p> Les couleurs de Arcocem Basic se maintienent dans le temps sans altérations
-                                        produite par la
-                                        lumière ou le vieillissement.</p>
+                                    <h4>Haute stabilité des couleurs </h4>
+                                    <p>Les pâtes pigmentaires de béton ciré Arcocem Basic se conservent dans le temps sans altérations dues à la lumière ou au vieillissement.</p>
                                 </div>
                             </div>
                         </div>
@@ -161,60 +170,131 @@
                             <div class="row">
                                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/compatible_sistemas_acuosos.png" class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>
+                                    <h4>
                                         Compatibles avec les systèmes aqueux
-                                    </strong>
-                                    <p>Compatibles avec les peintures base acrylique</p>
+                                    </h4>
+                                    <p>Les couleurs de béton ciré Arcocem Basic sont compatibles avec les peintures à l'eau.</p>
+                                </div>
+                            </div>
+                        </div>
+                           <div class="col-6">
+                            <div class="row">
+                                <div class=" col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
+                                        class="figure-img img-fluid rounded"></div>
+                                <div class=" col-md-9">
+                                    <h4>Inaltérable au soleil
+                                    </h4>
+                                    <p>Les pâtes pigmentaires de béton ciré Arcocem Basic ont été conçues pour résister sans problème à la lumière du soleil.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Présentation -->
-                    <p class="en3" >
-                        Présentation </p>
-                    <p>Les couleurs de béton ciré Arcocem Basic sont présentées dans des contenants avec un distributeur de 0,5 L ou des pots de 1 L.
-</p>
-
+                    <h3 class="en3" >
+                        Présentation des couleurs de béton ciré Arcocem Basic </h3>
+                   <p>Les couleurs de béton ciré Arcocem Basic sont présentées dans des contenants de 0,5 litre et 1 litre.</p>
                     <!-- Rendements -->
-                    <p class="en3" >
-                        Rendements</p>
-                    <p>En fonction de la couleur de la dose à préparer.</p>
-                    <p class="en3" >
-                        Couleurs</p>
-                    <div class="row text-center mb-2">
-                        <div class="col-md-4">
+                    <h3 class="en3" >
+                        Le rendement des pâtes pigmentaires de béton ciré Arcocem Basic</h3>
+                    <p>Le rendement des pâtes pigmentaires pour béton ciré Arcocem Basic dépendent de la couleur de la dose à préparer.</p>
+                    <h3 class="en3" >
+                        13 couleurs de béton ciré Arcocem Basic</h3>
+                        <p>Au sein de la ligne Arcocem Basic, on retrouve treize couleurs:
+</p>
+                    <div class="colorArcocem">
+                        <div class="row text-center  ">
 
-                            <div class="col-md-12" style="border: 1px black solid; min-height: 60px;width: 100%;"></div>
-                            <br>
-                            <span>Blanc</span>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color: black; min-height: 60px;width: 100%;"></div>
-                            <br>
-                            <span ">Noir</span>
+                            <div class="col-md-4">
+
+                                <div class="col-md-12" style="border: 1px black solid; min-height: 60px;width: 100%;">
+                                </div>
+                                 <div class="col-md-12"> <span>Blanco</span></div>
+                               
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color: #1d1d1b; min-height: 60px;width: 100%;">
+                                </div>
+                                <div class="col-md-12"> <span>Negro</span></div>
+                               
                             </div>
                             <div class=" col-md-4">
-                                <div class="col-md-12" style="background-color:#013067; min-height: 60px;width: 100%;">
-                                </div><br>
-                                <span>Bleu</span>
+                                    <div class="col-md-12"
+                                        style="background-color:#1f2120; min-height: 60px;width: 100%;">
+                                    </div>
+                                    <div class="col-md-12"><span>Negro de Humo</span></div>
+                                    
+                            </div>
                         </div>
-                    </div>
-                    <div class="row text-center">
-                        <div class="col-md-4">
+                        <div class="row text-center">
+                            <div class="col-md-4">
 
-                            <div class="col-md-12" style="background-color: #ac1c20; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Rouge orange</span>
+                                <div class="col-md-12" style="background-color: #2a327b; min-height: 60px;width: 100%;">
+                                </div>   
+                                <div class="col-md-12"> <span>Azul</span></div>             
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#7c398e ; min-height: 60px;width: 100%;">
+                                </div>        
+                                <div class="col-md-12"> <span>Magenta</span></div>
+                               
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#008939; min-height: 60px;width: 100%;">
+                                </div>                
+                                <div class="col-md-12"> <span>Verde</span></div>
+                               
+                            </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color:#008939; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Vert</span>
+                        <div class="row text-center">
+                            <div class="col-md-4">
+
+                                <div class="col-md-12" style="background-color: #a5493e; min-height: 60px;width: 100%;">
+                                </div>                
+                                <div class="col-md-12"> <span>Rojo</span></div>
+                             
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#ad1c21 ; min-height: 60px;width: 100%;">
+                                </div>                 
+                                <div class="col-md-12"> <span>Rojo Naranja</span></div>
+                               
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#cb1517 ; min-height: 60px;width: 100%;">
+                                </div>               
+                                <div class="col-md-12"> <span>Rojo Intenso</span></div>
+                               
+                            </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color:#e6a200; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Jaune</span>
+                        <div class="row text-center">
+                            <div class="col-md-4">
+
+                                <div class="col-md-12" style="background-color: #f28d28; min-height: 60px;width: 100%;">
+                                </div>                
+                                <div class="col-md-12"><span>Naranja</span></div>
+                                
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#e6a200; min-height: 60px;width: 100%;">
+                                </div>                 
+                                <div class="col-md-12"> <span>Amarillo</span></div>
+                               
+                            </div>
+                            <div class="col-md-4">
+                                <div class="col-md-12" style="background-color:#ffe552; min-height: 60px;width: 100%;">
+                                </div>                
+                                <div class="col-md-12"> <span>Amarillo Limón</span></div>
+                            </div>
+                        </div>
+                        <div class="row text-center">
+                            <div class="col-md-4">
+
+                                <div class="col-md-12" style="background-color: #fdef69; min-height: 60px;width: 100%;">
+                                </div>                 
+                                <div class="col-md-12"><span>Amarillo Vainilla</span></div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -241,10 +321,9 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                           <h2>Pigments de béton ciré Arcocem Plus </h2>
-                          <p>Arcocem Plus est le nom donné aux pigments de béton ciré unidoses de Topciment. Celles-ci nous permettent d'obtenir toutes les couleurs de béton ciré qui forment les chartes Topciment. Une charte qui comporte 34 couleurs pour les systèmes de béton ciré Sttandard, Unlimitted et Evoluttion ; et une autre chart de 16 pigments pour notre béton ciré prêt à l'emploi Efectto.
-
+                         <p>Arcocem Plus est le nom donné aux pigments de béton ciré unidoses de Topciment. Celles-ci nous permettent d'obtenir toutes les couleurs de béton ciré qui forment les chartes Topciment. Une charte qui comporte 34 couleurs pour les systèmes de béton ciré  Sttandard, Unlimitted et Evoluttion ; et une autre chart de 16 pigments pour notre béton ciré prêt à l'emploi Efectto.
 </p>
-                            <a class="links" href="https://www.topciment.com/fr/fiches-techniques/ArcocemPLUS-FR.pdf" target="_blank"> <span class="fa-stack">
+                          <a class="links" href="https://www.topciment.com/fr/fiches-techniques/ArcocemPLUS-FR.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique de Arcocem Plus ici</strong>
 
@@ -252,8 +331,8 @@
                         </div>
                     </div>
                     <!-- propiedades -->
-                    <p class="en3" >
-                        Caracteristiques techniques</p>
+                    <h3 class="en3" >
+                       Caractéristiques techniques des pigments de béton ciré Arcocem Plus</h3>
 
                     <div class="row">
                         <div class="col-6">
@@ -261,9 +340,9 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Haute stabilité de la couleur</strong>
-                                    <p>Les couleurs d'Arcocem Plus se maintiennent dans le temps sans altérations
-                                        produites par la lumière ou le vieillissement.
+                                    <h4>Haute stabilité de la couleur</h4>
+                                    <p>Les pigments de béton ciré Arcocem Plus sont maintenus dans le temps sans altérations produites par la lumière ou le vieillissement.
+
 
                                     </p>
                                 </div>
@@ -274,9 +353,10 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Résistant a l'alcalin
-                                    </strong>
-                                    <p>Arcocem Basic est résistant à l'alcalin comme l'ammoniaque.</p>
+                                    <h4>Ininflammable 
+                                    </h4>
+                                    <p>Les pigments de béton ciré Arcocem Plus est un colorant liquide à base d'eau.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -288,10 +368,10 @@
                                 <div class="col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/facilmente_miscibles.png" class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Facilement miscibles
-                                    </strong>
-                                    <p>Verser la couleur dans la résine et remuer lentement avec une spatule ou un
-                                        agitateur mécaniques à faible vitesse.
+                                    <h4>Facilement miscibles
+                                    </h4>
+                                    <p>Versez le colorant dans la résine et remuez lentement avec une spatule ou un agitateur mécanique à faible vitesse.
+
                                     </p>
 
                                 </div>
@@ -299,16 +379,13 @@
                         </div>
                     </div>
                     <!-- Rendements -->
-                    <p class="en3" >
-                        Rendements</p>
-                    <p>Pour obtenir les couleurs du catalogue, le dosage indiqué doit être respecté. Ainsi, la quantité et le type de béton ciréutilisé et le Topsealer utilisé doivent être pris en compte.
-
-                    </p>
+                    <h3 class="en3" >
+                        Rendement des pigments de béton ciré Arcocem Plus</h3>
+                  <p>Pour obtenir les couleurs du catalogue, le dosage indiqué doit être respecté. Ainsi, la quantité et le type de béton ciré utilisé et le Topsealer utilisé doivent être pris en compte.</p>
                     <!-- presentacion -->
-                    <p class="en3" >
-                        Présentation</p>
-                    <p>Les pigments de béton ciré Arcocem Plus sont présentés dans des contenants en plastique de différentes tailles en fonction de la couleur et de la dose.
-
+                    <h3 class="en3" >
+                        Présentation des pigments de béton ciré Arcocem Plus</h3>
+                   <p>Les pigments de béton ciré Arcocem Plus sont présentés dans des contenants en plastique de différentes tailles en fonction de la couleur et de la dose.</p>
 
                     </p>
                 </div>
@@ -346,7 +423,7 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Couleurs du microciment Arcocem Basic",
+    "name": "Couleurs du béton ciré Arcocem Basic",
     "description": "Pigments en dispersion aqueuse, qui permettent d'obtenir toutes les couleurs disponibles dans le nuancier Topciment.",
     "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
     "brand": {
@@ -419,7 +496,7 @@
     "hasVariant": [
       {
         "@type": "Product",
-        "name": "Couleurs du microciment Arcocem Basic 1 L",
+        "name": "Couleurs du béton ciré Arcocem Basic 1 L",
         "description": "Pigments en dispersion aqueuse, qui permettent d'obtenir toutes les couleurs disponibles dans le nuancier Topciment.",
         "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
         "size": "1L",
@@ -490,7 +567,7 @@
       },
        {
         "@type": "Product",
-        "name": "Couleurs du microciment Arcocem Basic 0,5 L",
+        "name": "Couleurs du béton ciré Arcocem Basic 0,5 L",
         "description": "Pigments en dispersion aqueuse, qui permettent d'obtenir toutes les couleurs disponibles dans le nuancier Topciment.",
         "image": "https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg",
         "size": "0,5L",
@@ -623,7 +700,7 @@
 	{
      "@type": "PropertyValue",
       "name": "Rendement",
-      "value": "Pour obtenir les couleurs du catalogue, il faut respecter le dosage indiqué. La quantité et le type de microciment utilisé ainsi que le Topsealer utilisé doivent être pris en compte."
+      "value": "Pour obtenir les couleurs du catalogue, il faut respecter le dosage indiqué. La quantité et le type de béton ciré utilisé ainsi que le Topsealer utilisé doivent être pris en compte."
     },
 	{
      "@type": "PropertyValue",

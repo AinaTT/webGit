@@ -7,7 +7,7 @@
             <div class="menu botones menu1b">
                 <ul>
 
-                    <li><a href="../information-beton-cire">Béton Ciré</a>
+                    <li><a href="../information-beton-cire">béton ciré </a>
                     </li>
 
                     

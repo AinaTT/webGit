@@ -16,8 +16,8 @@
 	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
 	<script src="themes/jquery-1.8.2.min.js"></script>
 	<script src="themes/jquery.mobile-1.4.0.min.js"></script>
-	<title>Mikrozement Topciment Materialrechner</title>
-	<meta name="description" content="Kostenloser Mikrozement Topciment Materialrechner" />
+	<title>mikrozement  Topciment Materialrechner</title>
+	<meta name="description" content="Kostenloser mikrozement  Topciment Materialrechner" />
 	
 	
 	<link rel="canonical" href="https://www.topciment.com/de/calc/" />

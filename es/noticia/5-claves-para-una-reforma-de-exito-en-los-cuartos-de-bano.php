@@ -145,7 +145,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/5-claves-para-una-reforma-de-exito-en-los-cuartos-de-bano"
+  },
+  "headline": "5 Claves para un reforma de éxito en los cuartos de baño",
+  "image":"https://www.topciment.com/imagenes/banos/banos-microcemento-s.jpg",
+  "datePublished": "2020-01-21",
+  "dateModified": "2020-01-21",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Pasamos mucho tiempo en el cuarto de baño y no siempre le damos importancia. Por eso, aquí tienes 5 claves para reformar tu baño con éxito y otorgarle el estilo y la decoración que merece."
+}
+</script>
 </body>
 
 </html>

@@ -64,7 +64,7 @@
                                  <li><a href="microcemento/cursos-aplicacion-microcemento">Cursos de
                                          microcemento</a></li>
                                  <li> <a href="distribuidores">Distribuidores de microcemento</a></li>
-                                 <li> <a href="microcemento/metodos-de-aplicacion-microcemento">Métodos de
+                                 <li> <a href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">Métodos de
                                          aplicación</a></li>
                                  <li> <a href="calc/">Calculadora de material</a></li>
                                  <li> <a href="fichas-tecnicas">Fichas técnicas</a></li>
@@ -145,14 +145,14 @@
                                  </div>
                                  <div class="col-md-12">
                                      <a id="metodos" class="ancla"></a>
-                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="microcemento/metodos-de-aplicacion-microcemento">Aplicación de
+                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">Aplicación de
                                              microcemento</a>
                                      </h2>
                                      <p>
                                          Recomendaciones, consejos y trucos de la aplicación de microcemento se
                                          encuentran en este apartado.
                                      </p>
-                                     <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="microcemento/metodos-de-aplicacion-microcemento"><strong>Conocer
+                                     <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso"><strong>Conocer
                                                  métodos de aplicación de microcemento</strong></a></p>
                                  </div>
                                  <div class="col-md-12">

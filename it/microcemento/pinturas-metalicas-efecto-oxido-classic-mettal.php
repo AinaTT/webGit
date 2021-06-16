@@ -19,19 +19,19 @@
 
     <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
-    <title>Pinturas metálicas y efecto óxido| Classic Mettal</title>
-    <meta name="description" content="Crea acabados decorativos irrepetibles en paredes y muebles con Classic Mettal,
-nuestras pinturas metálicas y de efecto óxido. Pinturas listas al uso y aplicables sobre microcemento,
-hormigón, ladrillo, cerámica e incluso metales. Descúbrelas." />
+    <title>Vernici metalliche ed effetto ruggine| Classic Mettal</title>
+    <meta name="description" content="Crea finiture decorative uniche su pareti e mobili con Classic Mettal,
+le nostre vernici metalliche e ad effetto ruggine. Vernici pronte all'uso che possono essere applicate sul microcemento,
+cemento, mattoni, ceramica e persino metalli. Scopriteli." />
 
 
-    <meta property="og:title" content="Pinturas metálicas y efecto óxido| Classic Mettal">
+    <meta property="og:title" content="Vernici metalliche ed effetto ruggine| Classic Mettal">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url"
         content="https://www.topciment.com/es/microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">
-    <meta property="og:description" content="Crea acabados decorativos irrepetibles en paredes y muebles con Classic Mettal,
-nuestras pinturas metálicas y de efecto óxido. Pinturas listas al uso y aplicables sobre microcemento,
-hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
+    <meta property="og:description" content="Crea finiture decorative uniche su pareti e mobili con Classic Mettal,
+le nostre vernici metalliche e ad effetto ruggine. Vernici pronte all'uso che possono essere applicate sul microcemento,
+cemento, mattoni, ceramica e persino metalli. Scopriteli.">
     <meta property="og:type" content="article">
     <meta property="og:image"
         content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
@@ -88,7 +88,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                     </div>
                     <div class="content">
                         <h1 class="en2">
-                            Pinturas metálicas y efecto óxido| Classic Mettal</h1>
+                            Vernici metalliche ed effetto ruggine| Classic Mettal</h1>
                         <div class="text-justify">
                             <p>
                                 Classic Mettal es nuestra gama de <strong> pinturas metálicas listas al uso</strong> que
@@ -600,7 +600,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       
@@ -678,7 +678,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       
@@ -752,7 +752,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       
@@ -826,7 +826,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       
@@ -900,7 +900,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       
@@ -974,7 +974,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
+        "name": "Applicabile su qualsiasi supporto",
         "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
       },
       

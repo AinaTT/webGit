@@ -12,14 +12,14 @@
      <div id="ocultomovilinterno">
          <div id="menuidiomasmovil">
              <ul>
-                 <li> <a class="activo" href="../mikrozemente">Mikrozement</li>
+                 <li> <a class="activo" href="../mikrozemente">mikrozement </li>
              </ul>
          </div>
          <div id="menuocultomovil">
              <ul>
                  <li><a href="../mikrozement/produkte" onclick="ocultarmovil()">produkte</a></li>
                  <li><a href="../fachleute" onclick="ocultarmovil()">PROFIS</a></li>
-                 <li><a href="../mikrozement/schulungen-anwendung-mikrozement" onclick="ocultarmovil()">Kurse</a></li>
+                 <li><a href="../mikrozement/schulungen-anwendung-mikrozement " onclick="ocultarmovil()">Kurse</a></li>
                  <li><a href="../mikrozement/galerie" onclick="ocultarmovil()">galerie</a></li>
                  <li><a href="../nachrichten" onclick="ocultarmovil()">Nachrichten</a></li>
 

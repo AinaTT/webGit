@@ -75,68 +75,68 @@
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrobaseBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase
                                  L</strong>
-                             (Zweikomponenten-Mikrozement-Zubereitung)</a><br>
+                             (Zweikomponenten-mikrozement-Zubereitung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrobaseBI-XL-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase
                                  XL</strong>
-                             (Zweikomponenten-Mikrozement-Zubereitung)</a><br>
+                             (Zweikomponenten-mikrozement-Zubereitung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrobaseBI-XXL-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase
                                  XXL</strong>
-                             (Zweikomponenten-Mikrozement-Zubereitung)</a><br>
+                             (Zweikomponenten-mikrozement-Zubereitung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrodeckBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microdeck</strong>
-                             (Zweikomponenten-Mikrozement für Fußböden)</a><br>
+                             (Zweikomponenten-mikrozement  für Fußböden)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrofinoBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microfino</strong>
-                             (Zweikomponenten-Feinmikrozement)</a><br>
+                             (Zweikomponenten-Feinmikrozement )</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/MicrostoneBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microstone</strong>
-                             (Zweikomponenten-Mikrozement für den Außenbereich)</a><br>
+                             (Zweikomponenten-mikrozement  für den Außenbereich)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Aquaciment-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Aquaciment</strong>
-                             (Mikrozement für Schwimmbadbeschichtung)</a><br>
+                             (mikrozement  für Schwimmbadbeschichtung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Acricem-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Acricem</strong>
-                             (Acrylharz für Mikrozementpräparation)</a><br>
+                             (Acrylharz für mikrozement präparation)</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3">Unlimitted</h4>
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/de/technische-datenblatter/Unlimitted_MicrobaseBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Unlimitted
-                                 Microbase</strong> (Zweikomponenten-Mikrozement-Zubereitung)</a><br>
+                                 Microbase</strong> (Zweikomponenten-mikrozement-Zubereitung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Unlimitted_MicrodeckBI-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Unlimitted
-                                 Microdeck</strong> (Zweikomponenten-Mikrozement für Fußböden)</a><br> </p>
+                                 Microdeck</strong> (Zweikomponenten-mikrozement  für Fußböden)</a><br> </p>
                      <h4 class="card-header mb-3 mt-3">Evoluttion</h4>
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/de/technische-datenblatter/Evoluttion_MicrobaseMN_DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microbase</strong>
-                             (Monokomponenten-Mikrozement zur Vorbereitung)</a><br>
+                             (Monokomponenten-mikrozement  zur Vorbereitung)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Evoluttion_MicrofinoMN_DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microfino</strong>
-                             (Monokomponenten-Mikrozement für Wände)</a><br>
+                             (Monokomponenten-mikrozement  für Wände)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Evoluttion_MicrodeckMN_DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microdeck</strong>
-                             (Monokomponenten-Mikrozement für Fußböden)</a><br>
+                             (Monokomponenten-mikrozement  für Fußböden)</a><br>
                      </p>
 
                      <h4 class="card-header mb-3 mt-3">Atlanttic</h4>
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/de/technische-datenblatter/atlanttic-aquaciment-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Atlanttic Aquaciment</strong>
-                             (Mikrozement für Schwimmbäder)</a> </p>
+                             (mikrozement  für Schwimmbäder)</a> </p>
                      <h4 class="card-header mb-3 mt-3">Efectto</h4>
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/de/technische-datenblatter/Ficha_Tecnica_Efectto_DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Efectto Quartz</strong>
-                             (Gebrauchsfertiger Mikrozement)</a>
+                             (Gebrauchsfertiger mikrozement )</a>
                      </p>
                      <h4 class="card-header mb-3 mt-3">Pure Mettal</h4>
                      <p class="text-dark links-ft">
                          <a href="https://www.topciment.com/de/technische-datenblatter/PureMettal_DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Pure Mettal </strong>
-                             (Metallischer Mikrozement)</a>
+                             (Metallischer mikrozement )</a>
                      </p>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Classic Mettal
@@ -189,7 +189,7 @@
                              (konzentriertes Pigment zur Herstellung von Dosen)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/ArcocemPLUS-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Arcocem Plus</strong>
-                             (Einzeldosis-Pigmente für Mikrozement)</a><br>
+                             (Einzeldosis-Pigmente für mikrozement )</a><br>
                      </p>
                      <h4 class="card-header mb-3 mt-3"> Topsealer
                      </h4>
@@ -200,16 +200,16 @@
                              href="https://www.topciment.com/de/technische-datenblatter/TopsealerWTonecoat-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One
                                  Coat</strong>
-                             (Versiegelungslack für Mikrozement)</a><br> <a
+                             (Versiegelungslack für mikrozement )</a><br> <a
                              href="https://www.topciment.com/de/technische-datenblatter/TopsealerWTquickdry-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick
-                                 Dry</strong> (Schnelltrocknender Sealer-Lack für Mikrozement)</a><br> <a
+                                 Dry</strong> (Schnelltrocknender Sealer-Lack für mikrozement )</a><br> <a
                              href="https://www.topciment.com/de/technische-datenblatter/TopsealerWTantiSlip-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti
                                  Slip</strong> (Anti-Rutsch-Versiegelungslack)</a><br> <a
                              href="https://www.topciment.com/de/technische-datenblatter/TopsealerDSV-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong>
-                             (lösemittelhaltiger Mikrozement-Versiegelungslack)</a><br>
+                             (lösemittelhaltiger mikrozement -Versiegelungslack)</a><br>
                          <a href="https://www.topciment.com/de/technische-datenblatter/Presealer-DE.pdf"
                              target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong>
                              (Schwimmbad-Fibel),</a><br>
@@ -262,7 +262,7 @@
                          Informationen zu allen Topciment-Lösungen. Es ist ein Referenzwerkzeug, in das wir neben den
                          gewohnten Produkten auch neue Produkte einbauen. Entdecken Sie die
                          <strong class="links"><a class="links"
-                                 href="mikrozement/hersteller-mikrozement">firma</a></strong>, die <strong><a
+                                 href="mikrozement/hersteller-mikrozement ">firma</a></strong>, die <strong><a
                                  class="links" href="mikrozement/produkte">Arbeitsweise</a></strong> und die
                          <strong><a class="links" href="mikrozement/galerie">Projekte</a></strong>, an denen wir
                          teilnehmen. Dank unseres innovativen Geistes, der auf ständige Forschung ausgerichtet ist, ist

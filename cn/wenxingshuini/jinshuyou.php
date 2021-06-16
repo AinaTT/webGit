@@ -63,12 +63,11 @@
                             <li>
                                 <a href="#que-es-elitte">什么是 Elitte?</a>
                             </li>
-                            <li>
-                                <a href="#elitte-glaze">Elitte Glaze </a>
-                            </li>
-                            <li>
-                                <a href="#elitte-glitter">Elitte Glitter</a>
-                            </li>
+                            <li> <a href="#elitte-glaze">Elitte Glaze </a> </li>
+                            <li> <a href="#colores-glaze">Elitte Glaze 饰面 </a> </li>
+                            <li> <a href="#elitte-glitter">Elitte Glitter</a> </li>
+                            <li> <a href="#colores-glitter">Elitte Glitter 饰面 </a> </li>
+
                             <li>
                                 <a href="#aplicacion">施工</a>
                             </li>
@@ -115,6 +114,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glaze_logo.png"
                             title="Logo Elitte Glaze" alt="Logo Elitte Glaze">
                     </div>
+                    <a id="colores-glaze" class="ancla"></a>
                     <h2 class="mt-4 mb-4 en3">Elitte Glaze金属效果釉料</h2>
 
                     <p>
@@ -294,6 +294,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png"
                             title="Logo Elitte Glitter" alt="Logo Elitte Glitter">
                     </div>
+                    <a id="colores-glitter" class="ancla"></a>
                     <h2 class="en3"> Elitte Glitter珠光效果釉料 </h2>
                     <p>
 Elitte Glitter是Topciment的珠光效果的釉料系列，可即时使用。 是装饰和点缀家具、墙壁甚至地板的完美选择，具有与众不同和非常个性化的效果。通过这种独特的釉料系列所提供的广泛可能性，表面和物体有了自己的个性。颜色有青铜200，金500和银500。 </p>

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>Une bonne application du béton ciréest conditionnée par plusieurs facteurs, avoir des produits de qualité,
+    <title>Une bonne application du béton ciré est conditionnée par plusieurs facteurs, avoir des produits de qualité,
         la technique d'application, mais aussi que vous utilisiez les meilleurs outils.</title>
     <meta name="description" content="Découvrez Festool by Topciment !"/>
 
@@ -47,7 +47,7 @@
 
             <div class="content">
                 <div id="mitadTextoIzquierda">
-                    <p>Une bonne application du béton ciréest conditionnée par plusieurs facteurs, parmi
+                    <p>Une bonne application du béton ciré est conditionnée par plusieurs facteurs, parmi
                         lesquels
                         il est essentiel de disposer de produits de haute qualité, qui doivent être liés à
                         un
@@ -86,7 +86,7 @@
                 <div class="">
                     <div id="mitadTextoIzquierda">
                         <strong>Sanders excentrique ROTEX: </strong>this model is the best one for sanding the
-                        <a href="https://www.topciment.com/fr/information-beton-cire.html">béton ciré </a>et
+                        <a href="https://www.topciment.com/fr/information-beton-cire.html">béton ciré  </a>et
                         supprimer
                         les imperfections et les reliefs. C'est un outil fondamental pour obtenir la finition
                         souhaitée dans les

@@ -705,7 +705,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo
                                     dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                        href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-bronze">Presealer</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -723,7 +723,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo
                                     dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-aluminium"> Topsealer</a>
+                                        href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-aluminium"> Topsealer</a>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -842,7 +842,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 6</strong><br>Aplicar mediante rodillo
                                     dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-bronze">Presealer</a>.
+                                        href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-bronze">Presealer</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -860,7 +860,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 7</strong><br>Aplicar mediante rodillo
                                     dos capas de <a class="links" target="_blank"
-                                        href="barniz-topsealer#puremetal-aluminium"> Topsealer</a>.
+                                        href="barniz-poliuretano-acrilico-alagua-topsealer#puremetal-aluminium"> Topsealer</a>.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img

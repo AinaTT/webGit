@@ -79,16 +79,16 @@
                     </figure>
                     <h2 class="en4">Advantages of using microcement in swimming pools</h2>
                     <p>The use of microcement in swimming pools offers many functional and maintenance benefits:</p>
-                    <p> <strong class="en6">It reduces dirt compared to other materials</p>
+                    <p> <strong class="en6">It reduces dirt compared to other materials</p> </strong>
                     <p>In conventional pool designs where tile predominates, a lot of dirt and mould accumulates in the
                         joints. Microcement, as it has no joints and is a continuous surface, does not have small cracks
                         that allow dirt to accumulate. Therefore, not only is it a cleaner material in general, but it
-                        also allows for much better and easier maintenance. </p>
-                    <p> <strong class="en6">Combines with different materials</p>
+                        also allows for much better and easier maintenance. </p> 
+                    <p> <strong class="en6">Combines with different materials</p> </strong>
                     <p>Microcement combines with all kinds of materials, so it can be integrated into any style. Thus,
                         you can have the inside of the pool with microcement and the crown and surrounding area in
                         another material, such as wood, for example.</p>
-                    <p> <strong class="en6">It provides continuity in the design</p>
+                    <p> <strong class="en6">It provides continuity in the design</p> </strong>
                     <p>As we have said, it can be combined, but if you are looking to create continuity and
                         spaciousness, the best option is to use microcement for different areas. In this way, it will
                         seem as if the pool has an infinite design that unites the entire exterior. With its different
@@ -245,14 +245,14 @@
                                                 class="SIGNUP_FLD">
                                                 <input type="text"
                                                     style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                    placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                    placeholder="Name" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
                                                     id="EMBED_FORM_NAME_LABEL">
                                             </div>
                                             <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                 class="SIGNUP_FLD">
                                                 <input type="button"
                                                     style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe">
                                             </div>
                                             <input type="hidden" id="fieldBorder" value="">
                                             <input type="hidden" id="submitType" name="submitType"
@@ -323,7 +323,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/microcement-pools-the-best-possible-option"
+  },
+  "headline": "Microcement swimming pools, the best possible option",
+  "image":"https://www.topciment.com/imagenes/news/portada.jpg",
+  "datePublished": "2020-10-02",
+  "dateModified": "2020-10-02",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Having your own swimming pool is usually one of the most recurrent dreams. Who wouldn't want to spend the whole day soaking in the water or on the lawn of their house, sunbathing in the sun? And, if we want the best, a microcement pool is the perfect option."
+  
+}
 
+</script>
 </body>
 
 </html>

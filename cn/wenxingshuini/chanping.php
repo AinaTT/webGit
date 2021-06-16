@@ -444,7 +444,7 @@
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="mifeng-zhaomianji-yingyong"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
+                    <a class="font1as" href="qingqi-juanzhi-bingxisuan-shui-mifengji"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
@@ -457,32 +457,32 @@
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="mifeng-zhaomianji-yingyong#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="mifeng-zhaomianji-yingyong#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="mifeng-zhaomianji-yingyong#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="mifeng-zhaomianji-yingyong#topsealer-proplus" class="vermas">
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="mifeng-zhaomianji-yingyong#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="mifeng-zhaomianji-yingyong#presealer" class="vermas">
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="mifeng-zhaomianji-yingyong#all-in-one" class="vermas">
+                            <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#all-in-one" class="vermas">
                                 <strong>Topsealer WT All in One</strong></a><br>
 
-                             <a href="mifeng-zhaomianji-yingyong#spray" class="vermas">
+                             <a href="qingqi-juanzhi-bingxisuan-shui-mifengji#spray" class="vermas">
                              <strong>Topsealer WT Spray</strong></a>
 
 

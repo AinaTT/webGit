@@ -15,21 +15,21 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos von Mikrozement in der Zahnklinik María Vázquez</title>
+    <title>Fotos von mikrozement  in der Zahnklinik María Vázquez</title>
     <meta name="description"
-        content="Anwendung von Mikrozement im Boden der Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von Mikrozement von Germán Cabo." />
+        content="Anwendung von mikrozement  im Boden der Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von mikrozement  von Germán Cabo." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos von Mikrozement in der María Vázquez Zahnklinik" />
+    <meta property="og:title" content="Fotos von mikrozement  in der María Vázquez Zahnklinik" />
     <meta property="og:description"
-        content="Anwendung von Mikrozement auf dem Boden der Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von Mikrozement von Germán Cabo." />
+        content="Anwendung von mikrozement  auf dem Boden der Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von mikrozement  von Germán Cabo." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-clinica-hernandez-arquitectos" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Anwendung von Mikrozement auf dem Boden einer Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von Mikrozement von Germán Cabo." />
-    <meta name="twitter:title" content="Fotos von Mikrozement in der María Vázquez Zahnklinik" />
-    <meta name="twitter:description" content="Mikrozementanwendung im Boden der Zahnklinik." />
+        content="Anwendung von mikrozement  auf dem Boden einer Zahnklinik. Renovierungsprojekt von Hernández arquitectos. Foto von mikrozement  von Germán Cabo." />
+    <meta name="twitter:title" content="Fotos von mikrozement  in der María Vázquez Zahnklinik" />
+    <meta name="twitter:description" content="mikrozement anwendung im Boden der Zahnklinik." />
     <meta name=" twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -42,10 +42,6 @@
     <link rel="alternate" href="https://www.topciment.com/en/project/project-clinic-hernandez-architects"
         hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/projet-clinic-hernandez-arquitectos" hreflang="fr-FR" />
-
-    <link rel="alternate"
-        href="https://www.topciment.cn/best-images-of-concrete-revest-at-clinica-hernandez-arquitectos.html"
-        hreflang="zh-CN" />
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -84,7 +80,7 @@
                 <div class="wow fadeInRight justified" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>Die Exzellenz der Behandlungen der <strong>Doctor María Vázquez Clinic</strong> steht im Einklang
                         mit dem Design ihrer Einrichtung. Mit dem Ziel, zugänglich zu sein und auf Patientenkomfort zu
-                        achten, ist die beste Lösung das <a href="../mikrozemente">Mikrozement</a>. Topciment-Beläge
+                        achten, ist die beste Lösung das <a href="../mikrozemente">mikrozement </a>. Topciment-Beläge
                         benötigen keine Fugen wie andere Materialien, wodurch eine glatte und durchgehende Oberfläche
                         erreicht wird. In dieser Art von Räumlichkeiten sind die Suche nach <strong>exquisiter
                             Sauberkeit und Nachhaltigkeit</strong> zwei Ziele, denen unsere Materialien <a href="../garantie"

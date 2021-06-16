@@ -21,7 +21,7 @@
 
   <meta property="og:title" content="Rivestimenti poliuretanici, a base d'acqua e acrilici |Topsealer">
   <meta property="og:site_name" content="Topciment">
-  <meta property="og:url" content="https://www.topciment.com/es/microcemento/barniz-topsealer">
+  <meta property="og:url" content="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer">
   <meta property="og:description"
     content="Le vernici Topsealer offrono una protezione superiore contro l'abrasione, i graffi, le macchie e la luce del sole. Produciamo rivestimenti poliuretanici, a base d'acqua e acrilici.">
   <meta property="og:type" content="article">
@@ -32,11 +32,11 @@
   <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
 
 
-  <link rel="canonical" href="https://www.topciment.com/es/microcemento/barniz-topsealer" />
+  <link rel="canonical" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer" />
 
-  <link rel="alternate" href="https://www.topciment.com/es/microcemento/barniz-topsealer" hreflang="es-ES" />
-  <link rel="alternate" href="https://www.topciment.com/en/microcements/varnishes-topsealer" hreflang="en-GB" />
-  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-topsealer" hreflang="fr-FR" />
+  <link rel="alternate" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer" hreflang="es-ES" />
+  <link rel="alternate" href="https://www.topciment.com/en/microcements/polyurethane-waterbased-acrylic-varnishes-topsealer" hreflang="en-GB" />
+  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer" hreflang="fr-FR" />
   <link rel="alternate" href="https://topciment.com/pl/mikrocement/lakier-topsealer" hreflang="pl-PL" />
 
   <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -815,7 +815,7 @@
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
                   <strong>PH</strong>
-                  <p>Tra 7,5 e 9</p>
+                  <p>Tra 7 e 8,5</p>
                 </div>
               </div>
             </div>
@@ -1189,7 +1189,7 @@
           "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
           "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
           "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-one-coat",
           "sku": "TT02030",
           "gtin13": "8436575620244",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1200,7 +1200,7 @@
             "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
             "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-one-coat",
             "sku": "TT02016",
             "gtin13": "8436575625737",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1345,7 +1345,7 @@
           "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
           "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-one-coat",
           "sku": "TT02016",
           "gtin13": "8436575625737",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1356,7 +1356,7 @@
             "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
             "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
             "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-one-coat",
             "sku": "TT02030",
             "gtin13": "8436575620244",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1586,7 +1586,7 @@
           "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
           "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip",
           "sku": "TT02110",
           "gtin13": "8436575625225",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1597,7 +1597,7 @@
             "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip",
             "sku": "TT02016",
             "gtin13": "8436575625737",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1742,7 +1742,7 @@
           "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip",
           "sku": "TT02016",
           "gtin13": "8436575625737",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1753,7 +1753,7 @@
             "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
             "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip",
             "sku": "TT02110",
             "gtin13": "8436575625225",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1983,7 +1983,7 @@
           "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
           "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-quick-dry",
           "sku": "TT02045",
           "gtin13": "8436575620176",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -1994,7 +1994,7 @@
             "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-quick-dry",
             "sku": "TT02016",
             "gtin13": "8436575625737",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -2139,7 +2139,7 @@
           "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-quick-dry",
           "sku": "TT02016",
           "gtin13": "8436575625737",
           "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -2150,7 +2150,7 @@
             "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
             "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-quick-dry",
             "sku": "TT02045",
             "gtin13": "8436575620176",
             "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
@@ -2379,7 +2379,7 @@
           "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
           "size": "0,54 Kg",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus",
           "sku": "TT02142",
           "gtin13": "8436575620121",
           "weight": "0,5 Kg",
@@ -2389,7 +2389,7 @@
             "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
             "size": "0,8 Kg",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus",
             "sku": "TT02016",
             "gtin13": "8436575625737",
             "weight": "0,8 Kg",
@@ -2533,7 +2533,7 @@
           "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
           "size": "0,8 Kg",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus",
           "sku": "TT02016",
           "gtin13": "8436575625737",
           "weight": "0,8 Kg",
@@ -2543,7 +2543,7 @@
             "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
             "size": "0,54 Kg",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus",
             "sku": "TT02142",
             "gtin13": "8436575620121",
             "weight": "0,5 Kg",
@@ -2765,7 +2765,7 @@
           "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
           "size": "4 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealerdsv",
           "sku": "TT02017",
           "gtin13": "8436575625683",
           "isAccessoryOrSparePartFor": {
@@ -2774,7 +2774,7 @@
             "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
             "size": "1  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealerdsv",
             "sku": "TT02012",
             "gtin13": "8436575620275",
             "weight": "1 Kg",
@@ -2907,7 +2907,7 @@
           "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
           "size": "1  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealerdsv",
           "sku": "TT02012",
           "gtin13": "8436575620275",
           "weight": "1 Kg",
@@ -2917,7 +2917,7 @@
             "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
             "size": "4 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealerdsv",
             "sku": "TT02017",
             "gtin13": "8436575625683",
             "weight": "4 Kg",
@@ -3133,7 +3133,7 @@
           "description": "Presealer es un sellador formulado a base de copolímero acrílico en emulsión e inalterable a la humedad.",
           "image": "https://www.topciment.com/imagenes/topsealer/presealer.jpg",
           "size": "5 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#presealer",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#presealer",
           "sku": "TT02020",
           "gtin13": "8436575620350",
           "weight": "5 Kg",
@@ -3297,7 +3297,7 @@
           "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
           "size": "2 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#all-in-one",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#all-in-one",
           "sku": "TT02030",
           "gtin13": "8436575620244",
           "weight": "2 Kg",
@@ -3378,7 +3378,7 @@
           "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
           "size": "5 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#all-in-one",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#all-in-one",
           "sku": "TT02048",
           "gtin13": "8436575625744",
           "weight": "5 Kg",
@@ -3543,7 +3543,7 @@
           "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
           "size": "3 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
           "sku": "TT02051",
           "gtin13": "8436575620343",
           "weight": "3 Kg",
@@ -3553,7 +3553,7 @@
             "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
             "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
             "sku": "TT02050",
             "gtin13": "8436575620305",
             "weight": "1 Kg",
@@ -3697,7 +3697,7 @@
           "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
           "sku": "TT02050",
           "gtin13": "8436575620305",
           "weight": "1 Kg",
@@ -3707,7 +3707,7 @@
             "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
             "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
             "size": "3 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
             "sku": "TT02051",
             "gtin13": "8436575620343",
             "weight": "3 Kg",

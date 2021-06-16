@@ -17,16 +17,16 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Béton ciré monocomposant pour revêtement décoratifs.</title>
+    <title>béton ciré  monocomposant pour revêtement décoratifs.</title>
     <meta name="description"
-        content="Evoluttion es simplicité et innovation. C'est le béton ciré monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales." />
+        content="Evoluttion es simplicité et innovation. C'est le béton ciré  monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales." />
 
 
-    <meta property="og:title" content="Béton ciré monocomposant pour revêtement décoratifs.">
+    <meta property="og:title" content="béton ciré  monocomposant pour revêtement décoratifs.">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion">
     <meta property="og:description"
-        content="Evoluttion es simplicité et innovation. C'est le béton ciré monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales.">
+        content="Evoluttion es simplicité et innovation. C'est le béton ciré  monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
@@ -90,20 +90,20 @@
 
                         <div class="content">
                             <a id="que-es-evoluttion" class="ancla"></a>
-                            <h1 class="en2">Béton ciré monocomposants Evoluttion</h1>
+                            <h1 class="en2">béton ciré  monocomposants Evoluttion</h1>
                             <div class="text-justify">
 
                                 <p>est la gamme améliorer des bétons cirés monocomposants ( ciment
                                     + eau ) de Topciment.
                                 </p>
-                                <p> Avec le béton ciré Evoluttion les mélanges sont simplifié et la préparation ,
+                                <p> Avec le béton ciré  Evoluttion les mélanges sont simplifié et la préparation ,
                                     réduisant
                                     ainsi les possibles erreurs.
                                 </p>
                                 <p>En plus , il permet aussi de réduire les coûts de transport et de stockage.
                                 </p>
 
-                                <p>Le béton ciré Evoluttion maintient la bonne maniabilité de la ligne Sttandard ,
+                                <p>Le béton ciré  Evoluttion maintient la bonne maniabilité de la ligne Sttandard ,
                                     aved la particularité qui offre une amélioration des résistances
                                     mécaniques.
                                 </p>
@@ -147,8 +147,8 @@
                         <div class="col-md-6">
                             <p>
                                 <strong class="h2s"></strong>
-                                <p class="h3s"> Evoluttion Microbase est le béton ciré de préparation. Aussi , il est
-                                    connu comme béton ciré
+                                <p class="h3s"> Evoluttion Microbase est le béton ciré  de préparation. Aussi , il est
+                                    connu comme béton ciré 
                                     rustique lorsqu'il est employer en finition.</h3>
                                 </p>
 
@@ -301,7 +301,7 @@
                         <div class="col-md-6">
                             <p>
 
-                                <p class="h3s"> Evoluttion Microfino est le béton ciré idéal pour les murs.</h3> Conçus
+                                <p class="h3s"> Evoluttion Microfino est le béton ciré  idéal pour les murs.</h3> Conçus
                                     uniquement pour les
                                     superficies verticales et pour des superficies non transitables.
 
@@ -1207,8 +1207,8 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Préparation monocomposante pour microciment Evoluttion Microbase",
-       "description": "Préparation de microciment monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+    "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase",
+       "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
     "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
     "brand": {
       "@type": "Organization",
@@ -1295,8 +1295,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Préparation monocomposante pour microciment Evoluttion Microbase L",
-           "description": "Préparation de microciment monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase L",
+           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
         "size": "L",
@@ -1383,8 +1383,8 @@
       },
       {
         "@type": "Product",
-        "name": "Préparation monocomposante pour microciment Evoluttion Microbase XL",
-           "description": "Préparation de microciment monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XL",
+           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XL.jpg",
         "size": "XL",
@@ -1472,8 +1472,8 @@
       },
       {
         "@type": "Product",
-        "name": "Préparation monocomposante pour microciment Evoluttion Microbase XXL",
-           "description": "Préparation de microciment monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XXL",
+           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XXL.jpg",
         "size": "XXL",
@@ -1565,7 +1565,7 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment monocomposant de finition de sol Evoluttion Microdeck",
+    "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck",
          "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
     "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
     "brand": {
@@ -1653,7 +1653,7 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment monocomposant de finition de sol Evoluttion Microdeck M",
+        "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck M",
              "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
         "size": "M",
@@ -1740,7 +1740,7 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment monocomposant de finition de sol Evoluttion Microdeck L",
+        "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck L",
              "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
 
 
@@ -1834,8 +1834,8 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment monocomposant Evoluttion Microfino pour la finition des murs",
-         "description": "Finition en microciment monocomposant pour murs et surfaces verticales non praticables",
+    "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs",
+         "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
     "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
     "brand": {
       "@type": "Organization",
@@ -1922,8 +1922,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment monocomposant Evoluttion Microfino pour la finition des murs XS",
-             "description": "Finition en microciment monocomposant pour murs et surfaces verticales non praticables",
+        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs XS",
+             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
         "size": "XS",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
@@ -2009,8 +2009,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment monocomposant Evoluttion Microfino pour la finition des murs S",
-             "description": "Finition en microciment monocomposant pour murs et surfaces verticales non praticables",
+        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs S",
+             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
 
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_S.jpg",
@@ -2099,8 +2099,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment monocomposant Evoluttion Microfino pour la finition des murs M",
-             "description": "Finition en microciment monocomposant pour murs et surfaces verticales non praticables",
+        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs M",
+             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
 
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_M.jpg",

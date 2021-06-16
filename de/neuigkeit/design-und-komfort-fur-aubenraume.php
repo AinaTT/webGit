@@ -17,17 +17,17 @@
 
     <title>Design und Komfort für Außenbereiche</title>
     <meta name="description"
-        content="moderne Lösungen für die warme und einladende Gestaltung von Außenbereichen mit Mikrozementverkleidungen" />
+        content="moderne Lösungen für die warme und einladende Gestaltung von Außenbereichen mit mikrozement verkleidungen" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
     <meta property="og:title" content="Design und Komfort für Außenbereiche" />
     <meta property="og:description"
-        content="Aktuelle Lösungen, um Außenbereiche mit Mikrozementverkleidungen warm und einladend zu gestalten" />
+        content="Aktuelle Lösungen, um Außenbereiche mit mikrozement verkleidungen warm und einladend zu gestalten" />
     <meta property="og:url" content="https://www.topciment.com/de/neuigkeit/design-und-komfort-fur-aubenraume" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter: description"
-        content="Aktuelle Lösungen, um Außenräume mit Mikrozementverkleidungen warm und einladend zu gestalten" />
+        content="Aktuelle Lösungen, um Außenräume mit mikrozement verkleidungen warm und einladend zu gestalten" />
     <meta name="twitter:title" content="Design und Komfort für Außenräume" />
     <meta name="twitter:title" content="Design und Komfort für Außenräume" />
     <meta name="twitter:title" content="description" content="description">
@@ -71,13 +71,13 @@
                         gestalten, sind endlos. Eine gute Kombination von Texturen, <u>Farben</u> und Beschichtungen
                         sind der Schlüssel zur Schaffung einer ästhetischen und angenehmen Außenumgebung. <br><br> </p>
                     <img src="https://www.topciment.com/imagenes/exteriores/diseno-y-confort-espacios-exteriores.jpg"
-                        alt="Außenbereiche warm und einladend gestalten mit Mikrozementbeschichtungen" width="100%" />
+                        alt="Außenbereiche warm und einladend gestalten mit mikrozement beschichtungen" width="100%" />
                     <br><br><br>
                     <p>Hydraulische Fliesen, recyceltes Holz oder witterungsbeständige Verbundbeschichtungen sind
                         <strong>aktuelle Lösungen, um Außenbereiche warm und einladend zu gestalten</strong>, die in
-                        Kombination mit <u><a href="../mikrozemente">Mikrozement</a></u>, wird eine saubere, angenehme
+                        Kombination mit <u><a href="../mikrozemente">mikrozement </a></u>, wird eine saubere, angenehme
                         und avantgardistische Umgebung entstehen lassen.</p>
-                    <p>Mikrozement präsentiert sich als <u><a href="../garantie">Qualitätsverkleidung</a></u> mit
+                    <p>mikrozement  präsentiert sich als <u><a href="../garantie">Qualitätsverkleidung</a></u> mit
                         unendlichen Möglichkeiten an Farben und Ausführungen. Aufgrund seiner rutschfesten Eigenschaften
                         und hohen Widerstandsfähigkeit empfiehlt Topciment <u><a
                                 href="../mikrozement/produkte">Microstone</a></u> für Außenverkleidungen, Vordächer
@@ -95,7 +95,7 @@
                         src="https://www.topciment.com/imagenes/exteriores/diseno-y-confort-terrazas-exteriores.jpg"
                         alt="Microstone kann neben Schwimmbädern und in allen Arten von Klima und Umgebungen eingesetzt werden"
                         width="100%"> <br><br>
-                    <p>Wenn Sie möchten, dass wir Sie über diesen Mikrozement für den Außenbereich informieren,
+                    <p>Wenn Sie möchten, dass wir Sie über diesen mikrozement  für den Außenbereich informieren,
                         kontaktieren Sie uns bitte <u><a href="../kontakt">Kontakt</a></u> <br><br></p>
                     </p> <br><br>
                     <p>.

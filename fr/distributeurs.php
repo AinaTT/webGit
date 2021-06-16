@@ -14,18 +14,18 @@
 
 
 
-    <title>Voulez-vous devenir un distributeur du béton ciré Topciment ? Nous vous informons. </title>
-    <meta name="description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré, et achetez du béton ciré directement de l'usine. "/>
+    <title>Voulez-vous devenir un distributeur du béton ciré  Topciment ? Nous vous informons. </title>
+    <meta name="description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré , et achetez du béton ciré  directement de l'usine. "/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Voulez-vous devenir un distributeur du béton ciré Topciment ? Nous vous informons. "/>
-    <meta property="og:description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré, et achetez du béton ciré directement de l'usine. "/>
+    <meta property="og:title" content="Voulez-vous devenir un distributeur du béton ciré  Topciment ? Nous vous informons. "/>
+    <meta property="og:description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré , et achetez du béton ciré  directement de l'usine. "/>
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/distributeurs"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré, et achetez du béton ciré directement de l'usine. "/>
-    <meta name="twitter:title" content="Voulez-vous devenir un distributeur du béton ciré Topciment ? Nous vous informons. "/>
+    <meta name="twitter:description" content="Faites partie de l'équipe Topciment, en devenant distributeur de béton ciré , et achetez du béton ciré  directement de l'usine. "/>
+    <meta name="twitter:title" content="Voulez-vous devenir un distributeur du béton ciré  Topciment ? Nous vous informons. "/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -35,14 +35,6 @@
     <link rel="alternate" href="https://www.topciment.com/fr/distributeurs" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/es/distribuidores" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/en/dealers" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/vertriebspartner.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/distributori.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/distributeur.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-dealers.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/distribiytori.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.us/distributors.html" hreflang="en-US"/>
-    <link rel="alternate" href="https://www.topciment.pt/distribuidores.html" hreflang="pt-PT"/>
-    <link rel="alternate" href="https://www.topciment.cn/concrete-decorative-paint-supplier.html" hreflang="zh-CN"/>
 
     <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>
@@ -76,7 +68,7 @@
                         <div class="container">
                             <div class="content">
 
-                                <h1 class="en2">Distributeur béton ciré
+                                <h1 class="en2">Distributeur béton ciré 
                                 </h1>
                                 <a id="quieres-ser-distribuidor" class="ancla"></a>
                                 <h2>Vous voulez devenir <br> un distributeur?</h2>
@@ -85,7 +77,7 @@
                                     avec une grande demande sur le marché. Nous vous aidons et mettons à votre
                                     service notre grande expérience dans le secteur et tous les outils nécessaires
                                     pour distribuer nos produits.</p>
-                                <p>Si votre objectif est de devenir un distributeur de béton ciré Topciment, en
+                                <p>Si votre objectif est de devenir un distributeur de béton ciré  Topciment, en
                                     contribuant à notre processus d’amélioration et d’expansion continue pour
                                     apporter plus de valeur à notre entreprise,<strong>vous serez le bienvenu.
                                     </strong> </p>
@@ -147,10 +139,10 @@
                     <h3>Cours de formation dans les installations du distributeur </h3>
                     <p>Chez Topciment, nous offrons une assistance continue à nos distributeurs. Nous réalisons des
                         cours de formation aux points de distribution pour que les professionnels connaissent en
-                        détail et de première main les procédures d’application du béton ciré Topciment.<br>
+                        détail et de première main les procédures d’application du béton ciré  Topciment.<br>
                     </p>
                     <p>Nos <strong>cours homologués, </strong> , avec<strong> certification expert, </strong> , sont
-                        donnés par des professionnels qui enseignent les techniques pour appliquer le béton ciré
+                        donnés par des professionnels qui enseignent les techniques pour appliquer le béton ciré 
                         Topciment ; ils se chargeront, moyennant un cours hautement pratique, de résoudre tous les
                         doutes qui peuvent surgir.<br>
                     </p>
@@ -173,18 +165,18 @@
                     </p>
                     <p>Moyennant quatre variables : type de produit (Microbase, Microfino, Microdeck, etc.),
                         quantité de produit (10 kg, 20 kg, etc.), couleur sélectionnée du nuancier de Topciment, et
-                        finition avec laquelle sera scellé le béton ciré (DSV ou WT), une machine préparera
+                        finition avec laquelle sera scellé le béton ciré  (DSV ou WT), une machine préparera
                         automatiquement le pigment à appliquer sur le produit en minimisant la marge d’erreur.<br>
                     </p>
                     <h3>Expérience dans le secteur<br>
                     </h3>
-                    <p>Topciment est une entreprise spécialisée dans la fabrication et distribution de béton ciré
+                    <p>Topciment est une entreprise spécialisée dans la fabrication et distribution de béton ciré 
                         avec plus de 10 ans d’expérience. Sis à Valence, notre réseau s’étend sur tout le territoire
                         national, ainsi que dans différents pays comme l’Allemagne, les Pays-Bas, le Portugal, la
                         Grèce, le Royaume-Uni, etc.<br>
                     </p>
                     <p>L’expérience acquise est une de nos meilleures références. Nous disposons d’une équipe
-                        hautement qualifié qui fait de nous la référence du béton ciré au sein de notre marché.<br>
+                        hautement qualifié qui fait de nous la référence du béton ciré  au sein de notre marché.<br>
                     </p>
                     <p>Nous vous offrons l’opportunité de rejoindre un grand groupe, avec un service excellent et
                         qui garantit des résultats dès le premier jour.<br>

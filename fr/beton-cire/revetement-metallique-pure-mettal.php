@@ -24,7 +24,7 @@
     <meta name="description"
         content="Transformez les murs et les meubles avec Pure Mettal, nos carreaux muraux et
 revêtements métalliques.
-Un produit innovant avec lequel vous obtiendrez des finitions métalliques hautement décoratives sur du béton ciré, du béton, de la brique ou de la céramique." />
+Un produit innovant avec lequel vous obtiendrez des finitions métalliques hautement décoratives sur du béton ciré , du béton, de la brique ou de la céramique." />
 
 
     <meta property="og:title" content="Revêtements et revêtements métalliques
@@ -34,7 +34,7 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
     <meta property="og:description"
         content="Transformez les murs et les meubles avec Pure Mettal, nos carreaux muraux et
 revêtements métalliques.
-Un produit innovant avec lequel vous obtiendrez des finitions métalliques hautement décoratives sur du béton ciré, du béton, de la brique ou de la céramique.">
+Un produit innovant avec lequel vous obtiendrez des finitions métalliques hautement décoratives sur du béton ciré , du béton, de la brique ou de la céramique.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
@@ -74,6 +74,7 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
                                 </li>
                                 <li><a href="#que-es-puremetal">Qu'est-ce que Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
+                                   <li><a href="#colores">Finitions</a></li>
                                 <li><a href="#aplicacion">Aplicattion</a></li>
                             </ul>
                         </div>
@@ -145,7 +146,7 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
                     </div>
                     <div id="separador50px">
                     </div>
-
+                    <a id="colores" class="ancla"></a>
                     <h2>Types de revêtements et revêtements métalliques Pure Mettal</h2>
 
                     <p>
@@ -263,7 +264,7 @@ Un produit innovant avec lequel vous obtiendrez des finitions métalliques haute
                                 <div class="col-md-9">
                                     <strong>Applicable sur tout types de support
                                     </strong>
-                                    <p>Béton ciré, ciment , brique,carrelage,etc...
+                                    <p>béton ciré , ciment , brique,carrelage,etc...
                                     </p>
                                 </div>
                             </div>

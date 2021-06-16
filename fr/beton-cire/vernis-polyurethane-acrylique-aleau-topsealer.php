@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
@@ -7,38 +7,36 @@
   <meta name="viewport" content="width=device-width" />
   <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
   <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-  <meta name="Language" content="ES" />
+  <meta name="Language" content="FR" />
 
 
   <?php include("../../assets/includes/styles.php"); ?>
   <link rel="preload" href="../../assets/css/familia.css" as="style" />
   <link rel="stylesheet" href="../../assets/css/familia.css" />
-  <title>Barnices poliuretano, al agua y acrílicos |Topsealer</title>
+  <title>Vernis polyuréthane, à base d'eau et acryliques | Vernis Topsealer</title>
   <meta name="description"
-    content="Los barnices Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos barnices de poliuretano, al agua y acrílicos." />
+    content="Les vernis Topsealer offrent une protection supérieure contre l'abrasion, les rayures, les taches et la lumière du soleil. Nous fabriquons des vernis polyuréthane, à base d'eau et acryliques." />
 
 
 
-  <meta property="og:title" content="Barnices poliuretano, al agua y acrílicos |Topsealer">
+  <meta property="og:title" content="Vernis polyuréthane, à base d'eau et acryliques | Vernis Topsealer">
   <meta property="og:site_name" content="Topciment">
-  <meta property="og:url" content="https://www.topciment.com/es/microcemento/barniz-topsealer">
+  <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau">
   <meta property="og:description"
-    content="Los barnices Topsealer ofrecen una protección superior a la abrasión, el rayado, las manchas y la luz solar. Fabricamos barnices de poliuretano, al agua y acrílicos.">
+    content="Les vernis Topsealer offrent une protection supérieure contre l'abrasion, les rayures, les taches et la lumière du soleil. Nous fabriquons des vernis polyuréthane, à base d'eau et acryliques.">
   <meta property="og:type" content="article">
   <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-  <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-  <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-  <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-  <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
 
 
-  <link rel="canonical" href="https://www.topciment.com/es/microcemento/barniz-topsealer" />
+  <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau" />
+  <link rel="alternate" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer"
+    hreflang="es-ES" />
+  <link rel="alternate"
+    href="https://www.topciment.com/en/microcements/polyurethane-waterbased-acrylic-varnishes-topsealer"
+    hreflang="en-GB" />
 
-  <link rel="alternate" href="https://www.topciment.com/es/microcemento/barniz-topsealer" hreflang="es-ES" />
-  <link rel="alternate" href="https://www.topciment.com/en/microcements/varnishes-topsealer" hreflang="en-GB" />
-  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-topsealer" hreflang="fr-FR" />
-  <link rel="alternate" href="https://topciment.com/pl/mikrocement/lakier-topsealer" hreflang="pl-PL" />
-
+  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau"
+    hreflang="fr-FR" />
   <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -62,7 +60,7 @@
                   <a href="#up" style="font-size:26px">Topsealer</a>
                 </li>
                 <li>
-                  <a href="#que-es-topsealer">¿Qué es Topsealer?</a>
+                  <a href="#que-es-topsealer">Qu'est-ce que Topsealer?</a>
                 </li>
                 <li>
                   <a href="#topsealer-one-coat">Topsealer WT One Coat</a>
@@ -88,36 +86,42 @@
                 <li>
                   <a href="#spray"> Topsealer WT Spray</a>
                 </li>
-
               </ul>
             </div>
             <div class="content">
               <a id="que-es-topsealer" class="ancla"></a>
-              <h1 class="en2">Barnices poliuretano, al agua y acrílicos |Topsealer</h1>
+              <h1 class="en2">Vernis polyuréthane, à base d'eau et acryliques | Vernis Topsealer</h1>
 
               <div class="text-justify">
                 <p>
-                  Topsealer es la línea de selladores de Topciment diseñados para la protección de múltiples soportes
-                  como microcemento, parquet, madera, hormigón impreso o metales, entre otros.
+                  Topsealer est la gamme de produits d'étanchéité de Topciment conçue pour la protection des produits
+                  suivants
+                  des supports multiples tels que le microciment, le parquet, le bois, le béton imprimé ou les métaux,
+                  parmi d'autres.
 
                 </p>
                 <p>
-                  Disponemos de una gran variedad de barnices de poliuretano en función del material que se quiera
-                  proteger y del acabado que se busque lograr. Selladores de inmejorables resistencias mecánicas y
-                  químicas como a la abrasión, al agua, al rayado, a las manchas, a la luz solar y ultravioleta o a los
-                  productos de limpieza agresivos.
+                  Nous disposons d'une grande variété de vernis en fonction du matériau à protéger et de la finition à
+                  obtenir.
+                  à protéger et la finition que vous cherchez à obtenir. Des produits d'étanchéité d'une qualité
+                  mécanique et chimique imbattable.
+                  résistance mécanique et chimique à l'abrasion, à l'eau, aux rayures, aux taches, à la lumière du
+                  soleil et aux rayons ultraviolets, ainsi qu'à
+                  la lumière du soleil et les ultraviolets ou les produits de nettoyage agressifs.
 
                 </p>
                 <p>
-            Los barnices Topsealer se pueden aplicar tanto en interiores como exteriores y, además, son capaces de crear superficies antideslizantes e impermeables. Contamos con todo tipo de selladores: barnices de poliuretano al agua, barnices de poliuretano al disolvente, barnices bicomponentes 100% sólidos, barnices de poliuretano acrílicos e incluso barnices de poliuretano con pistola.
-
+                  Les vernis Topsealer peuvent être appliqués à l'intérieur et à l'extérieur et sont également capables
+                  de créer des surfaces antidérapantes et imperméables. Nous disposons de tous les types de produits
+                  d'étanchéité : vernis polyuréthane à base d'eau, vernis polyuréthane à base de solvant, vernis
+                  bicomposant 100% solides, vernis polyuréthane acrylique et même vernis polyuréthane en spray.
 
                 </p>
-
                 <p>
-                  A continuación, te presentamos la amplia gama de selladores Topsealer.
+                  Voici la gamme complète des vernis Topsealer.
 
                 </p>
+
               </div>
             </div>
           </div>
@@ -130,7 +134,7 @@
     <div id="separador50px">
     </div>
     <div class="fullscreen background parallax"
-      style="background-image:url('https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg');"
+      style="background-image:url('https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_01.jpg');"
       data-img-width="1920" data-img-height="1080" data-diff="100">
     </div>
     <a id="topsealer-one-coat" class="ancla"></a>
@@ -150,49 +154,36 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua bicomponente
-
-              </h2>
-              <p>
-                Topsealer WT One Coat es un barniz poliuretano al agua bicomponente que se emplea para preservar y
-                proteger el microcemento.
-
+              <h2>Vernis bicomposant </h2>
+              <p>Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver
+                et protéger le béton ciré .
               </p>
-              <p>
-                Este barniz al agua que facilita la limpieza y mantenimiento del microcemento, presenta elevadas
-                resistencias al desgaste, a la abrasión y arañazos, a los productos químicos, a la suciedad y al
-                amarilleamiento.
-
+              <p>Ce vernis à l'eau qui facilite le nettoyage et l'entretien du béton ciré , présente une
+                résistance élevée à l'usure, à l'abrasion et aux rayures, aux produits chimiques, à la
+                saleté et au jaunissement.</p>
+              <p> Le vernis polyuréthane Topsealer WT One Coat convient pour une application sur plusieurs
+                supports: métaux, sols en béton estampé et ciment, parquet et bois.
               </p>
-              <p>
-                El sellador poliuretano Topsealer WT One Coat es apto para aplicar en múltiples soportes: metales,
-                pavimentos de hormigón impreso y cemento, parquet y madera.
-
-              </p>
-              <p>
-                En cuanto a los acabados que ofrece este barniz de poliuretano, encontramos barniz mate o supermate;
-                barniz satinado y barniz brillante.
-
-              </p>
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTonecoat-ES.pdf"
+              <p>Quant aux finitions qu'il propose, on retrouve des vernis mate ou super mate; vernis
+                satiné et vernis brillant.</p>
+              <p>Téléchargez ici la fiche technique de Topsealer WT One Coat</p>
+              <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTonecoat-FR.pdf"
                 target="_blank"><span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT One Coat</strong>
+                </span><strong>Téléchargez la fiche technique de Topsealer WT One Coat ici</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caractéristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
+                  <strong>Sólides</strong>
                   <p>30 ±2% Comp.A <br>
                     100% Comp.B
                   </p>
@@ -204,9 +195,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>20 - 30" a 25ºC (Copa Ford 4mm) Comp.A
-                  </p>
+                  <strong>Viscosité</strong>
+                  <p>20 - 30" a 25ºC (Copa Ford 4mm) Comp.A</p>
                 </div>
               </div>
             </div>
@@ -218,7 +208,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad
+                  <strong>Densité
                   </strong>
                   <p> 1,02 ±0,01 g/ml Comp.A <br>
                     a 25ºC 1,045-1,055 g/mL Comp.B</p>
@@ -232,23 +222,22 @@
                 <div class="  col-md-9">
                   <strong>PH
                   </strong>
-                  <p>entre 7-9 Comp.A
+                  entre 7-9 Comp.A
                   </p>
 
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> TopSealer WT One Coat(2 manos) - 0,15 L/m²
+            Rendements</p>
+          <p><span> TopSealer WT One Coat (2 couches) - 0,15 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!-- Présentation -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua bicomponente Topsealer WT One Coat se presenta en envases de 5 L (Componente
-            A) + 1 L (Componente B)</p>
+            Présentation</p>
+          <p>TopSealer WT One Coat est présenté en contenants de 5 L (Composant A) + 1 L (Composant B)</p>
 
         </div>
       </div>
@@ -278,46 +267,38 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua antideslizante
-
-              </h2>
               <p>
-                Topsealer WT Anti Slip es un barniz poliuretano al agua antideslizante y con acabado mate cuya función
-                principal es la de convertir las superficies en antideslizantes.
+                <h2>Vernis antidérapant </h2>
+                <p class="h3s">Topsealer WT Anti Slip est un polyuréthane modifié bicomposant en phase
+                  acqueuse légèrement
+                  alcalin avec une finition semi mate.</h3>Sa fonction principal est de convertir une
+                  superficie en antidérapant.
 
-              </p>
-              <p>
-                Este sellador poliuretano bicomponente es especialmente recomendable para proteger el microcemento,
-                aunque puede utilizarse también sobre pavimentos de hormigón y para la renovación de parquets.
+                </p>
+                <p>Topsealer WT Antislip possède une résistance au glissement supérieur à 45º,Clase 3
+                  selon
+                  la norme UNE-ENV
+                  12633:2003 certifié pour la AIDIMME.</p>
 
-              </p>
-              <p>
-                Gracias a sus buenas resistencias químicas y mecánicas, el barniz al agua Topsealer WT Anti Slip se
-                puede aplicar en márgenes de piscinas, cuartos de baño y cocinas, suelos y pasillos de áreas comunes y
-                rampas y pavimentos de hormigón.
-
-              </p>
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTantiSlip-ES.pdf"
-                target="_blank"><span class="fa-stack">
-                  <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT Anti Slip</strong>
-              </a>
+                <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTantiSlip-FR.pdf"
+                  target="_blank"><span class="fa-stack">
+                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                  </span><strong>Téléchargez la fiche technique de Topsealer WT Anti Slip ici</strong>
+                </a>
             </div>
           </div>
-          <!-- Propiedades  -->
+          <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caracteristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
+                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
-                  <p>Comp A: 34 ±2% <br>
-                    Comp B: 100%</p>
+                  <strong>Durete</strong>
+                  <p>7 days of curing:
+                    70 seconds</p>
                 </div>
               </div>
             </div>
@@ -326,8 +307,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>Comp. A: 14-16s a 25ºC (Copa Ford 4) </p>
+                  <strong>Viscosité</strong>
+                  <p>22-24” a 20ºC CF-4</p>
                 </div>
               </div>
             </div>
@@ -339,10 +320,10 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 25ºC
+                  <strong>Densité à 25 ºCºC
                   </strong>
-                  <p>Comp. A 1,03 ±0,01 g/ml <br>
-                    Comp. B a 25ºC: 1,045 - 1,055 g/mL
+                  <p>1,018 g/ml Comp. A
+                    1,045 - 1,055 g/ml Comp. B
                   </p>
 
                 </div>
@@ -355,21 +336,21 @@
                 <div class="  col-md-9">
                   <strong>PH
                   </strong>
-                  <p>7,5 ±0,5</p>
+                  Entre 7 et 9</p>
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span>Topsealer WT Anti Slip (2 manos) - 0,12 L/m²
+            Rendements</p>
+          <p><span>Topsealer WT Anti Slip (2 couches) - 0,12 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!-- Présentation -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua antideslizante Topsealer WT Anti Slip se presenta en garrafas de 5 L
-            (Componente A) + botella de 1 L (Componente B)
+            Présentation</p>
+          <p>Topsealer WT Anti Slip est disponible en flacon de 5 L (composant A) + flacon de 1 L (composant
+            B)
           </p>
         </div>
       </div>
@@ -399,68 +380,60 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua secado rápido
-
-              </h2>
               <p>
-                Topsealer WT Quick Dry es un barniz de poliuretano al agua de dos componentes e idóneo para la
-                protección del microcemento.
+                <h2>Vernis à l'eau</h2>
+                <p class="h3s">Topsealer WT Quick Dry est un polyuréthane à deux composants légèrement
+                  alcalin à base d'eau,
+                  adapté à la protection du microciment.</h3>
+                </p>
+                <p>Une de ses principales caractéristiques est qu'il a un séchage très rapide et une
+                  bonne
+                  résistance à l'abrasion et aux agents chimiques.</p>
 
-              </p>
-              <p>
-                Una de las características principales de este barniz de poliuretano al agua es que tiene un secado muy
-                rápido. Además, este sellador de poliuretano presenta buenas resistencias a la abrasión y a los agentes
-                químicos.
-
-
-              </p> <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWTquickdry-ES.pdf"
-                target="_blank"><span class="fa-stack">
-                  <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer WT Quick Dry</strong>
-              </a>
+                <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTquickdry-FR.pdf"
+                  target="_blank"><span class="fa-stack">
+                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                  </span><strong>Téléchargez la fiche technique de Topsealer WT Quick Dry ici</strong>
+                </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caracteristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
+                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos</strong>
-                  <p>Comp A: 22% <br>
-                    Comp A: 100 %</p>
+                  <strong>Solides</strong>
+                  <p>Comp. A:17-33% <br>
+                    Comp B:100%</p>
                 </div>
               </div>
             </div>
+            <div class="col-6">
+              <div class="row">
+                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
+                    class="figure-img img-fluid rounded"></div>
+                <div class="  col-md-9">
+                  <strong>Viscosité</strong>
+                  <p>22-24” a 20ºC CF-4</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 20º</strong>
-                  <p>1,028 g/mL Comp.A <br>
-                    1,045-1,055 g/mL Comp.B
-
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-6">
-              <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
-                    class="figure-img img-fluid rounded"></div>
-                <div class="  col-md-9">
-                  <strong>Viscosidad
+                  <strong>Densité à 25 ºCºC
                   </strong>
-                  <p>14 - 15s (Copa Ford 4)
+                  <p>1,018 g/ml Comp. A
+                    1,045 - 1,055 g/ml Comp. B
                   </p>
 
                 </div>
@@ -473,21 +446,21 @@
                 <div class="  col-md-9">
                   <strong>PH
                   </strong>
-                  <p>Entre 7 y 9</p>
+                  Entre 7 et 9</p>
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span>Topsealer WT Quick Dry (2 manos) - 0,12 L/m²
+            Rendements</p>
+          <p><span>Topsealer WT Anti Slip (2 couches) - 0,12 L/m²
             </span></p>
-          <!-- Presentación -->
+          <!-- Présentation -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz poliuretano al agua de secado rápido Topsealer WT Quick Dry se presenta en garrafas de 5 L
-            (Componente A) + botella de 0,5 L (Componente B)
+            Présentation</p>
+          <p>Topsealer WT Anti Slip se présente en bidons de 5 litres (componente A)+ bouteille de
+            1L(composant B)
           </p>
         </div>
       </div>
@@ -517,68 +490,84 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Poliurea en frío bicomponente de curado rápido e impermeable
-
+              <h2>Polyurée à froid à deux composants, à durcissement rapide et imperméable
               </h2>
+
               <p>
-                Topsealer Pro + es una poliurea en frío bicomponente de curado rápido e impermeable que es idóneo para
-                la protección de superficies revestidas con microcemento en interiores. Este barniz bicomponente 100%
-                sólidos no requiere de imprimación, de hecho está diseñado para aplicarse en una sola capa ya que tiene
-                la capacidad de penetrar completamente en los poros garanizando un sellado total.
+                opsealer Pro + est une polyurée à froid à deux composants, étanche à l'eau et à durcissement rapide,
+                idéale pour la protection des surfaces intérieures revêtues de béton ciré et de béton. Ce vernis
+                bi-composant 100% solide ne nécessite pas de primaire, en effet il est conçu pour être appliqué en une
+                seule couche car il a la capacité de pénétrer complètement les pores garantissant une étanchéité totale.
 
               </p>
               <p>
-                Este exclusivo barniz de alto brillo aporta un extra de dureza al microcemento además de impermeabilizar
-                cualquier tipo de soporte. Contamos con dos tipos de poliurea en frío y de curado rápido Topsealer Pro +
-                en función de la velocidad de aplicación y tiempo de secado: Fast y Slow.
+                Ce vernis exclusif à haute brillance offre une dureté supplémentaire au béton ciré en plus d'empêcher la
+                respirabilité de la vapeur d'eau. De même, ce vernis bi-composant 100% solide a la capacité de rehausser
+                la couleur des sols en béton ciré et béton imprimé en intérieur.
 
               </p>
+              <p>
+                Si le professionnel souhaite réduire la brillance de la finition finale, il pourra alors appliquer une
+                couche de notre vernis Topsealer WT One Coat (finition satinée, mate ou super mate) ou une couche de
+                notre vernis Topsealer DSV (finition satinée ou mate ). Avec n'importe laquelle de ces combinaisons, la
+                surface revêtue de béton ciré acquiert automatiquement une plus grande résistance aux rayures.
 
+              </p>
+              <p>
+                Nous avons deux types de polyurée à froid Topsealer Pro + à deux composants en fonction des temps de
+                durcissement : Fast et Slow.
+
+              </p>
 
             </div>
           </div>
-           <h3>Poliurea en frío de curado rápido e impermeable Topsealer Pro + Fast</h3>
+          <h3>Topsealer Pro + Polyurée froide à durcissement rapide imperméable et rapide</h3>
 
+        <p>
+           La polyurée à froid bi-composant Topsealer Pro + Fast intensifie et rehausse la couleur des supports en ciment et béton. Il s'applique au rouleau ou à la taloche "0 pore" et garantit une excellente résistance à l'eau, à l'usure, à certains produits chimiques et aux UV.
+
+        </p>  
 <p>
-  La poliurea en frío bicomponente Topsealer Pro + Fast intensifica y realza el color de los soportes de mirocemento y hormigón. Su aplicación se realiza con "poro 0" o llana y garantiza unas excelentes resistencias al agua, al desgaste, a ciertos productos químicos y a la luz UV.
+  Ce vernis bi-composant, 100 % solide, sans apprêt rehausse la couleur des revêtements en béton ciré. En plus de présenter une grande résistance, il se distingue par sa remarquable résistance au jaunissement.
 
 </p>  
-<p>
-  Este barniz bicomponente 100% sólidos y que no necesita imprimación presenta una gran transparencia además de impermeabilizar el soporte, impidiendo así su transpirabilidad al vapor de agua. 
-     
-</p>                 
-</p>
-<h3>Poliurea en frío de curado rápido e impermeable Topsealer Pro + Slow</h3>
+          <!-- -->
+          <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerPro+Fast_FR.pdf"
+            target="_blank"> <span class="fa-stack">
+              <i class="fas fa-file-pdf fa-stack-1x"></i>
+            </span><strong>Téléchargez ici la fiche technique de Topsealer Pro + Fast</strong>
+          </a>
+          <h3> Topsealer Pro + Polyurée froide à séchage rapide et étanche</h3>
 
+         
 <p>
-  El barniz bicomponente 100% sólidos Topsealer Pro + Slow no necesita imprimación. Una poliurea en frío bicomponente con la capacidad de impermeabilizar y proteger cualquier soporte de microcemento en interiores además de pavimentos de hormigón.
-
+  Le vernis bi-composant Topsealer Pro + Slow 100% solide ne nécessite pas de primaire. Une polyurée froide à deux composants avec la capacité d'imperméabiliser contre l'eau courante et de protéger tout substrat en béton ciré à l'intérieur ainsi que les trottoirs en béton.
 </p>  
 <p>
-  Al ser un barniz muy brillante, esta poliurea en frío realza el brillo de la superficie además de su dureza. Se aplica en una única mano tanto con rodillo "poro 0" o llana. Posee muy buenas resistencias al desgaste, a la luz UV (no amarillea) y a algunos productos químicos.
+  Étant un vernis très brillant, cette polyurée à froid améliore la brillance de la surface ainsi que sa dureté. Il s'applique en une seule couche au rouleau "0 pore" ou à la taloche. Il a une très bonne résistance à l'usure, aux UV (ne jaunit pas) et à certains produits chimiques.
 
 </p>  
-<p>Del mismo modo que ocurre con la poliurea en frío Topsealer Pro + Fast, este barniz</p>
-<p>bicomponente 100% sólidos impermeabiliza el microcemento frente al agua corriente evitando la transpirabilidad al vapor de agua. </p>
- <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Slow_ES.pdf" target="_blank"> <span class="fa-stack"> <i class="fas fa-file-pdf fa-stack-1x"></i>
-                              Descarga aquí la ficha técnica de Topsealer Pro + Slow<strong></strong>
-                            </a>   
-                           <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerPro+Fast_ES.pdf" target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica de Topsealer Pro + Fast</strong>
-                            </a>
+<p>Comme Topsealer Pro + Polyurée à froid rapide, ce vernis</p>
+<p>
+  Bi-composant 100% solide, il imperméabilise le béton ciré contre l'eau courante, empêchant ainsi la respirabilité à la vapeur d'eau.
+
+</p>  
+          <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerPro+Slow_FR.pdf"
+            target="_blank"> <span class="fa-stack">
+              <i class="fas fa-file-pdf fa-stack-1x"></i>
+            </span><strong>Téléchargez ici la fiche technique de Topsealer Pro + Slow</strong>
+          </a>
           <!-- Propiedades -->
-          <p class="en3">
-            Características técnicas</p>
+          <h3 class="en3">
+           Caractéristiques techniques Topsealer Pro + polyurées à froid</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/alto_brillo.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Alto brillo</strong>
+                  <strong>Haute luminosité</strong>
+                  <p>Grâce a son fort contenu en solides. </p>
                 </div>
               </div>
             </div>
@@ -587,9 +576,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Secado rápido</strong>
-                  <p>2-3 horas Topsealer Pro + Fast <br>
-                    8 horas Topsealer Pro + Slow
+                  <strong>Séchage rapide</strong>
+                  <p>2-3 heures Topsealer Pro + Fast <br>8 heures Topsealer Pro + Slow
                   </p>
                 </div>
               </div>
@@ -601,44 +589,43 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="col-md-9">
-                  <strong>Impermeables
+                  <strong>Imperméables
                   </strong>
-                  <p>Frente al agua corriente
+                  <p>Face à l'eau courante
                   </p>
                 </div>
               </div>
             </div>
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img
-                    src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_exterior_interior.png"
+                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="col-md-9">
-                  <strong>Tiempo de aplicación
+                  <strong>Temps d'application
                   </strong>
-                  <p>15 minutos Topsealer Pro + Fast <br> 25-30 minutos Topsealer Pro + Slow
-                  </p>
+                  <p>15 minutes Topsealer Pro + Rapide <br> 25-30 minutes Topsealer Pro + Slow </p>
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento</p>
-          <p>El rendimiento de la poliurea en frío Topsealer Pro + Fast es a 1 mano de 60-100 g / m2</p>
-          <!-- Presentación -->
+            Rendements</p>
+          <p>Le rendement des polyurées froides Topsealer Pro + Fast et Topsealer Pro + Slow sont de 1 couche de 60-100
+            g / m2</p>
+          <!-- Présentation -->
           <p class="en3">
-            Presentación</p>
-          <p>El barniz bicomponente 100% sólidos e impermeable Topsealer Pro + Fast se presenta en un pack bicomponente
-            de 0,64 kg (componente B) y 0,8 kg (componente A)
+            Présentation</p>
+          <p>Les vernis bi-composants 100% solides et imperméables Topsealer Pro + Fast et Topsealer Pro + Slow sont
+            présentés dans un pack bi-composant
+            de 0,8 kg (composant A) et 0,64 kg (composant B).
           </p>
-      
         </div>
       </div>
     </section>
     <!-- end topsealer Pro + -->
 
-    <!-- start topsealer dsvs -->
+    <!-- start topsealer dsv -->
     <div id="separador50px">
     </div>
     <div class="fullscreen background parallax"
@@ -648,7 +635,6 @@
     <a id="topsealerdsv" class="ancla"></a>
     <section>
       <div class="container">
-
         <div class="content">
           <!-- titulo -->
           <div class="text-center ">
@@ -663,57 +649,44 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano acrílico bicomponente al disolvente
-
-              </h2>
               <p>
-                Topsealer DSV es un barniz poliuretano acrílico bicomponente (A + B) al disolvente. Este sellador
-                protege las superficies recubiertas con microcemento en interiores y exteriores.
+                <h2>Vernis acrylique bicomposant</h2>
+                <p class="h3s">Topsealer DSV est un polyuréthane acrylique de deux composants (A+B) au
+                  solvant.</h3>
+                </p>
+                <p>Le produit est idéal pour la protection des bétons cirés en intérieurs et en
+                  extérieurs.
+                  Il est disponilble en trois diférentes finitions:mate ,
+                  brillant , et satiné.</p>
 
-              </p>
-              <p>
-                Este sellador poliuretano de dos componentes confiere buenas resistencias a la abrasión, al rayado, al
-                agua, a la luz ultravioleta y a los agentes de limpieza domésticos.
-
-              </p>
-              <p>
-                Además, es un barniz acrílico que realza considerablemente el color de los revestimientos de
-                microcemento, hormigón, madera o parquet. Los tres acabados de Topsealer DSV son: mate, brillo y
-                satinado.
-
-              </p>
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank">
-                <span class="fa-stack">
-                  <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de Topsealer DSV</strong>
-              </a>
+                <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerDSV-FR.pdf"
+                  target="_blank"> <span class="fa-stack">
+                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                  </span><strong>Téléchargez la fiche technique de Topsealer DSV ici</strong>
+                </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caracteristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Dureza</strong>
-                  <p>14 días de curado:
-                    120 segundos</p>
+                  <strong>Dureté</strong>
+                  <p>14 jours de séchage </p>
                 </div>
               </div>
             </div>
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img
-                    src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png"
+                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
-                  <p>20 s (Copa Ford 4)</p>
+                  <strong>Viscosité</strong>
+                  <p>20 s ( Copa Ford 4 )</p>
                 </div>
               </div>
             </div>
@@ -724,27 +697,27 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos
+                  <strong>Solides
                   </strong>
-                  <p>Comp.A 40%
-                    Comp.B 39% </p>
+                  <p>40% Comp.A
+                    39% Comp.B</p>
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento
+            Rendements
           </p>
           <p><span> Microfino - 0,17 L/m2<br>
               Microdeck - 0,20 L/m2<br>
               Microstone - 0,25 L/m2</span></p>
-          <!-- Presentación -->
+          <!-- Présentation -->
           <p class="en3">
-            Presentación
+            Présentation
           </p>
-          <p>El barniz poliuretano acrílico bicomponente al disolvente Topsealer DSV se presenta en un envase de 4 L
-            (componente A) + dos envases de 1 L cada uno (endurecedor componente B)
+          <p>Topsealer DSV se présente dans un emballages de 4 L ( composant A)+ deux emballages de 1L chacun(
+            durcisseur Composant B)
           </p>
         </div>
       </div>
@@ -774,55 +747,83 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz acrílico al agua
+              <h2>Vernis acrylique à l'eau</h2>
 
-              </h2>
               <p>
-                Presealer es un sellador formulado a base de copolímero acrílico en emulsión e inalterable a la humedad.
-                Por ello, es ideal para proteger "Atlanttic", el microcemento en piscinas.
+                Presealer est un vernis acrylique à base d'eau formulé avec des copolymères acryliques en émulsion
+                résistants à l'humidité. Un scellant qui se distingue par sa facilité d'application, sa grande adhérence
+                et son excellente résistance à l'alcalinité des revêtements en béton ciré.
 
               </p>
               <p>
-                Un barniz acrílico al agua que puede utilizarse como sistema de imprimación, ya que es capaz de actuar
-                como puente de unión entre el microcemento y el acabado.
+                La particularité de Presealer est qu'il s'agit d'un vernis acrylique à base d'eau qui peut être utilisé
+                aussi bien comme scellant pour piscines que comme primaire pour béton ciré.
 
               </p>
-              <p>
-                Hay que aplicar dos capas de Presealer antes del Topsealer WT One Coat y Topsealer WT Anti Slip.
-
-              </p>
-
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/Presealer-ES.pdf" target="_blank"> <span
-                  class="fa-stack">
+              <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Presealer-FR.pdf" target="_blank">
+                <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de
-                  Presealer</strong>
+                </span><strong>Téléchargez la fiche technique de Presealer ici</strong>
               </a>
             </div>
           </div>
+          <h3> Préscellant vernis acrylique à l'eau et aussi comme scellant pour piscines</h3>
+
+          <p>
+            L'une des applications possibles du vernis acrylique à l'eau Presealer est sur notre système Atlantic, le
+            béton ciré pour piscines. Dans ce cas, le Presealer agit comme un scellant de piscine créant un film qui
+            protège et consolide les piscines en béton ciré en même temps.
+
+          </p>
+          <p>
+            S'il doit être utilisé comme scellant de piscine, il sera nécessaire d'appliquer deux couches de vernis
+            acrylique à l'eau Presealer à l'aide d'un rouleau microfibre à poils courts. Laisser sécher 4 heures entre
+            les couches.
+
+          </p>
+          <h3>Préscellant vernis acrylique à l'eau comme apprêt de béton ciré</h3>
+
+          <p>
+            L'autre option pour appliquer le vernis acrylique à base d'eau Presealer est comme apprêt béton ciré, car il
+            a la capacité d'agir comme un pont entre le béton ciré et le vernis, consolidant et imperméabilisant le
+            support.
+
+          </p>
+          <p>
+            Spécifiquement sur nos systèmes de béton ciré à deux composants (Standard et Unlimited) et sur notre béton
+            ciré à un composant Evoluttion
+
+          </p>
+          <p>
+            De même, deux couches de Presealer seront appliquées avec un rouleau en microfibre à poils courts avec une
+            séparation de 4 heures entre les couches. Ensuite, il est indispensable de protéger la surface du béton ciré
+            avec l'un de nos vernis Topsealer WT.
+
+          </p>
           <!-- Propiedades -->
-          <p class="en3">
-            Características técnicas</p>
+          <h3 class="en3">
+            Caractéristiques techniques du vernis acrylique à l'eau Presealer</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
+                <div class=" col-md-3"><img
+                    src="https://www.topciment.com/imagenes/sistemas/icons/versatilidad_aplicacion.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Secado al tacto</strong>
-                  <p>20 minutos</p>
+                  <strong> Variété d'utilisations</strong>
+                  <p>Le vernis acrylique à base d'eau Presealer peut être utilisé comme scellant de piscine et/ou apprêt
+                    béton ciré.</p>
                 </div>
               </div>
             </div>
             <div class="col-6">
               <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
+                <div class=" col-md-3"><img
+                    src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad</strong>
-                  <p>10 - 11s (Copa Ford 4)</p>
+                  <strong>Très résistant</strong>
+                  <p>Stable en milieu humide et grande résistance à l'alcalinité du béton ciré.</p>
                 </div>
               </div>
             </div>
@@ -834,7 +835,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad a 20ºC</strong>
+                  <strong>Densité a 20ºC</strong>
                   <p>1 ± 0,01 g/mL</p>
                 </div>
               </div>
@@ -845,21 +846,20 @@
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
                   <strong>PH</strong>
-                  <p>entre 7,5 y 9</p>
+                  <p> Entre 7 et 8,5</p>
                 </div>
               </div>
             </div>
           </div>
-          <!-- Rendimiento -->
+          <!-- Rendements -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Presealer (2 manos) - 0,12 L/m²
-            </span></p>
-          <!-- Presentación -->
+            Rendements</p>
+          <p>Le rendement du vernis acrylique à l'eau Presealer sont de : 0,12 L/m² (2 couches)</p>
+          <!-- Présentation -->
           <p class="en3">
-            Presentación
+            Présentation
           </p>
-          <p>El barniz acrílico Presealer se presenta en garrafas de 5L.</p>
+          <p>Le vernis acrylique à l'eau Presealer est présenté en bidons de 5L.</p>
         </div>
       </div>
     </section>
@@ -888,45 +888,35 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua monocomponente
+              <h2>Vernis polyuréthane monocomposant</h2>
+              <p>Topsealer WT All in One est un vernis polyuréthane monocomposant à l'eau spécialement
+                développé pour protéger notre béton ciré prêt à l'emploi "Efectto". Bien qu'il puisse
+                également être appliqué sur du béton ciré époxy,
+                du parquet ou du bois.</p>
+              <p>Ce vernis polyuréthane améliore considérablement la couleur et offre une résistance
+                mécanique
+                élevée à la fois à l'usure abrasive et aux rayures .</p>
+              <p>Il possède une bonne résistance chimique , étant également imperméable à l'eau et
+                inaltérable
+                à lumière ultraviolette. Disponible en mate et satiné.</p>
 
-              </h2>
-              <p>
-                Topsealer WT All in One es un barniz poliuretano al agua monocomponente desarrollado especialmente para
-                la protección de nuestro microcemento listo al uso "Efectto". Aunque también puede aplicarse sobre
-                microcemento epoxi, parquet o madera.
-
-              </p>
-              <p>
-                Este sellador de poliuretano realza considerablemente el color del microcemento listo al uso y
-                proporciona elevadas resistencias mecánicas tanto al desgaste por abrasión como al rayado.
-
-              </p>
-              <p>
-                Presenta buenas resistencias químicas, siendo además impermeable frente al agua e inalterable a la luz
-                ultravioleta. Disponible en mate y satinado.
-
-              </p>
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerAll_In_One_ES.pdf"
+              <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerAll_in_one_FR.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
-                </span><strong>Descarga aquí la ficha
-                  técnica de
-                  Topsealer WT All in One</strong>
+                </span><strong>Télécharger ici la fiche technique de Topsealer All in One</strong>
               </a>
             </div>
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caractéristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos </strong>
+                  <strong>Sólides </strong>
                   <p>22 ± 2%</p>
                 </div>
               </div>
@@ -936,8 +926,8 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/dureza_shore.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Dureza Shore D </strong>
-                  <p>70 ± 3</p>
+                  <strong>Dureté Shore</strong>
+                  <p>D 70 ± 3</p>
                 </div>
               </div>
             </div>
@@ -949,7 +939,7 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad</strong>
+                  <strong>Densité </strong>
                   <p>1,03 ± 0,01g/cm3 </p>
                 </div>
               </div>
@@ -959,37 +949,22 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
+                  <strong>Viscosité </strong>
                   <p> 50 ± 10 s (Copa Ford 4mm)</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-6">
-              <div class="row">
-                <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
-                    class="figure-img img-fluid rounded"></div>
-                <div class="  col-md-9">
-                  <strong>Secado </strong>
-                  <p>1-2h</p>
-                </div>
-              </div>
-            </div>
-
-          </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Topsealer WT All in One - 0,2L/m2 (para 3 manos)
+            Rendement </p>
+          <p><span> Topsealer All In One - 0.2L ( pour 3 couches)
             </span></p>
           <!-- Presentación -->
           <p class="en3">
-            Presentación
+            Présentation
           </p>
-          <p>
-            El barniz poliuretano al agua monocomponente Topsealer WT All in One se presenta en envases de 2 y 5 litros.
-          </p>
+          <p>Topsealer All in One se présente en bidons de 2 et 5 litres</p>
         </div>
       </div>
     </section>
@@ -1012,38 +987,32 @@
           </div>
           <div class="row">
             <!-- imagen producto -->
-
             <div class="col-md-6">
               <img src="https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png" class="img-fluid"
                 width="100%" alt="Topsealer Spray  -  Barniz con pistola"
                 title="Topsealer Spray  -  Barniz con pistola ">
             </div>
-            <!-- descripcion  -->
+            <!-- descripcion -->
             <div class="col-md-6">
-              <h2>
-                Barniz poliuretano al agua con pistola
-
-              </h2>
+              <h2> Vernis au pistolet </h2>
               <p>
-                Topsealer WT Spray es un barniz al agua con pistola diseñado para proteger las superficies recubiertas
-                con microcemento u hormigón. Además de aplicarse con pistola a diferencia del resto de selladores de
-                poliuretano, destaca por su extraordinaria durezca y por tener resistencias químicas y mecánicas
-                mejoradas.
+                Topsealer WT Spray est un vernis au pistolet conçu pour protéger les surfaces revêtues de béton ciré ou
+                de béton. En plus d'être appliqué au pistolet, contrairement aux autres vernis polyuréthane, il se
+                distingue par sa ténacité extraordinaire et par sa résistance chimique et mécanique améliorée.
+              </p>
+              <p>
+                Ce vernis polyuréthane à deux composants est fortement recommandé pour les cuisines en béton ciré et les
+                salles de bains en béton ciré . Parfaitement résistant à l'eau de Javel, aux détergents, aux taches de
+                vinaigre, à l'huile, au vin, à la graisse, etc.
 
               </p>
               <p>
-                Este barniz de poliuretano bicomponente es muy recomendable para cocinas de microcemento y baños de
-                microcemento. Aguanta perfectamente a la lejía, detergentes, manchas de vinagre, aceite, vino, grasas,
-                etc.
+                Topsealer WT Spray est un vernis à base d'eau qui est disponible en brillant et a une bonne résistance à
+                l'abrasion, aux rayures, aux agents chimiques, à l'eau, aux alcalis et ne jaunit pas sous l'action du
+                soleil.
 
               </p>
-              <p>
-                Topsealer WT Spray es un barniz al agua con pistola que está disponible en brillo y que presenta buena
-                resistencia a la abrasión, a los arañazos, a los agentes químicos, al agua, a los álcalis y que no
-                amarillea bajo la acción de la luz solar.
-
-              </p>
-              <a class="links" href="https://www.topciment.com/fichas-tecnicas/TopsealerWT_Spray_ES.pdf"
+              <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerAll_in_one_FR.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
                 </span><strong>Descarga aquí la ficha
@@ -1054,14 +1023,14 @@
           </div>
           <!-- Propiedades -->
           <p class="en3">
-            Características técnicas</p>
+            Caractéristiques techniques</p>
           <div class="row">
             <div class="col-6">
               <div class="row">
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/solidos.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Sólidos </strong>
+                  <strong>Solide </strong>
                   <p>32 ±2% Comp. A <br>
                     100% Comp. B</p>
                 </div>
@@ -1085,9 +1054,9 @@
                     src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Densidad</strong>
-                  <p>1,05 ±0,01 g/ml Comp.A <br>
-                    1,05 ±0,01 g/ml Comp.B </p>
+                  <strong>Densité</strong>
+                  <p>1,15 ±0,01 g/ml Comp.A <br>
+                    1,15 ±0,01 g/ml Comp.B </p>
                 </div>
               </div>
             </div>
@@ -1096,24 +1065,25 @@
                 <div class=" col-md-3"><img src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
-                  <strong>Viscosidad </strong>
-                  <p> 60” ±5 a 25ºC Comp.A (Copa Ford 4)</p>
+                  <strong>Viscosité </strong>
+                  <p> 60” ±5 a 25ºC Comp.A (Ford Cup 4)</p>
                 </div>
               </div>
             </div>
+
+
+
           </div>
           <!-- Rendimiento -->
           <p class="en3">
-            Rendimiento</p>
-          <p><span> Topsealer WT Spray (1 mano) 1 mano: 140 ±10 g/m2
+            Rendement </p>
+          <p><span>Topsealer WT Spray (1 couche): 140 ± 10 g / m2
             </span></p>
           <!-- Presentación -->
           <p class="en3">
-            Presentación
+            Présentation
           </p>
-          <p>El barniz poliuretano al agua con pistola Topsealer WT Spray se presenta en garrafas de 3 L (Componente A)
-            + botella de 1 L (Componente B)
-          </p>
+          <p>Topsealer WT Spray est disponible en flacons de 3 L (composant A) + flacon de 1 L (composant B)</p>
         </div>
       </div>
   </div>
@@ -1143,14 +1113,13 @@
   </div>
   </div>
   <!-- include jQuery -->
-  <!-- one coat -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
-      "name": "Barniz poliuretano dos componentes  Topsealer WT One Coat",
-      "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
-      "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+      "name": "Barniz Topsealer polyuréthane monocomposant WT All in One",
+      "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
+      "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
       "brand": {
         "@type": "Organization",
         "name": "Topciment",
@@ -1185,134 +1154,54 @@
           "addressCountry": "España"
         }
       },
-      "weight": "5 Kg",
-      "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-      "variesBy": "Dos componentes",
+      "weight": "1 Kg",
+      "variesBy": "size",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Sólidos",
-          "value": "30 ±2% Comp.A 100% Comp.B"
+          "name": "Solids",
+          "value": "22 ± 2%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Densidad ",
-          "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+          "name": "Densité",
+          "value": "1,03 ± 0,01g/cm3"
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad",
-          "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+          "name": "Séchage",
+          "value": "24h"
         },
         {
           "@type": "PropertyValue",
-          "name": "PH",
-          "value": "Entre 7-9 Comp.A"
+          "name": "Dureté Shore D",
+          "value": "70 ± 3"
         },
 
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(2 manos) - 0,15 L/m²"
+          "name": "Rendement",
+          "value": "(3 couche) - 0,2L/m2"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "28"
+        "reviewCount": "25"
       },
       "hasVariant": [{
           "@type": "Product",
-          "name": "Barniz poliuretano dos componentes  Topsealer WT One Coat Componente A 5L",
-          "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
-          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
-          "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
+          "name": "Barniz Topsealer polyuréthane monocomposant WT All in One Componente A 2L",
+          "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
+          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+          "size": "2 L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#all-in-one",
           "sku": "TT02030",
           "gtin13": "8436575620244",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-          "weight": "5 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz poliuretano dos componentes  Topsealer WT One Coat Componente B 1L",
-            "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
-            "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
-            "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
-            "sku": "TT02016",
-            "gtin13": "8436575625737",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-            "weight": "1 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Sólidos",
-                "value": "30 ±2% Comp.A 100% Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Densidad ",
-                "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad",
-                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "PH",
-                "value": "Entre 7-9 Comp.A"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,15 L/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "28"
-            }
-          },
+          "weight": "2 Kg",
           "brand": {
             "@type": "Organization",
             "name": "Topciment",
@@ -1349,126 +1238,51 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "30 ±2% Comp.A 100% Comp.B"
+              "name": "Solids",
+              "value": "22 ± 2%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad ",
-              "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+              "name": "Densité",
+              "value": "1,03 ± 0,01g/cm3"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
-              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              "name": "Séchage",
+              "value": "24h"
             },
             {
               "@type": "PropertyValue",
-              "name": "PH",
-              "value": "Entre 7-9 Comp.A"
+              "name": "Dureté Shore D",
+              "value": "70 ± 3"
+            }, {
+              "@type": "PropertyValue",
+              "name": "Dureté Shore D",
+              "value": "70 ± 3"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,15 L/m²"
+              "name": "Rendement",
+              "value": "(3 couche) - 0,2L/m2"
             }
           ],
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "28"
+            "reviewCount": "25"
           }
         },
         {
           "@type": "Product",
-          "name": "Barniz poliuretano dos componentes  Topsealer WT One Coat Componente B 1L",
-          "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
-          "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
-          "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
-          "sku": "TT02016",
-          "gtin13": "8436575625737",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-          "weight": "1 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz poliuretano dos componentes  Topsealer WT One Coat Componente A 5L",
-            "description": "Topsealer WT One Coat es un barniz poliuretano bicomponente que se emplea para preservar y proteger el microcemento.",
-            "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
-            "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-one-coat",
-            "sku": "TT02030",
-            "gtin13": "8436575620244",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-            "weight": "5 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Sólidos",
-                "value": "30 ±2% Comp.A 100% Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Densidad ",
-                "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad",
-                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "PH",
-                "value": "Entre 7-9 Comp.A"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,15 L/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "28"
-            }
-          },
+          "name": "Barniz Topsealer polyuréthane monocomposant WT All in One Componente B 5L",
+          "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
+          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+          "size": "5 L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#all-in-one",
+          "sku": "TT02048",
+          "gtin13": "8436575625744",
+          "weight": "5 Kg",
           "brand": {
             "@type": "Organization",
             "name": "Topciment",
@@ -1505,48 +1319,51 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "30 ±2% Comp.A 100% Comp.B"
+              "name": "Solids",
+              "value": "22 ± 2%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad ",
-              "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+              "name": "Densité",
+              "value": "1,03 ± 0,01g/cm3"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
-              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              "name": "Séchage",
+              "value": "24h"
             },
             {
               "@type": "PropertyValue",
-              "name": "PH",
-              "value": "Entre 7-9 Comp.A"
+              "name": "Dureté Shore D",
+              "value": "70 ± 3"
+            }, {
+              "@type": "PropertyValue",
+              "name": "Dureté Shore D",
+              "value": "70 ± 3"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,15 L/m²"
+              "name": "Rendement",
+              "value": "(3 couche) - 0,2L/m2"
             }
           ],
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "28"
+            "reviewCount": "25"
           }
         }
 
       ]
     }
   </script>
-  <!-- anti slip -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
-      "name": "Barniz antideslizante Topsealer WT Anti Slip",
-      "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
+      "name": "Vernis antidérapant Topsealer WT Anti Slip",
+      "description": "Topsealer WT Anti Slip est un vernis antidérapant avec une finition mate dont la fonction principale est de rendre les surfaces antidérapantes.",
       "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
       "brand": {
         "@type": "Organization",
@@ -1583,38 +1400,38 @@
         }
       },
       "weight": "5 Kg",
-      "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-      "variesBy": "Dos componentes",
+      "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+      "variesBy": "Deux composantes",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Sólidos",
+          "name": "Solids",
           "value": "Comp A: 17 - 33% Comp B: 100%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Densidad a 25ºC ",
-          "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+          "name": "Densité a 25ºC ",
+          "value": "1,018 g/mL Comp.A et  1,045 - 1,055 g/ml Comp.B"
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad",
+          "name": "Viscosité",
           "value": "25-28S (Copa Ford 4)"
         },
         {
           "@type": "PropertyValue",
           "name": "PH",
-          "value": "Entre 7-9"
+          "value": "Entrez 7-9"
         },
 
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
+          "name": "Rendement",
+          "value": "(2 couche) - 0,12 L/m²"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -1623,25 +1440,25 @@
       },
       "hasVariant": [{
           "@type": "Product",
-          "name": "Barniz antideslizante Topsealer WT Anti Slip Componente A 5L",
-          "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
+          "name": "Vernis antidérapant Topsealer WT Anti Slip Componente A 5L",
+          "description": "Topsealer WT Anti Slip est un vernis antidérapant avec une finition mate dont la fonction principale est de rendre les surfaces antidérapantes.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
           "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-anti-slip",
           "sku": "TT02110",
           "gtin13": "8436575625225",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
           "weight": "5 Kg",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
-            "name": "Barniz antideslizante Topsealer WT Anti Slip Componente B 1L",
-            "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
+            "name": "Vernis antidérapant Topsealer WT Anti Slip Componente B 1L",
+            "description": "Topsealer WT Anti Slip est un vernis antidérapant avec une finition mate dont la fonction principale est de rendre les surfaces antidérapantes.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-anti-slip",
             "sku": "TT02016",
             "gtin13": "8436575625737",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
             "weight": "1 Kg",
             "brand": {
               "@type": "Organization",
@@ -1679,29 +1496,29 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Sólidos",
+                "name": "Solids",
                 "value": "Comp A: 17 - 33% Comp B: 100%"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Densidad a 25ºC ",
-                "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+                "name": "Densité a 25ºC ",
+                "value": "1,018 g/mL Comp.A et  1,045 - 1,055 g/ml Comp.B"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "25-28S (Copa Ford 4)"
               },
               {
                 "@type": "PropertyValue",
                 "name": "PH",
-                "value": "Entre 7-9"
+                "value": "Entrez 7-9"
               },
 
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "name": "Rendement",
+                "value": "(2 couche) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1746,29 +1563,29 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
+              "name": "Solids",
               "value": "Comp A: 17 - 33% Comp B: 100%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad a 25ºC ",
-              "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+              "name": "Densité a 25ºC ",
+              "value": "1,018 g/mL Comp.A et  1,045 - 1,055 g/ml Comp.B"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "25-28S (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
               "name": "PH",
-              "value": "Entre 7-9"
+              "value": "Entrez 7-9"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "name": "Rendement",
+              "value": "(2 couche) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1779,25 +1596,25 @@
         },
         {
           "@type": "Product",
-          "name": "Barniz antideslizante Topsealer WT Anti Slip Componente B 1L",
-          "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
+          "name": "Vernis antidérapant Topsealer WT Anti Slip Componente B 1L",
+          "description": "Topsealer WT Anti Slip est un vernis antidérapant avec une finition mate dont la fonction principale est de rendre les surfaces antidérapantes.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-anti-slip",
           "sku": "TT02016",
           "gtin13": "8436575625737",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
           "weight": "1 Kg",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
-            "name": "Barniz antideslizante Topsealer WT Anti Slip Componente A 5L",
-            "description": "Topsealer WT Anti Slip es un barniz antideslizante y con acabado mate cuya función principal es la de convertir las superficies en antideslizantes.",
+            "name": "Vernis antidérapant Topsealer WT Anti Slip Componente A 5L",
+            "description": "Topsealer WT Anti Slip est un vernis antidérapant avec une finition mate dont la fonction principale est de rendre les surfaces antidérapantes.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20Anti%20Slip.jpg",
             "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-anti-slip",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-anti-slip",
             "sku": "TT02110",
             "gtin13": "8436575625225",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
             "weight": "5 Kg",
             "brand": {
               "@type": "Organization",
@@ -1835,29 +1652,29 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Sólidos",
+                "name": "Solids",
                 "value": "Comp A: 17 - 33% Comp B: 100%"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Densidad a 25ºC ",
-                "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+                "name": "Densité a 25ºC ",
+                "value": "1,018 g/mL Comp.A et  1,045 - 1,055 g/ml Comp.B"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "25-28S (Copa Ford 4)"
               },
               {
                 "@type": "PropertyValue",
                 "name": "PH",
-                "value": "Entre 7-9"
+                "value": "Entrez 7-9"
               },
 
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
+                "name": "Rendement",
+                "value": "(2 couche) - 0,12 L/m²"
               }
             ],
             "aggregateRating": {
@@ -1902,29 +1719,29 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
+              "name": "Solids",
               "value": "Comp A: 17 - 33% Comp B: 100%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad a 25ºC ",
-              "value": "1,018 g/mL Comp.A y  1,045 - 1,055 g/ml Comp.B"
+              "name": "Densité a 25ºC ",
+              "value": "1,018 g/mL Comp.A et  1,045 - 1,055 g/ml Comp.B"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "25-28S (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
               "name": "PH",
-              "value": "Entre 7-9"
+              "value": "Entrez 7-9"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "name": "Rendement",
+              "value": "(2 couche) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -1937,802 +1754,12 @@
       ]
     }
   </script>
-  <!-- quick dry -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
-      "name": "Barniz al agua Topsealer WT Quick Dry",
-      "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
-      "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
-      "brand": {
-        "@type": "Organization",
-        "name": "Topciment",
-        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-        "url": "https://www.topciment.com",
-        "legalName": "Grupo Negocios PO SLU",
-        "telephone": "+34617955352",
-        "taxID": "B97539076",
-        "location": {
-          "@type": "PostalAddress",
-          "streetAddress": "Calle Rosas, 33",
-          "addressLocality": "Manises",
-          "postalCode": "46940",
-          "addressRegion": "Valencia",
-          "addressCountry": "España"
-        }
-      },
-      "manufacturer": {
-        "@type": "Organization",
-        "name": "Topciment",
-        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-        "url": "https://www.topciment.com",
-        "legalName": "Grupo Negocios PO SLU",
-        "telephone": "+34617955352",
-        "taxID": "B97539076",
-        "location": {
-          "@type": "PostalAddress",
-          "streetAddress": "Calle Rosas, 33",
-          "addressLocality": "Manises",
-          "postalCode": "46940",
-          "addressRegion": "Valencia",
-          "addressCountry": "España"
-        }
-      },
-      "weight": "5 Kg",
-      "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-      "variesBy": "Dos componentes",
-      "additionalProperty": [{
-          "@type": "PropertyValue",
-          "name": "Sólidos",
-          "value": "Comp A: 22% Comp A: 100 %"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Densidad a 20ºC ",
-          "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Viscosidad",
-          "value": "14 - 15s (Copa Ford 4)"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "PH",
-          "value": "Entre 7-9"
-        },
-
-        {
-          "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
-        }
-      ],
-      "potentialAction": {
-        "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "28"
-      },
-      "hasVariant": [{
-          "@type": "Product",
-          "name": "Barniz al agua Topsealer WT Quick Dry Componente A 5L",
-          "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
-          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
-          "size": "5  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
-          "sku": "TT02045",
-          "gtin13": "8436575620176",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-          "weight": "5 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz al agua Topsealer WT Quick Dry Componente B 1L",
-            "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
-            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
-            "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
-            "sku": "TT02016",
-            "gtin13": "8436575625737",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-            "weight": "1 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Sólidos",
-                "value": "Comp A: 22% Comp A: 100 %"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Densidad a 20ºC ",
-                "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad",
-                "value": "14 - 15s (Copa Ford 4)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "PH",
-                "value": "Entre 7-9"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "28"
-            }
-          },
-          "brand": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "manufacturer": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "additionalProperty": [{
-              "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "Comp A: 22% Comp A: 100 %"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Densidad a 20ºC ",
-              "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Viscosidad",
-              "value": "14 - 15s (Copa Ford 4)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "PH",
-              "value": "Entre 7-9"
-            },
-
-            {
-              "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
-            }
-          ],
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "28"
-          }
-        },
-        {
-          "@type": "Product",
-          "name": "Barniz al agua Topsealer WT Quick Dry Componente B 1L",
-          "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
-          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
-          "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
-          "sku": "TT02016",
-          "gtin13": "8436575625737",
-          "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-          "weight": "1 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz al agua Topsealer WT Quick Dry Componente A 5L",
-            "description": "Topsealer WT Quick Dry es un barniz de poliuretano bicomponente e idóneo para la protección del microcemento.",
-            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
-            "size": "5  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-quick-dry",
-            "sku": "TT02045",
-            "gtin13": "8436575620176",
-            "material": "Poliuretano bicomponente base agua ligeramente alcalino.",
-            "weight": "5 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Sólidos",
-                "value": "Comp A: 22% Comp A: 100 %"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Densidad a 20ºC ",
-                "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad",
-                "value": "14 - 15s (Copa Ford 4)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "PH",
-                "value": "Entre 7-9"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(2 manos) - 0,12 L/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "28"
-            }
-          },
-          "brand": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "manufacturer": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "additionalProperty": [{
-              "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "Comp A: 22% Comp A: 100 %"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Densidad a 20ºC ",
-              "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Viscosidad",
-              "value": "14 - 15s (Copa Ford 4)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "PH",
-              "value": "Entre 7-9"
-            },
-
-            {
-              "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
-            }
-          ],
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "28"
-          }
-        }
-
-      ]
-    }
-  </script>
-  <!-- pro + -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ProductGroup",
-      "name": "Barniz de poliuretano bicomponente Topsealer Pro +",
-      "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
-      "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
-      "brand": {
-        "@type": "Organization",
-        "name": "Topciment",
-        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-        "url": "https://www.topciment.com",
-        "legalName": "Grupo Negocios PO SLU",
-        "telephone": "+34617955352",
-        "taxID": "B97539076",
-        "location": {
-          "@type": "PostalAddress",
-          "streetAddress": "Calle Rosas, 33",
-          "addressLocality": "Manises",
-          "postalCode": "46940",
-          "addressRegion": "Valencia",
-          "addressCountry": "España"
-        }
-      },
-      "manufacturer": {
-        "@type": "Organization",
-        "name": "Topciment",
-        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-        "url": "https://www.topciment.com",
-        "legalName": "Grupo Negocios PO SLU",
-        "telephone": "+34617955352",
-        "taxID": "B97539076",
-        "location": {
-          "@type": "PostalAddress",
-          "streetAddress": "Calle Rosas, 33",
-          "addressLocality": "Manises",
-          "postalCode": "46940",
-          "addressRegion": "Valencia",
-          "addressCountry": "España"
-        }
-      },
-      "weight": "0,5 Kg",
-      "variesBy": "Dos componentes",
-      "additionalProperty": [{
-          "@type": "PropertyValue",
-          "name": "Alto brillo",
-          "value": "Gracias a su alto contenido en sólidos"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Viscosidad ",
-          "value": "35-45s (Copa Ford 4)"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Tiempo de aplicación",
-          "value": "20 minutos (Fast) - 30 minutos (Slow)"
-        },
-        {
-          "@type": "PropertyValue",
-          "name": "Secado rápido",
-          "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
-        },
-
-        {
-          "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(1 mano) -  150 g/m²"
-        }
-      ],
-      "potentialAction": {
-        "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "27"
-      },
-      "hasVariant": [{
-          "@type": "Product",
-          "name": "Barniz de poliuretano bicomponente Topsealer Pro + Componente A 0,54 Kg",
-          "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
-          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
-          "size": "0,54 Kg",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
-          "sku": "TT02142",
-          "gtin13": "8436575620121",
-          "weight": "0,5 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz de poliuretano bicomponente Topsealer Pro + Componente B 0,8Kg",
-            "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
-            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
-            "size": "0,8 Kg",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
-            "sku": "TT02016",
-            "gtin13": "8436575625737",
-            "weight": "0,8 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Alto brillo",
-                "value": "Gracias a su alto contenido en sólidos"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad ",
-                "value": "35-45s (Copa Ford 4)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Tiempo de aplicación",
-                "value": "20 minutos (Fast) - 30 minutos (Slow)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Secado rápido",
-                "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(1 mano) -  150 g/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "27"
-            }
-          },
-          "brand": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "manufacturer": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "additionalProperty": [{
-              "@type": "PropertyValue",
-              "name": "Alto brillo",
-              "value": "Gracias a su alto contenido en sólidos"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Viscosidad ",
-              "value": "35-45s (Copa Ford 4)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Tiempo de aplicación",
-              "value": "20 minutos (Fast) - 30 minutos (Slow)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Secado rápido",
-              "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
-            },
-
-            {
-              "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(1 mano) -  150 g/m²"
-            }
-          ],
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "27"
-          }
-        },
-        {
-          "@type": "Product",
-          "name": "Barniz de poliuretano bicomponente Topsealer Pro + Componente B 0,8Kg",
-          "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
-          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
-          "size": "0,8 Kg",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
-          "sku": "TT02016",
-          "gtin13": "8436575625737",
-          "weight": "0,8 Kg",
-          "isAccessoryOrSparePartFor": {
-            "@type": "Product",
-            "name": "Barniz de poliuretano bicomponente Topsealer Pro + Componente A 0,54 Kg",
-            "description": "Topsealer Pro + es un barniz bicomponente 100% sólidos que no necesita imprimación.",
-            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
-            "size": "0,54 Kg",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealer-proplus",
-            "sku": "TT02142",
-            "gtin13": "8436575620121",
-            "weight": "0,5 Kg",
-            "brand": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "manufacturer": {
-              "@type": "Organization",
-              "name": "Topciment",
-              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-              "url": "https://www.topciment.com",
-              "legalName": "Grupo Negocios PO SLU",
-              "telephone": "+34617955352",
-              "taxID": "B97539076",
-              "location": {
-                "@type": "PostalAddress",
-                "streetAddress": "Calle Rosas, 33",
-                "addressLocality": "Manises",
-                "postalCode": "46940",
-                "addressRegion": "Valencia",
-                "addressCountry": "España"
-              }
-            },
-            "additionalProperty": [{
-                "@type": "PropertyValue",
-                "name": "Alto brillo",
-                "value": "Gracias a su alto contenido en sólidos"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Viscosidad ",
-                "value": "35-45s (Copa Ford 4)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Tiempo de aplicación",
-                "value": "20 minutos (Fast) - 30 minutos (Slow)"
-              },
-              {
-                "@type": "PropertyValue",
-                "name": "Secado rápido",
-                "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
-              },
-
-              {
-                "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(1 mano) -  150 g/m²"
-              }
-            ],
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "5",
-              "reviewCount": "27"
-            }
-          },
-          "brand": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "manufacturer": {
-            "@type": "Organization",
-            "name": "Topciment",
-            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-            "url": "https://www.topciment.com",
-            "legalName": "Grupo Negocios PO SLU",
-            "telephone": "+34617955352",
-            "taxID": "B97539076",
-            "location": {
-              "@type": "PostalAddress",
-              "streetAddress": "Calle Rosas, 33",
-              "addressLocality": "Manises",
-              "postalCode": "46940",
-              "addressRegion": "Valencia",
-              "addressCountry": "España"
-            }
-          },
-          "additionalProperty": [{
-              "@type": "PropertyValue",
-              "name": "Alto brillo",
-              "value": "Gracias a su alto contenido en sólidos"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Viscosidad ",
-              "value": "35-45s (Copa Ford 4)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Tiempo de aplicación",
-              "value": "20 minutos (Fast) - 30 minutos (Slow)"
-            },
-            {
-              "@type": "PropertyValue",
-              "name": "Secado rápido",
-              "value": "Fast:2,5 horas aproximadamente - Slow: 8 horas aproximadamente"
-            },
-
-            {
-              "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(1 mano) -  150 g/m²"
-            }
-          ],
-          "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": "5",
-            "reviewCount": "27"
-          }
-        }
-
-      ]
-    }
-  </script>
-  <!-- dsv -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ProductGroup",
-      "name": "Barniz acrílico bicomponente Topsealer DSV",
-      "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
+      "name": "Vernis acrylique à deux composants Topsealer DSV",
+      "description": "Topsealer DSV est un vernis acrylique à deux composants (A + B) à base de solvant. Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.",
       "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
       "brand": {
         "@type": "Organization",
@@ -2769,31 +1796,31 @@
         }
       },
       "weight": "1 Kg",
-      "variesBy": "Dos componentes",
+      "variesBy": "Deux composantes",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Dureza",
-          "value": "14 días de curado: 120 segundos"
+          "name": "Dureté",
+          "value": "Cure de 14 jours : 120 secondes"
         },
         {
           "@type": "PropertyValue",
-          "name": "Sólidos ",
+          "name": "Solides ",
           "value": "Comp.A 40% Comp.B 39%"
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad",
+          "name": "Viscosité",
           "value": "20 s (Copa Ford 4)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
+          "name": "Rendement",
           "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -2802,20 +1829,20 @@
       },
       "hasVariant": [{
           "@type": "Product",
-          "name": "Barniz acrílico bicomponente Topsealer DSV Componente A 4 L",
-          "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
+          "name": "Vernis acrylique à deux composants Topsealer DSV Componente A 4 L",
+          "description": "Topsealer DSV est un vernis acrylique à deux composants (A + B) à base de solvant. Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
           "size": "4 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealerdsv",
           "sku": "TT02017",
           "gtin13": "8436575625683",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
-            "name": "Barniz acrílico bicomponente Topsealer DSV Componente B 1 L",
-            "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
+            "name": "Vernis acrylique à deux composants Topsealer DSV Componente B 1 L",
+            "description": "Topsealer DSV est un vernis acrylique à deux composants (A + B) à base de solvant. Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
             "size": "1  L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealerdsv",
             "sku": "TT02012",
             "gtin13": "8436575620275",
             "weight": "1 Kg",
@@ -2855,22 +1882,22 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Dureza",
-                "value": "14 días de curado: 120 segundos"
+                "name": "Dureté",
+                "value": "Cure de 14 jours : 120 secondes"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Sólidos ",
+                "name": "Solides ",
                 "value": "Comp.A 40% Comp.B 39%"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "20 s (Copa Ford 4)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
+                "name": "Rendement",
                 "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
               }
             ],
@@ -2917,22 +1944,22 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Dureza",
-              "value": "14 días de curado: 120 segundos"
+              "name": "Dureté",
+              "value": "Cure de 14 jours : 120 secondes"
             },
             {
               "@type": "PropertyValue",
-              "name": "Sólidos ",
+              "name": "Solides ",
               "value": "Comp.A 40% Comp.B 39%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "20 s (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
+              "name": "Rendement",
               "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
             }
           ],
@@ -2944,21 +1971,21 @@
         },
         {
           "@type": "Product",
-          "name": "Barniz acrílico bicomponente Topsealer DSV Componente B 1 L",
-          "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
+          "name": "Vernis acrylique à deux composants Topsealer DSV Componente B 1 L",
+          "description": "Topsealer DSV est un vernis acrylique à deux composants (A + B) à base de solvant. Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.",
           "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
           "size": "1  L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealerdsv",
           "sku": "TT02012",
           "gtin13": "8436575620275",
           "weight": "1 Kg",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
-            "name": "Barniz acrílico bicomponente Topsealer DSV Componente A 4 L",
-            "description": "Topsealer DSV es un barniz acrílico bicomponente (A + B) al disolvente. Este sellador protege las superficies recubiertas con microcemento en interiores y exteriores.",
+            "name": "Vernis acrylique à deux composants Topsealer DSV Componente A 4 L",
+            "description": "Topsealer DSV est un vernis acrylique à deux composants (A + B) à base de solvant. Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.",
             "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20DSV.jpg",
             "size": "4 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#topsealerdsv",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealerdsv",
             "sku": "TT02017",
             "gtin13": "8436575625683",
             "weight": "4 Kg",
@@ -2998,22 +2025,22 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Dureza",
-                "value": "14 días de curado: 120 segundos"
+                "name": "Dureté",
+                "value": "Cure de 14 jours : 120 secondes"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Sólidos ",
+                "name": "Solides ",
                 "value": "Comp.A 40% Comp.B 39%"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "20 s (Copa Ford 4)"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
+                "name": "Rendement",
                 "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
               }
             ],
@@ -3059,22 +2086,22 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Dureza",
-              "value": "14 días de curado: 120 segundos"
+              "name": "Dureté",
+              "value": "Cure de 14 jours : 120 secondes"
             },
             {
               "@type": "PropertyValue",
-              "name": "Sólidos ",
+              "name": "Solides ",
               "value": "Comp.A 40% Comp.B 39%"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "20 s (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
+              "name": "Rendement",
               "value": "Microfino - 0,17 L/m2 Microdeck - 0,20 L/m2 Microstone - 0,25 L/m2"
             }
           ],
@@ -3088,14 +2115,408 @@
       ]
     }
   </script>
-  <!-- presealer -->
-
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
-      "name": "Barniz acrílico Presealer",
-      "description": "Presealer es un sellador formulado a base de copolímero acrílico en emulsión e inalterable a la humedad.",
+      "name": "Vernis polyuréthane à deux composants Topsealer WT One Coat",
+      "description": "Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver et protéger le microciment.",
+      "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+      "brand": {
+        "@type": "Organization",
+        "name": "Topciment",
+        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+        "url": "https://www.topciment.com",
+        "legalName": "Grupo Negocios PO SLU",
+        "telephone": "+34617955352",
+        "taxID": "B97539076",
+        "location": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calle Rosas, 33",
+          "addressLocality": "Manises",
+          "postalCode": "46940",
+          "addressRegion": "Valencia",
+          "addressCountry": "España"
+        }
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Topciment",
+        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+        "url": "https://www.topciment.com",
+        "legalName": "Grupo Negocios PO SLU",
+        "telephone": "+34617955352",
+        "taxID": "B97539076",
+        "location": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calle Rosas, 33",
+          "addressLocality": "Manises",
+          "postalCode": "46940",
+          "addressRegion": "Valencia",
+          "addressCountry": "España"
+        }
+      },
+      "weight": "5 Kg",
+      "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+      "variesBy": "Deux composantes",
+      "additionalProperty": [{
+          "@type": "PropertyValue",
+          "name": "Solids",
+          "value": "30 ±2% Comp.A 100% Comp.B"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Densité ",
+          "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Viscosité",
+          "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "PH",
+          "value": "Entrez 7-9 Comp.A"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "(2 couche) - 0,15 L/m²"
+        }
+      ],
+      "potentialAction": {
+        "@type": "Action",
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "28"
+      },
+      "hasVariant": [{
+          "@type": "Product",
+          "name": "Vernis polyuréthane à deux composants Topsealer WT One Coat Componente A 5L",
+          "description": "Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver et protéger le microciment.",
+          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+          "size": "5  L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-one-coat",
+          "sku": "TT02030",
+          "gtin13": "8436575620244",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+          "weight": "5 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis polyuréthane à deux composants Topsealer WT One Coat Componente B 1L",
+            "description": "Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver et protéger le microciment.",
+            "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+            "size": "1 L",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-one-coat",
+            "sku": "TT02016",
+            "gtin13": "8436575625737",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+            "weight": "1 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Solids",
+                "value": "30 ±2% Comp.A 100% Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Densité ",
+                "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité",
+                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "PH",
+                "value": "Entrez 7-9 Comp.A"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(2 couche) - 0,15 L/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "28"
+            }
+          },
+          "brand": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "additionalProperty": [{
+              "@type": "PropertyValue",
+              "name": "Solids",
+              "value": "30 ±2% Comp.A 100% Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Densité ",
+              "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Viscosité",
+              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "PH",
+              "value": "Entrez 7-9 Comp.A"
+            },
+
+            {
+              "@type": "PropertyValue",
+              "name": "Rendement",
+              "value": "(2 couche) - 0,15 L/m²"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "28"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Vernis polyuréthane à deux composants Topsealer WT One Coat Componente B 1L",
+          "description": "Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver et protéger le microciment.",
+          "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+          "size": "1 L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-one-coat",
+          "sku": "TT02016",
+          "gtin13": "8436575625737",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+          "weight": "1 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis polyuréthane à deux composants Topsealer WT One Coat Componente A 5L",
+            "description": "Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver et protéger le microciment.",
+            "image": "https://www.topciment.com/imagenes/topsealer/TopsealerWTOneCoat.jpg",
+            "size": "5  L",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-one-coat",
+            "sku": "TT02030",
+            "gtin13": "8436575620244",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+            "weight": "5 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Solids",
+                "value": "30 ±2% Comp.A 100% Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Densité ",
+                "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité",
+                "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "PH",
+                "value": "Entrez 7-9 Comp.A"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(2 couche) - 0,15 L/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "28"
+            }
+          },
+          "brand": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "additionalProperty": [{
+              "@type": "PropertyValue",
+              "name": "Solids",
+              "value": "30 ±2% Comp.A 100% Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Densité ",
+              "value": "1,02 ±0,01 g/ml Comp.A a 25ºC -  1,045-1,055 g/mL Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Viscosité",
+              "value": "20 - 30min a 25ºC (Copa Ford 4mm) Comp.A"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "PH",
+              "value": "Entrez 7-9 Comp.A"
+            },
+
+            {
+              "@type": "PropertyValue",
+              "name": "Rendement",
+              "value": "(2 couche) - 0,15 L/m²"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "28"
+          }
+        }
+
+      ]
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProductGroup",
+      "name": "Vernis acrylique Presealer",
+      "description": "Presealer est un scellant formulé à base d'émulsion de copolymère acrylique et inaltérable à l'humidité.",
       "image": "https://www.topciment.com/imagenes/topsealer/presealer.jpg",
       "brand": {
         "@type": "Organization",
@@ -3135,33 +2556,33 @@
       "variesBy": "size",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Secado al tacto",
-          "value": "20 minutos"
+          "name": "Séchage au toucher",
+          "value": "20 minutes"
         },
         {
           "@type": "PropertyValue",
-          "name": "Densidad a 20ºC ",
+          "name": "Densité AT 20ºC",
           "value": "1 ± 0,01 g/mL"
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad",
+          "name": "Viscosité",
           "value": "10 - 11s (Copa Ford 4)"
         },
         {
           "@type": "PropertyValue",
           "name": "PH",
-          "value": "Entre 7,5 y 9"
+          "value": "Entrez 7,5 et 9"
         },
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(2 manos) - 0,12 L/m²"
+          "name": "Rendement",
+          "value": "(2 couche) - 0,12 L/m²"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -3170,11 +2591,11 @@
       },
       "hasVariant": [{
           "@type": "Product",
-          "name": "Barniz acrílico Presealer 5 L",
-          "description": "Presealer es un sellador formulado a base de copolímero acrílico en emulsión e inalterable a la humedad.",
+          "name": "Vernis acrylique Presealer 5 L",
+          "description": "Presealer est un scellant formulé à base d'émulsion de copolymère acrylique et inaltérable à l'humidité.",
           "image": "https://www.topciment.com/imagenes/topsealer/presealer.jpg",
           "size": "5 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#presealer",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#presealer",
           "sku": "TT02020",
           "gtin13": "8436575620350",
           "weight": "5 Kg",
@@ -3214,28 +2635,28 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Secado al tacto",
-              "value": "20 minutos"
+              "name": "Séchage au toucher",
+              "value": "20 minutes"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad a 20ºC ",
+              "name": "Densité AT 20ºC",
               "value": "1 ± 0,01 g/mL"
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "10 - 11s (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
               "name": "PH",
-              "value": "Entre 7,5 y 9"
+              "value": "Entrez 7,5 et 9"
             },
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(2 manos) - 0,12 L/m²"
+              "name": "Rendement",
+              "value": "(2 couche) - 0,12 L/m²"
             }
           ],
           "aggregateRating": {
@@ -3248,14 +2669,13 @@
       ]
     }
   </script>
-  <!-- all in one -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
-      "name": "Barniz poliuretano monocomponente Topsealer WT All in One",
-      "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
-      "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
+      "name": "Vernis polyuréthane bicomposant Topsealer Pro +.",
+      "description": "Topsealer Pro + est un vernis à deux composants 100% solides qui ne nécessite pas d'apprêt.",
+      "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
       "brand": {
         "@type": "Organization",
         "name": "Topciment",
@@ -3290,58 +2710,131 @@
           "addressCountry": "España"
         }
       },
-      "weight": "1 Kg",
-      "variesBy": "size",
+      "weight": "0,5 Kg",
+      "variesBy": "Deux composantes",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Sólidos",
-          "value": "22 ± 2%"
+          "name": "Haute brillance",
+          "value": "Grâce à sa teneur élevée en matières solides"
         },
         {
           "@type": "PropertyValue",
-          "name": "Densidad",
-          "value": "1,03 ± 0,01g/cm3"
+          "name": "Viscosité ",
+          "value": "35-45s (Copa Ford 4)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Secado",
-          "value": "24h"
+          "name": "Temps d'application",
+          "value": "20 minutes (Fast) - 30 minutes (Slow)"
         },
         {
           "@type": "PropertyValue",
-          "name": "Dureza Shore D",
-          "value": "70 ± 3"
-        }, {
-          "@type": "PropertyValue",
-          "name": "Dureza Shore D",
-          "value": "70 ± 3"
+          "name": "Séchage rapide",
+          "value": "Fast : 2,5 heures environ - Slow : 8 heures environ"
         },
 
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(3 manos) - 0,2L/m2"
+          "name": "Rendement",
+          "value": "(1 couche) -  150 g/m²"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5",
-        "reviewCount": "25"
+        "reviewCount": "27"
       },
       "hasVariant": [{
           "@type": "Product",
-          "name": "Barniz poliuretano monocomponente Topsealer WT All in One Componente A 2L",
-          "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
-          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
-          "size": "2 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#all-in-one",
-          "sku": "TT02030",
-          "gtin13": "8436575620244",
-          "weight": "2 Kg",
+          "name": "Vernis polyuréthane bicomposant Topsealer Pro +. Componente A 0,54 Kg",
+          "description": "Topsealer Pro + est un vernis à deux composants 100% solides qui ne nécessite pas d'apprêt.",
+          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+          "size": "0,54 Kg",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-proplus",
+          "sku": "TT02142",
+          "gtin13": "8436575620121",
+          "weight": "0,5 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis polyuréthane bicomposant Topsealer Pro +. Componente B 0,8Kg",
+            "description": "Topsealer Pro + est un vernis à deux composants 100% solides qui ne nécessite pas d'apprêt.",
+            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+            "size": "0,8 Kg",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-proplus",
+            "sku": "TT02016",
+            "gtin13": "8436575625737",
+            "weight": "0,8 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Haute brillance",
+                "value": "Grâce à sa teneur élevée en matières solides"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité ",
+                "value": "35-45s (Copa Ford 4)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Temps d'application",
+                "value": "20 minutes (Fast) - 30 minutes (Slow)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Séchage rapide",
+                "value": "Fast : 2,5 heures environ - Slow : 8 heures environ"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(1 couche) -  150 g/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "27"
+            }
+          },
           "brand": {
             "@type": "Organization",
             "name": "Topciment",
@@ -3378,51 +2871,124 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "22 ± 2%"
+              "name": "Haute brillance",
+              "value": "Grâce à sa teneur élevée en matières solides"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad",
-              "value": "1,03 ± 0,01g/cm3"
+              "name": "Viscosité ",
+              "value": "35-45s (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Secado",
-              "value": "24h"
+              "name": "Temps d'application",
+              "value": "20 minutes (Fast) - 30 minutes (Slow)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
-              "value": "70 ± 3"
-            }, {
-              "@type": "PropertyValue",
-              "name": "Dureza Shore D",
-              "value": "70 ± 3"
+              "name": "Séchage rapide",
+              "value": "Fast : 2,5 heures environ - Slow : 8 heures environ"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(3 manos) - 0,2L/m2"
+              "name": "Rendement",
+              "value": "(1 couche) -  150 g/m²"
             }
           ],
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "25"
+            "reviewCount": "27"
           }
         },
         {
           "@type": "Product",
-          "name": "Barniz poliuretano monocomponente Topsealer WT All in One Componente B 5L",
-          "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
-          "image": "https://www.topciment.com/imagenes/topsealer/TopsealerAllinOne5L.png",
-          "size": "5 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#all-in-one",
-          "sku": "TT02048",
-          "gtin13": "8436575625744",
-          "weight": "5 Kg",
+          "name": "Vernis polyuréthane bicomposant Topsealer Pro +. Componente B 0,8Kg",
+          "description": "Topsealer Pro + est un vernis à deux composants 100% solides qui ne nécessite pas d'apprêt.",
+          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+          "size": "0,8 Kg",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-proplus",
+          "sku": "TT02016",
+          "gtin13": "8436575625737",
+          "weight": "0,8 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis polyuréthane bicomposant Topsealer Pro +. Componente A 0,54 Kg",
+            "description": "Topsealer Pro + est un vernis à deux composants 100% solides qui ne nécessite pas d'apprêt.",
+            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer_ProPlus.jpg",
+            "size": "0,54 Kg",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-proplus",
+            "sku": "TT02142",
+            "gtin13": "8436575620121",
+            "weight": "0,5 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Haute brillance",
+                "value": "Grâce à sa teneur élevée en matières solides"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité ",
+                "value": "35-45s (Copa Ford 4)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Temps d'application",
+                "value": "20 minutes (Fast) - 30 minutes (Slow)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Séchage rapide",
+                "value": "Fast : 2,5 heures environ - Slow : 8 heures environ"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(1 couche) -  150 g/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "27"
+            }
+          },
           "brand": {
             "@type": "Organization",
             "name": "Topciment",
@@ -3459,52 +3025,443 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
-              "value": "22 ± 2%"
+              "name": "Haute brillance",
+              "value": "Grâce à sa teneur élevée en matières solides"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad",
-              "value": "1,03 ± 0,01g/cm3"
+              "name": "Viscosité ",
+              "value": "35-45s (Copa Ford 4)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Secado",
-              "value": "24h"
+              "name": "Temps d'application",
+              "value": "20 minutes (Fast) - 30 minutes (Slow)"
             },
             {
               "@type": "PropertyValue",
-              "name": "Dureza Shore D",
-              "value": "70 ± 3"
-            }, {
-              "@type": "PropertyValue",
-              "name": "Dureza Shore D",
-              "value": "70 ± 3"
+              "name": "Séchage rapide",
+              "value": "Fast : 2,5 heures environ - Slow : 8 heures environ"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(3 manos) - 0,2L/m2"
+              "name": "Rendement",
+              "value": "(1 couche) -  150 g/m²"
             }
           ],
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "5",
-            "reviewCount": "25"
+            "reviewCount": "27"
           }
         }
 
       ]
     }
   </script>
-  <!-- spray -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProductGroup",
+      "name": "Vernis à l'eau  Topsealer WT Quick Dry",
+      "description": "Topsealer WT Quick Dry est un vernis polyuréthane à deux composants, adapté à la protection du microciment.",
+      "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+      "brand": {
+        "@type": "Organization",
+        "name": "Topciment",
+        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+        "url": "https://www.topciment.com",
+        "legalName": "Grupo Negocios PO SLU",
+        "telephone": "+34617955352",
+        "taxID": "B97539076",
+        "location": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calle Rosas, 33",
+          "addressLocality": "Manises",
+          "postalCode": "46940",
+          "addressRegion": "Valencia",
+          "addressCountry": "España"
+        }
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Topciment",
+        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+        "url": "https://www.topciment.com",
+        "legalName": "Grupo Negocios PO SLU",
+        "telephone": "+34617955352",
+        "taxID": "B97539076",
+        "location": {
+          "@type": "PostalAddress",
+          "streetAddress": "Calle Rosas, 33",
+          "addressLocality": "Manises",
+          "postalCode": "46940",
+          "addressRegion": "Valencia",
+          "addressCountry": "España"
+        }
+      },
+      "weight": "5 Kg",
+      "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+      "variesBy": "Deux composantes",
+      "additionalProperty": [{
+          "@type": "PropertyValue",
+          "name": "Solids",
+          "value": "Comp A: 22% Comp A: 100 %"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Densité AT 20ºC",
+          "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Viscosité",
+          "value": "14 - 15s (Copa Ford 4)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "PH",
+          "value": "Entrez 7-9"
+        },
+
+        {
+          "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "(2 couche) - 0,12 L/m²"
+        }
+      ],
+      "potentialAction": {
+        "@type": "Action",
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "28"
+      },
+      "hasVariant": [{
+          "@type": "Product",
+          "name": "Vernis à l'eau  Topsealer WT Quick Dry Componente A 5L",
+          "description": "Topsealer WT Quick Dry est un vernis polyuréthane à deux composants, adapté à la protection du microciment.",
+          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+          "size": "5  L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-quick-dry",
+          "sku": "TT02045",
+          "gtin13": "8436575620176",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+          "weight": "5 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis à l'eau  Topsealer WT Quick Dry Componente B 1L",
+            "description": "Topsealer WT Quick Dry est un vernis polyuréthane à deux composants, adapté à la protection du microciment.",
+            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+            "size": "1 L",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-quick-dry",
+            "sku": "TT02016",
+            "gtin13": "8436575625737",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+            "weight": "1 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Solids",
+                "value": "Comp A: 22% Comp A: 100 %"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Densité AT 20ºC",
+                "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité",
+                "value": "14 - 15s (Copa Ford 4)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "PH",
+                "value": "Entrez 7-9"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(2 couche) - 0,12 L/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "28"
+            }
+          },
+          "brand": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "additionalProperty": [{
+              "@type": "PropertyValue",
+              "name": "Solids",
+              "value": "Comp A: 22% Comp A: 100 %"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Densité AT 20ºC",
+              "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Viscosité",
+              "value": "14 - 15s (Copa Ford 4)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "PH",
+              "value": "Entrez 7-9"
+            },
+
+            {
+              "@type": "PropertyValue",
+              "name": "Rendement",
+              "value": "(2 couche) - 0,12 L/m²"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "28"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Vernis à l'eau  Topsealer WT Quick Dry Componente B 1L",
+          "description": "Topsealer WT Quick Dry est un vernis polyuréthane à deux composants, adapté à la protection du microciment.",
+          "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+          "size": "1 L",
+          "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-quick-dry",
+          "sku": "TT02016",
+          "gtin13": "8436575625737",
+          "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+          "weight": "1 Kg",
+          "isAccessoryOrSparePartFor": {
+            "@type": "Product",
+            "name": "Vernis à l'eau  Topsealer WT Quick Dry Componente A 5L",
+            "description": "Topsealer WT Quick Dry est un vernis polyuréthane à deux composants, adapté à la protection du microciment.",
+            "image": "https://www.topciment.com/imagenes/topsealer/Topsealer%20WT%20%20Quick%20Dry.jpg",
+            "size": "5  L",
+            "url": "https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau#topsealer-quick-dry",
+            "sku": "TT02045",
+            "gtin13": "8436575620176",
+            "material": "Polyuréthane à deux composants, légèrement alcalin, à base d'eau.",
+            "weight": "5 Kg",
+            "brand": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "manufacturer": {
+              "@type": "Organization",
+              "name": "Topciment",
+              "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+              "url": "https://www.topciment.com",
+              "legalName": "Grupo Negocios PO SLU",
+              "telephone": "+34617955352",
+              "taxID": "B97539076",
+              "location": {
+                "@type": "PostalAddress",
+                "streetAddress": "Calle Rosas, 33",
+                "addressLocality": "Manises",
+                "postalCode": "46940",
+                "addressRegion": "Valencia",
+                "addressCountry": "España"
+              }
+            },
+            "additionalProperty": [{
+                "@type": "PropertyValue",
+                "name": "Solids",
+                "value": "Comp A: 22% Comp A: 100 %"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Densité AT 20ºC",
+                "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "Viscosité",
+                "value": "14 - 15s (Copa Ford 4)"
+              },
+              {
+                "@type": "PropertyValue",
+                "name": "PH",
+                "value": "Entrez 7-9"
+              },
+
+              {
+                "@type": "PropertyValue",
+                "name": "Rendement",
+                "value": "(2 couche) - 0,12 L/m²"
+              }
+            ],
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "28"
+            }
+          },
+          "brand": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Topciment",
+            "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+            "url": "https://www.topciment.com",
+            "legalName": "Grupo Negocios PO SLU",
+            "telephone": "+34617955352",
+            "taxID": "B97539076",
+            "location": {
+              "@type": "PostalAddress",
+              "streetAddress": "Calle Rosas, 33",
+              "addressLocality": "Manises",
+              "postalCode": "46940",
+              "addressRegion": "Valencia",
+              "addressCountry": "España"
+            }
+          },
+          "additionalProperty": [{
+              "@type": "PropertyValue",
+              "name": "Solids",
+              "value": "Comp A: 22% Comp A: 100 %"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Densité AT 20ºC",
+              "value": "1,028 g/mL Comp.A 1,045-1,055 g/mL Comp.B"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Viscosité",
+              "value": "14 - 15s (Copa Ford 4)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "PH",
+              "value": "Entrez 7-9"
+            },
+
+            {
+              "@type": "PropertyValue",
+              "name": "Rendement",
+              "value": "(2 couche) - 0,12 L/m²"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "28"
+          }
+        }
+
+      ]
+    }
+  </script>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ProductGroup",
       "name": "Barniz con pistola Topsealer WT Spray",
-      "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
+      "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
       "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
       "brand": {
         "@type": "Organization",
@@ -3541,15 +3498,15 @@
         }
       },
       "weight": "1 Kg",
-      "variesBy": "Dos componentes",
+      "variesBy": "Deux composantes",
       "additionalProperty": [{
           "@type": "PropertyValue",
-          "name": "Sólidos",
+          "name": "Solids",
           "value": "32 ±2% Comp. A - 100% Comp. B"
         },
         {
           "@type": "PropertyValue",
-          "name": "Densidad",
+          "name": "Densité",
           "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
         },
         {
@@ -3559,19 +3516,19 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Viscosidad",
+          "name": "Viscosité",
           "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
         },
 
         {
           "@type": "PropertyValue",
-          "name": "Rendimiento",
-          "value": "(1 mano) - 140 ±10 g/m2"
+          "name": "Rendement",
+          "value": "(1 couche) - 140 ±10 g/m2"
         }
       ],
       "potentialAction": {
         "@type": "Action",
-        "name": "Barnices poliuretano, al agua y acrílicos"
+        "name": "Vernis polyuréthane, à l'eau et acrylique"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -3581,20 +3538,20 @@
       "hasVariant": [{
           "@type": "Product",
           "name": "Topsealer WT Spray Componente A 3L",
-          "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
+          "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
           "size": "3 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
           "sku": "TT02051",
           "gtin13": "8436575620343",
           "weight": "3 Kg",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
             "name": "Topsealer WT Spray Componente B 1L",
-            "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
+            "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
             "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
             "size": "1 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
             "sku": "TT02050",
             "gtin13": "8436575620305",
             "weight": "1 Kg",
@@ -3634,12 +3591,12 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Sólidos",
+                "name": "Solids",
                 "value": "32 ±2% Comp. A - 100% Comp. B"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Densidad",
+                "name": "Densité",
                 "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
               },
               {
@@ -3649,14 +3606,14 @@
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
               },
 
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(1 mano) - 140 ±10 g/m2"
+                "name": "Rendement",
+                "value": "(1 couche) - 140 ±10 g/m2"
               }
             ],
             "aggregateRating": {
@@ -3701,12 +3658,12 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
+              "name": "Solids",
               "value": "32 ±2% Comp. A - 100% Comp. B"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad",
+              "name": "Densité",
               "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
             },
             {
@@ -3716,14 +3673,14 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(1 mano) - 140 ±10 g/m2"
+              "name": "Rendement",
+              "value": "(1 couche) - 140 ±10 g/m2"
             }
           ],
           "aggregateRating": {
@@ -3735,20 +3692,20 @@
         {
           "@type": "Product",
           "name": "Topsealer WT Spray Componente B 1L",
-          "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
+          "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
           "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
           "size": "1 L",
-          "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+          "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
           "sku": "TT02050",
           "gtin13": "8436575620305",
           "weight": "1 Kg",
           "isAccessoryOrSparePartFor": {
             "@type": "Product",
             "name": "Topsealer WT Spray Componente A 3L",
-            "description": "Topsealer WT All in One es un barniz al agua de poliuretano monocomponente desarrollado especialmente para la protección de nuestro microcemento listo al uso 'Efectto'.",
+            "description": "Topsealer WT All in One est un vernis polyuréthane monocomposant à base d'eau spécialement développé pour la protection de notre béton ciré prêt à l'emploi 'Efectto'.",
             "image": "https://www.topciment.com/imagenes/topsealer/topsealer-barniz-pistola.png",
             "size": "3 L",
-            "url": "https://www.topciment.com/es/microcemento/barniz-topsealer#spray",
+            "url": "https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#spray",
             "sku": "TT02051",
             "gtin13": "8436575620343",
             "weight": "3 Kg",
@@ -3788,12 +3745,12 @@
             },
             "additionalProperty": [{
                 "@type": "PropertyValue",
-                "name": "Sólidos",
+                "name": "Solids",
                 "value": "32 ±2% Comp. A - 100% Comp. B"
               },
               {
                 "@type": "PropertyValue",
-                "name": "Densidad",
+                "name": "Densité",
                 "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
               },
               {
@@ -3803,14 +3760,14 @@
               },
               {
                 "@type": "PropertyValue",
-                "name": "Viscosidad",
+                "name": "Viscosité",
                 "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
               },
 
               {
                 "@type": "PropertyValue",
-                "name": "Rendimiento",
-                "value": "(1 mano) - 140 ±10 g/m2"
+                "name": "Rendement",
+                "value": "(1 couche) - 140 ±10 g/m2"
               }
             ],
             "aggregateRating": {
@@ -3855,12 +3812,12 @@
           },
           "additionalProperty": [{
               "@type": "PropertyValue",
-              "name": "Sólidos",
+              "name": "Solids",
               "value": "32 ±2% Comp. A - 100% Comp. B"
             },
             {
               "@type": "PropertyValue",
-              "name": "Densidad",
+              "name": "Densité",
               "value": "1,15 ±0,01 g/ml Comp.A - 1,15 ±0,01 g/ml Comp.B"
             },
             {
@@ -3870,14 +3827,14 @@
             },
             {
               "@type": "PropertyValue",
-              "name": "Viscosidad",
+              "name": "Viscosité",
               "value": "60” ±5 a 25ºC Comp.A (Copa Ford 4)"
             },
 
             {
               "@type": "PropertyValue",
-              "name": "Rendimiento",
-              "value": "(1 mano) - 140 ±10 g/m2"
+              "name": "Rendement",
+              "value": "(1 couche) - 140 ±10 g/m2"
             }
           ],
           "aggregateRating": {

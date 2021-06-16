@@ -19,17 +19,16 @@
 
     <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
-    <title>Revestimientos y recubrimientos metálicos
-        | Pure Mettal</title>
+    <title>Rivestimenti metallici | Pure Mettal</title>
     <meta name="description"
-        content="El revestimiento metálico Pure Mettal de Topciment crea acabados metálicos auténticos en aluminio, iridio, bronce, cobre y latón" />
+        content="Trasformare pareti e mobili con Pure Mettal, i nostri rivestimenti metallici. Un prodotto innovativo con il quale si ottengono finiture metalliche altamente decorative su microcemento, calcestruzzo, mattone o ceramica." />
 
 
     <meta property="og:title" content="Revestimientos y recubrimientos metálicos| Pure Mettal">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/revestimiento-metalico-pure-mettal">
     <meta property="og:description"
-        content="El revestimiento metálico Pure Metal de Topciment crea acabados metálicos auténticos en aluminio, iridio, bronce, cobre y latón">
+        content="Trasformare pareti e mobili con Pure Mettal, i nostri rivestimenti metallici. Un prodotto innovativo con il quale si ottengono finiture metalliche altamente decorative su microcemento, calcestruzzo, mattone o ceramica.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
 
@@ -75,50 +74,29 @@
                         <div class="content">
                             <a id="que-es-puremetal" class="ancla"></a>
                             <h1 class="en2">
-                                Revestimientos y recubrimientos metálicos
-                                | Pure Mettal</h1>
+                               Rivestimenti metallici | Pure Mettal</h1>
                             <div class="text-justify">
-                                <p>
-                                    Pure Mettal es nuestra gama de <strong>revestimientos y recubrimientos metálicos
-                                        bicomponente de alta decoración.</strong> Gracias a su excelente concentración
-                                    de metal,
-                                    otorga un acabado metálico genuino y de lo más natural a cualquier superficie sobre
-                                    la que se aplique.
+                               <p>
+                                    Pure Mettal è la nostra gamma di rivestimenti metallici bicomponenti altamente decorativi. Grazie alla sua eccellente concentrazione di metallo, dà una finitura metallica genuina e naturale a qualsiasi superficie su cui viene applicata.
 
-                                </p>
-                                <p>
-                                    Con este innovador producto las líneas y contornos se acentúan, por lo que la
-                                    intensidad de las texturas es mucho mayor <strong>transformando paredes, fachadas,
-                                        puertas o
-                                        mobiliario en diseños espectaculares y que marcan tendencia. </strong>
+                               </p>    
+<p>
+    Con questo prodotto innovativo le linee e i contorni sono accentuati, quindi l'intensità delle texture è molto maggiore, trasformando pareti, facciate, porte o mobili in design spettacolari e di tendenza.
 
-                                </p>
-                                <p>
-                                    Las sensaciones visuales y táctiles que ofrece Pure Mettal son de lo más
-                                    distinguidas, de ahí que sea uno de los productos más alucinantes de Topciment.
-                                    Estos revestimientos y recubrimientos metálicos de Alta brillantezza están conformados por
-                                    un <strong>Componente A</strong> (partículas de metal In polvere) y un
-                                    <strong>Componente B</strong> (resina híbrida
-                                    orgánica desarrollada específicamente para este sistema).
+</p>    
+<p>
+    Le sensazioni visive e tattili offerte da Pure Mettal sono delle più distinte, ed è per questo che è uno dei prodotti più sorprendenti di Topciment. Questi rivestimenti metallici ad alta brillantezza sono costituiti dal componente A (particelle metalliche in polvere) e dal componente B (resina ibrida organica sviluppata appositamente per questo sistema).
 
-                                </p>
-                                <p>
-                                    Las posibilidades decorativas de Pure Mettal en interiores y exteriores son inmensas
-                                    gracias a su amplia gama de tonalidades: iridio, bronce, aluminio, latón y cobre.
-                                    Pero hay mucho más. <strong> También es posible dotar a las superficies de acabados
-                                        oxidados</strong> ,
-                                    al más puro estilo vintage. ¿Cómo? Con nuestro acelerador de óxido
-                                    <strong><a class="links" href="agente-oxidante-mettal-activator"> Mettal
-                                            Activator</a>.</strong>
+</p>    
+<p>
+    Le possibilità decorative di Pure Mettal in interni ed esterni sono immense grazie alla sua vasta gamma di sfumature: iridio, bronzo, alluminio, ottone e rame. Ma c'è molto di più. È anche possibile dare alle superfici una finitura ossidata nel più puro stile vintage. Come? Con il nostro rivoluzionario acceleratore di ruggine Mettal Activator (link al prodotto).
 
-                                </p>
+</p>    
 
-                                <p>
-                                    Se puede aplicar tanto con llana como rodillo, para jugar con diferentes texturas y
-                                    acabados. <strong>Con Pure Mettal la elegancia y personalización está
-                                        asegurados.</strong>
+<p>
+    Può essere applicato a spatola o a rullo per giocare con diverse texture e finiture. Con Pure Mettal, l'eleganza e la personalizzazione sono assicurate.
 
-                                </p>
+</p>    
                             </div>
 
                         </div>
@@ -141,19 +119,16 @@
                 <div class="content">
 
                     <!-- tipos de cubos -->
-                    <h2 class="en3">
-                        Tipos revestimientos y recubrimientos metálicos Pure Mettal</h2>
+           <h2>Tipi di rivestimenti metallici Pure Mettal® e rivestimenti</h2>
 
-                    <p>
-                        Cinco tipos de revestimientos y recubrimientos metálicos conforman la familia Pure Mettal de
-                        Topciment: <strong> Aluminium, Iridium, Brass, Bronze y Copper.</strong> Uno de los productos
-                        más espectaculares
-                        de nuestro catálogo y que están causando auténtica sensación entre los profesionales del sector.
-                        No hay que olvidar que con el acelerador de óxido Mettal Activator, los impresionantes acabados
-                        metálicos de Pure Mettal se transforman en acabados óxidos.
+<p>
+    Cinque tipi di rivestimenti metallici compongono la famiglia Pure Mettal di Topciment: alluminio, iridio, ottone, bronzo e rame. Uno dei prodotti più spettacolari del nostro catalogo e che sta facendo scalpore tra i professionisti del settore.
 
-                    </p>
+</p>    
+<p>
+    Senza dimenticare che con l'acceleratore di ruggine Mettal Activator, le impressionanti finiture metalliche di Pure Mettal si trasformano in finiture di ossido.
 
+</p>    
                     <div id="separador50px">
                     </div>
                     <div class="row">
@@ -221,7 +196,7 @@
                     </div>
                     <!-- Propiedades -->
                     <h2 class="en3 mb-4">
-                        Características recubrimientos y revestimientos metálicos Pure Mettal</h2>
+                        Caratteristiche dei rivestimenti metallici Pure Mettal</h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -240,9 +215,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/diferentes_texturas.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Diferentes texturas
+                                    <strong>Texture diverse
                                     </strong>
-                                    <p>Cinco texuras con diferentes elementos metálicos</p>
+                                    <p>Cinque tessuti con diversi elementi metallici</p>
                                 </div>
                             </div>
                         </div>
@@ -254,9 +229,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
                                         class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Aplicable sobre cualquier soporte
+                                    <strong>Applicabile su qualsiasi supporto
                                     </strong>
-                                    <p>Microcemento, hormigón, ladrillo, cerámica,etc.
+                                    <p>Microcemento, calcestruzzo, mattone, ceramica, ecc.
                                     </p>
                                 </div>
                             </div>
@@ -278,21 +253,12 @@
                     <!-- Rendimiento -->
                     <h2 class="en3">
                         Performance</h2>
-                    <p>El rendimiento de la <strong> primera capa</strong> de los revestimientos y recubrimientos
-                        metálicos Pure Mettal es
-                        de <strong>305g/m2.</strong> En cuanto a la <strong>segunda mano</strong>, el rendimiento
-                        desciende a <strong>260g/m2.</strong>
+                    <p>La resa della <strong>prima mano</strong> dei rivestimenti metallici Pure Mettal è <strong>305g/m2.</strong> Per quanto riguarda la <strong>seconda mano</strong>, la resa scende a <strong>260g/m2.</strong>
                     </p>
                     <!--  Presentazione -->
                     <h2 class="en3">
                         Presentazione</h2>
-                    <p>El <strong>componente A</strong> de Pure Mettal se presenta en cubos cónicos de plástico negro de
-                        <strong>5 y 1 kg.</strong> Por lo
-                        que respecta al <strong>componente B</strong> de los revestimientos y recubrimientos metálicos
-                        Pure Mettal, se
-                        presenta en un bote de plástico para la versión de <strong>0,5L</strong> y en una garrafa de
-                        plástico para la
-                        versión de <strong>2 L.</strong></p>
+                    <p>Il <strong>Componente A</strong> di Pure Mettal è disponibile in <strong>secchi conici di plastica nera da 5 kg e 1 kg.</strong> Per quanto riguarda il <strong>Componente B</strong> dei rivestimenti metallici Pure Mettal, è disponibile in una bottiglia di plastica per la versione <strong>0,5 L</strong> e in una caraffa di plastica per la versione <strong>2 L</strong>.</strong></p>
                     <p class="en3">
                         Ficha técnica</p>
                     <p><a class="links" href="https://www.topciment.com/fichas-tecnicas/PureMettal_ES.pdf"
@@ -315,24 +281,13 @@
                             src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Generic.png"
                             title="Logo Pure Mettal" alt="Logo Pure Mettal">
                     </div>
-
-                    <h2>Acabados metálicos y óxidos Pure Mettal</h2>
-                    <p>A continuación, os presentamos los nueve acabados decorativos que los revestimientos y
-                        recubrimientos metálicos Pure Mettal ofrecen. Según el producto y pigmento elegido, el
-                        profesional puede hacer múltiples combinaciones y jugar con las amplias posibilidades
-                        decorativas que cada uno de ellos ofrece. En la <strong>columna de la izquierda</strong> se
-                        muestran los <strong>acabados
-                            metálicos,</strong> mientras <strong>en la derecha</strong> los <strong> acabados óxidos
-                        </strong> resultantes de utilizar nuestro acelerador
-                        de óxido Mettal Activator.
+<h2>Pure Mettal finiture metalliche e ossidi</h2> <p>Queste sono le nove finiture decorative che offrono i rivestimenti metallici e le vernici metalliche Pure Mettal. A seconda del prodotto e del pigmento scelto, il professionista può fare molteplici combinazioni e giocare con le ampie possibilità decorative che ognuna di esse offre. La <strong>colonna a sinistra</strong> mostra le <strong>finiture metalliche,</strong> mentre <strong>a destra</strong> le <strong>finiture di ossido</strong> risultanti dall'uso del nostro acceleratore di ruggine Mettal Activator.
                     </p>
                     <div class="row">
                         <!-- Bronze -->
                         <div class="col-md-4"> <img class="img-fluid"
                                 src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Bronze.png">
-                            <p class="text-justify">El bronce es una aleación de estaño y cobre que proporciona un
-                                toque especial a la aplicación de Pure Mettal. Este revestimiento metálico es idóneo
-                                para ambientes rústicos, industriales e incluso escandinavos.</p>
+                            <p class="text-justify">Il bronzo è una lega di stagno e rame che dà un tocco speciale all'applicazione del Pure Mettal. Questo rivestimento metallico è ideale per ambienti rustici, industriali e persino scandinavi.</p>
                         </div>
                         <div class="col-md-8">
                             <div class="color">
@@ -350,10 +305,8 @@
                     <div class="row">
                         <div class="col-md-4 "> <img class="img-fluid"
                                 src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Brass.jpg">
-                            <p class="text-justify">El aspecto brillante del latón, así como la elegancia y calidez que
-                                aporta a cualquier estancia, ha vuelto a convertir a este metal en tendencia de alta
-                                decoración. Con este recubrimiento metálico lograrás la sofisticación de esos ambientes
-                                evocadores de principios del siglo XX.</p>
+                            <p class="text-justify">L'aspetto brillante dell'ottone, così come l'eleganza e il calore che porta in qualsiasi stanza, ha fatto ancora una volta di questo metallo una tendenza nell'alta decorazione. Con questo rivestimento metallico otterrete la raffinatezza di quegli ambienti suggestivi dell'inizio del ventesimo secolo.
+</p>
                         </div>
                         <div class="col-md-8">
                             <div class="color">
@@ -370,11 +323,8 @@
                     <div class="row">
                         <div class="col-md-4 "> <img class="img-fluid"
                                 src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Copper.png">
-                            <p class="text-justify">El cobre es un material que combina con multitud de materiales y
-                                estilos gracias a sus cálidos reflejos, que dotarán a cualquier estancia de personalidad
-                                propia. El revestimiento metálico Pure Mettal Copper es perfecto para conseguir no solo
-                                un estilo rústico de lo más natural, sino también un estilo industrial e incluso
-                                nórdico.
+                            <p class="text-justify">Il rame è un materiale che si combina con una moltitudine di materiali e stili grazie ai suoi riflessi caldi, che daranno a qualsiasi stanza la sua personalità. Il rivestimento metallico Pure Mettal Copper è perfetto per ottenere non solo uno stile rustico del più naturale, ma anche uno stile industriale e persino nordico.
+
                             </p>
                         </div>
                         <div class="col-md-8">
@@ -393,10 +343,8 @@
                     <div class="row">
                         <div class="col-md-4 "> <img class="img-fluid"
                                 src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Iridium.png">
-                            <p class="text-justify">El iridio es un material que antiguamente se asociaba a la
-                                decoración artesanal y con toques rústicos. No obstante, la aplicación de nuestro
-                                recubrimiento metálico Pure Mettal Iridium casa también a la perfección con ambientes
-                                más modernos y vanguardistas gracias a la sensación de robustez y fuerza que transmite.
+                            <p class="text-justify">L'iridio è un materiale che una volta era associato alla decorazione artigianale e ai tocchi rustici. Tuttavia, l'applicazione del nostro rivestimento metallico Pure Mettal Iridium si adatta perfettamente anche ad ambienti più moderni e all'avanguardia grazie alla sensazione di robustezza e forza che trasmette.
+
                             </p>
                         </div>
                         <div class="col-md-8">
@@ -414,10 +362,7 @@
                     <div class="row">
                         <div class="col-md-4"> <img class="img-fluid"
                                 src="https://www.topciment.com/imagenes/pure-mettal/PureMettal_Aluminium.png">
-                            <p class="text-justify">Si hay un metal versátil como pocos, ese es el aluminio. De
-                                innegable carácter industrial, nuestro revestimiento metálico Pure Mettal Aluminium
-                                combina con otros materiales como la madera o el ladrillo. Una fusión con la que se
-                                consigue replicar el ambiente de un auténtico loft neoyorquino.</p>
+                            <p class="text-justify">Se c'è un metallo versatile come pochi altri, quello è l'alluminio. Con un innegabile carattere industriale, il nostro rivestimento metallico Pure Mettal Aluminium si combina con altri materiali come il legno o il mattone. Una fusione che replica l'atmosfera di un autentico loft di New York.</p>
                         </div>
                         <div class="col-md-8">
                             <img class="img-fluid"
@@ -443,17 +388,10 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Dónde aplicar revestimientos y recubrimientos metálicos Pure Mettal</h2>
+                    <h2>Dove applicare i rivestimenti metallici Pure Mettal</h2>
 
                     <p>
-                        Los revestimientos y recubrimientos metálicos Pure Mettal, que están disponibles en una amplia
-                        gama de tonalidades, pueden aplicarse en <strong>superficies no transitables tanto en interiores
-                            como
-                            exteriores.</strong> Son perfectos para renovar por completo fachadas, paredes, pilares,
-                        techos, muros o
-                        mobiliario como, por ejemplo, mesas. El abanico de materiales que se pueden revestir con Pure
-                        Mettal es muy amplio, como por ejemplo
-                        microcemento, cerámica, pladur u hormigón, entre otros muchos.
+                        I rivestimenti metallici Pure Mettal, disponibili in un'ampia gamma di tonalità, possono essere applicati su <strong>superfici non transitabili sia all'interno che all'esterno,</strong> e sono perfetti per rinnovare completamente facciate, pareti, pilastri, soffitti, muri o mobili come i tavoli, per esempio. La gamma di materiali che possono essere rivestiti con Pure Mettal è molto ampia, come microcemento, ceramica, cartongesso o calcestruzzo, tra molti altri.
 
                     </p>
                     <div class="video"><iframe src="https://www.youtube.com/embed/6nNWJM3b9jo"
@@ -463,15 +401,13 @@
                     </div>
                    
                     <div class="stepfloor mt-5">
-                       <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación revestimientos y recubrimientos metálicos Pure Mettal</strong></a></h2>
+                       <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Applicazione dei rivestimenti metallici Pure Mettal</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 1. Limpieza y preparación del
-                                        soporte.</strong><br>Debemos asegurarnos de que está bien cohesionado, seco y si
-                                    es necesario lijado. Aspirar para dejar limpio el soporte.
+                                    <strong>Passo 1. Pulizia e preparazione del supporto.</strong><br>Dobbiamo assicurarci che sia ben coeso, asciutto e se necessario levigato. Aspirare per lasciare il supporto pulito.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -487,9 +423,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 2. Imprimación.</strong><br>Aplicar una capa de imprimación Primacem
-                                    ABS (soporte absorbente) o Primacem PLUS (soporte no absorbente). Dejar secar
-                                    alrededor de 1 hora.
+                                    <strong>Passo 2. Primer.</strong><br>Applicare una mano di primer Primacem ABS (substrato assorbente) o Primacem PLUS (substrato non assorbente). Lasciare asciugare per circa 1 ora.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -506,10 +440,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 3. Decoración.</strong><br>
-                                    Mezclar el componente A y el componente B del acabado Pure Mettal elegido (Bronze,
-                                    Aluminium, Iridium, Brass o Copper). Aplicar dos manos dejando secar entre 2 y 4
-                                    oreentre capas. Dejar secar 24 horas.
+                                    <strong>Passo 3. Decorazione.</strong><br> Mescolare il componente A e il componente B della finitura Pure Mettal scelta (bronzo, alluminio, iridio, ottone o rame). Applicare due mani lasciando asciugare da 2 a 4 mani tra una mano e l'altra. Lasciare asciugare per 24 ore.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -525,10 +456,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 4A. Acabado metálico y sellador.</strong><br>
-                                    En el caso de querer un acabado metálico, una vez decorada y pulida la superficie,
-                                    aplicar dos manos del sellador Topsealer WT One Coat para proteger el soporte
-                                    (dejando secar 24 oreentre aplicaciones). Dejar secar 24 horas.
+                                    <strong>Passo 4A. Finitura metallica e sigillante.</strong><br> Se è richiesta una finitura metallica, una volta che la superficie è stata decorata e lucidata, applicare due mani di sigillante Topsealer WT One Coat per proteggere il substrato (lasciando passare 24 ore tra le applicazioni). Lasciare asciugare per 24 ore.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -544,12 +472,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 4B. Acabado oxidado y sellador</strong><br>
-                                    En el caso de preferir un acabado oxidado, una vez decorada y pulida la superficie,
-                                    aplicar Mettal Activator para acelerar la oxidación y lijar. Después aplicar dos
-                                    manos de Presealer (dejando 4 oreentremani) y lijar. Finalmente proteger la
-                                    superficie con dos capas del sellador Topsealer WT One Coat (24 oreentre capas).
-                                    Dejar secar 24 horas.
+                                    <strong>Passo 4B. Finitura arrugginita e sigillante</strong><br> Se si preferisce una finitura arrugginita, una volta che la superficie è stata decorata e lucidata, applicare Mettal Activator per accelerare l'ossidazione e carteggiare. Poi applicare due mani di Presealer (lasciando 4 oreentremani) e carteggiare. Infine, proteggere la superficie con due mani di Topsealer WT One Coat (24 ore tra le mani). Lasciare asciugare per 24 ore.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -580,12 +503,7 @@
                 src="https://www.topciment.com/imagenes/pure-mettal/background/pure_mettal_fondo_900X443_02.jpg"
                 width="100%" alt="microcementos">
         </div>
-        <section id="preguntas-frecuentes"
-            style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); perspective: 1000px;">
-
-            <div id="separador0px"></div>
-
-        </section>
+       
         <div id="separador50px">
         </div>
         <?php include("../includes/footer.php"); ?>
@@ -665,13 +583,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diferentes texturas",
-        "value": "Cinco texuras con diferentes elementos metálicos"
+        "name": "Texture diverse",
+        "value": "Cinque tessuti con diversi elementi metallici"
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo, cerámica,etc."
+        "name": "Applicabile su qualsiasi supporto",
+        "value": "Microcemento, calcestruzzo, mattone, ceramica, ecc."
       },
       {
         "@type": "PropertyValue",
@@ -742,13 +660,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diferentes texturas",
-        "value": "Cinco texuras con diferentes elementos metálicos"
+        "name": "Texture diverse",
+        "value": "Cinque tessuti con diversi elementi metallici"
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo, cerámica,etc."
+        "name": "Applicabile su qualsiasi supporto",
+        "value": "Microcemento, calcestruzzo, mattone, ceramica, ecc."
       },
       {
         "@type": "PropertyValue",
@@ -819,13 +737,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diferentes texturas",
-        "value": "Cinco texuras con diferentes elementos metálicos"
+        "name": "Texture diverse",
+        "value": "Cinque tessuti con diversi elementi metallici"
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo, cerámica,etc."
+        "name": "Applicabile su qualsiasi supporto",
+        "value": "Microcemento, calcestruzzo, mattone, ceramica, ecc."
       },
       {
         "@type": "PropertyValue",
@@ -896,13 +814,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diferentes texturas",
-        "value": "Cinco texuras con diferentes elementos metálicos"
+        "name": "Texture diverse",
+        "value": "Cinque tessuti con diversi elementi metallici"
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo, cerámica,etc."
+        "name": "Applicabile su qualsiasi supporto",
+        "value": "Microcemento, calcestruzzo, mattone, ceramica, ecc."
       },
       {
         "@type": "PropertyValue",
@@ -972,13 +890,13 @@
       },
       {
         "@type": "PropertyValue",
-        "name": "Diferentes texturas",
-        "value": "Cinco texuras con diferentes elementos metálicos"
+        "name": "Texture diverse",
+        "value": "Cinque tessuti con diversi elementi metallici"
       },
       {
         "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo, cerámica,etc."
+        "name": "Applicabile su qualsiasi supporto",
+        "value": "Microcemento, calcestruzzo, mattone, ceramica, ecc."
       },
       {
         "@type": "PropertyValue",

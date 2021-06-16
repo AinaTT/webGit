@@ -71,7 +71,7 @@
                     <p>
                         Después de semanas de trabajo por fin os podemos presentar <strong>Topsealer WT All in One</strong> , nuestro
                       <strong>  nuevo barniz al agua de poliuretano monocomponente </strong> que se aúna a la amplia gama de barnices
-                         <a class="links" href="https://www.topciment.com/es/microcemento/barniz-topsealer">Topsealer</a>. Si estás buscando un sellador poliuretano de altas prestaciones
+                         <a class="links" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealer</a>. Si estás buscando un sellador poliuretano de altas prestaciones
                         para proteger todo tipo de recubrimientos para suelos y paredes... ¡Sigue leyendo! </p>
 
                     <p>Este innovador producto ha sido diseñado en gran medida <strong>para preservar </strong> las superficies revestidas
@@ -332,7 +332,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/topciment-lanza-nuevo-barniz-agua-poliuretano"
+  },
+  "headline": "Topsealer WT All in One: nuevo barniz al agua de poliuretano para el microcemento listo al uso",
+  "image":"https://www.topciment.com/imagenes/topsealer/topsealer-barniz-microcemento.jpg",
+  "datePublished": "2021-03-10",
+  "dateModified": "2021-03-10",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "El barniz al agua de poliuretano Topsealer WT All in One se suma a la familia de selladores de Topciment. Un nuevo producto para proteger mejor y por mucho más tiempo las superficies revestidas con nuestro microcemento listo al uso Efectto. Las resistencias mecánicas y químicas que ofrece son inmejorables."
+  
+}
+</script>
 </body>
 
 </html>

@@ -14,7 +14,7 @@
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
-    <title>Photos de bureaux en béton ciré</title>
+    <title>Photos de bureaux en béton ciré </title>
     <meta name="description"
         content="Photos de bureaux avec sol en microciment. Immobilier rénové avec du microciment. Conception avec du microciment." />
     <meta property="og:locale" content="fr_FR" />
@@ -26,7 +26,7 @@
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="Photos de bureaux avec sol en microciment. Immobilier rénové avec du microciment. Conception avec du microciment." />
-    <meta name="twitter:title" content="Photos de béton cirédans des bureaux." />
+    <meta name="twitter:title" content="Photos de béton ciré dans des bureaux." />
     <meta name="twitter:title" content="resumen" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -41,19 +41,6 @@
         hreflang="es-ES" />
     <link rel="alternate" href="https://www.topciment.com/en/project/project-real-estate-interior-design"
         hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-inmobiliaria-interiorismo.html"
-        hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-inmobiliaria-interiorismo.html"
-        hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-inmobiliaria-interiorismo.html"
-        hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-inmobiliaria-interiorismo.html"
-        hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-inmobiliaria-interiorismo.html"
-        hreflang="ru-RU" />
-    <link rel="alternate"
-        href="https://www.topciment.cn/best-images-of-concrete-revest-at-inmobiliaria-interiorismo.html"
-        hreflang="zh-CN" />
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -102,7 +89,7 @@
                         <strong>Microfino</strong> pour les murs.
                         <strong>Microfino</strong> dans une teinte plus claire, Ivory, pour les carreaux muraux de la
                         salle de bains.
-                        Avec la finition rustique du <a href="../information-beton-cire">Béton Ciré</a>, les courbes des
+                        Avec la finition rustique du <a href="../information-beton-cire">béton ciré </a>, les courbes des
                         éléments de cloisonnement et du mobilier
                         Les éléments et le mobilier créent une harmonie parfaite.
                 </div>

@@ -125,7 +125,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/carmen-house"
+  },
+  "headline": "La casa más famosa en redes sociales está diseñada con Topciment26/",
+  "image":"https://www.topciment.com/imagenes/carmen-house/CARLES%20FAUS%20ARQUITECTURA%20-%20CARMEN%20HOUSE%20(5)%20-%20copia.jpg",
+  "datePublished": "2020-08-26",
+  "dateModified": "2020-08-26",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "El arquitecto Carles Faus ha diseñado la casa más viral del momento: una preciosa vivienda ubicada en Denia que destaca por su luminosidad y su efecto de continuidad gracias a la aplicación del microcemento."
 
+}
+</script>
 </body>
 
 </html>

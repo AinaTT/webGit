@@ -15,18 +15,18 @@
     <link rel="preload" href="../assets/css/garantia.css" as="style"/>
     <link rel="stylesheet" href="../assets/css/garantia.css"/>
 
-    <title>La garantie Béton Ciré Topciment.</title>
-    <meta name="description" content="Les produits de béton ciré Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
+    <title>La garantie béton ciré  Topciment.</title>
+    <meta name="description" content="Les produits de béton ciré  Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="La garantie Béton Ciré Topciment."/>
-    <meta property="og:description" content="Les produits de béton ciré Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
+    <meta property="og:title" content="La garantie béton ciré  Topciment."/>
+    <meta property="og:description" content="Les produits de béton ciré  Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
     <meta property="og:url" content="https://www.topciment.com/fr/garantie"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Les produits de béton ciré Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
-    <meta name="twitter:title" content="La garantie Béton Ciré Topciment."/>
+    <meta name="twitter:description" content="Les produits de béton ciré  Topciment répondent aux plus hautes exigences du marché. Certificat CE."/>
+    <meta name="twitter:title" content="La garantie béton ciré  Topciment."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -117,7 +117,7 @@
                             <h2>Résistance physique</h2>
                             <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/icono-resistencia-fisica.jpg" alt="Resistencia Física"></div>
                             <div id="leyendaIcono">
-                                <p>Le béton ciré est comparable au parquet en bois naturel, cependant, en ce qui
+                                <p>Le béton ciré  est comparable au parquet en bois naturel, cependant, en ce qui
                                     concerne les Résistances aux éraflures, coups et usure, des essais réalisés en
                                     suivant les normes EN démontrent que son comportement dépasse largement la plupart
                                     des parquets en bois naturel. La garantie ne couvre pas les dommages provoqués par
@@ -132,7 +132,7 @@
                             <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/icono-resistencia-quimica.jpg" alt="Resistencia Química">
                             </div>
                             <div id="leyendaIcono">
-                                <p>Le revêtement de béton ciré a une bonne résistance aux produits chimiques de
+                                <p>Le revêtement de béton ciré  a une bonne résistance aux produits chimiques de
                                     nettoyage ; mais nous recommandons l’utilisation d’eau et de savon neutre pour sa
                                     durabilité et maintenance. S’agissant d’un revêtement continu, sans joints, le
                                     nettoyage est beaucoup plus facile.</p>
@@ -216,7 +216,7 @@
                             <h2>Colour Stability</h2>
                             <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/icono-estabilidad-color.jpg" alt="Resistencia Física"></div>
                             <div id="leyendaIcono">
-                                <p>Les teintures employées pour donner de la couleur au béton ciré sont d’origine minérale,
+                                <p>Les teintures employées pour donner de la couleur au béton ciré  sont d’origine minérale,
                                     elles sont celles qui se comportent le mieux face à l’alcalinité du ciment, à la
                                     climatologie et à la lumière du soleil ; elles demeurent stables sans subir
                                     d’altérations évidentes.<br>

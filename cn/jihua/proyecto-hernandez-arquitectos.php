@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>商业场所的微水泥图片</title> <meta name="description" content="商业场所用微水泥改造的照片。项目由Hernández Arquitectos负责。Tienda El Picaporte的图像。
+    <title>商业场所的微水泥图片</title> <meta name="description" content="商业场所用微水泥改造的照片。项目由Hernández Arquitectos负责。
+    Tienda El Picaporte的图像。">
     
 
     <link rel="canonical" href="https://www.topciment.com/cn/jihua/proyecto-hernandez-arquitectos"/>
@@ -23,13 +24,7 @@
     <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-hernandez-arquitectos" hreflang="zh-CN"/>
     <link rel="alternate" href="https://www.topciment.com/en/proyecto-hernandez-arquitectos.html" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/fr/projet-hernandez-arquitectos" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-hernandez-arquitectos.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-hernandez-arquitectos.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-hernandez-arquitectos.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-hernandez-arquitectos.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-hernandez-arquitectos.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.us/images-hernandez-arquitectos.html" hreflang="en-US"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-hernandez-arquitectos.html" hreflang="zh-CN"/>
+
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 

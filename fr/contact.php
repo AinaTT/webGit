@@ -15,18 +15,18 @@
     <link rel="preload" href="../assets/css/contacto.css" as="style"/>
     <link rel="stylesheet" href="../assets/css/contacto.css"/>
 
-    <title>Formulaire de contact de béton ciré Topciment</title>
-    <meta name="description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré.	National et international. "/>
+    <title>Formulaire de contact de béton ciré  Topciment</title>
+    <meta name="description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré .	National et international. "/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Formulaire de contact de béton ciré Topciment"/>
-    <meta property="og:description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré.	National et international. "/>
+    <meta property="og:title" content="Formulaire de contact de béton ciré  Topciment"/>
+    <meta property="og:description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré .	National et international. "/>
     <meta property="og:url" content="https://www.topciment.com/fr/contact"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré.	National et international. "/>
-    <meta name="twitter:title" content="Formulaire de contact de béton ciré Topciment"/>
+    <meta name="twitter:description" content="Résolvez vos doutes, demandez des informations, trouvez des points de vente, des distributeurs ou des applicateurs de béton ciré .	National et international. "/>
+    <meta name="twitter:title" content="Formulaire de contact de béton ciré  Topciment"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>

@@ -16,7 +16,7 @@
 
 
     <title>Topciment confirme sa participation à Cevisama 2018</title>
-    <meta name="description" content="Cevisama 2018, Topciment consolide sa position de référence dans la fabrication du béton ciréen Europe."/>
+    <meta name="description" content="Cevisama 2018, Topciment consolide sa position de référence dans la fabrication du béton ciré en Europe."/>
 
 
 
@@ -52,7 +52,7 @@
                         Février. Chez Topciment, nous profitons de l'occasion pour être présents à cet événement unique qui sert de centre d'idées et d'inspiration pour le design intérieur et extérieur.
                         en tant que centre d'idées et d'inspiration pour le design intérieur et extérieur. </p>
                     <p>Le stand 95, au deuxième niveau du hall 6, sera le lieu où nous organiserons des démonstrations
-                        l'application de béton cirépour les murs, les sols et les extérieurs, ainsi que les différentes finitions possibles : peintures métalliques et oxydées
+                        l'application de béton ciré pour les murs, les sols et les extérieurs, ainsi que les différentes finitions possibles : peintures métalliques et oxydées
                         les peintures métalliques et les effets oxydés. L'équipe de professionnels de
                         Topciment sera à la disposition de tous ceux qui veulent résoudre leurs doutes.</p>
                 </div>
@@ -60,11 +60,11 @@
                     "y": "50",
                     "alpha": "0",
                     "duration": "2"}'>
-                    <p>Le béton ciréest devenu l'un des matériaux phares de la construction et la solution parfaite pour ceux qui
+                    <p>Le béton ciré est devenu l'un des matériaux phares de la construction et la solution parfaite pour ceux qui
                         la construction et la solution parfaite pour ceux qui cherchent à réformer avec originalité les salles de bains, les cuisines ou toute autre pièce de leur maison ou de leur entreprise
                         séjour de votre domicile ou de votre entreprise avec originalité et sans produire de débris. Les garanties Topciment
                         le <u></u><a href="../garantie">la qualité des produits</a></u> et consolide sa position en tant que référence
-                        dans la fabrication de béton ciréen Espagne et en Europe. </p>
+                        dans la fabrication de béton ciré en Espagne et en Europe. </p>
                     <p>Nous nous sommes engagés envers le Cevisama parce qu'il est la meilleure vitrine espagnole des tendances et le principal point de rencontre de la
                         point de rencontre pour <u><a href="../professionnels">Professionnels</a></u> l'architecture et la décoration intérieure.
                         l'aménagement intérieur. </p>

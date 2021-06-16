@@ -32,8 +32,8 @@
     <link rel="canonical" href="https://www.topciment.com/pl/mikrocement/lakier-topsealer" />
 
     <link rel="alternate" href="https://www.topciment.com/pl/mikrocement/lakier-topsealer" hreflang="pl-PL" />
-    <link rel="alternate" href="https://www.topciment.com/en/microcements/varnishes-topsealer" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-topsealer" hreflang="fr-FR" />
+    <link rel="alternate" href="https://www.topciment.com/en/microcements/polyurethane-waterbased-acrylic-varnishes-topsealer" hreflang="en-GB" />
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer" hreflang="fr-FR" />
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -746,7 +746,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>PH</strong>
-                                    <p>Między 7,5 y 9</p>
+                                    <p>Między 7 y 8,5</p>
                                 </div>
                             </div>
                         </div>

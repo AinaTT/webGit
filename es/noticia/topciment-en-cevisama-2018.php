@@ -84,7 +84,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/topciment-en-cevisama-2018"
+  },
+  "headline": "Topciment confirma su participación en Cevisama 2018 en FeriaValencia",
+  "image":"https://www.topciment.com/imagenes/feria-microcemento-cevisama-2018.jpg",
+  "datePublished": "2020-01-25",
+  "dateModified": "2020-01-25",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "El equipo de Topciment se encontrará en Cevisama 2018 en FeriaValencia a disposición de todo aquel que quiera resolver sus dudas en. Le facilitamos un link para que pueda obtener la entrada gratuita y acceder al recinto sin colas."
+  
 
+}
+</script>
 </body>
 
 </html>

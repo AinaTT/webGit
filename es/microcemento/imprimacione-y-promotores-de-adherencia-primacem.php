@@ -150,7 +150,7 @@
 
                             </h2>
                             <p>
-                                Primacem Fix es una imprimación con microcemento con efecto tacking que se presenta
+                                Primacem Fix es una imprimación con efecto tacking que se presenta
                                 lista al uso y que favorece la adhesión del soporte existente y el nuevo. Es especialmente recomendable  como puente de unión entre hormigones
                                 y morteros.
 

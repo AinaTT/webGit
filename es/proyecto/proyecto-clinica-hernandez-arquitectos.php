@@ -37,13 +37,6 @@
  <link rel="alternate" href="https://www.topciment.com/es/proyecto/proyecto-clinica-hernandez-arquitectos" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-clinic-hernandez-architects" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/fr/projet-clinic-hernandez-arquitectos" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-clinica-hernandez-arquitectos.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-clinica-hernandez-arquitectos.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-clinica-hernandez-arquitectos.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-clinica-hernandez-arquitectos.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-clinica-hernandez-arquitectos.html" hreflang="ru-RU"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-clinica-hernandez-arquitectos.html" hreflang="zh-CN"/>
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>

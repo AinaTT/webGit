@@ -13,20 +13,20 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
-    <title>Badezimmer mit Mikrozement in Gorinchem</title>
+    <title>Badezimmer mit mikrozement  in Gorinchem</title>
     <meta name="description"
-        content="Badrenovierung mit Mikrozement in Gorinchem Fotos von renoviertem Bad mit Mikrozement. " />
+        content="Badrenovierung mit mikrozement  in Gorinchem Fotos von renoviertem Bad mit mikrozement . " />
     <meta property="og:locale" content="de_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Badezimmer mit Mikrozement in Gorinchem" />
+    <meta property="og:title" content="Badezimmer mit mikrozement  in Gorinchem" />
     <meta property="og:description"
-        content="Badezimmer Renovierung mit Mikrozement in Gorinchem Fotos von renoviertem Badezimmer mit Mikrozement. " />
+        content="Badezimmer Renovierung mit mikrozement  in Gorinchem Fotos von renoviertem Badezimmer mit mikrozement . " />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-decas" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Badezimmer Renovierung mit Mikrozement. en Gorinchem Fotos de baño reformado con microcemento. " />
-    <meta name="twitter:title" content="Baño con microcemento en Gorinchem" />
+        content="Badezimmer Renovierung mit mikrozement . en Gorinchem Fotos de baño reformado con microcemento. " />
+    <meta name="twitter:title" content="Baño con mikrozement en Gorinchem" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -76,7 +76,7 @@
                         derer, die sich hier niederlassen. Und genau das vermittelt dieses Bad in einem Haus mit geraden
                         Linien und reinen Farben. Helle Farben und angenehmes natürliches Licht verstärken den Raum, und
                         dank der <strong>Wand- und Bodenverkleidung</strong> ist der Abschluss eine harmonische
-                        Komposition mit <a href="../mikrozemente">Mikrozement</a> als Hauptmaterial, in der Sie Momente
+                        Komposition mit <a href="../mikrozemente">mikrozement </a> als Hauptmaterial, in der Sie Momente
                         des Abschaltens und der Ruhe genießen können.
                     </p>
                 </div>

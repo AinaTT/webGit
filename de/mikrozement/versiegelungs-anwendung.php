@@ -13,20 +13,20 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Auftragen von Lack oder Versiegelung für Mikrozement</title>
+    <title>Auftragen von Lack oder Versiegelung für mikrozement </title>
     <meta name="description"
-        content="Wie man Mikrozement-Lack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten der Mikrozement-Versiegelung." />
+        content="Wie man mikrozement -Lack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten der mikrozement -Versiegelung." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Auftragen von Lack oder Versiegelung für Mikrozement" />
+    <meta property="og:title" content="Auftragen von Lack oder Versiegelung für mikrozement " />
     <meta property="og:description"
-        content="Wie man Mikrozement-Lack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten von Mikrozementversiegelung." />
+        content="Wie man mikrozement -Lack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten von mikrozement versiegelung." />
     <meta property="og:url" content="https://www.topciment.com/de/mikrozement/versiegelungs-anwendung" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Wie man Mikrozementlack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten von Mikrozementversiegelungen" />
-    <meta name="twitter:title" content="Auftragen von Mikrozementlacken oder -versiegelungen" />
+        content="Wie man mikrozement lack für ein perfektes Finish aufträgt. Chemische Beständigkeiten und mechanische Beständigkeiten von mikrozement versiegelungen" />
+    <meta name="twitter:title" content="Auftragen von mikrozement lacken oder -versiegelungen" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -55,10 +55,10 @@
         <div class="container">
             <div class="content">
 
-                <h3 style="text-align:left;">Wir versiegeln den Mikrozement, um ihn zu schützen. Der Lack verleiht ihm
+                <h3 style="text-align:left;">Wir versiegeln den mikrozement , um ihn zu schützen. Der Lack verleiht ihm
                     chemische und mechanische Beständigkeit und die Möglichkeit, verschiedene Oberflächen zu haben:
                     seidenmatt, matt, supermatt oder glänzend.</h3>
-                <p style="text-align:left;">Nach dem Auftragen der letzten Schicht Mikrozement und nach einer Wartezeit
+                <p style="text-align:left;">Nach dem Auftragen der letzten Schicht mikrozement  und nach einer Wartezeit
                     von 24 Stunden, bis sie vollständig getrocknet ist, müssen wir mit dem Versiegelungsprozess
                     beginnen. Die Versiegelung erleichtert nicht nur die Reinigungsarbeiten, sondern macht die
                     Oberfläche auch wasserdicht.</p>

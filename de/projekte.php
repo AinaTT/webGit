@@ -14,17 +14,17 @@
     <link rel="preload" href="../assets/css/proyectos.css" as="style" />
     <link rel="stylesheet" href="../assets/css/proyectos.css" />
 
-    <title>Mikrozementprojekte</title>
-    <meta name=" description" content="Entdecken Sie unsere spektakulären Mikrozementprojekte" />
+    <title>mikrozement projekte</title>
+    <meta name="description" content="Entdecken Sie unsere spektakulären mikrozement projekte" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Mikrozementprojekte" />
-    <meta property="og:description" content="Entdecken Sie unsere spektakulären Mikrozementprojekte" />
+    <meta property="og:title" content="mikrozement projekte" />
+    <meta property="og:description" content="Entdecken Sie unsere spektakulären mikrozement projekte" />
     <meta property="og:url" content="https://www.topciment.com/de/projekte" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Entdecken Sie unsere spektakulären Mikrozementprojekte" />
-    <meta name="twitter:title" content="Mikrozementprojekte" />
+    <meta name="twitter:description" content="Entdecken Sie unsere spektakulären mikrozement projekte" />
+    <meta name="twitter:title" content="mikrozement projekte" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento" />
@@ -65,7 +65,7 @@
         </div>
         <div class="content">
             <a id="proyectos" class="ancla"></a>
-            <h1 id="preguntasFrecuentesH1" class="wow fadeInDown mb-4"><span style="padding:5px;float: left;">Mikrozement Projekte</span>
+            <h1 id="preguntasFrecuentesH1" class="wow fadeInDown mb-4"><span style="padding:5px;float: left;">mikrozement  Projekte</span>
                 <!-- <span class="showfilter name">/Filtrar por:</span> -->
             </h1>
 

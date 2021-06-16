@@ -63,7 +63,7 @@
                                 ciré </a></strong>,
                         en raison de sa résistance et de sa facilité d'entretien, est la meilleure
                         option pour couvrir tous
-                        surface. Cependant, c'est sur les murs que le béton cirébrille avec sa propre
+                        surface. Cependant, c'est sur les murs que le béton ciré brille avec sa propre
                         lumière, en particulier dans ceux qui exigent une hygiène et une propreté
                         constantes, tels que
                         les murs de la cuisine ou de la salle de bains. </p>

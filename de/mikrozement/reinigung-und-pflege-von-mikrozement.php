@@ -13,21 +13,21 @@
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
-    <title>Reinigung und Pflege von Mikrozementen | Schutzwachse und Reiniger</title>
+    <title>Reinigung und Pflege von mikrozement en | Schutzwachse und Reiniger</title>
     <meta name="description"
-        content="Holen Sie das Beste aus der Reinigung und Pflege Ihrer Mikrozementbeschichtungen heraus. Lernen Sie unsere Schutzwachse und biologisch abbaubaren Reiniger kennen." />
-    <meta property="og:title" content="Reinigung und Pflege von Mikrozement | Schutzwachse und Reiniger">
+        content="Holen Sie das Beste aus der Reinigung und Pflege Ihrer mikrozement beschichtungen heraus. Lernen Sie unsere Schutzwachse und biologisch abbaubaren Reiniger kennen." />
+    <meta property="og:title" content="Reinigung und Pflege von mikrozement  | Schutzwachse und Reiniger">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement">
+    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement ">
     <meta property="og:description"
-        content="Machen Sie das Beste aus der Reinigung und Pflege Ihrer Mikrozementbeschichtungen. Informieren Sie sich über unsere Schutzwachse und biologisch abbaubaren Reiniger.">
+        content="Machen Sie das Beste aus der Reinigung und Pflege Ihrer mikrozement beschichtungen. Informieren Sie sich über unsere Schutzwachse und biologisch abbaubaren Reiniger.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/ecoclean/limpieza_fondo_02.jpg">
 
 
-    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement" />
+    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement " />
 
-    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement"
+    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement "
         hreflang="de-DE" />
     <link rel="alternate" href="https://www.topciment.com/en/microcements/cleaning-and-care-of-microcement"
         hreflang="en-GB" />
@@ -75,13 +75,13 @@
                         </div> <a id="que-es-limpieza" class="ancla"></a>
                         <div class="content">
 
-                            <h2 class="en3">Reinigung und Pflege von Mikrozementen | Schutzwachse und Reiniger</h2>
+                            <h2 class="en3">Reinigung und Pflege von mikrozement en | Schutzwachse und Reiniger</h2>
                             <div class="text-justify">
-                                <p>Mikrozement ist ein Werkstoff mit ganz besonderen Eigenschaften und Merkmalen. Daher
+                                <p>mikrozement  ist ein Werkstoff mit ganz besonderen Eigenschaften und Merkmalen. Daher
                                     ist es notwendig, die richtigen Produkte zu verwenden, um eine optimale Pflege und
                                     Wartung zu gewährleisten. </p>
                                 <p>Topciment hat vier Produkte entwickelt, die auf die Pflege und Reinigung von
-                                    Mikrozement spezialisiert sind. </p>
+                                    mikrozement  spezialisiert sind. </p>
                                 <p>Sie zeichnen sich dadurch aus, dass sie biologisch abbaubar und umweltfreundlich
                                     sind, eine hohe Reinigungsleistung bei schwierigsten Verschmutzungen aufweisen und
                                     vor allem dazu beitragen, den Zustand der Materialien und ihre Eigenschaften (Glanz,
@@ -113,15 +113,15 @@
                         </div>
                         <!-- descaripcion -->
                         <div class="col-md-6">
-                            <h2> Mikrozement Reiniger Ecoclean Basic</h2>
+                            <h2> mikrozement  Reiniger Ecoclean Basic</h2>
                             <p>
                                 Ecoclean Basic ist ein umweltfreundlicher, umweltverträglicher Reinigungsmittelreiniger,
-                                ideal für die Reinigung von Mikrozementoberflächen.
+                                ideal für die Reinigung von mikrozement oberflächen.
 
                             </p>
                             <p>
                                 Entwickelt mit biologisch abbaubaren Inhaltsstoffen, ist dieser leicht alkalische
-                                Mikrozementreiniger sehr effektiv bei hartnäckigen Verschmutzungen wie Fett, Kalk oder
+                                mikrozement reiniger sehr effektiv bei hartnäckigen Verschmutzungen wie Fett, Kalk oder
                                 Ölflecken.
 
                             </p>
@@ -197,8 +197,8 @@
                         Verpackung</h3>
                     <p>Ecoclean Basic wird in 5-Liter-Kunststoffbehältern geliefert.
                     </p>
-                    <h3 class="en3"> Wo wird Ecoclean Basic Mikrozementreiniger angewendet? </h3>
-                    <p>Obwohl Ecoclean Basic für die Reinigung von Mikrozement sehr zu empfehlen ist, ist es ebenso
+                    <h3 class="en3"> Wo wird Ecoclean Basic mikrozement reiniger angewendet? </h3>
+                    <p>Obwohl Ecoclean Basic für die Reinigung von mikrozement  sehr zu empfehlen ist, ist es ebenso
                         effektiv für die Entfernung von häuslichen Verschmutzungen auf Marmor, Granit, Fliesen, Keramik,
                         Steingut oder polierten Betonträgern, unter anderem. </p>
                     <p>Dieser Reiniger ist ideal für Böden und Wände in Küchen und Bädern, Arbeitsplatten, Backöfen,
@@ -231,15 +231,15 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2> Limpiador microcemento Ecoclean Pro</h2>
+                            <h2> Limpiador mikrozement Ecoclean Pro</h2>
                             <p>
                                 Ecoclean Pro ist ein ökologischer Reinigungsmittelreiniger, der für die Entfernung der
-                                hartnäckigsten Verschmutzungen geeignet ist. Dieser Reiniger für Mikrozementoberflächen
+                                hartnäckigsten Verschmutzungen geeignet ist. Dieser Reiniger für mikrozement oberflächen
                                 wurde mit biologisch abbaubaren und umweltfreundlichen Inhaltsstoffen entwickelt.
 
                             </p>
                             <p>
-                                Dieser Mikrozementreiniger ist alkalisch und hat eine hohe Reinigungskraft. Es ist in
+                                Dieser mikrozement reiniger ist alkalisch und hat eine hohe Reinigungskraft. Es ist in
                                 der Lage, fast alle Arten von Flecken und Verschmutzungen zu beseitigen: Fett,
                                 Speisereste, Ruß, Kalk und Öl, unter anderem.
 
@@ -247,7 +247,7 @@
                             <p>
                                 Da Ecoclean Pro in der Lage ist, den verkrustetsten Schmutz zu entfernen, ist es für die
                                 professionelle und industrielle Reinigung nicht nur für
-                                professionelle und industrielle Reinigung nicht nur von Mikrozementuntergründen, sondern
+                                professionelle und industrielle Reinigung nicht nur von mikrozement untergründen, sondern
                                 auch von Terrazzo, bedrucktem Beton, Fliesen, Steinzeug oder Mörtel.
                                 Terrazzo, bedrucktem Beton, Fliesen, Steingut oder Mörtel.
 
@@ -322,11 +322,11 @@
                     <!-- Verpackung -->
                     <h3 class="en3">
                         Verpackung</h3>
-                    <p>Ecoclean Pro Mikrozementreiniger ist in 1, 5 und 25 Liter Kunststoffbehältern erhältlich.
+                    <p>Ecoclean Pro mikrozement reiniger ist in 1, 5 und 25 Liter Kunststoffbehältern erhältlich.
                     </p>
-                    <h3 class="en3">Wo wird Ecoclean Pro Mikrozementreiniger angewendet? </h3>
+                    <h3 class="en3">Wo wird Ecoclean Pro mikrozement reiniger angewendet? </h3>
                     <p>
-                        Ecoclean Pro ist nicht nur äußerst effektiv bei der Reinigung von Mikrozement. Es ist
+                        Ecoclean Pro ist nicht nur äußerst effektiv bei der Reinigung von mikrozement . Es ist
                         gleichermaßen effizient auf Naturstein, Fliesen, Keramik, Steingut, Mörtel, Beton, Edelstahl,
                         bestimmten Kunststoffen und Epoxidfarben u. a. m. </p>
                     <p>Es ist perfekt für die gründliche Reinigung von Werkstätten, Maschinen, Garagen, Arbeiten und
@@ -367,7 +367,7 @@
                             <p> <strong>Ceraciment Basic</strong> ist ein Pflegewachs für Böden, das jeder Oberfläche
                                 Härte und natürlichen Glanz verleiht. </p>
                             <p>Seine spezielle Formel ermöglicht die Anreicherung und Penetration in den behandelten
-                                Böden, besonders geeignet für Mikrozementböden. Seine Anwendung ist für den
+                                Böden, besonders geeignet für mikrozement böden. Seine Anwendung ist für den
                                 Hausgebrauch. </p>
 
                             <a class="links" href="https://www.topciment.com/de/technische-datenblatter/Ceraciment-DE.pdf"
@@ -465,7 +465,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Ceraciment Pro Mikrozement Schutzwachs</h2>
+                            <h2>Ceraciment Pro mikrozement  Schutzwachs</h2>
                             <p> <strong>Ceraciment Pro </strong>ist ein Pflegewachs für hochbeständige Böden mit einer
                                     metallische Oberfläche. Es handelt sich um eine Verbindung, die im Laufe der Zeit
                                     nicht
@@ -553,10 +553,10 @@
 
         <div>
             <img class="imgiz" src="https://www.topciment.com/imagenes/ecoclean/limpieza_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div><img class="imgde" src="https://www.topciment.com/imagenes/ecoclean/limpieza_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div id="separador50px">
         </div>
@@ -569,7 +569,880 @@
     </div>
 
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Schutzwachs-mikrozement  Ceraciment Basic",
+         "description": "Ceraciment Basic ist ein Pflegewachs für Böden, das jeder Oberfläche Härte und natürlichen Glanz verleiht.",
+    "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Eingabe 6,5 - 7,5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,00 ±0.005 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Keine Vergilbung",
+        "value": "Es vergilbt auch nach längerer Sonneneinstrahlung nicht."
+      },
 
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "Von Hand 0,25 mL/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Reinigung und Pflege mikrozement "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "11"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Schutzwachs-mikrozement  Ceraciment Basic 5L",
+             "description": "Ceraciment Basic ist ein Pflegewachs für Böden, das jeder Oberfläche Härte und natürlichen Glanz verleiht.",
+        "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentbasic.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ceraciment-basic",
+        "sku": "TT07001",
+        "gtin13": "8436575624570",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Eingabe 6,5 - 7,5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,00 ±0.005 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Keine Vergilbung",
+        "value": "Es vergilbt auch nach längerer Sonneneinstrahlung nicht."
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "Von Hand 0,25 mL/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "11"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ceraciment Pro mikrozement -Schutzwachs",
+         "description": "Ceraciment Pro ist ein Pflegewachs für stark beanspruchte Böden mit Metallic-Finish.",
+    "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+    {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Eingabe 8.5 - 9.5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,03 ± 0.01 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Viskosität",
+        "value": "12.84s (Copa Ford 4)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Feststoffe",
+        "value": "23.37%"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "Maschine 20-40 mL/m2 Von Hand 30-50 mL/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Reinigung und Pflege mikrozement "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "15"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Ceraciment Pro mikrozement -Schutzwachs 5L",
+             "description": "Ceraciment Pro ist ein Pflegewachs für stark beanspruchte Böden mit Metallic-Finish.",
+        "image": "https://www.topciment.com/imagenes/ceraciment/ceracimentpro.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ceraciment-pro",
+        "sku": "TT07002",
+        "gtin13": "8436575624587",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "Eingabe 8.5 - 9.5"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,03 ± 0.01 g/mL"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Viskosität",
+        "value": "12.84s (Copa Ford 4)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Feststoffe",
+        "value": "23.37%"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "Maschine 20-40 mL/m2 Von Hand 30-50 mL/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "15"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ecoclean Basic mikrozement -Reiniger",
+         "description": "Ökologischer Reinigungsmittelreiniger, umweltfreundlich und geeignet für die Reinigung von mit mikrozement  beschichteten Oberflächen.",
+    "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg und  5 Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Im Wasser",
+        "value": "Wasserlöslich"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "165-250 ml/m2 reines Produkt - 33 - 50 ml / m2 verdünnt 1: 5 im Wasser -10 - 12, ml / m2 verdünnt 1: 20 im Wasser "
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Reinigung und Pflege mikrozement "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "16"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Ecoclean Basic mikrozement -Reiniger 1L",
+             "description": "Ökologischer Reinigungsmittelreiniger, umweltfreundlich und geeignet für die Reinigung von mit mikrozement  beschichteten Oberflächen.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ecoclean-basic",
+        "sku": "TT07003",
+        "gtin13": "8436575624594",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Im Wasser",
+        "value": "Wasserlöslich"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "165-250 ml/m2 reines Produkt - 33 - 50 ml / m2 verdünnt 1: 5 im Wasser -10 - 12, ml / m2 verdünnt 1: 20 im Wasser "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ecoclean Basic mikrozement -Reiniger 5 L",
+             "description": "Ökologischer Reinigungsmittelreiniger, umweltfreundlich und geeignet für die Reinigung von mit mikrozement  beschichteten Oberflächen.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanbasic.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ecoclean-basic",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "9-10"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,04 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Im Wasser",
+        "value": "Wasserlöslich"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "165-250 ml/m2 reines Produkt - 33 - 50 ml / m2 verdünnt 1: 5 im Wasser -10 - 12, ml / m2 verdünnt 1: 20 im Wasser "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Ecoclean Pro mikrozement -Reiniger",
+         "description": "Ecoclean Pro ist ein ökologischer Reinigungsmittelreiniger, der sich ideal für die Entfernung von hartnäckigem und hartnäckigem Schmutz eignet.",
+    "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1 Kg, 5 Kg und  25Kg",
+    "variesBy": "size",
+    "additionalProperty": [
+     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Desincrustante",
+        "value": "Gran poder secuestrante, desincrustante y emulsionante"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "166-250 ml/m2 puro - 33-50 ml/m2 verdünnt 1:5 im Wasser -  16-25 ml/m2 verdünnt 1:10 im Wasser "
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Reinigung und Pflege mikrozement "
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "12"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Ecoclean Pro mikrozement -Reiniger 1L",
+             "description": "Ecoclean Pro ist ein ökologischer Reinigungsmittelreiniger, der sich ideal für die Entfernung von hartnäckigem und hartnäckigem Schmutz eignet.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "1 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        
+        "weight": "1 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Desincrustante",
+        "value": "Gran poder secuestrante, desincrustante y emulsionante"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "166-250 ml/m2 puro - 33-50 ml/m2 verdünnt 1:5 im Wasser -  16-25 ml/m2 verdünnt 1:10 im Wasser "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Ecoclean Pro mikrozement -Reiniger 5 L",
+             "description": "Ecoclean Pro ist ein ökologischer Reinigungsmittelreiniger, der sich ideal für die Entfernung von hartnäckigem und hartnäckigem Schmutz eignet.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        "weight": "5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Desincrustante",
+        "value": "Gran poder secuestrante, desincrustante y emulsionante"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "166-250 ml/m2 puro - 33-50 ml/m2 verdünnt 1:5 im Wasser -  16-25 ml/m2 verdünnt 1:10 im Wasser "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+       {
+        "@type": "Product",
+        "name": "Ecoclean Pro mikrozement -Reiniger 25 L",
+             "description": "Ecoclean Pro ist ein ökologischer Reinigungsmittelreiniger, der sich ideal für die Entfernung von hartnäckigem und hartnäckigem Schmutz eignet.",
+        "image": "https://www.topciment.com/imagenes/ecoclean/ecocleanpro.jpg",
+        "size": "25 L",
+        "url": "https://www.topciment.com/de/mikrozement/reinigung-und-pflege-von-mikrozement #ecoclean-pro",
+        "sku": "TT07004",
+        "gtin13": "8436575624600",
+        "weight": "25 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+        "@type": "PropertyValue",
+        "name": "PH",
+        "value": "11-13"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Umwelt",
+        "value": "Ökologisches und biologisch abbaubares Produkt"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Dichte",
+        "value": "1,05 ±0,02 g/cm3"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Desincrustante",
+        "value": "Gran poder secuestrante, desincrustante y emulsionante"
+      },
+
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "166-250 ml/m2 puro - 33-50 ml/m2 verdünnt 1:5 im Wasser -  16-25 ml/m2 verdünnt 1:10 im Wasser "
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

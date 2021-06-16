@@ -14,20 +14,20 @@
 
 
 
-    <title>Händler für Mikrozement, Farben und dekorative Beschichtungen</title>
+    <title>Händler für mikrozement , Farben und dekorative Beschichtungen</title>
     <meta name="description"
-        content="Finden Sie Händler für Mikrozement, Farben und dekorative Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
+        content="Finden Sie Händler für mikrozement , Farben und dekorative Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Händler für Mikrozement, Farben und dekorative Beschichtungen" />
+    <meta property="og:title" content="Händler für mikrozement , Farben und dekorative Beschichtungen" />
     <meta property="og:description"
-        content="Finden Sie Händler für Mikrozement, Farben und dekorative Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
+        content="Finden Sie Händler für mikrozement , Farben und dekorative Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
     <meta property="og:url" content="https://www.topciment.com/de/vertriebspartner" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Finden Sie Händler von Mikrozement, Farben und dekorativen Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
-    <meta name="twitter:title" content="Distributoren Mikrozement, Farben und dekorative Beschichtungen" />
+        content="Finden Sie Händler von mikrozement , Farben und dekorativen Beschichtungen .Topciment hat Händler in über 58 Ländern. " />
+    <meta name="twitter:title" content="Distributoren mikrozement , Farben und dekorative Beschichtungen" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -71,7 +71,7 @@
                         <div class="container">
                             <div class="content">
 
-                                <h1 class="en2">Mikrozement Verteiler
+                                <h1 class="en2">mikrozement  Verteiler
                                 </h1>
                                 <a id="quieres-ser-distribuidor" class="ancla"></a>
                                 <h2>Möchten Sie Vertriebspartner werden</h2>
@@ -80,7 +80,7 @@
                                     dem Markt anbieten können. Wir unterstützen Sie und stellen Ihnen unsere große
                                     Erfahrung in der Branche und alle für den Vertrieb unseres Produktes notwendigen
                                     Tools zur Verfügung.</p>
-                                <p>Wollen Sie also Vertriebspartner für Topciment-Mikrozemente werden und zu unseren
+                                <p>Wollen Sie also Vertriebspartner für Topciment-mikrozement e werden und zu unseren
                                     kontinuierlichen Verbesserungs- und Erweiterungsprozessen beitragen, um so
                                     unserem Unternehmen einen Mehrwert zu bieten, dann <strong>erwarten wir
                                         Sie.</strong></p>
@@ -143,11 +143,11 @@
                     </h2>
                     <h3>Schulungen beim Distributor auf der Halbinsel.</h3>
                     <p>Wir von Topciment bieten unseren Distributoren eine kontinuierliche Beratung. Wir führen <a
-                            class="links" href="mikrozement/schulungen-anwendung-mikrozement">Kurse de
+                            class="links" href="mikrozement/schulungen-anwendung-mikrozement ">Kurse de
                             microcecemento</a> an den Vertriebsstellen durch, damit die Fachleute die
-                        Anwendungsverfahren von Topciment-Mikrozement im Detail und aus erster Hand kennen. </p>
+                        Anwendungsverfahren von Topciment-mikrozement  im Detail und aus erster Hand kennen. </p>
                     <p>Unsere <strong>zugelassenen Kurse</strong>, mit <strong>Expertenzertifizierung</strong>, werden
-                        von Fachleuten unterrichtet, die die Techniken für die Anwendung von Topciment-Mikrozement
+                        von Fachleuten unterrichtet, die die Techniken für die Anwendung von Topciment-mikrozement 
                         lehren. Sie kümmern sich darum, durch einen äußerst praktischen Kurs alle Zweifel zu beseitigen,
                         die auftreten können.</p>
                     <h3>Grafische und werbetechnische Unterstützung</h3>
@@ -165,19 +165,19 @@
                     <p>Durch vier Variablen: Art des Produkts (Microbase, Microfino, Microdeck, etc.), Menge des
                         Produkts (10 Kg, 20 Kg, etc.), gewählte Farbe aus der Farbkarte (10 Kg, 20 Kg, etc.), gewählte
                         Farbe aus der Farbkarte. ), die aus der Topciment-Farbkarte gewählte Farbe und das Finish, mit
-                        dem der Mikrozement versiegelt werden soll (DSV oder WT), bereitet eine Maschine automatisch das
+                        dem der mikrozement  versiegelt werden soll (DSV oder WT), bereitet eine Maschine automatisch das
                         auf das Produkt aufzutragende Pigment vor und minimiert so die Fehlermarge.</p>
                     <h3>Erfahrung in der Branche</h3>.
 
 
 
                     <p>Topciment ist ein auf die <a target="_blank" class="links"
-                            href="mikrozement/hersteller-mikrozement">Herstellung von Mikrozement</a> spezialisiertes
+                            href="mikrozement/hersteller-mikrozement ">Herstellung von mikrozement </a> spezialisiertes
                         Unternehmen mit mehr als 15 Jahren Erfahrung. Mit Sitz in Valencia erstreckt sich unser
                         Händlernetz über das gesamte nationale Territorium sowie über verschiedene Länder wie
                         Deutschland, Holland, Portugal, Griechenland, Großbritannien, etc.<br> </p>
                     <p>Die erworbene Erfahrung ist eine unserer besten Referenzen. Wir haben ein hochqualifiziertes
-                        Team, das uns zum Maßstab für Mikrozement in unserem Markt macht.<br> </p>
+                        Team, das uns zum Maßstab für mikrozement  in unserem Markt macht.<br> </p>
                     <p>Wir bieten Ihnen die Möglichkeit, sich einer großartigen Gruppe anzuschließen, mit exzellentem
                         Service und garantierten Ergebnissen vom ersten Tag an.</p>
                     <h3>Preispolitik</h3>
@@ -188,7 +188,7 @@
                         Distributor den Vorzug haben.<br> </p>
                     <p>Wir wollen mit Ihnen dauerhafte Partnerschaften über die Zeit aufbauen, um den besten
                         gegenseitigen Nutzen zu erzielen. Wir, als <a class="links"
-                            href="mikrozement/hersteller-mikrozement">Mikrozement-Fabrik</a>, investieren in unsere
+                            href="mikrozement/hersteller-mikrozement ">mikrozement -Fabrik</a>, investieren in unsere
                         Produktionsprozesse, Forschung und neue Produkte. Ihre Aufgabe wird es sein, unsere Produkte
                         zeitlich und räumlich zu den Applikatoren zu bringen.
                 </div>
@@ -199,10 +199,10 @@
 
 
         <div style="width:49%; float:left; height:auto;"><img
-                src="https://www.topciment.com/imagenes/distribuidor-footer01.jpg" width="100%" alt="mikrozemente">
+                src="https://www.topciment.com/imagenes/distribuidor-footer01.jpg" width="100%" alt="mikrozement e">
         </div>
         <div style="width:49%; float:right; height:auto;"><img
-                src="https://www.topciment.com/imagenes/distribuidor-footer02.jpg" width="100%" alt="mikrozemente">
+                src="https://www.topciment.com/imagenes/distribuidor-footer02.jpg" width="100%" alt="mikrozement e">
         </div>
         <div id="separador50px"></div>
         <?php include "includes/root-footer.php"; ?>

@@ -260,14 +260,14 @@
                                                     class="SIGNUP_FLD">
                                                     <input type="text"
                                                         style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                        placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                        placeholder="Name" changeitem="SIGNUP_FORM_FIELD"
                                                         name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                     class="SIGNUP_FLD">
                                                     <input type="button"
                                                         style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType"
@@ -350,7 +350,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/8-reasons-why-microcement-is-the-future-of-reforms"
+  },
+  "headline": "8 reasons why microcement is the future of renovations",
+  "image":"https://www.topciment.com/imagenes/news/Topciment%20Shkaf%202%20-header.jpg",
+  "datePublished": "2020-10-13",
+  "dateModified": "2020-10-13",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Microcement is the decorative coating of the present, but above all of the future, as its many advantages over other materials make it ideal for creating all kinds of spaces and styles. Here we explain the main benefits of microcement that you will fall in love with and with which you will achieve the house of your dreams."
 
+}
+</script>
 </body>
 
 </html>

@@ -41,14 +41,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/en/project/project-rebost-borja-garcia" hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/projet-rebost-borja-garcia" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-rebost-borja-garcia.html" hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-rebost-borja-garcia.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-rebost-borja-garcia.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-rebost-borja-garcia.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-rebost-borja-garcia.html"
-        hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-rebost-borja-garcia.html"
-        hreflang="zh-CN" />
+
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>

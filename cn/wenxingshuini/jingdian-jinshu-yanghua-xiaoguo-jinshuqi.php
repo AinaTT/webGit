@@ -79,9 +79,8 @@
                             <li>
                                 <a href="#puremetal-aluminium">Classic Mettal </a>
                             </li>
-                            <li>
-                                <a href="#aplicacion">施工</a>
-                            </li>
+                             <li> <a href="#colores">饰面</a> </li>
+                            <li> <a href="#aplicacion">施工</a> </li>
                         </ul>
                     </div>
                     <div class="content">
@@ -118,8 +117,8 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Classic Mettal经典金属色浆
-</h2>
+                <a id="colores" class="ancla"></a>
+                    <h2>Classic Mettal经典金属色浆</h2>
                     <p>在Topciment，我们有五种Classic Mettal经典金属色浆：铜，青铜，铁004，黄铜和铁030。每一种都提供了独一无二的装饰性效果，因为它们让您以任意混合，没有两种涂料会是相同的，特别是当您应用我们的氧化活化剂Mettal Activator。</p>
                     <!-- tipos de cubos -->
 
@@ -491,125 +490,7 @@
     </div>
     </div>
     </div>
-    <!-- include jQuery -->
-<script type = "application/ld+json" > {
-    "@context": "https://schema.org",
-    "@type": "ProductModel",
-    "name": "Pinturas metálicas y efecto óxido Classic Mettal",
-    "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-    "brand": "Classic Mettal",
-    "manufacturer": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com"
-    },
-    "logo": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Generico_Web.png",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "reviewCount": "83"
-    },
-    "image": "https://www.topciment.com/imagenes/classic-mettal/colors/Oxide_BronceAO.jpg",
-    "material": "Partículas metálicas reales de cobre, bronce, hierro y latón.",
-    "weight": "1kg",
-    "potentialAction": {
-      "@type": "Action",
-      "name": "Aplicación de pinturas metálicas"
-    },
-    "category": "Pinturas metálicas y efecto óxido",
-    "additionalProperty": [
-      {
-        "@type": "PropertyValue",
-        "name": "即用型产品",
-        "value": "请勿用水稀释。."
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Aplicable sobre cualquier soporte",
-        "value": "Microcemento, hormigón, ladrillo,cerámica, panel de cartón yeso, yeso, vidrio, papel y metales."
-      },
-      
-      {
-        "@type": "PropertyValue",
-        "name": "施工的多样性",
-        "value": "可以用批刀、刷子、海绵、滚筒或喷枪涂抹。
-"
-      },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendimiento",
-      "value": "0.15 L/m2"
-    }
-    ],
-    "hasVariant":[
-    {
-      "@type": "Product",
-      "name": "Pinturas metálicas y efecto óxido  Classic Mettal  Cobre",
-	  "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-	  "image": "https://www.topciment.com/imagenes/classic-mettal/Classic_Mettal_Cobre.jpg",
-	  "size": "1L",
-	  "brand": "Classic Mettal",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Pinturas metálicas y efecto óxido  Classic Mettal  Bronce",
-	  "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-	  "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Bronce.jpg",
-	  "size": "1L",
-	  "brand": "Classic Mettal",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Pinturas metálicas y efecto óxido  Classic Mettal  Hierro",
-	  "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-	  "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroFino.jpg",
-	  "size": "1L",
-	  "brand": "Classic Mettal",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Pinturas metálicas y efecto óxido  Classic Mettal  Latón",
-	  "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-	  "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Laton.jpg",
-	  "size": "1L",
-	  "brand": "Classic Mettal",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Pinturas metálicas y efecto óxido  Classic Mettal  Hierro 030",
-	  "description": "Pinturas metálicas y efecto óxido monocomponente listas al uso.",
-	  "image": "https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroGrueso.jpg",
-	  "size": "1L",
-	  "brand": "Classic Mettal",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    }
-  ]
-  } </script>
+
 </body>
 
 </html>

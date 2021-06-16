@@ -113,7 +113,7 @@
                         revestimiento que sea muy funcional y se adapte a las necesidades. En este sentido, garantizar
                         un acabado impermeable en un espacio tan expuesto al agua y líquidos similares, es fundamental.
                         De ahí que el microcemento en las cocinas sea tan popular. Y es que <strong>con la utilización
-                            de <a class="links" href="../microcemento/barniz-topsealer"> barnices y selladores</a>
+                            de <a class="links" href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer"> barnices y selladores</a>
                             diseñados por Topciment</strong>, las cocinas con microcemento
                         pueden ser impermeables. Pero no solo se impermeabiliza por completo el soporte, sino que además
                         aporta un extra de dureza. ¡Un 2 por 1 en toda regla!</p>
@@ -122,7 +122,7 @@
                         capacidad de ser también antideslizante es otra de sus grandes ventajas respecto a otros
                         recubrimientos. Pero, en este caso, también es necesario emplear el producto correcto. En
                         Topciment hemos desarrollado<strong> <a
-                                href="../microcemento/barniz-topsealer#anti-slip">Topsealer WT Anti Slip</a></strong>,
+                                href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#anti-slip">Topsealer WT Anti Slip</a></strong>,
                         un barniz poliuretano al
                         agua gracias al cual cualquier superficie se transforma en antideslizante. Un acabado ideal
                         sobre todo para los suelos de microcemento de la cocina.</p>
@@ -205,7 +205,7 @@
                         convierten al microcemento en una de las opciones más inteligentes para renovar suelos de cocina.
                     </p>
                     <p>Pero, ¿cómo se aplica el microcemento en el suelo de la cocina? <a
-                            href="../microcemento/metodos-de-aplicacion-microcemento"> Sal de dudas aquí.</a> </p>
+                            href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso"> Sal de dudas aquí.</a> </p>
                     <h3>Cómo aplicar microcemento en paredes de cocina </h3>
                     <p>Las cualidades de las paredes de microcemento no se quedan atrás. Más allá del componente
                         estético, ya que se puede conferir cualquier estilo a las paredes de la cocina, el microcemento
@@ -215,7 +215,7 @@
                         comida terminen en la pared.
                     </p>
                     <p>Encontrarás el paso a paso de la <a class="links"
-                            href="../microcemento/metodos-de-aplicacion-microcemento">aplicación de microcemento</a> en
+                            href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación de microcemento</a> en
                         las paredes de cocina aquí.
                     </p>
                     <h3>Cómo aplicar microcemento en la encimera de cocina</h3>
@@ -226,7 +226,7 @@
                         sencilla y se puede adaptar rápidamente a cualquier forma que tenga la encimera.
                     </p>
                     <p>Sea cual sea la encimera de microcemento que tengas en mente, el proceso de aplicación es el
-                        mismo. Te explicamos <a class="links" href="../microcemento/metodos-de-aplicacion-microcemento">
+                        mismo. Te explicamos <a class="links" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">
                             cómo aplicar microcemento en la encimera de cocina</a> aquí.
                     </p>
                     <figure class="figure mt-4">
@@ -260,7 +260,7 @@
                     <p> Aunque este revestimiento sea resistente, un mal uso puede provocar que con el tiempo surjan
                         fisuras, ralladuras o manchas. En Topciment hemos creado una línea de barnices y selladores
                         específicos con los que podrás proteger el microcemento en cocinas. Conoce la gama <a
-                            href="../microcemento/barniz-topsealer">Topsealer</a>
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealer</a>
                         .
                     </p>
                     <h3>4. Usa limpiadores especializados para las cocinas de microcemento  </h3>
@@ -505,7 +505,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/cocinas-de-microcemento-ventajas-estilos-consejos"
+  },
+  "headline": "Cocinas de microcemento: ventajas, estilos y consejos",
+  "image":"https://www.topciment.com/imagenes/news/isla-cocina-microcemento-gris.jpg",
+  "datePublished": "2021-03-29",
+  "dateModified": "2021-03-29",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "El microcemento en cocinas garantiza creaciones únicas. En Topciment te contamos sus múltiples ventajas y te proponemos cuatro estilos de cocinas de microcemento. ¿A qué esperas a conocer la última tendencia en decoración?"
+  
+}
+</script>
 </body>
 
 </html>

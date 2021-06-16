@@ -452,7 +452,7 @@ contatto permanente con l'acqua. La sua innovativa formula migliora sostanzialme
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="barniz-topsealer"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
+                    <a class="font1as" href="barniz-poliuretano-acrilico-alagua-topsealer"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
@@ -465,32 +465,32 @@ contatto permanente con l'acqua. La sua innovativa formula migliora sostanzialme
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="barniz-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="barniz-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="barniz-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="barniz-topsealer#topsealer-proplus" class="vermas">
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="barniz-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="barniz-topsealer#presealer" class="vermas">
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="barniz-topsealer#all-in-one" class="vermas">
+                            <a href="barniz-poliuretano-acrilico-alagua-topsealer#all-in-one" class="vermas">
                                 <strong>Topsealer WT All in One</strong></a><br>
 
-                             <a href="barniz-topsealer#spray" class="vermas">
+                             <a href="barniz-poliuretano-acrilico-alagua-topsealer#spray" class="vermas">
                              <strong>Topsealer WT Spray</strong></a>
 
 
@@ -589,19 +589,19 @@ contatto permanente con l'acqua. La sua innovativa formula migliora sostanzialme
                 <div class="col-md-3 col-12">
                     <div class="row mb-2 ">
                         <div class="col-md-12 col-6 p-0"> <a href="herramientas-microcemento#varilla" class="vermas">
-                                <strong>Varilla mezcladora</strong></a><br>
+                                <strong>Asta di miscelazione</strong></a><br>
                             <a href="herramientas-microcemento#perfil" class="vermas">
-                                <strong>Perfil de aluminio</strong></a><br>
+                                <strong>Profilo in alluminio</strong></a><br>
                             <a href="herramientas-microcemento#llana-goma" class="vermas">
-                                <strong>Llana de goma</strong></a>
+                                <strong>Frattazzo di gomma</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
                             <a href="herramientas-microcemento#llana-acero" class="vermas">
-                                <strong>LLana de acero Bi-Flex</strong></a><br>
+                                <strong>Frattazzo in acciaio Bi-Flex</strong></a><br>
                             <a href="herramientas-microcemento#malla" class="vermas">
-                                <strong>Malla de fibra de vidrio</strong></a><br>
+                                <strong>Rete in fibra di vetro</strong></a><br>
                             <a href="herramientas-microcemento#rodillo" class="vermas">
-                                <strong>Rodillo de pelo corto</strong></a>
+                                <strong>Rullo a pelo corto</strong></a>
                         </div>
                     </div>
                 </div> 

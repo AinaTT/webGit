@@ -17,19 +17,19 @@
 
     <title>Topciment bringt seinen neuen wasserbasierten Polyurethan-Lack auf den Markt: Topsealer WT All in One</title>
     <meta name="description"
-        content="Der neue wasserbasierte Polyurethan-Lack Topsealer WT All in One hat alles. Besonders geeignet zum Schutz von gebrauchsfertigem Mikrozement, widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen so vollständigen auf dem Markt! " />
+        content="Der neue wasserbasierte Polyurethan-Lack Topsealer WT All in One hat alles. Besonders geeignet zum Schutz von gebrauchsfertigem mikrozement , widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen so vollständigen auf dem Markt! " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
     <meta property="og:title"
         content="Topciment bringt seinen neuen wasserbasierten Polyurethan-Lack auf den Markt: Topsealer WT All in One" />
     <meta property="og:description"
-        content="Der neue wasserbasierte Polyurethan-Lack Topsealer WT All in One hat es in sich. Speziell für den Schutz von gebrauchsfertigem Mikrozement geeignet, widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen so vollständigen auf dem Markt!" />
+        content="Der neue wasserbasierte Polyurethan-Lack Topsealer WT All in One hat es in sich. Speziell für den Schutz von gebrauchsfertigem mikrozement  geeignet, widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen so vollständigen auf dem Markt!" />
     <meta property="og:url"
         content="https://www.topciment.com/de/neuigkeit/topciment-bringt-neuen-wasser-polyurethan-lack-auf-den-markt" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Der neue Topsealer WT All in One Polyurethan-Lack auf Wasserbasis hat es in sich. Speziell für den Schutz von gebrauchsfertigem Mikrozement entwickelt, widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen Lack auf dem Markt, der so vollständig ist!" />
+        content="Der neue Topsealer WT All in One Polyurethan-Lack auf Wasserbasis hat es in sich. Speziell für den Schutz von gebrauchsfertigem mikrozement  entwickelt, widersteht er Wasser, Abrieb, Kratzern und ultraviolettem Licht. Es gibt keinen anderen Lack auf dem Markt, der so vollständig ist!" />
     <meta name="twitter:title"
         content="Topciment stellt seinen neuen Polyurethan-Lack auf Wasserbasis vor: Topsealer WT All in One" />
 
@@ -65,20 +65,20 @@
             </div>
 
             <div class="content">
-                <h1> Topsealer WT All in One: neuer wasserbasierter Polyurethan-Lack für gebrauchsfertigen Mikrozement
+                <h1> Topsealer WT All in One: neuer wasserbasierter Polyurethan-Lack für gebrauchsfertigen mikrozement 
                 </h1>
                 <div class="headline fadeInRight styleNormal16justified">
                     <p>Nach wochenlanger Arbeit können wir endlich <strong>Topsealer WT All in One</strong>
                         präsentieren, unseren <strong>neuen einkomponentigen Polyurethan-Lack auf Wasserbasis</strong>,
                         der sich in die breite Palette der <a class="links"
-                            href="https://www.topciment.com/de/mikrozement/topselaer-lack">Topsealer</a>. Sie sind auf
+                            href="https://www.topciment.com/de/mikrozement/lack-polyurethan-acrylat-Wasserbasis-topsealer">Topsealer</a>. Sie sind auf
                         der Suche nach einer leistungsstarken Polyurethan-Versiegelung zum Schutz aller Arten von Boden-
                         und Wandbelägen? Lesen Sie weiter! </p>
                     <p>Dieses innovative Produkt wurde weitgehend <strong>zur Konservierung</strong> von Oberflächen
                         entwickelt, die mit unserem <strong><a class="links"
-                                href="https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto">Mikrozement
+                                href="https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto">mikrozement 
                                 gebrauchsfertig "Efectto"</a></strong> beschichtet sind. Seine beneidenswerte
-                        mechanische und chemische Beständigkeit kann jedoch auch auf <strong>Mikrozement-Epoxid</strong>
+                        mechanische und chemische Beständigkeit kann jedoch auch auf <strong>mikrozement -Epoxid</strong>
                         und anderen Untergründen wie <strong>Parkett und Holz</strong></strong></strong> verwendet
                         werden. Ist das nicht toll? </p> <!-- <div class="microcemento-madrid.com"> </div> -->
                     <figure class="figure mt-4"> <img
@@ -93,7 +93,7 @@
                             Abriebverschleiß</strong> und <strong>Kratzfestigkeit</strong> , sowie
                         <strong>Wasser</strong> und <strong>Alkalinität</strong> . Außerdem, als ob das nicht genug
                         wäre, ist es <strong>unempfindlich gegen ultraviolettes Licht</strong> und vergilbt nicht! </p>
-                    <p>Aber es gibt noch mehr, viel mehr. Bei gebrauchsfertigen Mikrozementbeschichtungen verstärkt
+                    <p>Aber es gibt noch mehr, viel mehr. Bei gebrauchsfertigen mikrozement beschichtungen verstärkt
                         unser neuer Topsealer WT All in One Lack auf Wasserbasis <strong>die Farbe der
                             Oberfläche</strong>, ohne die ursprüngliche Textur auch nur im Geringsten zu verändern. </p>
                     <p>Auch dank dieser Lackierung ist die Auflage wasserdicht und behält gleichzeitig ihre
@@ -155,7 +155,7 @@
                                         <h2 class="en7" style="text-align: center;">
                                             <strong>Abonnieren Sie unseren Newsletter</strong> </h2>
                                         <h3 style="font-size: 16px;">Erhalten Sie in Ihrer E-Mail Tipps für die
-                                            Anwendung und Pflege von Mikrozement, die neuesten Trends und Neuigkeiten
+                                            Anwendung und Pflege von mikrozement , die neuesten Trends und Neuigkeiten
                                             der Topciment-Produkte.
                                         </h3>
                                     </div>
@@ -254,7 +254,7 @@
                                                                 class="SIGNUP_FLD">
                                                                 <input type="text"
                                                                     style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                                    placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                                    placeholder="Name" changeitem="SIGNUP_FORM_FIELD"
                                                                     name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                             </div>
                                                             <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
@@ -262,7 +262,7 @@
                                                                 <input type="button"
                                                                     style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
                                                                     name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin"
-                                                                    value="Suscríbete">
+                                                                    value="Abonnieren">
                                                             </div>
                                                             <input type="hidden" id="fieldBorder" value="">
                                                             <input type="hidden" id="submitType" name="submitType"

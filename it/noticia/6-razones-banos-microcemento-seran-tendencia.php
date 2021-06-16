@@ -128,7 +128,7 @@
                     <p>D'altra parte, se si decide di coprire il bacino del mobile da bagno con microcemento o il piatto
                         doccia, il periodo ammonta a una settimana. </p>
                     <p>Quando si tratta di <a class="links"
-                            href=".../microcemento/metodos-de-aplicacion-microcemento">applicazione del microcemento</a>
+                            href=".../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">applicazione del microcemento</a>
                         nei bagni, il processo varia a seconda del tipo di microcemento scelto e della superficie da
                         coprire (se è calpestabile o meno). </p>
                     <figure class="figure">
@@ -156,7 +156,7 @@
                         <p>Ma anche per la capacità di questo rivestimento innovativo di creare finiture antiscivolo per
                             prevenire quelle infide scivolate di cui tutti soffriamo ad un certo punto della nostra
                             vita. La nostra <a class="links"
-                                href="../microcemento/barniz-topsealer#topsealer-anti-slip">vernice Topsealer WT Anti
+                                href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip">vernice Topsealer WT Anti
                                 Slip</a> rende il bagno e la doccia in microcemento uno spazio sicuro al 100%. </p>
                         <p>In linea con questo, una finitura impermeabile può anche essere fatta con l'uso di un altro
                             sigillante per evitare che l'acqua si fermi nel piatto doccia e l'ingresso di funghi. </p>

@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos von Mikrozement in Böden und Wänden des SPA</title>
+    <title>Fotos von mikrozement  in Böden und Wänden des SPA</title>
     <meta name="description"
-        content="Mikrozement-Renovierung der Auberge Residences & SPA in Miami, USA. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
+        content="mikrozement -Renovierung der Auberge Residences & SPA in Miami, USA. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
     <meta property="og:locale" content="en_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos von Mikrozement in Böden und Wänden des SPA" />
+    <meta property="og:title" content="Fotos von mikrozement  in Böden und Wänden des SPA" />
     <meta property="og:description"
-        content="Mikrozement-Renovierung der Auberge Residences & SPA in Miami, Vereinigte Staaten. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
+        content="mikrozement -Renovierung der Auberge Residences & SPA in Miami, Vereinigte Staaten. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-javier-miami-portada" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Mikrozementsanierung der Auberge Residences & SPA in Miami, USA. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
-    <meta name="twitter:title" content="Fotos von Mikrozement in Böden und Wänden des SPA" />
+        content="mikrozement sanierung der Auberge Residences & SPA in Miami, USA. Projekt von Nichols Brosch Wurst Wolfe & Associates." />
+    <meta name="twitter:title" content="Fotos von mikrozement  in Böden und Wänden des SPA" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -76,11 +76,11 @@
                 <div class="wow fadeInRight justified" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>In der elitärsten Gegend der Stadt Miami befindet sich dieses imposante Wohngebäude mit
                         spektakulärem Blick auf den Atlantischen Ozean. <strong>171 Häuser, in denen <a
-                                href="../mikrozemente">Mikrozement</a> das Material der Wahl für die Wände ist</strong>.
+                                href="../mikrozemente">mikrozement </a> das Material der Wahl für die Wände ist</strong>.
                         Flure, Küchen, Bäder und Wohnzimmer... sie alle haben Details, die mit
                         <strong>Topciment</strong> gemacht wurden. Edle Materialien wie Holz, mit dem Schränke, Böden
                         und Treppen verkleidet sind, vervollständigen ein Projekt, in dem Luxus die Hauptrolle spielt
-                        und Mikrozement in einer einzigartigen Umgebung Hand in Hand mit ihm geht.
+                        und mikrozement  in einer einzigartigen Umgebung Hand in Hand mit ihm geht.
                 </div>
 
                 <div class="wow fadeInLeft" style="float:left; width:49%"><img

@@ -62,8 +62,71 @@
                        <div class="row">
 
                             <div class="col-md-12 pr-0 pl-0 ">
-                                <div class="row">
-<!-- start noticia-->
+                                <div class="row"> 
+                                     <!-- start noticia--> 
+                                  <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos">Cómo aplicar microcemento sobre azulejos antiguos: paso a paso</a><span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2  "></i>27/05/2021</span> </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg"
+                                                                    height="auto" />
+
+
+                                                           <p>El microcemento es el mejor material para revestir azulejos antiguos sin obras. Te explicamos cómo aplicar microcemento sobre azulejos, paso a paso.</p> 
+                                                           <a href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos"
+                                                                    class="btn btn-primary leermass mt-2 ">Leer más</a>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- end noticia -->
+                                  <!-- start noticia--> 
+                                  <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente">Escaleras de microcemento: cómo revestirlas
+correctamente</a><span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2  "></i>25/05/2021</span> </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/img/microcemento/escalera-microcemento-plata.webp"
+                                                                    height="auto" />
+
+
+                                                           <p>Las escaleras de microcemento son el elemento decorativo del momento. Sigue nuestros consejos y aprende cómo hacer escaleras de microcemento paso a paso.</p>
+                                                                <a href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente"
+                                                                    class="btn btn-primary leermass mt-2 ">Leer más</a>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- end noticia -->
+                                <!-- start noticia-->
                                   <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a

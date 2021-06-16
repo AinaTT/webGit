@@ -82,14 +82,14 @@
                         rivestimento che sia molto funzionale e si adatti alle esigenze. In questo senso, garantire una
                         finitura impermeabile in uno spazio così esposto all'acqua e a liquidi simili è fondamentale.
                         Ecco perché il microcemento nelle cucine è così popolare. Con l'uso di <a class="link"
-                            href=".../microcemento/barniz-topsealer">vernici e sigillanti</a> progettati da Topciment,
+                            href=".../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">vernici e sigillanti</a> progettati da Topciment,
                         le cucine con microcemento possono essere impermeabili. Ma non solo il supporto è completamente
                         impermeabile, ma fornisce anche una durezza extra. Un 2 per 1 in tutte le regole! </p>
                     <h3>5. Il microcemento nelle cucine può essere antiscivolo</h3>
                     <p>Così come l'impermeabilità è un valore aggiunto del microcemento nelle cucine, la sua capacità di
                         essere antiscivolo è un altro dei suoi grandi vantaggi rispetto ad altri rivestimenti. Ma, in
                         questo caso, è anche necessario utilizzare il prodotto giusto. Alla Topciment abbiamo sviluppato
-                        <a href="../microcemento/barniz-topsealer#anti-slip">Topsealer WT Anti Slip</a>, una vernice
+                        <a href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#anti-slip">Topsealer WT Anti Slip</a>, una vernice
                         poliuretanica all'acqua grazie alla quale qualsiasi superficie diventa antiscivolo. Una finitura
                         ideale soprattutto per i pavimenti in microcemento in cucina.
 
@@ -158,7 +158,7 @@
                             resistenza all'usura, all'abrasione, all'impatto e al traffico. Questi vantaggi rendono il
                             microcemento una delle opzioni più intelligenti per rinnovare i pavimenti della cucina. </p>
                         <p>Ma come si applica il microcemento al pavimento della cucina? <a
-                                href="../microcemento/metodos-de-aplicacion-microcemento">Non esitare qui.</a> </p>
+                                href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">Non esitare qui.</a> </p>
                         <p>
                             <h3>Come applicare il microcemento alle pareti della cucina</h3>
                             <p>Le qualità delle pareti in microcemento non sono lontane. Al di là della componente
@@ -167,7 +167,7 @@
                                 macchie. Quest'ultimo vantaggio è molto utile, perché quando si cucina è inevitabile che
                                 alcuni schizzi di cibo finiscano sul muro. </p>
                             <p>Troverete il passo-passo <a class="links"
-                                    href="../microcemento/metodos-de-aplicacion-microcemento">applicazione del
+                                    href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">applicazione del
                                     microcemento</a> sulle pareti della cucina qui. </p>
                             <h3>Come applicare il microcemento al piano cucina</h3>
                             <p>I piani cucina in microcemento stanno diventando sempre più popolari in parte a causa
@@ -176,7 +176,7 @@
                                 forma di piano di lavoro. </p>
                             <p>Qualunque sia il piano di lavoro in microcemento che avete in mente, il processo di
                                 applicazione è lo stesso. Spieghiamo <a class="links"
-                                    href=".../microcemento/metodos-de-aplicacion-microcemento">come applicare il
+                                    href=".../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">come applicare il
                                     microcemento al piano di lavoro della tua cucina</a> qui. </p>
 
 
@@ -206,7 +206,7 @@
                                         crepe, graffi o macchie nel tempo. Noi di Topciment abbiamo creato una linea di
                                         vernici e sigillanti specifici con cui è possibile proteggere il microcemento
                                         nelle cucine. Scopri la gamma <a
-                                            href="../microcemento/barniz-topsealer">Topsealer</a>. </p>
+                                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealer</a>. </p>
                                     <h3>4. Utilizzare detergenti specializzati per cucine in microcemento</h3>
                                     <p>La pulizia di una cucina in microcemento può essere effettuata con acqua e sapone
                                         neutro. Tuttavia, per conservare meglio e più a lungo il microcemento, si

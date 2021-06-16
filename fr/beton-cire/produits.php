@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/productos.css"/>
 
 
-    <title>Gamme de béton ciré , vernis et peinture | Produits Topciment </title>
-    <meta name="description" content="Découvrez notre gamme de béton ciré, vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
+    <title>Gamme de béton ciré  , vernis et peinture | Produits Topciment </title>
+    <meta name="description" content="Découvrez notre gamme de béton ciré , vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Gamme de béton ciré , vernis et peinture | Produits Topciment "/>
-    <meta property="og:description" content="Découvrez notre gamme de béton ciré, vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
+    <meta property="og:title" content="Gamme de béton ciré  , vernis et peinture | Produits Topciment "/>
+    <meta property="og:description" content="Découvrez notre gamme de béton ciré , vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
     <meta property="og:url" content="https://www.topciment.com/fr/produits"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Découvrez notre gamme de béton ciré, vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
-    <meta name="twitter:title" content="Gamme de béton ciré , vernis et peinture | Produits Topciment "/>
+    <meta name="twitter:description" content="Découvrez notre gamme de béton ciré , vernis, peintures, pigments, glaçures, apprêts, produits de nettoyage et outils."/>
+    <meta name="twitter:title" content="Gamme de béton ciré  , vernis et peinture | Produits Topciment "/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -36,12 +36,6 @@
 
         <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/produits" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/es/microcemento/productos" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/de/systeme.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/sistemi.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/systemen.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-microcemento-system.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/sistemy.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/microcement-systems.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -69,10 +63,10 @@
                 </div>
                 <!-- Description Sttandard -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Béton ciré
+                    <h2 class="sh2">béton ciré 
                         bicomposant</h2>
                     <p class="textos">
-                        C'est la ligne à deux composants (ciment + résine). C'est le béton cirétraditionnel et le
+                        C'est la ligne à deux composants (ciment + résine). C'est le béton ciré traditionnel et le
                         plus utilisé. Sa polyvalence offre une grande variété de finitions et permet son application sur
                         un nombre
                         infini de surfaces.
@@ -109,7 +103,7 @@
     </div>
     <!-- Description Unlimitted -->
     <div class=" col-md-5 col-12">
-                        <h2 class="sh2">Béton ciré
+                        <h2 class="sh2">béton ciré 
                             bicomposant <span class="badge badge-warning">Nouvelle!</span></h2>
                         <p> C'est la nouvelle ligne bicomposant (ciment + résine). Il a tous les avantages de Sttandard,
                             mais en
@@ -142,10 +136,10 @@
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Béton ciré
+                    <h2 class="sh2">béton ciré 
                         monocomposant</h2>
                     <p class="textos">
-                        C'est le béton ciré mono-composant (ciment + eau). Simplifiez le mélange, la préparation, les
+                        C'est le béton ciré  mono-composant (ciment + eau). Simplifiez le mélange, la préparation, les
                         erreurs d'application possibles et même les coûts de transport et de stockage
                     </p>
                 </div>
@@ -178,8 +172,8 @@
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Béton ciré pour piscines</h2>
-                    Il s'agit de la ligne de béton cirébicomposant (ciment + résine) spécialement conçue pour
+                    <h2 class="sh2">béton ciré  pour piscines</h2>
+                    Il s'agit de la ligne de béton ciré bicomposant (ciment + résine) spécialement conçue pour
                     les piscines et les espaces en contact permanent avec l'eau. Sa formule innovante améliore
                     considérablement
                     la résistance en immersion.
@@ -208,9 +202,9 @@
                 </div>
                 <!-- Desctiption Efectto -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Béton ciré prêt à l'emploi</h2>
+                    <h2 class="sh2">béton ciré  prêt à l'emploi</h2>
                     <p class="textos">
-                        C'est le béton ciré prêt à l'emploi. C'est un matériau acrylique qui offre des finitions
+                        C'est le béton ciré  prêt à l'emploi. C'est un matériau acrylique qui offre des finitions
                         décoratives naturelles de haute qualité et inimitables. Il permet de réduire l'effet de l'eau
                         tout en
                         conservant la texture du microciment.
@@ -368,12 +362,12 @@
                 </div>
                 <!-- Description Acricem -->
                 <div class="col-md-5">
-                    <h2 class="sh2"> Résine pour béton ciré </h2>
+                    <h2 class="sh2"> Résine pour béton ciré  </h2>
                     <p class="textos">
 
-                        Acricem est notre résine de béton ciré par excellence.A base d'eau cette résine acrylique ,
+                        Acricem est notre résine de béton ciré  par excellence.A base d'eau cette résine acrylique ,
                         augmente la résistance mécanique , et l'impérméabilité du mortier.Particulièrement recommandé
-                        pour le béton ciré à deux composants .
+                        pour le béton ciré  à deux composants .
 
                     </p>
                 </div>
@@ -401,10 +395,10 @@
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Primaires et promoteurs d'adhérence béton ciré </h2>
+                    <h2 class="sh2">Primaires et promoteurs d'adhérence béton ciré  </h2>
                     <p class="textos">
-                        La gamme de primaire et de promoteurs d'adhérence pour béton ciré Topciment .Ensemble de produit
-                        qui font partie préalable du à l'application du béton ciré facilitant et optimisant l'union
+                        La gamme de primaire et de promoteurs d'adhérence pour béton ciré  Topciment .Ensemble de produit
+                        qui font partie préalable du à l'application du béton ciré  facilitant et optimisant l'union
                         entre le support existant et le nouveau revêtement
                     </p>
                 </div>
@@ -442,9 +436,9 @@
                 </div>
                 <!-- Description Arcocem -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Pigments et couleurs béton ciré</h2>
+                    <h2 class="sh2">Pigments et couleurs béton ciré </h2>
                     <p class="textos">
-                        Il s'agit de la gamme de pigments et couleurs du béton ciré de Topciment .Composé de 6 couleurs de base ( Arcocem basic) qui permettent de créer une infinité de nuances et de gammes chromatiques pour obtenir des finitions authentiques et perssonnalisées (Arcocem Plus )
+                        Il s'agit de la gamme de pigments et couleurs du béton ciré  de Topciment .Composé de 6 couleurs de base ( Arcocem basic) qui permettent de créer une infinité de nuances et de gammes chromatiques pour obtenir des finitions authentiques et perssonnalisées (Arcocem Plus )
                     </p>
                 </div>
                 <!-- Products Arcocem -->
@@ -470,45 +464,45 @@
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="vernis-topsealer"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
+                    <a class="font1as" href="vernis-polyurethane-acrylique-aleau-topsealer"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Scellant et vernis béton ciré</h2>
+                    <h2 class="sh2">Scellant et vernis béton ciré </h2>
                     <p class="textos">
-                        Topsealer est l'ensemble de scellant et vernis pour béton ciré .Des produits à haute résistance chimiques avec lequels vous protégerez les surfaces recouvertes de béton ciré beaucoup plus longtemps .
+                        Topsealer est l'ensemble de scellant et vernis pour béton ciré  .Des produits à haute résistance chimiques avec lequels vous protégerez les surfaces recouvertes de béton ciré  beaucoup plus longtemps .
                     </p>
                 </div>
                 <!-- Products TopSealer -->
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="vernis-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="vernis-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="vernis-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="vernis-topsealer#topsealer-proplus" class="vermas">
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="vernis-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="vernis-topsealer#presealer" class="vermas">
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="vernis-topsealer#all-in-one" class="vermas">
+                            <a href="vernis-polyurethane-acrylique-aleau-topsealer#all-in-one" class="vermas">
                                 <strong>Topsealer WT All in One</strong></a><br>
 
- <a href="vernis-topsealer#spray" class="vermas">
+ <a href="vernis-polyurethane-acrylique-aleau-topsealer#spray" class="vermas">
                                 <strong>Topsealer WT Spray</strong></a>
 
                         </div>
@@ -529,9 +523,9 @@
                 </div>
                 <!-- Description Ecoclean -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Nettoyage du béton ciré</h2>
+                    <h2 class="sh2">Nettoyage du béton ciré </h2>
                     <p class="textos">
-                        Produits hautement spécialisés pour le nettoyage du béton ciré.Ils se caractérisent par leur biodégradabilité et leur respect de l'environement .
+                        Produits hautement spécialisés pour le nettoyage du béton ciré .Ils se caractérisent par leur biodégradabilité et leur respect de l'environement .
                     </p>
                 </div>
                 <!-- Products Ecoclean -->
@@ -560,9 +554,9 @@
                 </div>
                 <!-- Description Ceraciment -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Entretien du béton ciré</h2>
+                    <h2 class="sh2">Entretien du béton ciré </h2>
                     <p class="textos">
-                        Cire d'entretien qui confèrent aux sols en béton ciré une brillance naturelle attrayante et une dureté supplémentaire. Produits essentiels pour le soin et l'entretien du béton ciré .
+                        Cire d'entretien qui confèrent aux sols en béton ciré  une brillance naturelle attrayante et une dureté supplémentaire. Produits essentiels pour le soin et l'entretien du béton ciré  .
                 </div>
                 <!-- Products Ceraciment -->
                 <div class="col-md-2 col-12">
@@ -592,9 +586,9 @@
                 </div>
                 <!-- Description TopTools -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Outils pour béton ciré</h2>
+                    <h2 class="sh2">Outils pour béton ciré </h2>
                     <p class="textos">
-                        Outils testés par Topciment pour une application optimale du béton ciré.Nous avons des tiges de mélanges , des profilés en aluminium , des taloches en cahoutchouc et en acier , une maille en fibre de verre , et un rouleau à poils courts.
+                        Outils testés par Topciment pour une application optimale du béton ciré .Nous avons des tiges de mélanges , des profilés en aluminium , des taloches en cahoutchouc et en acier , une maille en fibre de verre , et un rouleau à poils courts.
 
 
                     </p>
@@ -607,7 +601,7 @@
                             <a href="outils-beton-cire#perfil" class="vermas">
                                 <strong>Profile Aluminium</strong></a><br>
                             <a href="outils-beton-cire#llana-goma" class="vermas">
-                                <strong>Taloche Béton ciré gomme</strong></a>
+                                <strong>Taloche béton ciré  gomme</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
                             <a href="outils-beton-cire#llana-acero" class="vermas">

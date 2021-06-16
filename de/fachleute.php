@@ -15,21 +15,21 @@
      <link rel="preload" href="../assets/css/profesionales.css" as="style" />
      <link rel="stylesheet" href="../assets/css/profesionales.css" />
 
-     <title>Dienstleistungen für Mikrozement-Profis | Topciment</title>
+     <title>Dienstleistungen für mikrozement -Profis | Topciment</title>
      <meta name="description"
-         content="In Topciment helfen wir Mikrozement-Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
+         content="In Topciment helfen wir mikrozement -Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
 
      <meta property="og:locale" content="es_ES" />
      <meta property="og:type" content="website" />
-     <meta property="og:title" content="Dienstleistungen für Mikrozement-Profis | Topciment" />
+     <meta property="og:title" content="Dienstleistungen für mikrozement -Profis | Topciment" />
      <meta property="og:description"
-         content="In Topciment helfen wir Mikrozement-Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
+         content="In Topciment helfen wir mikrozement -Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
      <meta property="og:url" content="https://www.topciment.com/de/fachleute" />
      <meta property="og:site_name" content="Topciment" />
      <meta name="twitter:card" content="summary" />
      <meta name="twitter:description"
-         content="In Topciment helfen wir Mikrozement-Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
-     <meta name="twitter:title" content="Dienstleistungen für Mikrozement-Profis | Topciment" />
+         content="In Topciment helfen wir mikrozement -Profis. Informieren Sie sich über unsere Leistungen für Profis und sagen Sie uns, wie wir Ihnen helfen können." />
+     <meta name="twitter:title" content="Dienstleistungen für mikrozement -Profis | Topciment" />
      <meta name="twitter:site" content="@topciment" />
      <meta name="twitter:creator" content="@topciment" />
      <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -64,9 +64,9 @@
                                  <li><a href="#up" style="font-size:26px">Profis</a></li>
                                  <li><a href="#que-ofrecemos">Was bieten wir?</a></li>
                                  <li><a href="kontakt">Technischer Service</a></li>
-                                 <li><a href="mikrozement/schulungen-anwendung-mikrozement">Mikrozement-Anwendungsschulungen</a></li>
-                                 <li> <a href="vertriebspartner">Mikrozement Verteiler</a></li>
-                                 <li> <a href="mikrozement/anwendungsmethoden-mikrozement">Methoden für die Anwendung</a></li>
+                                 <li><a href="mikrozement/schulungen-anwendung-mikrozement ">mikrozement -Anwendungsschulungen</a></li>
+                                 <li> <a href="vertriebspartner">mikrozement  Verteiler</a></li>
+                                 <li> <a href="mikrozement/wie-man-mikrozement-anwendet-mikrozementanwendung-schritt-fur-schritt ">Methoden für die Anwendung</a></li>
                                  <li> <a href="calc/">Material Kalkulator</a></li>
                                  <li> <a href="datenblatter">Technische Datenblätter</a></li>
                              </ul>
@@ -82,7 +82,7 @@
 
                              </p>
                              <p>
-                                 In unserem Engagement für Mikrozement-Profis stellen wir nicht nur für sie und ihre
+                                 In unserem Engagement für mikrozement -Profis stellen wir nicht nur für sie und ihre
                                  Kunden die bestmöglichen dekorativen Beschichtungen her.
                                  Wir bieten ein Kompendium an Leistungen, die sie in ihrem beruflichen Umfeld
                                  erfolgreich machen.
@@ -106,7 +106,7 @@
                                              Spezialdienst</a> </h2>
                                      <p>Unsere Vertriebsmitarbeiter beraten und lösen in mehreren Sprachen alle Zweifel,
                                          die der Fachmann über Topciment-Produkte oder die Anwendung, Pflege und Wartung
-                                         von Mikrozement haben könnte.</p>
+                                         von mikrozement  haben könnte.</p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="kontakt">
                                              <strong>Techniker kontaktieren</strong></a></p>
                                  </div>
@@ -115,19 +115,19 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/cursos.png"
                                              class="img-fluid "> <a class=""
-                                             href="mikrozement/schulungen-anwendung-mikrozement">Mikrozement-Schulungen</a>
+                                             href="mikrozement/schulungen-anwendung-mikrozement ">mikrozement -Schulungen</a>
                                      </h2>
                                      <p>
                                          Um das bestmögliche Ergebnis bei der Anwendung unserer fugenlose Beschichtungen
                                          zu gewährleisten, bieten wir Schulungen für Fachleute für jedes Niveau an. In
                                          den Schulungen von Topciment lehren die Dozenten unter anderem die Anwendung
-                                         von Mikrozement, Lacken, Metallic-Lacken oder fortgeschrittenen Techniken und
+                                         von mikrozement , Lacken, Metallic-Lacken oder fortgeschrittenen Techniken und
                                          Texturen.
                                          <p>
 
                                              <p> <i class=" fa fa-arrow-circle-right"></i> <a class="links"
-                                                     href="mikrozement/schulungen-anwendung-mikrozement">
-                                                     <strong>Ansicht von Mikrozementschichten</strong></a></p>
+                                                     href="mikrozement/schulungen-anwendung-mikrozement ">
+                                                     <strong>Ansicht von mikrozement schichten</strong></a></p>
                                          </p>
 
                                  </div>
@@ -139,11 +139,11 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/distribuidor.png"
                                              class="img-fluid "> <a class=""
-                                             href="vertriebspartner">Mikrozement-Vertriebspartner</a>
+                                             href="vertriebspartner">mikrozement -Vertriebspartner</a>
                                      </h2>
 
                                      <p>
-                                         Die Produkte von Topciment werden dank unserer Mikrozement-Händler in mehr als
+                                         Die Produkte von Topciment werden dank unserer mikrozement -Händler in mehr als
                                          58 Ländern verkauft. Ein Netzwerk von Fachleuten im ständigen Ausbau, das viele
                                          Vorteile bietet.
                                      </p>
@@ -156,16 +156,16 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/aplicacion.png"
                                              class="img-fluid ">
-                                         <a class="" href="mikrozement/anwendungsmethoden-mikrozement">Methoden der
-                                             Mikrozementapplikation</a>
+                                         <a class="" href="mikrozement/wie-man-mikrozement-anwendet-mikrozementanwendung-schritt-fur-schritt ">Methoden der
+                                             mikrozement applikation</a>
                                      </h2>
                                      <p>
-                                         Empfehlungen, Tipps und Tricks für die Anwendung von Mikrozement finden Sie in
+                                         Empfehlungen, Tipps und Tricks für die Anwendung von mikrozement  finden Sie in
                                          diesem Abschnitt.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links"
-                                             href="mikrozement/anwendungsmethoden-mikrozement"><strong>Applikationsmethoden
-                                                 für Mikrozement kennen</strong></a></p>
+                                             href="mikrozement/wie-man-mikrozement-anwendet-mikrozementanwendung-schritt-fur-schritt "><strong>Applikationsmethoden
+                                                 für mikrozement  kennen</strong></a></p>
                                  </div>
                                  <div class="col-md-12">
                                      <a id="calculadora"
@@ -173,14 +173,14 @@
                                      <h2 class="en4 card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/calculadora.png"
                                              class="img-fluid "> <a class=""
-                                             href="calc/">Mikrozement-Material-Rechner</a>
+                                             href="calc/">mikrozement -Material-Rechner</a>
                                      </h2>
                                      <p>
                                          Obwohl unser technischer Service für die Erstellung individueller Budgets
                                          zuständig ist, verfügen wir über einen Materialrechner, der die Menge an
-                                         Mikrozement schätzt, die für die Verkleidung von Böden, Wänden und
+                                         mikrozement  schätzt, die für die Verkleidung von Böden, Wänden und
                                          Außenbereichen benötigt wird, abhängig von der Art der Untergründe, den
-                                         Quadratmetern und der gewählten Farbe des Mikrozements.
+                                         Quadratmetern und der gewählten Farbe des mikrozement s.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="calc/">
                                              <strong>Calcular material</strong></a></p>
@@ -194,7 +194,7 @@
                                      </h2>
                                      <p>
                                          Für alle unsere Produkte stellen wir technische Datenblätter zur Verfügung. So
-                                         können Profis das Mikrozementsystem wählen, das ihren persönlichen Bedürfnissen
+                                         können Profis das mikrozement system wählen, das ihren persönlichen Bedürfnissen
                                          am besten passt.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links"

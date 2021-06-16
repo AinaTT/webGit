@@ -14,17 +14,17 @@
     <link rel="preload" href="../../assets/css/noticias.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
-    <title>Erfolgreiche Anwendung von Mikrozement über einer Fußbodenheizung</title>
+    <title>Erfolgreiche Anwendung von mikrozement  über einer Fußbodenheizung</title>
     <meta name="description"
-        content="Mikrozement ist unter anderem aufgrund seiner guten Wärmeleitfähigkeit eine hervorragende Beschichtung für den Einsatz bei Fußbodenheizungen. Lesen Sie diesen Artikel und lernen Sie Schritt für Schritt seine Anwendung." />
+        content="mikrozement  ist unter anderem aufgrund seiner guten Wärmeleitfähigkeit eine hervorragende Beschichtung für den Einsatz bei Fußbodenheizungen. Lesen Sie diesen Artikel und lernen Sie Schritt für Schritt seine Anwendung." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mikrozement über Fußbodenheizung erfolgreich auftragen" />
+    <meta property="og:title" content="mikrozement  über Fußbodenheizung erfolgreich auftragen" />
     <meta property="og:url" content="https://www.topciment. com/de/news/microcement-on-underfloor-radiant" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Mikrozement auf Fußbodenheizung erfolgreich anwenden" />
-    <meta name="twitter:title" content="Mikrozement auf Fußbodenheizung erfolgreich anwenden" />
+    <meta name="twitter:title" content="mikrozement  auf Fußbodenheizung erfolgreich anwenden" />
+    <meta name="twitter:title" content="mikrozement  auf Fußbodenheizung erfolgreich anwenden" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -56,7 +56,7 @@
             </div>
 
             <div class="content">
-                <h1>Erfolgreiche Anwendung von Mikrozement über einer Fußbodenheizung</h1>
+                <h1>Erfolgreiche Anwendung von mikrozement  über einer Fußbodenheizung</h1>
                 <div class="headline fadeInRight styleNormal16justified">
                     <p>Immer mehr Menschen entscheiden sich dafür, eine <strong>Fußbodenheizung</strong> anstelle von
                         traditionellen Heizkörpern zu installieren, und zwar aus zwei Hauptgründen: Sie bietet
@@ -64,47 +64,47 @@
                             wirtschaftlicher</strong>. Die Installation einer Fußbodenheizung ist jedoch nicht mit allen
                         Materialien kompatibel. Zum Beispiel ist bei vielen Arten von Holzfußböden Vorsicht geboten.
                     </p>
-                    <p> <strong>Mikrozement ist aus vielen Gründen einer der am besten geeigneten Baustoffe</strong> für
+                    <p> <strong>mikrozement  ist aus vielen Gründen einer der am besten geeigneten Baustoffe</strong> für
                         die Verlegung einer Fußbodenheizung. Vor allem, weil es sich um eine durchgehende Beschichtung
                         handelt, wird sie nicht rissig und vor allem hat sie eine gute Wärmeleitfähigkeit dank ihrer
                         ausgezeichneten Hitzebeständigkeit. Für die optimale Kombination aus diesem dekorativen Belag
                         und der Fußbodenheizung müssen jedoch einige Schritte konsequent durchgeführt werden. </p>
                     <figure class="figure mt-4"> <img
                             src="https://www.topciment.com/imagenes/news/comedor-microcemento-suelo-radiante.jpg"
-                            class="figure-img img-fluid " title="Silberner Mikrozement Esszimmer auf Fußbodenheizung"
-                            alt="Silberner Mikrozement Esszimmer auf Fußbodenheizung">
-                        <figcaption class="figure-caption">Kleines Esszimmer, in dem unser Silberner Mikrozement auf
+                            class="figure-img img-fluid " title="Silberner mikrozement  Esszimmer auf Fußbodenheizung"
+                            alt="Silberner mikrozement  Esszimmer auf Fußbodenheizung">
+                        <figcaption class="figure-caption">Kleines Esszimmer, in dem unser Silberner mikrozement  auf
                             Fußbodenheizung angewendet wurde. </figcaption>
                     </figure>
-                    <h2>Wie man Mikrozement auf einem Fußboden aufträgt: Schritt für Schritt</h2>
-                    <p><strong>Unser technisches Team berät und löst Zweifel an der Anwendung von Mikrozement für Profis
+                    <h2>Wie man mikrozement  auf einem Fußboden aufträgt: Schritt für Schritt</h2>
+                    <p><strong>Unser technisches Team berät und löst Zweifel an der Anwendung von mikrozement  für Profis
                             seit fast zwei Jahrzehnten</strong>. Eine der häufigsten ist gerade über die Möglichkeit,
-                        einen strahlenden Mikrozementboden zu verlegen. </p>
+                        einen strahlenden mikrozement boden zu verlegen. </p>
                     <p>Nachfolgend erklären wir Ihnen die Schritt-für-Schritt-Anleitung, damit die <a class="links"
-                            href="../mikrozement/anwendungsmethoden-mikrozement">Anwendung von Mikrozement</a> auf
+                            href="../mikrozement/wie-man-mikrozement-anwendet-mikrozementanwendung-schritt-fur-schritt ">Anwendung von mikrozement </a> auf
                         Fußbodenheizung</a> ein voller Erfolg wird. Beachten Sie unsere Tipps. </p>
-                    <h3>Wärmen Sie den Boden vor dem Aufbringen des Mikrozements auf</h3>
-                    <p>Vor dem Aufbringen des Mikrozements auf der Fußbodenheizung müssen Sie ein
+                    <h3>Wärmen Sie den Boden vor dem Aufbringen des mikrozement s auf</h3>
+                    <p>Vor dem Aufbringen des mikrozement s auf der Fußbodenheizung müssen Sie ein
                         <strong>Wärmeprotokoll</strong> durchführen, um zu verhindern, dass Risse, die durch
-                        Temperaturänderungen im Estrich verursacht werden, den Mikrozement beschädigen. </p>
-                    <p>Schalten Sie die Heizung mindestens 4 Wochen nach dem Verlegen des Zementmörtels ein. </p>
+                        Temperaturänderungen im Estrich verursacht werden, den mikrozement  beschädigen. </p>
+                    <p>Schalten Sie die Heizung mindestens 4 Wochen vor dem Verlegen des Zementmörtels ein. </p>
                     <p>Halten Sie das Zulaufwasser zu den Kreisläufen bei 25 ºC für einen Zeitraum von 2 oder 3 Tagen.
                     </p>
                     <p>Erhöhen Sie schrittweise die Wassertemperatur, bis sie 45ºC erreicht. Lassen Sie es mehrere Tage
                         lang so stehen. </p>
 
 
-                    <p> Schalten Sie die Heizung 48 Stunden vor Beginn der Verlegung des Mikrozements auf der
+                    <p> Schalten Sie die Heizung 48 Stunden vor Beginn der Verlegung des mikrozement s auf der
                         Fußbodenheizung aus. Es ist sehr wichtig, dass die maximale Temperatur des Fußbodens 18ºC nicht
                         überschreitet. </p>
-                    <h3>Anwendung von Mikrozement auf Fußbodenheizung</h3>
-                    <p>Mikrozementböden müssen <strong>auf zementärem Mörtel verlegt werden, der ein fortgeschrittenes
+                    <h3>Anwendung von mikrozement  auf Fußbodenheizung</h3>
+                    <p>mikrozement böden müssen <strong>auf zementärem Mörtel verlegt werden, der ein fortgeschrittenes
                             Abbindestadium erreicht hat.</strong> Bis zum Erreichen dieses optimalen Stadiums müssen
                         drei bis vier Wochen vergehen, ein Zeitraum, der je nach Witterung variieren kann. Es ist
                         unbedingt darauf zu achten, dass der Mörtel praktisch trocken ist (maximal 5% Feuchtigkeit).
                     </p>
-                    <h3>Einschalten der Fußbodenheizung nach der Verlegung des Mikrozements</h3>
-                    <p>1. Wenn der Mikrozement korrekt auf der Fußbodenheizung angebracht wurde, warten Sie mindestens
+                    <h3>Einschalten der Fußbodenheizung nach der Verlegung des mikrozement s</h3>
+                    <p>1. Wenn der mikrozement  korrekt auf der Fußbodenheizung angebracht wurde, warten Sie mindestens
                         48 Stunden, bevor Sie die Heizung wieder einschalten. Dabei sind folgende Aspekte zu
                         berücksichtigen:</p>
                     <p>2. Die Heizung sollte schrittweise eingeschaltet werden, jeden Tag um 5ºC erhöht. </p>
@@ -115,16 +115,16 @@
                         wenig Platz zwischen den Möbeln und der Fußbodenheizung vorhanden ist. </p>
                     <figure class="figure mt-4"> <img
                             src="https://www.topciment.com/imagenes/news/suelo-de-microcemento.jpg"
-                            class="figure-img img-fluid " title="Wohnzimmer Stahlmikrozement Fußbodenheizung"
-                            alt="Wohnzimmer Stahlmikrozement über Fußbodenheizung">
+                            class="figure-img img-fluid " title="Wohnzimmer Stahlmikrozement  Fußbodenheizung"
+                            alt="Wohnzimmer Stahlmikrozement  über Fußbodenheizung">
                         <figcaption class="figure-caption">Geräumiges Wohnzimmer mit Fußbodenheizung und unserem
-                            Stahlmikrozement. </figcaption>
+                            Stahlmikrozement . </figcaption>
                     </figure>
-                    <h2>Vorteile einer Mikrozement-Fußbodenheizung</h2>
-                    <p>Dies sind nur einige der vielen Vorteile der Verwendung von Mikrozement gegenüber einer
+                    <h2>Vorteile einer mikrozement -Fußbodenheizung</h2>
+                    <p>Dies sind nur einige der vielen Vorteile der Verwendung von mikrozement  gegenüber einer
                         Fußbodenheizung: </p>
                     <h3>1. Geringer Verbrauch</h3>
-                    <p>Einer der Hauptvorteile von Mikrozement gegenüber einer Fußbodenheizung ist, dass es sich um ein
+                    <p>Einer der Hauptvorteile von mikrozement  gegenüber einer Fußbodenheizung ist, dass es sich um ein
                         verbrauchsarmes und sehr effizientes System handelt. Mit anderen Worten: Der
                         <strong>Energieaufwand</strong> zum Erreichen einer optimalen Temperatur <strong>ist deutlich
                             geringer</strong> als bei anderen Alternativen. Auf diese Weise sparen Sie in den kältesten
@@ -133,10 +133,10 @@
                     <p>Die Fußbodenheizung trägt dank ihrer gleichmäßigen Verteilung dazu bei, schneller das Gefühl der
                         thermischen Behaglichkeit zu erreichen, des <strong>Gleichgewichts zwischen der Temperatur des
                             Raumes und der Körpertemperatur der Personen, die sich darin aufhalten.</strong> Eine
-                        Harmonie, die dank des Mikrozementbodens und seiner hohen Wärmeleitfähigkeit noch verstärkt wird
+                        Harmonie, die dank des mikrozement bodens und seiner hohen Wärmeleitfähigkeit noch verstärkt wird
                     </p>
                     <h3>3. Beständigkeit und Wärmeleitfähigkeit</h3>
-                    <p>Die hervorragende Wärmebeständigkeit von Mikrozement sowie seine Wärmeleitfähigkeit machen diese
+                    <p>Die hervorragende Wärmebeständigkeit von mikrozement  sowie seine Wärmeleitfähigkeit machen diese
                         Beschichtung <strong>zu einer der am besten geeigneten für die Verlegung von
                             Fußbodenheizungen.</strong> </p>
                     <h3> 4.Kein Riss </h3>
@@ -144,41 +144,41 @@
 
 
 
-                        <p>In engem Zusammenhang mit dem vorherigen Punkt, wenn eine korrekte Anwendung von Mikrozement
-                            vom Fachmann durchgeführt wird, <strong>wird der Mikrozementboden nicht reißen.</strong> Ein
+                        <p>In engem Zusammenhang mit dem vorherigen Punkt, wenn eine korrekte Anwendung von mikrozement 
+                            vom Fachmann durchgeführt wird, <strong>wird der mikrozement boden nicht reißen.</strong> Ein
                             Aspekt, der zu berücksichtigen ist, weil nicht alle Beläge in der Lage sind, der Hitze zu
                             widerstehen, die ein strahlender Boden ausstrahlt und am Ende Risse und Sprünge entstehen.
-                            Dies wird nicht passieren, wenn Mikrozement auf einer Fußbodenheizung verwendet wird. </p>
+                            Dies wird nicht passieren, wenn mikrozement  auf einer Fußbodenheizung verwendet wird. </p>
                         <h3>5. Durchgehende Verkleidung </h3>
-                        <p>Nicht zuletzt ist Mikrozement <strong>die durchgehende Verkleidung schlechthin.</strong> So
+                        <p>Nicht zuletzt ist mikrozement  <strong>die durchgehende Verkleidung schlechthin.</strong> So
                             wird die Fußbodenheizung ohne optische Unterbrechungen abgedeckt und bietet so ein
                             angenehmes Gefühl der Kontinuität. </p>
                         <figure class="figure mt-4"> <img
                                 src="https://www.topciment.com/imagenes/news/dormitorio-suelo-microcemento.jpg"
-                                class="figure-img img-fluid " title="Schlafzimmer Mikrozement auf Fußbodenheizung"
-                                alt="Schlafzimmer Mikrozement Ivory auf Fußbodenheizung">
-                            <figcaption class="figure-caption">Schlafzimmer, in dem unser Mikrozement Ivory auf
+                                class="figure-img img-fluid " title="Schlafzimmer mikrozement  auf Fußbodenheizung"
+                                alt="Schlafzimmer mikrozement  Ivory auf Fußbodenheizung">
+                            <figcaption class="figure-caption">Schlafzimmer, in dem unser mikrozement  Ivory auf
                                 Fußbodenheizung installiert wurde. </figcaption>
                         </figure>
-                        <h2>Probleme mit Mikrozement bei Fußbodenheizungen</h2>
+                        <h2>Probleme mit mikrozement  bei Fußbodenheizungen</h2>
                         <p>Wie bei jedem anderen System gibt es auch hier eine Reihe von Nachteilen, die man beachten
-                            sollte, um Probleme mit Mikrozement bei Fußbodenheizungen zu vermeiden. </p>
-                        <h3>Mangelhafte Qualität des Mikrozements</h3>
-                        <p>Obwohl Mikrozement eine durchgehende Beschichtung ist, die sehr hitzebeständig ist und nicht
+                            sollte, um Probleme mit mikrozement  bei Fußbodenheizungen zu vermeiden. </p>
+                        <h3>Mangelhafte Qualität des mikrozement s</h3>
+                        <p>Obwohl mikrozement  eine durchgehende Beschichtung ist, die sehr hitzebeständig ist und nicht
                             reißen sollte, sollten Sie nicht an der Qualität sparen. Je höher die Qualität ist, desto
-                            größer ist der Widerstand und desto unwahrscheinlicher ist es, dass Mikrozementprobleme in
+                            größer ist der Widerstand und desto unwahrscheinlicher ist es, dass mikrozement probleme in
                             der Fußbodenheizung auftreten. </p>
                         <h3>Komplexe Installation</h3>
-                        <p>Der Prozess des Auftragens von Mikrozement auf den Boden ändert sich bei einer
+                        <p>Der Prozess des Auftragens von mikrozement  auf den Boden ändert sich bei einer
                             Fußbodenheizung nicht. Das heißt, es wäre problematisch, wenn Sie das Zündprotokoll nicht
                             genau befolgen würden. Deshalb ist es so wichtig, die Schritte </p>
                         <h2> Microcementos Topciment, die beste Option für Fußbodenheizungen</h2>
                         <p>Die hohe Leistungsfähigkeit unserer Beschichtungen hat uns zum Marktführer in der <a
-                                class="links" href="../mikrozement/hersteller-mikrozement">Herstellung von
-                                Mikrozement</a> in Spanien werden lassen. Mikrozemente mit unschlagbaren technischen
+                                class="links" href="../mikrozement/hersteller-mikrozement ">Herstellung von
+                                mikrozement </a> in Spanien werden lassen. mikrozement e mit unschlagbaren technischen
                             Eigenschaften und perfekt für Fußbodenheizungen. </p>
                         <p>Wenn Sie nach der Lektüre dieses Artikels immer noch Zweifel an der Verlegung einer
-                            Fußbodenheizung haben oder wissen wollen, welche Art von Mikrozement am besten geeignet ist,
+                            Fußbodenheizung haben oder wissen wollen, welche Art von mikrozement  am besten geeignet ist,
                             <a class="links" href="../kontakt">kontaktieren Sie uns</a>. Wir freuen uns darauf, Ihnen
                             zu helfen.
 

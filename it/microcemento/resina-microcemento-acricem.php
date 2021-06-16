@@ -247,7 +247,7 @@
       {
         "@type": "PropertyValue",
         "name": "Inflamación",
-        "value": "No inflamable, base agua"
+        "value": "Non infiammabile, base agua"
       },
       {
         "@type": "PropertyValue",
@@ -328,7 +328,7 @@
       {
         "@type": "PropertyValue",
         "name": "Inflamación",
-        "value": "No inflamable, base agua"
+        "value": "Non infiammabile, base agua"
       },
       {
         "@type": "PropertyValue",
@@ -404,7 +404,7 @@
       {
         "@type": "PropertyValue",
         "name": "Inflamación",
-        "value": "No inflamable, base agua"
+        "value": "Non infiammabile, base agua"
       },
       {
         "@type": "PropertyValue",
@@ -481,7 +481,7 @@
       {
         "@type": "PropertyValue",
         "name": "Inflamación",
-        "value": "No inflamable, base agua"
+        "value": "Non infiammabile, base agua"
       },
       {
         "@type": "PropertyValue",

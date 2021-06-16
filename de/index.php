@@ -13,18 +13,18 @@
     <link rel="stylesheet" href="../assets/css/home.css"/>
     <?php include("../assets/includes/root-styles.php"); ?>
 
-    <title>Mikrozement Topciment, Hersteller von Mikrozement.</title>
-    <meta name="description" content="Der Mikrozement Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
+    <title>mikrozement  Topciment, Hersteller von mikrozement .</title>
+    <meta name="description" content="Der mikrozement  Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
 
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Mikrozement Topciment, Hersteller von Mikrozement."/>
-    <meta property="og:description" content="Der Mikrozement Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
+    <meta property="og:title" content="mikrozement  Topciment, Hersteller von mikrozement ."/>
+    <meta property="og:description" content="Der mikrozement  Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
     <meta property="og:url" content="https://www.topciment.com/de/"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Der Mikrozement Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
-    <meta name="twitter:title" content="Mikrozement Topciment, Hersteller von Mikrozement."/>
+    <meta name="twitter:description" content="Der mikrozement  Topciment ist eine dekorative Beschichtung des neuesten Trends für jeden Raum in Ihrem Haus oder Geschäft."/>
+    <meta name="twitter:title" content="mikrozement  Topciment, Hersteller von mikrozement ."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -97,11 +97,8 @@
             <div class="content-a" onClick="location.href='mikrozemente'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                   <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles"
-						style="text-align:right;" data-animate-scroll='{"x": "0",
-                    "y": "50",
-                    "alpha": "0",
-                    "duration": "1"}'>
-						<h1 class="enHome3 br1">ES IST MEHR ALS <span class="negrita">MIKROZEMENT,</span><br>ES IST
+						style="text-align:right;"  >
+						<h1 class="enHome3 br1">ES IST MEHR ALS <span class="negrita">mikrozement ,</span><br>ES IST
 							<span class="negrita">TOPCIMENT</span></h1>
 						<h2 class="txHome2 br1">Bei Topciment ist Exzellenz der Wegbereiter</h2>
 						<h2 class=" txHome2 br1">
@@ -115,7 +112,7 @@
 						<h2 class="txHome2 br1">Wir bieten bewährte, erkennbare Qualitätsprodukte mit großer
 							internationaler Reichweite </h2>
 						<h2 class="txHome2 ">
-							Unsere Erfahrung und Innovation unterscheidet uns von jedem Mikrozement oder jeder
+							Unsere Erfahrung und Innovation unterscheidet uns von jedem mikrozement  oder jeder
 							Beschichtung auf dem Markt.
 						</h2>
 
@@ -136,7 +133,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Sttandard_Topciment_Logotipo_Blanco_200px.png" alt="Zwei Komponenten Mikrozement" title="Zwei Komponenten Mikrozement">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Sttandard_Topciment_Logotipo_Blanco_200px.png" alt="Zwei Komponenten mikrozement " title="Zwei Komponenten mikrozement ">
                             <h2 class="enHome">DIE VIELSEITIGKEIT UNENDLICHER SCHÖPFUNGEN</h2>
                         </div>
                     </div>
@@ -150,7 +147,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_200px.png" alt="Ein Komponenten Mikrozement" title="Ein Komponenten Mikrozement">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_200px.png" alt="Ein Komponenten mikrozement " title="Ein Komponenten mikrozement ">
                             <h2 class="enHome">AN DER SPITZE DER TECHNIK</h2>
                         </div>
                     </div>
@@ -164,7 +161,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Topciment_Logotipo_Blanco_200px.png" alt="Ein Komponenten Mikrozement" title="Ein Komponenten Mikrozement">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Topciment_Logotipo_Blanco_200px.png" alt="Ein Komponenten mikrozement " title="Ein Komponenten mikrozement ">
                             <h2 class="enHome">DIE EINFACHHEIT DES AUTHENTISCHEN</h2>
                         </div>
                     </div>
@@ -178,7 +175,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_200px.png" alt="Microcemento para piscinas" title="Microcemento para piscinas">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_200px.png" alt="mikrozement para piscinas" title="mikrozement para piscinas">
                             <h2 class="enHome">EINZIGARTIGE KREATIONEN FÜR UNTERWASSERRÄUME</h2>
                         </div>
                     </div>
@@ -190,7 +187,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Efectto_Topciment_Logotipo_Blanco_200px.png" alt="Microcemento listo al uso" title="Microcemento listo al uso">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Efectto_Topciment_Logotipo_Blanco_200px.png" alt="mikrozement listo al uso" title="mikrozement listo al uso">
                             <h2 class="enHome">DIE SCHÖNHEIT UND ELEGANZ DER UNNACHAHMLICHEN OBERFLÄCHEN</h2>
 
                         </div>
@@ -203,7 +200,7 @@
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
-                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Pure_Mettal_Topciment_Logotipo_Blanco_200px.png" alt="Microcemento metálico" title="Microcemento metálico">
+                            <img class="logoIni2" src="https://www.topciment.com/imagenes/sistemas/Pure_Mettal_Topciment_Logotipo_Blanco_200px.png" alt="mikrozement metálico" title="mikrozement metálico">
                             <h2 class="enHome">DIE REVOLUTION DER DEKORATIVEN BESCHICHTUNGEN</h2>
 
                         </div>
@@ -248,7 +245,7 @@
                             <h2 class="enHome2"> FINDEN SIE DIE INSPIRATION</h2>
                             <p>In unserer Galerie finden Sie viel mehr als nur Inspiration. Wir
 							zeigen Ihnen die Arbeiten unserer besten Fachleute, damit Sie alle Möglichkeiten kennen, die
-							Mikrozement bietet.</p>
+							mikrozement  bietet.</p>
                         </div>
                     </div>
 
@@ -266,7 +263,7 @@
                         <div class="txHome text-black mt-4 prof">
                             <h2 class="enHome2 "> UNTERSTÜTZUNG VON FACHLEUTEN</h2>
                             <p> Wir geben unsere Erfahrung durch Schulung und ständige
-							technische Beratung an Fachleute weiter, damit die Ergebnisse der Anwendung des Mikrozements
+							technische Beratung an Fachleute weiter, damit die Ergebnisse der Anwendung des mikrozement s
 							optimal sind.</p>
                         </div>
                     </div>
@@ -282,7 +279,7 @@
                         <div class="txHome text-white">
                             <h2 class="enHome2 ">  NACHRICHTEN</h2>
                             <p>Wir erforschen, kreieren und entwerfen ständig neue
-							Topciment-Produkte. Und natürlich tauchen wir in die Neuheiten und Trends von Mikrozement
+							Topciment-Produkte. Und natürlich tauchen wir in die Neuheiten und Trends von mikrozement 
 							und dekorativen Beschichtungen ein. Wir werden Ihnen alles darüber in unserem News-Bereich
 							erzählen.</p>
                         </div>
@@ -315,38 +312,38 @@
      <div class="container contenedorF">
          <div class="row row1">
              <div class="col-md-3 col1F">
-                 <p class="tituloF productosF"><strong>Mikrozement</strong></p>
+                 <p class="tituloF productosF"><strong>mikrozement </strong></p>
                  <ul class="ulF productosF">
-                     <li class="sttandardF"><a class="linkB" href="mikrozement/mikrozement-zweikomponenten-sttandard">Zwei Komponenten Mikrozement</a></li>
-                     <li class="evoluttionF"><a class="linkB" href="mikrozement/einkomponenten-mikrozement-evoluttion">Ein Komponenten Mikrozement</a></li>
-                     <li class="efecF"><a class="linkB" href="mikrozement/gebrauchsfertiger-mikrozement-effektto">Gebrauchsfertige Mikrozement</a></li>
+                     <li class="sttandardF"><a class="linkB" href="mikrozement/mikrozement-zweikomponenten-sttandard">Zwei Komponenten mikrozement </a></li>
+                     <li class="evoluttionF"><a class="linkB" href="mikrozement/einkomponenten-mikrozement-evoluttion">Ein Komponenten mikrozement </a></li>
+                     <li class="efecF"><a class="linkB" href="mikrozement/gebrauchsfertiger-mikrozement-effektto">Gebrauchsfertige mikrozement </a></li>
                      <li class="puremF"><a class="linkB" href="mikrozement/metallische-beschichtung-pure-mettal">Metallische Beschichtung</a></li>
                      <li class="classicF"><a class="linkB" href="mikrozement/farben-metalleffekt-oxid-classic-mettal">Metallic farben</a></li>
                      <li class="elitteF"><a class="linkB" href="mikrozement/elitte-metallische-glasuren">Metallische Glasuren und Metallpigmente</a></li>
                      <li class="primacemF"><a class="linkB" href="mikrozement/grundierungs-und-adhasionsprimer-primacem">Primers</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="mikrozement/pigmente-fur-mikrozement-arcocem">Pigmente</a></li>
-                     <li class="topsealerF"><a class="linkB" href="mikrozement/topselaer-lack">Lacke</a></li>
-                     <li class="limpieF"><a class="linkB" href="mikrozement/reinigung-und-pflege-von-mikrozement">Reinigung  und Pflege von  Mikrozement</a></li>
-                     <li class="herramF"><a class="linkB" href="mikrozement/werkzeuge-mikrozement">Werkzeuge</a></li>
+                     <li class="topsealerF"><a class="linkB" href="mikrozement/lack-polyurethan-acrylat-Wasserbasis-topsealer">Lacke</a></li>
+                     <li class="limpieF"><a class="linkB" href="mikrozement/reinigung-und-pflege-von-mikrozement ">Reinigung  und Pflege von  mikrozement </a></li>
+                     <li class="herramF"><a class="linkB" href="mikrozement/werkzeuge-mikrozement ">Werkzeuge</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col2F">
                  <p class="tituloF proyectosF"><strong>PROJEKTE</strong></p>
                  <ul class="ulF proyectos">
-                     <li class=""><a class="linkB" href="mikrozement/galerie#paredes">Mikrozement an Wänden</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#suelos">Mikrozementböden</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#banyos">Mikrozementbäder</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#cocinas">Mikrozement in Küchen</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#escaleras">Mikrozement-Treppe</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#piscinas">Mikrozement-Schwimmbecken</a></li>
-                     <li class=""><a class="linkB" href="mikrozement/galerie#exterior">Mikrozement für den Außenbereich</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#paredes">mikrozement  an Wänden</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#suelos">mikrozement böden</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#banyos">mikrozement bäder</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#cocinas">mikrozement  in Küchen</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#escaleras">mikrozement -Treppe</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#piscinas">mikrozement -Schwimmbecken</a></li>
+                     <li class=""><a class="linkB" href="mikrozement/galerie#exterior">mikrozement  für den Außenbereich</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col3F">
                  <p class="tituloF"><strong>PROFIS</strong></p>
                  <ul class="ulF profesionalesF">
-                 <li class="cursosF"><a class="linkB" href="mikrozement/schulungen-anwendung-mikrozement">Schulungen mikrozement</a></li>
+                 <li class="cursosF"><a class="linkB" href="mikrozement/schulungen-anwendung-mikrozement ">Schulungen mikrozement </a></li>
                      <li class="distriF"><a class="linkB" href="vertriebspartner">vertriebspartner</a></li>
                      <li class="garantF"><a class="linkB" href="garantie">Garantie</a></li>
                      <li class="fichatF"><a class="linkB" href="datenblatter">Datenblatter</a>
@@ -359,7 +356,7 @@
              <div class="col-md-3 col4F">
                  <p class="tituloF"><strong>FIRMA</strong></p>
                  <ul class="ulF empresaF">
-                     <li class="nosotrosF"><a class="linkB" href="mikrozement/hersteller-mikrozement">Hersteller mikrozement</a></li>
+                     <li class="nosotrosF"><a class="linkB" href="mikrozement/hersteller-mikrozement ">Hersteller mikrozement </a></li>
                      
                      <li class="noticiasF"><a class="linkB" href="nachrichten">Nachrichten</a></li>
                      <li class="contactoF"><a class="linkB" href="kontakt">kontakt</a></li>
@@ -441,7 +438,6 @@
 
     <script defer src='../assets/js/script.js'></script>
 </body>
-
     <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -450,7 +446,7 @@
   "url": "https://www.topciment.com/es/",
   "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
   "email": "info@topciment.com",
-  "description": "Wir sind führend in der Herstellung von Mikrozement in Spanien. Garantie von bis zu 10 Jahren auf alle unsere Produkte.",
+  "description": "Wir sind führend in der Herstellung von mikrozement  in Spanien. Garantie von bis zu 10 Jahren auf alle unsere Produkte.",
   "telephone": "+34 963 925 989",
   "legalName":"Grupo Negocios PO SLU",
   "taxID":"B97539076",
@@ -460,7 +456,7 @@
     "postalCode": "46940",
     "streetAddress": "Calle Rosas 33, Manises 46940, Valencia"
   },
-  "slogan": "Es ist mehr als Mikrozement, ist Topciment"
+  "slogan": "Es ist mehr als mikrozement , es ist Topciment"
 }
 </script>
 

@@ -17,16 +17,16 @@
 
     <title>Qualitätspolitik Grupo Negocios PO, SLU</title>
     <meta name="description"
-        content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von Mikrozementen, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " />
+        content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von mikrozement en, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
     <meta property="og:title" content="Qualitätspolitik Grupo Negocios PO, SLU" />
     <meta property="og:description"
-        content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und der Vermarktung von Mikrozementen, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " />
+        content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und der Vermarktung von mikrozement en, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " />
     <meta property="og:url" content="https://www. topciment.com/de/qualitatspolitik" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von Mikrozementen, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " /> <meta name="twitter: description" content="Qualitätspolitik Grupo Negocios PO, SLU, Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von Mikrozementen, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " /> <meta name="twitter:title" content="Qualitätspolitik Grupo Negocios PO, SLU" />
+    <meta name="twitter:description" content="Qualitätspolitik Grupo Negocios PO, SLU, ein Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von mikrozement en, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " /> <meta name="twitter: description" content="Qualitätspolitik Grupo Negocios PO, SLU, Unternehmen, das sich dem Design, der Entwicklung, der Herstellung und dem Vertrieb von mikrozement en, dekorativen Beschichtungen, technischen Mörteln und ergänzenden Produkten widmet " /> <meta name="twitter:title" content="Qualitätspolitik Grupo Negocios PO, SLU" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -54,7 +54,7 @@
 
                     <h1>Qualitätspolitik Grupo Negocios PO, SLU</h1>
                     <p> Grupo Negocios PO, SLU ist ein Unternehmen, das sich dem Design, der
-                        Entwicklung, der Herstellung und dem Vertrieb von Mikrozementen, dekorativen Beschichtungen,
+                        Entwicklung, der Herstellung und dem Vertrieb von mikrozement en, dekorativen Beschichtungen,
                         technischen Mörteln und ergänzenden Produkten widmet und unseren Kunden professionelle
                         Schulungen und persönliche Beratung bietet. </p>
                     <p>Die Geschäftsleitung verpflichtet sich zur Einhaltung dieser Qualitätspolitik und erwirbt eine

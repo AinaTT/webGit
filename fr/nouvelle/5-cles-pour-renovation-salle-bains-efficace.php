@@ -81,7 +81,7 @@
                         aussi résister à l'humidité.
                         Le grès cérame, le marbre ou les carreaux de grand format sont quelques-unes des
                         options que nous
-                        trouver sur le marché. À cet égard, le béton ciréremplit les fonctions
+                        trouver sur le marché. À cet égard, le béton ciré remplit les fonctions
                         souhaitées :
                         l'absence de joints empêche l'accumulation de la saleté et facilite ainsi la
                         le nettoyage de la salle de bains. En outre, il peut être parfaitement appliqué

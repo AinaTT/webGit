@@ -37,14 +37,7 @@
 
         <link rel="alternate" href="https://www.topciment.com/fr/project/project-casa-isabel" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-casa-isabel" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-casa-isabel.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-casa-isabel.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-casa-isabel.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-casa-isabel.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-casa-isabel.html" hreflang="ru-RU"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-casa-isabel.html" hreflang="zh-CN"/>
-
+ 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -79,10 +72,10 @@
 
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>La petite ville de Carpesa, au nord de la ville de Valence, possède une habitation unique
-                        où la <a href="../information-beton-cire">Béton Ciré</a>, La pierre et le bois créent un design unique.
+                        où la <a href="../information-beton-cire">béton ciré </a>, La pierre et le bois créent un design unique.
                         un design unique. Une salle de séjour avec cuisine ouverte,
                         où l'inspiration rustique est visible grâce aux poutres en bois dur exposées. Le
-                        <strong>Le sol en béton ciréde couleur Kalahari crée un espace continu, unifie les environnements et donne
+                        <strong>Le sol en béton ciré de couleur Kalahari crée un espace continu, unifie les environnements et donne
                             une plus grande sensation d'espace</strong>.
                         Le même colorant est utilisé dans les escaliers et les salles de bains, dans le but de créer un tout, un ensemble. A
                         variation au blanc pour différencier les murs verticaux et horizontaux de la salle de bains, et permettre une différenciation.

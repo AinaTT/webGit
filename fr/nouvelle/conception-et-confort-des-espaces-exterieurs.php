@@ -17,7 +17,7 @@
 
 
     <title>Comptoirs de cuisine en microcemento </title>
-    <meta name="description" content="Les comptoirs en béton ciréTopciment : la solution parmi les meilleurs types de plans de travail de cuisine aujourd'hui.
+    <meta name="description" content="Les comptoirs en béton ciré Topciment : la solution parmi les meilleurs types de plans de travail de cuisine aujourd'hui.
         Nous vous expliquons pourquoi vous devriez choisir ce matériau pour votre plan de travail de cuisine."/>
 
 
@@ -70,7 +70,7 @@
                         combinaison avec des revêtements en microciment, donnera un résultat propre,
                         agréable et
                         l'environnement moderne.</p>
-                    <p>Le béton cirése présente comme un revêtement de qualité offrant des
+                    <p>Le béton ciré se présente comme un revêtement de qualité offrant des
                         possibilités infinies de
                         les couleurs et les finitions. Pour ses propriétés antidérapantes et ses niveaux
                         élevés de
@@ -98,7 +98,7 @@
                     </p>
                     <img src="https://www.topciment.com/imagenes/exteriores/diseno-y-confort-terrazas-exteriores.jpg" alt="Microstone se puede aplicar junto a piscinas y en todo tipo de climas y ambientes" width="100%">
                     <br><br>
-                    <p>Si vous souhaitez obtenir plus d'informations sur ce béton cirépour
+                    <p>Si vous souhaitez obtenir plus d'informations sur ce béton ciré pour
                         l'extérieur, veuillez
                         <u><a href="../contact">nous contacter</a></u>
                         <br><br>

@@ -15,21 +15,21 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Sols en béton ciré: application, types, avantages et astuces</title>
+    <title>Sols en béton ciré : application, types, avantages et astuces</title>
     <meta name="description"
-        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré. Apprenez à appliquer du béton ciré sur les sols, les types de béton ciré disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
+        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré . Apprenez à appliquer du béton ciré  sur les sols, les types de béton ciré  disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
 
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Sols en béton ciré: application, types, avantages et astuces" />
+    <meta property="og:title" content="Sols en béton ciré : application, types, avantages et astuces" />
     <meta property="og:description"
-        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré. Apprenez à appliquer du béton ciré sur les sols, les types de béton ciré disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
+        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré . Apprenez à appliquer du béton ciré  sur les sols, les types de béton ciré  disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/sols-en-beton-cire-application-types-avantages-et-astuces" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré. Apprenez à appliquer du béton ciré sur les sols, les types de béton ciré disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
-    <meta name="twitter:title" content="Sols en béton ciré: application, types, avantages et astuces" />
+        content="Vous trouverez ici tout ce que vous devez savoir sur les sols en béton ciré . Apprenez à appliquer du béton ciré  sur les sols, les types de béton ciré  disponibles pour les sols, leurs avantages et des conseils d'entretien et de maintenance." />
+    <meta name="twitter:title" content="Sols en béton ciré : application, types, avantages et astuces" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -61,11 +61,11 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>Sols en béton ciré: application, types, avantages et astuces</h1>
+                <h1>Sols en béton ciré : application, types, avantages et astuces</h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
 
                     <p>
-                        Le béton ciré est l'un des revêtements de sol continus les plus répandus au monde en raison des
+                        Le béton ciré  est l'un des revêtements de sol continus les plus répandus au monde en raison des
                         possibilités de décoration qu'il offre à la fois pour les intérieurs et les extérieurs. Un
                         revêtement qui peut être appliqué sur les sols de cuisine, les sols de salle de bain, les sols
                         de terrasse, etc.
@@ -75,23 +75,23 @@
                     <p>
                         Un matériau de construction qui, même s'il est des années d'histoire, devient plus populaire que
                         les années dernières, notamment pour couvrir tous les types de soleils. Ci-dessous, nous
-                        découvrons tout ce que vous devez savoir sur les sols en béton ciré ce sont l'application, les
-                        principaux avantages, les types de béton ciré disponibles pour les sols, les pointes ... et bien
+                        découvrons tout ce que vous devez savoir sur les sols en béton ciré  ce sont l'application, les
+                        principaux avantages, les types de béton ciré  disponibles pour les sols, les pointes ... et bien
                         plus encore.
 
                     </p>
                     <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/news/imagen-microcemento-suelos.jpg"
                             class="figure-img img-fluid "
-                            title="grenier chambre à coucher chambre à coucher béton ciréau sol"
-                            alt="grenier chambre à coucher béton ciréau sol" width="auto" height="auto">
+                            title="grenier chambre à coucher chambre à coucher béton ciré au sol"
+                            alt="grenier chambre à coucher béton ciré au sol" width="auto" height="auto">
                         <figcaption class="figure-caption">Grand grenier lumineux converti en chambre à coucher, où
-                            notre couleur béton ciréSteel a été appliquée au sol.</figcaption>.
+                            notre couleur béton ciré Steel a été appliquée au sol.</figcaption>.
                     </figure>
-                    <h2>Avantages du béton ciré dans les sols</h2>
+                    <h2>Avantages du béton ciré  dans les sols</h2>
 
                     <p>
-                        L'application de béton ciré sur les sols offre d'innombrables avantages. Nous résumons certains
+                        L'application de béton ciré  sur les sols offre d'innombrables avantages. Nous résumons certains
                         des avantages les plus importants de ce revêtement de sol décoratif innovant:
 
 
@@ -106,28 +106,28 @@
                         <li>Il est inaltérable aux rayons UV et possède une très bonne résistance thermique. </li>
                         <li>Il a une résistance enviable au trafic, à l'usure abrasive et aux produits de nettoyage
                             ménagers. </li>
-                        <li>Il n'y a pas deux sols en béton ciréidentiques grâce à la variété de couleurs et de
+                        <li>Il n'y a pas deux sols en béton ciré identiques grâce à la variété de couleurs et de
                             finitions offertes par ce revêtement décoratif. </li>
                         <li>Peut être utilisé comme revêtement de sol intérieur mais aussi comme revêtement de sol
                             extérieur, par exemple sur les terrasses. </li>
 
                     </ul>
-                    <h2>Comment installer un sol en béton ciré</h2>
+                    <h2>Comment installer un sol en béton ciré </h2>
 
                     <p>
-                        Maintenant que vous connaissez toutes les vertus du béton ciré pour sols, le moment est venu
+                        Maintenant que vous connaissez toutes les vertus du béton ciré  pour sols, le moment est venu
                         d'expliquer en quoi consiste le processus d'application.
 
                     </p>
                     <p>
-                        Voici les six étapes à prendre en compte pour réussir l'installation d'un sol en béton ciré:
+                        Voici les six étapes à prendre en compte pour réussir l'installation d'un sol en béton ciré :
 
                     </p>
-                    <h3>Nettoyage du futur sol en béton ciré </h3>
+                    <h3>Nettoyage du futur sol en béton ciré  </h3>
 
                     <p>
-                        La chaussée à recouvrir de béton ciré doit être en parfait état. Par conséquent, la première
-                        étape consiste à nettoyer le futur sol en béton ciré de la poussière, des taches, de la graisse
+                        La chaussée à recouvrir de béton ciré  doit être en parfait état. Par conséquent, la première
+                        étape consiste à nettoyer le futur sol en béton ciré  de la poussière, des taches, de la graisse
                         ou de tout autre type de particules; en plus d'assurer que la base est en parfait état. Il est
                         très important de vérifier le niveau d'humidité de la chaussée, il faudra attendre qu'elle sèche
                         ou appliquer directement une barrière impoxy pour bloquer l'humidité par capillarité ou aussi
@@ -138,7 +138,7 @@
                     <p>
 
                         Une fois la surface propre, appliquez une couche d'apprêt sur le trottoir pour améliorer
-                        l'adhérence entre le support existant et le nouveau plancher de béton ciré. Si la surface de
+                        l'adhérence entre le support existant et le nouveau plancher de béton ciré . Si la surface de
                         base est absorbante, comme le béton ou l'autonivelant, <a
                             href="../beton-cire/promoteurs-dadherence-primacem">PRIMACEM ABS</a> sera utilisé; Si, en
                         revanche, il est non absorbant comme le terrazzo, le carrelage ou le marbre, <a href="../beton-cire/promoteurs-dadherence-primacem">PRIMACEM PLUS</a> sera
@@ -146,66 +146,66 @@
 
                     </p>
 
-                    <h3>Première couche de base de béton ciré </h3>
+                    <h3>Première couche de base de béton ciré  </h3>
 
                     <p>
-                        Après le primaire, placez la première couche de base de béton ciré non pigmentée. L'utilisation
+                        Après le primaire, placez la première couche de base de béton ciré  non pigmentée. L'utilisation
                         d'un treillis en fibre de verre est recommandée car elle aidera le professionnel à minimiser les
                         risques d'apparition de fissures au fil du temps. Une fois appliqué, poncez la surface.
 
                     </p>
-                    <h3>Deuxième couche de base de béton ciré</h3>
+                    <h3>Deuxième couche de base de béton ciré </h3>
 
                     <p>
-                        Une fois la surface complètement sèche, appliquez une deuxième couche de béton ciré à base
-                        pigmentée. Dans cette étape, la couleur de béton ciré souhaitée sera choisie pour recouvrir le
-                        pavé continu et, une fois la surface parfaitement recouverte, le sol en béton ciré sera poncé.
+                        Une fois la surface complètement sèche, appliquez une deuxième couche de béton ciré  à base
+                        pigmentée. Dans cette étape, la couleur de béton ciré  souhaitée sera choisie pour recouvrir le
+                        pavé continu et, une fois la surface parfaitement recouverte, le sol en béton ciré  sera poncé.
 
                     </p>
-                    <h3>Deux couches de béton ciré de finition </h3>
+                    <h3>Deux couches de béton ciré  de finition </h3>
 
                     <p>
-                        La cinquième étape consiste à appliquer deux couches de béton ciré ou de finition pigmentaire.
-                        Selon la finition et le degré de glissant recherché, un béton ciré moyen ou épais peut être
-                        utilisé. En tant que spécialistes, nous recommandons deux couches de Microdeck, notre béton ciré
-                        moyen optimal pour l'application du béton ciré dans les sols.
+                        La cinquième étape consiste à appliquer deux couches de béton ciré  ou de finition pigmentaire.
+                        Selon la finition et le degré de glissant recherché, un béton ciré  moyen ou épais peut être
+                        utilisé. En tant que spécialistes, nous recommandons deux couches de Microdeck, notre béton ciré 
+                        moyen optimal pour l'application du béton ciré  dans les sols.
 
                     </p>
-                    <h3>Protection du béton ciré du sol </h3>
+                    <h3>Protection du béton ciré  du sol </h3>
 
                     <p>
-                        La dernière étape de l'application du béton ciré sur le sol est l'une des plus importantes. Le
-                        sol en béton ciré est prêt, il doit maintenant être protégé. Pour ce faire, deux couches de
+                        La dernière étape de l'application du béton ciré  sur le sol est l'une des plus importantes. Le
+                        sol en béton ciré  est prêt, il doit maintenant être protégé. Pour ce faire, deux couches de
                         PRESEALER seront appliquées au rouleau puis deux autres couches de TOPSEALER . En
-                        plus de protéger le béton ciré du sol, il peut être imperméabilisé et même obtenir une finition
+                        plus de protéger le béton ciré  du sol, il peut être imperméabilisé et même obtenir une finition
                         antidérapante.
 
                     </p>
                     <p>
                         Sur cette page , vous pouvez également vous renseigner sur
-                        l'application du béton ciré dans les murs et les piscines
+                        l'application du béton ciré  dans les murs et les piscines
 
                     </p>
 
                     <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/news/imagen-suelo-microcemento-balnco-dormitorio.jpg"
-                            class="figure-img img-fluid " title="chambre à coucher en béton ciréblanc cassé"
-                            alt="chambre à coucher en béton ciréblanc cassé" width="auto" height="auto">
-                        <figcaption class="figure-caption">Chambre à coucher en béton ciréblanc cassé </figcaption>.
+                            class="figure-img img-fluid " title="chambre à coucher en béton ciré blanc cassé"
+                            alt="chambre à coucher en béton ciré blanc cassé" width="auto" height="auto">
+                        <figcaption class="figure-caption">Chambre à coucher en béton ciré blanc cassé </figcaption>.
                     </figure>
-                    <h2>Types de béton ciré pour sols</h2>
+                    <h2>Types de béton ciré  pour sols</h2>
 
                     <p>
-                        S'il y a une particularité qui définit parfaitement le béton ciré, c'est sa polyvalence,
+                        S'il y a une particularité qui définit parfaitement le béton ciré , c'est sa polyvalence,
                         puisqu'il en existe différents types selon la texture et la finition que l'on souhaite obtenir:
                         monocomposant, bicomposant et prêt à l'emploi. Chez Topciment, nous avons jusqu'à quatre
-                        systèmes de béton ciré pour différents sols:
+                        systèmes de béton ciré  pour différents sols:
 
                     </p>
-                    <h3>Béton ciré à deux composants</h3>
+                    <h3>béton ciré  à deux composants</h3>
 
                     <p>
-                        Le béton ciré bi-composant (ciment + résine) est sans aucun doute l'un des plus utilisés dans
+                        Le béton ciré  bi-composant (ciment + résine) est sans aucun doute l'un des plus utilisés dans
                         les sols en microciment. Pour cette raison, nous avons créé deux lignes: Standard , la
                         traditionnelle et l'une des plus demandées; et Unlimited, la nouvelle gamme qui offre des
                         finitions plus lisses et une plus grande résistance mécanique.
@@ -214,23 +214,23 @@
                     <h3>Beton ciré à un composant</h3>
 
                     <p>
-                        À base d'eau et de ciment, Evoluttion  est formulé, notre béton ciré monocomposant pour
+                        À base d'eau et de ciment, Evoluttion  est formulé, notre béton ciré  monocomposant pour
                         sols avec une excellente résistance mécanique et une grande maniabilité. Tous les types de sols
-                        en béton ciré peuvent être conçus avec.
+                        en béton ciré  peuvent être conçus avec.
 
                     </p>
-                    <h3>Béton ciré prêt à l'emploi</h3>
+                    <h3>béton ciré  prêt à l'emploi</h3>
 
                     <p>
-                        Efectto Quartz  est notre béton ciré prêt à l'emploi pour les sols. Grâce à sa large gamme
-                        de couleurs et à ses quatre granulométries, vous pouvez créer n'importe quel sol en béton ciré
+                        Efectto Quartz  est notre béton ciré  prêt à l'emploi pour les sols. Grâce à sa large gamme
+                        de couleurs et à ses quatre granulométries, vous pouvez créer n'importe quel sol en béton ciré 
                         que vous pouvez imaginer.
 
                     </p>
-                    <h2>Sols en béton ciré dans les salles de bain et les cuisines</h2>
+                    <h2>Sols en béton ciré  dans les salles de bain et les cuisines</h2>
 
                     <p>
-                        Le béton ciré peut être utilisé à la fois comme revêtement de sol extérieur et comme revêtement
+                        Le béton ciré  peut être utilisé à la fois comme revêtement de sol extérieur et comme revêtement
                         de sol intérieur dans n'importe quelle pièce. Parmi ses nombreuses qualités, sa capacité à être
                         étanche (avec l'utilisation d'un mastic spécial pour cela) et son excellente résistance à la
                         chaleur, au trafic et aux taches font de ce revêtement un matériau idéal notamment pour <a
@@ -241,25 +241,25 @@
 
                     </p>
                     <p>
-                        Grâce au grand nombre de couleurs de béton ciré qui existent, un nombre infini de trottoirs peut
+                        Grâce au grand nombre de couleurs de béton ciré  qui existent, un nombre infini de trottoirs peut
                         être créé. Dans notre <a href="../beton-cire/galerie">galerie</a>, vous trouverez plusieurs sols
-                        en béton ciré
+                        en béton ciré 
                         dans les salles de bains et les cuisines.
 
                     </p>
                     <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/news/imagen-suelo-microcemento-gris-comedor.jpg"
-                            class="figure-img img-fluid " title="salon rustique sol en béton ciréMarfil"
-                            alt="salon rustique sol en béton ciréMarfil" width="auto" height="auto">
+                            class="figure-img img-fluid " title="salon rustique sol en béton ciré Marfil"
+                            alt="salon rustique sol en béton ciré Marfil" width="auto" height="auto">
                         <figcaption class="figure-caption">Beau salon rustique dont le sol a été recouvert de notre
-                            béton ciréMarfil..</figcaption>
+                            béton ciré Marfil..</figcaption>
                     </figure>
-                    <h2>Couleurs pour sols en béton ciré</h2>
+                    <h2>Couleurs pour sols en béton ciré </h2>
 
                     <p>
-                        Le béton ciré blanc est sans aucun doute l'une des couleurs les plus demandées en raison d'un
+                        Le béton ciré  blanc est sans aucun doute l'une des couleurs les plus demandées en raison d'un
                         style minimaliste marqué qui est de plus en plus présent dans la décoration intérieure des
-                        maisons privées et des locaux commerciaux. Mais les sols en béton ciré gris ne sont pas loin non
+                        maisons privées et des locaux commerciaux. Mais les sols en béton ciré  gris ne sont pas loin non
                         plus. Et c'est que le style industriel gagne de plus en plus d'adhérents à sa cause, un style
                         qui donne le sentiment qu'il ne se démodera pas peu importe le temps qui passe puisqu'il
                         s'intègre parfaitement avec les bureaux, les grandes surfaces et les entrepôts. et, aussi, des
@@ -267,51 +267,51 @@
 
                     </p>
                     <p>
-                        Bien que le blanc et le gris soient les couleurs de béton ciré par excellence, il existe un
+                        Bien que le blanc et le gris soient les couleurs de béton ciré  par excellence, il existe un
                         large éventail de possibilités. Chez Topciment, nous avons plusieurs couleurs pour les sols en
-                        béton ciré en fonction du caractère que vous souhaitez imprimer dans la pièce où le sol en béton
+                        béton ciré  en fonction du caractère que vous souhaitez imprimer dans la pièce où le sol en béton
                         ciré doit être appliqué. Nous avons conçu des couleurs spécifiques en fonction des <a
-                            href="../beton-cire/produits">systèmes de béton ciré</a> que nous fabriquons.
+                            href="../beton-cire/produits">systèmes de béton ciré </a> que nous fabriquons.
 
                     </p>
-                    <h2>Nettoyage, entretien et maintenance du sol en béton ciré</h2>
+                    <h2>Nettoyage, entretien et maintenance du sol en béton ciré </h2>
 
                     <p>
-                        Le béton ciré est un revêtement qui ne nécessite pas de nettoyage et d'entretien approfondi, car
+                        Le béton ciré  est un revêtement qui ne nécessite pas de nettoyage et d'entretien approfondi, car
                         il a une très bonne résistance. Cependant, il est très pratique d'utiliser une série de produits
-                        qui amélioreront l'état optimal du sol en béton ciré pendant une période beaucoup plus longue.
+                        qui amélioreront l'état optimal du sol en béton ciré  pendant une période beaucoup plus longue.
 
                     </p>
                     <p>
-                        Pour le nettoyage du béton ciré dans les sols, chez Topciment nous avons des nettoyants
+                        Pour le nettoyage du béton ciré  dans les sols, chez Topciment nous avons des nettoyants
                         spécialisés <a
                             href="../beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-basic">Ecoclean</a>.
-                        Produits biodégradables avec lesquels le sol en béton ciré
+                        Produits biodégradables avec lesquels le sol en béton ciré 
                         maintiendra sa luminosité et son intensité de couleur à 100%.
 
                     </p>
                     <p>
-                        En ce qui concerne le soin et l'entretien des sols en béton ciré, nous disposons des cires
+                        En ce qui concerne le soin et l'entretien des sols en béton ciré , nous disposons des cires
                         protectrices <a
                             href="../beton-cire/nettoyage-et-entretien-du-beton-cire#ceraciment-basic">Ceraciment</a>.
                         Des produits qui apportent une dureté supplémentaire à la
                         chaussée pour mieux la protéger du trafic, de l'usure, des taches, etc.
 
                     </p>
-                    <h2>Conseils pour éviter les problèmes de béton ciré dans le sol</h2>
+                    <h2>Conseils pour éviter les problèmes de béton ciré  dans le sol</h2>
 
                     <p>
-                        Pendant les premiers jours après la pose du béton ciré au sol, il est essentiel que la pièce
+                        Pendant les premiers jours après la pose du béton ciré  au sol, il est essentiel que la pièce
                         soit correctement ventilée pour assurer un séchage adéquat. Car si vous ne le faites pas, la
                         finition finale du revêtement de sol continu sera loin de celle que vous cherchez à obtenir.
 
                     </p>
                     <p>
-                        De la même manière, il est essentiel d'éviter de marcher sur le sol en béton ciré dans la
+                        De la même manière, il est essentiel d'éviter de marcher sur le sol en béton ciré  dans la
                         première semaine suivant son application. Il est également important d'éviter les déversements
                         de liquides susceptibles de générer des taches importantes ou d'endommager la résine et, enfin,
                         de déplacer les meubles d'ici à là. Si tous ces conseils sont pris en compte, il n'y aura pas de
-                        problèmes futurs avec les sols en béton ciré.
+                        problèmes futurs avec les sols en béton ciré .
 
                     </p>
                     <p>
@@ -425,14 +425,14 @@
                                                     class="SIGNUP_FLD">
                                                     <input type="text"
                                                         style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                        placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                        placeholder="Nom" changeitem="SIGNUP_FORM_FIELD"
                                                         name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                     class="SIGNUP_FLD">
                                                     <input type="button"
                                                         style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType"

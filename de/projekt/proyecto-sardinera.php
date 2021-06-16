@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Luxushaus mit Mikrozement </title>
+    <title>Luxushaus mit mikrozement  </title>
     <meta name="description"
-        content="Beeindruckendes Haus mit Mikrozementböden am Meer. Casa Sardinera von dem renommierten Architekten Ramón Esteve." />
+        content="Beeindruckendes Haus mit mikrozement böden am Meer. Casa Sardinera von dem renommierten Architekten Ramón Esteve." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Luxushaus mit Mikrozement." />
+    <meta property="og:title" content="Luxushaus mit mikrozement ." />
     <meta property="og:description"
-        content="Beeindruckendes Haus mit Mikrozementböden am Meer. Casa Sardinera vom renommierten Architekten Ramón Esteve." />
+        content="Beeindruckendes Haus mit mikrozement böden am Meer. Casa Sardinera vom renommierten Architekten Ramón Esteve." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-sardinera" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Beeindruckendes Haus mit Mikrozementböden am Meer. Haus Sardinera des renommierten Architekten Ramón Esteve." />
-    <meta name="twitter:title" content="Luxushaus mit Mikrozement." />
+        content="Beeindruckendes Haus mit mikrozement böden am Meer. Haus Sardinera des renommierten Architekten Ramón Esteve." />
+    <meta name="twitter:title" content="Luxushaus mit mikrozement ." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -81,30 +81,30 @@
                         Valencianische Gemeinschaft, kombiniert Casa Sardinera Design, Modernität und Entspannung. Der
                         Stil von <u><a href="http://www.ramonesteve.com/" target="blank">Ramón Esteve Studio</a></u>
                         wird in diesem Haus mit einem <strong>"Total White"</strong> Finish projiziert, wo die
-                        <strong>Fußböden aus <a href="../mikrozemente">Mikrozement</a></strong> in
+                        <strong>Fußböden aus <a href="../mikrozemente">mikrozement </a></strong> in
                         <u>Elfenbeinfarbe</u> in Harmonie mit den restlichen Elementen wirken.
                 </div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInRight" style="float:left"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera10.jpg" width="100%"
-                        alt="Mikrozementböden en salon"></div>
+                        alt="mikrozement böden en salon"></div>
                 <div id="separador20px"></div>
 
 
                 <div class="img-fluid wow fadeInLeft" style="float:left; width:49%;"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera06.jpg" width="100%"
-                        alt="microcemento Topciment en piscinas"></div>
+                        alt="mikrozement Topciment en piscinas"></div>
 
                 <div class="img-fluid wow fadeInRight" style="float:right; width:49%;"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera01.jpg" width="100%"
-                        alt="microcemento Topciment en terrazas"></div>
+                        alt="mikrozement Topciment en terrazas"></div>
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInRight" style="float:left"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera05.jpg" width="100%"
-                        alt="colores de microcemento Topciment"></div>
+                        alt="colores de mikrozement Topciment"></div>
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInLeft" style="float:left;"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera06a.jpg" width="100%"
-                        alt="Topciment microcemento Casa Sardinera">
+                        alt="Topciment mikrozement Casa Sardinera">
                 </div>
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInRight" style="float:left;"><img
@@ -118,7 +118,7 @@
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInRight" style="float:left;"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera_32.jpg" width="100%"
-                        alt="Aplicacion de microcemento Casa Sardinera"></div>
+                        alt="Aplicacion de mikrozement Casa Sardinera"></div>
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInLeft" style="float:left"><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera08.jpg" width="100%"
@@ -126,7 +126,7 @@
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="img-fluid wow fadeInLeft" style="float:left; "><img
                         src="https://www.topciment.com/imagenes/proyecto-sardinera12.jpg" width="100%"
-                        alt="Mikrozementböden"></div>
+                        alt="mikrozement böden"></div>
                 <div id="separador20px"></div>
 
                 <div class="img-fluid wow fadeInLeft" style="float:left; width:49%;"><img

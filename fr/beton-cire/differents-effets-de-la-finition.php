@@ -14,7 +14,7 @@
     <?php include("../../assets/includes/styles.php"); ?>
 
     <title>Les différents effets de la finition</title>
-    <meta name="description" content="L'application de béton ciré est un travail artisanal dans lequel différentes finitions peuvent être réalisées avec le même matériau."/>
+    <meta name="description" content="L'application de béton ciré  est un travail artisanal dans lequel différentes finitions peuvent être réalisées avec le même matériau."/>
 
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/differents-effets-de-la-finition"/>
@@ -48,7 +48,7 @@
                         <div class="container">
                             <div class="content">
 
-                                <h3 style="text-align:left; ;" >L'application de <a href="../information-beton-cire.html">béton ciré</a> est un
+                                <h3 style="text-align:left; ;" >L'application de <a href="../information-beton-cire.html">béton ciré </a> est un
                                     travail artisanal dans lequel différentes finitions peuvent être réalisées avec le
                                     même matériau. Certains effets peuvent être ce que nous recherchons et d'autres non.
                                     La façon dont ils sont produits sera démontrée dans la section suivante, et donc
@@ -92,11 +92,11 @@
                         <p>
                             Nous disons toujours que chaque couche doit être appliquée comme si elle était la dernière;
                             à cause de l'épaisseur du matériau, tout contour ou imperfection sur la couche précédente
-                            apparaîtra à travers. Cependant, cette caractéristique du béton ciré peut être utilisée
+                            apparaîtra à travers. Cependant, cette caractéristique du béton ciré  peut être utilisée
                             favorablement pour créer des textures.</strong></p>
                         <div id="columnaSeparadoraIzquierda">&nbsp;</div>
                         <div id="mitadTextoIzquierda" >
-                            <img src="https://www.topciment.com/imagenes/microcemento-efecto-piedra.jpg" width="100%" alt="Couleurs et Types du Béton Ciré" title="Couleurs et Types du Béton Ciré">
+                            <img src="https://www.topciment.com/imagenes/microcemento-efecto-piedra.jpg" width="100%" alt="Couleurs et Types du béton ciré " title="Couleurs et Types du béton ciré ">
                         </div>
                         <div id="mitadTextoDerecha" >
                             <img src="https://www.topciment.com/imagenes/microcemento-con-efecto-piedra.jpg" width="100%" alt="La méthode d’application" title="La méthode d’application">
@@ -107,7 +107,7 @@
                             <div class="container">
                                 <div id="columnaSeparadoraIzquierda">&nbsp;</div>
                                 <div id="mitadTextoIzquierda" >
-                                    <h2>Couleurs et Types du Béton Ciré</h2>
+                                    <h2>Couleurs et Types du béton ciré </h2>
                                     L'effet de filigrane sera plus apparent avec Microfino qu'avec Microdeck, comme avec les
                                     couleurs foncées, tandis qu'avec les couleurs blancs et blancs cassés, les eaux seront presque
                                     imperceptibles.
@@ -128,7 +128,7 @@
                                 <div id="columnaSeparadoraIzquierda">&nbsp;</div>
                                 <div id="mitadTextoIzquierda" >
                                     <h2>La méthode d’application</h2>
-                                    La méthode d'application "frais sur frais" n'est appliquée qu'avec les Béton cirés de
+                                    La méthode d'application "frais sur frais" n'est appliquée qu'avec les béton ciré s de
                                     finition. Elle comprend l'application d'une deuxième couche, lorsque la précédente n'est pas
                                     complètement sèche, permettant ainsi d'incruster les particules d'agrégats plus épais dans lapches-ou-marques-indesirables-en-appliquant-le-beton-cire
                                     première couche, donnant une finition plus lisse et plus uniforme. 
@@ -144,7 +144,7 @@
 
                         <div class="wow fadeInRight" style="float:left; text-align:justify; font-size:16px; margin-left:0; margin-top:0;" >
                             <h2>Le mouvement de la truelle</h2>
-                            <p>Pour obtenir une finition naturelle dans le béton ciré, sans lignes d'incision ou marques
+                            <p>Pour obtenir une finition naturelle dans le béton ciré , sans lignes d'incision ou marques
                                 répétitives, il est important de "casser le dessin" avec le mouvement de la truelle.
                                 Comme on peut le voir dans la vidéo, le matériau est appliqué avec la truelle dans
                                 toutes les directions, sans suivre un motif géométrique.</p>

@@ -3,40 +3,43 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="theme-color" content="#000"/>
-  <meta name="viewport" content="width=device-width"/>
+  <meta name="theme-color" content="#000" />
+  <meta name="viewport" content="width=device-width" />
   <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
-  <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-  <meta name="Language" content="ES"/>
+  <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
+  <meta name="Language" content="ES" />
 
 
 
   <?php include("../assets/../assets/includes/root-styles.php"); ?>
-  <link rel="preload" href="../assets/css/microcemento.css" as="style"/>
-  <link rel="stylesheet" href="../assets/css/microcemento.css"/>
+  <link rel="preload" href="../assets/css/microcemento.css" as="style" />
+  <link rel="stylesheet" href="../assets/css/microcemento.css" />
   <!-- ********** END NEW LINKS ********** -->
 
   <title>¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas </title>
-  <meta name="description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
-  <meta property="og:locale" content="es_ES"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
-  <meta property="og:description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
-  <meta property="og:url" content="https://www.topciment.com/es/microcementos"/>
-  <meta property="og:site_name" content="Topciment"/>
-  <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:description" content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores."/>
-  <meta name="twitter:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas "/>
-  <meta name="twitter:site" content="@topciment"/>
-  <meta name="twitter:creator" content="@topciment"/>
-  <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
+  <meta name="description"
+    content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores." />
+  <meta property="og:locale" content="es_ES" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas " />
+  <meta property="og:description"
+    content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores." />
+  <meta property="og:url" content="https://www.topciment.com/es/microcementos" />
+  <meta property="og:site_name" content="Topciment" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description"
+    content="Aprende todo sobre el microcemento, el revestimiento decorativo del momento: qué es, tipos, dónde se puede aplicar, ventajas y colores." />
+  <meta name="twitter:title" content="¿Qué es el Microcemento? Usos, aplicación, tipos, colores y ventajas " />
+  <meta name="twitter:site" content="@topciment" />
+  <meta name="twitter:creator" content="@topciment" />
+  <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
-  <link rel="canonical" href="https://www.topciment.com/es/microcementos"/>
+  <link rel="canonical" href="https://www.topciment.com/es/microcementos" />
 
-  <link rel="alternate" href="https://www.topciment.com/es/microcementos" hreflang="es-ES"/>
-  <link rel="alternate" href="https://www.topciment.com/en/microcement" hreflang="en-GB"/>
-  <link rel="alternate" href="https://www.topciment.com/fr/information-beton-cire" hreflang="fr-FR"/>
-<link rel="alternate" href="https://topciment.com/pl/mikrocementy" hreflang="pl-PL" />
+  <link rel="alternate" href="https://www.topciment.com/es/microcementos" hreflang="es-ES" />
+  <link rel="alternate" href="https://www.topciment.com/en/microcement" hreflang="en-GB" />
+  <link rel="alternate" href="https://www.topciment.com/fr/information-beton-cire" hreflang="fr-FR" />
+  <link rel="alternate" href="https://topciment.com/pl/mikrocementy" hreflang="pl-PL" />
 
 
   <?php include("../assets/../assets/includes/root-scripts-head.php"); ?>
@@ -81,7 +84,8 @@
             horizontales
             gracias a su gran adherencia.</strong> Y es que este material de construcción destaca porque se coloca
           directamente
-          sobre el material ya existente: azulejos, pladur, baldosas, mármol, terrazo o yeso, entre otros muchos. Con apenas obra y un
+          sobre el material ya existente: azulejos, pladur, baldosas, mármol, terrazo o yeso, entre otros muchos. Con
+          apenas obra y un
           espesor de tan solo 3 milímetros, se logra una rápida renovación de los espacios.</p>
 
         <p>Un recubrimiento a la vanguardia, <strong>sin juntas</strong> e idóneo tanto para espacios exteriores como
@@ -104,7 +108,9 @@
       </div>
       <div class="separador"></div>
     </div>
-    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/microcemento/salon.jpg');" data-img-width="1920" data-img-height="1280" data-diff="100" background-position="top">
+    <div class="fullscreen background parallax"
+      style="background-image:url('https://www.topciment.com/imagenes/microcemento/salon.jpg');" data-img-width="1920"
+      data-img-height="1280" data-diff="100" background-position="top">
     </div>
 
 
@@ -129,13 +135,17 @@
           así la limpieza y desinfección, contribuyendo a obtener lugares libres de gérmenes y bacterias.</p>
         <p>
           Además, nuestros microcementos garantizan una elevada resistencia en las zonas más expuestas al tránsito así
-          como a los productos de limpieza más agresivos. De ahí la elevada demanda del <strong><a class="links" href="noticia/cocinas-de-microcemento-ventajas-estilos-consejos">microcemento en cocinas </a></strong>
+          como a los productos de limpieza más agresivos. De ahí la elevada demanda del <strong><a class="links"
+              href="noticia/cocinas-de-microcemento-ventajas-estilos-consejos">microcemento en cocinas </a></strong>
           y los <strong><a class="links" href="noticia/6-razones-banos-microcemento-seran-tendencia"> baños de
               microcemento </a></strong> .</p>
 
 
         <figure>
-          <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen4.jpg" alt="Suelo de microcemento salón comedor vivienda Hernán Cortés" title="microcemento suelo salón comedor vivienda Hernán Cortés"/></a>
+          <img class="mt-4 foto-microcemento img-fluid"
+            src="https://www.topciment.com/imagenes/microcemento/imagen4.jpg"
+            alt="Suelo de microcemento salón comedor vivienda Hernán Cortés"
+            title="microcemento suelo salón comedor vivienda Hernán Cortés" /></a>
           <figcaption>Imagen del moderno salón comedor de la vivienda Hernán Cortés. Nuestro microcemento color Hierro
             004 en el suelo aporta luminosidad a la estancia. </figcaption>
         </figure>
@@ -146,52 +156,69 @@
       <div class="content">
         <h3> Microcemento en paredes</h3>
         <p>El microcemento es un material de construcción altamente recomendado para revestir todo tipo de paredes y
-          fachadas. En nuestra galería encontraras diferentes paredes de microcemento Topciment con las que <strong><a class="links" href="microcemento/galeria#paredes">inspirarte </a></strong>.
+          fachadas. En nuestra galería encontraras diferentes paredes de microcemento Topciment con las que inspirarte.
+          Si quieres completar la información sobre el <strong><a class="links" href="noticia/revestimiento-de-paredes">microcemento en paredes</a></strong>, lee nuestro post.
         </p>
 
         <h3>Suelos de microcemento</h3>
-        <p>Los pavimentos continuos de microcemento no solo son muy atractivos a la vista, sino que poseen interesantes
-          cualidades. Explora <strong><a class="links" href="microcemento/galeria#suelos">nuestra galería </a> </strong>
-          descubre todos los suelos de microcemento que se pueden crear con
-          Topciment.</p>
+        <p>interesantes cualidades. Explora nuestra galería y descubre todos los suelos de microcemento que se pueden
+          crear con Topciment. Si te has quedado con ganas de saber más, te recomendamos que leas nuestro artículo de
+         <strong> <a class="links" href="noticia/suelos-de-microcemento"> suelos de microcemento</a></strong>.</p>
 
         <h3>Baños de microcemento</h3>
         <p>El microcemento es un revestimiento decorativo perfecto para renovar el cuarto de baño, especialmente por su
-          resistencia a la humedad y lo sencillo que es de limpiar. Echa un vistazo a todos los baños de microcemento
-          que son posibles con los microcementos Topciment en <strong><a class="links" href="microcemento/galeria#banyos">nuestra galería </a> </strong>. </p>
+          resistencia a la humedad y lo sencillo que es de limpiar.
+          Echa un vistazo a todos los baños de microcemento que son posibles con los microcementos Topciment en nuestra
+          galería o lee nuestro artículo sobre
+          los<strong> <a class="links" href="noticia/6-razones-banos-microcemento-seran-tendencia">baños de microcemento</a></strong>.
+        </p>
 
         <figure>
-          <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen3.jpg" alt="Baño de microcemento en paredes y suelo Casa Isabel" title="microcemento paredes y suelo baño Casa Isabel"/></a>
+          <img class="mt-4 foto-microcemento img-fluid"
+            src="https://www.topciment.com/imagenes/microcemento/imagen3.jpg"
+            alt="Baño de microcemento en paredes y suelo Casa Isabel"
+            title="microcemento paredes y suelo baño Casa Isabel" /></a>
           <figcaption>Bonito baño de microcemento de estilo rústico. Las paredes y suelo han sido recubiertas con
             nuestro microcemento color Kalahari. </figcaption>
         </figure>
         <h3>Microcemento en cocinas</h3>
-        <p>El microcemento en cocinas puede utilizarse de muchas maneras. Se puede recubrir suelos y paredes, techos,
-          pilas y encimeras de cocina prácticamente de todos los colores que puedas imaginar. Cocinas de microcemento de
-          todos los estilos y tamaños. Te invitamos comprobarlo en <strong><a class="links" href="microcemento/galeria#cocinas">nuestra galería </a> </strong>.</p>
+        <p>El microcemento en cocinas puede utilizarse de muchas maneras. Se puede recubrir suelos y paredes,
+          techos, pilas y encimeras de cocina prácticamente de todos los colores que puedas imaginar. Cocinas de
+          microcemento de todos los estilos y tamaños.
+          Te invitamos a comprobarlo en el artículo de nuestro blog sobre <strong><a class="links" href="noticia/cocinas-de-microcemento-ventajas-estilos-consejos">cocinas de microcemento</a></strong> .
+        </p>
 
         <h3>Escaleras de microcemento</h3>
         <p>La versatilidad del microcemento permite que se pueda utilizar incluso en escaleras, aunque el trabajo del
-          aplicador sea algo más complejo. Con los microcementos de Topciment se pueden diseña escaleras de microcemento
-          espectaculares. Descúbrelas <strong><a class="links" href="microcemento/galeria#escaleras">nuestra galería
-            </a> </strong> </p>
+          aplicador sea algo más complejo.
+          Con los microcementos de Topciment se pueden diseña escaleras de microcemento espectaculares. Descúbrelas en
+          nuestro post de <strong><a class="links" href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente">escaleras de microcemento</a></strong> .
+        </p>
         <h3>Piscinas de microcemento</h3>
         <p>Revestir la corona y la zona alrededor de la piscina con microcemento es un éxito asegurado. El carácter
-          antideslizante e impermeable de nuestros revestimientos decorativos, así como su excelente resistencia a los
-          rayos UV son idóneos para recubrir piscinas interiores y exteriores. En <strong><a class="links" href="microcemento/galeria#piscinas">nuestra galería </a> </strong> encontrarás todo tipo
-          de piscinas de microcemento. </p>
+          antideslizante e impermeable de nuestros revestimientos decorativos,
+          así como su excelente resistencia a los rayos UV son idóneos para recubrir piscinas interiores y exteriores.
+          En nuestro blog encontrarás todo lo que tienes que saber y las ventajas de
+          las <strong><a class="links" href="noticia/piscinas-de-microcemento-la-mejor-opcion-posible">piscinas de microcemento</a></strong>.
+        </p>
 
         <h3>Microcemento exterior</h3>
         <p>El microcemento es un revestimiento continuo excelente también para superficies exteriores como suelos de
-          terrazas, patios de casas residenciales o fachadas y paredes de edificios. Visita <strong><a class="links" href="microcemento/galeria#exterior">nuestra galería </a> </strong>
-          y descubre
-          todas las opciones de aplicar microcemento en exteriores.</p>
+          terrazas, patios de casas residenciales
+          o fachadas y paredes de edificios. Visita nuestra galería o lee nuestro post y descubre todas las opciones de
+          aplicar <strong><a class="links" href="noticia/diseno-y-confort-para-espacios-exteriores">microcemento en exteriores</a></strong>.
+        </p>
 
-          <p>Ahora que ya sabes dónde se puede aplicar, ha llegado el momento de que aprendas cómo hacerlo. 
-             <a class="links" href="microcemento/metodos-de-aplicacion-microcemento">En esta página</a> encontrarás el paso a paso de la aplicación de microcemento en suelos, paredes y piscinas.</p>
+        <p>
+          Ahora que ya sabes dónde se puede aplicar, ha llegado el momento de que aprendas cómo hacerlo. En esta página
+          encontrarás el paso a paso de la<strong><a class="links" href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso"> aplicación de microcemento </a></strong> en suelos, paredes y
+          piscinas.
+        </p>
       </div>
     </div>
-    <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/microcemento/imagen1.jpg');" data-img-width="1920" data-img-height="1281" data-diff="100" background-position="top">
+    <div class="fullscreen background parallax"
+      style="background-image:url('https://www.topciment.com/imagenes/microcemento/imagen1.jpg');" data-img-width="1920"
+      data-img-height="1281" data-diff="100" background-position="top">
     </div>
 
 
@@ -202,7 +229,8 @@
         <div class="content">
           <span id="tipos-de-microcemento" class="ancla"></span>
           <h2>Tipos de Microcemento</h2>
-          <p> <strong>En Topciment somos mucho más que <a class="links" href="microcemento/fabricante-microcemento">fabricantes de microcemento</a></strong>.
+          <p> <strong>En Topciment somos mucho más que <a class="links"
+                href="microcemento/fabricante-microcemento">fabricantes de microcemento</a></strong>.
             Somos especialistas, y es por eso que marcamos la diferencia.</p>
           <p>Llevamos casi dos décadas escuchando a los profesionales del sector para conocer sus inquietudes y
             carencias. Gracias a ello, hemos desarrollado diferentes tipos de microcemento que se adecúan a sus
@@ -213,7 +241,9 @@
 
           <div class="row">
             <div class="col-md-5">
-              <a href="microcemento/microcemento-bicomponente-sttandard" target="_blank"><img class="imgmicro img-fluid" src=" https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
+              <a href="microcemento/microcemento-bicomponente-sttandard" target="_blank"><img class="imgmicro img-fluid"
+                  src=" https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png"
+                  alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7 my-auto">
               <h3>Microcemento bicomponente Topciment</h3>
@@ -225,7 +255,10 @@
           <hr>
           <div class="row">
             <div class="col-md-5">
-              <a href="microcemento/microcemento-bicomponente-unlimitted" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png" alt="Logo Unlimitted microcemento bicomponente" title="Logo Unlimitted microcemento bicomponente"></a>
+              <a href="microcemento/microcemento-bicomponente-unlimitted" target="_blank"><img
+                  class="imgmicro img-fluid"
+                  src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png"
+                  alt="Logo Unlimitted microcemento bicomponente" title="Logo Unlimitted microcemento bicomponente"></a>
             </div>
             <div class="col-md-7">
               <p class="mt-2">Por otro lado <strong style="color:#d9da23;"> UNLIMITTED</strong>, la nueva línea de
@@ -238,11 +271,16 @@
 
           <div class="row">
             <div class="col-md-5">
-              <a href="microcemento/microcemento-monocomponente-evoluttion" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png" alt="Logo Evoluttion microcemento monocomponente" title="Logo Evoluttion microcemento monocomponente"></a>
+              <a href="microcemento/microcemento-monocomponente-evoluttion" target="_blank"><img
+                  class="imgmicro img-fluid"
+                  src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png"
+                  alt="Logo Evoluttion microcemento monocomponente"
+                  title="Logo Evoluttion microcemento monocomponente"></a>
             </div>
             <div class="col-md-7">
               <h3>Microcemento monocomponente Topciment</h3>
-              <p class="mt-2">Simplificar las mezclas reduce futuros errores. Eso es lo que garantiza <strong style="color:#e30514;">EVOLUTTION</strong>, nuestro microcemento monocomponente. Confiere muy buenas
+              <p class="mt-2">Simplificar las mezclas reduce futuros errores. Eso es lo que garantiza <strong
+                  style="color:#e30514;">EVOLUTTION</strong>, nuestro microcemento monocomponente. Confiere muy buenas
                 resistencias mecánicas y gran trabajabilidad del material.
             </div>
           </div>
@@ -250,7 +288,9 @@
           <div class="row">
             <div class="col-md-5">
               <a href="microcemento/microcemento-para-piscinas-atlanttic" target="_blank">
-                <img class="imgmicro " width="92" src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png" alt="Logo Atlanttic microcemento bicomponente" title="Logo Atlanttic microcmento bicomponente"></a>
+                <img class="imgmicro " width="92"
+                  src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png"
+                  alt="Logo Atlanttic microcemento bicomponente" title="Logo Atlanttic microcmento bicomponente"></a>
             </div>
             <div class="col-md-7">
               <h3>Microcemento para piscinas Topciment</h3>
@@ -263,11 +303,14 @@
           <hr>
           <div class="row">
             <div class="col-md-5">
-              <a href="microcemento/microcemento-listo-al-uso-efectto" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
+              <a href="microcemento/microcemento-listo-al-uso-efectto" target="_blank"><img class="imgmicro img-fluid"
+                  src="https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png"
+                  alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7">
               <h3>Microcemento listo al uso Topciment</h3>
-              <p class="mt-2">Ningún otro microcemento asegura una aplicación tan rápida como <strong style="color:#e5007d;">EFECTTO QUARTZ</strong>,nuestro microcemento listo al uso disponible en 4
+              <p class="mt-2">Ningún otro microcemento asegura una aplicación tan rápida como <strong
+                  style="color:#e5007d;">EFECTTO QUARTZ</strong>,nuestro microcemento listo al uso disponible en 4
                 granulometrías. No solo se reduce el tiempo empleado en la obra, sino que los acabados son de lo más
                 natural.</p>
             </div>
@@ -278,7 +321,9 @@
         </div>
       </div>
       <div class="fullscreen background
-       parallax imagen1" style="background-position: 40% -505.09px !important; background-image:url('https://www.topciment.com/imagenes/microcemento/imagen2.jpg');" data-img-width="1920" data-img-height="1281" data-diff="100" background-position="top">
+       parallax imagen1"
+        style="background-position: 40% -505.09px !important; background-image:url('https://www.topciment.com/imagenes/microcemento/imagen2.jpg');"
+        data-img-width="1920" data-img-height="1281" data-diff="100" background-position="top">
         <div class="content-a">
         </div>
       </div>
@@ -296,7 +341,8 @@
             interiores y exteriores.</p>
           <p><i class="fa fa-check"></i> Gran variedad colores microcemento y texturas</p>
           <p><i class="fa fa-check"></i> Aplicación artesanal. Resultado exclusivo y personalizado</p>
-          <p><i class="fa fa-check"></i> Alta adherencia. Compatible con azulejos, mármol, cerámica, baldosas, gres, terrazo, pladur,
+          <p><i class="fa fa-check"></i> Alta adherencia. Compatible con azulejos, mármol, cerámica, baldosas, gres,
+            terrazo, pladur,
             hormigón, cemento, yeso, etc.</p>
           <p><i class="fa fa-check"></i> Resistente al tránsito, golpes, ralladuras y productos químicos.</p>
           <p><i class="fa fa-check"></i> Impermeable.</p>
@@ -310,7 +356,10 @@
 
 
           <figure>
-            <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen5.jpg" alt="Suelo microcemento salón comedor Casa Sardinera" title="microcemento suelo salón comedor Casa Sardinera"/></a>
+            <img class="mt-4 foto-microcemento img-fluid"
+              src="https://www.topciment.com/imagenes/microcemento/imagen5.jpg"
+              alt="Suelo microcemento salón comedor Casa Sardinera"
+              title="microcemento suelo salón comedor Casa Sardinera" /></a>
             <figcaption>Paredes de microcemento blanco en el interior de la vivienda Carmen House
               (Denia). </figcaption>
           </figure>
@@ -329,7 +378,8 @@
             suciedad y que pueda convertir en impermeable la superficie a recubrir.</p>
 
           <div class="row">
-            <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
+            <div class="col-md-1"><img class="img-fluid acabado"
+                src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
               <h3>Microcemento acabado mate</h3>
@@ -339,14 +389,17 @@
           </div>
 
           <div class="row">
-            <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Supermate.jpg" alt="Acabado mate" title="acabado mate"></div>
+            <div class="col-md-1"><img class="img-fluid acabado"
+                src="https://www.topciment.com/imagenes/topsealer/Supermate.jpg" alt="Acabado mate"
+                title="acabado mate"></div>
             <div class="col-md-11 my-auto">
               <h3>Microcemento acabado super mate</h3>
               <p>Ideal para cuando se busca un acabado mate profundo, sin brillo.</p>
             </div>
           </div>
           <div class="row">
-            <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Satinado.jpg" alt="Acabado mate" title="acabado mate">
+            <div class="col-md-1"><img class="img-fluid acabado"
+                src="https://www.topciment.com/imagenes/topsealer/Satinado.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
               <h3>Microcemento acabado satinado</h3>
@@ -355,7 +408,8 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Brillo.jpg" alt="Acabado mate" title="acabado mate">
+            <div class="col-md-1"><img class="img-fluid acabado"
+                src="https://www.topciment.com/imagenes/topsealer/Brillo.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
               <h3>Microcemento acabado brillo</h3>
@@ -363,7 +417,8 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
+            <div class="col-md-1"><img class="img-fluid acabado"
+                src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
               <h3>Microcemento acabado mate antideslizante</h3>
@@ -374,7 +429,9 @@
 
         </div>
       </div>
-      <div class="fullscreen background parallax imagen1" style="background-image:url('https://www.topciment.com/imagenes/microcemento/catalogo.jpg');" data-img-width="1920" data-img-height="1280" data-diff="100" background-position="top">
+      <div class="fullscreen background parallax imagen1"
+        style="background-image:url('https://www.topciment.com/imagenes/microcemento/catalogo.jpg');"
+        data-img-width="1920" data-img-height="1280" data-diff="100" background-position="top">
         <div class="content-a">
         </div>
       </div>
@@ -389,19 +446,35 @@
             microcemento
             disponibles para nuestros sistemas. Elige el que mejor se adapte a tu proyecto aquí.</p>
 
-          <p><a class="links" href="microcemento/microcemento-bicomponente-sttandard#colores"><i class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong style="color: #7e91a6;">STTANDARD</strong> aquí.</a></p>
-          <p><a class="links" href="microcemento/microcemento-bicomponente-unlimitted#colores"><i class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong style="color:#d9da23;">UNLIMITTED</strong> aquí.</a></p>
-          <p><a class="links" href="microcemento/microcemento-monocomponente-evoluttion#colores"><i class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong style="color:#e30514;">EVOLUTTION</strong> aquí.</a></p>
-          <p><a class="links" href="microcemento/microcemento-para-piscinas-atlanttic#colores"><i class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong style="color:#4c86c3;">ATLANTTIC</strong> aquí.</a></p>
+          <p><a class="links" href="microcemento/microcemento-bicomponente-sttandard#colores"><i
+                class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong
+                style="color: #7e91a6;">STTANDARD</strong> aquí.</a></p>
+          <p><a class="links" href="microcemento/microcemento-bicomponente-unlimitted#colores"><i
+                class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong
+                style="color:#d9da23;">UNLIMITTED</strong> aquí.</a></p>
+          <p><a class="links" href="microcemento/microcemento-monocomponente-evoluttion#colores"><i
+                class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong
+                style="color:#e30514;">EVOLUTTION</strong> aquí.</a></p>
+          <p><a class="links" href="microcemento/microcemento-para-piscinas-atlanttic#colores"><i
+                class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong
+                style="color:#4c86c3;">ATLANTTIC</strong> aquí.</a></p>
 
-          <p> <a class="links" href="microcemento/microcemento-listo-al-uso-efectto#colores"><i class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong style="color:#e5007d;">EFECTTO</strong>
+          <p> <a class="links" href="microcemento/microcemento-listo-al-uso-efectto#colores"><i
+                class="fas fa-arrow-circle-right"></i> Descubre todos los colores de <strong
+                style="color:#e5007d;">EFECTTO</strong>
               aquí.</a> </p>
 
-          <p><a class="links" href="microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium"><i class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong style="color:#95969e;">PURE
+          <p><a class="links" href="microcemento/revestimiento-metalico-pure-mettal#puremetal-aluminium"><i
+                class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong
+                style="color:#95969e;">PURE
                 METTAL</strong> aquí.</a></p>
-          <p><a class="links" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal#puremetal-aluminium"><i class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong style="color:#9c611b;">CLASSIC
+          <p><a class="links" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal#puremetal-aluminium"><i
+                class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong
+                style="color:#9c611b;">CLASSIC
                 METTAL</strong> aquí.</a></p>
-          <p><a class="links" href="microcemento/veladuras-metalicas-elitte#elitte-glaze"><i class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong style="color:#ee7269;">ELITTE</strong>
+          <p><a class="links" href="microcemento/veladuras-metalicas-elitte#elitte-glaze"><i
+                class="fas fa-arrow-circle-right "></i> Descubre todos los colores de <strong
+                style="color:#ee7269;">ELITTE</strong>
               aquí.</a></p>
 
 
@@ -410,9 +483,11 @@
       </div>
 
     </section>
-    <div><img class="imgiz" src="https://www.topciment.com/imagenes/microcemento-imagen06.jpg" width="100%" alt="microcementos">
+    <div><img class="imgiz" src="https://www.topciment.com/imagenes/microcemento-imagen06.jpg" width="100%"
+        alt="microcementos">
     </div>
-    <div><img class="imgde" src="https://www.topciment.com/imagenes/microcemento-imagen05.jpg" width="100%" alt="microcementos">
+    <div><img class="imgde" src="https://www.topciment.com/imagenes/microcemento-imagen05.jpg" width="100%"
+        alt="microcementos">
     </div>
     <div class="container">
       <div class="content">
@@ -426,7 +501,8 @@
           <!-- Pregunta 1 -->
           <div class="card">
             <div id="heading1" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1" class="d-block position-relative     collapsible-link py-2">1.
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true"
+                  aria-controls="collapse1" class="d-block position-relative     collapsible-link py-2">1.
 
                   ¿Cuál es la resistencia y dureza del microcemento?</a></h3>
             </div>
@@ -441,63 +517,70 @@
 
 
                 <p>
-                  <a href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
-                <div class="ocultable" id="texto1_1" style="text-align:left;font-size:16px;">
+                  <a href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
+                    style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                  <div class="ocultable" id="texto1_1" style="text-align:left;font-size:16px;">
 
 
-                  <p><strong>Resistencias mecánicas</strong><br>
-                    <strong> Resistencia del microcemento a golpes:</strong> unque el microcemento es es un material
-                    relativamente duro, la resistencia a un impacto depende en cierta medida de la dureza del soporte.
-                    El microcemento, debido a su bajo espesor, se deformará ante un fuerte golpe si el soporte se
-                    deforma.
-                  </p>
+                    <p><strong>Resistencias mecánicas</strong><br>
+                      <strong> Resistencia del microcemento a golpes:</strong> unque el microcemento es es un material
+                      relativamente duro, la resistencia a un impacto depende en cierta medida de la dureza del soporte.
+                      El microcemento, debido a su bajo espesor, se deformará ante un fuerte golpe si el soporte se
+                      deforma.
+                    </p>
 
-                  <p>Por ejemplo, si aplicamos microcemento sobre yeso y la base se deforma por ser poco resistente,
-                    el microcemento se deformará también. En cambio si aplicamos microcemento sobre terrazo o soportes
-                    similares, la resistencia del microcemento será mayor.</p>
+                    <p>Por ejemplo, si aplicamos microcemento sobre yeso y la base se deforma por ser poco resistente,
+                      el microcemento se deformará también. En cambio si aplicamos microcemento sobre terrazo o soportes
+                      similares, la resistencia del microcemento será mayor.</p>
 
-                  <p><strong>Resistencia del microcemento a la abrasión y al desgaste:</strong> La resistencia del
-                    microcemento a la abrasión o al desgaste depende también del tipo de microcemento y del sellador
-                    que se utilice. Topciment dispone de tres revestimientos continuos para pavimentos: Sttandard
-                    MicroDeck y MicroStone, Evoluttion Microdeck y Efectto Medium. Todos son revestimientos con áridos
-                    seleccionados de mayor tamaño de partícula, por lo que los hacen más resistentes a la compresión y
-                    a la abrasión.
-                    <br>
-                  </p>
-                  <p>Sttandard y Evoluttion Microfino o Efectto Small, por su menor resistencia, se reservan para el
-                    recubrimiento de paredes. En cuanto a los selladores, aunque las resistencias sean las mismas, a
-                    mayor brillo más visibles son las marcas de desgaste. Los acabados mate, no reflejan la luz o lo
-                    hacen mínimamente y los acabados satinados acabados satinados son los más naturales. </p>
-                  <p><strong>Resistencias químicas</strong><br>
-                    <strong>Resistencia del microcemento a manchas y líquidos:</strong> La resistencia del
-                    microcemento a manchas y líquidos dependerá del sellador empleado para proteger al recubrimiento.
-                    El sellador es la capa final de la aplicación del microcemento, que es la que le confiere la
-                    impermeabilidad y protección frente a las manchas. Nuestros selladores Topsealer confieren una
-                    gran resistencia a manchas y líquidos. Según las diferentes pruebas realizadas los selladores
-                    Topsealers protegen de las manchas de aceite, bebida cola, vino tinto y similares.
+                    <p><strong>Resistencia del microcemento a la abrasión y al desgaste:</strong> La resistencia del
+                      microcemento a la abrasión o al desgaste depende también del tipo de microcemento y del sellador
+                      que se utilice. Topciment dispone de tres revestimientos continuos para pavimentos: Sttandard
+                      MicroDeck y MicroStone, Evoluttion Microdeck y Efectto Medium. Todos son revestimientos con áridos
+                      seleccionados de mayor tamaño de partícula, por lo que los hacen más resistentes a la compresión y
+                      a la abrasión.
+                      <br>
+                    </p>
+                    <p>Sttandard y Evoluttion Microfino o Efectto Small, por su menor resistencia, se reservan para el
+                      recubrimiento de paredes. En cuanto a los selladores, aunque las resistencias sean las mismas, a
+                      mayor brillo más visibles son las marcas de desgaste. Los acabados mate, no reflejan la luz o lo
+                      hacen mínimamente y los acabados satinados acabados satinados son los más naturales. </p>
+                    <p><strong>Resistencias químicas</strong><br>
+                      <strong>Resistencia del microcemento a manchas y líquidos:</strong> La resistencia del
+                      microcemento a manchas y líquidos dependerá del sellador empleado para proteger al recubrimiento.
+                      El sellador es la capa final de la aplicación del microcemento, que es la que le confiere la
+                      impermeabilidad y protección frente a las manchas. Nuestros selladores Topsealer confieren una
+                      gran resistencia a manchas y líquidos. Según las diferentes pruebas realizadas los selladores
+                      Topsealers protegen de las manchas de aceite, bebida cola, vino tinto y similares.
 
-                  <p>Las manchas en microcemento de vinagre o zumo de limón, dejan ligeras marcas a partir de las
-                    dos horas de exposición. A esta superficie le afecta el ácido al igual que al mármol, aunque si
-                    actuamos limpiando rápidamente, no quedarán marcas.
-                    Las manchas de salfumán, lejía pura, acetona y amoniaco dejan marca a partir de la media hora de
-                    exposición. No obstante, si limpiamos el microcemento rápidamente, no quedarán marcas. Hay que
-                    tener en cuenta también la textura del microcemento y la dificultad de limpieza.</p>
-                  </p>
-                  <p style="font-size:16px; margin-bottom:5px">&nbsp;</p>
-                  <div style="float:none; clear:both; height:20px;"></div>
+                      <p>Las manchas en microcemento de vinagre o zumo de limón, dejan ligeras marcas a partir de las
+                        dos horas de exposición. A esta superficie le afecta el ácido al igual que al mármol, aunque si
+                        actuamos limpiando rápidamente, no quedarán marcas.
+                        Las manchas de salfumán, lejía pura, acetona y amoniaco dejan marca a partir de la media hora de
+                        exposición. No obstante, si limpiamos el microcemento rápidamente, no quedarán marcas. Hay que
+                        tener en cuenta también la textura del microcemento y la dificultad de limpieza.</p>
+                    </p>
+                    <p style="font-size:16px; margin-bottom:5px">&nbsp;</p>
+                    <div style="float:none; clear:both; height:20px;"></div>
 
-                  <div id="tresColumnasIzquierdaImagen"><img src="https://www.topciment.com/imagenes/golpe-y-marca-en-suelo-de-microcemento.jpg" alt="suelo de microcemento con marca" width="100%"><br>
-                    Marca por golpe fuerte con objeto punzante en suelo de Microdeck</div>
+                    <div id="tresColumnasIzquierdaImagen"><img
+                        src="https://www.topciment.com/imagenes/golpe-y-marca-en-suelo-de-microcemento.jpg"
+                        alt="suelo de microcemento con marca" width="100%"><br>
+                      Marca por golpe fuerte con objeto punzante en suelo de Microdeck</div>
 
-                  <div id="tresColumnasCentroImagen"><img src="https://www.topciment.com/imagenes/diferente-textura-y-resistencia-pavimento-microcemento.jpg" width="100%" alt="textura del suelo de microcemento"><br>Diferente textura y resistencia de un
-                    pavimento
-                    con
-                    microcemento</div>
+                    <div id="tresColumnasCentroImagen"><img
+                        src="https://www.topciment.com/imagenes/diferente-textura-y-resistencia-pavimento-microcemento.jpg"
+                        width="100%" alt="textura del suelo de microcemento"><br>Diferente textura y resistencia de un
+                      pavimento
+                      con
+                      microcemento</div>
 
-                  <div id="tresColumnasDerechaImagen"><img src="https://www.topciment.com/imagenes/impermeabilidad-del-microcemento.jpg" width="100%" alt="microcemento impermeable"><br>Impermeabilidad del microcemento</div>
+                    <div id="tresColumnasDerechaImagen"><img
+                        src="https://www.topciment.com/imagenes/impermeabilidad-del-microcemento.jpg" width="100%"
+                        alt="microcemento impermeable"><br>Impermeabilidad del microcemento</div>
 
-                  <div id="separador20px"></div>
-                </div>
+                    <div id="separador20px"></div>
+                  </div>
               </div>
             </div>
           </div>
@@ -505,7 +588,8 @@
           <!-- Pregunta 2 -->
           <div class="card">
             <div id="heading2" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse2" aria-expanded="false"
+                  aria-controls="collapse2" class="d-block position-relative collapsed     collapsible-link py-2">
                   2. ¿Sobre qué soportes se puede aplicar el microcemento?</a></h3>
             </div>
             <div id="collapse2" aria-labelledby="heading2" data-parent="#accordionExample" class="collapse">
@@ -519,7 +603,8 @@
                 <p>Eso sí, no se puede aplicar microcemento sobre madera natural o soportes formados por piezas que
                   puedan dilatar de forma diferente.</p>
 
-                <a href="javascript:MostrarOcultar('texto1_3');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_3');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_3" style="text-align:left;font-size:16px;">
                   <p>Una de las principales propiedades del microcemento es su alta adherencia. Gracias a ella es
                     posible
@@ -535,7 +620,8 @@
 
                   </p>
 
-                  <img src="https://www.topciment.com/imagenes/microcemento-sobre-azulejos-rejuntado.jpg" width="50%"><br>
+                  <img src="https://www.topciment.com/imagenes/microcemento-sobre-azulejos-rejuntado.jpg"
+                    width="50%"><br>
                   <p>Microcemento sobre azulejos, gres o terrazo</p>
                   <p> <br>
                     <strong>Condiciones óptimas y estado de la superficie a revestir</strong><br>
@@ -549,13 +635,15 @@
                     que haber fraguado como mínimo cuatro semanas antes de aplicar el microcemento, para controlar las
                     fisuras que puedan aparecer durante el proceso del curado.</p>
 
-                  <img src="https://www.topciment.com/imagenes/condiciones-estado-de-la-superficie-a-revestir.jpg" width="50%"><br>
+                  <img src="https://www.topciment.com/imagenes/condiciones-estado-de-la-superficie-a-revestir.jpg"
+                    width="50%"><br>
                   <p><strong>Microcemento piscinas</strong><br>
                     En Topciment hemos desarrollado Atlanttic, una línea de microcemento bicomponente diseñada
                     exclusivamente para espacios en contacto permanente con agua como las piscinas.
                     Y es que las piscinas de microcemento son tendencia y van a continuar siéndolo por las amplias
                     ventajas de este revestimiento decorativo.
-                    Aquí puedes ver algunas de las <strong><a href="microcemento/galeria#piscinas">piscinas recubiertas con
+                    Aquí puedes ver algunas de las <strong><a href="microcemento/galeria#piscinas">piscinas recubiertas
+                        con
                         Atlanttic</a></strong> .
 
                   </p>
@@ -578,7 +666,8 @@
           <!-- Pregunta 3 -->
           <div class="card">
             <div id="heading3" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse3" aria-expanded="false"
+                  aria-controls="collapse3" class="d-block position-relative collapsed     collapsible-link py-2">
                   3. ¿Puede aplicarse microcemento sobre suelo radiante?</a></h3>
             </div>
             <div id="collapse3" aria-labelledby="heading3" data-parent="#accordionExample" class="collapse">
@@ -589,8 +678,9 @@
                   que las fisuras producidas por los cambios de temperatura en la solera se reproduzcan en el
                   microcemento.
                 </p>
-               <strong> <a class="links" href="noticia/microcemento-en-suelo-radiante">Saber más</a></strong> <br>
-                <a href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <strong> <a class="links" href="noticia/microcemento-en-suelo-radiante">Saber más</a></strong> <br>
+                <a href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_4" style="text-align:left;font-size:16px;">
                   <p><strong>El protocolo de encendido será el siguiente:</strong></p>
                   <p>1. Encender la calefacción como mínimo 4 semanas después de la colocación del mortero de cemento.
@@ -641,7 +731,8 @@
           <!-- Pregunta 4 -->
           <div class="card">
             <div id="heading4" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="false"
+                  aria-controls="collapse4" class="d-block position-relative collapsed     collapsible-link py-2">
                   4. ¿El microcemento es impermeable?</a></h3>
             </div>
             <div id="collapse4" aria-labelledby="heading4" data-parent="#accordionExample" class="collapse">
@@ -656,14 +747,16 @@
           <!-- Pregunta 5 -->
           <div class="card">
             <div id="heading5" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse5" aria-expanded="false"
+                  aria-controls="collapse5" class="d-block position-relative collapsed     collapsible-link py-2">
                   5. ¿El microcemento es antideslizante?</a></h3>
             </div>
             <div id="collapse5" aria-labelledby="heading5" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">Sí, dependiendo del tipo de microcemento, textura que se deje y sellador empleado,
                   podemos conseguir que el microcemento sea antideslizante.</p>
-                <a href="javascript:MostrarOcultar('texto1_5');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_5');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_5" style="text-align:left;font-size:16px;">
                   <p>Gracias al microcemento podemos conseguir cualquier superficie antideslizante. Dependiendo del tipo
                     de
@@ -702,7 +795,9 @@
                     este apartado.<br>
                     Los suelos se clasifican en función de su valor de resistencia al deslizamiento Rd. Este valor se
                     determina mediante el ensayo del péndulo descrito en el Anejo A de la norma UNE-ENV 12633:2003.
-                    El <strong>Código Técnico de la Edificación (CTE)</strong> en el <strong><a href="https://www.codigotecnico.org/images/stories/pdf/seguridadUtilizacion/DBSUA.pdf" rel=“nofollow” target="_blank">documento DB SUA-1</a></strong> (Documentos Básicos para en
+                    El <strong>Código Técnico de la Edificación (CTE)</strong> en el <strong><a
+                        href="https://www.codigotecnico.org/images/stories/pdf/seguridadUtilizacion/DBSUA.pdf"
+                        rel=“nofollow” target="_blank">documento DB SUA-1</a></strong> (Documentos Básicos para en
                     Seguridad de Utilización y
                     Accesibilidad) regula los índices de resbaladicidad y determina la clase que deberá tener un suelo
                     en
@@ -769,12 +864,15 @@
           <!-- Pregunta 6 -->
           <div class="card">
             <div id="heading6" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="false"
+                  aria-controls="collapse6" class="d-block position-relative collapsed     collapsible-link py-2">
                   6. ¿Qué diferencias hay entre el microcemento y cemento pulido?</a></h3>
             </div>
             <div id="collapse6" aria-labelledby="heading6" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p>Aunque el acabado estético del <strong><a class="links" href="noticia/cemento-pulido-cualidades-diferencias-con-otros-revestimientos"> cemento pulido</a></strong> puede asemejarse, no es lo mismo. <br>
+                <p>Aunque el acabado estético del <strong><a class="links"
+                      href="noticia/cemento-pulido-cualidades-diferencias-con-otros-revestimientos"> cemento
+                      pulido</a></strong> puede asemejarse, no es lo mismo. <br>
                   Con el microcemento obtienes más ventajas: <br>
                 </p>
                 <ul class="ml-3">
@@ -791,7 +889,8 @@
                   </li>
                   <li>Se puede aplicar tanto en paramento horizontales como verticales.</li>
                 </ul><br>
-                <a href="javascript:MostrarOcultar('texto1_6');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_6');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_6" style="text-align:left;font-size:16px;">
                   <p style="font-size:16px; margin-bottom:5px">
                     <strong>Diferencias entre Microcemento y cemento pulido (hormigón fratasado) para pavimentos en
@@ -821,7 +920,8 @@
                       realiza
                       un <strong>alisado mecánico</strong> con fratasadoras o helicópteros.
                       <br> &nbsp;
-                    </p> <img class="img-fluid" src="https://www.topciment.com/imagenes/hormigon-fratasado.jpg" alt="hormigón fratasado" width="100%">
+                    </p> <img class="img-fluid" src="https://www.topciment.com/imagenes/hormigon-fratasado.jpg"
+                      alt="hormigón fratasado" width="100%">
                     <p></p>
                   </div>
 
@@ -831,7 +931,8 @@
                       <strong>estampado con moldes.</strong> Ambos <strong>durante el proceso de
                         fraguado</strong> (proceso de
                       endurecimiento del hormigón).
-                    </p> <img src="https://www.topciment.com/imagenes/cemento-hormigon-impreso.jpg" alt="hormigón impreso" width="100%"><br>
+                    </p> <img src="https://www.topciment.com/imagenes/cemento-hormigon-impreso.jpg"
+                      alt="hormigón impreso" width="100%"><br>
                     <p></p>
                   </div>
 
@@ -846,7 +947,8 @@
                       áridos
                       que componen el hormigón, el aspecto final es similar a un terrazo.
                     </p><br>
-                    <p><img src="https://www.topciment.com/imagenes/hormigon-pulido-y-devastado.jpg" alt="hormigón pulido y devastado" width="100%">
+                    <p><img src="https://www.topciment.com/imagenes/hormigon-pulido-y-devastado.jpg"
+                        alt="hormigón pulido y devastado" width="100%">
                     </p>
                   </div>
 
@@ -866,7 +968,8 @@
                       enfoscado
                       (capa de mortero de más o menos 2 cm de espesor empleada para revestir una pared)</p>
                     <br>
-                    <img src="https://www.topciment.com/imagenes/microcemento-revestimiento-de-bajo-espesor.jpg" alt="microcemento revestimiento de bajo espesor" width="100%"><br>
+                    <img src="https://www.topciment.com/imagenes/microcemento-revestimiento-de-bajo-espesor.jpg"
+                      alt="microcemento revestimiento de bajo espesor" width="100%"><br>
                   </div>
                   <div style="float:none; clear:both;"></div>
                   <p>En esta tabla resumimos características y comparamos las diferencias, además de las posibles
@@ -940,7 +1043,8 @@
           <!-- Pregunta 7 -->
           <div class="card">
             <div id="heading7" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="false"
+                  aria-controls="collapse7" class="d-block position-relative collapsed     collapsible-link py-2">
                   7. ¿Cuánto dura una reforma con microcemento?</a></h3>
             </div>
             <div id="collapse7" aria-labelledby="heading7" data-parent="#accordionExample" class="collapse">
@@ -951,7 +1055,8 @@
                   la aplicación de microcemento en suelos aumenta este periodo hasta una semana.
                 </p> <br>
 
-                <a href="javascript:MostrarOcultar('texto1_7');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_7');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_7" style="text-align:left;font-size:16px;">
                   <p>
                     Este es un revestimiento que se trabaja con un <strong>acondicionamiento</strong> previo de la
@@ -973,7 +1078,8 @@
           <!-- Pregunta 8 -->
           <div class="card">
             <div id="heading8" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="false"
+                  aria-controls="collapse8" class="d-block position-relative collapsed     collapsible-link py-2">
                   8. ¿Es
                   necesario cepillar las puertas?</a></h3>
             </div>
@@ -992,7 +1098,8 @@
           <!-- Pregunta 9 -->
           <div class="card">
             <div id="heading9" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="false"
+                  aria-controls="collapse9" class="d-block position-relative collapsed     collapsible-link py-2">
                   9. ¿Cómo limpiar el microcemento?</a></h3>
             </div>
             <div id="collapse9" aria-labelledby="heading9" data-parent="#accordionExample" class="collapse">
@@ -1003,7 +1110,8 @@
                   suficiente, en Topciment hemos creado productos exclusivos de limpieza y cuidado del microcemento para
                   obtener mejores resultados con el paso del tiempo.
                 </p>
-                <a href="javascript:MostrarOcultar('texto1_9');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_9');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_9" style="text-align:left;font-size:16px;">
                   <p style="font-size:16px; margin-bottom:5px">Los cuidados del microcemento son similares a los de un
                     parquet
@@ -1047,18 +1155,29 @@
           <!-- Pregunta 10 -->
           <div class="card">
             <div id="heading10" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse10" aria-expanded="false"
+                  aria-controls="collapse10" class="d-block position-relative collapsed     collapsible-link py-2">
                   10. ¿Puede perder color el microcemento con el paso del tiempo?</a></h3>
             </div>
             <div id="collapse10" aria-labelledby="heading10" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
                   En Topciment, <strong> <a class="links" href="microcemento/fabricante-microcemento">fabricantes de
-                      microcemento</a></strong> , disponemos de una amplia gama de colores de microcemento con las que recubrir cualquier tipo de superficie. Ahora bien, ¿puede perder color el microcemento con el paso del tiempo? No, nuestros colores de microcemento se comportan de forma estable, sin sufrir alteraciones a lo largo del tiempo y sin que afecte la climatología.
+                      microcemento</a></strong> , disponemos de una amplia gama de colores de microcemento con las que
+                  recubrir cualquier tipo de superficie. Ahora bien, ¿puede perder color el microcemento con el paso del
+                  tiempo? No, nuestros colores de microcemento se comportan de forma estable, sin sufrir alteraciones a
+                  lo largo del tiempo y sin que afecte la climatología.
                 </p>
-                <a href="javascript:MostrarOcultar('texto1_4c');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+información</strong></a>
+                <a href="javascript:MostrarOcultar('texto1_4c');" id="enlace1_1"
+                  style="color:#000; text-decoration:none;"><strong>+información</strong></a>
                 <div class="ocultable" id="texto1_4c" style="text-align: left; font-size: 16px;">
-              <p>Los pigmentos que utilizamos para confeccionar nuestros tintes son de origen mineral. Cabe distinguir dentro de los pigmentos los de origen mineral y los de origen orgánico. Los pigmentos de origen mineral, son los que mejor se comportan frente a la alcalinidad del cemento.. Los pigmentos orgánicos (moléculas que contienen carbono), no son estables a la intemperie, terminan transformándose en otros compuestos sin propiedades pigmentarias o migrando a la superficie, por lo que unos tonos iniciales terminan desapareciendo casi por completo después de algún tiempo. Los pigmentos inorgánicos generalmente mantienen la estabilidad en los morteros y hormigones.</p>
+                  <p>Los pigmentos que utilizamos para confeccionar nuestros tintes son de origen mineral. Cabe
+                    distinguir dentro de los pigmentos los de origen mineral y los de origen orgánico. Los pigmentos de
+                    origen mineral, son los que mejor se comportan frente a la alcalinidad del cemento.. Los pigmentos
+                    orgánicos (moléculas que contienen carbono), no son estables a la intemperie, terminan
+                    transformándose en otros compuestos sin propiedades pigmentarias o migrando a la superficie, por lo
+                    que unos tonos iniciales terminan desapareciendo casi por completo después de algún tiempo. Los
+                    pigmentos inorgánicos generalmente mantienen la estabilidad en los morteros y hormigones.</p>
                 </div>
               </div>
             </div>
@@ -1066,7 +1185,8 @@
           <!-- Pregunta 11 -->
           <div class="card">
             <div id="heading11" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse11" aria-expanded="false"
+                  aria-controls="collapse11" class="d-block position-relative collapsed     collapsible-link py-2">
                   11. ¿Por qué
                   puede
                   haber diferencias de brillo entre la muestra y la obra que se realiza?</a></h3>
@@ -1074,9 +1194,11 @@
             <div id="collapse11" aria-labelledby="heading11" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  La <a href="microcemento/metodos-de-aplicacion-microcemento">aplicación del
+                  La <a href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación del
                     microcemento</a>
-                 es un trabajo artesanal, factores como la carga de material o el rodillo empleado en el sellado hacen que pueda haber pequeñas diferencias de brillo entre la muestra y la obra.. Los catálogos se sellan con rodillo, si el sellado se realiza con pistola se consigue un poco más de brillo.
+                  es un trabajo artesanal, factores como la carga de material o el rodillo empleado en el sellado hacen
+                  que pueda haber pequeñas diferencias de brillo entre la muestra y la obra.. Los catálogos se sellan
+                  con rodillo, si el sellado se realiza con pistola se consigue un poco más de brillo.
                 </p>
 
               </div>
@@ -1085,14 +1207,16 @@
           <!-- Pregunta 12 -->
           <div class="card">
             <div id="heading12" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse12" aria-expanded="false"
+                  aria-controls="collapse12" class="d-block position-relative collapsed     collapsible-link py-2">
                   12. ¿Pueden
                   combinarse colores en una misma superficie?</a></h3>
             </div>
             <div id="collapse12" aria-labelledby="heading12" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="m-0">
-                Sí, se pueden combinar diferentes colores de microcemento en una misma superficie, incluso varios acabados. La clave está en delimitar bien la superficie en la que se quiere aplicar otro color.
+                  Sí, se pueden combinar diferentes colores de microcemento en una misma superficie, incluso varios
+                  acabados. La clave está en delimitar bien la superficie en la que se quiere aplicar otro color.
                 </p>
 
               </div>
@@ -1101,14 +1225,18 @@
           <!-- Pregunta 13 -->
           <div class="card">
             <div id="heading13" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse13" aria-expanded="false"
+                  aria-controls="collapse13" class="d-block position-relative collapsed     collapsible-link py-2">
                   13. ¿Es
                   obligatorio aplicar la malla para microcemento?</a>
               </h3>
             </div>
             <div id="collapse13" aria-labelledby="heading13" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p>Siempre recomendamos aplicar malla de fibra, especialmente en suelos y paredes de azulejos, al igual que en las juntas entre placas de pladur, se emplea para armar el microcemento base y prevenir fisuras debidas a las tensiones del soporte del microcemento. La decisión final de ponerla o no la tiene el aplicador, por supuesto, pero si no la añaden advertirles de los problemas que pueden surgir.</p>
+                <p>Siempre recomendamos aplicar malla de fibra, especialmente en suelos y paredes de azulejos, al igual
+                  que en las juntas entre placas de pladur, se emplea para armar el microcemento base y prevenir fisuras
+                  debidas a las tensiones del soporte del microcemento. La decisión final de ponerla o no la tiene el
+                  aplicador, por supuesto, pero si no la añaden advertirles de los problemas que pueden surgir.</p>
 
               </div>
             </div>
@@ -1116,7 +1244,8 @@
           <!-- Pregunta 14 -->
           <div class="card">
             <div id="heading14" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse14" aria-expanded="false"
+                  aria-controls="collapse14" class="d-block position-relative collapsed     collapsible-link py-2">
                   14.¿Qué tiempo
                   de
                   secado debemos dejar entre la primera capa de sellador y la segunda? </a>
@@ -1124,15 +1253,22 @@
             </div>
             <div id="collapse14" aria-labelledby="heading14" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-            <p>El tiempo de secado entre capas del sellador o barniz dependerá de varios factores. Como por ejemplo las condiciones climáticas, el grado de humedad relativa, la temperatura ambiente de la estancia, si se trata de un espacio cerrado y húmedo como puede ser un baño, si el sol impacta directamente, etc.</p>
-                      <p>En todo caso, intentaremos siempre en cualquier circunstancia dejar el máximo tiempo posible de secado entre capas para evitar que se formen manchas blancas por estar la superficie todavía húmeda. El tiempo mínimo de secado entre capas es de 4 horas para el Presealer y 24 horas para el Topsealer.</p>
+                <p>El tiempo de secado entre capas del sellador o barniz dependerá de varios factores. Como por ejemplo
+                  las condiciones climáticas, el grado de humedad relativa, la temperatura ambiente de la estancia, si
+                  se trata de un espacio cerrado y húmedo como puede ser un baño, si el sol impacta directamente, etc.
+                </p>
+                <p>En todo caso, intentaremos siempre en cualquier circunstancia dejar el máximo tiempo posible de
+                  secado entre capas para evitar que se formen manchas blancas por estar la superficie todavía húmeda.
+                  El tiempo mínimo de secado entre capas es de 4 horas para el Presealer y 24 horas para el Topsealer.
+                </p>
               </div>
             </div>
           </div>
           <!-- Pregunta 15 -->
           <div class="card">
             <div id="heading15" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse15" aria-expanded="false"
+                  aria-controls="collapse15" class="d-block position-relative collapsed     collapsible-link py-2">
                   15.¿Cuánto cuesta el m2 del microcemento? </a>
               </h3>
             </div>
@@ -1156,7 +1292,8 @@
           <!-- Pregunta 16 -->
           <div class="card">
             <div id="heading16" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="d-block position-relative collapsed     collapsible-link py-2">
+              <h3><a href="#" data-toggle="collapse" data-target="#collapse16" aria-expanded="false"
+                  aria-controls="collapse16" class="d-block position-relative collapsed     collapsible-link py-2">
                   16.¿Cómo puedo apuntarme a un curso de microcemento?</a>
               </h3>
             </div>
@@ -1164,14 +1301,16 @@
               <div class="card-body p-4">
 
                 <p>¿Eres profesional y te gustaría formarte en la aplicación de microcemento? Nosotros podemos ayudarte.
-                  Visita nuestra página web de <strong><a class="links" href="microcemento/cursos-aplicacion-microcemento">cursos de microcemento </a></strong> y descubre
+                  Visita nuestra página web de <strong><a class="links"
+                      href="microcemento/cursos-aplicacion-microcemento">cursos de microcemento </a></strong> y descubre
                   nuestra amplio programa.</p>
 
                 <p>En ella encontrarás toda la información que necesitas de cada curso: conocimientos que aprenderás,
                   duración y precio del mismo, dónde se realiza, quién lo imparte, etc. Así como el calendario, que
                   actualizamos constantemente, y el enlace para que hagas tu reserva.</p>
                 <p>
-                  Si necesitas más información antes de decidirte, no dudes en llamarnos por teléfono o completar <a class="links" href="contacto">nuestro formulario</a> Estaremos encantados de atenderte.
+                  Si necesitas más información antes de decidirte, no dudes en llamarnos por teléfono o completar <a
+                    class="links" href="contacto">nuestro formulario</a> Estaremos encantados de atenderte.
                 </p>
               </div>
             </div>
@@ -1194,95 +1333,91 @@
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">
   </script>
   <!-- include jQuery -->
-<script type = "application/ld+json" > 
-{
-    "@context": "https://schema.org/",
-    "@type": "Thing",
-    "name": "Microcemento",
-    "description:": "El microcemento Topciment es un revestimiento decorativo compuesto a base de cemento, resinas base agua, aditivos y pigmentos minerales que puede aplicarse en multitud de superficies verticales y horizontales gracias a su gran adherencia. Y es que este material de construcción destaca porque se coloca directamente sobre el material ya existente: azulejos, pladur, baldosas, mármol, terrazo o yeso, entre otros muchos. Con apenas obra y un espesor de tan solo 3 milímetros, se logra una rápida renovación de los espacios.",
-    "additionalProperty": [
+  <script type="application/ld+json">
     {
-      "@type": "PropertyValue",
-      "name": "¿Dónde se puede aplicar el microcemento?",
-      "value": " Desde escaleras de microcemento o piscinas de microcemento hasta muebles revestidos con microcemento. Aunque el uso por excelencia del microcemento es en suelos y paredes de cocinas, baños y espacios exteriores como terrazas."
-    },{
-      "@type": "PropertyValue",
-      "name": "Ventajas del microcemento",
-      "value": " Múltiples acabados decorativos, superficie sin juntas; Puede aplicarse en suelos, paredes, techos, piscinas y muebles. Espacios interiores y exteriores;  Gran variedad colores microcemento y texturas ;Aplicación artesanal. Resultado exclusivo y personalizado ;  Alta adherencia. Compatible con azulejos, mármol, cerámica, baldosas, gres, terrazo, pladur, hormigón, cemento, yeso, etc. ;  Resistente al tránsito, golpes, ralladuras y productos químicos. ;  Impermeable. ;  Antideslizante, según acabados. ;  Obras rápidas y sin escombros. ;  Espesor del material 2/3 mm, por lo que no afecta a la carga estructural del edificio. ;  Materiales naturales. Producto 100% respetuoso con el medioambiente. ;  Fácil mantenimiento y limpieza; con agua y jabón pH neutro. ;Espacios libres de gérmenes y bacterias."
+      "@context": "https://schema.org/",
+      "@type": "Thing",
+      "name": "Microcemento",
+      "description:": "El microcemento Topciment es un revestimiento decorativo compuesto a base de cemento, resinas base agua, aditivos y pigmentos minerales que puede aplicarse en multitud de superficies verticales y horizontales gracias a su gran adherencia. Y es que este material de construcción destaca porque se coloca directamente sobre el material ya existente: azulejos, pladur, baldosas, mármol, terrazo o yeso, entre otros muchos. Con apenas obra y un espesor de tan solo 3 milímetros, se logra una rápida renovación de los espacios.",
+      "additionalProperty": [{
+        "@type": "PropertyValue",
+        "name": "¿Dónde se puede aplicar el microcemento?",
+        "value": " Desde escaleras de microcemento o piscinas de microcemento hasta muebles revestidos con microcemento. Aunque el uso por excelencia del microcemento es en suelos y paredes de cocinas, baños y espacios exteriores como terrazas."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Ventajas del microcemento",
+        "value": " Múltiples acabados decorativos, superficie sin juntas; Puede aplicarse en suelos, paredes, techos, piscinas y muebles. Espacios interiores y exteriores;  Gran variedad colores microcemento y texturas ;Aplicación artesanal. Resultado exclusivo y personalizado ;  Alta adherencia. Compatible con azulejos, mármol, cerámica, baldosas, gres, terrazo, pladur, hormigón, cemento, yeso, etc. ;  Resistente al tránsito, golpes, ralladuras y productos químicos. ;  Impermeable. ;  Antideslizante, según acabados. ;  Obras rápidas y sin escombros. ;  Espesor del material 2/3 mm, por lo que no afecta a la carga estructural del edificio. ;  Materiales naturales. Producto 100% respetuoso con el medioambiente. ;  Fácil mantenimiento y limpieza; con agua y jabón pH neutro. ;Espacios libres de gérmenes y bacterias."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Acabados del microcemento",
+        "value": "Los diferentes acabados de microcemento que se pueden obtener dependen de las texturas y los barnices o selladores empleados, ya que son dos elementos que condicionan el aspecto y acabado final de nuestros microcementos. Disponemos de acabado mate, super mate, satinado, brillo y mate antideslizante."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Colores microcemento",
+        "value": "Contamos con una vasta carta de colores de microcemento . El sistema de pigmentación permite crear cualquier color a medida, personalizando así, estancias y ambientes para conseguir un estilo propio.Blanco, gris, verde, rojo, negro o azul son solo algunos de los múltiples colores de microcemento disponibles para nuestros sistemas."
+      }],
+      "hasVariant": [{
+          "@type": "Product",
+          "name": "Microcemento bicomponente Sttandard",
+          "description": "Microcemento bicomponente tradicional aplicable tanto en suelos como paredes. Destaca por su robustez, versatilidad y capacidad de crear texturas inigualables.",
+          "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
+          "brand": "Atlanttic",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "20"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Microcemento bicomponente Unlimitted",
+          "description": "Microcemento Bicomponente para revestir superficies en contacto permanente con agua, como piscinas, estanques o fuentes.",
+          "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
+          "brand": "Unlimitted",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "19"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Microcemento monocomponente Evoluttion",
+          "description": "Simplificar las mezclas reduce futuros errores. Eso es lo que garantiza EVOLUTTION, nuestro microcemento monocomponente. Confiere muy buenas resistencias mecánicas y gran trabajabilidad del material.",
+          "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
+          "brand": "Evoluttion",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "19"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Microcemento para piscinas Atlanttic",
+          "description": "ATLANTTIC es nuestra exclusiva línea de microcemento para piscinas y otras superficies en constante contacto con el agua. ",
+          "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
+          "brand": "Atlanttic",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "25"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Microcemento listo al uso  Efectto",
+          "description": "Ningún otro microcemento asegura una aplicación tan rápida como EFECTTO QUARTZ,nuestro microcemento listo al uso disponible en 4 granulometrías. ",
+          "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
+          "brand": "Efectto",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "17"
+          }
+        }
+      ]
     }
-    ,{
-      "@type": "PropertyValue",
-      "name": "Acabados del microcemento",
-      "value": "Los diferentes acabados de microcemento que se pueden obtener dependen de las texturas y los barnices o selladores empleados, ya que son dos elementos que condicionan el aspecto y acabado final de nuestros microcementos. Disponemos de acabado mate, super mate, satinado, brillo y mate antideslizante."
-    },{
-      "@type": "PropertyValue",
-      "name": "Colores microcemento",
-      "value": "Contamos con una vasta carta de colores de microcemento . El sistema de pigmentación permite crear cualquier color a medida, personalizando así, estancias y ambientes para conseguir un estilo propio.Blanco, gris, verde, rojo, negro o azul son solo algunos de los múltiples colores de microcemento disponibles para nuestros sistemas."
-    }
-  ],
-  "hasVariant":[
-    {
-      "@type": "Product",
-      "name": "Microcemento bicomponente Sttandard",
-	  "description": "Microcemento bicomponente tradicional aplicable tanto en suelos como paredes. Destaca por su robustez, versatilidad y capacidad de crear texturas inigualables.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
-	  "brand": "Atlanttic",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "20"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Microcemento bicomponente Unlimitted",
-	  "description": "Microcemento Bicomponente para revestir superficies en contacto permanente con agua, como piscinas, estanques o fuentes.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
-	  "brand": "Unlimitted",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "19"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Microcemento monocomponente Evoluttion",
-	  "description": "Simplificar las mezclas reduce futuros errores. Eso es lo que garantiza EVOLUTTION, nuestro microcemento monocomponente. Confiere muy buenas resistencias mecánicas y gran trabajabilidad del material.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
-	  "brand": "Evoluttion",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "19"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Microcemento para piscinas Atlanttic",
-	  "description": "ATLANTTIC es nuestra exclusiva línea de microcemento para piscinas y otras superficies en constante contacto con el agua. ",
-	  "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
-	  "brand": "Atlanttic",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "25"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Microcemento listo al uso  Efectto",
-	  "description": "Ningún otro microcemento asegura una aplicación tan rápida como EFECTTO QUARTZ,nuestro microcemento listo al uso disponible en 4 granulometrías. ",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
-	  "brand": "Efectto",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    }
-  ]
-  } 
   </script>
 </body>
 

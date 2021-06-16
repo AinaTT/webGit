@@ -123,7 +123,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/sttandard-new"
+  },
+  "headline": "Topciment changes its image!",
+  "image":"https://www.topciment.com/imagenes/sttandard/noticia_Standard_Microbase-2.jpg",
+  "datePublished": "2020-01-13",
+  "dateModified": "2020-01-13",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"From Topciment we have decided to go a step further in terms of design and we have updated our image and the aesthetics of our cubes.
 
+We present our range of Sttandard products, with the same quality and features, but with a renewed image, much more visual and modern, without losing the essence of Topciment."  
+}
+</script>
 </body>
 
 </html>

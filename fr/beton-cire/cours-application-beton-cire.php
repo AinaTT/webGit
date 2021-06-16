@@ -15,14 +15,14 @@
     <link rel="preload" href="../../assets/css/cursos.css" as="style"/>
     <link rel="stylesheet" href="../../assets/css/cursos.css"/>
 
-    <title>Formation Topciment | Cours d'application de béton ciré</title>
-    <meta name="description" content="Votre avenir professionnel nous tient à cœur. Chez Topciment nous vous formons avec plusieurs cours sur l'application du béton ciré, des vernis et des peintures métalliques"/>
+    <title>Formation Topciment | Cours d'application de béton ciré </title>
+    <meta name="description" content="Votre avenir professionnel nous tient à cœur. Chez Topciment nous vous formons avec plusieurs cours sur l'application du béton ciré , des vernis et des peintures métalliques"/>
 
 
-    <meta property="og:title" content="Formation Topciment | Cours d'application de béton ciré">
+    <meta property="og:title" content="Formation Topciment | Cours d'application de béton ciré ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/cours-application-beton-cire">
-    <meta property="og:description" content="Votre avenir professionnel nous tient à cœur. Chez Topciment nous vous formons avec plusieurs cours sur l'application du béton ciré, des vernis et des peintures métalliques">
+    <meta property="og:description" content="Votre avenir professionnel nous tient à cœur. Chez Topciment nous vous formons avec plusieurs cours sur l'application du béton ciré , des vernis et des peintures métalliques">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
@@ -65,7 +65,7 @@
                 <a id="invertimos-en-tu-futuro" class="ancla"></a>
 
 
-                <h1>Cours d'application de béton ciré</h1>
+                <h1>Cours d'application de béton ciré </h1>
                 <h2>Nous investissons dans votre avenir</h2>
 
                 <p>Coopération, écoute et engagement sont les valeurs qui jalonnent le chemin de Topciment
@@ -87,13 +87,13 @@
                 <p>Dans les formations Topciment, les maîtres applicateurs vous apprendront les différentes
                     techniques existantes en fonction du type de revêtement décoratif
                     et de la surface ou du support à revêtir. Ils vous conseilleront sur la préparation,
-                    l'application, le scellage et l'entretien du béton ciré
+                    l'application, le scellage et l'entretien du béton ciré 
                     et autres finitions décoratives avec des trucs et astuces.</p>
 
                 <p>Nous avons une grande variété de cours pour que vous puissiez trouver exactement ce que
                     vous
                     recherchez.
-                    Des couches de béton ciré ou de vernis, aux couches de texture ou aux peintures
+                    Des couches de béton ciré  ou de vernis, aux couches de texture ou aux peintures
                     métalliques,
                     entre autres. Découvrez-les tous.</p>
 
@@ -113,9 +113,9 @@
                         </div>
                         <div class="col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Cours d'initiation de béton ciré</h3>
+                                <h3 class="card-title">Cours d'initiation de béton ciré </h3>
                                 <p class="card-text h3s">Si vous cherchez à vous initier à
-                                    l'application du béton ciré, ce cours est le plus adapté.
+                                    l'application du béton ciré , ce cours est le plus adapté.
                                     Vous apprendrez les connaissances de base du processus
                                     d'application, de l'apprêt au scellant, et des différents outils.
                                 </p>
@@ -124,16 +124,16 @@
                                     Il durera environ 8 heures (2 h de théorie + 6 h de pratique) et
                                     sera enseigné par Jorge Coimbra,
                                     un maître applicateur avec plus de 15 ans d'expérience dans
-                                    l'application du béton ciré.
+                                    l'application du béton ciré .
                                 </p>
 
-                                <p class="card-text">Le programme de ce cours de béton ciré portera
+                                <p class="card-text">Le programme de ce cours de béton ciré  portera
                                     principalement sur "Sttandard", la ligne traditionnelle de
-                                    béton cirébi-composant de Topciment.
+                                    béton ciré bi-composant de Topciment.
                                     Mais le reste des gammes sera également présenté afin que les
                                     étudiants puissent essayer d'autres produits comme "Evoluttion",
-                                    un béton ciré mono-composant; "Efectto", béton ciré prêt à l'emploi;
-                                    et "Unlimited", le béton ciré à deux composants qui améliore la
+                                    un béton ciré  mono-composant; "Efectto", béton ciré  prêt à l'emploi;
+                                    et "Unlimited", le béton ciré  à deux composants qui améliore la
                                     maniabilité.</p>
                                 <p class="card-text">
 
@@ -157,13 +157,13 @@
                                     ciré
                                 </h3>
                                 <p class="card-text h3s">Conçu pour l'applicateur expert qui cherche à
-                                    améliorer la productivité dans l'application du béton ciré tout en
+                                    améliorer la productivité dans l'application du béton ciré  tout en
                                     réduisant au maximum les coûts.
                                 </p>
                                 <br><br>
                                 <p class="card-text">De la main de l'instructeur César Orellana, vous
                                     apprendrez à parcourir plus de mètres de surface en moins de temps. Le
-                                    cours de techniques avancées d'application du béton ciré durera environ
+                                    cours de techniques avancées d'application du béton ciré  durera environ
                                     8 heures (1 h de théorie + 7 h de pratique).
                                 </p>
                                 <p class="card-text">
@@ -218,7 +218,7 @@
                                 <h3 class="card-title">Cours avancé vernis</h3>
                                 <p class="card-text h3s">Concentré sur l'applicateur professionnel qui
                                     cherche à se plonger dans l'étape la plus importante de l'application du
-                                    béton ciré.</p> <br><br>
+                                    béton ciré .</p> <br><br>
                                 <p class="card-text"> Vous pratiquerez avec tous les vernis disponibles
                                     (Topsealer WT One Coat, Topsealer WT Anti Slip, Topsealer WT Quick Dry,
                                     Topsealer Pro +, Topsealer DSV et Presealer) et vous apprendrez à
@@ -285,17 +285,17 @@
                           </div>
                            <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
-                                <h3 class="card-title">Cours avancé de béton ciré pour piscines</h3>
+                                <h3 class="card-title">Cours avancé de béton ciré  pour piscines</h3>
                                 <p class="card-text h3s"> Destiné à l'applicateur vétéran qui a de la
-                                    dextérité dans l'application du béton ciré et qui cherche à franchir une
+                                    dextérité dans l'application du béton ciré  et qui cherche à franchir une
                                     autre étape dans leur
-                                    formation apprenant à enduire les piscines de béton ciré. Un sujet trop
+                                    formation apprenant à enduire les piscines de béton ciré . Un sujet trop
                                     complexe pour ceux qui n'ont pas beaucoup d'expérience dans le secteur
                                     et qui ont suivi d'autres cours auparavant.</p>
 
                                 <p class="card-text">D'une durée approximative de 8 heures (1 h de théorie +
                                     7 h de pratique), le maître applicateur César Orellana vous enseignera
-                                    les particularités de "Atlanttic", le béton ciré bi-composant pour
+                                    les particularités de "Atlanttic", le béton ciré  bi-composant pour
                                     piscines conçu exclusivement par Topciment. Un produit qui sert
                                     également à revêtir d'autres surfaces en contact permanent avec l'eau
                                     comme les étangs ou les fontaines.
@@ -359,11 +359,11 @@
                                 <div class="card-body">
                                     <h3 class="card-title">Cours en présentiel</h3>
                                     <p class="card-text h3s">Les cours en présentiel de Topciment peuvent avoir
-                                        lieu dans notre usine de béton ciré ou dans les installations d'un
+                                        lieu dans notre usine de béton ciré  ou dans les installations d'un
                                         distributeur de votre région.</p>
                                     <p class="card-text">
 
-                                        Ceux enseignés à l'usine de béton ciré de Topciment ont une capacité
+                                        Ceux enseignés à l'usine de béton ciré  de Topciment ont une capacité
                                         maximale de 12 personnes.
                                         Avec cette limitation, nous garantissons que chaque personne tire le
                                         meilleur parti du cours en ayant un espace de travail individuel, où
@@ -394,7 +394,7 @@
                                         <p class="card-text h3s">Êtes-vous plongé dans un travail et avez-vous
                                             besoin d'aide? Ne t'en fais pas. Chez Topciment nous mettons à votre
                                             disposition des instructeurs à votre disposition pour vos anciens
-                                            ouvriers à l'application de béton cirés ou autres revêtements
+                                            ouvriers à l'application de béton ciré s ou autres revêtements
                                             décoratifs.
                                         </p>
 
@@ -418,7 +418,7 @@
                                 <div class="card-body">
                                     <h3 class="card-title">Cours Online</h5>
                                         <p class="card-text h3s">Tous les cours en présentiel que nous
-                                            enseignons sur l'application du béton ciré , des vernis et des
+                                            enseignons sur l'application du béton ciré  , des vernis et des
                                             finitions décoratives peuvent également se faire à domicile.
                                         </p>
                                         <p class="card-text">
@@ -451,7 +451,7 @@
                                         Tutoriels vidéos</h3>
                                     <p class="h3s card-text">Nous avons des didacticiels vidéo pour
                                         ceux qui souhaitent apprendre des choses très spécifiques sur
-                                        l'application du béton ciré
+                                        l'application du béton ciré 
                                     </p>
                                     <p class="card-text">
                                         De plus, ceux qui suivent un cours en présentiel auront un accès
@@ -520,7 +520,7 @@
                             <p class="description ">
                                 Formé à domicile, Coimbra a parcouru la
                                 moitié du monde pour enseigner nos cours
-                                d'application de béton ciré 15 ans
+                                d'application de béton ciré  15 ans
                                 d'expérience qui font de lui le plus ancien
                                 instructeur de Topciment.
                             </p>
@@ -536,7 +536,7 @@
 
                                 Bien qu'il ait commencé comme technicien
                                 commercial, ses connaissances approfondies
-                                dans l'application du béton ciré ont amené à
+                                dans l'application du béton ciré  ont amené à
                                 devenir formateur Topciment dans tout le
                                 pays. Orellana dirige, avant tout, les cours
                                 destinés à nos distributeurs en Espagne.
@@ -578,7 +578,7 @@
                 <a id="donde-se-hacen" class="ancla"></a>
 
                 <h2 class="mt-5">¿Dónde se realizan los cursos?</h2>
-                <p> Les cours d'application du béton ciré de Topciment
+                <p> Les cours d'application du béton ciré  de Topciment
                     sont dispensés
                     dans des installations modernes de 4 000 mètres carrés. </p>
                 <br><br>
@@ -592,7 +592,7 @@
                     dispose d'un espace de travail adéquat.
                 </p>
                 <p>
-                    Notre usine de béton ciré est située sur la Calle Viena 31 du
+                    Notre usine de béton ciré  est située sur la Calle Viena 31 du
                     Polígono Industrial Mas de Tous à Pobla de Vallbona (Valence).
                 </p>
 
@@ -644,7 +644,7 @@
         "courseMode": "En personne",
         "endDate": "2021-02-19",
         "startDate": "2021-02-19",
-        "name": "Cours d'initiation au microciment internacional",
+        "name": "Cours d'initiation au béton ciré internacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -660,7 +660,7 @@
         "courseMode": "En personne",
         "endDate": "2021-02-26",
         "startDate": "2021-02-26",
-        "name": "Cours d'initiation au microciment nacional",
+        "name": "Cours d'initiation au béton ciré nacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -675,7 +675,7 @@
         "courseMode": "En personne",
         "endDate": "2021-03-12",
         "startDate": "2021-03-12",
-        "name": "Cours d'initiation au microciment internacional",
+        "name": "Cours d'initiation au béton ciré internacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -690,7 +690,7 @@
         "courseMode": "En personne",
         "endDate": "2021-03-26",
         "startDate": "2021-03-26",
-        "name": "Cours d'initiation au microciment nacional",
+        "name": "Cours d'initiation au béton ciré nacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -705,7 +705,7 @@
         "courseMode": "En personne",
         "endDate": "2021-04-16",
         "startDate": "2021-04-16",
-        "name": "Cours d'initiation au microciment internacional",
+        "name": "Cours d'initiation au béton ciré internacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -720,7 +720,7 @@
         "courseMode": "En personne",
         "endDate": "2021-04-30",
         "startDate": "2021-04-30",
-        "name": "Cours d'initiation au microciment nacional",
+        "name": "Cours d'initiation au béton ciré nacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -735,7 +735,7 @@
         "courseMode": "En personne",
         "endDate": "2021-05-14",
         "startDate": "2021-05-14",
-        "name": "Cours d'initiation au microciment internacional",
+        "name": "Cours d'initiation au béton ciré internacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -750,7 +750,7 @@
         "courseMode": "En personne",
         "endDate": "2021-05-28",
         "startDate": "2021-05-28",
-        "name": "Cours d'initiation au microciment nacional",
+        "name": "Cours d'initiation au béton ciré nacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -765,7 +765,7 @@
         "courseMode": "En personne",
         "endDate": "2021-06-04",
         "startDate": "2021-06-04",
-        "name": "Cours d'initiation au microciment internacional",
+        "name": "Cours d'initiation au béton ciré internacional",
         "location": {
           "@type": "Place",
           "address": {
@@ -780,7 +780,7 @@
         "courseMode": "En personne",
         "endDate": "2021-06-18",
         "startDate": "2021-06-18",
-        "name": "Cours d'initiation au microciment nacional",
+        "name": "Cours d'initiation au béton ciré nacional",
         "location": {
           "@type": "Place",
           "address": {

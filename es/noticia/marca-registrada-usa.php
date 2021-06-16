@@ -315,7 +315,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/marca-registrada-usa"
+  },
+  "headline": "Topciment se convierte en marca registrada en Estados Unidos",
+  "image":"https://www.topciment.com/imagenes/fondo-negro.jpg",
+  "datePublished": "2021-03-8",
+  "dateModified": "2021-03-8",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "En Topciment estamos de enhorabuena. La marca TT ha sido registrada en Estados Unidos por la Oficina de Patentes y Marcas de Estados Unidos (USPTO). Una noticia que confirma nuestro crecimiento y expansión internacional."
+  
+}
+</script>
 </body>
 
 </html>

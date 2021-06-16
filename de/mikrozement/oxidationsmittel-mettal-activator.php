@@ -334,11 +334,11 @@
             style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); perspective: 1000px;">
             <div><img class="imgiz"
                     src="https://www.topciment.com/imagenes/activator/mettal_activator_fondo_900X443_02.jpg"
-                    width="100%" alt="mikrozemente">
+                    width="100%" alt="mikrozement e">
             </div>
             <div><img class="imgde"
                     src="https://www.topciment.com/imagenes/activator/mettal_activator_fondo_900X443_01.jpg"
-                    width="100%" alt="mikrozemente">
+                    width="100%" alt="mikrozement e">
             </div>
             <div id="separador0px"></div>
 

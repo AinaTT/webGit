@@ -98,7 +98,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/efectto-new"
+  },
+  "headline": "Topciment presents Efectto!",
+  "image":"https://www.topciment.com/imagenes/efectto/noticia_bodegon_efectto.jpg",
+  "datePublished": "2020-01-13",
+  "dateModified": "2020-01-13",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Topciment presents Efectto , the new line of continuous and ready-to-use highly decorative coatings.
 
+Efectto is a very wide range of products with a wide variety of finishes that will be unveiled in the coming months. The first of these new products to be unveiled is Efectto Quartz."
+}
+</script>
 </body>
 
 </html>

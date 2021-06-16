@@ -62,7 +62,7 @@
             </div>
 
             <div class="content">
-                <h1>F&E-Projekt </h1> <div class="headline fadeInRight styleNormal16justified"> <p>2020-2021. F&E-Projekt "FORSCHUNG UND ENTWICKLUNG VON HYGIENISCHEM MIKROZEMENT MIT MULTIFUNKTIONS-EIGENSCHAFTEN". Ziel ist es, ein neues Konzept von Mikrozement mit sanierenden und multifunktionalen Eigenschaften zu entwickeln.</p> <p>.
+                <h1>F&E-Projekt </h1> <div class="headline fadeInRight styleNormal16justified"> <p>2020-2021. F&E-Projekt "FORSCHUNG UND ENTWICKLUNG VON HYGIENISCHEM mikrozement  MIT MULTIFUNKTIONS-EIGENSCHAFTEN". Ziel ist es, ein neues Konzept von mikrozement  mit sanierenden und multifunktionalen Eigenschaften zu entwickeln.</p> <p>.
 
                     <div class="row mt-5 mb-5">
                         <div class="col-md-6">

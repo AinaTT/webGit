@@ -15,14 +15,12 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>使用microcemento改革浴室的照片。</title> <meta name="description" content="在浴室使用microcemento的图片。现代浴室的照片与microcemento."/>。
+    <title>绘画大师项目</title> <meta name="description" content="令人难以置信的Malermeister项目的照片"/>
 
 
     <link rel="canonical" href="https://www.topciment.com/cn/jihua/proyecto-malermeister"/>
  <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-malermeister" hreflang="zh-CN"/>
 
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

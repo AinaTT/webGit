@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>8 raisons pour lesquelles le béton ciré est l'avenir
+    <title>8 raisons pour lesquelles le béton ciré  est l'avenir
         des rénovations</title>
     <meta name="description" content="Découvrez les principaux avantages du microciment, ce revêtement décoratif qui est une tendance dans tous les types de réformes des pièces intérieures et extérieures."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="8 raisons pour lesquelles le béton ciré est l'avenir
+    <meta property="og:title" content="8 raisons pour lesquelles le béton ciré  est l'avenir
 des rénovations"/>
     <meta property="og:description" content="Découvrez les principaux avantages du microciment, ce revêtement décoratif qui est une tendance dans tous les types de réformes des pièces intérieures et extérieures."/>
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/8-raisons-pour-lesquelles-beton-cire-lavenir-des-renovations"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Découvrez les principaux avantages du microciment, ce revêtement décoratif qui est une tendance dans tous les types de réformes des pièces intérieures et extérieures."/>
-    <meta name="twitter:title" content="8 raisons pour lesquelles le béton ciré est l'avenir
+    <meta name="twitter:title" content="8 raisons pour lesquelles le béton ciré  est l'avenir
 des rénovations"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
@@ -60,10 +60,10 @@ des rénovations"/>
                 </ul>
             </div>
             <div class="content">
-                <h1>8 raisons pour lesquelles le béton ciré est l'avenir
+                <h1>8 raisons pour lesquelles le béton ciré  est l'avenir
                     des rénovations</h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
-                    <p>Le béton ciré est le revêtement décoratif du présent
+                    <p>Le béton ciré  est le revêtement décoratif du présent
                         , mais surtout du futur, car ses multiples avantages par rapport aux autres matériaux le rendent idéal
                         pour créer toutes sortes d'espaces et de styles.
                     </p>
@@ -74,14 +74,14 @@ des rénovations"/>
 
                     <h2 class="en3">1. Infini de couleurs
                     </h2>
-                    <p>Le mélange des différents types de pigments de couleur de béton ciré
+                    <p>Le mélange des différents types de pigments de couleur de béton ciré 
                         offre à l'utilisateur une multiplicité de couleurs pour libérer sa créativité.
                         Des combinaisons illimitées qui donneront à chaque pièce ou meuble sa propre vie
                         et qui renforceront la personnalité d'une maison unique et irremplaçable.</p>
 
 
                     <h2 class="en3">2. Compatible avec toutes les surfaces</h2>
-                    <p>L'un des grands avantages du béton ciréest sa capacité à s'adapter à pratiquement
+                    <p>L'un des grands avantages du béton ciré est sa capacité à s'adapter à pratiquement
                         toutes les surfaces existantes grâce à sa grande adhérence,
                         il n'est donc pas nécessaire d'enlever l'ancien matériau
                         comme cela se produit dans de nombreux travaux et rénovations domiciliaires. Et rien à craindre s'il se détache! Ça n'arrivera pas.</p>
@@ -89,16 +89,16 @@ des rénovations"/>
 
                     <figure class="figure">
                         <img src="https://www.topciment.com/imagenes/news/Topciment Shkaf 2.jpg" class="figure-img img-fluid " title="Salón microcemento " alt=" Salón de microcemento Topciment">
-                        <figcaption class="figure-caption">Salle de séjour avec béton ciréTopciment sur le sol et les murs.</figcaption>
+                        <figcaption class="figure-caption">Salle de séjour avec béton ciré Topciment sur le sol et les murs.</figcaption>
                     </figure>
                     <h2 class="en3"> 3. Valeur décorative élevée</h2>
-                    <p>Le béton ciré s'applique aussi bien à l'intérieur qu'à l'extérieur,
+                    <p>Le béton ciré  s'applique aussi bien à l'intérieur qu'à l'extérieur,
                         il s'adapte parfaitement aux sols, murs, plafonds, terrasses, piscines et même aux meubles.
-                        Par conséquent, le béton ciréa une valeur décorative élevée car si vous pouvez l'imaginer, vous pouvez le faire.</p>
+                        Par conséquent, le béton ciré a une valeur décorative élevée car si vous pouvez l'imaginer, vous pouvez le faire.</p>
                     <h2 class="en3">4. Grande résistance</h2>
                     <p>
 
-                        Si vous pariez sur le béton ciré , vous misez également sur la résistance,
+                        Si vous pariez sur le béton ciré  , vous misez également sur la résistance,
                         car c'est un matériau qui résiste parfaitement aux forces mécaniques,
                         à l'abrasion ou à l'effet des rayons ultraviolets, entre autres.
                         Tous les matériaux ne peuvent pas en dire autant.
@@ -122,22 +122,22 @@ des rénovations"/>
                     </h2>
                     <p>
                         Par rapport au point précédent, le nettoyage et l'entretien sont très simples.
-                        Avec juste de l'eau et du savon neutre, vous vous assurez que le béton ciré est toujours en parfait état et que ses propriétés restent intactes.
+                        Avec juste de l'eau et du savon neutre, vous vous assurez que le béton ciré  est toujours en parfait état et que ses propriétés restent intactes.
                     </p>
 
                     <h2 class="en3">7. Épaisseur
                     </h2>
-                    <p>Contrairement au ciment lissé, l'épaisseur du béton cirést négligeable, puisqu'une couche mince entre 2 et 3 mm est appliquée. De cette façon, même s'il est placé au-dessus de toute autre surface, le résultat final est imperceptible.</p>
+                    <p>Contrairement au ciment lissé, l'épaisseur du béton ciré st négligeable, puisqu'une couche mince entre 2 et 3 mm est appliquée. De cette façon, même s'il est placé au-dessus de toute autre surface, le résultat final est imperceptible.</p>
 
                     <h2 class="en3"> 8. Rapport qualité / prix
                     </h2>
 
                     <p>
-                        Dernier point mais non le moindre, le joyau de la couronne. Le fait qu'il ne soit pas nécessaire de retirer la surface précédente pour installer le béton ciréréduit drastiquement le coût total d'un travail ou d'une rénovation qui ne perd pas un iota de distinction et d'élégance.
+                        Dernier point mais non le moindre, le joyau de la couronne. Le fait qu'il ne soit pas nécessaire de retirer la surface précédente pour installer le béton ciré réduit drastiquement le coût total d'un travail ou d'une rénovation qui ne perd pas un iota de distinction et d'élégance.
                     </p>
 
                     <h2 class="en3">Topciment, le meilleur choix</h2>
-                    <p>Topciment est le fabricant de béton ciré En Espagne avec plus d'années d'expérience sur le marché, en particulier depuis 2005. Nos produits combinent haute performance, facilité d'application et finitions exclusives que vous ne trouverez nulle part ailleurs. Parler de Topciment, c'est parler d'un produit de qualité contrasté, reconnaissable, à fort impact international qui nous différencie de tout autre béton ciréou revêtement actuellement sur le marché. Grâce à notre réseau de distributeurs dans plus de 58 pays, nous avons obtenu une grande reconnaissance qui fait de nous des experts nationaux et internationaux.
+                    <p>Topciment est le fabricant de béton ciré  En Espagne avec plus d'années d'expérience sur le marché, en particulier depuis 2005. Nos produits combinent haute performance, facilité d'application et finitions exclusives que vous ne trouverez nulle part ailleurs. Parler de Topciment, c'est parler d'un produit de qualité contrasté, reconnaissable, à fort impact international qui nous différencie de tout autre béton ciré ou revêtement actuellement sur le marché. Grâce à notre réseau de distributeurs dans plus de 58 pays, nous avons obtenu une grande reconnaissance qui fait de nous des experts nationaux et internationaux.
 
                     </p>
                     <p> Qu'attendez-vous pour le changement?</p>
@@ -258,10 +258,10 @@ des rénovations"/>
                                                         <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color:black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 13px" placeholder="Email" changeitem="SIGNUP_FORM_FIELD" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL">
                                                     </div>
                                                     <div style="position: relative; margin: 15px 15px 15px 15px; width: 150px; height: 28px; display: inline-block" class="SIGNUP_FLD">
-                                                        <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
+                                                        <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nom" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                     </div>
                                                     <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block" class="SIGNUP_FLD">
-                                                        <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                     </div>
                                                     <input type="hidden" id="fieldBorder" value="">
                                                     <input type="hidden" id="submitType" name="submitType" value="optinCustomView">

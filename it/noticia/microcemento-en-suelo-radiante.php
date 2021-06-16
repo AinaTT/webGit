@@ -70,7 +70,7 @@
                         microcemento da quasi due decenni. Uno dei più ricorrenti riguarda proprio la possibilità di
                         installare un pavimento radiante in microcemento. </p>
                     <p>Di seguito, spieghiamo le istruzioni passo per passo affinché l'<a class="links"
-                            href=".../microcemento/metodos-de-aplicacion-microcemento">applicazione del microcemento</a>
+                            href=".../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">applicazione del microcemento</a>
                         sul riscaldamento a pavimento sia un successo completo. Prendete nota dei nostri consigli. </p>
                     <h3>Riscaldare il pavimento prima di applicare il microcemento</h3>
                     <p>Prima di applicare il microcemento sul riscaldamento a pavimento, bisogna eseguire un protocollo

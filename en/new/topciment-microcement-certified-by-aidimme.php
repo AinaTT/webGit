@@ -117,6 +117,36 @@
 
     <!-- include jQuery -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/topciment-microcement-certified-by-aidimme"
+  },
+  "headline": "Design and comfort for outdoor spaces",
+  "image":"https://www.topciment.com/imagenes/aidimme/microcemento-aidimme.jpg",
+  "datePublished": "2020-01-16",
+  "dateModified": "2020-01-16",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"The certification tests carried out by AIDIMME consist of reproducing the conditions to which the products may be exposed and seeing how they respond. AIDIMME's laboratories are accredited by ENAC and other international bodies such as ISTA."
+}
+</script>
 </body>
 
 </html>

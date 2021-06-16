@@ -15,20 +15,20 @@
     <link rel="preload" href="../assets/css/contacto.css" as="style" />
     <link rel="stylesheet" href="../assets/css/contacto.css" />
 
-    <title>Kontaktformular für Microcemento Topciment</title>
+    <title>Kontaktformular für mikrozement Topciment</title>
     <meta name="description"
         content="Lösen Sie Ihre Zweifel, fordern Sie Informationen an, finden Sie Verkaufsstellen, Distributoren oder Applikatoren von Microcemento. National und international." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Topciment Mikrozement-Kontaktformular" />
+    <meta property="og:title" content="Topciment mikrozement -Kontaktformular" />
     <meta property="og:description"
-        content="Lösen Sie Ihre Zweifel, fordern Sie Informationen an, finden Sie Verkaufsstellen, Händler oder Verarbeiter von Mikrozement. National und international." />
+        content="Lösen Sie Ihre Zweifel, fordern Sie Informationen an, finden Sie Verkaufsstellen, Händler oder Verarbeiter von mikrozement . National und international." />
     <meta property="og:url" content="https://www.topciment.com/de/kontakt" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Lösen Sie Ihre Zweifel, fordern Sie Informationen an, finden Sie Verkaufsstellen, Händler oder Verarbeiter von Mikrozement. National und international." />
-    <meta name="twitter:title" content="Kontaktformular für Topciment Mikrozement" />
+        content="Lösen Sie Ihre Zweifel, fordern Sie Informationen an, finden Sie Verkaufsstellen, Händler oder Verarbeiter von mikrozement . National und international." />
+    <meta name="twitter:title" content="Kontaktformular für Topciment mikrozement " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -551,7 +551,7 @@
             </section>
 
             <img src="https://www.topciment.com/imagenes/sistemas/Topciment_Contacta_Home.jpg" width="100%"
-                style="margin-bottom: -50px !important;" alt="tienda topciment microcemento valencia">
+                style="margin-bottom: -50px !important;" alt="tienda topciment mikrozement valencia">
 
             <script>
                 function MM_jumpMenuGo(objId, targ, restore) { //v9.0

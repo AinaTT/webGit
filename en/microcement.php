@@ -35,11 +35,11 @@
   <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
   <link rel="canonical" href="https://www.topciment.com/en/microcement" />
-  
-  <link rel="alternate" href="https://www.topciment.com/es/microcementos" hreflang="es-ES"/>
-  <link rel="alternate" href="https://www.topciment.com/en/microcement" hreflang="en-GB"/>
-  <link rel="alternate" href="https://www.topciment.com/fr/information-beton-cire" hreflang="fr-FR"/>
-<link rel="alternate" href="https://topciment.com/pl/mikrocementy" hreflang="pl-PL" />
+
+  <link rel="alternate" href="https://www.topciment.com/es/microcementos" hreflang="es-ES" />
+  <link rel="alternate" href="https://www.topciment.com/en/microcement" hreflang="en-GB" />
+  <link rel="alternate" href="https://www.topciment.com/fr/information-beton-cire" hreflang="fr-FR" />
+  <link rel="alternate" href="https://topciment.com/pl/mikrocementy" hreflang="pl-PL" />
 
   <?php include("../assets/../assets/includes/root-scripts-head.php"); ?>
 </head>
@@ -54,7 +54,7 @@
         <li>
           <a href="#up" style="font-size:26px">Microcement</a>
         </li>
-        <li><a href="#que-es-microcemento">What is el microcemento?</a></li>
+        <li><a href="#que-es-microcemento">What is microcement?</a></li>
         <li><a href="#donde-aplicar">Where can it be applied?</a></li>
         <li><a href="#tipos-de-microcemento">Types of microcement</a></li>
         <li><a href="#ventajas">Advantages of microcement</a></li>
@@ -77,15 +77,21 @@
 
         <h1 class="mb-3">What is microcement? Uses, types, application and advantages</h1>
 
-<p>Microcement Topciment is a decorative coating composed of cement, water-based resins, additives and mineral pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence. This construction material stands out because it is applied directly onto existing materials: tiles, plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a rapid renovation of spaces is achieved.
-        <p>A cutting-edge cladding, jointless and suitable for both outdoor and indoor spaces. A continuous cladding
-          that can be applied on floors, walls, stairs, ceilings, swimming pools and even furniture. Its versatility has
-          led to its increasing presence in the refurbishment of private homes and in commercial premises and large
-          surfaces such as sports centres, industrial buildings, hotels and restaurants.
-        </p>
-        <p>Topciment offers you a wide range of possibilities and decorative finishes, where you set the limit. Give
-          rooms a unique and personal character thanks to the different textures (thick, medium or thin); the wide
-          variety of microcement colours; and the different finishes that our varnishes and metallic coatings allow.</p>
+        <p>Microcement Topciment is a decorative coating composed of cement, water-based resins, additives and mineral
+          pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence.
+          This construction material stands out because it is applied directly onto existing materials: tiles,
+          plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a
+          thickness of only 3 millimetres, a rapid renovation of spaces is achieved.
+          <p>A cutting-edge cladding, jointless and suitable for both outdoor and indoor spaces. A continuous cladding
+            that can be applied on floors, walls, stairs, ceilings, swimming pools and even furniture. Its versatility
+            has
+            led to its increasing presence in the refurbishment of private homes and in commercial premises and large
+            surfaces such as sports centres, industrial buildings, hotels and restaurants.
+          </p>
+          <p>Topciment offers you a wide range of possibilities and decorative finishes, where you set the limit. Give
+            rooms a unique and personal character thanks to the different textures (thick, medium or thin); the wide
+            variety of microcement colours; and the different finishes that our varnishes and metallic coatings allow.
+          </p>
       </div>
       <div class="separador"></div>
     </div>
@@ -117,9 +123,8 @@
           facilitating cleaning and disinfection, helping to obtain places free of germs and bacteria.
           In addition, our microcements guarantee a high resistance in the areas most exposed to traffic as well as to
           the most aggressive cleaning products. Hence the high demand for
-          <strong><a class="links" href="new/microcement-in-kitchens">microcement in kitchens </a></strong>
-          and <strong><a class="links" href="new/6-reasons-why-microcement-bathrooms-will-be-a-trend-in-2021">
-              microcement bathroomso </a></strong> .</p>
+          <strong><strong><a class="links" href="new/microcement-in-kitchens">microcement in kitchens </a></strong></strong> and <strong><a class="links" href="new/6-reasons-why-microcement-bathrooms-will-be-a-trend-in-2021">
+              microcement bathrooms </a></strong> .</p>
 
 
         <figure>
@@ -136,22 +141,23 @@
     <div class="container">
       <div class="content">
         <h3>Microcement on walls</h3>
-        <p>Microcement is a highly recommended building material for covering all types of walls and facades. In our
-          gallery you will find different Topciment microcement walls to
-          <strong><a class="links" href="microcements/gallery#paredes">inspire you </a></strong>.
+        <p>
+          Microcement is a highly recommended building material for covering all types of walls and facades. In our
+          gallery you will find different Topciment microcement walls to inspire you.
+          If you want to complete the information about<strong><a class="links" href="new/wall-coverings-with-Topciment"> microcement on walls</a></strong>, read our post.
         </p>
 
         <h3>Microcement floors</h3>
         <p>Continuous microcement floors are not only very attractive to look at, but also have interesting qualities.
-          Explore
-          <strong><a class="links" href="microcements/gallery#suelos">our gallery </a> </strong>
-          and discover all the microcement floors that can be created with Topciment. </p>
-
+          Explore our gallery and discover all the microcement floors that
+          can be created with Topciment. If you want to know more, we recommend that you read our article about <strong><a class="links" href="new/microcement-floors">microcement floors</a> </strong>.
+        </p>
         <h3>Microcement bathrooms</h3>
         <p>Microcement is a perfect decorative coating to renovate the bathroom, especially because of its resistance to
-          moisture and how easy it is to clean. Take a look at all the microcement bathrooms that are possible with
-          Topciment microcements in
-          <strong><a class="links" href="microcements/gallery#banyos"> our gallery </a> </strong>. </p>
+          moisture and how easy it is to clean. Take a look at all the
+          microcement bathrooms that are possible with Topciment microcements in our gallery or read our article of <strong>
+          <a class="links" href="new/6-reasons-why-microcement-bathrooms-will-be-a-trend-in-2021">microcement bathrooms</a></strong>.
+        </p>
 
         <figure>
           <img class="mt-4 foto-microcemento img-fluid"
@@ -163,28 +169,31 @@
         </figure>
         <h3>Microcement in kitchens</h3>
         <p>Microcement in kitchens can be used in many ways. It can cover floors and walls, ceilings, sinks and kitchen
-          worktops in practically every colour you can imagine. Microcement kitchens of all styles and sizes. We invite
-          you to check it out in
-          <strong><a class="links" href="microcements/gallery#cocinas">our gallery </a> </strong>.</p>
+          worktops in practically every colour you can imagine.
+          Microcement kitchens of all styles and sizes. We invite you to check it out in our blog article of <strong><a class="links" href="new/microcement-kitchens-advantages-styles-and-tips">microcement kitchens</a></strong>.
+        </p>
 
         <h3>Microcement stairs</h3>
         <p>The versatility of microcement means that it can even be used on stairs, although the applicator's work is
-          somewhat more complex. With Topciment microcements it is possible to design spectacular microcement stairs.
-          Discover them in
-          <strong><a class="links" href="microcements/gallery#escaleras">our gallery
-            </a> </strong> </p>
+          somewhat more complex. With Topciment microcements it is possible to
+          design spectacular microcement stairs. Discover them in our post of microcement stairs</a>
+          <!-- (link noticia) TODO -->.
+        </p>
         <h3>Microcement pools</h3>
         <p>Covering the crown and the area around the pool with microcement is a guaranteed success. The non-slip and
-          waterproof nature of our decorative coatings, as well as their excellent resistance to UV rays, make them
-          ideal for covering indoor and outdoor pools. In
-          <strong><a class="links" href="microcements/gallery#piscinas">our gallery</a> </strong>you will find all types
-          of microcement pools. </p>
+          waterproof nature of our decorative coatings, as well as their
+          excellent resistance to UV rays, make them ideal for covering indoor and outdoor pools. In our blog you will
+          find everything you need to know and the
+          advantages of<strong><a class="links" href="new/microcement-pools-the-best-possible-option"> microcement swimming pools</a></strong>.
+        </p>
+
 
         <h3>Outdoor microcement</h3>
         <p>Microcement is an excellent continuous coating also for exterior surfaces such as terrace floors, patios of
-          residential houses or facades and walls of buildings. Visit
-          <strong><a class="links" href="microcements/gallery#exterior">our gallert </a> </strong>
-          and discover all the options for applying microcement on exteriors.</p>
+          residential houses or facades and walls of buildings.
+          Visit our gallery or read our post and discover all the options for applying <strong><a  class="links" href="new/design-and-comfort-for-outdoor-spaces">microcement on outdoors</a>.</strong>
+          <p>Now that you know where it can be applied, it is time to learn how to do it. On this page you will find a
+            step-by-step guide to <strong><a class="links" href="microcements/how-to-apply-microcement-microcement-application-step-by-step">applying microcement</a>  </strong>to floors, walls and swimming pools.</p>
       </div>
     </div>
     <div class="fullscreen background parallax"
@@ -358,7 +367,7 @@
                 src="https://www.topciment.com/imagenes/topsealer/Supermate.jpg" alt="Acabado mate"
                 title="acabado mate"></div>
             <div class="col-md-11 my-auto">
-              <h3>Microcemento super matt finish</h3>
+              <h3>Microcement super matt finish</h3>
               <p>Ideal for when you are looking for a deep matt finish, without shine.</p>
             </div>
           </div>
@@ -367,7 +376,7 @@
                 src="https://www.topciment.com/imagenes/topsealer/Satinado.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
-              <h3>Microcemento satin finish</h3>
+              <h3>Microcement satin finish</h3>
               <p>Halfway between the matt finish and the gloss finish. It is one of the most popular because it gives a
                 modern look to the surface</p>
             </div>
@@ -407,39 +416,38 @@
           <p>We have a wide range of microcement colours. The pigmentation system allows us to create any colour to
             measure, thus personalising rooms and atmospheres to achieve your own style. </p>
           <p> White, grey, green, red, black or blue are just some of the many microcement colours available for
-              our systems.choose the one that best suits your project here.
+            our systems.choose the one that best suits your project here.
 
-              <p><a class="links" href="microcements/two-component-microcement-sttandard#colores"><i
-                    class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
-                    style="color: #7e91a6;">STTANDARD</strong> here.</a></p>
-              <p><a class="links" href="microcements/two-component-microcement-unlimitted#colores"><i
-                    class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
-                    style="color:#d9da23;">UNLIMITTED</strong> here.</a></p>
-              <p><a class="links" href="microcements/one-component-microcement-evoluttion#colores"><i
-                    class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
-                    style="color:#e30514;">EVOLUTTION</strong> here.</a></p>
-              <p><a class="links" href="microcements/microcement-for-pools-atlanttic#colores"><i
-                    class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
-                    style="color:#4c86c3;">ATLANTTIC</strong> here.</a></p>
+            <p><a class="links" href="microcements/two-component-microcement-sttandard#colores"><i
+                  class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
+                  style="color: #7e91a6;">STTANDARD</strong> here.</a></p>
+            <p><a class="links" href="microcements/two-component-microcement-unlimitted#colores"><i
+                  class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
+                  style="color:#d9da23;">UNLIMITTED</strong> here.</a></p>
+            <p><a class="links" href="microcements/one-component-microcement-evoluttion#colores"><i
+                  class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
+                  style="color:#e30514;">EVOLUTTION</strong> here.</a></p>
+            <p><a class="links" href="microcements/microcement-for-pools-atlanttic#colores"><i
+                  class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
+                  style="color:#4c86c3;">ATLANTTIC</strong> here.</a></p>
 
-              <p> <a class="links" href="microcements/ready-to-use-microcement-efectto#colores"><i
-                    class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
-                    style="color:#e5007d;">EFECTTO</strong>
-                  here.</a> </p>
+            <p> <a class="links" href="microcements/ready-to-use-microcement-efectto#colores"><i
+                  class="fas fa-arrow-circle-right"></i> Discover all the colours of <strong
+                  style="color:#e5007d;">EFECTTO</strong>
+                here.</a> </p>
 
-              <p><a class="links" href="microcements/metallic-coating-pure-mettal#puremetal-aluminium"><i
-                    class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
-                    style="color:#95969e;">PURE
-                    METTAL</strong> here.</a></p>
-              <p><a class="links"
-                  href="microcements/metallic-paints-oxide-effect-classic-mettal#puremetal-aluminium"><i
-                    class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
-                    style="color:#9c611b;">CLASSIC
-                    METTAL</strong> here.</a></p>
-              <p><a class="links" href="microcements/metallic-glazes-elitte#elitte-glaze"><i
-                    class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
-                    style="color:#ee7269;">ELITTE</strong>
-                  here.</a></p>
+            <p><a class="links" href="microcements/metallic-coating-pure-mettal#puremetal-aluminium"><i
+                  class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
+                  style="color:#95969e;">PURE
+                  METTAL</strong> here.</a></p>
+            <p><a class="links" href="microcements/metallic-paints-oxide-effect-classic-mettal#puremetal-aluminium"><i
+                  class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
+                  style="color:#9c611b;">CLASSIC
+                  METTAL</strong> here.</a></p>
+            <p><a class="links" href="microcements/metallic-glazes-elitte#elitte-glaze"><i
+                  class="fas fa-arrow-circle-right "></i> Discover all the colours of <strong
+                  style="color:#ee7269;">ELITTE</strong>
+                here.</a></p>
 
 
 
@@ -550,7 +558,7 @@
             <div id="heading2" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse2" aria-expanded="false"
                   aria-controls="collapse2" class="d-block position-relative collapsed     collapsible-link py-2">
-                 2 On what substrates can microcement be applied? </a></h3>
+                  2 On what substrates can microcement be applied? </a></h3>
             </div>
             <div id="collapse2" aria-labelledby="heading2" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
@@ -982,7 +990,7 @@
                 </div>
               </div>
 
-                 <! -- Question 8 -->
+              <! -- Question 8 -->
                 <div class="card">
                   <div id="heading8" class="card-header bg-white shadow-sm border-0">
                     <h3><a href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="false"
@@ -1002,310 +1010,372 @@
                     </div>
                   </div>
                 </div>
-      
-      <! -- Question 9 -->
-        <div class="card">
-          <div id="heading9" class="card-header bg-white shadow-sm border-0">
-            <h3><a href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="false"
-                aria-controls="collapse9" class="d-block position-relative collapsed collapsible-link py-2"> 9. How to
-                clean microcement</a></h3>
-          </div>
-          <div id="collapse9" aria-labelledby="heading9" data-parent="#accordionExample" class="collapse">
-            <div class="card-body p-4">
-              <p class=" m-0"> One of the most frequently asked questions about this decorative coating is how to clean
-                microcement. Although the cleaning of microcement is simple and with water and neutral soap is more than
-                enough, in Topciment we have created exclusive products for cleaning and care of microcement to obtain
-                better results over time. </p> <a href="javascript:ShowHide('text1_9');" id="link1_1"
-                style="colour:#000; text-decoration:none;"><strong>+information</strong></a>
-              <div class="hide" id="text1_9" style="text-align: left;font-size:16px;">
-                <p style="font-size:16px; margin-bottom:5px">The care of microcement is similar to that of natural wood
-                  parquet. It is advisable to avoid permanent waterlogging and prolonged contact with humidity. We must
-                  avoid leaving wet carpets and towels on the floor or pots that leak liquid. The surface should also be
-                  kept free of stones or grit, which can scratch the coating when stepped on. Avoid bumping and rubbing
-                  against hard objects. </p>
-                <p>Although microcement is highly resistant to chemical products, microcement should be cleaned with
-                  neutral soaps, never with aggressive products or descaling agents. Avoid products such as chlorine,
-                  bleach, ammonia, soaps and detergents in general, as they can damage the protective film. </p>
+
+                <! -- Question 9 -->
+                  <div class="card">
+                    <div id="heading9" class="card-header bg-white shadow-sm border-0">
+                      <h3><a href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="false"
+                          aria-controls="collapse9" class="d-block position-relative collapsed collapsible-link py-2">
+                          9. How to
+                          clean microcement</a></h3>
+                    </div>
+                    <div id="collapse9" aria-labelledby="heading9" data-parent="#accordionExample" class="collapse">
+                      <div class="card-body p-4">
+                        <p class=" m-0"> One of the most frequently asked questions about this decorative coating is how
+                          to clean
+                          microcement. Although the cleaning of microcement is simple and with water and neutral soap is
+                          more than
+                          enough, in Topciment we have created exclusive products for cleaning and care of microcement
+                          to obtain
+                          better results over time. </p> <a href="javascript:ShowHide('text1_9');" id="link1_1"
+                          style="colour:#000; text-decoration:none;"><strong>+information</strong></a>
+                        <div class="hide" id="text1_9" style="text-align: left;font-size:16px;">
+                          <p style="font-size:16px; margin-bottom:5px">The care of microcement is similar to that of
+                            natural wood
+                            parquet. It is advisable to avoid permanent waterlogging and prolonged contact with
+                            humidity. We must
+                            avoid leaving wet carpets and towels on the floor or pots that leak liquid. The surface
+                            should also be
+                            kept free of stones or grit, which can scratch the coating when stepped on. Avoid bumping
+                            and rubbing
+                            against hard objects. </p>
+                          <p>Although microcement is highly resistant to chemical products, microcement should be
+                            cleaned with
+                            neutral soaps, never with aggressive products or descaling agents. Avoid products such as
+                            chlorine,
+                            bleach, ammonia, soaps and detergents in general, as they can damage the protective film.
+                          </p>
 
 
-                <p><strong>Initial care</strong></p>
-                <p>Microcement reaches the desired values of hardness, chemical resistance and waterproofing <strong>one
-                    month after application</strong>. The greatest risk of damage is in the first two weeks. It will be
-                  trafficable with great care two days after sealing of the pavements, and trafficable as normal one
-                  week later. </p>
-                <p>We recommend avoiding dragging heavy objects to avoid damaging the surface. To move furniture: it is
-                  better to lift and support, <strong>never drag</strong>. It is necessary to protect the floor from
-                  furniture (metal legs, sharp surfaces), and from objects with abrasive contact surfaces or of
-                  considerable weight, with covers or felts.</p>
-                <p><strong>Permanent care</strong></p>
-                <p>We recommend periodically maintaining microcement floors with Ceraciment or Ceraciment PRO or acrylic
-                  waxes. The frequency of waxing will depend on the use and characteristics of the location (traffic,
-                  surrounding dust, etc). We recommend the use of wiping mops to ensure correct application of the
-                  product.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-    
-  <! -- Question 10 -->
-    <div class="card">
-      <div id="heading10" class="card-header bg-white shadow-sm border-0">
-        <h3><a href="#" data-toggle="collapse" data-target="#collapse10" aria-expanded="false"
-            aria-controls="collapse10" class="d-block position-relative collapsed collapsible-link py-2"> 10.can
-            microcement lose colour over time? </a></h3>
-      </div>
-      <div id="collapse10" aria-labelledby="heading10" data-parent="#accordionExample" class="collapse">
-        <div class="card-body p-4">
-          <p class=" m-0"> In Topciment, <strong> <a class="links"
-                href="microcements/microcement-manufacturer">microcement manufacturers</a></strong> , we have a
-            wide range of microcement colours to cover any type of surface. However, can microcement lose colour
-            over time? No, our microcement colours behave in a stable way, without suffering alterations over time
-            and without being affected by the weather. </p> <a href="javascript:ShowHide('text1_4c');" id="link1_1"
-            style="colour:#000; text-decoration:none;"><strong>+information</strong></a>
-          <div class="hideable" id="text1_4c" style="text-align: left; font-size: 16px;">
-            <p>The pigments we use to make our dyes are of mineral origin. Within the pigments we distinguish
-              between those of mineral origin and those of organic origin. Pigments of mineral origin are the ones
-              that behave best against the alkalinity of the cement. Organic pigments (molecules containing
-              carbon) are not stable in the open air, they end up transforming into other compounds without
-              pigmentary properties or migrating to the surface, so that some initial tones end up disappearing
-              almost completely after some time. Inorganic pigments generally maintain stability in mortars and
-              concretes.</p>
-          </div>
-        </div>
+                          <p><strong>Initial care</strong></p>
+                          <p>Microcement reaches the desired values of hardness, chemical resistance and waterproofing
+                            <strong>one
+                              month after application</strong>. The greatest risk of damage is in the first two weeks.
+                            It will be
+                            trafficable with great care two days after sealing of the pavements, and trafficable as
+                            normal one
+                            week later. </p>
+                          <p>We recommend avoiding dragging heavy objects to avoid damaging the surface. To move
+                            furniture: it is
+                            better to lift and support, <strong>never drag</strong>. It is necessary to protect the
+                            floor from
+                            furniture (metal legs, sharp surfaces), and from objects with abrasive contact surfaces or
+                            of
+                            considerable weight, with covers or felts.</p>
+                          <p><strong>Permanent care</strong></p>
+                          <p>We recommend periodically maintaining microcement floors with Ceraciment or Ceraciment PRO
+                            or acrylic
+                            waxes. The frequency of waxing will depend on the use and characteristics of the location
+                            (traffic,
+                            surrounding dust, etc). We recommend the use of wiping mops to ensure correct application of
+                            the
+                            product.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <! -- Question 10 -->
+                    <div class="card">
+                      <div id="heading10" class="card-header bg-white shadow-sm border-0">
+                        <h3><a href="#" data-toggle="collapse" data-target="#collapse10" aria-expanded="false"
+                            aria-controls="collapse10"
+                            class="d-block position-relative collapsed collapsible-link py-2"> 10.can
+                            microcement lose colour over time? </a></h3>
+                      </div>
+                      <div id="collapse10" aria-labelledby="heading10" data-parent="#accordionExample" class="collapse">
+                        <div class="card-body p-4">
+                          <p class=" m-0"> In Topciment, <strong> <a class="links"
+                                href="microcements/microcement-manufacturer">microcement manufacturers</a></strong> , we
+                            have a
+                            wide range of microcement colours to cover any type of surface. However, can microcement
+                            lose colour
+                            over time? No, our microcement colours behave in a stable way, without suffering alterations
+                            over time
+                            and without being affected by the weather. </p> <a href="javascript:ShowHide('text1_4c');"
+                            id="link1_1" style="colour:#000; text-decoration:none;"><strong>+information</strong></a>
+                          <div class="hideable" id="text1_4c" style="text-align: left; font-size: 16px;">
+                            <p>The pigments we use to make our dyes are of mineral origin. Within the pigments we
+                              distinguish
+                              between those of mineral origin and those of organic origin. Pigments of mineral origin
+                              are the ones
+                              that behave best against the alkalinity of the cement. Organic pigments (molecules
+                              containing
+                              carbon) are not stable in the open air, they end up transforming into other compounds
+                              without
+                              pigmentary properties or migrating to the surface, so that some initial tones end up
+                              disappearing
+                              almost completely after some time. Inorganic pigments generally maintain stability in
+                              mortars and
+                              concretes.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <! -- Question 11 -->
+                      <div class="card">
+                        <div id="heading11" class="card-header bg-white shadow-sm border-0">
+                          <h3><a href="#" data-toggle="collapse" data-target="#collapse11" aria-expanded="false"
+                              aria-controls="collapse11"
+                              class="d-block position-relative collapsed collapsible-link py-2"> 11.
+                              Why might there be differences in brightness between the sample and the work being
+                              performed? </a>
+                          </h3>
+                        </div>
+                        <div id="collapse11" aria-labelledby="heading11" data-parent="#accordionExample"
+                          class="collapse">
+                          <div class="card-body p-4">
+                            <p class=" m-0"> The <a href="microcements/how-to-apply-microcement-microcement-application-step-by-step">application of
+                                microcement</a> is a craft, factors such as the material load or the roller used in the
+                              sealing
+                              process mean that there may be small differences in gloss between the sample and the work.
+                              . The
+                              catalogues are sealed with a roller, if the sealing is done with a spray gun, a slightly
+                              higher
+                              gloss is achieved. </p>
+                          </div>
+                        </div>
+                      </div>
+
+                      <! -- Question 12 -->
+                        <div class="card">
+                          <div id="heading12" class="card-header bg-white shadow-sm border-0">
+                            <h3><a href="#" data-toggle="collapse" data-target="#collapse12" aria-expanded="false"
+                                aria-controls="collapse12"
+                                class="d-block position-relative collapsed collapsible-link py-2"> 12.
+                                Can colours be combined on the same surface?</a></h3>
+                          </div>
+                          <div id="collapse12" aria-labelledby="heading12" data-parent="#accordionExample"
+                            class="collapse">
+                            <div class="card-body p-4">
+                              <p class="m-0"> Yes, different colours of microcement can be combined on the same surface,
+                                even
+                                several finishes. The key is to clearly delimit the surface where you want to apply
+                                another
+                                colour. </p>
+
+
+
+
+                            </div>
+                          </div>
+                        </div>
+                        <!-- Pregunta 13 -->
+                        <div class="card">
+                          <div id="heading13" class="card-header bg-white shadow-sm border-0">
+                            <h3><a href="#" data-toggle="collapse" data-target="#collapse13" aria-expanded="false"
+                                aria-controls="collapse13"
+                                class="d-block position-relative collapsed     collapsible-link py-2">
+                                13. Is it compulsory to apply the microcement mesh? </a> </h3>
+                          </div>
+                          <div id="collapse13" aria-labelledby="heading13" data-parent="#accordionExample"
+                            class="collapse">
+                            <div class="card-body p-4">
+                              <p>We always recommend applying fibre mesh, especially on tiled floors and walls, as well
+                                as in the
+                                joints between plasterboard panels, it is used to reinforce the microcement base and
+                                prevent
+                                cracks due to stresses in the microcement substrate. The final decision on whether to
+                                use it or
+                                not is up to the applicator, of course, but if they do not add it, warn them of the
+                                problems that
+                                may arise.</p>
+                            </div>
+                          </div>
+                        </div>
+
+                        <! -- Question 14 -->
+                          <div class="card">
+                            <div id="heading14" class="card-header bg-white shadow-sm border-0">
+                              <h3><a href="#" data-toggle="collapse" data-target="#collapse14" aria-expanded="false"
+                                  aria-controls="collapse14"
+                                  class="d-block position-relative collapsed collapsible-link py-2">
+                                  14. What drying time should we allow between the first coat of sealer and the second
+                                  coat? </a>
+                              </h3>
+                            </div>
+                            <div id="collapse14" aria-labelledby="heading14" data-parent="#accordionExample"
+                              class="collapse">
+                              <div class="card-body p-4">
+                                <p>The drying time between coats of sealer or varnish will depend on several factors.
+                                  For example,
+                                  the weather conditions, the relative humidity, the ambient temperature of the room,
+                                  whether it
+                                  is an enclosed and humid space such as a bathroom, whether the sun has a direct impact
+                                  on the
+                                  room, etc. </p>
+                                <p>In any case, we will always try in all circumstances to allow as much drying time as
+                                  possible
+                                  between coats to prevent white stains from forming because the surface is still damp.
+                                  The
+                                  minimum drying time between coats is 4 hours for Presealer and 24 hours for Topsealer.
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+
+                          <! -- Question 15 -->
+                            <div class="card">
+                              <div id="heading15" class="card-header bg-white shadow-sm border-0">
+                                <h3><a href="#" data-toggle="collapse" data-target="#collapse15" aria-expanded="false"
+                                    aria-controls="collapse15"
+                                    class="d-block position-relative collapsed collapsible-link py-2">
+                                    15. How much does microcement cost per m2? </a> </h3>
+                              </div>
+                              <div id="collapse15" aria-labelledby="heading15" data-parent="#accordionExample"
+                                class="collapse">
+                                <div class="card-body p-4">
+                                  <p class=" m-0"> <strong>The price of microcement varies depending on many
+                                      factors.</strong>
+                                    Only a professional applicator of this decorative coating can give an accurate price
+                                    per
+                                    square metre of this coating. </p>
+                                  <p>The travel time of the professionals, the type of microcement selected and the
+                                    substrate on
+                                    which the microcement is to be applied are some of the factors that will determine
+                                    the price
+                                    per square metre of microcement. </p> <br> <strong> <strong> <a class="links"
+                                        href="new/microcement-price"> More information </a></strong>
+                                </div>
+                              </div>
+                            </div>
+
+                            <! -- Question 16 -->
+                              <div class="card">
+                                <div id="heading16" class="card-header bg-white shadow-sm border-0">
+                                  <h3><a href="#" data-toggle="collapse" data-target="#collapse16" aria-expanded="false"
+                                      aria-controls="collapse16"
+                                      class="d-block position-relative collapsed collapsible-link py-2"> 16.
+                                      How can I sign up for
+                                      a microcement course</a> </h3>
+                                </div>
+                                <div id="collapse16" aria-labelledby="heading16" data-parent="#accordionExample"
+                                  class="collapse">
+                                  <div class="card-body p-4">
+                                    <p>Are you a professional and would like to train in the application of microcement?
+                                      We can
+                                      help you. Visit our <strong><a class="links"
+                                          href="microcements/microcement-application-courses">Microcement training
+                                          courses</a></strong> website and discover our extensive programme. </p>
+                                    <p>On it you will find all the information you need about each course: the knowledge
+                                      you will
+                                      learn, its duration and price, where it takes place, who teaches it, etc. </p>
+                                    <p>If you need more information before making your decision, please do not hesitate
+                                      to call us
+                                      by phone or complete <a class="links" href="contact">our form</a> and we will be
+                                      happy to
+                                      help you.
+
+
+
+                                    </p>
+                                  </div>
+                                </div>
+                              </div>
+
       </div>
     </div>
-    
-    <! -- Question 11 -->
-      <div class="card">
-        <div id="heading11" class="card-header bg-white shadow-sm border-0">
-          <h3><a href="#" data-toggle="collapse" data-target="#collapse11" aria-expanded="false"
-              aria-controls="collapse11" class="d-block position-relative collapsed collapsible-link py-2"> 11.
-              Why might there be differences in brightness between the sample and the work being performed? </a>
-          </h3>
-        </div>
-        <div id="collapse11" aria-labelledby="heading11" data-parent="#accordionExample" class="collapse">
-          <div class="card-body p-4">
-            <p class=" m-0"> The <a href="microcements/methods-application-microcement">application of
-                microcement</a> is a craft, factors such as the material load or the roller used in the sealing
-              process mean that there may be small differences in gloss between the sample and the work. . The
-              catalogues are sealed with a roller, if the sealing is done with a spray gun, a slightly higher
-              gloss is achieved. </p>
-          </div>
-        </div>
-      </div>
-     
-      <! -- Question 12 -->
-        <div class="card">
-          <div id="heading12" class="card-header bg-white shadow-sm border-0">
-            <h3><a href="#" data-toggle="collapse" data-target="#collapse12" aria-expanded="false"
-                aria-controls="collapse12" class="d-block position-relative collapsed collapsible-link py-2"> 12.
-                Can colours be combined on the same surface?</a></h3>
-          </div>
-          <div id="collapse12" aria-labelledby="heading12" data-parent="#accordionExample" class="collapse">
-            <div class="card-body p-4">
-              <p class="m-0"> Yes, different colours of microcement can be combined on the same surface, even
-                several finishes. The key is to clearly delimit the surface where you want to apply another
-                colour. </p>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <!-- Pregunta 13 -->
-        <div class="card">
-          <div id="heading13" class="card-header bg-white shadow-sm border-0">
-            <h3><a href="#" data-toggle="collapse" data-target="#collapse13" aria-expanded="false"
-                aria-controls="collapse13" class="d-block position-relative collapsed     collapsible-link py-2">
-                13. Is it compulsory to apply the microcement mesh? </a> </h3>
-          </div>
-          <div id="collapse13" aria-labelledby="heading13" data-parent="#accordionExample" class="collapse">
-            <div class="card-body p-4">
-              <p>We always recommend applying fibre mesh, especially on tiled floors and walls, as well as in the
-                joints between plasterboard panels, it is used to reinforce the microcement base and prevent
-                cracks due to stresses in the microcement substrate. The final decision on whether to use it or
-                not is up to the applicator, of course, but if they do not add it, warn them of the problems that
-                may arise.</p>
-            </div>
-          </div>
-        </div>
-        
-        <! -- Question 14 -->
-          <div class="card">
-            <div id="heading14" class="card-header bg-white shadow-sm border-0">
-              <h3><a href="#" data-toggle="collapse" data-target="#collapse14" aria-expanded="false"
-                  aria-controls="collapse14" class="d-block position-relative collapsed collapsible-link py-2">
-                  14. What drying time should we allow between the first coat of sealer and the second coat? </a>
-              </h3>
-            </div>
-            <div id="collapse14" aria-labelledby="heading14" data-parent="#accordionExample" class="collapse">
-              <div class="card-body p-4">
-                <p>The drying time between coats of sealer or varnish will depend on several factors. For example,
-                  the weather conditions, the relative humidity, the ambient temperature of the room, whether it
-                  is an enclosed and humid space such as a bathroom, whether the sun has a direct impact on the
-                  room, etc. </p>
-                <p>In any case, we will always try in all circumstances to allow as much drying time as possible
-                  between coats to prevent white stains from forming because the surface is still damp. The
-                  minimum drying time between coats is 4 hours for Presealer and 24 hours for Topsealer. </p>
-              </div>
-            </div>
-          </div>
-       
-          <! -- Question 15 -->
-            <div class="card">
-              <div id="heading15" class="card-header bg-white shadow-sm border-0">
-                <h3><a href="#" data-toggle="collapse" data-target="#collapse15" aria-expanded="false"
-                    aria-controls="collapse15" class="d-block position-relative collapsed collapsible-link py-2">
-                    15. How much does microcement cost per m2? </a> </h3>
-              </div>
-              <div id="collapse15" aria-labelledby="heading15" data-parent="#accordionExample" class="collapse">
-                <div class="card-body p-4">
-                  <p class=" m-0"> <strong>The price of microcement varies depending on many factors.</strong>
-                    Only a professional applicator of this decorative coating can give an accurate price per
-                    square metre of this coating. </p>
-                  <p>The travel time of the professionals, the type of microcement selected and the substrate on
-                    which the microcement is to be applied are some of the factors that will determine the price
-                    per square metre of microcement. </p> <br> <strong> <strong> <a class="links"
-                        href="new/microcement-price"> More information </a></strong>
-                </div>
-              </div>
-            </div>
-           
-            <! -- Question 16 -->
-              <div class="card">
-                <div id="heading16" class="card-header bg-white shadow-sm border-0">
-                  <h3><a href="#" data-toggle="collapse" data-target="#collapse16" aria-expanded="false"
-                      aria-controls="collapse16" class="d-block position-relative collapsed collapsible-link py-2"> 16.
-                      How can I sign up for
-                      a microcement course</a> </h3>
-                </div>
-                <div id="collapse16" aria-labelledby="heading16" data-parent="#accordionExample" class="collapse">
-                  <div class="card-body p-4">
-                    <p>Are you a professional and would like to train in the application of microcement? We can
-                      help you. Visit our <strong><a class="links"
-                          href="microcements/microcement-application-courses">Microcement training
-                          courses</a></strong> website and discover our extensive programme. </p>
-                    <p>On it you will find all the information you need about each course: the knowledge you will
-                      learn, its duration and price, where it takes place, who teaches it, etc. </p>
-                    <p>If you need more information before making your decision, please do not hesitate to call us
-                      by phone or complete <a class="links" href="contact">our form</a> and we will be happy to
-                      help you.
-
-
-
-                    </p>
-                  </div>
-                </div>
-              </div>
-       
-              </div>
-              </div>
 
 
 
 
 
-              <div style="float:none; clear:both; height:100px;"></div>
-              </div>
+    <div style="float:none; clear:both; height:100px;"></div>
+  </div>
 
-              <?php include 'includes/root-footer.php'; ?>
+  <?php include 'includes/root-footer.php'; ?>
 
-              <?php include("../assets/includes/root-scripts.php"); ?>
-              </div>
-              <script defer
-                src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">
-              </script>
-              <!-- include jQuery -->
-<script type = "application/ld+json" > 
-{
-    "@context": "https://schema.org/",
-    "@type": "Thing",
-    "name": "Microcement",
-    "description:": "Topciment microcement is a decorative coating composed of cement, water-based resins, additives and mineral pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence. This construction material stands out because it is applied directly onto existing materials: tiles, plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a rapid renovation of spaces is achieved.",
-    "additionalProperty": [
+  <?php include("../assets/includes/root-scripts.php"); ?>
+  </div>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">
+  </script>
+  <!-- include jQuery -->
+  <script type="application/ld+json">
     {
-      "@type": "PropertyValue",
-      "name": "Where can microcement be applied?",
-      "value": " From microcement stairs or microcement swimming pools to furniture clad with microcement. Although the use par excellence of microcement is in floors and walls of kitchens, bathrooms and outdoor spaces such as terraces and terraces."
-    },{
-      "@type": "PropertyValue",
-      "name": "Advantages of microcement",
-      "value": " Multiple decorative finishes, seamless surface; Can be applied on floors, walls, ceilings, swimming pools and furniture. Indoor and outdoor spaces; Wide variety of microcement colours and textures ;Handcrafted application. Exclusive and personalised result ; High adhesion. Compatible with tiles, marble, ceramic, ceramic tiles, stoneware, terrazzo, plasterboard, concrete, cement, gypsum, etc. Resistant to traffic, knocks, scratches and chemical products. Waterproof. Anti-slip, depending on the finish. Quick and rubble-free work. Thickness of the material 2/3 mm, so it does not affect the structural load of the building. Natural materials. 100% environmentally friendly product. Easy maintenance and cleaning; with water and neutral pH soap. Germ and bacteria free spaces."
+      "@context": "https://schema.org/",
+      "@type": "Thing",
+      "name": "Microcement",
+      "description:": "Topciment microcement is a decorative coating composed of cement, water-based resins, additives and mineral pigments that can be applied on a multitude of vertical and horizontal surfaces thanks to its great adherence. This construction material stands out because it is applied directly onto existing materials: tiles, plasterboard, floor tiles, marble, terrazzo or plaster, among many others. With hardly any work and a thickness of only 3 millimetres, a rapid renovation of spaces is achieved.",
+      "additionalProperty": [{
+        "@type": "PropertyValue",
+        "name": "Where can microcement be applied?",
+        "value": " From microcement stairs or microcement swimming pools to furniture clad with microcement. Although the use par excellence of microcement is in floors and walls of kitchens, bathrooms and outdoor spaces such as terraces and terraces."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Advantages of microcement",
+        "value": " Multiple decorative finishes, seamless surface; Can be applied on floors, walls, ceilings, swimming pools and furniture. Indoor and outdoor spaces; Wide variety of microcement colours and textures ;Handcrafted application. Exclusive and personalised result ; High adhesion. Compatible with tiles, marble, ceramic, ceramic tiles, stoneware, terrazzo, plasterboard, concrete, cement, gypsum, etc. Resistant to traffic, knocks, scratches and chemical products. Waterproof. Anti-slip, depending on the finish. Quick and rubble-free work. Thickness of the material 2/3 mm, so it does not affect the structural load of the building. Natural materials. 100% environmentally friendly product. Easy maintenance and cleaning; with water and neutral pH soap. Germ and bacteria free spaces."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Microcement finishes",
+        "value": "The different microcement finishes that can be obtained depend on the textures and varnishes or sealants used, as these are two elements that condition the appearance and final finish of our microcements. We have matte, super matte, satin, gloss and non-slip matte finishes."
+      }, {
+        "@type": "PropertyValue",
+        "name": "Microcement colours",
+        "value": "We have a wide range of microcement colours. The pigmentation system allows you to create any colour to measure, thus personalising rooms and environments to achieve your own style.white, grey, green, red, black or blue are just some of the many colours of microcement available for our systems."
+      }],
+      "hasVariant": [{
+          "@type": "Product",
+          "name": "Two-component microcement Sttandard",
+          "description": "Traditional two-component micro-cement applicable in both floors and walls. It stands out for its robustness, versatility and capacity to create unequalled textures.",
+          "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
+          "brand": "Atlanttic",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "20"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Two-component microcement Unlimitted",
+          "description": "Bicomponent microcement for coating surfaces in permanent contact with water, such as swimming pools, ponds or fountains.",
+          "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
+          "brand": "Unlimitted",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "19"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Evoluttion one-component microcement",
+          "description": "Simplifying mixtures reduces future errors. This is what EVOLUTTION, our one-component microcement, guarantees. It provides very good mechanical resistance and high workability of the material.",
+          "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
+          "brand": "Evoluttion",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "19"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Atlanttic microcement for swimming pools",
+          "description": "ATLANTTIC is our exclusive line of microcement for swimming pools and other surfaces in constant contact with water. ",
+          "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
+          "brand": "Atlanttic",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "25"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Ready-to-use microcement Efectto",
+          "description": "No other microcement ensures such a fast application as EFECTTO QUARTZ, our ready-to-use microcement available in 4 granulometries. ",
+          "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
+          "brand": "Efectto",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "17"
+          }
+        }
+      ]
     }
-    ,{
-      "@type": "PropertyValue",
-      "name": "Microcement finishes",
-      "value": "The different microcement finishes that can be obtained depend on the textures and varnishes or sealants used, as these are two elements that condition the appearance and final finish of our microcements. We have matte, super matte, satin, gloss and non-slip matte finishes."
-    },{
-      "@type": "PropertyValue",
-      "name": "Microcement colours",
-      "value": "We have a wide range of microcement colours. The pigmentation system allows you to create any colour to measure, thus personalising rooms and environments to achieve your own style.white, grey, green, red, black or blue are just some of the many colours of microcement available for our systems."
-    }
-  ],
-  "hasVariant":[
-    {
-      "@type": "Product",
-      "name": "Two-component microcement Sttandard",
-	  "description": "Traditional two-component micro-cement applicable in both floors and walls. It stands out for its robustness, versatility and capacity to create unequalled textures.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
-	  "brand": "Atlanttic",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "20"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Two-component microcement Unlimitted",
-	  "description": "Bicomponent microcement for coating surfaces in permanent contact with water, such as swimming pools, ponds or fountains.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
-	  "brand": "Unlimitted",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "19"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Evoluttion one-component microcement",
-	  "description": "Simplifying mixtures reduces future errors. This is what EVOLUTTION, our one-component microcement, guarantees. It provides very good mechanical resistance and high workability of the material.",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
-	  "brand": "Evoluttion",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "19"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Atlanttic microcement for swimming pools",
-	  "description": "ATLANTTIC is our exclusive line of microcement for swimming pools and other surfaces in constant contact with water. ",
-	  "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
-	  "brand": "Atlanttic",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "25"
-	  }
-    },
-	{
-      "@type": "Product",
-      "name": "Ready-to-use microcement Efectto",
-	  "description": "No other microcement ensures such a fast application as EFECTTO QUARTZ, our ready-to-use microcement available in 4 granulometries. ",
-	  "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
-	  "brand": "Efectto",
-	  "aggregateRating": {
-		"@type": "AggregateRating",
-		"ratingValue": "5",
-		"reviewCount": "17"
-	  }
-    }
-  ]
-  } 
   </script>
 </body>
 

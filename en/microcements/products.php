@@ -501,7 +501,7 @@
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="varnishes-topsealer"><span class="tops">Top</span><span
+                    <a class="font1as" href="polyurethane-waterbased-acrylic-varnishes-topsealer"><span class="tops">Top</span><span
                             class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
@@ -516,31 +516,31 @@
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="varnishes-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="varnishes-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="varnishes-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="varnishes-topsealer#topsealer-proplus" class="vermas">
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="varnishes-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="varnishes-topsealer#presealer" class="vermas">
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="varnishes-topsealer#all-in-one" class="vermas">
+                            <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#all-in-one" class="vermas">
                                 <strong>Topsealer All in One</strong></a><br>
- <a href="varnishes-topsealer#spray" class="vermas">
+ <a href="polyurethane-waterbased-acrylic-varnishes-topsealer#spray" class="vermas">
                                 <strong>Topsealer Spray</strong></a>
 
 
@@ -641,19 +641,19 @@
                 <div class="col-md-3 col-12">
                     <div class="row mb-2 ">
                         <div class="col-md-12 col-6 p-0"> <a href="microcement-tools#varilla" class="vermas">
-                                <strong>Varilla mezcladora</strong></a><br>
+                                <strong>Stainless steel mixer</strong></a><br>
                             <a href="microcement-tools#perfil" class="vermas">
-                                <strong>Perfil de aluminio</strong></a><br>
+                                <strong>Aluminum profile</strong></a><br>
                             <a href="microcement-tools#llana-goma" class="vermas">
-                                <strong>Llana de goma</strong></a>
+                                <strong>Rubber microcement trowel</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
                             <a href="microcement-tools#llana-acero" class="vermas">
-                                <strong>LLana de acero Bi-Flex</strong></a><br>
+                                <strong> Biflex steel microcement trowel </strong></a><br>
                             <a href="microcement-tools#malla" class="vermas">
-                                <strong>Malla de fibra de vidrio</strong></a><br>
+                                <strong>Fiberglass mess builtex </strong></a><br>
                             <a href="microcement-tools#rodillo" class="vermas">
-                                <strong>Rodillo de pelo corto</strong></a>
+                                <strong> Short-hair roller</strong></a>
                         </div>
                     </div>
                 </div>

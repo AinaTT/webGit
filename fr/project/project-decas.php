@@ -15,13 +15,13 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Salle de bain avec béton ciréà Gorinchem</title>
+    <title>Salle de bain avec béton ciré à Gorinchem</title>
     <meta name="description" content="Sol et murs de la salle de bains avec
                     Topciment "/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Salle de bain avec béton ciréà Gorinchem"/>
+    <meta property="og:title" content="Salle de bain avec béton ciré à Gorinchem"/>
     <meta property="og:description" content="Sol et murs de la salle de bains avec
                     Topciment "/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/project-c-lazy-u-ranch"/>
@@ -29,7 +29,7 @@
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Sol et murs de la salle de bains avec
                     Topciment "/>
-    <meta name="twitter:title" content="Salle de bain avec béton ciréà Gorinchem"/>
+    <meta name="twitter:title" content="Salle de bain avec béton ciré à Gorinchem"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -79,7 +79,7 @@
                         de ceux qui décident de s'installer ici. Et c'est ce que transmet cette salle de bain dans une maison aux lignes droites et aux couleurs pures.
                         de lignes droites et de couleurs pures. Des couleurs claires et une lumière naturelle agréable amplifient la pièce.
                         et grâce aux <strong>murs et sols</strong>, la finition est une <strong>composition harmonieuse avec lesplanchers et les murs.
-                        composition harmonieuse avec <a href=" ../information-beton-cire">Béton Ciré</a> comme matériau principal,
+                        composition harmonieuse avec <a href=" ../information-beton-cire">béton ciré </a> comme matériau principal,
                             et où profiter de moments de déconnexion et de tranquillité.
                     </p>
                 </div>

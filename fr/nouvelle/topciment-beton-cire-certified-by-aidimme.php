@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>béton cirétopciment avec test et certification AIDIMME</title>
-    <meta name="description" content="Topciment certifie la qualité de ses produits, principalement le béton cirédans le laboratoire de l'AIDIMME."/>
+    <title>béton ciré topciment avec test et certification AIDIMME</title>
+    <meta name="description" content="Topciment certifie la qualité de ses produits, principalement le béton ciré dans le laboratoire de l'AIDIMME."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="béton cirétopciment avec test et certification AIDIMME"/>
-    <meta property="og:description" content="Topciment certifie la qualité de ses produits, principalement le béton cirédans le laboratoire de l'AIDIMME."/>
+    <meta property="og:title" content="béton ciré topciment avec test et certification AIDIMME"/>
+    <meta property="og:description" content="Topciment certifie la qualité de ses produits, principalement le béton ciré dans le laboratoire de l'AIDIMME."/>
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/topciment-beton-cire-certified-by-aidimme"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Topciment certifie la qualité de ses produits, principalement le béton cirédans le laboratoire de l'AIDIMME."/>
-    <meta name="twitter:title" content="béton cirétopciment avec test et certification AIDIMME"/>
+    <meta name="twitter:description" content="Topciment certifie la qualité de ses produits, principalement le béton ciré dans le laboratoire de l'AIDIMME."/>
+    <meta name="twitter:title" content="béton ciré topciment avec test et certification AIDIMME"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -59,7 +59,7 @@
             </div>
 
             <div class="content">
-                <h1> béton cirétopciment avec test et certification AIDIMME</h1>.
+                <h1> béton ciré topciment avec test et certification AIDIMME</h1>.
                 <p>Dans son processus continu d'amélioration et d'adoption de bonnes méthodes de travail, Topciment franchit une nouvelle étape dans
                     d'aller plus loin dans la certification de ses produits afin de garantir la qualité de la production à ses clients et distributeurs.
                     et des distributeurs.</p>
@@ -89,7 +89,7 @@
                         où la déformation rapide est déterminée. </p>
                     <p>L'adhérence des revêtements est étudiée au moyen de l'essai de cisaillement du treillis selon la norme UNE en 2409:2013
                         la norme UNE en 2409:2013, ce qui permet d'évaluer s'il y a un décollement du revêtement.</p>
-                    <img src="https://www.topciment.com/imagenes/aidimme/microcemento-aidimme.jpg" width="100%" alt="béton cirétopciment avec test et certification AIDIMME">
+                    <img src="https://www.topciment.com/imagenes/aidimme/microcemento-aidimme.jpg" width="100%" alt="béton ciré topciment avec test et certification AIDIMME">
                     <p>Il examine également la résistance aux liquides selon la norme UNE EN ISO 2813-3:2013, et la résistance aux agents chimiques selon la norme UNE EN 13442:2013.
                         résistance aux agents chimiques selon la norme UNE EN 13442:2013, démontrant ainsi l'utilisation et le bon entretien de nos développements.
                         l'utilisation et l'entretien corrects de nos développements.</p>

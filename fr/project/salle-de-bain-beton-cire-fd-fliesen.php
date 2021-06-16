@@ -77,7 +77,7 @@
                     et la tranquillité. Ici, nous trouvons une belle villa où l'architecte, l'applicateur et le client final ont choisi Topciment pour leur projet.
                     ont choisi Topciment pour leur projet. Dans la réforme de cette salle de bains au plafond incliné, l'aménagement intérieur est
                     L'aménagement intérieur est résolu avec des éléments minimaux, tant en termes de matériaux et de couleurs que de mobilier.
-                    meubles. Le béton cirécomme matériau pour les sols, en couleur acier, et en couleur himalaya pour les murs et le comptoir de l'évier
+                    meubles. Le béton ciré comme matériau pour les sols, en couleur acier, et en couleur himalaya pour les murs et le comptoir de l'évier
                     les murs et le comptoir du lavabo. Les détails blancs pour les sanitaires couronnent un résultat incroyable.
                     résultat.
                 </p>

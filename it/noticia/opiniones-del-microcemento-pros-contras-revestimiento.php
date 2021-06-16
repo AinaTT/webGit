@@ -117,7 +117,7 @@
                     <p>Le texture che si possono ottenere con il microcemento sono uniche. Molteplici finiture a seconda
                         dell'applicazione, del pigmento scelto e, soprattutto, del sigillante utilizzato. </p>
                     <p>A Topciment abbiamo una grande varietà di <a class="links"
-                            href="../microcemento/barniz-topsealer">vernici</a>, a seconda della finitura che si vuole
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">vernici</a>, a seconda della finitura che si vuole
                         dare alla superficie rivestita con microcemento levigato: finitura lucida, opaca, super opaca,
                         ssatinado e anche antiscivolo e impermeabile. </p>
                     <p> La personalizzazione di questo rivestimento è illimitata grazie all'ampia tavolozza di colori
@@ -129,7 +129,7 @@
                     <p>Uno degli spazi in cui l'uso del microcemento è più diffuso è il bagno. Qualcosa che è successo
                         perché questo rivestimento può offrire una finitura impermeabile se si usa un sigillante che gli
                         dà questa capacità. A Topciment abbiamo <a class="link"
-                            href="../microcemento/barniz-topsealer">Topsealer</a>, la nostra gamma di vernici
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Topsealer</a>, la nostra gamma di vernici
                         poliuretaniche che rende automaticamente impermeabile il microcemento levigato. Ecco perché è
                         molto comune trovare piatti doccia rivestiti di microcemento, lavabi, lavandini e vasche da
                         bagno, così come pareti e pavimenti. </p>
@@ -193,7 +193,7 @@
 
 
                     <p>Così come non si possono fare errori nell'innesco del supporto o nella sigillatura dello stesso.
-                        <a class="link" href="../microcemento/metodos-de-aplicacion-microcemento">In questa pagina</a>,
+                        <a class="link" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">In questa pagina</a>,
                         troverete tutto quello che dovete sapere per evitare di commettere errori nell'applicazione del
                         microcemento. </p>
                     <figure class="figure mt-4">

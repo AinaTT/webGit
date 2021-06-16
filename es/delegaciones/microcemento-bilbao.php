@@ -292,7 +292,7 @@
                                                         <label class="custom-control custom-checkbox">
                                                             <input name='LEADCF102' class="custom-control-input" type="checkbox"/>
                                                             <span class="custom-control-indicator "></span>
-                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="condiciones-uso-politica-privacidad"></a>
+                                                            <span class="custom-control-description">He leído y acepto la <a target="_blank" href="../condiciones-uso-politica-privacidad"></a>
                                                                 política de
                                                                 privacidad<span style='color:red;'>*</span></span>
                                                         </label>

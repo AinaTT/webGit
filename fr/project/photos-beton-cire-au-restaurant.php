@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Bardage en micro-ciment dans les restaurants</title> <meta name="description" content="Photos des résultats incroyablement beaux du revêtement de sol en micro-ciment dans un restaurant ukrainien"> <meta property="og:locale" content="fr_FR"> <meta property="og : type" content="website"/> <meta property="og:title" content="Revêtement de sol en béton cirédans les restaurants"/> <meta property="og:description" content="Photos des résultats incroyablement beaux du revêtement de sol en béton cirédans un restaurant en Ukraine"/> <meta property="og:url" content="https://www. topciment. com/fr/projet/photos-beton-cire-au-restaurant"/> <meta property=" og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter : description" content="Photos des résultats incroyablement beaux du revêtement de sol en béton cirédans un restaurant ukrainien"/> <meta name="twitter:title" content="Revêtement de sol en béton cirédans les restaurants"/> <meta name="twitter:title" content="Revêtement de sol en béton cirédans les restaurants"/>
+    <title>Bardage en micro-ciment dans les restaurants</title> <meta name="description" content="Photos des résultats incroyablement beaux du revêtement de sol en micro-ciment dans un restaurant ukrainien"> <meta property="og:locale" content="fr_FR"> <meta property="og : type" content="website"/> <meta property="og:title" content="Revêtement de sol en béton ciré dans les restaurants"/> <meta property="og:description" content="Photos des résultats incroyablement beaux du revêtement de sol en béton ciré dans un restaurant en Ukraine"/> <meta property="og:url" content="https://www. topciment. com/fr/projet/photos-beton-cire-au-restaurant"/> <meta property=" og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter : description" content="Photos des résultats incroyablement beaux du revêtement de sol en béton ciré dans un restaurant ukrainien"/> <meta name="twitter:title" content="Revêtement de sol en béton ciré dans les restaurants"/> <meta name="twitter:title" content="Revêtement de sol en béton ciré dans les restaurants"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -55,7 +55,7 @@
             </div>
             <div class="content">
                 <h1 id="suelosDeMicrocementoGaleriaH1" class="wow fadeInLeft" style="width:100%">Topciment
-                    béton ciréTopciment dans un restaurant</h1>
+                    béton ciré Topciment dans un restaurant</h1>
                 <h2 id="galeriaH2" class="wow fadeInLeft justificado">Kiev, Ucrania<br>
                     Restaurante NAM </h2>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">

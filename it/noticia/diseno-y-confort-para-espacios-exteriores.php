@@ -50,7 +50,7 @@
                 <div class="headline wow fadeInRight styleNormal16justified">
                     <p>Soprattutto con l'arrivo del bel tempo, terrazze, balconi e patii diventano un'estensione della
                         vita in casa. L'ispirazione decorativa e la varietà di <u><a
-                                href="../microcemento/productos">materiali</a></u> per rendere questi spazi accoglienti
+                                href="../microcemento/productos">Materialei</a></u> per rendere questi spazi accoglienti
                         sono infinite. Una buona combinazione di texture, <u>colori</u> e rivestimenti, sono la chiave
                         per creare un ambiente esterno estetico e piacevole. <br><br><br>
                     </p><img

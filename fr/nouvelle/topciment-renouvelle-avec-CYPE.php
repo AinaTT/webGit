@@ -51,7 +51,7 @@
                 <div id="mitadTextoIzquierda" style="width: 100%;">
                     <p>Topciment a renouvelé son contrat avec Cype pour une année supplémentaire.
                         Avec ce
-                        l'entreprise de béton cirécontinuera à fournir des services
+                        l'entreprise de béton ciré continuera à fournir des services
                         à
                         les professionnels du secteur de la construction dans le domaine des travaux
                         la budgétisation.</p>

@@ -16,16 +16,16 @@
 
 
     <title>Réforme des sols et des murs de la maison avec le microciment</title>
-    <meta name="description" content="Duplex avec béton cirésur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
+    <meta name="description" content="Duplex avec béton ciré sur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Réforme des sols et des murs de la maison avec le microciment"/>
-    <meta property="og:description" content="Duplex avec béton cirésur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
+    <meta property="og:description" content="Duplex avec béton ciré sur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/project-francisco-jesus"/>
     <meta property=" og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Duplex avec béton cirésur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
+    <meta name="twitter:description" content="Duplex avec béton ciré sur les sols et les murs. Réforme par l'Interiorisme & Projectes de Disseny."/>
     <meta name="twitter:title" content="Réforme des sols et des murs de la maison avec le microciment"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
@@ -82,7 +82,7 @@
                                 & Projectes de Disseny</a></u>.
                         Un projet qui a démarré avec une caractéristique singulière : son plan triangulaire, avec une détérioration assez avancée due aux années de
                         assez avancée en raison des années de fermeture.
-                        Pour cette raison, le <a href="../information-beton-cire">Béton Ciré</a> Topciment a été choisi pour unifier le <a href="../information-beton-cire">Béton Ciré</a> Topciment pour unifier le revêtement de sol de l'étage principal.
+                        Pour cette raison, le <a href="../information-beton-cire">béton ciré </a> Topciment a été choisi pour unifier le <a href="../information-beton-cire">béton ciré </a> Topciment pour unifier le revêtement de sol de l'étage principal.
                         du plancher du rez-de-chaussée, car nous recherchions un revêtement <fort>continu qui ne générerait pas de nouveaux joints ou de ruptures.
                             n'engendrerait pas de nouvelles articulations ou ruptures d'espaces dans une architecture de formes irrégulières.
                             La <u><a href="https://www.topciment.com/es/microcementos#colores">couleur choisie pour le revêtement de sol</a></u>,

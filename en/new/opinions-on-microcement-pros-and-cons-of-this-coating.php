@@ -149,7 +149,7 @@
 
                 </p>
                 <p>
-                    At Topciment we have a wide variety of <a href="../microcements/varnishes-topsealer">varnishes</a>,
+                    At Topciment we have a wide variety of <a href="../microcements/polyurethane-waterbased-acrylic-varnishes-topsealer">varnishes</a>,
                     depending on the finish you
                     want to give the surface coated with smoothed microcement: gloss finish, matte, super matte, satin
                     and even non-slip and waterproof.
@@ -166,7 +166,7 @@
                 <p>
                     One of the spaces where the use of microcement is most widespread is in bathrooms. This has happened
                     because this coating can offer a waterproof finish if a sealant is used that gives it this capacity.
-                    At Topciment we have <a href="../microcements/varnishes-topsealer#topsealer-proplus">Topsealer Pro
+                    At Topciment we have <a href="../microcements/polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-proplus">Topsealer Pro
                         +</a>, a polyurethane varnish that automatically makes
                     smoothed microcement waterproof. This is why it is very common to find shower trays lined with
                     microcement, basins, sinks and bathtubs as well as walls and floors.
@@ -174,7 +174,7 @@
                 </p>
                 <p>
                     But there is more. Surfaces coated with microcement can also be given an anti-slip finish with our
-                    <a href="../microcements/varnishes-topsealer#topsealer-anti-slip">Topsealer WT Anti Slip</a>
+                    <a href="../microcements/polyurethane-waterbased-acrylic-varnishes-topsealer#topsealer-anti-slip">Topsealer WT Anti Slip</a>
                     water-based coating- no more slipping!
 
                 </p>
@@ -261,7 +261,7 @@
                 </p>
                 <p>
                     Neither can you make mistakes in the priming of the substrate or in the sealing of the substrate. On
-                    <a href="../microcements/methods-application-microcement">this page</a> , you will find everything
+                    <a href="../microcements/how-to-apply-microcement-microcement-application-step-by-step">this page</a> , you will find everything
                     you need to know to avoid making mistakes
                     when applying microcement.
 
@@ -440,14 +440,14 @@
                                                 class="SIGNUP_FLD">
                                                 <input type="text"
                                                     style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                    placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                    placeholder="Name" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
                                                     id="EMBED_FORM_NAME_LABEL">
                                             </div>
                                             <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                 class="SIGNUP_FLD">
                                                 <input type="button"
                                                     style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe">
                                             </div>
                                             <input type="hidden" id="fieldBorder" value="">
                                             <input type="hidden" id="submitType" name="submitType"
@@ -515,7 +515,37 @@
         <?php include("../../assets/includes/scripts.php"); ?>
     </div>
 
-    <!-- include jQuery -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/opinions-on-microcement-pros-and-cons-of-this-coating"
+  },
+  "headline": "Opinions on microcement: pros and cons of this coating",
+  "image":"https://www.topciment.com/imagenes/news/microcemento-gris-suelo-dormitorio.jpeg",
+  "datePublished": "2021-04-23",
+  "dateModified": "2021-04-23",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "Microcement is very popular in interior and exterior decoration of homes and businesses. A coating that generates all kinds of opinions. In this article you will discover its main pros and cons."
+}
+</script>    <!-- include jQuery -->
 
 </body>
 

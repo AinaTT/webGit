@@ -68,6 +68,7 @@
                                 </li>
                                 <li><a href="#que-es-puremetal">Was ist Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
+                                  <li><a href="#colores">Finishs</a></li>
                                 <li><a href="#aplicacion">Anwendung</a></li>
                             </ul>
                         </div>
@@ -131,7 +132,10 @@
                 <div class="content">
 
                     <!-- tipos de cubos -->
-                    <h2 class="de3"> Arten von Pure Mettal-Beschichtungen und metallischen Überzügen</h2> <p>Fünf Arten von Beschichtungen und metallischen Überzügen bilden die Pure Mettal-Familie von Topciment: <strong>Aluminium, Iridium, Messing, Bronze und Kupfer.</strong> Eines der spektakulärsten Produkte in unserem Katalog, das bei den Fachleuten der Branche für echtes Aufsehen sorgt. Vergessen Sie nicht, dass mit dem Rostbeschleuniger Mettal Activator die beeindruckenden Metallic-Oberflächen von Pure Mettal in Oxid-Oberflächen umgewandelt werden. </p>
+                    <a id="colores" class="ancla"></a>
+                    <h2 class="de3"> Arten von Pure Mettal-Beschichtungen und metallischen Überzügen</h2>
+                    
+                     <p>Fünf Arten von Beschichtungen und metallischen Überzügen bilden die Pure Mettal-Familie von Topciment: <strong>Aluminium, Iridium, Messing, Bronze und Kupfer.</strong> Eines der spektakulärsten Produkte in unserem Katalog, das bei den Fachleuten der Branche für echtes Aufsehen sorgt. Vergessen Sie nicht, dass mit dem Rostbeschleuniger Mettal Activator die beeindruckenden Metallic-Oberflächen von Pure Mettal in Oxid-Oberflächen umgewandelt werden. </p>
 
                     <div id="separador50px">
                     </div>
@@ -235,7 +239,7 @@
                                 <div class="col-md-9">
                                     <strong>Anwendbar auf jeden Träger
                                     </strong>
-                                    <p>Mikrozement, Beton, Ziegel, Keramik, etc.
+                                    <p>mikrozement , Beton, Ziegel, Keramik, etc.
                                     </p>
                                 </div>
                             </div>
@@ -423,7 +427,7 @@
                     </p>
                     <p>
                         Die Bandbreite der Materialien, die mit Pure Mettal beschichtet werden können, ist sehr groß,
-                        wie z.B. Mikrozement, Keramik, Gipskarton oder Beton, neben vielen anderen.
+                        wie z.B. mikrozement , Keramik, Gipskarton oder Beton, neben vielen anderen.
 
                     </p>
                       <div class="video"><iframe src="https://www.youtube.com/embed/k1Wv1-ukKl8"
@@ -551,11 +555,11 @@
         </div>
         <div><img class="imgiz"
                 src="https://www.topciment.com/imagenes/pure-mettal/background/pure_mettal_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div><img class="imgde"
                 src="https://www.topciment.com/imagenes/pure-mettal/background/pure_mettal_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <section id="preguntas-frecuentes"
             style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); perspective: 1000px;">
@@ -591,7 +595,391 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Pure Mettal Metallische Beschichtungen und Überzüge",
+         "description": "Reihe hochdekorativer Zweikomponenten-Metallic-Beschichtungen und Auskleidungen. ",
+    "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "1Kg",
+    "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+        "@type": "PropertyValue",
+        "name": "Maximale Dicke pro Schicht",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verschiedene Texturen",
+        "value": "Fünf Textilien mit verschiedenen Metallelementen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendbar auf jeden Träger",
+        "value": "Mikrozement, Beton, Ziegel, Keramik, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Hochglanz",
+        "value": "Dank der hohen Konzentration an metallischen Komponenten"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metallische Beschichtungen und Auskleidungen"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Pure Mettal Metallische Beschichtungen und Überzüge Componente A 1 Kg",
+             "description": "Reihe hochdekorativer Zweikomponenten-Metallic-Beschichtungen und Auskleidungen. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Bronze_1Kg.jpg",
+        "size": "1 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/metallische-beschichtung-pure-mettal",
+        "sku": "TT05021",
+        "gtin13": "8436575625843",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "1Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximale Dicke pro Schicht",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verschiedene Texturen",
+        "value": "Fünf Textilien mit verschiedenen Metallelementen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendbar auf jeden Träger",
+        "value": "Mikrozement, Beton, Ziegel, Keramik, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Hochglanz",
+        "value": "Dank der hohen Konzentration an metallischen Komponenten"
+      },{
+               "@type": "PropertyValue",
+          "name": "Leistung",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Pure Mettal Metallische Beschichtungen und Überzüge Componente A 5 Kg",
+             "description": "Reihe hochdekorativer Zweikomponenten-Metallic-Beschichtungen und Auskleidungen. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Pure_Mettal_Copper_1Kg.jpg",
+        "size": "5 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/metallische-beschichtung-pure-mettal",
+        "sku": "TT05035",
+        "gtin13": "8436575620589",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "5Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximale Dicke pro Schicht",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verschiedene Texturen",
+        "value": "Fünf Textilien mit verschiedenen Metallelementen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendbar auf jeden Träger",
+        "value": "Mikrozement, Beton, Ziegel, Keramik, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Hochglanz",
+        "value": "Dank der hohen Konzentration an metallischen Komponenten"
+      },{
+           "@type": "PropertyValue",
+          "name": "Leistung",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Pure Mettal Metallische Beschichtungen und Überzüge Componente B 0,5 L",
+             "description": "Reihe hochdekorativer Zweikomponenten-Metallic-Beschichtungen und Auskleidungen. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": " 0,5  L",
+        "url": "https://www.topciment.com/de/mikrozement/metallische-beschichtung-pure-mettal",
+        "sku": "TT05024",
+        "gtin13": "8436575625874",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": " 0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximale Dicke pro Schicht",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verschiedene Texturen",
+        "value": "Fünf Textilien mit verschiedenen Metallelementen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendbar auf jeden Träger",
+        "value": "Mikrozement, Beton, Ziegel, Keramik, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Hochglanz",
+        "value": "Dank der hohen Konzentration an metallischen Komponenten"
+      },{
+           "@type": "PropertyValue",
+          "name": "Leistung",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Pure Mettal Metallische Beschichtungen und Überzüge Componente B 2L",
+             "description": "Reihe hochdekorativer Zweikomponenten-Metallic-Beschichtungen und Auskleidungen. ",
+        "image": "https://www.topciment.com/imagenes/pure-mettal/Cubo_PureMettal_B_05L.jpg",
+        "size": "2 L",
+        "url": "https://www.topciment.com/de/mikrozement/metallische-beschichtung-pure-mettal",
+        "sku": "TT05034",
+        "gtin13": "8436575620596",
+        "material": "Pulverisierte Metallpartikel und ein speziell für das System entwickeltes Harz.",
+        "weight": "2 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+        "@type": "PropertyValue",
+        "name": "Maximale Dicke pro Schicht",
+        "value": "1 mm"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Verschiedene Texturen",
+        "value": "Fünf Textilien mit verschiedenen Metallelementen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendbar auf jeden Träger",
+        "value": "Mikrozement, Beton, Ziegel, Keramik, etc."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Hochglanz",
+        "value": "Dank der hohen Konzentration an metallischen Komponenten"
+      },{
+           "@type": "PropertyValue",
+          "name": "Leistung",
+          "value": "Primera capa - 305g/m2 , Segunda capa - 260g/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

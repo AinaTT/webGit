@@ -57,6 +57,233 @@
                     <div class="container mt-5">
                         <div class="row">
                             <div class="col-md-12 pr-0 pl-0 ">
+                              <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/chenggongde-zaidinuanshang-yingyongweishuini">
+                                            在地暖上成功应用微水泥  </a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>05/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/comedor-microcemento-suelo-radiante.jpg"
+                                                                    height="auto" />
+                                                                <p>由于其良好的导热性和其他优点，微水泥是一种用于地暖的优秀涂料。阅读这篇文章，可以了解应用步骤。 </p>
+                                                                <a href="xinwen/chenggongde-zaidinuanshang-yingyongweishuini"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                                  <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/2021nian-meipingfangmi-weishuinijiage">
+                                               2021年每平方米微水泥的价格是多少？  </a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>20/04/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/microcemento-topciment-imagen01.jpg"
+                                                                    height="auto" />
+                                                                <p>你是否在考虑应用微水泥铺涂墙壁或地板？我们告诉你2021年每平方米的微水泥价格是多少 </p>
+                                                                <a href="xinwen/2021nian-meipingfangmi-weishuinijiage"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                            <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/ruhezaijiucizhuan-yingyongweishuini-meigebuzou">
+                                             如何在旧瓷砖上涂抹微水泥：每个步骤  </a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>15/04/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg"
+                                                                    height="auto" />
+                                                                <p>微水泥是铺涂在旧瓷砖的最佳材料，无需建筑工程。我们一步一步地解释如何在瓷砖上应用微水泥 </p>
+                                                                <a href="xinwen/ruhezaijiucizhuan-yingyongweishuini-meigebuzou"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                               <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/weishuinilouti-ruhe-zhengquede-tumo">
+                                               微水泥楼梯：如何正确地铺涂 </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>12/04/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/img/microcemento/escalera-microcemento-plata.webp"
+                                                                    height="auto" />
+                                                                <p>微水泥楼梯是现在流行的装饰，按照我们的提示，一步步学习如何铺涂微水泥楼梯 </p>
+                                                                <a href="xinwen/weishuinilouti-ruhe-zhengquede-tumo"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                               <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="wenxingshuini/bimian-weishuini-wuzihenji-dejiqiao">
+                                               在应用微水泥时如何避免不必要的污点或痕迹  </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>08/04/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg"
+                                                                    height="auto" />
+                                                                <p>你是否担心在应用微水泥时出现污点或痕迹？我们的专家告诉你如何完全避免这个问题 </p>
+                                                                <a href="wenxingshuini/bimian-weishuini-wuzihenji-dejiqiao"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                             <!-- Start bloques  noticia --> 
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/weishuinichufangtaimian-meiguan-hegongneng">
+                                               微水泥厨房台面：美学和功能  </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>02/04/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg"
+                                                                    height="auto" />
+                                                                <p>微水泥厨房台面由于其功能性、美观和广泛的用途，越来越普遍流行，请了解其主要优势 </p>
+                                                                <a href="xinwen/weishuinichufangtaimian-meiguan-hegongneng"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                               <!-- Start bloques  noticia -->
+
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/ruheqingjie-weishuini-chuanmenchanping-hejianyi">
+                                               如何清洁微水泥：专门的清洁产品和建议 </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>29/3/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/limpieza-microcemento.jpg"
+                                                                    height="auto" />
+                                                                <p>你想知道关于清洁微水泥的一切吗？在这篇文章中，你会发现什么产品是最适合清洁任何覆盖有微水泥的表面：地板，墙壁等。 </p>
+                                                                <a href="xinwen/ruheqingjie-weishuini-chuanmenchanping-hejianyi"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                            <!-- Start bloques  noticia -->
+
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="xinwen/topciment-huode-chuangxinzhongxiaoqiye-youzhiyinzhang">
+                                               Topciment获得了西班牙创新中小企业优质 PYME的认可</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>25/3/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/pyme-innovadora-topciment.jpg"
+                                                                    height="auto" />
+                                                                <p>Topciment获得了西班牙科学创新政府部门颁发的创新中小企业优质印章。因其在研究、开发和创新方面的投资而获得无可争议的奖项 </p>
+                                                                <a href="xinwen/topciment-huode-chuangxinzhongxiaoqiye-youzhiyinzhang"
+                                                                    class="btn float-right btn-primary leermass mt-2">请读</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia  aina-->
                                 <div class="row">
                                        <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
@@ -75,7 +302,7 @@
                                                                     height="auto" />
                                                                 <p>我们是世界级注册的微水泥领军品牌。在广州国际设计周上年年引起高度注目的产品。
                                                                 </p>
-                                                                <a href="xinwen/marca-registrada-usa"
+                                                                <a href="xinwen/zaizhongguo-zhuce-de-pingpai"
                                                                     class="btn float-right btn-primary leermass mt-2">请读</a>
                                                             </div>
 

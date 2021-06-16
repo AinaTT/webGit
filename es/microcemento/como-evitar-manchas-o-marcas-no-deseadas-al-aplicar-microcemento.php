@@ -207,7 +207,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/microcemento/como-evitar-manchas-o-marcas-no-deseadas-al-aplicar-microcemento"
+  },
+  "headline": "Trucos para evitar manchas y marcas del microcemento",
+  "image":"https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg",
+  "datePublished": "2021-03-15",
+  "dateModified": "2021-03-15",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Conoce los principales defectos de una mala aplicación de microcemento en suelo y paredes. Nuestros expertos dan solución a los principales problemas: manchas y marcas."
+  
+}
+</script>
 </body>
 
 </html>

@@ -20,22 +20,18 @@
 
     <meta property="og:title" content="聚氨酯、水性和丙烯酸清漆|Topsealer">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong">
+    <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/qingqi-juanzhi-bingxisuan-shui-mifengji">
     <meta property="og:description" content="Topsealer密封罩面剂提供卓越的保护，防止磨损、划痕、污渍和光照。我们生产聚氨酯、水性和丙烯酸涂料。">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
 
 
-    <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong" />
+    <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/qingqi-juanzhi-bingxisuan-shui-mifengji" />
 
-    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/mifeng-zhaomianji-yingyong"
+    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/qingqi-juanzhi-bingxisuan-shui-mifengji"
         hreflang="zh-CN" />
-    <link rel="alternate" href="https://www.topciment.com/en/microcements/varnishes-topsealer" hreflang="en-GB" />
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-topsealer" hreflang="fr-FR" />
+    <link rel="alternate" href="https://www.topciment.com/en/microcements/polyurethane-waterbased-acrylic-varnishes-topsealer" hreflang="en-GB" />
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer" hreflang="fr-FR" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/lakier-topsealer" hreflang="pl-PL" />
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -503,17 +499,22 @@
                                 双组分、快速固化、特殊防水罩面剂
 
                             </h2>
-                            <p>
-                                Topsealer Pro
-                                +是一种快速固化、防水的双组分特殊防水罩面剂，是保护室内微水泥和混凝土表面的理想产品。这种100%固态的双组分罩面剂不需要底漆，而且只需涂一层，因为它有能力完全渗透到空隙中，确保完全密封。
+                       <p>
+                             Topsealer Pro +是一种快速固化的双组分特殊防水罩面剂，对流水有防水作用，适用于保护室内微水泥和混凝土表面。这种可100%固化的双组分清漆不需要先打底，事实上，它被设计成只需涂一层，因为它有能力完全渗透到空虚中，确保完全密封。
 
-                            </p>
-                            <p>
-                                这种独特的亮光效果的罩面，除了为任何类型的基面提供防水外，还为微水泥提供了额外的硬度。依照其固化时间，我们有两种类型的特殊防水罩面剂-Topsealer Pro
-                                +：快干和慢干。
+                       </p>    
+<p>
+    这种独特亮光效果的罩面，给微水泥带来了额外的硬度，同时也阻隔了水汽。可100%固化的双组分防水罩面剂可呈现室内微水泥和印花混凝土路面的颜色。
 
-                            </p>
+</p>    
+<p>
+    如果专业人员想降低最后饰面的光泽度，可以涂上一层我们的Topsealer WT One Coat罩面剂（有半哑光、哑光和超哑光饰面）或涂上一层我们的Topsealer DSV溶剂型清漆（半哑光和哑光饰面）。有了这些组合中的任何一种，微水泥的面层会达到更大的抗刮能力。
 
+</p>    
+<p>
+    根据固化时间的不同，我们有两种类型的双组分特殊防水罩面剂Topsealer Pro +：快干型和慢干型。
+
+</p>    
 
                         </div>
                     </div>
@@ -521,14 +522,14 @@
                         快干特殊防水罩面剂 Topsealer Pro + Fast
 
                     </h3>
-                    <p>
-                        双组分Topsealer Pro + Fast强化并提升了微水泥和混凝土基面的颜色。它是用 无孔滚筒或批刀涂抹的，并保证了对水、磨损、某些化学品和紫外线的出色抵抗力。
+                   <p>
+                        双组分快干型特殊防水罩面剂Topsealer Pro + Fast强化并提升了微水泥和混凝土基面的颜色，用无孔滚筒或批刀涂抹，有很好的抗水性、抗磨损、抗某些化学品和紫外线的能力。
 
-                    </p>
-                    <p>
-                        这种双组分100%固态罩面剂，不需要底漆，透明度高，还能对基层进行防水，从而防止对水蒸气的侵入。
+                   </p>    
+<p>
+    这种双组分、100%固化的罩面不需要打底，透明度高。除了高抗性外，也不泛黄。
 
-                    </p>
+</p>    
                     <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf"
                         target="_blank"> <span class="fa-stack">
                             <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -537,20 +538,19 @@
 
                     <h3>慢干特殊防水罩面剂Topsealer Pro + Slow</h3>
 
-                    <p>
-                        Topsealer Pro + Slow是一种不需要底漆的双组分罩面剂，100%固态，双组分。具有防水和保护任何室内微水泥基面以及混凝土地面的性能。
+                    
+<p>
+    慢干型特殊防水罩面剂Topsealer Pro + Slow， 双组份，100%固化的罩面不需要打底。对流水的防水能力，可以保护任何室内的微水泥基面以及混凝土地面。
 
-                    </p>
-                    <p>
-                        作为一种非常亮光效果的罩面剂，它增强了表面的亮度以及硬度。是用无孔滚筒或批刀单层施工的。它具有非常好的抗磨损、抗紫外线（它不会变黄）和抗某些化学产品的能力。
+</p>    
+<p>
+    一种非常明亮的罩面剂，增强了面层的亮度以及硬度，它是用无孔滚筒或批刀进行单层施工的。抗磨损、紫外线（不会变黄）和一些化学产品。
 
-                    </p>
-                    <p>
-                        和快干型Topsealer Pro + Fast一样，这种双组分、100%固态可防水，并防止水蒸气。
+</p>    
+<p>和快干型特殊防水罩面剂Topsealer Pro + Fast一样，这种双组分、100%固化的防水罩面</p>
+<p>可防水，并阻隔水汽。</p>
 
-                    </p>
-
-                    <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Fast_CN.pdf"
+                    <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerPro+Slow_CN.pdf"
                         target="_blank"> <span class="fa-stack">
                             <i class="fas fa-file-pdf fa-stack-1x"></i>
                         </span><strong>在此下载Topsealer Pro + Slow的技术参数</strong>
@@ -589,7 +589,7 @@
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
-                                <div class=" col-md-3"><img
+                                <div class=" col-md-3"><imgz
                                         src="https://www.topciment.com/imagenes/sistemas/icons/viscosidad.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
@@ -668,11 +668,7 @@
 
                             </p>
 
-                            <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerDSV-CN.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Topsealer DSV溶剂型罩面剂的技术参数</strong>
-                            </a>
+                            <a class="links" href="https://www.topciment.com/cn/data-sheets/TopsealerDSV-CN.pdf" target="_blank"> <span class="fa-stack">  <i class="fas fa-file-pdf fa-stack-1x"></i></span><strong>在此下载Topsealer DSV溶剂型罩面剂的技术参数</strong> </a>
                         </div>
                     </div>
                     <!-- Propiedades -->
@@ -825,7 +821,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="  col-md-9">
                                     <strong>pH值</strong>
-                                    <p>在7,5和9之间</p>
+                                    <p>在7和8,5之间</p>
                                 </div>
                             </div>
                         </div>
@@ -1013,11 +1009,11 @@
 
                             </p>
 
-                            <a class="links" href="https://www.topciment.com/cn/data-sheets/Topsealer_All_in_one_CN.pdf"
+                         <!--    <a class="links" href="https://www.topciment.com/cn/data-sheets/Topsealer_All_in_one_CN.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>在此下载Topsealer WT喷雾罩面剂的技术参数</strong>
-                            </a>
+                                </span><strong>在此下载Topsealer WT喷雾罩面剂的技术参数</strong> 
+                            </a> -->
                         </div>
                     </div>
                     <!-- Propiedades -->

@@ -31,14 +31,6 @@
     <meta property="og:type" content="article">
     <meta property="og:image"
         content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/de/mikrozement/oxidationsmittel-mettal-activator" />
@@ -48,8 +40,7 @@
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/agent-oxydant-mettal-activator"
         hreflang="fr-FR" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/utleniacz-aktywator-metalu" hreflang="pl-PL" />
-    <link rel="alternate" href="https://topciment.com/en/microcements/rust-activator-mettal-activator"
-        hreflang="en-GB" />
+    <link rel="alternate" href="https://topciment.com/en/microcements/rust-activator-mettal-activator" shreflang="en-GB" />
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -334,11 +325,11 @@
             style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); perspective: 1000px;">
             <div><img class="imgiz"
                     src="https://www.topciment.com/imagenes/activator/mettal_activator_fondo_900X443_02.jpg"
-                    width="100%" alt="mikrozemente">
+                    width="100%" alt="mikrozement e">
             </div>
             <div><img class="imgde"
                     src="https://www.topciment.com/imagenes/activator/mettal_activator_fondo_900X443_01.jpg"
-                    width="100%" alt="mikrozemente">
+                    width="100%" alt="mikrozement e">
             </div>
             <div id="separador0px"></div>
 

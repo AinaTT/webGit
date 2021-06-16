@@ -32,7 +32,7 @@
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-     <link rel="canonical" href="https://www.topciment.com/es/noticia/topciment-ivace"/>
+ <link rel="canonical" href="https://www.topciment.com/es/noticia/topciment-ivace"/>
  <link rel="alternate" href="https://www.topciment.com/es/noticia/topciment-ivace" hreflang="es-ES"/>
 
 
@@ -47,7 +47,7 @@
 
     <?php include("../includes/menu-movil.php"); ?>
 
-
+  
     <div id="main">
 
         <div class="container">
@@ -58,8 +58,7 @@
             </div>
 
             <div class="content">
-                <h1> Topciment e IVACE: el camino hacia la innovación
-                    tecnológica</h1>
+                <h1> Topciment e IVACE: el camino hacia la innovación tecnológica</h1>
                 <div class="titular wow fadeInRight estiloNormal16justificado">
 
                     <p>En el siglo XXI y, más concretamente, en el escenario actual que vivimos, no hay
@@ -101,10 +100,7 @@
 
 
                 </div>
-            </div>
-
-
-
+            </div> 
         </div>
 
         <?php include "../includes/footer.php"; ?>

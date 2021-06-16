@@ -25,8 +25,7 @@
     <link rel="alternate" href="https://www.topciment.com/fr/projet-clinic-hernandez-arquitectos" hreflang="fr-FR"/>
   
 
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-clinica-hernandez-arquitectos.html" hreflang="zh-CN"/>
-
+  
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 

@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/productos.css"/>
 
 
-    <title>Sortiment an Mikrozementen, Lacken und Farben : Topciment Products</title>
-    <meta name="description" content="Erfahren Sie mehr über unser Angebot an Mikrozementen, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
+    <title>Sortiment an mikrozement en, Lacken und Farben : Topciment Products</title>
+    <meta name="description" content="Erfahren Sie mehr über unser Angebot an mikrozement en, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
 
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Sortiment an Mikrozementen, Lacken und Farben : Topciment Products"/>
-    <meta property="og:description" content="Erfahren Sie mehr über unser Angebot an Mikrozementen, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
+    <meta property="og:title" content="Sortiment an mikrozement en, Lacken und Farben : Topciment Products"/>
+    <meta property="og:description" content="Erfahren Sie mehr über unser Angebot an mikrozement en, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
     <meta property="og:url" content="https://www.topciment.com/de/produkte"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Erfahren Sie mehr über unser Angebot an Mikrozementen, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
-    <meta name="twitter:title" content="Erfahren Sie mehr über unser Angebot an Mikrozementen, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
+    <meta name="twitter:description" content="Erfahren Sie mehr über unser Angebot an mikrozement en, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
+    <meta name="twitter:title" content="Erfahren Sie mehr über unser Angebot an mikrozement en, Lacken, Farben, Pigmenten, Glasuren, Grundierungen, Reinigungsprodukten und Werkzeugen."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -58,18 +58,18 @@
 
             <!-- Start Sttandard -->
           
-            <h1 class="en2s">Mikrozemente, Lacke und Farben</h1>
+            <h1 class="en2s">mikrozement e, Lacke und Farben</h1>
               <h2 class="en3s">SYSTEME</h2>
             <div class="row altofam">
                 <!-- Logo Sttandard -->
                 <div class="col-md-5 col text-center">
-                    <a href="mikrozement-zweikomponenten-sttandard"><img src="https://www.topciment.com/imagenes/sistemas/1Sttandard_Generico_Web.png" alt="Zwei Komponenten Mikrozement" title="Zwei Komponenten Mikrozement" class="text-center img-fluid"></a>
+                    <a href="mikrozement-zweikomponenten-sttandard"><img src="https://www.topciment.com/imagenes/sistemas/1Sttandard_Generico_Web.png" alt="Zwei Komponenten mikrozement " title="Zwei Komponenten mikrozement " class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Sttandard -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Zweikomponenten Mikrozement</h2>
+                    <h2 class="sh2">Zweikomponenten mikrozement </h2>
                     <p class="textos">
-                      Dies ist die Zwei-Komponenten-Linie (Zement + Harz). Es ist das traditionelle Mikrozement
+                      Dies ist die Zwei-Komponenten-Linie (Zement + Harz). Es ist das traditionelle mikrozement 
             und das am häufigsten verwendete. Seine Vielseitigkeit bietet eine große Auswahl von Finishing-Optionen und
             ermöglicht die Anwendung auf einer unendlichen Anzahl von Oberflächen.
 
@@ -101,11 +101,11 @@
             <div class="row altofam">
                 <!-- Logo Unlimitted -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="mikrozement-zweikomponenten-unlimitted"><img src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px.png" alt="Zwei Komponenten Mikrozement" title="Zwei Komponenten Mikrozement" class="text-center img-fluid" alt="Zwei Komponenten Mikrozement""></a>
+                    <a href="mikrozement-zweikomponenten-unlimitted"><img src="https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px.png" alt="Zwei Komponenten mikrozement " title="Zwei Komponenten mikrozement " class="text-center img-fluid" alt="Zwei Komponenten mikrozement ""></a>
     </div>
     <!-- Description Unlimitted -->
     <div class=" col-md-5 col-12">
-                        <h2 class="sh2">Zweikomponenten Mikrozement  <span class="badge badge-warning">Neu!</span></h2>
+                        <h2 class="sh2">Zweikomponenten mikrozement   <span class="badge badge-warning">Neu!</span></h2>
                         <p> Es handelt sich um die neue Zwei-Komponenten-Linie und das Sttandard überlegene Sortiment.
             Es hat all seine Vorteile, verbessert aber die Verarbeitbarkeit, die Zartheit der Finishes und die
             mechanische Widerstände</p>
@@ -133,13 +133,13 @@
             <div class="row altofam">
                 <!-- Logo Evoluttion -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="einkomponenten-mikrozement-evoluttion"><img src="https://www.topciment.com/imagenes/sistemas/1Evoluttion_Generico_Web.png" alt="Ein Komponenten Mikrozement" title="Ein Komponenten Mikrozement" class="text-center img-fluid" alt="Microcemento de preparación"></a>
+                    <a href="einkomponenten-mikrozement-evoluttion"><img src="https://www.topciment.com/imagenes/sistemas/1Evoluttion_Generico_Web.png" alt="Ein Komponenten mikrozement " title="Ein Komponenten mikrozement " class="text-center img-fluid" alt="mikrozement de preparación"></a>
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Einkomponenten Mikrozement</h2>
+                    <h2 class="sh2">Einkomponenten mikrozement </h2>
                     <p class="textos">
-                       Es ist das Einkomponentige Mikrozement. Es vereinfacht das Mischen, die Zubereitung,
+                       Es ist das Einkomponentige mikrozement . Es vereinfacht das Mischen, die Zubereitung,
             mögliche Anwendungsfehler und sogar Transport- und Lagerkosten.
                     </p>
                 </div>
@@ -168,12 +168,12 @@
             <div class="row altofam">
                 <!-- Logo Evoluttion -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="mikrozement-fur-pools-atlanttic"><img src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_92px.png" alt="Microcemento para piscinas " title="Microcemento para piscinas" class="text-center img-fluid"></a>
+                    <a href="mikrozement-fur-pools-atlanttic"><img src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_92px.png" alt="mikrozement para piscinas " title="mikrozement para piscinas" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Evoluttion -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Mikrozement für Pools</h2>
-                  Es handelt sich um eine Linie von Zweikomponenten-Mikrozement (Zement + Harz), die
+                    <h2 class="sh2">mikrozement  für Pools</h2>
+                  Es handelt sich um eine Linie von Zweikomponenten-mikrozement  (Zement + Harz), die
             insbesondere für Schwimmbäder und Räume mit ständigem Wasserkontakt entwickelt wurde. Seine innovative
             Formel verbessert den Widerstand beim Eintauchen erheblich.
 
@@ -197,15 +197,15 @@
             <div class="row altofam">
                 <!-- Logo Efectto -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="gebrauchsfertiger-mikrozement-effektto"><img src="https://www.topciment.com/imagenes/sistemas/1Efectto__Generico_Web.png" alt="Microcemento listo al uso" title="Microcemento listo al uso" class="text-center img-fluid"></a>
+                    <a href="gebrauchsfertiger-mikrozement-effektto"><img src="https://www.topciment.com/imagenes/sistemas/1Efectto__Generico_Web.png" alt="mikrozement listo al uso" title="mikrozement listo al uso" class="text-center img-fluid"></a>
                 </div>
                 <!-- Desctiption Efectto -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Gebrauchsfertige Mikrozement</h2>
+                    <h2 class="sh2">Gebrauchsfertige mikrozement </h2>
                     <p class="textos">
                    Es handelt sich um ein Acrylmaterial, das qualitativ hochwertige und unnachahmliche
             natürliche dekorative Oberflächen bietet. Es reduziert die Wirkung von Wasserzeicheneffekt und erhält
-            gleichzeitig die Textur des Mikrozements.
+            gleichzeitig die Textur des mikrozement s.
                     </p>
                 </div>
                 <!-- Products Efectto -->
@@ -237,7 +237,7 @@
             <div class="row altofam">
                 <!-- Logo Pure Mettal -->
                 <div class="col-md-5 col-12 text-center">
-                    <a href="metallische-beschichtung-pure-mettal"><img src="https://www.topciment.com/imagenes/sistemas/1PureMettal_Generico_Web.png" alt="Microcemento metálico" title="microcemento metálico" class="text-center img-fluid"></a>
+                    <a href="metallische-beschichtung-pure-mettal"><img src="https://www.topciment.com/imagenes/sistemas/1PureMettal_Generico_Web.png" alt="mikrozement metálico" title="mikrozement metálico" class="text-center img-fluid"></a>
                 </div>
                 <!-- Description Pure Mettal -->
                 <div class="col-md-5 col-12">
@@ -360,9 +360,9 @@
                 </div>
                 <!-- Description Acricem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Harz für Mikrozement</h2>
+                    <h2 class="sh2">Harz für mikrozement </h2>
                     <p class="textos">
-                       Acricem ist unser Mikrozementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.
+                       Acricem ist unser mikrozement harz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-mikrozement .
                     </p>
                 </div>
                 <!-- Products Acricem -->
@@ -389,9 +389,9 @@
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
-                    <h2 class="sh2">Primer und Haftvermittler Mikrozement</h2>
+                    <h2 class="sh2">Primer und Haftvermittler mikrozement </h2>
                     <p class="textos">
-                        GPalette von Primern und Adhäsionspromotoren Topciment Mikrozement. Eine Reihe von Produkten, die Teil des Prozesses vor dem Auftragen von Mikrozement sind und die Verbindung zwischen dem vorhandenen Untergrund und der neuen Beschichtung erleichtern und optimieren.
+                        GPalette von Primern und Adhäsionspromotoren Topciment mikrozement . Eine Reihe von Produkten, die Teil des Prozesses vor dem Auftragen von mikrozement  sind und die Verbindung zwischen dem vorhandenen Untergrund und der neuen Beschichtung erleichtern und optimieren.
                     </p>
                 </div>
                 <!-- Products Primacem -->
@@ -426,9 +426,9 @@
                 </div>
                 <!-- Description Arcocem -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Pigmente und Farben Mikrozement</h2>
+                    <h2 class="sh2">Pigmente und Farben mikrozement </h2>
                     <p class="textos">
-                      Es handelt sich um die Produktlinie der Pigmente und Farben von Topciment für Mikrozement. Bestehend aus 6 Grundfarben (Arcocem Basic), die es Ihnen ermöglichen, eine unendliche Anzahl von Tönen und Farbbereichen zu erstellen, um authentische und personalisierte Oberflächen zu erzielen (Arcocem Plus).	
+                      Es handelt sich um die Produktlinie der Pigmente und Farben von Topciment für mikrozement . Bestehend aus 6 Grundfarben (Arcocem Basic), die es Ihnen ermöglichen, eine unendliche Anzahl von Tönen und Farbbereichen zu erstellen, um authentische und personalisierte Oberflächen zu erzielen (Arcocem Plus).	
 
                     </p>
                 </div>
@@ -455,45 +455,45 @@
             <div class="row altofam">
                 <!-- Logo TopSealer -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="topselaer-lack"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
+                    <a class="font1as" href="lack-polyurethan-acrylat-Wasserbasis-topsealer"><span class="tops">Top</span><span class="sealer">Sealer</span></a>
                 </div>
                 <!-- Desctiption TopSealer -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Versiegelungen und Mikrozementlacke</h2>
+                    <h2 class="sh2">Versiegelungen und mikrozement lacke</h2>
                     <p class="textos">
-                  Topsealer ist das Set von Dichtungsmitteln und Lacken für Mikrozement. Produkte mit hoher chemischer und mechanischer Beständigkeit, mit denen Sie die mit Mikrozement bedeckten Oberflächen viel länger schützen werden.
+                  Topsealer ist das Set von Dichtungsmitteln und Lacken für mikrozement . Produkte mit hoher chemischer und mechanischer Beständigkeit, mit denen Sie die mit mikrozement  bedeckten Oberflächen viel länger schützen werden.
                     </p>
                 </div>
                 <!-- Products TopSealer -->
                 <div class="col-md-3 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="topselaer-lack#topsealer-one-coat" class="vermas"><strong>Topsealer
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#topsealer-one-coat" class="vermas"><strong>Topsealer
                                     WT One
                                     Coat</strong></a><br>
-                            <a href="topselaer-lack#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#topsealer-anti-slip" class="vermas"><strong>Topsealer WT Anti
                                     Slip</strong></a><br>
-                            <a href="topselaer-lack#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#topsealer-quick-dry" class="vermas"><strong>Topsealer WT Quick
                                     Dry</strong></a>
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="topselaer-lack#topsealer-proplus" class="vermas">
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#topsealer-proplus" class="vermas">
                                 <strong>Topsealer Pro +</strong></a><br>
-                            <a href="topselaer-lack#topsealerdsv" class="vermas"><strong>Topsealer
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#topsealerdsv" class="vermas"><strong>Topsealer
                                     DSV</strong></a><br>
-                            <a href="topselaer-lack#presealer" class="vermas">
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#presealer" class="vermas">
                                 <strong>Presealer</strong></a><br>
 
 
                         </div>
                         <div class="col-md-12 col-6 p-0">
 
-                            <a href="topselaer-lack#all-in-one" class="vermas">
+                            <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#all-in-one" class="vermas">
                                 <strong>Topsealer WT All in One</strong></a><br>
 
-                             <a href="topselaer-lack#spray" class="vermas">
+                             <a href="lack-polyurethan-acrylat-Wasserbasis-topsealer#spray" class="vermas">
                              <strong>Topsealer Spray</strong></a>
 
 
@@ -511,13 +511,13 @@
             <div class="row altofam">
                 <!-- Logo Ecoclean -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font2as" href="reinigung-und-pflege-von-mikrozement">ECOCLEAN</a>
+                    <a class="font2as" href="reinigung-und-pflege-von-mikrozement ">ECOCLEAN</a>
                 </div>
                 <!-- Description Ecoclean -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Mikrozement-Reinigung</h2>
+                    <h2 class="sh2">mikrozement -Reinigung</h2>
                     <p class="textos">
-                      Hochspezialisierte Produkte für die Reinigung von Mikrozement. Sie zeichnen sich dadurch aus, dass sie biologisch abbaubar und umweltfreundlich sind.
+                      Hochspezialisierte Produkte für die Reinigung von mikrozement . Sie zeichnen sich dadurch aus, dass sie biologisch abbaubar und umweltfreundlich sind.
 
                     </p>
                 </div>
@@ -525,11 +525,11 @@
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="reinigung-und-pflege-von-mikrozement#ecoclean-basic" class="vermas">
+                            <a href="reinigung-und-pflege-von-mikrozement #ecoclean-basic" class="vermas">
                                 <strong>Basic</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="reinigung-und-pflege-von-mikrozement#ecoclean-pro" class="vermas">
+                            <a href="reinigung-und-pflege-von-mikrozement #ecoclean-pro" class="vermas">
                                 <strong>Pro</strong></a>
                         </div>
                     </div>
@@ -543,24 +543,24 @@
             <div class="row altofam">
                 <!-- Logo Ceraciment -->
                 <div class="col-md-5 col text-center  ">
-                    <a class="font2as" href="reinigung-und-pflege-von-mikrozement">CERACIMENT</a>
+                    <a class="font2as" href="reinigung-und-pflege-von-mikrozement ">CERACIMENT</a>
                 </div>
                 <!-- Description Ceraciment -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Pflege von Mikrozement</h2>
+                    <h2 class="sh2">Pflege von mikrozement </h2>
                     <p class="textos">
-                      Pflegewachse, die Mikrozementböden einen attraktiven natürlichen Glanz und zusätzliche Härte verleihen. Unverzichtbare Produkte für die Pflege und Wartung von Mikrozement.
+                      Pflegewachse, die mikrozement böden einen attraktiven natürlichen Glanz und zusätzliche Härte verleihen. Unverzichtbare Produkte für die Pflege und Wartung von mikrozement .
                     </p>
                 </div>
                 <!-- Products Ceraciment -->
                 <div class="col-md-2 col-12">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="reinigung-und-pflege-von-mikrozement#ceraciment-basic" class="vermas">
+                            <a href="reinigung-und-pflege-von-mikrozement #ceraciment-basic" class="vermas">
                                 <strong>Basic</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="reinigung-und-pflege-von-mikrozement#ceraciment-pro" class="vermas">
+                            <a href="reinigung-und-pflege-von-mikrozement #ceraciment-pro" class="vermas">
                                 <strong>Pro</strong></a>
                         </div>
 
@@ -576,13 +576,13 @@
             <div class="row altofam">
                 <!-- Logo TopTools -->
                 <div class="col-md-5 col text-center  ">
-                    <a class="toptools" href="werkzeuge-mikrozement">TopTools</a>
+                    <a class="toptools" href="werkzeuge-mikrozement ">TopTools</a>
                 </div>
                 <!-- Description TopTools -->
                 <div class="col-md-4 col-12">
-                    <h2 class="sh2">Mikrozement-Werkzeuge</h2>
+                    <h2 class="sh2">mikrozement -Werkzeuge</h2>
                     <p class="textos">
-                      Von Topciment getestete Werkzeuge für die optimale Anwendung von Mikrozement. Wir haben Mischstäbe, Aluminiumprofile, Gummi- und Stahlkellen, Glasfasergewebe und Kurzhaarroller.
+                      Von Topciment getestete Werkzeuge für die optimale Anwendung von mikrozement . Wir haben Mischstäbe, Aluminiumprofile, Gummi- und Stahlkellen, Glasfasergewebe und Kurzhaarroller.
 
 
                     </p>
@@ -590,19 +590,19 @@
                 <!-- Products TopTools -->
                 <div class="col-md-3 col-12">
                     <div class="row mb-2 ">
-                        <div class="col-md-12 col-6 p-0"> <a href="werkzeuge-mikrozement#varilla" class="vermas">
+                        <div class="col-md-12 col-6 p-0"> <a href="werkzeuge-mikrozement #varilla" class="vermas">
                                 <strong>Varilla mezcladora</strong></a><br>
-                            <a href="werkzeuge-mikrozement#perfil" class="vermas">
+                            <a href="werkzeuge-mikrozement #perfil" class="vermas">
                                 <strong>Perfil de aluminio</strong></a><br>
-                            <a href="werkzeuge-mikrozement#llana-goma" class="vermas">
+                            <a href="werkzeuge-mikrozement #llana-goma" class="vermas">
                                 <strong>Llana de goma</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="werkzeuge-mikrozement#llana-acero" class="vermas">
+                            <a href="werkzeuge-mikrozement #llana-acero" class="vermas">
                                 <strong>LLana de acero Bi-Flex</strong></a><br>
-                            <a href="werkzeuge-mikrozement#malla" class="vermas">
+                            <a href="werkzeuge-mikrozement #malla" class="vermas">
                                 <strong>Malla de fibra de vidrio</strong></a><br>
-                            <a href="werkzeuge-mikrozement#rodillo" class="vermas">
+                            <a href="werkzeuge-mikrozement #rodillo" class="vermas">
                                 <strong>Rodillo de pelo corto</strong></a>
                         </div>
                     </div>

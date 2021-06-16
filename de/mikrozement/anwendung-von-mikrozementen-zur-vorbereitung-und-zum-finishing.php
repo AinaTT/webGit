@@ -14,21 +14,21 @@
     <?php include("../../assets/includes/styles.php"); ?>
 
 
-    <title>Methoden der Anwendung der verschiedenen Arten von Mikrozement.</title>
+    <title>Methoden der Anwendung der verschiedenen Arten von mikrozement .</title>
     <meta name="description"
-        content="Anwendungsprozess der Vorbereitung Mikrozement: microbase. Verlegeverfahren der Mikrozementaufbereitung: Wände, Böden, Schwimmbäder und Außenbereiche." />
+        content="Anwendungsprozess der Vorbereitung mikrozement : microbase. Verlegeverfahren der mikrozement aufbereitung: Wände, Böden, Schwimmbäder und Außenbereiche." />
     <meta property="og:locale" content="en_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Verlegeverfahren der verschiedenen Mikrozementarten." />
+    <meta property="og:title" content="Verlegeverfahren der verschiedenen mikrozement arten." />
     <meta property="og:description"
-        content="Verlegeverfahren der Mikrozementaufbereitung: Mikrobasis. Verfahren zur Verlegung von Fertigmikrozement: Wände, Böden, Schwimmbäder und Außenbereiche." />
+        content="Verlegeverfahren der mikrozement aufbereitung: Mikrobasis. Verfahren zur Verlegung von Fertigmikrozement : Wände, Böden, Schwimmbäder und Außenbereiche." />
     <meta property="og:url"
         content="https://www.topciment.com/de/mikrozement/anwendung-von-mikrozementen-zur-vorbereitung-und-zum-finishing" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Anwendungsverfahren der Mikrozementvorbereitung: Mikrobasis. Verlegemethode der Fertigstellung von Mikrozement: Wände, Böden, Schwimmbäder und Außenbereiche." />
-    <meta name="twitter:title" content="Anwendungsmethoden der verschiedenen Arten von Mikrozement." />
+        content="Anwendungsverfahren der mikrozement vorbereitung: Mikrobasis. Verlegemethode der Fertigstellung von mikrozement : Wände, Böden, Schwimmbäder und Außenbereiche." />
+    <meta name="twitter:title" content="Anwendungsmethoden der verschiedenen Arten von mikrozement ." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -67,21 +67,21 @@
             <div class="content">
 
                 <h1 id="queeselmicrocemento"><span style=" padding:5px;">Anwendung von vorbereitendem und abschließendem
-                        Mikrozement</span><span style="background-color:#FFF; padding:5px;"></span></h1>
+                        mikrozement </span><span style="background-color:#FFF; padding:5px;"></span></h1>
             </div>
 
             <div class="container">
                 <div class="content">
 
-                    <h3 style="text-align:left;  ">Mikrozement ist eine Beschichtung, die in mehreren Schichten
+                    <h3 style="text-align:left;  ">mikrozement  ist eine Beschichtung, die in mehreren Schichten
                         aufgetragen wird. Es gibt zwei <a
                             href="https://www.topciment.com/de/mikrozemente">Materialtypen</a> entsprechend ihrer
-                        Funktion: <strong>Vorbereitungsmikrozement</strong>, der als erster verwendet wird und zur
-                        Konditionierung des Untergrunds dient, und <strong>Fertigmikrozement</strong>, der das
+                        Funktion: <strong>Vorbereitungsmikrozement </strong>, der als erster verwendet wird und zur
+                        Konditionierung des Untergrunds dient, und <strong>Fertigmikrozement </strong>, der das
                         endgültige Aussehen verleiht. Innerhalb der Feinstzemente gibt es verschiedene Texturen:
                         Microfino, Microdeck, Microstone und Aquaciment M. Jedes Material hat seine Besonderheiten und
                         Werkzeuge, um es zu bearbeiten. </h3>
-                    <h2 style="text-align:left;">Vorbereitung Mikrozement:</h2>
+                    <h2 style="text-align:left;">Vorbereitung mikrozement :</h2>
                     <h3 style="text-align:left;"> Auftragen von Microbase oder in Schwimmbecken, AquacimentXL </h3>
                     <p style="text-align:left;"> Es wird in zwei Schichten mit einem Stahlspachtel in Schichten von
                         maximal 1 Millimeter aufgetragen. <br> Die Mischungsverhältnisse der
@@ -90,25 +90,25 @@
                         Schleifpapier der Körnung 40 zu entfernen. Wenn wir zu lange warten, wird diese Arbeit teurer.
                         Wenn wir die Oberfläche uneben lassen, erschweren wir das Auftragen der nächsten Schicht und
                         hinterlassen Spuren auf der Beschichtung. </p>
-                    <p style="text-align:left;"> Vor dem Auftragen des abschließenden Mikrozements 24 Stunden trocknen
+                    <p style="text-align:left;"> Vor dem Auftragen des abschließenden mikrozement s 24 Stunden trocknen
                         lassen</p>
                     <p style="text-align:left;">
 
                         <img src="https://www.topciment.com/imagenes/microcemento-base-monocomponente-para-preparacion-del-soporte-antes-de-los-microcementos-de-acabado-1.jpg"
                             width="100%"
-                            alt="microcemento base monocomponente para preparacion del soporte antes de los microcementos de acabado"
-                            title="microcemento base monocomponente para preparacion del soporte antes de los microcementos de acabado">
+                            alt="mikrozement base monocomponente para preparacion del soporte antes de los microcementos de acabado"
+                            title="mikrozement base monocomponente para preparacion del soporte antes de los microcementos de acabado">
 
                         <p style="text-align:left;  ">&nbsp;</p>
                         <div id="mitadTextoIzquierda">
-                            <h2>Mikrozement-Finish:</h2>
+                            <h2>mikrozement -Finish:</h2>
                             <h3>Auftragen von Microfino</h3>
                             <p>Tragen Sie <a href="#">Microfino</a> auf Microbase in einem oder zwei Anstrichen auf, je
                                 nach gewünschtem dekorativen Effekt mit einem Gummi- oder flexiblen Stahlspachtel. Wir
                                 müssen immer die Mischungsverhältnisse der <strong>Schnellanleitung</strong></p>
                             <p>Zwischen den einzelnen Schichten 3 Stunden trocknen lassen. Schleifen Sie von Hand oder
                                 mit einem Rotationsschleifer mit Schleifpapier der Körnung 120 bis 220. Wenn wir am
-                                selben Tag schleifen, an dem wir den mikrofeinen Mikrozement auftragen, ist der Mörtel
+                                selben Tag schleifen, an dem wir den mikrofeinen mikrozement  auftragen, ist der Mörtel
                                 noch frisch, wir verwenden Schleifpapier der Körnung 220. Wenn wir am nächsten Tag
                                 schleifen, ist die Beschichtung härter und wir verwenden Schleifpapier der Körnung 120.
                                 Überschreiten Sie bei Microfino nicht die Auftragsstärke von 0,3 mm pro Schicht. </p>
@@ -143,8 +143,8 @@
                                 <p>&nbsp;</p>
                                 <p><img src="https://www.topciment.com/imagenes/microstone-textura-antideslizante-del-microcemento-para-exteriores.jpg"
                                         width="100%"
-                                        alt="microstone textura antideslizante del microcemento para exteriores"
-                                        title="microstone textura antideslizante del microcemento para exteriores"></p>
+                                        alt="microstone textura antideslizante del mikrozement para exteriores"
+                                        title="microstone textura antideslizante del mikrozement para exteriores"></p>
                                 <h3>&nbsp;</h3>
                                 <h3>Auftragen von Aquaciment</h3>
                                 <p>Aquaciment M wird in zwei Schichten mit einem flexiblen Stahlspachtel über Aquaciment

@@ -12,7 +12,7 @@ $url =  "//{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}";
 $urlactual = htmlspecialchars( $url, ENT_QUOTES, 'UTF-8' );
 //echo $escaped_url; echo "<br>";
 
-// Consulta SELECT alternates.alternate FROM alternates INNER JOIN pagina ON pagina.nombre=alternates.href WHERE pagina.nombre = "https://www.topciment.com/es/noticia/6-razones-banos-microcemento-seran-tendencia";
+// Consulta SELECT alternates.alternate FROM alternates INNER JOIN pagina ON pagina.nombre=alternates.href WHERE pagina.nombre = "https://www.topciment.com/cn/xinwen/6-razones-banos-microcemento-seran-tendencia";
 //$sql = 'SELECT alternate, hreflang FROM alternates WHERE href="' . $urlactual . '"';
 //SELECT * FROM `alternate` where `en-GB`='https://www.topciment.com/en/new/6-reasons-why-microcement-bathrooms-will-be-a-trend-in-2021'
 $sql = 'SELECT alternates.alternate, alternates.hreflang FROM alternates INNER JOIN pagina ON pagina.nombre=alternates.href WHERE pagina.nombre="' . $urlactual . '"';

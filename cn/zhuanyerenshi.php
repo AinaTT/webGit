@@ -63,7 +63,7 @@
                                  <li><a href="lianxi">技术服务</a></li>
                                  <li><a href="wenxingshuini/weishuiniyingyong-peixunkecheng">微水泥课程</a></li>
                                  <li> <a href="jingxiaoshang">微水泥经销商</a></li>
-                                 <li> <a href="wenxingshuini/weishuini-de-yingyong-fangfa">应用方法</a></li>
+                                 <li> <a href="wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou">应用方法</a></li>
                                  <li> <a href="calc/">材料计算</a></li>
                                  <li> <a href="jishucanshu">技术参数</a></li>
                              </ul>
@@ -147,7 +147,7 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/aplicacion.png"
                                              class="img-fluid "> <a class=""
-                                             href="wenxingshuini/weishuini-de-yingyong-fangfa">微水泥应用</a>
+                                             href="wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou">微水泥应用</a>
                                      </h2>
                                  <p>
                                         在本节中提供应用微水泥的建议、技巧和窍门。
@@ -155,7 +155,7 @@
                                  </p>    
 
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links"
-                                             href="wenxingshuini/weishuini-de-yingyong-fangfa"><strong>了解微水泥的应用方法</strong></a></p>
+                                             href="wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou"><strong>了解微水泥的应用方法</strong></a></p>
                                  </div>
                                  <div class="col-md-12">
                                      <a id="calculadora"

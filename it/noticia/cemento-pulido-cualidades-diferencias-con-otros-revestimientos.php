@@ -125,8 +125,8 @@
                         effetti, il microcemento è uno dei rivestimenti più utilizzati per rinnovare questa stanza a
                         per le grandi possibilità di utilizzo che offre. </p>
                     <p>Il microcemento nei bagni è perfetto per rivestire piatti doccia o vasche da bagno, grazie alla
-                        <a class="links" href="../microcemento/barniz-topsealer#topsealer-proplus">impermeabilità</a> e
-                        <a class="links" href="../microcemento/barniz-topsealer#topsealer-anti-slip"> capacità
+                        <a class="links" href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus">impermeabilità</a> e
+                        <a class="links" href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip"> capacità
                             antiscivolo</a> che hanno grazie all'uso corretto di sigillanti. Ma anche per creare
                         scaffali, mobili da bagno con microcemento, pareti e pavimenti. </p>
                     <figure class="figure mt-4"> <img

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Photos de la réforme d'une salle de bain avec du microciment.</title> <meta name="description" content="Images de l'application du béton cirédans une salle de bain. Photos de salle de bain moderne avec microciment."/> <meta property="og:locale" content="fr_FR"/> <meta property="og:type" content="site web"/> <meta property="og:title" content="Photos de rénovation de salle de bain avec microciment."/> <meta property="og:description" content="Photos d'application de béton cirédans une salle de bain. Pictures of modern bathroom with microcement."/> <meta property="og:url" content="https://www.topciment.com/fr/project/project-malermeister"/> <meta property="og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter:description" content="Pictures of microcement application in a bathroom. Photos de salle de bains moderne avec microciment."/> <meta name="twitter:title" content="Photos de rénovation de salle de bains avec microciment."/> <meta name="twitter:title" content="Photos de réforme de salle de bains avec microciment."/>
+    <title>Photos de la réforme d'une salle de bain avec du microciment.</title> <meta name="description" content="Images de l'application du béton ciré dans une salle de bain. Photos de salle de bain moderne avec microciment."/> <meta property="og:locale" content="fr_FR"/> <meta property="og:type" content="site web"/> <meta property="og:title" content="Photos de rénovation de salle de bain avec microciment."/> <meta property="og:description" content="Photos d'application de béton ciré dans une salle de bain. Pictures of modern bathroom with microcement."/> <meta property="og:url" content="https://www.topciment.com/fr/project/project-malermeister"/> <meta property="og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter:description" content="Pictures of microcement application in a bathroom. Photos de salle de bains moderne avec microciment."/> <meta name="twitter:title" content="Photos de rénovation de salle de bains avec microciment."/> <meta name="twitter:title" content="Photos de réforme de salle de bains avec microciment."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -24,8 +24,6 @@
     <link rel="canonical" href="https://www.topciment.com/fr/project/project-malermeister"/>
 
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-malermeister" hreflang="fr-FR"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -56,12 +54,12 @@
                 </ul>
             </div>
             <div class="content">
-                <h1 id="suelosDeMicrocementoGaleriaH1" class="wow fadeInLeft" style="width:100%">Salle de bain en béton ciré</h1>
+                <h1 id="suelosDeMicrocementoGaleriaH1" class="wow fadeInLeft" style="width:100%">Salle de bain en béton ciré </h1>
                 <h2 id="galeriaH2" class="wow fadeInLeft justificado">Vivienda en Pohlheim, Alemania<br>
                     by Maler Knöpper. Fotos: Chris Kettner</h2>
 
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
-                    <p>Harmonie et équilibre, voilà ce que dégage cette salle de bain sans raccord grâce à la <a href="../information-beton-cire">Béton Ciré</a>. Comme le dit son auteur et propriétaire, la salle de bain était
+                    <p>Harmonie et équilibre, voilà ce que dégage cette salle de bain sans raccord grâce à la <a href="../information-beton-cire">béton ciré </a>. Comme le dit son auteur et propriétaire, la salle de bain était
                         conçu pour une jeune princesse, qui avait besoin de suffisamment d'espace pour les parfums, les crèmes et autres produits cosmétiques.
                         cosmétiques. En outre, il était essentiel d'être facile à nettoyer. Le sol de couleur ardoise, plus sombre que les murs
                         les murs, d'une couleur acier, soulignent sa beauté. Un lavabo couvert de

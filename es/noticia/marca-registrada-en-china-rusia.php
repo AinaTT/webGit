@@ -103,7 +103,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/marca-registrada-en-china-rusia"
+  },
+  "headline": "Ya somos marca registrada en China y Rusia",
+  "image":"https://www.topciment.com/imagenes/fondo-negro.jpg",
+  "datePublished": "2020-08-22",
+  "dateModified": "2020-08-22",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Nuestra marca TT Topciment ha sido registrada en China y en Rusia por la Organización Mundial de la Propiedad Intelectual (OMPI)."
+  
+}
+</script>
 </body>
 
 </html>

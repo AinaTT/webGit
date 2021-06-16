@@ -123,7 +123,7 @@
                     <h3>2. Buena respuesta de la encimera de microcemento a la humedad </h3>
 
                     <p>
-                        Las encimeras de microcemento poseen una <strong>buena resistencia a la humedad ambiental y tienen la posibilidad de ser impermeables</strong> si se sellan con uno de nuestros<a class="links" href="../microcemento/barniz-topsealer"> barnices de poliuretano </a>. Unas cualidades que han disparado el revestimiento de encimeras con microcemento.
+                        Las encimeras de microcemento poseen una <strong>buena resistencia a la humedad ambiental y tienen la posibilidad de ser impermeables</strong> si se sellan con uno de nuestros<a class="links" href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer"> barnices de poliuretano </a>. Unas cualidades que han disparado el revestimiento de encimeras con microcemento.
 
                     </p>
                     <h3>3. Encimera de microcemento para muchos años</h3>
@@ -247,7 +247,7 @@
 
                     </p>
 
-                    <h3>5. Proteger y sellar la encimera de microcemento</h3>
+                    <h3>6. Proteger y sellar la encimera de microcemento</h3>
 
                     <p>
                         Una vez que se hayan aplicado las dos capas de Microbase, Microfino o Microdeck, en función del
@@ -274,7 +274,7 @@
                     <p>
                         Existen multitud de encimeras recubiertas con microcemento por los múltiples beneficios
                         anteriormente citados. Un material que destaca por su fino grosor (entre 2 y 3 milímetros) que
-                        posibilita su gran variedad de acabados y de usos, ya que afecta la carga estructural de las
+                        posibilita su gran variedad de acabados y de usos, ya que no afecta la carga estructural de las
                         superficies. Por todo ello, es muy habitual encontrar encimeras de microcemento en todo tipo de
                         estancias.
 
@@ -325,7 +325,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/encimeras-de-microcemento-estetica-y-funcionalidad"
+  },
+  "headline": "Encimeras de microcemento: estética y funcionalidad",
+  "image":"https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg",
+  "datePublished": "2021-05-05",
+  "dateModified": "2021-05-05",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "Las encimeras de microcemento son cada vez más frecuentes por su funcionalidad, estética y gran variedad de usos. Conoce sus principales ventajas."
+  
+}
+</script>
 </body>
 
 </html>

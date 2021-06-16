@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos vom Restaurant El Rebost mit Mikrozement</title>
+    <title>Fotos vom Restaurant El Rebost mit mikrozement </title>
     <meta name="description"
-        content="Bilder vom El Rebost von Borja García mit Mikrozement-Oberflächen. Fotos von Restaurant-Renovierung in Sueca." />
+        content="Bilder vom El Rebost von Borja García mit mikrozement -Oberflächen. Fotos von Restaurant-Renovierung in Sueca." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos von Restaurant El Rebost mit Mikrozement" />
+    <meta property="og:title" content="Fotos von Restaurant El Rebost mit mikrozement " />
     <meta property="og:description"
-        content="Bilder von El Rebost von Borja García mit Mikrozement-Oberflächen. Fotos der Restaurant-Renovierung in Sueca." />
+        content="Bilder von El Rebost von Borja García mit mikrozement -Oberflächen. Fotos der Restaurant-Renovierung in Sueca." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-rebost-borja-garcia" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Bilder von El Rebost von Borja García mit Mikrozement-Abschlüssen. Bilder der Restaurant-Renovierung in Sueca." />
-    <meta name="twitter:title" content="Bilder vom Restaurant El Rebost mit Mikrozement" />
+        content="Bilder von El Rebost von Borja García mit mikrozement -Abschlüssen. Bilder der Restaurant-Renovierung in Sueca." />
+    <meta name="twitter:title" content="Bilder vom Restaurant El Rebost mit mikrozement " />
     <meta name="twitter:title" content="Zusammenfassung" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -85,7 +85,7 @@
                         conservar
                         el encanto del paso de los años, pero adecuarlo a las características de un menú donde la cocina
                         mediterránea de toda la vida es la base de una propuesta innovadora. El <a
-                            href="../mikrozemente">Mikrozement</a> es el material idóneo para conseguir este efecto,
+                            href="../mikrozemente">mikrozement </a> es el material idóneo para conseguir este efecto,
                         la
                         mezcla perfecta entre actualidad y tradición. La mimbre y el barro se encuentran presentes para
                         no

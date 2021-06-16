@@ -17,11 +17,11 @@
          </div>
          <div id="menuocultomovil">
              <ul>
-                 <li><a href="microcemento/productos" onclick="ocultarmovil()">Productos</a></li>
-                 <li><a href="profesionales" onclick="ocultarmovil()">Profesionales</a></li>
-                 <li><a href="microcemento/cursos-aplicacion-microcemento" onclick="ocultarmovil()">Cursos</a></li>
-                 <li><a href="microcemento/galeria" onclick="ocultarmovil()">Galeria</a></li>
-                 <li><a href="noticias" onclick="ocultarmovil()">Noticias</a></li>
+                 <li><a href="microcemento/productos" onclick="ocultarmovil()">Prodotti</a></li>
+                 <li><a href="profesionales" onclick="ocultarmovil()">Professionisti</a></li>
+                 <li><a href="microcemento/cursos-aplicacion-microcemento" onclick="ocultarmovil()">Corsi</a></li>
+                 <li><a href="microcemento/galeria" onclick="ocultarmovil()">Galleria</a></li>
+                 <li><a href="noticias" onclick="ocultarmovil()">Notizie</a></li>
 
              </ul>
          </div>

@@ -207,8 +207,8 @@
                     <p>
                         El microcemento en baños es perfecto para forrar platos de ducha o bañeras, gracias a la
                         capacidad <a class="links"
-                            href="../microcemento/barniz-topsealer#topsealer-proplus">impermeable</a> y <a class="links"
-                            href="../microcemento/barniz-topsealer#topsealer-anti-slip">antideslizante</a> que
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-proplus">impermeable</a> y <a class="links"
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip">antideslizante</a> que
                         tienen gracias al uso adecuado de selladores. Pero también para crear estanterías, muebles de
                         baño con microcemento, paredes y suelos.
 

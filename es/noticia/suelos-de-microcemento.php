@@ -160,15 +160,15 @@
                     <p>El último paso de la aplicación del microcemento en suelo conforma uno de los más importantes. El
                         suelo de microcemento ya está listo, ahora falta protegerlo. Para ello se aplicarán  <strong>dos capas de
                         <a class="links"
-                            href="https://www.topciment.com/es/microcemento/barniz-topsealer#presealer">PRESEALER</a></strong>
+                            href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer#presealer">PRESEALER</a></strong>
                         mediante rodillo y, después, otras  <strong>dos manos de
-                        <a class="links" href="https://www.topciment.com/es/microcemento/barniz-topsealer">TOPSEALER
+                        <a class="links" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer">TOPSEALER
                             WT</a></strong>  . Además de
                         proteger el microcemento del suelo, se podrá impermeabilizar e incluso conseguir un acabado
                         antideslizante.
                     </p>
                     <p>
-                        <a class="links" href="../microcemento/metodos-de-aplicacion-microcemento">En esta página</a>,
+                        <a class="links" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">En esta página</a>,
                         podrás informarte también de la aplicación de
                         microcemento en paredes y piscinas.</p>
                     <figure class="figure mt-4">
@@ -501,7 +501,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/suelos-de-microcemento"
+  },
+  "headline": "Suelos de microcemento: aplicación, tipos, ventajas y consejos",
+  "image":"https://www.topciment.com/imagenes/news/imagen-microcemento-suelos.jpg",
+  "datePublished": "2021-03-15",
+  "dateModified": "2021-03-15",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "El microcemento puede aplicarse de muchas maneras en un pavimento. En este artículo te contamos todo lo que tienes que saber de un suelo de microcemento: cómo se aplica, sus principales ventajas, los tipos que hay y consejos de uso.."
+  
+}
+</script>
 </body>
 
 </html>

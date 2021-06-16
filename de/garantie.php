@@ -15,20 +15,20 @@
     <link rel="preload" href="../assets/css/garantia.css" as="style" />
     <link rel="stylesheet" href="../assets/css/garantia.css" />
 
-    <title>Mikrozement aus widerstandsfähigen Materialien</title>
+    <title>mikrozement  aus widerstandsfähigen Materialien</title>
     <meta name="description"
-        content="In Topciment stellen wir Mikrozementprodukte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen sowie hohe Haftung und Undurchlässigkeit. " />
+        content="In Topciment stellen wir mikrozement produkte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen sowie hohe Haftung und Undurchlässigkeit. " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mikrozement aus widerstandsfähigen Materialien" />
+    <meta property="og:title" content="mikrozement  aus widerstandsfähigen Materialien" />
     <meta property="og: description"
-        content="In Topciment stellen wir Mikrozementprodukte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen sowie hohe Haftung und Undurchlässigkeit. " />
+        content="In Topciment stellen wir mikrozement produkte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen sowie hohe Haftung und Undurchlässigkeit. " />
     <meta property="og:url" content="https://www.topciment.com/de/garantie" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="In Topciment stellen wir Mikrozementprodukte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen, sowie hohe Haftung und Dichtigkeit. " />
-    <meta name="twitter:title" content="Mikrozement aus widerstandsfähigen Materialien" />
+        content="In Topciment stellen wir mikrozement produkte mit allen Garantien her: hohe mechanische Beständigkeit, Abnutzung, Feuer, Rissbildung, Chemikalien und korrosive Substanzen, sowie hohe Haftung und Dichtigkeit. " />
+    <meta name="twitter:title" content="mikrozement  aus widerstandsfähigen Materialien" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -82,7 +82,7 @@ Zertifikate und Tests</a></li>
                         <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/icono-garantia.jpg"
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
-                           <p>Unsere Mikrozemente verfügen über die <strong>CE-Kennzeichnung. </strong></p>
+                           <p>Unsere mikrozement e verfügen über die <strong>CE-Kennzeichnung. </strong></p>
                                         <p> <strong>Was ist die CE-Kennzeichnung </strong> Es handelt sich um eine
                                             Zulassung auf europäischer Ebene, die mit rigorosen Tests bescheinigt und
                                             gewährleistet, dass das Produkt auch tatsächlich über die von uns
@@ -94,7 +94,7 @@ Zertifikate und Tests</a></li>
                                         eine hohe mechanische Beständigkeit, sowie auch gegen Abnutzung, Feuer,
                                         Rissbildung, chemische Produkte und ätzende Substanzen, eine hohe Haftfähigkeit
                                         und Wasserdichtigkeit. Optimale Produkte mit optimaler Qualität.</p>
-                                    <p>Wir geben <strong>5 Jahre Garantie auf Topciment-Mikrozemente</strong>, mit
+                                    <p>Wir geben <strong>5 Jahre Garantie auf Topciment-mikrozement e</strong>, mit
                                         Kaufbeleg und gültigem Datum. Die Garantie umfasst ausschließlich den Austausch
                                         des defekten Produkts, nicht aber die Arbeitskosten. Sie deckt eventuelle
                                         Fabrikationsmängel des Materials in den folgenden Bereichen ab: </p>
@@ -117,7 +117,7 @@ Zertifikate und Tests</a></li>
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
                               <p>Wir gewährleisten, dass <strong>KEINE RISSBILDUNG</strong> auftritt. Die elastischen
-                                    Eigenschaften der Topciment-Mikrozemente vertragen leichte Verformungen, wenn sie
+                                    Eigenschaften der Topciment-mikrozement e vertragen leichte Verformungen, wenn sie
                                     korrekt aufgetragen werden. Sollten Risse auftreten, deckt die Garantie keine durch
                                     die Rissbildung des Untergrunds, die durch eine fehlerhafte Vorbereitung desselben
                                     bedingt sind, verursachten Schäden ab.</p>
@@ -131,7 +131,7 @@ Zertifikate und Tests</a></li>
                                 src="https://www.topciment.com/imagenes/icono-resistencia-fisica.jpg"
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
-                        <p>Mikrozement ist vergleichbar mit Naturholz-Parkett, allerdings zeigen verschiedene, nach
+                        <p>mikrozement  ist vergleichbar mit Naturholz-Parkett, allerdings zeigen verschiedene, nach
                                 den EN-Normen durchgeführte Tests, dass er hinsichtlich der BESTÄNDIGKEIT GEGEN KRATZER;
                                 STÖSSE UND ABNUTZUNG die Mehrheit der Naturholz-Parketts deutlich übertrifft. Die
                                 Garantie deckt keine durch falsche Benutzung des Kunden erzeugte Beschädigungen wie
@@ -147,7 +147,7 @@ Zertifikate und Tests</a></li>
                                 alt="Resistencia Química">
                         </div>
                         <div id="leyendaIcono">
-                             <p>Mikrozement-Verkleidungen haben eine gute <strong>BESTÄNDIGKEIT GEGEN CHEMISCHE
+                             <p>mikrozement -Verkleidungen haben eine gute <strong>BESTÄNDIGKEIT GEGEN CHEMISCHE
                                         REINIGUNGSPRODUKTE,</strong> dennoch empfehlen wir die Verwendung von Wasser und
                                     neutraler Seife für seine Haltbarkeit und Instandhaltung. Da es sich um eine
                                     durchgehende, fugenlose Verkleidung handelt, ist die Reinigung sehr viel
@@ -161,7 +161,7 @@ Zertifikate und Tests</a></li>
                         <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/iconos-antideslizante.jpg"
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
-                              <p>Dank der Vielfältigkeit der Mikrozemente und seiner verschiedenen Texturen
+                              <p>Dank der Vielfältigkeit der mikrozement e und seiner verschiedenen Texturen
                                             ist es möglich, das Finish auf Verwendungszweck und Umgebung abzustimmen.
                                             Eher glatt für innen und eher rau für feuchte Bereiche und außen.</p>
                                         <p> Wir bescheinigen eine hohe <strong>Rutschfestigkeit</strong>, was
@@ -220,7 +220,7 @@ Zertifikate und Tests</a></li>
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
                            <p><strong>Topciment</strong> garantiert dank seiner Formel ein <strong>HOHES
-                                HAFTVERMÖGEN</strong> seiner Mikrozemente auf allen Arten von Oberflächen,
+                                HAFTVERMÖGEN</strong> seiner mikrozement e auf allen Arten von Oberflächen,
                             einschließlich Fliesen oder Glas. </p>
                         </div>
 
@@ -232,7 +232,7 @@ Zertifikate und Tests</a></li>
                                 src="https://www.topciment.com/imagenes/icono-estabilidad-color.jpg"
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
-                             <p>Für die Färbung des Mikrozements werden ausschließlich mineralische Färbungsmittel
+                             <p>Für die Färbung des mikrozement s werden ausschließlich mineralische Färbungsmittel
                                 verwendet, weil diese das beste Verhalten gegenüber der Alkalinität des Zements, dem
                                 Wettereinfluss und dem Sonnenlicht zeigen und ohne auffällige Verfärbungen stabil
                                 bleiben. </p>
@@ -248,7 +248,7 @@ Zertifikate und Tests</a></li>
                         <div id="iconoIzquierda"><img src="https://www.topciment.com/imagenes/icono-impermeabilidad.jpg"
                                 alt="Resistencia Física"></div>
                         <div id="leyendaIcono">
-                      <p>Dank der für die Beschichtung unserer Mikrozemente verwendeten Dichtmittel können wir
+                      <p>Dank der für die Beschichtung unserer mikrozement e verwendeten Dichtmittel können wir
                                 ihre Härte und Beständigkeit steigern. Wir erhalten so wasserdichte und
                                 feuchtigkeitsbeständige Oberflächen, die für Bäder und Duschen besonders geeignet sind.
                             </p>

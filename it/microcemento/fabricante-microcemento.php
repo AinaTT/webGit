@@ -14,18 +14,18 @@
 
 
 
-    <title>Fabricantes de microcemento | Topciment microcementos</title>
-    <meta name="description" content="Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en productos desarrollados con las últimas tecnologías."/>
+    <title>Fabbricanti di microcemento | Topciment microcementos</title>
+    <meta name="description" content="Siamo leader nella produzione di microcemento in Spagna. Garanzia fino a 10 anni sui prodotti sviluppati con le ultime tecnologie."/>
 
     <meta property="og:locale" content="es_ES"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Fabricantes de microcemento | Topciment microcementos"/>
-    <meta property="og:description" content="Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en productos desarrollados con las últimas tecnologías."/>
+    <meta property="og:title" content="Fabbricanti di microcemento | Topciment microcementos"/>
+    <meta property="og:description" content="Siamo leader nella produzione di microcemento in Spagna. Garanzia fino a 10 anni sui prodotti sviluppati con le ultime tecnologie."/>
     <meta property="og:url" content="https://www.topciment.com/es/microcemento/fabricante-microcemento"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en productos desarrollados con las últimas tecnologías."/>
-    <meta name="twitter:title" content="Fabricantes de microcemento | Topciment microcementos"/>
+    <meta name="twitter:description" content="Siamo leader nella produzione di microcemento in Spagna. Garanzia fino a 10 anni sui prodotti sviluppati con le ultime tecnologie."/>
+    <meta name="twitter:title" content="Fabbricanti di microcemento | Topciment microcementos"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -54,39 +54,32 @@
             <div id="content">
                 <section id="up">
                     <div class="separador150px">
-                    </div>
-
-
+                    </div> 
                     <div class="container">
                         <div class="content text-justify">
                             <h1 class="en2">
-                                Fabricantes de microcemento</h1>
-                            <p>Somos fabricantes de microcementos desarrollados con las <strong>últimas tecnologías del
-                                    mercado
-                                    y 100% respetuosos con el medioambiente. </strong> Aunque nuestra mejor carta de
-                                 Presentazione es
-                                la opinión de nuestros clientes tras casi dos décadas de experiencia en el sector de la
-                                construcción.</p>
+                              Fabbricanti di microcemento</h1>
+                            <p>Somos fabricantes de microcementos desarrollados con las últimas tecnologías del mercado y 100% respetuosos con el medioambiente.  Aunque nuestra mejor carta de Presentazione es la opinión de nuestros clientes tras casi dos décadas de experiencia en el sector de la construcción.</p>
                             <p>En la búsqueda de la máxima calidad, seleccionamos cuidadosamente los materiales para que
                                 cada cliente obtenga un acabado único. Un método de trabajo que nos diferencia de la
-                                competencia y que nos ha llevado a ser <strong>líderes en la fabricación de microcemento
+                                competencia y que nos ha llevado a ser líderes en la fabricación de microcemento
                                     en
                                     España y contar con un gran reconocimiento internacional en más de 58
-                                    países.</strong></p>
-                            <p>Pero no solo somos fabricantes de microcemento. También <strong>producimos todo tipo de
-                                    revestimientos decorativos </strong> (pinturas metálicas, veladuras, pigmentos y
+                                    países.</p>
+                            <p>Pero no solo somos fabricantes de microcemento. También producimos todo tipo de
+                                    revestimientos decorativos  (pinturas metálicas, veladuras, pigmentos y
                                 revestimientos
                                 metálicos) así como imprimaciones, barnices o selladores, limpiadores especializados y
                                 complementos relacionados con el microcemento.</p>
 
                             <h2>Fábrica microcementos Topciment</h2>
-                            <p>La fábrica de microcemento de Topciment es única en España. Unas <strong>innovadoras
-                                    instalaciones</strong> cuya superficie supera los 4.000 metros cuadrados y que están
+                            <p>La fábrica de microcemento de Topciment es única en España. Unas innovadoras
+                                    instalaciones cuya superficie supera los 4.000 metros cuadrados y que están
                                 dotadas de
                                 la maquinaria más moderna del mercado del microcemento y las tecnologías más avanzadas.
                             </p>
-                            <p>Una infraestructura privilegiada en la que encontramos el <strong> showroom más grande de
-                                    Europa</strong>;
+                            <p>Una infraestructura privilegiada en la que encontramos el  showroom más grande de
+                                    Europa;
                                 una sala de 140 metros cuadrados en la que se imparte la parte práctica de nuestros
                                 cursos de formación para profesionales; otra sala de 100 metros cuadrados destinada a la
                                 parte teórica de nuestros cursos y en la que se llevan a cabo presentaciones varias; y
@@ -94,8 +87,8 @@
                                 cualificados trabaja muy duro para mejorar cada vez más las prestaciones y calidad de
                                 los microcementos que fabricamos.
                             </p>
-                            <p>¿Quieres conocer la fábrica de microcemento de Topciment? <strong>Realizamos visitas
-                                    guiadas</strong> a
+                            <p>¿Quieres conocer la fábrica de microcemento de Topciment? Realizamos visitas
+                                    guiadas a
                                 todo aquel que quiera conocerla.</p>
 
 
@@ -128,10 +121,10 @@
                                         <h2>I+D+I</h2>
                                     </div>
                                     <p>
-                                        Nuestro motor principal se basa en el área de <strong>investigación, desarrollo
+                                        Nuestro motor principal se basa en el área de investigación, desarrollo
                                             e
                                         <a class="links" href="../noticia/topciment-recibe-sello-pyme-innovadora">innovación</a>
-                                         </strong> para fabricar los mejores microcementos del mercado. Una
+                                          para fabricar los mejores microcementos del mercado. Una
                                         inversión
                                         que nos ha llevado a contar con una capacidad de producción anual de 200
                                         toneladas.
@@ -145,8 +138,8 @@
                                     </h2>
                                     <p>
                                         Estamos muy concienciados con el medioambiente. Todos nuestros microcementos se
-                                        fabrican a partir de <strong>materiales naturales y materias primas minerales
-                                            respetuosas con nuestro planeta. </strong> Nuestro packaging también
+                                        fabrican a partir de Materialees naturales y materias primas minerales
+                                            respetuosas con nuestro planeta.  Nuestro packaging también
                                         contribuye a reducir
                                         la huella ecológica ya que apostamos por materiales reciclados.
                                     </p>
@@ -161,7 +154,7 @@
                                     </div>
 
                                     <p>
-                                        <strong>15 años</strong> dan para mucho. Nuestra amplia experiencia y los
+                                        15 años dan para mucho. Nuestra amplia experiencia y los
                                         estándares de calidad
                                         de nuestros productos nos avalan. Una experiencia que nos ha llevado a que la
                                         marca Topciment esté registrada como fabricante de microcemento en Estados
@@ -177,7 +170,7 @@
                                     <p>
                                         Todos los microcementos que fabricamos disponen del marcado CE, una homologación
                                         europea que certifica que las prestaciones técnicas de nuestros productos son
-                                        inmejorables. Una <strong>garantía de hasta 10 años </strong> y que cubre los
+                                        inmejorables. Una garantía de hasta 10 años  y que cubre los
                                         posibles defectos de
                                         la fabricación del material.
                                     </p>
@@ -196,8 +189,8 @@
                             <p>Aspiramos a ser cada día la mejor versión de nosotros mismos. Aunque estamos orgullosos
                                 de dónde hemos llegado y el alcance internacional que nos hemos ganado como fabricantes
                                 de microcemento, queremos llegar todavía más lejos. </p>
-                            <p><strong>Perseguimos continuar expandiendo la marca Topciment por el mundo de la mano de
-                                    nuestros distribuidores. </strong> Un afán de superación que no sería posible sin
+                            <p>Perseguimos continuar expandiendo la marca Topciment por el mundo de la mano de
+                                    nuestros distribuidores.  Un afán de superación que no sería posible sin
                                 una gran inversión detrás. Seguiremos esforzándonos para fabricar microcementos cada vez
                                 mejores, que se sigan convirtiendo en tendencia y satisfagan las necesidades de nuestros
                                 clientes. Todo ello siempre bajo el prisma de respeto y protección del medioambiente, ya
@@ -232,7 +225,7 @@
             "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
             "image": "https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg",
             "email": "info@topciment.com",
-            "description": "Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en productos desarrollados con las últimas tecnologías.",
+            "description": "Siamo leader nella produzione di microcemento in Spagna. Garanzia fino a 10 anni sui prodotti sviluppati con le ultime tecnologie.",
             "address": {
                 "@type": "PostalAddress",
                 "postalCode": "46940",

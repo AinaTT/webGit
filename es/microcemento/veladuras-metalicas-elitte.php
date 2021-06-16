@@ -68,9 +68,11 @@
                             <li>
                                 <a href="#elitte-glaze">Elitte Glaze </a>
                             </li>
+                            <li> <a href="#colores-glaze">Acabados Elitte  Glaze</a> </li>
                             <li>
                                 <a href="#elitte-glitter">Elitte Glitter</a>
                             </li>
+                              <li> <a href="#colores-glitter">Acabados Elitte Glitter</a> </li>
                             <li>
                                 <a href="#aplicacion">Aplicación</a>
                             </li>
@@ -125,6 +127,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glaze_logo.png"
                             title="Logo Elitte Glaze" alt="Logo Elitte Glaze">
                     </div>
+                        <a id="colores-glaze" class="ancla"></a>
                     <h2 class="mt-4 mb-4 en3 text-center">Veladuras pintura efecto metal Elitte Glaze</h2>
 
                     <p>
@@ -314,6 +317,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png"
                             title="Logo Elitte Glitter" alt="Logo Elitte Glitter">
                     </div>
+                       <a id="colores-glitter" class="ancla"></a>
                     <h2 class="en3 text-center">Veladuras pintura efecto purpurina Elitte Gliter</h2>
                     <p>Elitte Glitter es la línea de veladuras de efecto purpurina listas al uso de Topciment.
                         Perfectas para decorar y embellecer mobiliario, paredes e incluso pavimentos con acabados
@@ -1049,33 +1053,51 @@
     ]
   } </script>
   <!-- Elitte Glitter -->
-  <script type = "application/ld+json" > {
-  "@context": "https://schema.org",
-  "@type": "ProductModel",
-  "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter ",
-  "description": "Gama de veladuras metálicas listas al uso.",
-  "brand": "Elitte Glitter",
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "Topciment",
-    "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-    "url": "https://www.topciment.com"
-  },
-  "logo": "https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "83"
-  },
-  "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
-  "material": "Partículas metálicas reales de cobre, bronce, hierro y latón.",
-  "weight": "1kg",
-  "potentialAction": {
-    "@type": "Action",
-    "name": "Aplicación de pinturas metálicas"
-  },
-  "category": "Pinturas metálicas y efecto óxido",
-  "additionalProperty": [{
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter",
+         "description": "Gama de veladuras metálicas listas al uso. ",
+    "image": "https://www.topciment.com/imagenes/elitte/Elitte_Glaze_producto.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+    "variesBy": "size",
+    "additionalProperty": [
+           {
       "@type": "PropertyValue",
       "name": "Producto listo al uso",
       "value": "No diluir con agua."
@@ -1096,62 +1118,410 @@
       "name": "Zona de aplicación",
       "value": "Apta para interiores y exteriores."
     }
-  ],
-  "hasVariant": [{
-      "@type": "Product",
-      "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Bronze 200",
-      "description": "Gama de veladuras metálicas listas al uso.",
-      "image": "https://www.topciment.com/imagenes/elitte/Bronze200.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
-      },
-      "additionalProperty": {
-        "@type": "PropertyValue",
-        "name": "Rendimiento",
-        "value": "Depende del tipo de acabado que se quiera obtener."
-      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Veladuras pintura efecto metal y purpurina"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Aluminio 054",
+             "description": "Gama de veladuras metálicas listas al uso. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Aluminio054.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/es/microcemento/veladuras-metalicas-elitte#elitte-glitter",
+        "sku": "TT05008",
+        "gtin13": "8436575624266",
+        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Producto listo al uso",
+      "value": "No diluir con agua."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Aplicable sobre cualquier soporte",
+      "value": "Microcemento, hormigón, ladrillo,cerámica."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatilidad de aplicación",
+      "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zona de aplicación",
+      "value": "Apta para interiores y exteriores."
     },{
-      "@type": "Product",
-      "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Gold 500",
-      "description": "Gama de veladuras metálicas listas al uso.",
-      "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
-      },
-      "additionalProperty": {
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "Depende del tipo de acabado que se quiera obtener."
+        "value": "12,00 m2/L"
       }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Gold 063",
+             "description": "Gama de veladuras metálicas listas al uso. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Gold063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/es/microcemento/veladuras-metalicas-elitte#elitte-glitter",
+        "sku": "TT05011",
+        "gtin13": "8436575624297",
+        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Producto listo al uso",
+      "value": "No diluir con agua."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Aplicable sobre cualquier soporte",
+      "value": "Microcemento, hormigón, ladrillo,cerámica."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatilidad de aplicación",
+      "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zona de aplicación",
+      "value": "Apta para interiores y exteriores."
     },{
-      "@type": "Product",
-      "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Silver 500",
-      "description": "Gama de veladuras metálicas listas al uso.",
-      "image": "https://www.topciment.com/imagenes/elitte/Silver500.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
+              "@type": "PropertyValue",
+        "name": "Rendimiento",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
       },
-      "additionalProperty": {
+      {
+        "@type": "Product",
+        "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Cobre 063",
+             "description": "Gama de veladuras metálicas listas al uso. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Cobre063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/es/microcemento/veladuras-metalicas-elitte#elitte-glitter",
+        "sku": "TT05009",
+        "gtin13": "8436575624273",
+        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Producto listo al uso",
+      "value": "No diluir con agua."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Aplicable sobre cualquier soporte",
+      "value": "Microcemento, hormigón, ladrillo,cerámica."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatilidad de aplicación",
+      "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zona de aplicación",
+      "value": "Apta para interiores y exteriores."
+    },{
         "@type": "PropertyValue",
         "name": "Rendimiento",
-        "value": "Depende del tipo de acabado que se quiera obtener."
+        "value": "23,50 m2/L"
       }
-    }
-   
-  ]
-} </script>
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Cobre Red 063",
+             "description": "Gama de veladuras metálicas listas al uso. ",
+        "image": "https://www.topciment.com/imagenes/elitte/CobreRed063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/es/microcemento/veladuras-metalicas-elitte#elitte-glitter",
+        "sku": "TT05010",
+        "gtin13": "8436575624280",
+        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Producto listo al uso",
+      "value": "No diluir con agua."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Aplicable sobre cualquier soporte",
+      "value": "Microcemento, hormigón, ladrillo,cerámica."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatilidad de aplicación",
+      "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zona de aplicación",
+      "value": "Apta para interiores y exteriores."
+    },{
+         "@type": "PropertyValue",
+        "name": "Rendimiento",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Veladuras pintura efecto metal y purpurina Elitte Glitter Blanco Plata 500 ",
+             "description": "Gama de veladuras metálicas listas al uso. ",
+        "image": "https://www.topciment.com/imagenes/elitte/BlancoPlata500.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/es/microcemento/veladuras-metalicas-elitte#elitte-glitter",
+        "sku": "TT05007",
+        "gtin13": "8436575624259",
+        "material": "Partículas de metal en polvo y resina específica desarrollada para el sistema.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Producto listo al uso",
+      "value": "No diluir con agua."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Aplicable sobre cualquier soporte",
+      "value": "Microcemento, hormigón, ladrillo,cerámica."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatilidad de aplicación",
+      "value": "Aplicable mediante llana, pincel, brocha, esponja, rodillo o pistola."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Zona de aplicación",
+      "value": "Apta para interiores y exteriores."
+    },{
+         "@type": "PropertyValue",
+        "name": "Rendimiento",
+        "value": "14,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+     
+    ]
+  } </script>
 </body>
 
 </html>

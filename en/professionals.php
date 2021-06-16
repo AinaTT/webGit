@@ -66,7 +66,7 @@
                                  <li><a href="contact">Technical service</a></li>
                                  <li><a href="microcements/microcement-application-courses">Training courses</a></li>
                                  <li> <a href="dealers">Microcement distributors</a></li>
-                                 <li> <a href="microcements/methods-application-microcement">Application methods</a>
+                                 <li> <a href="microcements/how-to-apply-microcement-microcement-application-step-by-step">Application methods</a>
                                  </li>
                                  <li> <a href="calc/">Material calculator</a></li>
                                  <li> <a href="data-sheet"">Data sheets</a></li>
@@ -156,14 +156,14 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/aplicacion.png"
                                              class="img-fluid "> <a class=""
-                                             href="microcements/methods-application-microcement">Microcement application
+                                             href="microcements/how-to-apply-microcement-microcement-application-step-by-step">Microcement application
                       methods</a>
                                      </h2>
                                      <p>
                                         Recommendations, tips and tricks on the application of microcement can be found in this section.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links"
-                                             href="microcements/methods-application-microcement"><strong>Learn about application methods</strong></a></p>
+                                             href="microcements/how-to-apply-microcement-microcement-application-step-by-step"><strong>Learn about application methods</strong></a></p>
                                  </div>
                                  <div class="col-md-12">
                                      <a id="calculadora"

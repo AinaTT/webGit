@@ -52,7 +52,7 @@
                             successo</span></span></h1>
                     <p>Luogo di relax e benessere, il bagno deve essere tanto facile da vivere quanto da mantenere. La
                         presenza dell'acqua in questa stanza significa che non si può pensare solo al comfort quando si
-                        tratta di rinnovarla, poiché richiede <b>materiali di qualità resistenti all'umidità</b>. Sia
+                        tratta di rinnovarla, poiché richiede <b>Materialei di qualità resistenti all'umidità</b>. Sia
                         che vogliate iniziare da zero, sia che dobbiate rinnovare o ingrandire il bagno, ecco alcuni
                         semplici passi per ottenere un ottimo risultato.<br>&nbsp;</p>
                     <h2>1.Organizzare lo spazio</h2>

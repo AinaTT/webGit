@@ -63,12 +63,12 @@
                 <h1>Topciment verlängert mit CYPE um ein weiteres Jahr</h1>
                 <div id="mitadTextoIzquierda">
                     <p>Topciment hat mit CYPE um ein weiteres Jahr verlängert. Mit dieser Vereinbarung wird das
-                        Mikrozement-Unternehmen in der Lage sein, weiterhin Service für Bau-Profis im Bereich der
+                        mikrozement -Unternehmen in der Lage sein, weiterhin Service für Bau-Profis im Bereich der
                         Budgetierung von Arbeiten zu bieten.</p>
                     <p>Zwischen diese Weise wird das Unternehmen mit Sitz in Manises als eines der Unternehmen, die sich am
                         meisten für Architekten und Ingenieure engagieren, konsolidiert, diese Vereinbarung wird es
                         ihnen ermöglichen, in ihren Messungen eine genaue und erschöpfende Beschreibung der
-                        Eigenschaften jeder Einheit der Arbeit, in diesem Fall von Mikrozement, durch den
+                        Eigenschaften jeder Einheit der Arbeit, in diesem Fall von mikrozement , durch den
                         Preis-Generator zu verwenden. </p>
                 </div>
                 <div id="halfRightText" data-animate-scroll='{"x": "0", "y": "50", "alpha": "0", "duration": "2"}'>

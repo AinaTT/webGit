@@ -15,22 +15,22 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Mikrozement-Pools, die bestmögliche Option</title>
+    <title>mikrozement -Pools, die bestmögliche Option</title>
     <meta name="description"
-        content="Mikrozement-Pools sind ein Trend. Entdecken Sie die Gründe mit Topciment, Hersteller von Mikrozement für Schwimmbäder." />
+        content="mikrozement -Pools sind ein Trend. Entdecken Sie die Gründe mit Topciment, Hersteller von mikrozement  für Schwimmbäder." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mikrozement-Schwimmbecken, die bestmögliche Option" />
+    <meta property="og:title" content="mikrozement -Schwimmbecken, die bestmögliche Option" />
     <meta property="og:description"
-        content="Mikrozement-Schwimmbecken liegen im Trend. Entdecken Sie die Motive mit Topciment, Hersteller von Mikrozement für Schwimmbäder." />
+        content="mikrozement -Schwimmbecken liegen im Trend. Entdecken Sie die Motive mit Topciment, Hersteller von mikrozement  für Schwimmbäder." />
     <meta property="og:url"
         content="https://www.topciment.com/de/neuigkeit/micro-cement-pools-die-bestmogliche-option" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Mikrozement-Schwimmbecken liegen im Trend. Entdecken Sie die Gründe mit Topciment, Hersteller von Mikrozement für Schwimmbäder." />
-    <meta name="twitter:title" content="Mikrozement-Schwimmbecken, die bestmögliche Option" />
-    <meta name="twitter:title" content="Mikrozement-Schwimmbecken, die bestmögliche Option" />
+        content="mikrozement -Schwimmbecken liegen im Trend. Entdecken Sie die Gründe mit Topciment, Hersteller von mikrozement  für Schwimmbäder." />
+    <meta name="twitter:title" content="mikrozement -Schwimmbecken, die bestmögliche Option" />
+    <meta name="twitter:title" content="mikrozement -Schwimmbecken, die bestmögliche Option" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -64,36 +64,36 @@
             </div>
 
             <div class="content">
-                <h1>Schwimmbecken aus Mikrozement, die bestmögliche Option</h1>
+                <h1>Schwimmbecken aus mikrozement , die bestmögliche Option</h1>
                 <div class="headline fadeInRight styleNormal16justified">
                     <p><strong>Ein eigenes Schwimmbad zu haben, ist meist einer der am häufigsten wiederkehrenden
                             Träume</strong> . Und wer möchte nicht den ganzen Tag im Wasser oder auf der Wiese seines
                         Hauses in aller Ruhe ein Sonnenbad nehmen? Deshalb stellen wir jedes Mal, wenn wir uns ein
                         Schwimmbad vorstellen, alle möglichen Funktionen vor, damit kein Detail fehlt. Und wenn wir das
-                        Beste wollen, ist ein <strong>Mikrozementpool die perfekte Wahl.</strong> </p>
+                        Beste wollen, ist ein <strong>mikrozement pool die perfekte Wahl.</strong> </p>
                     <figure class="figure"> <img src="https://www.topciment.com/imagenes/news/proyecto-sardinera03.jpg"
-                            class="figure-img img-fluid " title="Becken aus poliertem Mikrozement "
-                            alt="Becken aus poliertem Mikrozement">
+                            class="figure-img img-fluid " title="Becken aus poliertem mikrozement  "
+                            alt="Becken aus poliertem mikrozement ">
                         <figcaption class="figure-caption">Bild des Hauses Sardinera und seines Beckens aus poliertem
-                            Mikrozement von Topciment. </figcaption>
+                            mikrozement  von Topciment. </figcaption>
                     </figure>
-                    <h2 class="de4">Vorteile der Verwendung von Mikrozement in Schwimmbädern</h2>
-                    <p>Die Verwendung von Mikrozement in Schwimmbädern bietet viele funktionale und wartungstechnische
+                    <h2 class="de4">Vorteile der Verwendung von mikrozement  in Schwimmbädern</h2>
+                    <p>Die Verwendung von mikrozement  in Schwimmbädern bietet viele funktionale und wartungstechnische
                         Vorteile:</p>
                     <p> <strong>Es reduziert die Verschmutzung im Vergleich zu anderen Materialien</strong>
                     </p>
                     <p>In konventionellen Beckenkonstruktionen, bei denen Fliesen vorherrschen, sammelt sich viel
-                        Schmutz und Schimmel in den Fugen. Da Mikrozement keine Fugen hat und eine durchgehende
+                        Schmutz und Schimmel in den Fugen. Da mikrozement  keine Fugen hat und eine durchgehende
                         Oberfläche ist, <strong>gibt es keine kleinen Risse, in denen sich Schmutz ansammeln
                             kann.</strong> Daher ist es nicht nur ein saubereres Material im Allgemeinen, sondern es
                         ermöglicht auch eine viel bessere und einfachere Wartung. </p>
                     <p> <strong>Kombiniert mit verschiedenen Materialien</strong></p>
-                    <p>Mikrozement lässt sich mit allen möglichen Materialien kombinieren, so dass es <strong>in jeden
-                            Stil integriert werden kann.</strong> So können Sie das Innere des Pools mit Mikrozement und
+                    <p>mikrozement  lässt sich mit allen möglichen Materialien kombinieren, so dass es <strong>in jeden
+                            Stil integriert werden kann.</strong> So können Sie das Innere des Pools mit mikrozement  und
                         die Krone und drum herum aus einem anderen Material, wie z.B. Holz, haben. </p>
                     <p> <strong>Es gibt Kontinuität in der Gestaltung</strong></p>
                     <p>Wie gesagt, es kann kombiniert werden, aber wenn Sie Kontinuität und Großzügigkeit schaffen
-                        wollen, ist die beste Option, Mikrozement für verschiedene Bereiche zu verwenden. So entsteht
+                        wollen, ist die beste Option, mikrozement  für verschiedene Bereiche zu verwenden. So entsteht
                         der Eindruck, dass der Pool ein unendliches Design hat, das den gesamten Außenbereich eint. Und
                         Tatsache ist, dass Sie mit den verschiedenen Granulometrien, in denen er angeboten wird, und
                         seiner <strong>Anti-Rutsch-Eigenschaft</strong> problemlos einen rutschfreien Gestaltungsraum
@@ -104,13 +104,13 @@
 
                         <figure class="figure">
                             <img src="https://www.topciment.com/imagenes/news/P1060160.JPG"
-                                class="figure-img img-fluid " title="Mikrozement-Schwimmbad aus Holz "
-                                alt="Topciment Mikrozement-Schwimmbad aus Holz">
-                            <figcaption class="figure-caption">Traumschwimmbad aus Mikrozement von Topciment in
+                                class="figure-img img-fluid " title="mikrozement -Schwimmbad aus Holz "
+                                alt="Topciment mikrozement -Schwimmbad aus Holz">
+                            <figcaption class="figure-caption">Traumschwimmbad aus mikrozement  von Topciment in
                                 Kombination mit Holzlatten. </figcaption>
                         </figure> <br>
-                        <h2 class="de4 mb-3"> Atlanttic , unser spezieller Mikrozement für Schwimmbäder</h2>
-                        <p>Topciment hat <strong>Atlanttic</strong> entwickelt, unseren Zweikomponenten-Mikrozement, der
+                        <h2 class="de4 mb-3"> Atlanttic , unser spezieller mikrozement  für Schwimmbäder</h2>
+                        <p>Topciment hat <strong>Atlanttic</strong> entwickelt, unseren Zweikomponenten-mikrozement , der
                             speziell für Räume mit ständigem Kontakt zu Wasser entwickelt wurde. <strong>Damit können
                                 Sie durchgehende Räume</strong> schaffen, die die Verbindung zwischen verschiedenen
                             Bereichen erleichtern. </p>
@@ -125,7 +125,7 @@
                         <p>Atlanttic</a> <strong>Atlanttic</a> <strong>kann für die Außengestaltung z.B. von Teichen,
                                     Terrassen und Nassbereichen</strong> verwendet werden und bietet somit viele
                                 Möglichkeiten. </p>
-                        <p>Ein Schwimmbad zu haben, ist einer der häufigsten Wünsche, aber ein Mikrozementbecken zu
+                        <p>Ein Schwimmbad zu haben, ist einer der häufigsten Wünsche, aber ein mikrozement becken zu
                             haben, ist ohne Zweifel ein Traum.
 
                             <div class="interest">
@@ -166,7 +166,7 @@
 
                     <div class="co-md-12 ">
                         <h2 class="en7" style="text-align: center;">
-                            <strong>Abonnieren Sie unseren Newsletter</strong> </h2> <h3 style="font-size: 16px;">Erhalten Sie in Ihrer E-Mail Tipps für die Anwendung und Pflege von Mikrozement, die neuesten Trends und Neuigkeiten der Topciment-Produkte.
+                            <strong>Abonnieren Sie unseren Newsletter</strong> </h2> <h3 style="font-size: 16px;">Erhalten Sie in Ihrer E-Mail Tipps für die Anwendung und Pflege von mikrozement , die neuesten Trends und Neuigkeiten der Topciment-Produkte.
                         </h3>
                     </div>
                     <div class="co-md-12" style="width: 100%;">
@@ -260,14 +260,14 @@
                                                 class="SIGNUP_FLD">
                                                 <input type="text"
                                                     style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                    placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                    placeholder="Name" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
                                                     id="EMBED_FORM_NAME_LABEL">
                                             </div>
                                             <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                 class="SIGNUP_FLD">
                                                 <input type="button"
                                                     style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Abonnieren">
                                             </div>
                                             <input type="hidden" id="fieldBorder" value="">
                                             <input type="hidden" id="submitType" name="submitType"

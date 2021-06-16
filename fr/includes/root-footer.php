@@ -3,32 +3,32 @@
      <div class="container contenedorF">
          <div class="row row1">
              <div class="col-md-3 col1F">
-                 <p class="tituloF productosF"><strong>BÉTON CIRÉ</strong></p>
+                 <p class="tituloF productosF"><strong>béton ciré </strong></p>
                  <ul class="ulF productosF">
-                     <li class="sttandardF"><a class="linkB" href="beton-cire/beton-cire-bicomposant-sttandard">Béton ciré bicomposant</a></li>
-                     <li class="evoluttionF"><a class="linkB" href="beton-cire/beton-cire-monocomposant-evoluttion">Béton ciré monocomposant</a></li>
-                     <li class="efecF"><a class="linkB" href="beton-cire/beton-cire-pret-a-lemploi-efectto">Béton ciré prêt à l'emploi</a></li>
+                     <li class="sttandardF"><a class="linkB" href="beton-cire/beton-cire-bicomposant-sttandard">béton ciré  bicomposant</a></li>
+                     <li class="evoluttionF"><a class="linkB" href="beton-cire/beton-cire-monocomposant-evoluttion">béton ciré  monocomposant</a></li>
+                     <li class="efecF"><a class="linkB" href="beton-cire/beton-cire-pret-a-lemploi-efectto">béton ciré  prêt à l'emploi</a></li>
                      <li class="puremF"><a class="linkB" href="beton-cire/revetement-metallique-pure-mettal">Revêtement métallique</a></li>
                      <li class="classicF"><a class="linkB" href="beton-cire/peintures-metallique-classic-mettal">Peintures métallique</a></li>
                      <li class="elitteF"><a class="linkB" href="beton-cire/glacis-et-pigments-metallique-elitte">Glacis et pigments métallique</a></li>
                      <li class="primacemF"><a class="linkB" href="beton-cire/promoteurs-dadherence-primacem">Promoteurs d'adhérence</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="beton-cire/pigments-pour-beton-cire-arcocem">Pigments</a></li>
-                     <li class="topsealerF"><a class="linkB" href="beton-cire/vernis-topsealer">Vernis</a></li>
-                     <li class="limpieF"><a class="linkB" href="beton-cire/nettoyage-et-entretien-du-beton-cire">Nettoyage et entretien du béton ciré</a></li>
+                     <li class="topsealerF"><a class="linkB" href="beton-cire/vernis-polyurethane-acrylique-aleau-topsealer">Vernis</a></li>
+                     <li class="limpieF"><a class="linkB" href="beton-cire/nettoyage-et-entretien-du-beton-cire">Nettoyage et entretien du béton ciré </a></li>
                      <li class="herramF"><a class="linkB" href="beton-cire/outils-beton-cire">Outils</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col2F">
                  <p class="tituloF proyectosF"><strong>PROJECTS</strong></p>
                  <ul class="ulF proyectos">
-                     <li class=""><a class="linkB" href="beton-cire/galerie#paredes">Béton ciré sur les murs</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#suelos">Sols en béton ciré</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#banyos">Salles de bains en béton ciré</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#cocinas">Cuisines en béton ciré</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#escaleras">Escaliers en béton ciré</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#piscinas">Piscines en béton ciré</a></li>
-                     <li class=""><a class="linkB" href="beton-cire/galerie#exterior">Béton ciré en extérieur</a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#paredes">béton ciré  sur les murs</a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#suelos">Sols en béton ciré </a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#banyos">Salles de bains en béton ciré </a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#cocinas">Cuisines en béton ciré </a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#escaleras">Escaliers en béton ciré </a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#piscinas">Piscines en béton ciré </a></li>
+                     <li class=""><a class="linkB" href="beton-cire/galerie#exterior">béton ciré  en extérieur</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col3F">
@@ -46,7 +46,7 @@
              <div class="col-md-3 col4F">
                  <p class="tituloF"><strong>EMPRESA</strong></p>
                  <ul class="ulF empresaF">
-                     <li class="nosotrosF"><a class="linkB" href="beton-cire/fabricant-beton-cire">Fabricant de béton ciré</a></li>
+                     <li class="nosotrosF"><a class="linkB" href="beton-cire/fabricant-beton-cire">Fabricant de béton ciré </a></li>
                      <li class="noticiasF"><a class="linkB" href="nouvelles">Nouvelles</a></li>
                      <li class="contactoF"><a class="linkB" href="contact">Contact</a></li>
                      <li class="newsletterF"><a class="linkB" href="http://zc.vg/jPV0m">Abonnez vous à notre newletter</a>

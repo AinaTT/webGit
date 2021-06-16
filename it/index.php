@@ -309,22 +309,21 @@
                      <li class="evoluttionF"><a class="linkB" href="microcemento/microcemento-monocomponente-evoluttion">Microcemento monocomponente</a></li>
                      <li class="efecF"><a class="linkB" href="microcemento/microcemento-listo-al-uso-efectto">Microcemento
                              listo al uso</a></li>
-                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Microcemento
-                             metálico</a></li>
+                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Revestimiento metálico</a></li>
                      <li class="classicF"><a class="linkB" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">Pinturas metálicas</a></li>
                      <li class="elitteF"><a class="linkB" href="microcemento/veladuras-metalicas-elitte">Veladuras y
                              pigmentos metálicos</a></li>
                      <li class="primacemF"><a class="linkB" href="microcemento/imprimacione-y-promotores-de-adherencia-primacem">Promotores de adherencia</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="microcemento/pigmentos-para-microcemento-arcocem">Pigmentos</a></li>
-                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-topsealer">Barnices</a></li>
+                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Barnices</a></li>
                      <li class="limpieF"><a class="linkB" href="microcemento/limpieza-y-cuidado-del-microcemento">Limpieza y
                              cuidado del microcemento</a></li>
-                     <li class="herramF"><a class="linkB" href="microcemento/herramientas-microcemento">Herramientas</a></li>
+                     <li class="herramF"><a class="linkB" href="microcemento/herramientas-microcemento">Strumenti</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col2F">
-                 <p class="tituloF proyectosF"><strong>PROYECTOS</strong></p>
+                 <p class="tituloF proyectosF"><strong>PROGETTI</strong></p>
                  <ul class="ulF proyectos">
                      <li class=""><a class="linkB" href="microcemento/galeria#paredes">Microcemento en paredes</a></li>
                      <li class=""><a class="linkB" href="microcemento/galeria#suelos">Suelos de microcemento</a></li>
@@ -336,7 +335,7 @@
                  </ul>
              </div>
              <div class="col-md-3 col3F">
-                 <p class="tituloF"><strong>PROFESIONALES</strong></p>
+                 <p class="tituloF"><strong>PROFESSIONALI</strong></p>
                  <ul class="ulF profesionalesF">
                  <li class="cursosF"><a class="linkB" href="microcemento/cursos-aplicacion-microcemento">Cursos de microcemento</a></li>
                      <li class="distriF"><a class="linkB" href="distribuidores">Distribuidores</a></li>
@@ -349,7 +348,7 @@
                  </ul>
              </div>
              <div class="col-md-3 col4F">
-                 <p class="tituloF"><strong>EMPRESA</strong></p>
+                 <p class="tituloF"><strong>L'AZIENDA</strong></p>
                  <ul class="ulF empresaF">
                      <li class="nosotrosF"><a class="linkB" href="microcemento/fabricante-microcemento">Fabricantes microcemento</a></li>
                      
@@ -409,9 +408,8 @@
                      España</small><br class="brF">
                  <small class="privaF">
                      <a class="linkB politicaF" href="condiciones-uso-politica-privacidad" rel="nofollow">
-                         Aviso Legal y Política de privacidad</a> |
-                     <a class="linkB cookieF" href="uso-de-cookies" rel="nofollow" class="textoBlanco">Uso de
-                         cookies</a></small>
+                           Termini, condizioni e dichiarazione sulla privacy</a> |
+                     <a class="linkB cookieF" href="uso-de-cookies" rel="nofollow" class="textoBlanco">Uso dei cookie</a></small>
              </div>
          </div>
      </div>

@@ -19,16 +19,16 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Rraditionell Zweikomponenten-Mikrozement Sttandard</title>
+    <title>Rraditionell Zweikomponenten-mikrozement  Sttandard</title>
     <meta name="description"
-        content="Sttandard-Mikrozement ist unser traditioneller Zweikomponenten-Mikrozement. Eine sehr vielseitige Beschichtung, die sehr einzigartige Texturen bietet." />
+        content="Sttandard-mikrozement  ist unser traditioneller Zweikomponenten-mikrozement . Eine sehr vielseitige Beschichtung, die sehr einzigartige Texturen bietet." />
 
 
-    <meta property="og:title" content="Rraditionell Zweikomponenten-Mikrozement Sttandard">
+    <meta property="og:title" content="Rraditionell Zweikomponenten-mikrozement  Sttandard">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard">
     <meta property="og:description"
-        content="Sttandard-Mikrozement ist unser traditioneller Zweikomponenten-Mikrozement. Eine sehr vielseitige Beschichtung, die sehr einzigartige Texturen bietet.">
+        content="Sttandard-mikrozement  ist unser traditioneller Zweikomponenten-mikrozement . Eine sehr vielseitige Beschichtung, die sehr einzigartige Texturen bietet.">
     <meta property="og:type" content="article">
 
 
@@ -88,11 +88,11 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>Zweikomponenten-Mikrozement tradicional Sttandard</h1>
+                <h1>Zweikomponenten-mikrozement  tradicional Sttandard</h1>
                 <div class="text-justify">
-                    <span>Standard ist die Zweikomponenten-</span>Mikrozementlinie</span> (Zement und Harz)</p>
+                    <span>Standard ist die Zweikomponenten-</span>mikrozement linie</span> (Zement und Harz)</p>
                     <p></p>
-                    <p>Mikrozement Sttandard ist ideal für den handwerklichen Verarbeiter, der Texturen mit eigenem
+                    <p>mikrozement  Sttandard ist ideal für den handwerklichen Verarbeiter, der Texturen mit eigenem
                         Charakter schaffen will. Sttandard ermöglicht es Ihnen, mit Ihren eigenen Mischungen zu spielen
                         und das Beste aus den Produkten herauszuholen. </p>
                     <p>Ihre Wahl ist ein Synonym für Erfolg. Durch seine Robustheit und Vielseitigkeit kann er auf
@@ -142,9 +142,9 @@
                         <!-- Descripcion -->
                         <div class="col-md-6">
 
-                            <p>Sttandard Microbase ist der vorbereitende Mikrozement, er wird immer vor dem Auftragen
+                            <p>Sttandard Microbase ist der vorbereitende mikrozement , er wird immer vor dem Auftragen
                                 von Sttandard Microfino, Sttandard Microdeck und Sttandard Microstone verwendet.</p>
-                            <p>Durch seine rustikale Oberfläche kann er auch als abschließender Mikrozement verwendet
+                            <p>Durch seine rustikale Oberfläche kann er auch als abschließender mikrozement  verwendet
                                 werden</p>
                             <p>Sttandard Microbase ist in 3 Körnungen erhältlich: L, XL und XXL</p>
                             <p>Die Produktvielfalt ermöglicht dem Markt eine breite Palette an dekorativen Lösungen.</p>
@@ -291,7 +291,7 @@
                         <div class="col-md-6">
 
 
-                            <p>Standard Microfino ist der am besten geeignete Fertigmikrozement für Wände. Es ist nur
+                            <p>Standard Microfino ist der am besten geeignete Fertigmikrozement  für Wände. Es ist nur
                                 für vertikale Flächen gedacht und nicht begehbar.</p>
                             <p>Nach dem Auftragen bietet es eine seidige und glatte Oberfläche, plus seine Fähigkeit,
                                 Wasserzeichen zu bekommen, gibt ihm einen hohen dekorativen Wert.</p>
@@ -435,13 +435,13 @@
                         <div class="col-md-6">
                             <p>
 
-                                <p>Standard Microdeck ist eine Mikrozement-Oberfläche, die sich besonders für
+                                <p>Standard Microdeck ist eine mikrozement -Oberfläche, die sich besonders für
                                     Bodenbeläge im Innenbereich eignet. Es wird auf Treppen, Duschwannen, Wänden,
                                     Waschbecken und Arbeitsplatten eingesetzt.</p>
                                 <p>Das Erscheinungsbild, das Sttandard Microdeck den Räumen verleiht, ist sehr natürlich
                                     und elegant. Seine Textur ist von mittlerer Körnung. Daher ist der Wassereffekt in
                                     der Oberfläche geringer als bei Sttandard Microfino. Ästhetisch ähnelt es poliertem
-                                    Zement, aber mit allen Vorteilen von Mikrozement.</p>
+                                    Zement, aber mit allen Vorteilen von mikrozement .</p>
                                 <p>Standard Microdeck ist in 2 Korngrößen erhältlich: M und L.</p>
                                 <a class="links"
                                     href="https://www.topciment.com/de/technische-datenblatter/MicrodeckBI-DE.pdf"
@@ -575,7 +575,7 @@
 
                         <div class="col-md-6">
 
-                            <p>Standard Microstone ist eine Mikrozementoberfläche. Im Gegensatz zu Sttandard Microbase
+                            <p>Standard Microstone ist eine mikrozement oberfläche. Im Gegensatz zu Sttandard Microbase
                                 hat es eine viel aufwändigere und definiertere ästhetische Oberfläche.</p>
                             <p>Durch seine einheitliche Farbe und sein steiniges Aussehen können Sie natürliche
                                 Umgebungen mit viel Persönlichkeit schaffen. </p>
@@ -977,22 +977,22 @@
                                     href="https://www.topciment.com/imagenes/colores/negro-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/negro-microcemento.jpg"
-                                        alt="microcemento color negro" title="microcemento color negro" /></a>
+                                        alt="mikrozement color negro" title="mikrozement color negro" /></a>
                                 <a data-lightbox="colores" data-title="Color Shale Grey"
                                     href="https://www.topciment.com/imagenes/colores/shale-gray-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/shale-gray-microcemento.jpg"
-                                        alt="microcemento color Shale Grey" title="microcemento color Shale Grey" /></a>
+                                        alt="mikrozement color Shale Grey" title="mikrozement color Shale Grey" /></a>
                                 <a data-lightbox="colores" data-title="Color plomo"
                                     href="https://www.topciment.com/imagenes/colores/plomo-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/plomo-microcemento.jpg"
-                                        alt="microcemento color plomo" title="microcemento color plomo" /></a>
+                                        alt="mikrozement color plomo" title="mikrozement color plomo" /></a>
                                 <a data-lightbox="colores" data-title="Color marron"
                                     href="https://www.topciment.com/imagenes/colores/marron-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/marron-microcemento.jpg"
-                                        alt="microcemento color marron" title="microcemento color marron" /></a>
+                                        alt="mikrozement color marron" title="mikrozement color marron" /></a>
                             </div>
                         </section>
                         <section id="responsive-images-columns">
@@ -1012,22 +1012,22 @@
                                     href="https://www.topciment.com/imagenes/colores/wengue-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/wengue-microcemento.jpg"
-                                        alt="microcemento color wengue" title="microcemento color wengue" /></a>
+                                        alt="mikrozement color wengue" title="mikrozement color wengue" /></a>
                                 <a data-title="Color pizarra" data-lightbox="colores"
                                     href="https://www.topciment.com/imagenes/colores/pizarra-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/pizarra-microcemento.jpg"
-                                        alt="microcemento color pizarra" title="microcemento color pizarra" /></a>
+                                        alt="mikrozement color pizarra" title="mikrozement color pizarra" /></a>
                                 <a data-title="Color himalaya data-lightbox=" colores"
                                     href="https://www.topciment.com/imagenes/colores/himalaya-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/himalaya-microcemento.jpg"
-                                        alt="microcemento color himalaya" title="microcemento color himalaya" /></a>
+                                        alt="mikrozement color himalaya" title="mikrozement color himalaya" /></a>
                                 <a data-title="Color cemento" data-lightbox="colores"
                                     href="https://www.topciment.com/imagenes/colores/cemento-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/cemento-microcemento.jpg"
-                                        alt="microcemento color cemento" title="microcemento color cemento" /></a>
+                                        alt="mikrozement color cemento" title="mikrozement color cemento" /></a>
                             </div>
                         </section>
                         <section id="responsive-images-columns">
@@ -1046,22 +1046,22 @@
                                     href="https://www.topciment.com/imagenes/colores/cafe-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/cafe-microcemento.jpg"
-                                        alt="microcemento color café" title="microcemento color café" /></a>
+                                        alt="mikrozement color café" title="mikrozement color café" /></a>
                                 <a data-lightbox="colores" data-title="Color topo"
                                     href="https://www.topciment.com/imagenes/colores/topo-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/topo-microcemento.jpg"
-                                        alt="microcemento color topo" title="microcemento color topo" /></a>
+                                        alt="mikrozement color topo" title="mikrozement color topo" /></a>
                                 <a data-lightbox="colores" data-title="Color acero"
                                     href="https://www.topciment.com/imagenes/colores/acero-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/acero-microcemento.jpg"
-                                        alt="microcemento color acero" title="microcemento color acero" /></a>
+                                        alt="mikrozement color acero" title="mikrozement color acero" /></a>
                                 <a data-lightbox="colores" data-title="Color titanio"
                                     href="https://www.topciment.com/imagenes/colores/titanio-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/titanio-microcemento.jpg"
-                                        alt="microcemento color titanio" title="microcemento color titanio" /></a>
+                                        alt="mikrozement color titanio" title="mikrozement color titanio" /></a>
                             </div>
                         </section>
                         <section id="responsive-images-columns">
@@ -1080,24 +1080,24 @@
                                     href="https://www.topciment.com/imagenes/colores/french-gray-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/french-gray-microcemento.jpg"
-                                        alt="microcemento color French Grey"
-                                        title="microcemento color French Grey" /></a>
+                                        alt="mikrozement color French Grey"
+                                        title="mikrozement color French Grey" /></a>
                                 <a data-lightbox="colores" data-title="Color piedra Piedra París"
                                     href="https://www.topciment.com/imagenes/colores/piedra-paris-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/piedra-paris-microcemento.jpg"
-                                        alt="microcemento color piedra Piedra París"
-                                        title="microcemento color piedra Piedra París" /></a>
+                                        alt="mikrozement color piedra Piedra París"
+                                        title="mikrozement color piedra Piedra París" /></a>
                                 <a data-lightbox="colores" data-title="Color cobre"
                                     href="https://www.topciment.com/imagenes/colores/cobre-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/cobre-microcemento.jpg"
-                                        alt="microcemento color cobre" title="microcemento color cobre" /></a>
+                                        alt="mikrozement color cobre" title="mikrozement color cobre" /></a>
                                 <a data-lightbox="colores" data-title="Color plata"
                                     href="https://www.topciment.com/imagenes/colores/plata-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/plata-microcemento.jpg"
-                                        alt="microcemento color plata" title="microcemento color plata" /></a>
+                                        alt="mikrozement color plata" title="mikrozement color plata" /></a>
                             </div>
                         </section>
                         <section id="responsive-images-columns">
@@ -1116,25 +1116,25 @@
                                     href="https://www.topciment.com/imagenes/colores/perla-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/perla-microcemento.jpg"
-                                        alt="microcemento color perla" title="microcemento color perla" />
+                                        alt="mikrozement color perla" title="mikrozement color perla" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color liquen"
                                     href="https://www.topciment.com/imagenes/colores/liquen-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/liquen-microcemento.jpg"
-                                        alt="microcemento color liquen" title="microcemento color liquen" />
+                                        alt="mikrozement color liquen" title="mikrozement color liquen" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color blanco"
                                     href="https://www.topciment.com/imagenes/colores/blanco.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/blanco.jpg"
-                                        alt="microcemento color blanco" title="microcemento color blanco" />
+                                        alt="mikrozement color blanco" title="mikrozement color blanco" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color blanco roto"
                                     href="https://www.topciment.com/imagenes/colores/blanco-roto-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/blanco-roto-microcemento.jpg"
-                                        alt="microcemento color roto" title="microcemento color roto" />
+                                        alt="mikrozement color roto" title="mikrozement color roto" />
                                 </a>
                             </div>
                         </section>
@@ -1154,24 +1154,24 @@
                                     href="https://www.topciment.com/imagenes/colores/marfil-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/marfil-microcemento.jpg"
-                                        alt="microcemento color marfil" title="microcemento color marfil" /></a>
+                                        alt="mikrozement color marfil" title="mikrozement color marfil" /></a>
                                 <a data-lightbox="colores" data-title="Color kalahari"
                                     href="https://www.topciment.com/imagenes/colores/kalahari-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/kalahari-microcemento.jpg"
-                                        alt="microcemento color kalahari" title="microcemento color kalahari" />
+                                        alt="mikrozement color kalahari" title="mikrozement color kalahari" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color Desert Tan"
                                     href="https://www.topciment.com/imagenes/colores/desert-tan-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/desert-tan-microcemento.jpg"
-                                        alt="microcemento color Desert Tan" title="microcemento color Desert Tan" />
+                                        alt="mikrozement color Desert Tan" title="mikrozement color Desert Tan" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color arena"
                                     href="https://www.topciment.com/imagenes/colores/arena-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/arena-microcemento.jpg"
-                                        alt="microcemento color arena" title="microcemento color arena" />
+                                        alt="mikrozement color arena" title="mikrozement color arena" />
                                 </a>
                             </div>
                         </section>
@@ -1191,23 +1191,23 @@
                                     href="https://www.topciment.com/imagenes/colores/mojave-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/mojave-microcemento.jpg"
-                                        alt="microcemento color mojave" title="microcemento color mojave" /></a>
+                                        alt="mikrozement color mojave" title="mikrozement color mojave" /></a>
                                 <a data-lightbox="colores" data-title="Color selva"
                                     href="https://www.topciment.com/imagenes/colores/selva-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/selva-microcemento.jpg"
-                                        alt="microcemento color selva" title="microcemento color selva" /></a>
+                                        alt="mikrozement color selva" title="mikrozement color selva" /></a>
                                 <a data-lightbox="colores" data-title="Color kiwi"
                                     href="https://www.topciment.com/imagenes/colores/kiwi-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/kiwi-microcemento.jpg"
-                                        alt="microcemento color kiwi" title="microcemento color kiwi" />
+                                        alt="mikrozement color kiwi" title="mikrozement color kiwi" />
                                 </a>
                                 <a data-lightbox="colores" data-title="Color Azafrán"
                                     href="https://www.topciment.com/imagenes/colores/azafran-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/azafran-microcemento.jpg"
-                                        alt="microcemento color Azafrán" title="microcemento color Azafrán" />
+                                        alt="mikrozement color Azafrán" title="mikrozement color Azafrán" />
                                 </a>
                             </div>
                         </section>
@@ -1227,23 +1227,23 @@
                                     href="https://www.topciment.com/imagenes/colores/calabaza-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/calabaza-microcemento.jpg"
-                                        alt="microcemento color calabaza" title="microcemento color calabaza" /></a>
+                                        alt="mikrozement color calabaza" title="mikrozement color calabaza" /></a>
                                 <a data-lightbox="colores" data-title="Color azul-noche"
                                     href="https://www.topciment.com/imagenes/colores/azul-noche-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/azul-noche-microcemento.jpg"
-                                        alt="microcemento color azul-noche" title="microcemento color azul-noche" /></a>
+                                        alt="mikrozement color azul-noche" title="mikrozement color azul-noche" /></a>
                                 <a data-lightbox="colores" data-title="Color azul-profundo"
                                     href="https://www.topciment.com/imagenes/colores/azul-profundo-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/azul-profundo-microcemento.jpg"
-                                        alt="microcemento color azul profundo"
-                                        title="microcemento color azul profundo" /></a>
+                                        alt="mikrozement color azul profundo"
+                                        title="mikrozement color azul profundo" /></a>
                                 <a data-lightbox="colores" data-title="Color jade"
                                     href="https://www.topciment.com/imagenes/colores/jade-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/jade-microcemento.jpg"
-                                        alt="microcemento color jade" title="microcemento color jade" /></a>
+                                        alt="mikrozement color jade" title="mikrozement color jade" /></a>
                             </div>
                         </section>
                         <section id="responsive-images-columns">
@@ -1262,12 +1262,12 @@
                                     href="https://www.topciment.com/imagenes/colores/carmin-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/carmin-microcemento.jpg"
-                                        alt="microcemento color Carmín" "/>
+                                        alt="mikrozement color Carmín" "/>
                                  <a data-lightbox=" colores" data-title="Color Sahara"
                                         href="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"
-                                        alt="microcemento color Sahara" title="microcemento color Sahara" /></a>
+                                        alt="mikrozement color Sahara" title="mikrozement color Sahara" /></a>
 
                             </div>
                         </section>
@@ -1286,11 +1286,11 @@
         <!-- Colores End -->
         <div><img class="imgiz"
                 src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div><img class="imgde"
                 src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
+                width="100%" alt="mikrozement e">
         </div>
         <div id="separador50px">
         </div>
@@ -1310,7 +1310,1089 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProductGroup",
+ "name": "Zweikomponenten-Mikrozement Sttandard Microbase",  
+  "description": "Microcemento Bikomponenten-Zubereitung für kontinuierliche Beschichtungen mit geringer Schichtdicke auf Böden und Wänden.",
+  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
+  "brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "weight": "20 Kg",
+  "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+  "variesBy": "size",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "45 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+  ],
+  "potentialAction": {
+    "@type": "Action",
+	"name": "Mikrozement-Anwendung"	
+  },	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }, 
+  "hasVariant": [
+  {
+    "@type": "Product",
+     "name": "Zweikomponenten-Mikrozement Sttandard Microbase L",
+	  "description": "Microcemento Bikomponenten-Zubereitung für kontinuierliche Beschichtungen mit geringer Schichtdicke auf Böden und Wänden.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
+	"url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microbase",
+	"sku": "TT01001",
+  "gtin13":"8436575620015",  
+    "size": "L",
+  "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+	"weight": "20 Kg",
+	 "brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "45 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  },
+  {
+    "@type": "Product",
+	    "name": "Zweikomponenten-Mikrozement Sttandard Microbase XL",
+	  "description": "Microcemento Bikomponenten-Zubereitung für kontinuierliche Beschichtungen mit geringer Schichtdicke auf Böden und Wänden.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XL.jpg",
+	"url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microbase",
+	"sku": "TT01017",  
+  "gtin13":"8436575624617",
+    "size": "XL",
+	 "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+	"weight": "20 Kg",
+	"brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "45 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  },
+  {
+    "@type": "Product",
+ "name": "Zweikomponenten-Mikrozement Sttandard Microbase XXL",
+	  "description": "Microcemento Bikomponenten-Zubereitung für kontinuierliche Beschichtungen mit geringer Schichtdicke auf Böden und Wänden.",
+	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XXL.jpg",
+	"url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microbase",
+	"sku": "TT01018",
+  "gtin13":"8436575624815",
+    "size": "XXL",
+ "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+	"weight": "20 Kg",
+		"brand": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+  "manufacturer": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url":"https://www.topciment.com",
+	"legalName": "Grupo Negocios PO SLU",
+	"telephone": "+34617955352",
+	"taxID": "B97539076",
+	"location": {
+		"@type": "PostalAddress",
+		"streetAddress": "Calle Rosas, 33",
+		"addressLocality": "Manises",
+		"postalCode": "46940",
+		"addressRegion": "Valencia",
+		"addressCountry": "España"
+	}
+  },
+	"additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "45 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+    ],
+	"aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    }
+  }
+  ]
+}
+</script>
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Sttandard Microdeck Zweikomponenten-Mikrozement",
+    "description": "Microcemento Bicomponente de terminación für Bodenbeläge im Innenbereich",
+    "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "35 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,2 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(2 Hände)- 1 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Mikrozement-Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "16"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Sttandard Microdeck Zweikomponenten-Mikrozement M",
+        "description": "Microcemento Bicomponente de terminación für Bodenbeläge im Innenbereich",
+        "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microdeck",
+        "sku": "TT01005",
+        "gtin13": "8436575620053",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Biegefestigkeit",
+            "value": "7 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Feuerbeständigkeit",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Druckfestigkeit",
+            "value": "22 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Einhaltung des Supports",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Leistung",
+            "value": "(2 Hände)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Microdeck Zweikomponenten-Mikrozement L",
+        "description": "Microcemento Bicomponente de terminación für Bodenbeläge im Innenbereich",
+        "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_L.jpg",
+        "size": "L",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microdeck",
+        "sku": "TT01012",
+        "gtin13": "8436575620138",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "10 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "35 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,2 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(2 Hände)- 1 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "16"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Sttandard Zweikomponenten-Mikrozement",
+    "description": "Microcemento Bikomponenten-Finish für Wände und nicht begehbare vertikale Flächen.",
+    "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "15kg und  20kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [{
+        "@type": "PropertyValue",
+        "name": "Biegefestigkeit",
+        "value": "7 N/m² (28 Tage)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Feuerbeständigkeit",
+        "value": "BFL S1"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Druckfestigkeit",
+        "value": "22 N/m² (28 Tage)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Einhaltung des Supports",
+        "value": "1,2 N/m²"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "(2 Hände)- 0,50 Kg/m²"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Mikrozement-Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "11"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Sttandard Zweikomponenten-Mikrozement XS",
+        "description": "Microcemento Bikomponenten-Finish für Wände und nicht begehbare vertikale Flächen.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
+        "size": "XS",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microfino",
+        "sku": "TT01015",
+        "gtin13": "8436575620701",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "15kg und  20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Biegefestigkeit",
+            "value": "7 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Feuerbeständigkeit",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Druckfestigkeit",
+            "value": "22 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Einhaltung des Supports",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Leistung",
+            "value": "(2 Hände)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Zweikomponenten-Mikrozement S",
+        "description": "Microcemento Bikomponenten-Finish für Wände und nicht begehbare vertikale Flächen.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_S.jpg",
+        "size": "S",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microfino",
+        "sku": "TT01004",
+        "gtin13": "8436575620046",
+        
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "15kg und  20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Biegefestigkeit",
+            "value": "7 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Feuerbeständigkeit",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Druckfestigkeit",
+            "value": "22 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Einhaltung des Supports",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Leistung",
+            "value": "(2 Hände)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Zweikomponenten-Mikrozement M",
+        "description": "Microcemento Bikomponenten-Finish für Wände und nicht begehbare vertikale Flächen.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microfino",
+        "sku": "TT01016",
+        "gtin13": "8436575620718",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "15kg und  20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+            "@type": "PropertyValue",
+            "name": "Biegefestigkeit",
+            "value": "7 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Feuerbeständigkeit",
+            "value": "BFL S1"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Druckfestigkeit",
+            "value": "22 N/m² (28 Tage)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Einhaltung des Supports",
+            "value": "1,2 N/m²"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Leistung",
+            "value": "(2 Hände)- 0,50 Kg/m²"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "11"
+        }
+      }
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Sttandard Zweikomponenten-Mikrozement Mikrostein",
+    "description": "Microcemento Bikomponenten-Finish für den Außenbereich",
+    "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "11 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "50 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(2 Hände)- 2 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Mikrozement-Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "12"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Sttandard Zweikomponenten-Mikrozement Mikrostein L",
+        "description": "Microcemento Bikomponenten-Finish für den Außenbereich",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
+        "size": "L",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microstone",
+        "sku": "TT01024",
+        "gtin13": "8436575620756",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [{
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "11 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "50 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(2 Hände)- 2 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Sttandard Zweikomponenten-Mikrozement Mikrostein XL",
+        "description": "Microcemento Bikomponenten-Finish für den Außenbereich",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
+        "size": "XL",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-zweikomponenten-sttandard#sttandard-microstone",
+        "sku": "TT01006",
+        "gtin13": "8436575620060",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "11 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "50 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(2 Hände)- 2 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

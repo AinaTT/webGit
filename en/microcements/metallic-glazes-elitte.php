@@ -59,21 +59,13 @@
                 <div class="container">
                     <div id="sidebar" class="menuOculto menuMicrocementos stick">
                         <ul>
-                            <li>
-                                <a href="#up" style="font-size:26px">Elitte</a>
-                            </li>
-                            <li>
-                                <h2><a href="#que-es-elitte">What is Elitte?</a></h2>
-                            </li>
-                            <li>
-                                <h2><a href="#elitte-glaze">Elitte Glaze </a></h2>
-                            </li>
-                            <li>
-                                <h2><a href="#elitte-glitter">Elitte Glitter</a></h2>
-                            </li>
-                             <li>
-                                <h2><a href="#aplicacion">Application</a></h2>
-                            </li>
+                            <li> <a href="#up" style="font-size:26px">Elitte</a> </li>
+                            <li> <a href="#que-es-elitte">What is Elitte?</a> </li>
+                            <li> <a href="#elitte-glaze">Elitte Glaze </a> </li>
+                             <li> <a href="#colores-glaze">Elitte Glaze finishes </a> </li>
+                            <li> <a href="#elitte-glitter">Elitte Glitter</a> </li>
+                               <li> <a href="#colores-glitter">Elitte Glitter finishes </a> </li>
+                             <li> <a href="#aplicacion">Application</a> </li>
                         </ul>
                     </div>
                     <div class="content">
@@ -122,6 +114,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glaze_logo.png"
                             title="Logo Elitte Glaze" alt="Logo Elitte Glaze">
                     </div>
+                    <a id="colores-glaze" class="ancla"></a>
                     <h2>Elitte Glaze metal effect paint glazes</h2>
 
                     <p>
@@ -293,6 +286,7 @@
                             src="https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png"
                             title="Logo Elitte Glitter" alt="Logo Elitte Glitter">
                     </div>
+                    <a id="colores-glitter"></a>
                     <h2>Elitte Glitter effect paint glazes</h2>
 
                     <p>
@@ -1026,33 +1020,51 @@
      
     ]
   } </script>
-  <script type = "application/ld+json" > {
-  "@context": "https://schema.org",
-  "@type": "ProductModel",
-  "name": "Metallic and glitter effect paint glazes Elitte Glitter ",
-  "description": "Ready-to-use metallic glaze line.",
-  "brand": "Elitte Glitter",
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "Topciment",
-    "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-    "url": "https://www.topciment.com"
-  },
-  "logo": "https://www.topciment.com/imagenes/elitte/Elitte_Glitter_logo.png",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "83"
-  },
-  "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
-  "material": "real metal particles of copper, bronze, iron and brass.",
-  "weight": "1kg",
-  "potentialAction": {
-    "@type": "Action",
-    "name": "Aplicación de pinturas metálicas"
-  },
-  "category": "Metallic paints and rust effect",
-  "additionalProperty": [{
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Elitte Glitter metal and glitter effect paint glazes",
+         "description": "Range of ready-to-use metallic glazes. ",
+    "image": "https://www.topciment.com/imagenes/elitte/Elitte_Glaze_producto.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "0,5 Kg",
+    "material": "Powdered metal particles and specific resin developed for the system.",
+    "variesBy": "size",
+    "additionalProperty": [
+           {
       "@type": "PropertyValue",
       "name": "Ready to use product",
       "value": "Do not dilute with water."
@@ -1073,62 +1085,410 @@
       "name": "Area of application",
       "value": "Suitable for indoor and outdoor use."
     }
-  ],
-  "hasVariant": [{
-      "@type": "Product",
-      "name": "Metallic and glitter effect paint glazes Elitte Glitter Bronze 200",
-      "description": "Ready-to-use metallic glaze line.",
-      "image": "https://www.topciment.com/imagenes/elitte/Bronze200.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
-      },
-      "additionalProperty": {
-        "@type": "PropertyValue",
-        "name": "Consumption",
-        "value": "It depends on the type of finish you want to obtain."
-      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "Metallic and glitter effect paint glazes"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "28"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Elitte Glitter metal and glitter effect paint glazes Aluminio 054",
+             "description": "Range of ready-to-use metallic glazes. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Aluminio054.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/en/microcements/metallic-glazes-elitte#elitte-glitter",
+        "sku": "TT05008",
+        "gtin13": "8436575624266",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Ready to use product",
+      "value": "Do not dilute with water."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable on any substrate",
+      "value": "Microcement, concrete, brick, ceramics."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatility of application",
+      "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area of application",
+      "value": "Suitable for indoor and outdoor use."
     },{
-      "@type": "Product",
-      "name": "Metallic and glitter effect paint glazes Elitte Glitter Gold 500",
-      "description": "Ready-to-use metallic glaze line.",
-      "image": "https://www.topciment.com/imagenes/elitte/Gold500.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
-      },
-      "additionalProperty": {
         "@type": "PropertyValue",
         "name": "Consumption",
-        "value": "It depends on the type of finish you want to obtain."
+        "value": "12,00 m2/L"
       }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },{
+        "@type": "Product",
+        "name": "Elitte Glitter metal and glitter effect paint glazes Gold 063",
+             "description": "Range of ready-to-use metallic glazes. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Gold063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/en/microcements/metallic-glazes-elitte#elitte-glitter",
+        "sku": "TT05011",
+        "gtin13": "8436575624297",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Ready to use product",
+      "value": "Do not dilute with water."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable on any substrate",
+      "value": "Microcement, concrete, brick, ceramics."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatility of application",
+      "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area of application",
+      "value": "Suitable for indoor and outdoor use."
     },{
-      "@type": "Product",
-      "name": "Metallic and glitter effect paint glazes Elitte Glitter Silver 500",
-      "description": "Ready-to-use metallic glaze line.",
-      "image": "https://www.topciment.com/imagenes/elitte/Silver500.jpg",
-      "size": "500 mL",
-      "brand": "Elitte Glitter",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5",
-        "reviewCount": "17"
+              "@type": "PropertyValue",
+        "name": "Consumption",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
       },
-      "additionalProperty": {
+      {
+        "@type": "Product",
+        "name": "Elitte Glitter metal and glitter effect paint glazes Cobre 063",
+             "description": "Range of ready-to-use metallic glazes. ",
+        "image": "https://www.topciment.com/imagenes/elitte/Cobre063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/en/microcements/metallic-glazes-elitte#elitte-glitter",
+        "sku": "TT05009",
+        "gtin13": "8436575624273",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Ready to use product",
+      "value": "Do not dilute with water."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable on any substrate",
+      "value": "Microcement, concrete, brick, ceramics."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatility of application",
+      "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area of application",
+      "value": "Suitable for indoor and outdoor use."
+    },{
         "@type": "PropertyValue",
         "name": "Consumption",
-        "value": "It depends on the type of finish you want to obtain."
+        "value": "23,50 m2/L"
       }
-    }
-   
-  ]
-} </script>
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Elitte Glitter metal and glitter effect paint glazes Cobre Red 063",
+             "description": "Range of ready-to-use metallic glazes. ",
+        "image": "https://www.topciment.com/imagenes/elitte/CobreRed063.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/en/microcements/metallic-glazes-elitte#elitte-glitter",
+        "sku": "TT05010",
+        "gtin13": "8436575624280",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Ready to use product",
+      "value": "Do not dilute with water."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable on any substrate",
+      "value": "Microcement, concrete, brick, ceramics."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatility of application",
+      "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area of application",
+      "value": "Suitable for indoor and outdoor use."
+    },{
+         "@type": "PropertyValue",
+        "name": "Consumption",
+        "value": "23,50 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Elitte Glitter metal and glitter effect paint glazes Blanco Plata 500 ",
+             "description": "Range of ready-to-use metallic glazes. ",
+        "image": "https://www.topciment.com/imagenes/elitte/BlancoPlata500.jpg",
+        "size": "500 mL",
+        "url": "https://www.topciment.com/en/microcements/metallic-glazes-elitte#elitte-glitter",
+        "sku": "TT05007",
+        "gtin13": "8436575624259",
+        "material": "Powdered metal particles and specific resin developed for the system.",
+        "weight": "0,5 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Ready to use product",
+      "value": "Do not dilute with water."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Applicable on any substrate",
+      "value": "Microcement, concrete, brick, ceramics."
+    },
+
+    {
+      "@type": "PropertyValue",
+      "name": "Versatility of application",
+      "value": "Applicable by trowel, brush, brush, sponge, roller or spray gun."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Area of application",
+      "value": "Suitable for indoor and outdoor use."
+    },{
+         "@type": "PropertyValue",
+        "name": "Consumption",
+        "value": "14,00 m2/L"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "28"
+        }
+      }
+      
+     
+    ]
+  } </script>
 </body>
 
 </html>

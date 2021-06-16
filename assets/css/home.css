@@ -95,7 +95,9 @@
  acronym {
      border: 0;
  }
-
+.contenedorFI{
+    width: 100% !important;
+}
  .section {
      height: 100% !important;
  }

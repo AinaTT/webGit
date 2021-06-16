@@ -89,30 +89,19 @@
                             <a id="que-es-primacem" class="ancla"></a>
                             <h1 class="en2">
                                 Primers and adhesion promoters for microcement | Primacem</h1>
-                            <p>
-                                Primacem is our line of primers and adhesion promoters for microcement and other
-                                materials such as tile, concrete or tiles, among others. These products are essential as
-                                they are the first step in the process of applying microcement. Their function is to
-                                facilitate the bond between the existing substrate and the new coating.
+                         <p>
+                             Primacem is our line of primers and adhesion promoters for microcement and other materials such as tile, concrete or tiles, among others. These products are essential as they are the first step in the process of applying microcement. Their function is to facilitate the bond between the existing substrate and the new coating.
 
-                            </p>
-                            <p>
-                                Our range of primers offers different possibilities and solutions depending on the
-                                surface to be coated. That is why we have primers for absorbent surfaces, non-absorbent
-                                surfaces, with tacking effect, with aggregate and even anti-humidity epoxy primers.
+                         </p>  
+<p>
+  Our range of primers offers different possibilities and solutions depending on the surface to be coated. That is why we have primers for absorbent surfaces, non-absorbent surfaces, with tacking effect, with aggregate and even anti-humidity epoxy primers.
 
-                            </p>
-                            <p>
-                                To ensure optimum consolidation, it is important to follow the steps and recommendations
-                                for use of each of the adhesion promoters for microcement and other substrates that we
-                                manufacture.
+</p>  
+<p>
+  To ensure optimum consolidation, it is important to follow the steps and recommendations for use of each of the adhesion promoters for microcement and other substrates that we manufacture.
 
-                            </p>
-                            <p>
-                                Below we describe the five types of primers and adhesion promoters that make up the
-                                Primacem range.
-
-                            </p>
+</p>  
+<p>Below we describe the five types of primers and adhesion promoters that make up the Primacem range.</p>
                         </div>
                     </div>
             </div>
@@ -157,7 +146,7 @@
                             target="_blank"><span class="fa-stack">
                                 <i class="fas fa-file-pdf fa-stack-1x"></i>
                             </span>
-                            <strong> Download the Primacem data sheet here</strong>
+                            <strong> Download the Primacem Fix data sheet here</strong>
                         </a>
                     </div>
                 </div>

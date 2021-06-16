@@ -108,7 +108,36 @@
         </div>
 
         <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/cleaning-of-microcement"
+  },
+  "headline": "New products for the maintenance of microcement",
+  "image":"https://www.topciment.com/imagenes/productos-limpieza-y-mantenimiento-del-microcemento.jpg",
+  "datePublished": "2020-01-24",
+  "dateModified": "2020-01-24",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Topciment launches four new products on the market especially formulated for the care, maintenance and cleaning of of microcement."
+} 
+</script>
 </body>
 
 </html>

@@ -26,8 +26,7 @@
         content="https://www.topciment.com/cn/xinwen/weishuiniyushi-chengwei-2021-xinqushi-de liuge-yuanying" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content=" 微水泥浴室将在2021年成为新时尚，在Topciment我们知道其原因。在这里您可以发现在浴室哪里应用微水泥，以及它的主要优点。
- " />
+    <meta name="twitter:description" content=" 微水泥浴室将在2021年成为新时尚，在Topciment我们知道其原因。在这里您可以发现在浴室哪里应用微水泥，以及它的主要优点" />
     <meta name="twitter:title" content="6个原因让微水泥浴室将在2021年成为一种时尚趋势" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -129,7 +128,7 @@
 
                     </p>
                     <p><a
-                            href="../wenxingshuini/weishuini-de-yingyong-fangfa">关于微水泥在浴室的应用</a>，过程根据所选择的微水泥类型和要覆盖的表面（可通行的或不可通行的）而有所不同。
+                            href="../wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou">关于微水泥在浴室的应用</a>，过程根据所选择的微水泥类型和要覆盖的表面（可通行的或不可通行的）而有所不同。
                     </p>
                     <h2>微水泥浴室价格</h2>
 

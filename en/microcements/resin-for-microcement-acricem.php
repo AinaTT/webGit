@@ -16,13 +16,13 @@
     <link rel="stylesheet" href="../../assets/css/familia.css" />
 
 
-    <title>microcement resin | Acricem water-based acrylic resin
+    <title>Microcement resin | Water-based acrylic resin Acricem
     </title>
     <meta name="description"
         content="Acrylic resin that increases mechanical resistance. Water-based, this resin gives extra hardness and flexibility to two-component microcement." />
 
 
-    <meta property="og:title" content="microcement resin | Acricem water-based acrylic resin">
+    <meta property="og:title" content="Microcement resin | Water-based acrylic resin Acricem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/en/resin-for-microcement-acricem">
     <meta property="og:description"
@@ -79,21 +79,21 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Resin for microcement</h1>
+                            <h1>Acricem, Acrylic resin for microcement</h1>
                             <p> Acricem is a resin that provides adhesion, hardness and flexibility to microcement coatings. This water-based acrylic resin is particularly suitable for use with our two-component microcement systems: Sttandard, Unlimitted and Atlanttic.
                             </p>
                            <p>This resin for microcement is solvent-free and considerably improves the mechanical resistance as well as the impermeability of the mortar. In addition, it reduces the possible occurrence of shrinkage cracks.</p>
                            <p>It can also be used as a primer, since Acricem is a resin that consolidates absorbent cementitious surfaces.</p>
                            
-                           <!--    <a class="links" href="https://www.topciment.com/fichas-tecnicas/Primacem-ES.pdf" target="_blank"><span class="fa-stack">
+                               <a class="links" href="https://www.topciment.com/fichas-tecnicas/Primacem-ES.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
-                                <strong> Descarga la ficha técnica de Primacem aquí</strong>
-                            </a> -->
+                                <strong>Download the Acricem data sheet here.</strong>
+                            </a> 
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h2 class="en3"> Acricem acrylic resin types</h2>
+                    <h2 class="en3"> Types of acrylic resin and water-based resin for two-component microcement Acricem</h2>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img class="img-fluid" alt="Acricem" title="Acricem 5 L"
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3">Technical characteristics</p>
+                    <h2 class="en3">Technical characteristics of Acricem acrylic resin for microcement </h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -158,16 +158,15 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3">
-                        Consumption</p>
+                    <h2 class="en3">
+                        Consumption of Acricem acrylic resin for microcement</h2>
                     <div class="row">
-                        <div class="col-md-12"><span>Acricem (1 coat) 0,1 L/m2</span></div>
+                        <div class="col-md-12">The consumption of Acricem acrylic and water-based resin for our two-component microcement systems is : 0.10 L/m2  (1 coat)</div>
                     </div>
                     <!-- Presentación -->
-                    <p class="en3">
-                        Presentación</p>
-                    <p>
-All types of Acricem are available in 5 and 25 L plastic carafes.</p>
+                    <h2 class="en3">
+                        Packaging Acricem acrylic resin for microcement</h2>
+                    <p>Acricem acrylic resin for our two-component microcements (Sttandard, Unlimitted and Atlanttic) is packaged in 5 and 25 L plastic containers</p>
                 </div>
             </div>
         </section>

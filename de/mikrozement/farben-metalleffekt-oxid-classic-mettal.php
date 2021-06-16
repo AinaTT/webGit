@@ -14,35 +14,46 @@
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/familia.css" />
 
-    <title>Farben Mikrozement| Topciment Mikrozementpigmente Karte</title>
+    <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
+    <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
+
+    <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
+    <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
+    <title>Metallic farben y efecto óxido| Classic Mettal</title>
     <meta name="description"
-        content="RMit unseren Mikrozementfarben können Sie neue Oberflächen schaffen und neue Räume gestalten. Mit der breiten Palette an Pigmenten von Topciment ist jede Kombination möglich." />
+        content="Schaffen Sie einzigartige dekorative Oberflächen an Wänden und Möbeln mit Classic Mettal, unseren Metallic- und Rosteffekt-Farben. Gebrauchsfertige Farben, die auf mikrozement , Beton, Ziegel, Keramik und sogar Metalle aufgetragen werden können. Entdecken Sie sie." />
 
 
-    <meta property="og:title" content="Farben Mikrozement| Topciment Mikrozementpigmente Karte">
+    <meta property="og:title" content="Metallic farben y efecto óxido| Classic Mettal">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/de/mikrozement/pigmente-fur-mikrozement-arcocem">
+    <meta property="og:url"
+        content="https://www.topciment.com/de/mikrozement/farben-metalleffekt-oxid-classic-mettal">
     <meta property="og:description"
-        content="RMit unseren Mikrozementfarben können Sie neue Oberflächen schaffen und neue Räume gestalten. Mit der breiten Palette an Pigmenten von Topciment ist jede Kombination möglich. ">
+        content="Schaffen Sie einzigartige dekorative Oberflächen an Wänden und Möbeln mit Classic Mettal, unseren Metallic- und Rosteffekt-Farben. Gebrauchsfertige Farben, die auf mikrozement , Beton, Ziegel, Keramik und sogar Metalle aufgetragen werden können. Entdecken Sie sie.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg">
+    <meta property="og:image"
+        content="https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg">
 
 
-    <link rel="canonical" href="https://www.topciment.com/de/mikrozement/pigmente-fur-mikrozement-arcocem" />
 
-    <link rel="alternate" href="https://www.topciment.com/de/mikrozement/pigmente-fur-mikrozement-arcocem"
+    <link rel="canonical"
+        href="https://www.topciment.com/de/mikrozement/farben-metalleffekt-oxid-classic-mettal" />
+
+    <link rel="alternate"
+        href="https://www.topciment.com/de/mikrozement/farben-metalleffekt-oxid-classic-mettal"
         hreflang="de-DE" />
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/pigments-pour-beton-cire-arcocem"
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/peintures-metallique-classic-mettal"
         hreflang="fr-FR" />
-    <link rel="alternate" href="https://topciment.com/en/microcements/pigments-for-microcement-arcocem"
+    <link rel="alternate" href="https://topciment.com/en/microcements/metallic-paints-oxide-effect-classic-mettal"
         hreflang="en-GB" />
-    <link rel="alternate" href="https://topciment.com/pl/mikrocement/pigmentacja-mikrocementu-acrocem"
+    <link rel="alternate" href="https://topciment.com/pl/mikrocement/efekty-metaliczne-oksydacyjne-classic-mettal"
         hreflang="pl-PL" />
+
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
-<body id="familia">
+<body id="familia" class="p-puremettal">
 
     <?php include("../includes/header.php"); ?>
 
@@ -51,312 +62,435 @@
 
     <div id="main">
         <div class="clearfix">
-            <div id="content">
-                <section id="up">
+            <section id="up">
 
-                    <a id="que-es-arcocem"></a>
-                    <div class="container">
-                        <div id="sidebar" class="menuOculto menuMicrocementos stick">
-                            <ul>
-                                <li>
-                                    <a style="font-size:26px" href="#up">Arcocem</a>
-                                </li>
-                                <li>
-                                    <a href="#que-es-arcocem">Was ist Arcocem?</a>
-                                </li>
-                                <li>
-                                    <a href="#arcocem-basic">Arcocem Basic</a>
-                                </li>
-                                <li>
-                                    <a href="#arcocem-plus">Arcocem Plus</a>
-                                </li>
-                                <!--<li><a href="#preguntas-frecuentes">Preguntas frecuentes</a></li>-->
-                            </ul>
-                        </div>
-                        <div class="content">
-                            <a id="que-es-arcocem" class="ancla"></a>
-                            <h1 class="en2">Farben und Pigmente für Mikrozement</h1>
-                            Arcocem ist die Linie der Pigmentpasten. Es handelt sich um hochkonzentrierte
-                            Flüssigfarbstoffe, die bei der Herstellung des Mikrozements zugesetzt werden. <p>In dieser
-                                Linie lassen sich die Arcocem Basic-Farben (Weiß, Schwarz, Blau, Orangerot, Grün und
-                                Gelb) unterscheiden, die die Basis für das breite Farbspektrum von Arcocem Plus bilden.
+                <a id="que-es-classic-mettal" class="ancla"></a>
+                <div class="container">
+                    <div id="sidebar" class="menuOculto menuMicrocementos stick">
+                        <ul>
+                            <li>
+                                <a href="#up" style="font-size:26px">Classic Mettal</a>
+                            </li>
+                            <li>
+                                <a href="#que-es-classic-mettal">Was ist Classic Mettal?</a>
+                            </li>
+                            <li>
+                                <a href="#puremetal-aluminium">Classic Mettal </a>
+                            </li>
+                            <li> <a href="#colores">Finishs</a> </li>
+                            <li> <a href="#aplicacion">Anwendung</a> </li>
+                        </ul>
+                    </div>
+                    <div class="content">
+                        <h1 class="en2">
+                            Metallic-Farben und Rosteffekt| Classic Mettal</h1>
+                        <div class="text-justify">
+
+
+                            <p>
+                                Classic Mettal ist unser Sortiment an gebrauchsfertigen Metallic-Lacken, die der
+                                beschichteten Oberfläche ein authentisches Metallic-Finish verleihen, da sie echte
+                                Metallic-Partikel aus Kupfer, Bronze, Eisen und Messing enthalten, je nach gewünschtem
+                                Ergebnis. Die dekorativen Möglichkeiten dieser Metalllacke sind auf nicht begehbaren
+                                Flächen wie Wänden oder Möbeln endlos. Sehr attraktive Oberflächen, die im Innen- und
+                                Außenbereich einen industriellen, anspruchsvollen und originellen Touch verleihen.
+
                             </p>
-                            <p>Arcocem Plus ist die Palette der Pigmentpasten in Einzeldosen, die es uns ermöglichen,
-                                alle Farben der Topciment-Palette zu erhalten. </p>
+                            <p>
+                                Doch die Vielseitigkeit dieser innovativen Farbe geht weit darüber hinaus. Dank der
+                                Anwendung unseres Rostaktivators  <a href="oxidationsmittel-mettal-activator">Mettal Activator </a> wird Classic Mettal
+                                zu einer Rosteffektfarbe, die den Oberflächen, auf die sie aufgetragen wird, einen
+                                gealterten Effekt von größter Natürlichkeit verleiht. Eine Farbe mit Rosteffekt, die für
+                                Wände sehr zu empfehlen ist und ideal ist, um den nie aus der Mode kommenden
+                                Vintage-Stil nachzubilden.
+
+                            </p>
+                            <p>
+                                Neben der großen Auswahl an dekorativen Oberflächen ist Classic Mettal ein Metallic- und
+                                Rosteffektlack mit langer Lebensdauer, ausgezeichneter Haftung und hoher
+                                Witterungsbeständigkeit, wenn der entsprechende Lack oder die Versiegelung aufgetragen
+                                wird. Deshalb kann es auch problemlos auf Außenflächen wie Gebäudefassaden, Pfeilern
+                                oder Wänden eingesetzt werden.
+
+                            </p>
                         </div>
                     </div>
-                </section>
-            </div>
+                </div>
+            </section>
+
         </div>
-        <div class="fullscreen background parallax"
-            style="background-image:url('https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_03.jpg');"
+        <div class="fullscreen background parallax altoMovil"
+            style="background-image:url('https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_03.jpg'); "
             data-img-width="1920" data-img-height="1080" data-diff="100">
         </div>
-        <!--  Start arcocem basic-->
+        <!-- Start pure mettal -->
         <div id="separador50px">
         </div>
 
-        <a id="arcocem-basic" class="ancla"></a>
+        <a id="puremetal-aluminium" class="ancla"></a>
         <section>
             <div class="container">
                 <div class="content">
-                    <!-- titulo -->
-                    <p class="en2 text-center">
-                        <span class="font1a">ARCOCEM</span> <span class="font1b">BASIC</span>
-                    </p>
+                    <a id="colores" class="ancla"></a>
+                    <h2>Arten von Metallic-Farben und Rosteffekt Classic Mettal</h2>
+                  <p>Bei Topciment haben wir fünf Typen von Classic Mettal Metallic- und Rosteffektfarben: Classic Mettal: Cobre, Bronce, Hierro 004, Latón y Hierro 030. Jede von ihnen bietet unwiederholbare dekorative Oberflächen, da Sie mit den Mischungen so spielen können, dass keine zwei Beschichtungen gleich sein werden, besonders wenn Sie unseren Rostbeschleuniger Mettal Activator verwenden.</p>
+                    <!-- tipos de cubos -->
+
                     <div class="row">
-                        <!-- imagen producto -->
-                        <div class="col-md-6">
-                            <img src="https://www.topciment.com/imagenes/Arcocem/Arcocem_Basic.jpg" width="100%"
-                                title="Presealer ">
+
+                        <div class="col-md-4">
+                            <figure class="figure">
+                                <img src="https://www.topciment.com/imagenes/classic-mettal/Classic_Mettal_Cobre.jpg"
+                                    class="img-fluid" title="Classic Mettal" alt="Classic Mettal">
+                                <figcaption class="text-center"> Classic Mettal Cobre
+                                </figcaption>
+                            </figure>
                         </div>
-                        <!-- descripcion -->
-                        <div class="col-md-6">
-                            <h2>Farben microcemento Arcocem Basic</h2>
-                            <p>
-                                <strong>Arcocem Basic</strong> ist der Name der Basispigmentpasten von Topciment. Es
-                                handelt sich um eine Reihe von Pigmenten in wässriger Dispersion, mit denen alle in der
-                                Topciment-Farbkarte verfügbaren Farben erzielt werden können. Sie werden auch für die
-                                Zubereitung von Einzeldosis/Arcocem Plus verwendet, das bei der Einfärbung von
-                                Mikrozement zum Einsatz kommt.
-                            </p>
-                            <a class="links" href="https://www.topciment.com/de/technische-datenblatter/ArcocemBASIC-DE.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Laden Sie hier das technische Datenblatt von
-                                    Arcocem Basic</strong>
-
-                            </a>
+                        <div class="col-md-4">
+                            <figure class="figure">
+                                <img src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Bronce.jpg"
+                                    class="img-fluid" title="Classic Mettal" alt="Classic Mettal">
+                                <figcaption class="text-center"> Classic Mettal Bronce
+                                </figcaption>
+                            </figure>
                         </div>
-
-
-
-
+                        <div class="col-md-4">
+                            <figure class="figure">
+                                <img src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroFino.jpg"
+                                    class="img-fluid" title="Classic Mettal" alt="Classic Mettal">
+                                <figcaption class="text-center"> Classic Mettal Hierro 004
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <figure class="figure">
+                                <img src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Laton.jpg"
+                                    class="img-fluid" title="Classic Mettal" alt="Classic Mettal">
+                                <figcaption class="text-center">Classic Mettal Latón
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure class="figure">
+                                <img src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_HierroGrueso.jpg"
+                                    class="img-fluid" title="Classic Mettal" alt="Classic Mettal">
+                                <figcaption class="text-center"> Classic Mettal Hierro 030
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure class="figure"><a href="oxidationsmittel-mettal-activator" target="_blank"><img
+                                        src="https://www.topciment.com/imagenes/pure-mettal/Mettal_Activator.jpg"
+                                        class="img-fluid" alt="Mettal Activator" title="Mettal Activator"></a>
+                                <figcaption class="text-center"><a class="links"
+                                        href="oxidationsmittel-mettal-activator"><strong>Mettal
+                                            Activator</strong></a>
+                                </figcaption>
+                            </figure>
+                        </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3">
-                        Technische Eigenschaften</p>
+                    <h2 class="en3">
+                        Technische Eigenschaften</h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
-                                <div class=" col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png"
-                                        class="figure-img img-fluid rounded"></div>
-                                <div class=" col-md-9">
-                                    <strong>Alkalibeständig</strong>
-                                    <p>Arcocem Basic es resistente a álcalis como el amoniaco</p>
+                                <div class="col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/aplicable_cualquier_soporte.png"
+                                        class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
+                                <div class="col-md-9">
+                                    <strong>Anwendbar auf jede Art von Halterung</strong>
+                                    <p>mikrozement , Beton, Ziegel, Keramik, Gipsplatten, Gips, Glas, Papier und Metalle.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="row">
-                                <div class=" col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png"
-                                        class="figure-img img-fluid rounded"></div>
-                                <div class=" col-md-9">
-                                    <strong>Hohe Farbstabilität</strong>
-                                    <p>Die Farben von Arcocem Basic bleiben im Laufe der Zeit erhalten, ohne dass es zu
-                                        licht- oder alterungsbedingten Veränderungen kommt.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="row">
-                                <div class=" col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/compatible_sistemas_acuosos.png"
-                                        class="figure-img img-fluid rounded"></div>
-                                <div class=" col-md-9">
-                                    <strong>Kompatibel mit wässrigen Systemen
+                                <div class="col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/alta_adherencia.png"
+                                        class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
+                                <div class="col-md-9">
+                                    <strong>Hohe Adhäsion auf dem Substrat
                                     </strong>
-                                    <p>Arcocem Basic ist mit Lacken auf Wasserbasis kompatibel.</p>
+                                    <p>In schlecht saugenden Bereichen empfiehlt es sich, zunächst unseren Haftvermittler Primacem Plus zu verwenden.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- Verpackung -->
-                    <p class="en3">
-                        Verpackung </p>
-                    <p><span>Arcocem Basic ist in 0,5 L Spenderflaschen oder 1 L Tiegeln erhältlich.</span></p>
-
-                    <!-- Leistung -->
-                    <p class="en3">
-                        Leistung</p>
-                    <p>Abhängig von der Farbe der herzustellenden Dosis.</p>
-                    <p class="en3">Farben</p>
-                    <p> Innerhalb dieser Linie finden wir die sechs Grundfarben:</p><br>
-                    <div class="row text-center mb-2">
-
-                        <div class="col-md-4">
-
-                            <div class="col-md-12" style="border: 1px black solid; min-height: 60px;width: 100%;"></div>
-                            <br>
-                            <span>Blanco</span>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color: black; min-height: 60px;width: 100%;"></div>
-                            <br>
-                            <span ">Negro</span>
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="row">
+                                <div class="col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/listo_al_uso.png"
+                                        class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
+                                <div class="col-md-9">
+                                    <strong>Gebrauchsfertiges Produkt </strong> <p>Nicht mit Wasser verdünnen. </p>
+                                </div>
                             </div>
-                            <div class=" col-md-4">
-                                <div class="col-md-12" style="background-color:#013067; min-height: 60px;width: 100%;">
-                                </div><br>
-                                <span>Azul</span>
+                        </div>
+                        <div class="col-6">
+                            <div class="row">
+                                <div class="col-md-3"><img
+                                        src="https://www.topciment.com/imagenes/sistemas/icons/versatilidad_aplicacion.png"
+                                        class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
+                                <div class="col-md-9">
+                                    <strong>Vielseitigkeit der Anwendung</strong> <p>Anwendbar mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spray. </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="row text-center">
-                        <div class="col-md-4">
+                    <!-- Leistung -->
+                    <h2 class="en3">
+                        Leistung</h2>
+                    <p>Die Leistung von Classic Mettal <strong>Metallic- und Rosteffektfarben</strong> ist abhängig vom zu beschichtenden Untergrund und der Applikationsmethode.</strong> Bei einem Spachtelauftrag beträgt die Leistung: 0,15 L/m2.</p> 
+                    <!-- Verpackung -->
+                    <h2 class="en3">
+                        Verpackung</h2>
+                    <p>Classic Mettal Metallic- und Rosteffekt-Farben werden in 1L-Dosen geliefert.</p>
+                    <!-- logo -->
+                    <div class="text-center">
+                        <img class="img-fluid logoFam"
+                            src="https://www.topciment.com/imagenes/classic-mettal/ClassicMettal_Generico_Web.png" " "
+                            title=" Logo Pure Mettal" alt="Logo Pure Mettal">
+                    </div>
+                ¡<h2> Classic Mettal Metallic- und Oxid-Oberflächen</h2>
 
-                            <div class="col-md-12" style="background-color: #ac1c20; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Rojo naranja</span>
+<p>
+    Nachfolgend zeigen wir die verschiedenen Metallic und Oxid-Oberflächen (rechts), die je nach gewähltem Classic Mettal-Pigment erzielt werden können.
+                    
+</p>  
+<div id="separador50px">
+                    </div>
+                    <div class="text-center">
+                        <!-- Copper -->
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <p class="en3">Cobre + <a target="_blank" class="links"
+                                        href="oxidationsmittel-mettal-activator">Mettal Activator</a></p><br>
+                                <div class="color">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideCobreCopper.jpg">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideCobreAO.jpg">
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color:#008939; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Verde</span>
+                        <!-- Bronze -->
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <p class="en3">Bronce + <a target="_blank" class="links"
+                                        href="oxidationsmittel-mettal-activator">Mettal Activator</a></p><br>
+                                <div class="color">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideBronce.jpg">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/Oxide_BronceAO.jpg">
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="col-md-12" style="background-color:#e6a200; min-height: 60px;width: 100%;">
-                            </div><br>
-                            <span>Amarillo</span>
+                        <!-- Iron 004 -->
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <p class="en3">Hierro 004 + <a target="_blank" class="links"
+                                        href="oxidationsmittel-mettal-activator">Mettal Activator</a></p><br>
+                                <div class="color">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideHierroIron004.jpg">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideHierroAO.jpg">
+                                </div>
+                            </div>
                         </div>
+                        <!-- Iron 030 -->
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <p class="en3">Hierro 030 + <a target="_blank" class="links"
+                                        href="oxidationsmittel-mettal-activator">Mettal Activator</a></p><br>
+                                <div class="color">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/Classic_Mettal_Hierro-Grueso030.jpg">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/Classic_Mettal_Hierro-Grueso_AO.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Brass -->
+                        <div class="row mb-3">
+                            <div class="col-md-12">
+                                <p class="en3"> Latón + <a target="_blank" class="links"
+                                        href="oxidationsmittel-mettal-activator">Mettal Activator</a></p><br>
+                                <div class="color">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideLatonbrass.jpg">
+                                    <img
+                                        src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideLatonAO.jpg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="separador50px">
                     </div>
                 </div>
             </div>
         </section>
-        <!-- end arcocem basic -->
-
-        <!-- start arcocem plus -->
+        <!-- end pure mettal -->
+        <!-- Aplicacion start -->
         <div id="separador50px">
         </div>
-        <div class="fullscreen background parallax"
-            style="background-image:url('https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_02.jpg');"
+        </section>
+        <div class="fullscreen background parallax altoMovil"
+            style="background-image:url('https://www.topciment.com/imagenes/classic-mettal/background/classic_mettal_fondo_01.jpg'); "
             data-img-width="1920" data-img-height="1080" data-diff="100">
         </div>
-        <a id="arcocem-plus" class="ancla"></a>
+        <a id="aplicacion" class="ancla"></a>
         <section>
             <div class="container">
                 <div class="content">
-                    <!-- titulo -->
-                    <p class="en2 text-center"> <span class="font1a">ARCOCEM</span> <span class="font1b">PLUS</span>
-                    </p>
-                    <div class="row">
-                        <!-- imagen producto -->
-                        <div class="col-md-6">
-                            <img src="https://www.topciment.com/imagenes/Arcocem/ArcocemPlus.jpg" width="100%"
-                                title="Perfil de aluminio" alt="Perfil de aluminio">
-                        </div>
-                        <!-- descripcion -->
-                        <div class="col-md-6">
+                    <h2> Wo werden Classic Mettal® Metallic- und Rosteffektlacke angewendet?</h2>
+<p>
+    
+                     Classic Mettal-Farben können auf praktisch allen Materialien angewendet werden. Sie sind u. a. mit mikrozement , Beton, Ziegel, Keramik, Glas, Gips, Gipskarton oder Papier kompatibel. In diese Richtung ist es wegen seines hohen Gehalts an Metallpartikeln für die Verwendung als Lack für Metall sehr empfehlenswert.
 
-                            <h2>Mikrozement Arcocem Plus Pigmente</h2>
-                            <p>
-                                <strong>Arcocem Plus</strong>
-                                ist die Bezeichnung für die Einzeldosen von Pigmenten. Diese ermöglichen es uns, die 36
-                                Farben zu erhalten, aus denen sich der Buchstabe Topciment zusammensetzt. Es hat eine
-                                Karte mit 36 Farben <a class="links" href="mikrozement-zweikomponenten-sttandard">(siehe
-                                    Arcocem Plus Farbkarte)</a> </p>
-                            <p>Sie werden fertig zum Pigmentieren eines 20 kg Eimers Mikrozement geliefert. Er ist für
-                                alle Produkte der Linien Sttandard und Evoluttion geeignet. </p>
-                            <a class="links" href="https://www.topciment.com/de/technische-datenblatter/ArcocemPLUS-DE.pdf"
-                                target="_blank"> <span class="fa-stack">
-                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Laden Sie hier das technische Datenblatt von
-                                    Arcocem Plus</strong>
+</p>    
+<p>
+    Mit Classic Mettal holen Sie das Beste aus Wänden, Decken, Fassaden, Mauern, Säulen und Möbeln heraus. Sie werden in der Lage sein, jeden Raum in einen völlig neuen Raum zu verwandeln, der Sie nicht gleichgültig lassen wird.
 
-                            </a>
-                            Arcocem Plus
+</p>    
+<p>
+    Classic Mettal kann mit Spachtel, Pinsel, Bürste, Schwamm, Rolle oder Spritzpistole aufgetragen werden.
+       
+</p>             
+<h2 class="mt-5">  Anwendung von Metallic-Lacken und Rosteffekt Classic Mettal</h2>
+                     <div class="stepfloor mt-5">
+                        <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ SCHRITT FÜR
+                                SCHRITT</strong></a>
+                        <div class="ocultable" id="floor" style="display: block;">
+                            <!-- Paso 1 -->
+                            <div class="row mt-5 ">
+                                <!-- Texto -->
+                                <div class="col-9 col-md-5 pasoapli">
+                                    <strong>Schritt 1. Reinigung und Vorbereitung des Trägers.
+                    </strong><br>
+                                   Es muss sichergestellt sein, dass es gut zusammenhängend, trocken und ggf. geschliffen ist. Staubsaugen, um die Träger sauber zu halten.
 
-
-                        </div>
-                    </div>
-                    <!-- propiedades -->
-                    <p class="en3">
-                        Technische Eigenschaften</p>
-
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="row">
-                                <div class="col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png"
-                                        class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
-                                <div class="col-md-8">
-                                    <strong>Hohe Farbstabilität</strong>
-                                    <p>Die Farben von Arcocem Plus bleiben im Laufe der Zeit erhalten, ohne dass es zu licht- oder alterungsbedingten Veränderungen kommt. </p>
+                                <!-- Icono -->
+                                <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sistemas/icons/limpieza.png"
+                                        class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+                                <!-- Imagen paso a paso -->
+                                <div class="col-12 col-md-5">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/stepbystep/PureMettal_P0.jpg"
+                                        class="img-fluid">
+                                </div>
+                            </div>
+                            <!-- Paso 2 -->
+                            <div class="row mt-3 ">
+                                <!-- Texto -->
+                                <div class="col-9 col-md-5 pasoapli">
+                                    <strong>Schritt 2. Grundierung.</strong><br>Tragen Sie eine Schicht Primacem ABS ( absorbierender Untergrund) oder Primacem PLUS (nicht absorbierender Untergrund) auf. Mindestens eine Stunde lang trocknen lassen
+
+                                </div>
+                                <!-- Icono -->
+                                <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sistemas/icons/roller.png"
+                                        class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+                                <!-- Imagen paso a paso -->
+                                <div class="col-12 col-md-5">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/stepbystep/PureMettal_P1.jpg"
+                                        class="img-fluid">
+                                </div>
+                            </div>
+                            <!-- Paso 3 -->
+                            <div class="row mt-3 ">
+                                <!-- Texto -->
+                                <div class="col-9 col-md-5 pasoapli">
+                                    <strong>Schritt 3. Dekoration.</strong><br>Tragen Sie eine oder zwei Schichten des gewünschten Classic Mettal-Produkts (Cobre, Bronce, Hierro 004, Hierro 030 oder Latón) mit einem Spachtel oder einer Rolle auf die Oberfläche auf, wobei zwischen den Schichten eine Mindesttrocknungszeit von 1 Stunde einzuhalten ist. 24 Stunden trocknen lassen und schleifen.
+
+                                </div>
+                                <!-- Icono -->
+                                <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sistemas/icons/llana.png"
+                                        class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+                                <!-- Imagen paso a paso -->
+                                <div class="col-12 col-md-5">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/stepbystep/Classic_Mettal_Decoracion.jpg"
+                                        class="img-fluid">
+                                </div>
+                            </div>
+                            <!-- Paso 4 -->
+                            <div class="row mt-3 ">
+                                <!-- Texto -->
+                                <div class="col-9 col-md-5 pasoapli">
+                                    <strong>Schritt 4A: Metallisches Finish und Versiegelung.</strong><br> Wenn ein Metallic-Finish erwünscht ist, tragen Sie nach dem Dekorieren der Oberfläche zwei Schichten Topsealer WT One Coat Lack auf (mit einem Abstand von 24 Stunden zwischen den Aufträgen), um den Untergrund zu schützen. Lassen Sie 24 Stunden lang trocknen.
+
+                                </div>
+                                <!-- Icono -->
+                                <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sistemas/icons/sanding.png"
+                                        class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+                                <!-- Imagen paso a paso -->
+                                <div class="col-12 col-md-5">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/stepbystep/Classic_Mettal_Lijado.jpg"
+                                        class="img-fluid">
+                                </div>
+                            </div>
+                            <!-- Paso 5 -->
+                            <div class="row mt-3 ">
+                                <!-- Texto -->
+                                <div class="col-9 col-md-5 pasoapli">
+                                    <strong>Schritt 4B.  Rostfinish und Versiegelung.</strong><br> Wenn Sie ein rostiges Finish wünschen, tragen Sie nach dem Dekorieren der Oberfläche Mettal Activator auf,
+        um die Oxidation zu beschleunigen, und schleifen Sie. 24 Stunden später tragen Sie zwei Schichten Presealer auf
+        (lassen Sie 4 Stunden zwischen den Schichten) und schleifen Sie. Zum Schluss schützen Sie die Oberfläche mit zwei Schichten Topsealer 
+        WT One Coat Lack (24 Stunden zwischen den Schichten). Lassen Sie 24 Stunden lang trocknen.
+                                        </div>
+                                        <!-- Icono -->
+                                <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sistemas/icons/roller.png"
+                                        class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
+                                <!-- Imagen paso a paso -->
+                                <div class="col-12 col-md-5">
+                                    <img src="https://www.topciment.com/imagenes/classic-mettal/stepbystep/Classic_Mettal_Sellado.jpg"
+                                        class="img-fluid">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
-                            <div class="row">
-                                <div class="col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/no_inflamable.png"
-                                        class="figure-img img-fluid rounded" alt="icon property arcocem">
-                                </div>
-                                <div class="col-md-8">
-                                    <strong>Nicht brennbar</strong>
-                                    <p>Arcocem Plus ist ein Flüssigfarbstoff auf Wasserbasis.</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="row">
-                                <div class="col-md-3"><img
-                                        src="https://www.topciment.com/imagenes/sistemas/icons/facilmente_miscibles.png"
-                                        class="figure-img img-fluid rounded" alt="icon property arcocem">
-                                </div>
-                                <div class="col-md-8">
-                                    <strong>Leicht mischbar.
-                                    </strong>
-                                    <p>Gießen Sie den Farbstoff in das Harz und rühren Sie langsam mit einem Spatel oder einem mechanischen Rührer bei niedrigen Umdrehungen. </p>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Leistung -->
-                    <p class="en3">
-                        Leistung</p>
-                    <p>Um die Farben des Katalogs zu erhalten, muss die angegebene Dosierung eingehalten werden. Die Menge und Art des verwendeten Mikrozements sowie der verwendete Topsealer müssen berücksichtigt werden.
-                    </p>
-                    <!-- presentacion -->
-                    <p class="en3">
-                        Verpackung</p>
-                    <p>Kunststoffbehälter in verschiedenen Größen, je nach Farbe und Dosierung.</p>
                 </div>
-
-
-            </div>
         </section>
-        <!-- end arcocem plus -->
-        <div id="separador50px">
-        </div>
-        <!-- start preguntas -->
-        <div>
-            <img class="imgiz" src="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_900X443_02.jpg"
-                width="100%" alt="mikrozemente">
-        </div>
-        <div><img class="imgde" src="https://www.topciment.com/imagenes/Arcocem/background/arcocem_fondo_900X443_01.jpg"
-                width="100%" alt="mikrozemente">
-        </div>
+        <!-- Aplicacion End -->
+
         <div id="separador50px">
         </div>
 
-
-
+        <!-- 	<div class="fullscreen background parallax altoMovil"
+			style="background-image:url('https://www.topciment.com/imagenes/efectto/3.jpg'); " data-img-width="1500" data-img-height="300"
+			data-diff="100">
+		</div> -->
+        <!-- FAQ Start -->
+        <div><img class="imgiz"
+                src="https://www.topciment.com/imagenes/classic-mettal/background/classsic_mettal_fondo_900X443_01.jpg"
+                width="100%" alt="mikrozement e"></div>
+        <div><img class="imgde"
+                src="https://www.topciment.com/imagenes/classic-mettal/background/classsic_mettal_fondo_900X443_02.jpg"
+                width="100%" alt="mikrozement e">
+        </div>
+        <div id="separador50px">
+        </div>
         <?php include("../includes/footer.php"); ?>
 
 
-
+        <script src="https://www.topciment.com/js/jquery.min.js"></script>
         <?php include("../../assets/includes/scripts.php"); ?>
 
-        <!--   <script>
-            $.getScript("../../assets/js/lightbox-plus-jquery.min.js")
-        </script> -->
+        <script defer src="https://www.topciment.com/assets/plugins/twentytwenty/js/jquery.event.move.js"></script>
+        <script defer src="https://www.topciment.com/assets/plugins/twentytwenty/js/jquery.twentytwenty.js"></script>
+        <script>
+            $(document).ready(function () {
+
+                $(".color").twentytwenty();
+                $(".color .twentytwenty-overlay .twentytwenty-before-label").attr("data-content", "Sin óxido");
+                $(".color .twentytwenty-overlay .twentytwenty-after-label").attr("data-content", "Con óxido");
+            });
+        </script>
     </div>
     </div>
     </div>

@@ -13,9 +13,9 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Geeignete Bedingungen und Unterlage für die Anwendung von Mikrozement. </title>
+    <title>Geeignete Bedingungen und Unterlage für die Anwendung von mikrozement . </title>
     <meta name="description"
-        content="Vorbereitung der Unterlage, so dass sie die notwendigen Bedingungen erfüllt, um Mikrozement mit Garantien auf Steinzeug, Terrazzo, hydraulischen Fliesen oder Marmor aufzutragen." />
+        content="Vorbereitung der Unterlage, so dass sie die notwendigen Bedingungen erfüllt, um mikrozement  mit Garantien auf Steinzeug, Terrazzo, hydraulischen Fliesen oder Marmor aufzutragen." />
 
   
 
@@ -57,16 +57,16 @@
             <div class="container">
                 <div class="content">
                     <h3 style="text-align:left;">Wenn der Untergrund die notwendigen Bedingungen nicht erfüllt, können
-                        wir den Mikrozement nicht mit Garantie auftragen.</h3>
+                        wir den mikrozement  nicht mit Garantie auftragen.</h3>
                     <div id="mitadTextoIzquierda">
                         <h2>Bedingungen vor der Anwendung</h2>
                         <h3>Sauberkeit.</h3>
                         <p>Der Untergrund muss sauber, staub- und fettfrei sein. </p>
                         <h3>Ebenheit.</h3>
-                        <p>Mikrozement wird in Schichten von nicht mehr als 1 mm aufgetragen, und die Summe dieser
+                        <p>mikrozement  wird in Schichten von nicht mehr als 1 mm aufgetragen, und die Summe dieser
                             Schichten wird vier Millimeter nicht überschreiten, daher können wir Ebenheitsprobleme mit
                             diesem Material nicht lösen, wir müssen die Unregelmäßigkeiten des Untergrundes lösen, bevor
-                            wir mit der Anwendung beginnen. Der <a href="../mikrozemente">Mikrozement</a> kann auf
+                            wir mit der Anwendung beginnen. Der <a href="../mikrozemente">mikrozement </a> kann auf
                             Böden, Wänden und sogar Decken aufgetragen werden, das Endergebnis hängt vom Untergrund und
                             der Arbeit des Verarbeiters ab.</p>
                         <h3>Konsistenz.</h3>
@@ -74,7 +74,7 @@
                             Fliesen sind nicht geeignet, sie müssen je nach Zustand entfernt oder mit schnell
                             abbindenden Mörteln mit Schwundausgleich verfestigt werden. </p>
                         <h3>Frei von Feuchtigkeit.</h3>
-                        <p>Wenn Feuchtigkeit im Untergrund vorhanden ist, können wir keinen Mikrozement auftragen. Es
+                        <p>Wenn Feuchtigkeit im Untergrund vorhanden ist, können wir keinen mikrozement  auftragen. Es
                             wird notwendig sein, zuerst ihre Herkunft zu bestimmen und sie zu beseitigen, wir empfehlen,
                             ein Feuchtigkeitsmessgerät zu verwenden, um zu überprüfen, dass die Feuchtigkeit nie 5%
                             übersteigt.</p>
@@ -84,7 +84,7 @@
                             Abbindeprozess beschleunigen oder verzögern. </p>
                         <h3>Schutz des Arbeitsbereichs</h3>
                         <p>Wir müssen den Arbeitsbereich und die Oberflächen, die wir nicht beschichten werden, gut
-                            schützen, da der Mikrozement sehr stark haftet und im trockenen Zustand schwer zu reinigen
+                            schützen, da der mikrozement  sehr stark haftet und im trockenen Zustand schwer zu reinigen
                             ist. Wir werden Schutzmaterial verwenden, das bei Malerarbeiten üblich ist, wie z.B.
                             Malerband, Papier zum Schutz, Plastikabdeckungen ...</p>
                         <h3>
@@ -98,18 +98,18 @@
                     </div>
                     <div id="mitadTextoDerecha">
                         <h2>Vorbereitung des Untergrundes</h2>
-                        <p>Das Aufbringen des Mikrozements beginnt mit der Grundierung des Untergrundes mit
+                        <p>Das Aufbringen des mikrozement s beginnt mit der Grundierung des Untergrundes mit
                             Haftvermittlern und dem Einbringen des Glasfasergewebes. </p>
                         <h3>Vorbehandlung mit Haftvermittlern</h3>
                         <p>Haftvermittler haben mehrere Funktionen, sie sorgen für eine bessere Haftung auf jeder Art
                             von Untergrund, erhöhen dessen Kohäsion, verbessern die Geschwindigkeit des Auftragens der
-                            ersten Schicht Mikrozement und verhindern den vorzeitigen Verlust von Feuchtigkeit aus dem
+                            ersten Schicht mikrozement  und verhindern den vorzeitigen Verlust von Feuchtigkeit aus dem
                             Mikromörtel. </p>
                         <p>Untergründe haben unterschiedliche Absorptionskapazitäten, daher müssen wir für jeden von
                             ihnen Lösungen verwenden, Promotoren für nicht saugfähige Oberflächen, für saugfähige
                             Oberflächen, für Oberflächen, die einen bestimmten Grad an Verfestigung benötigen oder
                             Promotoren für Oberflächen, die möglicherweise Feuchtigkeitsprobleme haben. </p>
-                        <h3>Mikrozement auf Steingut, Terrazzo, hydraulischen Fliesen oder Marmor</h3>
+                        <h3>mikrozement  auf Steingut, Terrazzo, hydraulischen Fliesen oder Marmor</h3>
                         <p>Um diese Art von Untergründen, die nicht oder nur wenig porös sind, zu beschichten, müssen
                             wir Primacem Plus, einen Promotor für nicht saugende Oberflächen, verwenden. Das Verfahren
                             läuft wie folgt ab:</p>
@@ -129,16 +129,16 @@
                             <h2>Ein anderes Applikationssystem mit Impoxi</h2>.
                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/8ugv0YVaXsM"
                                 frameborder="0" allowfullscreen></iframe>
-                            <h3>Mikrozement auf Gips, Gipskarton, DM-Platten</h3>
+                            <h3>mikrozement  auf Gips, Gipskarton, DM-Platten</h3>
                             <p>Zwischen saugenden Untergründen verwenden wir Primacem Abs, indem wir folgende Schritte
                                 befolgen:</p>
                             <ul>
                                 <li>Grundierung mit einer üblichen Malerrolle auftragen. </li>
                                 <li>Lassen Sie die Haftbrücke mindestens 30 Minuten und maximal 24 Stunden einwirken,
-                                    bevor Sie das Gewebe zusammen mit der ersten Schicht Mikrozement verlegen.</li>
+                                    bevor Sie das Gewebe zusammen mit der ersten Schicht mikrozement  verlegen.</li>
                             </ul>
                             </ul>
-                            <h3><br>Mikrozement auf Zementmörtel, Spritz- oder Spritzbeton. </h3>
+                            <h3><br>mikrozement  auf Zementmörtel, Spritz- oder Spritzbeton. </h3>
                             <p>Bei saugfähigen Untergründen, die eine gewisse Verfestigung benötigen, muss wie folgt
                                 vorgegangen werden:</p>
                             <ul>
@@ -147,13 +147,13 @@
                         </li>
                         </li>
                         <li>Die Haftbrücke mindestens 30 Minuten und maximal 24 Stunden einwirken lassen, bevor das
-                            Gewebe zusammen mit der ersten Schicht Mikrozement verlegt wird. </li>
+                            Gewebe zusammen mit der ersten Schicht mikrozement  verlegt wird. </li>
                         </ul>
-                        <h3>Mikrozement auf Untergründen, die Feuchtigkeit aufweisen können</h3>
+                        <h3>mikrozement  auf Untergründen, die Feuchtigkeit aufweisen können</h3>
                         <p>Zwischen verfestigten Untergründen, auf denen Feuchtigkeit auftreten kann, müssen wir eine
                             Barriere auf Basis von Epoxidharzen auftragen, um zu verhindern, dass die Feuchtigkeit das
-                            Microcemento beeinträchtigt. Impoxy löst Feuchtigkeitsprobleme, indem es das Aufbringen von
-                            Mikrozementbeschichtungen auf das Substrat ermöglicht. </p>
+                            mikrozement beeinträchtigt. Impoxy löst Feuchtigkeitsprobleme, indem es das Aufbringen von
+                            mikrozement beschichtungen auf das Substrat ermöglicht. </p>
                         <ul>
                             <li>
                             <li>Grundierung mit Impoxy mit 0,35 kg/m2</li>
@@ -167,14 +167,14 @@
                         </ul>
 
                         <h3>Verlegen des Gewebes</h3>
-                        <p>Der Mikrozement von Topciment wird nicht rissig, solange der Untergrund, auf dem er verlegt
+                        <p>Der mikrozement  von Topciment wird nicht rissig, solange der Untergrund, auf dem er verlegt
                             wird, nicht rissig ist. Das Topciment-Gewebe ist eine zusätzliche Versicherung bei
-                            Mikrozementanwendungen. Es ist ein Hochleistungsgewebe, flexibel, widerstandsfähig und sehr
+                            mikrozement anwendungen. Es ist ein Hochleistungsgewebe, flexibel, widerstandsfähig und sehr
                             einfach zu verarbeiten, es lässt sich leicht mit Microbase beschichten, ohne Taschen zu
                             bilden. Das Netz ermöglicht die Entkopplung der Beschichtung vom Applikationsuntergrund.</p>
                         <p>Fixierung des Netzes:</p>
                         <p>Das Netz kann mit dem Haftvermittler Primacem Plus oder bei Verwendung von Primacem ABS oder
-                            Acricem Harz als Haftvermittler mit der ersten Schicht Microcemento Base fixiert werden. Die
+                            Acricem Harz als Haftvermittler mit der ersten Schicht mikrozement Base fixiert werden. Die
                             Gewebestreifen sollten nicht mehr als 1 cm überlappen. Tragen Sie immer zwei Schichten
                             Microbase auf, um das Gewebe vollständig zu bedecken. </p>
                     </div>

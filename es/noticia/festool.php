@@ -125,7 +125,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/festool"
+  },
+  "headline": "Topciment recomienda Festool para una aplicación perfecta",
+  "image":"https://www.topciment.com/imagenes/topciment-recomienda-festool.jpg",
+  "datePublished": "2020-01-20",
+  "dateModified": "2020-01-20",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Una buena aplicación de microcemento está condicionada por varios factores, contar con unos productos de calidad, la técnica de aplicación, pero también que utilice las mejores herramientas."
+  
+}
+</script>
 </body>
 
 </html>

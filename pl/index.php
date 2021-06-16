@@ -104,10 +104,7 @@
             <div class="content-a" onClick="location.href='mikrocementy'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles"
-                        style="text-align:right;" data-animate-scroll='{"x": "0",
-                    "y": "50",
-                    "alpha": "0",
-                    "duration": "1"}'>
+                        style="text-align:right;"  >
                         <h1 class="enHome3 br1">To więcej niż <span class="bold">Mikrocementy,</span><br>To <span
                                 class="bold">TOPCIMENT</span> </h1>
                         <h2 class="txHome2 br1">W Topciment doskonałość wiedzie prym</h2>

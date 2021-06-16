@@ -17,17 +17,17 @@
 
     <title>Topciment bestätigt seine Teilnahme an der Cevisama 2018</title>
     <meta name="description"
-        content="Cevisama 2018, Topciment festigt seine Position als Benchmark in der Herstellung von Mikrozement in Europa. " />
+        content="Cevisama 2018, Topciment festigt seine Position als Benchmark in der Herstellung von mikrozement  in Europa. " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Topciment bestätigt seine Teilnahme an der Cevisama 2018" />
     <meta property="og:description"
-        content="Cevisama 2018, Topciment konsolidiert sich als Referenz in der Herstellung von Mikrozement in Europa. " />
+        content="Cevisama 2018, Topciment konsolidiert sich als Referenz in der Herstellung von mikrozement  in Europa. " />
     <meta property="og:url" content="https://www.topciment.com/de/neuigkeit/topciment-en-cevisama-2018" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Cevisama 2018, Topciment konsolidiert sich als Referenz in der Herstellung von Mikrozement in Europa. " />
+        content="Cevisama 2018, Topciment konsolidiert sich als Referenz in der Herstellung von mikrozement  in Europa. " />
     <meta name="twitter:title" content="Topciment bestätigt seine Teilnahme an der Cevisama 2018." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -65,7 +65,7 @@
                     <p>Die 36. Ausgabe der internationalen Messe des Keramiksektors kommt vom 5. bis 9. Februar in die
                         Feria Valencia. Wir von Topciment nutzen die Gelegenheit, bei dieser einzigartigen Veranstaltung
                         dabei zu sein, die als Zentrum für Ideen und Inspiration für Innen- und Außendesign dient. </p>
-                    <p>Am Stand 95 auf der zweiten Ebene der Halle 6 werden wir die Anwendung von Mikrozement für Wände,
+                    <p>Am Stand 95 auf der zweiten Ebene der Halle 6 werden wir die Anwendung von mikrozement  für Wände,
                         Böden und Außenbereiche sowie die verschiedenen möglichen Oberflächen demonstrieren:
                         Metallic-Lacke und Rosteffekte. Das Team von Fachleuten Topciment wird jedem zur Verfügung
                         stehen, der seine Zweifel auflösen will.</p>
@@ -76,11 +76,11 @@
                     "y": "50",
                     "alpha": "0",
                     "duration": "2"}'>
-                <p>Der <strong>Mikrozement</strong> hat sich zu einem der Star-Materialien des Bauwesens entwickelt und
+                <p>Der <strong>mikrozement </strong> hat sich zu einem der Star-Materialien des Bauwesens entwickelt und
                     ist die perfekte Lösung für diejenigen, die Bäder, Küchen oder jeden anderen Raum Ihres Hauses oder
                     Geschäfts mit Originalität und ohne Schutt zu produzieren reformieren wollen. Topciment garantiert
                     die <u></u><a href="../garantie">Qualität seiner Produkte</a></u> und hat seine Position als
-                    Benchmark in der Herstellung von Mikrozement in Spanien und Europa gefestigt. </p>
+                    Benchmark in der Herstellung von mikrozement  in Spanien und Europa gefestigt. </p>
                 <p>Wir engagieren uns für die Cevisama als bestes spanisches Schaufenster für Trends und als
                     Haupttreffpunkt für <u><a href="../fachleute">Professionals</a></u> in Architektur und
                     Innenarchitektur. </p>

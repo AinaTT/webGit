@@ -19,12 +19,12 @@
 	<link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
 	<link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-	<title>Two-component traditional microcement | Sttandard</title>
+	<title>Traditional two-component microcement | Sttandard</title>
 	<meta name="description"
 		content="Sttandard microcement is our traditional two-component microcement. A very versatile coating that offers very unique textures." />
 
 
-	<meta property="og:title" content="Two-component traditional microcement | Sttandard">
+	<meta property="og:title" content="Traditional two-component microcement | Sttandard">
 	<meta property="og:site_name" content="Topciment">
 	<meta property="og:url" content="https://www.topciment.com/en/microcements/two-component-microcement-sttandard">
 	<meta property="og:description"
@@ -62,40 +62,45 @@
 						<a href="#up" style="font-size:26px">Sttandard</a>
 					</li>
 					<li>
-						<h2><a href="#que-es-sttandard">What is Sttandard?</a></h2>
+						<a href="#que-es-sttandard">What is Sttandard?</a>
 					</li>
 					<li>
-						<h2><a href="#sttandard-microbase">Sttandard Microbase</a></h2>
+						<a href="#sttandard-microbase">Sttandard Microbase</a>
 					</li>
 					<li>
-						<h2><a href="#sttandard-microfino">Sttandard Microfino</a></h2>
+						<a href="#sttandard-microfino">Sttandard Microfino</a>
 					</li>
 					<li>
-						<h2><a href="#sttandard-microdeck">Sttandard Microdeck</a></h2>
+						<a href="#sttandard-microdeck">Sttandard Microdeck</a>
 					</li>
 					<li>
-						<h2><a href="#sttandard-microstone">Sttandard Microstone</a></h2>
+						<a href="#sttandard-microstone">Sttandard Microstone</a>
 					</li>
 
 
 					<li>
-						<h2><a href="#aplicacion">Application</a></h2>
+						<a href="#aplicacion">Application</a>
 					</li>
 					<li>
-						<h2> <a href="#colores">Colours</a></h2>
+						 <a href="#colores">Colours</a>
 					</li>
 				</ul>
 			</div>
 			<div class="content">
 				<h1>Two-component traditional microcement Sttandard</h1>
 				<div class="text-justify">
-					<span>Sttandard is the two-component </span>microcement line</span> (cement and resin)</p>
-					<p></p>
-					<p>Microcement Sttandard is ideal for the craftsman applicator who aims to create textures with
-						their own character. Sttandard allows you to play with your own mixtures and thus get the most
-						out of the products. </p>
-					<p>Your choice is synonymous with success. Its robustness and versatility allow it to be used on an
-						infinite number of surfaces, both horizontal and vertical, indoors and outdoors.
+				<p>
+					Sttandard is our traditional product line of two-component microcements (cement and resin). Ideal for the craftsman applicator who aims to create textures with their own character.
+
+				</p>	
+<p>
+	The traditional two-component microcement Sttandard allows the professional to play with his own mixtures and thus get the most out of the products.
+
+</p>	
+<p>
+	Sttandard is synonymous with success. Its robustness and versatility mean that this two-component microcement can be applied on an infinite number of surfaces, both horizontal and vertical, as well as indoors and outdoors. No wonder it is one of the coatings most in demand by applicators.
+
+</p>	
 
 				</div>
 			</div>
@@ -138,17 +143,23 @@
 						</div>
 						<!-- Descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Sttandard Microbase </h2>
-								<p>is the preparation microcement. It is always used before Z
-									application of Sttandard Microfino, Sttandard Microdeck and Sttandard Microstone.
-									</h3>
-								</p>
-								<p>Its rustic finish allows it to be used as a finishing microcement.</p>
-								<p>Sttandard Microbase is available in 3 granulometries: L, XL and XXL.</p>
-								<p>Its product variety allows the market to have a wide range of decorative solutions.
-								</p>
+							 
+							<h2>
+								Sttandard Microbase two-component preparation microcement
 
+</h2>	
+<p>
+	Sttandard Microbase is the traditional two-component microcement for preparation. It is always used before the application of Sttandard Microfino, Sttandard Microdeck and Sttandard Microstone.
+
+</p>	
+<p>
+	Thanks to its rustic finish, it can also be used as a finishing two-component microcement. The variety of this decorative coating offers the professional a wide range of solutions.
+
+</p>	
+<p>
+	Sttandard Microbase is available in 3 granulometries: L, XL and XXL
+
+</p>
 								<a class="links" href="../data-sheets/MicrobaseBI-EN.pdf" target="_blank"> <span
 										class="fa-stack">
 										<i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -158,9 +169,7 @@
 						</div>
 					</div>
 					<!-- Tipos de cubos -->
-					<p class="en3">Types of
-						Sttandard
-						Microbase</p>
+					<h3 class="en3">Sttandard Microbase two-component preparation microcement types</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img
@@ -252,7 +261,7 @@
 					<!-- Packaging -->
 					<p class="en3">
 						Packaging</p>
-					<p>Sttandard Microbase is available in black plastic conical buckets of 20 kg.
+					<p>Sttandard Microbase traditional two-component microcement is packaged in 20 kg black plastic conical buckets.
 					</p>
 				</div>
 			</div>
@@ -287,19 +296,27 @@
 						</div>
 						<!-- descripcion -->
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Sttandard Microfino</h2>
-								<p>is the most suitable finishing microcement for walls.</h3> It is
-									intended
-									for vertical and non-trafficable surfaces only.
-								</p>
-								<p>Once applied, it provides a silky smooth finish to the touch. In addition, its
-									ability to
-									achieve water marks, gives it a high decorative value. Aesthetically, it is similar
-									to
-									lime stucco, but has a much more natural finish.</p>
-								<p>Sttandard Microfino is available in 3 granulometries: XS, S and M.</p>
+							 
+								<h2>
+									Sttandard Microfino two-component finishing microcement
 
+</h2>	
+<p>
+	Sttandard Microfino is the traditional two-component microcement for finishing vertical and non-trafficable surfaces.
+
+</p>	
+<p>
+	It is a perfect decorative coating for covering walls, facades or furniture. Once applied, it provides a silky and smooth finish to the touch. In addition, its ability to achieve watermarks gives it a high decorative value.
+
+</p>	
+<p>
+	Aesthetically, this traditional two-component microcement finish resembles lime stucco but with a much more natural finish.
+
+</p>	
+<p>
+	Sttandard Microfino is available in 3 different granulometries: XS, S and M.
+
+</p>	
 								<a class="links" href="../data-sheets/MicrofinoBI-EN.pdf" target="_blank"> <span
 										class="fa-stack">
 										<i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -309,8 +326,7 @@
 						</div>
 					</div>
 					<!-- Tipos de cubos -->
-					<p class="en3">Types of
-						Sttandard Microfino</p>
+					<h3 class="en3">Types of two-component finishing microcement Sttandard Microfino</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img
@@ -400,7 +416,7 @@
 					<!-- Packaging -->
 					<p class="en3">
 						Packaging</p>
-					<p>Sttandard Microfino is available in black plastic conical buckets of 15 kg.</p>
+					<p>All types of the traditional two-component microcement with Sttandard Microfino finish are packaged in conical black plastic buckets of 15 and 20 kg.</p>
 				</div>
 			</div>
 		</section>
@@ -433,18 +449,24 @@
 							</a>
 						</div>
 						<div class="col-md-6">
-							<p>
-								<h2 class="h2s">Sttandard Microdeck</h2>
-								<p>is a finishing microcement especially suitable for indoor floor
-									coverings.</h3> It is applied to stairs, shower trays, walls, basins and worktops.
-								</p>
-								<p>Sttandard Microdeck gives rooms a very natural and elegant look. Its texture is
-									medium
-									grain. Therefore, the water effect in the finish is less than in Sttandard
-									Microfino.
-									Aesthetically it resembles polished concrete, but with all the advantages of
-									microcement.</p>
-								<p>Sttandard Microdeck is available in 3 grain sizes: M, L and XL.</p>
+						<h2>Sttandard Microdeck two-component finishing microcement</h2>
+
+<p>
+	Sttandard Microdeck is the traditional two-component microcement for finishing, especially suitable for coating interior floors. A decorative coating that can be used on floors, stairs and shower trays.
+
+</p>	
+<p>
+	It can also be used on walls, washbasins, worktops and facades without any problems. Sttandard Microdeck gives rooms a natural and elegant look.
+
+</p>	
+<p>
+	With a medium-grained texture, this traditional two-component microcement has a lower water effect than Sttandard Microfino. Aesthetically it resembles polished concrete but with all the advantages of microcement.
+
+</p>	
+<p>
+	Sttandard Microdeck is available in 2 granulometries: M and L.
+
+</p>	
 								<a class="links" href="../data-sheets/MicrodeckBI-EN.pdf" target="_blank"><span
 										class="fa-stack">
 										<i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -453,8 +475,8 @@
 						</div>
 					</div>
 					<!-- Tipos de cubos -->
-					<p class="en3">Types of
-						Sttandard Microdeck</p>
+					<h2 class="en3">Types of two-component finishing microcement Sttandard Microdeck
+</h2>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img class="img-fluid" alt="Sttandard Microdeck M "
@@ -538,7 +560,7 @@
 					<!-- Packaging -->
 					<p class="en3">
 						Packaging</p>
-					<p>Sttandard Microdeck is available in black plastic conical buckets of 20 kg.
+					<p>Sttandard Microdeck traditional two-component microcement is packaged in 20 kg black plastic conical buckets.
 					</p>
 				</div>
 
@@ -576,17 +598,19 @@
 
 						<div class="col-md-6">
 							<p>
-								<h2 class="h2s">Sttandard Microstone</h2>
-								<p>is a micro finishing cement. Unlike Sttandard Microbase, it has a
-									much more elaborate and defined aesthetic finish. </h3> Its uniform colour and stony
-									appearance, allows to create natural environments with a lot of personality.
-								</p>
-								<p>
-									Sttandard Microstone is non-slip and has excellent abrasion resistance,
-									characteristics
-									that make it ideal for exterior areas such as terraces, balconies and even facades.
-								</p>
-								<p>Sttandard Microstone is available in 2 granulometries : L and XL.</p>
+								<h2 class="h2s">Sttandard Microstone two-component finishing microcement</h2>
+							<p>
+									Sttandard Microstone is our product line of traditional two-component microcement ideal for exterior areas thanks to its excellent resistance to abrasion and its non-slip character.
+
+							</p>	
+							<p>
+								The natural stone appearance and uniform colour of this coating allows the professional to create natural environments with a lot of personality on terraces, balconies, porches and even façades.
+
+							</p>	
+							<p>
+								Sttandard Microstone is available in 2 grain sizes: L and XL.
+
+							</p>	
 								<a class="links" href="../data-sheets/MicrostoneBI-EN.pdf" target="_blank"><span
 										class="fa-stack">
 										<i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -596,8 +620,7 @@
 						</div>
 					</div>
 					<!-- Tipos de cubos -->
-					<p class="en3">Types of
-						Sttandard Microstone</p>
+					<h3 class="en3">Types of two-component finishing microcement Sttandard Microstone</h3>
 					<div class="row">
 						<div class="col-md-4">
 							<figure class="figure"><img
@@ -683,7 +706,7 @@
 					<p class="en3">
 
 						Packaging</p>
-					<p>Sttandard Microstone is available in black plastic conical buckets of 20 kg.
+					<p>Sttandard Microstone traditional two-component microcement is packaged in 20 kg black plastic conical buckets.
 					</p>
 
 				</div>
@@ -706,15 +729,13 @@
 				<div class="content">
 					<!-- Aplicacion pared -->
 					<div class="stepwalls mt-5">
-						<a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ MICROFINO STEP BY
-								STEP</strong></a>
+						<h2 class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Sttandard two-component microcement application on walls</strong></h2>
 						<div class="ocultable" id="wall" style="display: block;">
 							<!-- Paso 1 -->
 							<div class="row mt-5 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 1</strong><br>Place the mesh on the surface to be coated.
-									Apply Primacem Plus / ABS.
+									<strong>Step 1</strong><br>Place the mesh on the surface to be coated. Apply Primacem Plus / ABS
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -730,7 +751,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 2</strong><br>Apply a first layer of Microbase without pigment.
+									<strong>Step 2</strong><br>Apply a first coat of Microbase without pigment. <br>
+Apply a first coat of Microbase without pigment. Sand
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -746,7 +768,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 3</strong><br>Apply a second layer of Microbase with pigment.
+									<strong>Step 3</strong><br>Apply a second coat of Microbase with pigment. <br>
+Apply a second coat of Microbase with pigment. Sand*.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -762,7 +785,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 4</strong><br>Apply a first layer of Microfino with pigment.
+									<strong>Step 4</strong><br>Apply a first coat of Microfino with pigment. <br>
+Apply a first coat of Microfino with pigment. Sand
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -778,7 +802,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 5</strong><br>Apply a second layer of Microfino with pigment.
+									<strong>Step 5</strong><br>Apply a second coat of Microfino with pigment. <br>
+Apply a second coat of Microfino with pigment. Sand
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -794,7 +819,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 6</strong><br>Apply two coats of Presealer by roller.
+									<strong>Step 6</strong><br>Apply two coats of Presealer by roller. <br>
+                                     Apply two coats of Presealer by roller.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -810,7 +836,8 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 7</strong><br>Apply two coats of Topsealer by roller.
+									<strong>Step 7</strong><br>Roll on with two coats of Presealer.  <br>
+Apply two coats of Topsealer by roller.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -824,19 +851,15 @@
 							</div>
 						</div>
 					</div>
-					<!-- Aplicacion suelo -->
+					<!-- Aplicacion suelo aina -->
 					<div class="stepfloor mt-5">
-						<a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ MICRODECK STEP BY
-								STEP</strong></a>
+						<h2 class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Sttandard two-component microcement application on floors</strong></h2>
 						<div class="ocultable" id="floor" style="display: block;">
 							<!-- Paso 1 -->
 							<div class="row mt-5 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 1</strong><br>Place the mesh on the surface to be coated.
-									Apply Primacem
-									Plus
-									/ ABS</a>.
+									<strong>Step 1</strong><br>Place the mesh on the surface to be coated. Apply Primacem Plus /ABS</a>
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -852,7 +875,7 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 2</strong><br>Apply a first layer of Microbase without pigment.
+									<strong>Step 2</strong><br>Apply a first coat of Microbase without pigment. Sand
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -868,7 +891,7 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 3</strong><br>Apply a second layer of Microbase with pigment.
+									<strong>Step 3</strong><br>Apply a second coat of Microbase with pigment. Sand
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -884,7 +907,7 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 4</strong><br>Apply a first layer of Microdeck with pigment.
+									<strong>Step 4</strong><br>Apply a first coat of Microdeck with pigment. Sand.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -900,7 +923,7 @@
 							<div class="row mt-3 ">
 								<!-- Texto -->
 								<div class="col-9 col-md-5 pasoapli">
-									<strong>Step 5</strong><br>Apply a second layer of Microdeck with pigment.
+									<strong>Step 5</strong><br>Apply a second coat of Microdeck with pigment. Sand.
 								</div>
 								<!-- Icono -->
 								<div class="col-3 col-md-2"><img
@@ -964,7 +987,7 @@
 			<div class="container">
 				<div class="content">
 					<h2 class="en2">
-						Colours</h2>
+						Two-component microcement Sttandard colours</h2>
 					<div class="rowColor">
 						<section id="responsive-images-columns">
 							<div class="containerSttand">

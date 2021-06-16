@@ -170,7 +170,7 @@
 
         <p>
           现在您知道了可以在哪里应用它，可以开始学习如何使用它了。 <a class="links"
-            href="wenxingshuini/weishuini-de-yingyong-fangfa">在此页面</a>中，您会逐步发现微水泥在地板，墙壁和游泳池中的应用。
+            href="wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou">在此页面</a>中，您会逐步发现微水泥在地板，墙壁和游泳池中的应用。
         </p>
       </div>
     </div>

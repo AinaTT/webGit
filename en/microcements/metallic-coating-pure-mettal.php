@@ -30,11 +30,7 @@
     <meta property="og:description"
         content="Transform walls and furniture with Pure Mettal, our metallic coatings. An innovative product with which you will achieve highly decorative metallic finishes on microcement, concrete, brick or ceramic.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg">
+    <meta property="og:image" content="https://www.topciment.com/imagenes/sistemas/pure_mettal_fondo_01.jpg"> 
 
 
     <link rel="canonical" href="https://www.topciment.com/en/microcements/metallic-coating-pure-mettal" />
@@ -48,6 +44,7 @@
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
+
 </head>
 
 <body id="familia">
@@ -60,9 +57,7 @@
     <div id="main">
         <div class="clearfix">
             <div id="content">
-                <section id="up">
-
-
+                <section id="up"> 
                     <div class="container">
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
@@ -71,6 +66,7 @@
                                 </li>
                                 <li><a href="#que-es-puremetal">What is Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
+                                    <li><a href="#colores">Finishes</a></li>
                                 <li><a href="#aplicacion">Application</a></li>
                             </ul>
                         </div>
@@ -103,8 +99,7 @@
                                     thanks to its wide range of shades: iridium, bronze, aluminium, brass and copper.
                                     But there is much more. It is also possible to give surfaces an oxidised finish in
                                     the purest vintage style. How? With our rust accelerator <a class="links"
-                                        href="rust-activator-mettal-activator"> Mettal Activator</a>
-
+                                        href="rust-activator-mettal-activator"> Mettal Activator</a> 
                                 </p>
 
                                 <p>
@@ -121,7 +116,7 @@
         </div>
     </div>
 
-    <!-- Start pure mettal -->
+    <!-- Start pure mettal  -->
     <div id="separador50px">
     </div>
     <div class="fullscreen background parallax altoMovil"
@@ -277,7 +272,7 @@
                 <h2 class="en3">
                     Consumption</h2>
                 <p>The consumption of the first coat of Pure Mettal coatings and metallic coatings is 305g/m2. For the
-                    second coat, the consumption drops to 260g/m2.</p>
+                    second coat, the consumption drops to 260g/m2.</p> 
                 <!-- Presentación -->
                 <p class="en3">
                     Packaging</p>
@@ -296,6 +291,7 @@
               
                 <div id="separador50px">
                 </div>
+                <a id="colores" class="ancla"></a>
                 <h2>
                     Pure Mettal metallic and oxide finishes
 

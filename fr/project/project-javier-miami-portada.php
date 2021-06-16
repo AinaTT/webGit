@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Photos de béton cirésur les sols et les murs de la SPA</title>
+    <title>Photos de béton ciré sur les sols et les murs de la SPA</title>
     <meta name="description" content="Rénovation en micro-ciment de l'Auberge Résidences & SPA à Miami, USA. Projet de Nichols Brosch Wurst Wolfe & Associates."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Photos de béton cirésur les sols et les murs de la SPA"/>
+    <meta property="og:title" content="Photos de béton ciré sur les sols et les murs de la SPA"/>
     <meta property="og:description" content="Rénovation en micro-ciment de l'Auberge Résidences & SPA à Miami, USA. Projet de Nichols Brosch Wurst Wolfe & Associates."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/projet-javier-miami-portada"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Rénovation en micro-ciment de l'Auberge Résidences & SPA à Miami, USA. Projet de Nichols Brosch Wurst Wolfe & Associates."/>
-    <meta name="twitter:title" content="Photos de béton cirésur les sols et les murs de la SPA"/>
+    <meta name="twitter:title" content="Photos de béton ciré sur les sols et les murs de la SPA"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -71,10 +71,10 @@
 
                 <div class="wow fadeInRight justificado" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>Le quartier le plus huppé de la ville de Miami abrite cet imposant immeuble résidentiel avec une vue spectaculaire sur la
-                        des vues spectaculaires sur l'océan Atlantique. <strong>171 maisons dans lesquelles <a href="../information-beton-cire">Béton Ciré</a> est le matériau de choix pour les murs</strong>.
+                        des vues spectaculaires sur l'océan Atlantique. <strong>171 maisons dans lesquelles <a href="../information-beton-cire">béton ciré </a> est le matériau de choix pour les murs</strong>.
                         Les halls d'entrée, les cuisines, les salles de bains et les salons... tous ont des détails réalisés avec
                         <forte>Topciment</strong>. Des matériaux nobles, tels que le bois utilisé pour recouvrir les armoires, les sols et les marches,
-                            achever un projet où le luxe est le personnage principal et où le béton ciréva de pair avec lui dans un cadre unique.
+                            achever un projet où le luxe est le personnage principal et où le béton ciré va de pair avec lui dans un cadre unique.
                             main dans la main dans un cadre unique.
                 </div>
 

@@ -12,8 +12,8 @@
     <link rel="preload" href="../assets/css/home.css" as="style"/>
     <link rel="stylesheet" href="../assets/css/home.css"/>
     <?php include("../assets/includes/root-styles.php"); ?>
-    <title>Béton Ciré Topciment, revêtement continu</title>
-    <meta name="description" content="Le béton ciré Topciment est un revêtement décoratif de la dernière tendance pour toute pièce dans votre maison ou votre entreprise."/>
+    <title>béton ciré  Topciment, revêtement continu</title>
+    <meta name="description" content="Le béton ciré  Topciment est un revêtement décoratif de la dernière tendance pour toute pièce dans votre maison ou votre entreprise."/>
 
     <link rel="canonical" href="https://www.topciment.com/fr/"/>
 
@@ -94,11 +94,8 @@
         <div class="section fullscreen background parallax" id="section0">
             <div class="content-a" onClick="location.href='information-beton-cire'" style="cursor:pointer;">
                 <div class="contenedorTexto">
-                    <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles" style="text-align:right;" data-animate-scroll='{"x": "0",
-                    "y": "50",
-                    "alpha": "0",
-                    "duration": "1"}'>
-                        <h1 class="enHome3 br1">C'EST PLUS QUE DU <span class="negrita">BÉTON CIRÉ,</span><br>C'EST
+                    <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles" style="text-align:right;"  >
+                        <h1 class="enHome3 br1">C'EST PLUS QUE DU <span class="negrita">béton ciré ,</span><br>C'EST
                             <span class="negrita">TOPCIMENT</span>
                         </h1>
                         <h2 class="txHome2 br1"> Chez Topciment l'excellence marque la voie.
@@ -240,7 +237,7 @@
                             <p>On dit que pour un échantillon une image. Dans notre galerie
                                 vous pouvez trouver beaucoup que de l'insiration. Dans celle ci , nous vous montrons les
                                 chantiers réalisés par nos meilleurs professionels pour que vous connaissiez toutes les
-                                possibilitées qu'offre le béton ciré.</p>
+                                possibilitées qu'offre le béton ciré .</p>
                         </div>
                     </div>
 
@@ -259,7 +256,7 @@
                             <h2 class="enHome2 "> Soutien aux professionnels</h2>
                             <p>Nous transmettons notre expérience aux
                                 professionnels à l'aide de formation et conseils techniques permanent pour que les résultats
-                                de l'application de béton ciré soit optimum.</p>
+                                de l'application de béton ciré  soit optimum.</p>
                         </div>
                     </div>
                 </div>
@@ -275,7 +272,7 @@
                             <h2 class="enHome2 "> Informations</h2>
                             <p>Nous recherchons , creons , et conçevons des nouveaux
                                 produits Topciment de manière constante. Et biensur, nous sommes immergés dnas les
-                                nouveautés et tendances du béton ciré et revêtements décoratifs. Tout cela, nous vous
+                                nouveautés et tendances du béton ciré  et revêtements décoratifs. Tout cela, nous vous
                                 l'expliquons dans notre section d'actualités.</p>
                         </div>
                     </div>
@@ -312,10 +309,10 @@
                         <div class="container contenedorF">
                             <div class="row row1">
                                 <div class="col-md-3 col1F">
-                                    <p class="tituloF productosF"><strong>BÉTON CIRÉ</strong></p>
+                                    <p class="tituloF productosF"><strong>béton ciré </strong></p>
                                     <ul class="ulF productosF">
-                                        <li class="sttandardF"><a class="linkB" href="beton-cire/beton-cire-bicomposant-sttandard">Béton ciré bicomposant</a></li>
-                                        <li class="evoluttionF"><a class="linkB" href="beton-cire/beton-cire-monocomposant-evoluttion">Béton ciré monocomposant</a></li>
+                                        <li class="sttandardF"><a class="linkB" href="beton-cire/beton-cire-bicomposant-sttandard">béton ciré  bicomposant</a></li>
+                                        <li class="evoluttionF"><a class="linkB" href="beton-cire/beton-cire-monocomposant-evoluttion">béton ciré  monocomposant</a></li>
                                         <li class="efecF"><a class="linkB" href="beton-cire/beton-cire-pret-a-lemploi-efectto">Microcemento
                                                 listo al uso</a></li>
                                         <li class="puremF"><a class="linkB" href="beton-cire/revetement-metallique-pure-mettal">Microcemento
@@ -326,7 +323,7 @@
                                         <li class="primacemF"><a class="linkB" href="beton-cire/promoteurs-dadherence-primacem">Promoteurs d'adhérence</a>
                                         </li>
                                         <li class="arcocemF"><a class="linkB" href="beton-cire/pigments-pour-beton-cire-arcocem">Pigments</a></li>
-                                        <li class="topsealerF"><a class="linkB" href="beton-cire/vernis-topsealer">Vernis</a></li>
+                                        <li class="topsealerF"><a class="linkB" href="beton-cire/vernis-polyurethane-acrylique-aleau-topsealer">Vernis</a></li>
                                         <li class="limpieF"><a class="linkB" href="beton-cire/nettoyage-et-entretien-du-beton-cire">Limpieza y
                                                 cuidado del microcemento</a></li>
                                         <li class="herramF"><a class="linkB" href="beton-cire/outils-beton-cire">Outils</a></li>
@@ -335,13 +332,13 @@
                                 <div class="col-md-3 col2F">
                                     <p class="tituloF proyectosF"><strong>PROJECTS</strong></p>
                                     <ul class="ulF proyectos">
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#paredes">Béton ciré sur les murs</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#suelos">Sols en béton ciré</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#banyos">Salles de bains en béton ciré</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#cocinas">Cuisines en béton ciré</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#escaleras">Escaliers en béton ciré</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#piscinas">Piscines en béton ciré</a></li>
-                                        <li class=""><a class="linkB" href="beton-cire/galerie#exterior">Béton ciré en extérieur</a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#paredes">béton ciré  sur les murs</a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#suelos">Sols en béton ciré </a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#banyos">Salles de bains en béton ciré </a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#cocinas">Cuisines en béton ciré </a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#escaleras">Escaliers en béton ciré </a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#piscinas">Piscines en béton ciré </a></li>
+                                        <li class=""><a class="linkB" href="beton-cire/galerie#exterior">béton ciré  en extérieur</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-3 col3F">
@@ -359,7 +356,7 @@
                                 <div class="col-md-3 col4F">
                                     <p class="tituloF"><strong>EMPRESA</strong></p>
                                     <ul class="ulF empresaF">
-                                        <li class="nosotrosF"><a class="linkB" href="beton-cire/fabricant-beton-cire">Fabricant de béton ciré</a></li>
+                                        <li class="nosotrosF"><a class="linkB" href="beton-cire/fabricant-beton-cire">Fabricant de béton ciré </a></li>
                                         <li class="noticiasF"><a class="linkB" href="nouvelles">Nouvelles</a></li>
                                         <li class="contactoF"><a class="linkB" href="contact">Contacto</a></li>
                                         <li class="newsletterF"><a class="linkB" href="http://zc.vg/jPV0m">Abonnez vous à notre newletter</a>
@@ -447,7 +444,7 @@
   "url": "https://www.topciment.com/es/",
   "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
   "email": "info@topciment.com",
-  "description": "Nous sommes les leaders de la fabrication de microciment en Espagne. Garantie jusqu'à 10 ans sur tous nos produits.",
+  "description": "Nous sommes les leaders de la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur tous nos produits.",
   "telephone": "+34 963 925 989",
   "legalName":"Grupo Negocios PO SLU",
   "taxID":"B97539076",
@@ -457,7 +454,7 @@
     "postalCode": "46940",
     "streetAddress": "Calle Rosas 33, Manises 46940, Valencia"
   },
-  "slogan": "C'est plus que du béton ciré, c'est  Topciment"
+  "slogan": "C'est plus que du béton ciré , c'est  Topciment"
 }
 </script>
 </body>

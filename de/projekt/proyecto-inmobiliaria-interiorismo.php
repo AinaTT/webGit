@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Bilder von Mikrozement in Büros </title>
+    <title>Bilder von mikrozement  in Büros </title>
     <meta name="description"
-        content="Bilder von Büros mit Mikrozementboden. Mit Mikrozement sanierte Immobilien. Design mit Mikrozement." />
+        content="Bilder von Büros mit mikrozement boden. Mit mikrozement  sanierte Immobilien. Design mit mikrozement ." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bilder von Mikrozement in Büros." />
+    <meta property="og:title" content="Bilder von mikrozement  in Büros." />
     <meta property="og:description"
-        content="Bilder von Büros mit Mikrozementboden. Mit Mikrozement sanierte Immobilien. Design mit Mikrozement." />
+        content="Bilder von Büros mit mikrozement boden. Mit mikrozement  sanierte Immobilien. Design mit mikrozement ." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-inmobiliaria-interiorismo" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Fotos von Büros mit Mikrozementboden. Mit Mikrozement sanierte Immobilien. Design mit Mikrozement." />
-    <meta name="twitter:title" content="Bilder von Mikrozement in Büros." />
+        content="Fotos von Büros mit mikrozement boden. Mit mikrozement  sanierte Immobilien. Design mit mikrozement ." />
+    <meta name="twitter:title" content="Bilder von mikrozement  in Büros." />
     <meta name="twitter:title" content="Zusammenfassung" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -85,13 +85,13 @@
                         funktionalen Raum zu schaffen, der seinen Stil widerspiegelt. Für die Böden wurde
                         <strong>Microdeck</strong> in der Farbe Piedra París und für die Wandfliesen im Bad
                         <strong>Microfino</strong> in einem helleren Farbton, Marfil, gewählt. Zusammen mit dem
-                        rustikalen Finish des <a href="../mikrozemente">Mikrozements</a> bilden die Kurven der
+                        rustikalen Finish des <a href="../mikrozemente">mikrozement s</a> bilden die Kurven der
                         Trennelemente und der Möbel eine perfekte Harmonie.
                 </div>
 
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left"><img
                         src="https://www.topciment.com/imagenes/proyecto-imasi02.jpg"
-                        alt="pasillo de oficina con microcemento Topciment" width="100%"></div>
+                        alt="pasillo de oficina con mikrozement Topciment" width="100%"></div>
                 <div id="separador20px"></div>
 
 
@@ -101,7 +101,7 @@
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left;"><img
                         src="https://www.topciment.com/imagenes/proyecto-imasi04.jpg"
-                        alt="sala de reuniones con microcemento Topciment" width="100%">
+                        alt="sala de reuniones con mikrozement Topciment" width="100%">
                 </div>
                 <div id="separador20px"></div>
 
@@ -113,11 +113,11 @@
 
                 <div id="fotoAnchoTotal" class="wow fadeInLeft" style="float:left;"><img
                         src="https://www.topciment.com/imagenes/proyecto-imasi06.jpg"
-                        alt="Mikrozementbäder Topciment en oficinas" width="100%"></div>
+                        alt="mikrozement bäder Topciment en oficinas" width="100%"></div>
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left;"><img
                         src="https://www.topciment.com/imagenes/proyecto-imasi07.jpg"
-                        alt="Microcemento en la alta decoracion de oficinas" width="100%"></div>
+                        alt="mikrozement en la alta decoracion de oficinas" width="100%"></div>
                 <div id="separador20px"></div>
 
 

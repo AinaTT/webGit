@@ -70,7 +70,7 @@
                         dekorativen Beschichtungen wurde vom spanischen Ministerium für Wissenschaft und Innovation
                         gewürdigt, das uns das <strong>SIEGEL DES INNOVATIVEN KLEINEN UNTERNEHMENS</strong> verliehen
                         hat. </strong> Eine Wette, die sich im <strong>Projekt "Forschung und Entwicklung von
-                            hygienisierendem Mikrozement mit multifunktionalen Eigenschaften"</strong> materialisiert,
+                            hygienisierendem mikrozement  mit multifunktionalen Eigenschaften"</strong> materialisiert,
                         das vom CDTI (Zentrum für industrielle technologische Entwicklung) unter der Nummer IDI-20200482
                         finanziert wird. </p>
                     <p>Eine Entscheidung, die uns sehr freut, weil <strong>sie die großen Investitionen in F+E+I
@@ -93,7 +93,7 @@
                         eingebaut wurden, um die Prozesse zu beschleunigen.</p>
                     <p>Die Auszeichnung als INNOVATIVES KMU unterstreicht unsere Überzeugung, dass die
                         <strong>Verringerung des ökologischen Fußabdrucks</strong> in der Verantwortung eines jeden
-                        liegt. Ein Ziel, zu dem Topciment durch die Herstellung aller Mikrozemente und dekorativen
+                        liegt. Ein Ziel, zu dem Topciment durch die Herstellung aller mikrozement e und dekorativen
                         Beschichtungen mit natürlichen Materialien und Rohstoffen beiträgt. Ein Faktor, der transzendent
                         war, um diese Besonderheit zu erhalten. </p>
 
@@ -143,7 +143,7 @@
 
                             <div class="co-md-12 ">
                                 <h2 class="en7" style="text-align: center;">
-                                    <strong>Abonnieren Sie unseren Newsletter</strong> </h2> <h3 style="font-size: 16px;">Erhalten Sie in Ihrer E-Mail Tipps für die Anwendung und Pflege von Mikrozement, die neuesten Trends und Neuigkeiten der Topciment-Produkte.
+                                    <strong>Abonnieren Sie unseren Newsletter</strong> </h2> <h3 style="font-size: 16px;">Erhalten Sie in Ihrer E-Mail Tipps für die Anwendung und Pflege von mikrozement , die neuesten Trends und Neuigkeiten der Topciment-Produkte.
                                 </h3>
                             </div>
                             <div class="co-md-12" style="width: 100%;">
@@ -238,7 +238,7 @@
                                                         class="SIGNUP_FLD">
                                                         <input type="text"
                                                             style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                            placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                            placeholder="Name" changeitem="SIGNUP_FORM_FIELD"
                                                             name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                     </div>
                                                     <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
@@ -246,7 +246,7 @@
                                                         <input type="button"
                                                             style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
                                                             name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin"
-                                                            value="Suscríbete">
+                                                            value="Abonnieren">
                                                     </div>
                                                     <input type="hidden" id="fieldBorder" value="">
                                                     <input type="hidden" id="submitType" name="submitType"

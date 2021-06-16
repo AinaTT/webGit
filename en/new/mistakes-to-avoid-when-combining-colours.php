@@ -162,7 +162,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/mistakes-to-avoid-when-combining-colours"
+  },
+  "headline": "5 Mistakes to avoid when combining colours",
+  "image":"https://www.topciment.com/imagenes/combinar-colores/colores-microcemento.jpg",
+  "datePublished": "2020-01-20",
+  "dateModified": "2020-01-20",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"On Topciment we we propose some tricks to get it right right when it comes to redefining the different spaces in the home."
+}
 
+</script>
 </body>
 
 </html>

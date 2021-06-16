@@ -141,8 +141,7 @@
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/ArcocemBASIC-ES.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Arcocem Basic</strong>
 
                             </a>
@@ -162,9 +161,8 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/resistencia_alcalis.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Resistente a los álcalis</strong>
-                                    <p>Arcocem Basic es resistente
-                                        a álcalis como el amoniaco</p>
+                                    <strong>Resistente agli alcali</strong>
+                                    <p>Arcocem Basic è resistente agli alcali come l'ammoniaca.</p>
                                 </div>
                             </div>
                         </div>
@@ -174,11 +172,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/alta_estabilidad_color.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Alta estabilidad del color</strong>
-                                    <p>Los colores de Arcocem Basic
-                                        se mantienen en el tiempo sin
-                                        alteraciones producidas por la
-                                        luz o envejecimiento</p>
+                                    <strong>lta stabilità del colore</strong>
+                                    <p>I colori del microcemento Arcocem Basic si mantengono nel tempo senza alterazioni dovute alla luce o all'invecchiamento.
+</p>
                                 </div>
                             </div>
                         </div>
@@ -190,8 +186,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/compatible_sistemas_acuosos.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class=" col-md-9">
-                                    <strong>Compatible con los sistemas
-                                        acuosos
+                                    <strong>Compatibile con i sistemi acquosi
                                     </strong>
                                     <p>Arcocem Basic es compatible
                                         con las pinturas base agua.</p>
@@ -209,11 +204,12 @@
                     <!-- Rendimiento -->
                     <p class="en3">
                         Performance</p>
-                    <p>En función del color de la dosis a realizar.
+                    <p>A seconda del colore del dosaggio da fare.
                     </p>
                     <p class="en3">
                        Colori</p>
-                    <p> Dentro de esta línea, podemos encontrar los seis colores básicos:</p><br>
+                    <p> All'interno di questa linea, possiamo trovare i sei colori di base:
+:</p><br>
                     <div class="row text-center mb-2">
 
                         <div class="col-md-4">
@@ -290,8 +286,7 @@
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/ArcocemPLUS-ES.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span><strong>Descarga aquí la ficha
-                                    técnica
+                                </span><strong>Scarica qui la scheda tecnica di
                                     Arcocem Plus</strong>
 
                             </a>
@@ -311,7 +306,7 @@
                                         class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Alta estabilidad del color</strong>
+                                    <strong>lta stabilità del colore</strong>
                                     <p>Los colores de Arcocem Plus se mantienen en el tiempo sin alteraciones producidas
                                         por la luz o el envejecimiento. </p>
                                 </div>
@@ -324,7 +319,7 @@
                                         class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>No inflamable</strong>
+                                    <strong>Non infiammabile</strong>
                                     <p>Arcocem Plus es un colorante
                                         líquido base agua.</p>
                                 </div>
@@ -339,7 +334,7 @@
                                         class="figure-img img-fluid rounded" alt="icon property arcocem">
                                 </div>
                                 <div class="col-md-8">
-                                    <strong>Fácilmente miscibles.
+                                    <strong>Facilmente miscibile.
                                     </strong>
                                     <p>Verter el colorante en la
                                         resina y remover lentamente

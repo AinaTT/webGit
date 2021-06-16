@@ -70,6 +70,7 @@
                                 </li>
                                 <li><a href="#que-es-puremetal">什么是 Pure Mettal?</a></li>
                                 <li><a href="#puremetal-aluminium">Pure Mettal </a></li>
+                                 <li><a href="#colores">饰面</a></li>
                                 <li><a href="#aplicacion">施工</a></li>
                             </ul>
                         </div>
@@ -124,6 +125,8 @@
                 <div class="content">
 
                     <!-- tipos de cubos -->
+
+                    <a id="colores" class="ancla"></a>
                     <h2 class="en3">
                         Pure Mettal金属微水泥类型</h2>
 

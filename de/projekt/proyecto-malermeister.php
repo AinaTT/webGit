@@ -17,19 +17,19 @@
 
     <title>Fotos von Badrenovierung mit microcemento.</title>
     <meta name="description"
-        content="Bilder von Anwendung von microcemento in einem Badezimmer. Bilder eines modernen Badezimmers mit Mikrozement." />
+        content="Bilder von Anwendung von mikrozement in einem Badezimmer. Bilder eines modernen Badezimmers mit mikrozement ." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bilder einer Badrenovierung mit Mikrozement." />
+    <meta property="og:title" content="Bilder einer Badrenovierung mit mikrozement ." />
     <meta property="og:description"
-        content="Bilder einer Anwendung von Mikrozement in einem Badezimmer. Bilder eines modernen Badezimmers mit Mikrozement." />
+        content="Bilder einer Anwendung von mikrozement  in einem Badezimmer. Bilder eines modernen Badezimmers mit mikrozement ." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-malermeister" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Bilder einer Mikrozementanwendung in einem Badezimmer. Fotos von modernem Bad mit Mikrozement." />
-    <meta name="twitter:title" content="Fotos von Badrenovierung mit Mikrozement." />
-    <meta name="twitter:title" content="Fotos von Badreform mit Mikrozement." />
+        content="Bilder einer mikrozement anwendung in einem Badezimmer. Fotos von modernem Bad mit mikrozement ." />
+    <meta name="twitter:title" content="Fotos von Badrenovierung mit mikrozement ." />
+    <meta name="twitter:title" content="Fotos von Badreform mit mikrozement ." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -37,10 +37,6 @@
 
     <link rel="canonical" href="https://www.topciment.com/de/projekt/proyecto-malermeister" />
     <link rel="alternate" href="https://www.topciment.com/de/projekt/proyecto-malermeister" hreflang="de-DE" />
-
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html"
-        hreflang="zh-CN" />
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -73,12 +69,12 @@
                 </ul>
             </div>
             <div class="content">
-                <h1 id="suelosDeMicrocementogalerieH1" class="wow fadeInLeft" style="width:100%">Mikrozement in Bädern</h1>
+                <h1 id="suelosDeMicrocementogalerieH1" class="wow fadeInLeft" style="width:100%">mikrozement  in Bädern</h1>
                 <h2 id="galerieH2" class="wow fadeInLeft justificado">Vivienda en Pohlheim, Alemania<br>
                     by Maler Knöpper. Fotos: Chris Kettner</h2>
                 <div class="wow fadeInRight justified" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>Harmonie und Ausgewogenheit strahlt dieses Bad aus, das dank des <a
-                            href="../mikrozemente">Mikrozements</a> fugenlos ist. Wie die Autorin und Besitzerin sagt,
+                            href="../mikrozemente">mikrozement s</a> fugenlos ist. Wie die Autorin und Besitzerin sagt,
                         wurde das Badezimmer für eine junge Prinzessin entworfen, die genügend Platz für Parfüms, Cremes
                         und andere Kosmetika brauchte. Darüber hinaus war eine einfache Reinigung unerlässlich. Der
                         schieferfarbene Boden, eine dunklere Farbe als die für die Wände gewählte Stahlfarbe,

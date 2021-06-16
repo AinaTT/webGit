@@ -36,7 +36,7 @@
     <link rel="canonical" href="https://www.topciment.com/pl/mikrocement/metody-aplikacji-mikrocementu" />
   
   <link rel="alternate" href="https://www.topciment.com/pl/mikrocement/metody-aplikacji-mikrocementu" hreflang="pl-PL" />
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/methode-application-beton-cire"
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"
         hreflang="fr-FR" />
 
 

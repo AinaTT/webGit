@@ -94,7 +94,7 @@
                         avec la décoration minimaliste et naturelle
                         et les couleurs terreuses, qui évoquent la tranquillité. </p>
                     <p> Tout cela nous fait détourner notre attention vers l'intérieur de la maison et
-                        se laisser berner par la couleur blanche du béton ciréutilisé dans la
+                        se laisser berner par la couleur blanche du béton ciré utilisé dans la
                         les revêtements, qui agissent comme un générateur et
                         conducteur de lumière.</p>
 
@@ -105,7 +105,7 @@
                         et
                         dont chaque détail compte : de son
                         couleurs aux matériaux utilisés pour sa création. </p>
-                    <p>Et à cet égard, Topciment y est pour beaucoup. Notre béton ciréde la
+                    <p>Et à cet égard, Topciment y est pour beaucoup. Notre béton ciré de la
                         La gamme Sttandard a joué un rôle clé dans la
                         création de cette œuvre architecturale : </p>
                     <p>- Sttandard Microdeck en couleur blanche et finition satinée
@@ -116,7 +116,7 @@
                         : pour
                         les sols et les revêtements muraux extérieurs.
                     </p>
-                    <p>Chez Topciment, nous fabriquons du béton cirédepuis 15 ans et proposons
+                    <p>Chez Topciment, nous fabriquons du béton ciré depuis 15 ans et proposons
                         solutions aux professionnels pour créer des
                         et des projets très décoratifs comme la Maison Carmen.
                     </p>

@@ -15,29 +15,32 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Cuisines en béton ciré: avantages, styles et astuces</title>
-    <meta name="description" content="Les cuisines en béton ciré sont une tendance décorative à la hausse.
-Découvrez les avantages du béton ciré dans les cuisines, des conseils d'application et certains styles." />
+    <title>Cuisines en béton ciré : avantages, styles et astuces</title>
+    <meta name="description" content="Les cuisines en béton ciré  sont une tendance décorative à la hausse.
+Découvrez les avantages du béton ciré  dans les cuisines, des conseils d'application et certains styles." />
 
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Cuisines en béton ciré: avantages, styles et astuces" />
-    <meta property="og:description" content="Les cuisines en béton ciré sont une tendance décorative à la hausse.
-Découvrez les avantages du béton ciré dans les cuisines, des conseils d'application et certains styles." />
-    <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces" />
+    <meta property="og:title" content="Cuisines en béton ciré : avantages, styles et astuces" />
+    <meta property="og:description" content="Les cuisines en béton ciré  sont une tendance décorative à la hausse.
+Découvrez les avantages du béton ciré  dans les cuisines, des conseils d'application et certains styles." />
+    <meta property="og:url"
+        content="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Les cuisines en béton ciré sont une tendance décorative à la hausse.
-Découvrez les avantages du béton ciré dans les cuisines, des conseils d'application et certains styles." />
-    <meta name="twitter:title" content="Cuisines en béton ciré: avantages, styles et astuces" />
+    <meta name="twitter:description" content="Les cuisines en béton ciré  sont une tendance décorative à la hausse.
+Découvrez les avantages du béton ciré  dans les cuisines, des conseils d'application et certains styles." />
+    <meta name="twitter:title" content="Cuisines en béton ciré : avantages, styles et astuces" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
 
-    <link rel="canonical" href="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces" />
-  
-    <link rel="alternate" href="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces"
+    <link rel="canonical"
+        href="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces" />
+
+    <link rel="alternate"
+        href="https://www.topciment.com/fr/nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces"
         hreflang="fr-FR" />
 
 
@@ -61,12 +64,12 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
                 </ul>
             </div>
             <div class="content">
-                <h1>Cuisines en béton ciré: avantages, styles et astuces</h1>
+                <h1>Cuisines en béton ciré : avantages, styles et astuces</h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
 
 
                     <p>
-                        Les cuisines en béton ciré sont l'option préférée de plus en plus de professionnels de la
+                        Les cuisines en béton ciré  sont l'option préférée de plus en plus de professionnels de la
                         rénovation,
                         d'architectes et de décorateurs en raison des nombreux avantages qu'offre ce revêtement
                         décoratif.
@@ -75,102 +78,113 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
 
                     </p>
                     <p>
-                        L'une des particularités du béton ciré dans les cuisines est qu'il peut être mis en œuvre de
+                        L'une des particularités du béton ciré  dans les cuisines est qu'il peut être mis en œuvre de
                         nombreuses manières grâce à sa polyvalence.
-                        De cette façon, nous trouvons des cuisines avec du béton ciré sur les sols, les murs,
+                        De cette façon, nous trouvons des cuisines avec du béton ciré  sur les sols, les murs,
                         <a href="cuisine-des-comptoirs-avec-du-beton-cire"> les comptoirs de cuisine </a> et même les
                         éviers.
                     </p>
                     <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/news/isla-cocina-microcemento-gris.jpg"
-                            class="figure-img img-fluid " title="îlot de cuisine en béton cirégris" alt="îlot de cuisine en béton cirégris" width="auto" height="auto"> <figcaption class="figure-caption">Cuisine moderne en béton ciré gris ouverte sur le salon dans le plus pur style industriel </figcaption>.
+                            class="figure-img img-fluid " title="îlot de cuisine en béton ciré gris"
+                            alt="îlot de cuisine en béton ciré gris" width="auto" height="auto">
+                        <figcaption class="figure-caption">Cuisine moderne en béton ciré  gris ouverte sur le salon dans
+                            le plus pur style industriel </figcaption>
                     </figure>
-                    <h2>Avantages de l'application de béton cirédans les cuisines</h2>
+                    <h2> Avantages de l'application de béton ciré  dans les cuisines</h2>
 
                     <p>
-                        L'application du béton ciréans les cuisines offre de nombreux avantages.
-                        Nous vous expliquons ici les principaux afin que vous compreniez pourquoi les cuisines en béton
-                        ciré
-                        sont devenues une tendance décorative à la hausse.
+                        L'application du béton ciré  dans les cuisines offre de nombreux avantages. Nous vous expliquons
+                        ici les principaux afin que vous compreniez pourquoi les cuisines en béton ciré  sont devenues
+                        une tendance décorative à la hausse.
+
                     </p>
-
-                    <h3>Ne nécessite pas de travaux </h3>
-                    <p>Lors du renouvellement d'un séjour, le temps c'est de l'argent. Encore plus lorsqu'il s'agit
-                        d'une cuisine. Le béton ciré étant compatible avec pratiquement tous les matériaux, il est
-                        appliqué directement sur la surface existante sans aucun travail. En quelques jours, votre
-                        cuisine en béton ciré sera prête.</p>
-
-                    <h3>Variété de nuances et de finitions</h3>
-                    <p>Il existe une grande variété de couleurs de béton ciré pour recouvrir votre cuisine. Des tons
+                    <h3>1. L'application du béton ciré  dans la cuisine ne nécessite aucun travail</h3>
+                    <p>Lors de la rénovation d'une pièce, le temps, c'est de l'argent. Encore plus lorsqu'il s'agit
+                        d'une cuisine. Comme ce revêtement décoratif est compatible avec pratiquement tous les
+                        matériaux, le béton ciré  de la cuisine est appliqué directement sur la surface existante sans
+                        aucun travail. En quelques jours, votre cuisine en béton ciré  sera prête.</p>
+                    <h3>2. Variété de couleurs pour les cuisines avec béton ciré  </h3>
+                    <p>Il existe une grande variété de couleurs de béton ciré  pour recouvrir votre cuisine. Des tons
                         plus neutres tels que le blanc, le gris ou le noir à des pigments plus frappants. Chez
-                        Topciment, nous avons une gamme complète de <a href="../information-beton-cire#colores">couleurs
-                            de béton ciré</a>.</p>
+                        Topciment, nous avons une gamme complète de couleurs de béton ciré (couleurs de la page de
+                        liens).</p>
+                    <h3>3. Les cuisines en béton ciré  ont une bonne résistance à la chaleur et une bonne résistance aux
+                        produits chimiques</h3>
+                    <p>ce revêtement a une bonne résistance à la chaleur ainsi qu'aux produits de nettoyage ménagers.
+                        Deux facteurs de différenciation qui ont rendu les sols et les murs en béton ciré  à la mode dans
+                        les cuisines, ainsi que les comptoirs de cuisine revêtus de béton ciré .</p>
+                    <h3>4. Les cuisines avec béton ciré  peuvent être étanches</h3>
+                    <p> Au-delà de la valeur décorative, pour des pièces comme les cuisines, ce qui est recherché avant
+                        tout, c'est un revêtement hautement fonctionnel et s'adaptant aux besoins. En ce sens, il est
+                        essentiel de garantir une finition étanche dans un espace si exposé à l'eau et à des liquides
+                        similaires. Par conséquent, le béton ciré  dans les cuisines est si populaire. Et c'est qu'avec
+                        l'utilisation de vernis et de mastics conçus par Topciment (page produits), les cuisines avec
+                        béton ciré  peuvent être imperméables. Mais non seulement le support est complètement étanche,
+                        mais il offre également une résistance supplémentaire. Un 2 pour 1 à part entière!</p>
+                    <h3>5. Le béton ciré  dans les cuisines peut être antidérapant</h3>
+                    <p>De la même manière que l'imperméabilité est une valeur ajoutée du béton ciré  dans les cuisines,
+                        sa capacité à être également antidérapant est un autre de ses grands avantages par rapport aux
+                        autres revêtements. Mais, dans ce cas, il est également nécessaire d'utiliser le bon produit.
+                        Chez Topciment, nous avons développé Topsealer WT Anti Slip (lien produit), un vernis
+                        polyuréthane à base d'eau grâce auquel toute surface devient antidérapante. Une finition idéale
+                        en particulier pour les sols en béton ciré  de la cuisine.</p>
+                    <figure class="figure mt-4">
+                        <img src="https://www.topciment.com/imagenes/news/cocina-microcemento-gris-abierta-al-salón.jpg"
+                            class="figure-img img-fluid " title="Cuisine en béton ciré grise ouverte sur le salon"
+                            alt="Cuisine en béton ciré grise ouverte sur le salon" width="auto" height="auto">
+                        <figcaption class="figure-caption"> Image d'une petite mais lumineuse cuisine en béton ciré grise
+                            à deux façades. Les petits détails rendent cette cuisine de style nordique spéciale.
+                        </figcaption>.
 
-                    <h3>Résistance thermique et chimique</h3>
-                    <p>Ce revêtement présente une bonne résistance thermique et également aux produits d'entretien
-                        ménager. Deux facteurs de différenciation qui ont rendu les sols et les murs en béton ciré à la
-                        mode dans les cuisines, ainsi que les comptoirs de cuisine revêtus de béton ciré.</p>
 
-                    <h3>Imperméable</h3>
-                    <p> les cuisines en béton ciré peuvent être étanches grâce à Topsealer Pro +, le scellant pour les
-                        professionnels conçu par Topciment qui non seulement imperméabilise le support, mais fournit
-                        également une résistance supplémentaire. Un 2 pour 1 à part entière!</p>
-
-                    <h3>Antidérapant</h3>
-                    <p>Le béton ciré peut également devenir antidérapant si le bon produit est utilisé. Chez Topciment,
-                        nous avons développé Topsealer WT Anti Slip, un vernis à usage professionnel dont la surface
-                        devient antidérapante.</p>
-                        <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/news/cocina-microcemento-gris-abierta-al-salón.jpg" class="figure-img img-fluid " title="Cuisine en béton cirégrise ouverte sur le salon" alt="Cuisine en béton cirégrise ouverte sur le salon" width="auto" height="auto"> <figcaption class="figure-caption"> Image d'une petite mais lumineuse cuisine en béton cirégrise à deux façades. Les petits détails rendent cette cuisine de style nordique spéciale.</figcaption>.
-
-                        
                     </figure>
-                    <h2>Cuisines en béton ciré pour tous les styles</h2>
+                    <h2>Cuisines en béton ciré  pour tous les styles</h2>
 
                     <p>
                         S'il y a quelque chose qui caractérise ce matériau, c'est le large éventail de possibilités
                         qu'il offre.
-                        Pour chaque style décoratif, il existe une cuisine en béton ciré parfaite.
+                        Pour chaque style décoratif, il existe une cuisine en béton ciré  parfaite.
                     </p>
-                    <p>Chez Topciment, nous proposons quatre styles différents de cuisines en béton ciré:</p>
+                    <p>Chez Topciment, nous proposons quatre styles différents de cuisines en béton ciré :</p>
 
-                    <h3>Cuisines minimalistes en béton ciré</h3>
+                    <h3>Cuisines minimalistes en béton ciré </h3>
                     <p> Pour ceux qui optent pour une cuisine dans laquelle les lignes droites prédominent à la fois
                         dans le mobilier et dans l'aménagement de l'espace. L'absence de joints favorise la continuité
-                        des cuisines en béton ciré, facteur fondamental du design minimaliste.</p>
+                        des cuisines en béton ciré , facteur fondamental du design minimaliste.</p>
 
-                    <h3>Cuisines éclectiques en béton ciré</h3>
+                    <h3>Cuisines éclectiques en béton ciré </h3>
                     <p> Pour les personnes qui préfèrent une cuisine qui combine différents types de matériaux (bois,
-                        plaques de plâtre, ardoise ou carrelage). Dans les cuisines éclectiques en béton ciré, vous
+                        plaques de plâtre, ardoise ou carrelage). Dans les cuisines éclectiques en béton ciré , vous
                         pouvez combiner le traditionnel avec le moderne, le luxe avec la simplicité.</p>
 
                     <h3>
 
-                        Cuisines nordiques en béton ciré
+                        Cuisines nordiques en béton ciré 
                     </h3>
                     <p> Vous n'avez pas besoin que votre cuisine soit immense pour briller de sa propre lumière. Le
-                        style scandinave ou nordique est idéal pour les petites cuisines en béton ciré, car il met en
+                        style scandinave ou nordique est idéal pour les petites cuisines en béton ciré , car il met en
                         valeur la beauté des moindres détails. Les tons blancs magnifieront non seulement les dimensions
                         de votre cuisine, mais rehausseront la lumière naturelle de la pièce.</p>
 
 
-                    <h3>Cuisines industrielles en béton ciré </h3>
-                    <>Préférez-vous une cuisine à l'esthétique plus moderne, avant-gardiste et urbaine? Nous proposons
-                        un style 100% industriel, de plus en plus répandu dans la décoration intérieure comme les
-                        cuisines. Dans les cuisines industrielles en béton ciré, la combinaison des murs et des sols de
-                        ce revêtement continu de couleurs grises et noires prédomine.</>
-                    <h2>Application de béton ciré dans les cuisines</h2>
+                    <h3>Cuisines industrielles en béton ciré  </h3>
+                    Préférez-vous une cuisine à l'esthétique plus moderne, avant-gardiste et urbaine? Nous proposons
+                    un style 100% industriel, de plus en plus répandu dans la décoration intérieure comme les
+                    cuisines. Dans les cuisines industrielles en béton ciré , la combinaison des murs et des sols de
+                    ce revêtement continu de couleurs grises et noires prédomine.</>
+                    <h2>Application de béton ciré  dans les cuisines</h2>
 
                     <p>
-                        Le processus d'application du béton ciré dans les cuisines dépend de la surface à couvrir,
+                        Le processus d'application du béton ciré  dans les cuisines dépend de la surface à couvrir,
                         qu'elle soit horizontale ou verticale; ainsi que le type de revêtement choisi:
-                        béton ciré bi-composant, béton ciré mono-composant ou béton ciré prêt à l'emploi.
+                        béton ciré  bi-composant, béton ciré  mono-composant ou béton ciré  prêt à l'emploi.
 
                     </p>
-                    <h3>Comment appliquer du béton ciré sur le sol de la cuisine</h3>
+                    <h3>Comment appliquer du béton ciré  sur le sol de la cuisine</h3>
 
                     <p>
-                        Les sols en béton ciré présentent de nombreux avantages, notamment la grande résistance qu'ils
+                        Les sols en béton ciré  présentent de nombreux avantages, notamment la grande résistance qu'ils
                         offrent à l'usure dans le temps,
                         aux chocs et à la circulation.
                         Quelques avantages qui en font l'une des options les plus intelligentes pour rénover les
@@ -178,18 +192,18 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
 
                     </p>
 
-                    <p>Mais comment le béton ciré est-il appliqué sur le sol de la cuisine? Sortez de tout doute <a
-                            href="../beton-cire/methode-application-beton-cire"> ici</a>
+                    <p>Mais comment le béton ciré  est-il appliqué sur le sol de la cuisine? Sortez de tout doute <a
+                            href="../beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"> ici</a>
                     </p>
 
-                    <h3>Comment appliquer du béton ciré sur les murs de la cuisine</h3>
+                    <h3>Comment appliquer du béton ciré  sur les murs de la cuisine</h3>
 
 
                     <p>
-                        Les qualités des murs en béton ciré ne sont pas loin derrière.
+                        Les qualités des murs en béton ciré  ne sont pas loin derrière.
                         Au-delà de l'aspect esthétique, puisque n'importe quel style peut être donné aux murs de la
                         cuisine,
-                        le béton ciré des murs de la cuisine présente une excellente résistance aux rayures et aux
+                        le béton ciré  des murs de la cuisine présente une excellente résistance aux rayures et aux
                         taches.
                         Ce dernier avantage est très utile, car lors de la cuisson, il est inévitable que des
                         éclaboussures d'aliments se retrouvent sur le mur.
@@ -197,17 +211,17 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
                     </p>
                     <p>
 
-                        Vous trouverez<a href="../beton-cire/methode-application-beton-cire"> ici l'application</a>
-                        étape par étape du béton ciré sur les murs de la cuisine.
+                        Vous trouverez<a href="../beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"> ici l'application</a>
+                        étape par étape du béton ciré  sur les murs de la cuisine.
                     </p>
 
                     <h3>
 
-                        Comment appliquer du béton ciré sur le comptoir de la cuisine
+                        Comment appliquer du béton ciré  sur le comptoir de la cuisine
                     </h3>
 
                     <p>
-                        Les comptoirs de cuisine en béton ciré sont de plus en plus populaires en partie à cause de la
+                        Les comptoirs de cuisine en béton ciré  sont de plus en plus populaires en partie à cause de la
                         résistance à l'abrasion
                         et à la chaleur que confère ce revêtement décoratif.
                         De plus, il est très facile à nettoyer et peut être rapidement adapté à n'importe quelle forme
@@ -215,58 +229,56 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
                     </p>
 
                     <p>
-                        Quel que soit le plan de travail en béton ciré que vous avez à l'esprit, le processus de demande
+                        Quel que soit le plan de travail en béton ciré  que vous avez à l'esprit, le processus de demande
                         est le même.
-                        Nous expliquons <a href="../beton-cire/methode-application-beton-cire"> ici </a> comment
-                        appliquer du béton ciré sur le comptoir de la cuisine.
+                        Nous expliquons <a href="../beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"> ici </a> comment
+                        appliquer du béton ciré  sur le comptoir de la cuisine.
                     </p>
                     <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/news/cocina-microcemento-gris-dos-frentes.jpg" class="figure-img img-fluid " title="cuisine en béton cirégris avec deux façades" alt="Cuisine en béton cirégris avec deux façades" width="auto" height="auto"> <figcaption class="figure-caption">Belle cuisine éclectique en microciment, dans laquelle l'îlot recouvert de notre béton cirégris se combine à merveille avec les murs et les poutres en bois.
+                        <img src="https://www.topciment.com/imagenes/news/cocina-microcemento-gris-dos-frentes.jpg"
+                            class="figure-img img-fluid " title="cuisine en béton ciré gris avec deux façades"
+                            alt="Cuisine en béton ciré gris avec deux façades" width="auto" height="auto">
+                        <figcaption class="figure-caption">Belle cuisine éclectique en microciment, dans laquelle l'îlot
+                            recouvert de notre béton ciré gris se combine à merveille avec les murs et les poutres en
+                            bois.
 
-                    </figcaption></figure>
-                    <h2>Conseils pour éviter les problèmes dans les cuisines en béton ciré</h2>
+                        </figcaption>
+                    </figure>
+                    <h2>Conseils pour éviter les problèmes dans les cuisines en béton ciré </h2>
 
                     <p>
-                        Une série de facteurs doit être pris en compte pour éviter de futurs problèmes de béton ciré
-                        tels que des fissures,
-                        des rayures ou des taches. De Topciment, nous vous donnons quatre conseils pour éviter les
-                        problèmes dans les cuisines en béton ciré.
+                        Une série de facteurs doit être pris en compte pour éviter de futurs problèmes de béton ciré 
+                        tels que des fissures, des rayures ou des taches. De Topciment, nous vous donnons quatre
+                        conseils pour éviter les problèmes dans les cuisines en béton ciré .
 
                     </p>
-                    <h3>1. Faites confiance à un applicateur de béton ciré professionnel</h3>
-                    <p>
-                        seul un expert peut garantir le succès de l'application du béton ciré dans les cuisines et
-                        empêcher le matériau de se fissurer.
-                        Chez Topciment,<a href="../beton-cire/cours-application-beton-cire"> nous formons </a> en
-                        permanence des professionnels à l'application de
-                        nos revêtements continus.
-
-                    </p>
-                    <h3>2. Misez sur un béton ciré de qualité</h3>
-                    <p>Tous les types de béton ciré n'ont pas la même qualité et cela affecte l'apparition de problèmes
-                        potentiels dans les cuisines avec béton ciré. Les revêtements décoratifs Topciment garantissent
+                    <h3>1. Faites confiance à un professionnel pour appliquer le béton ciré  dans la cuisine</h3>
+                    <p>Seul un expert peut garantir le succès de l'application du béton ciré  dans les cuisines et
+                        empêcher le matériau de se fissurer. Chez Topciment, <a class="links" href="../beton-cire/cours-application-beton-cire">nous formons en permanence des professionnels</a> à l'application de nos revêtements continus.</p>
+                    <h3>2. Misez sur un béton ciré  de qualité pour la cuisine</h3>
+                    <p>Tous les types de béton ciré  n'ont pas la même qualité et cela affecte l'apparition de problèmes
+                        potentiels dans les cuisines avec béton ciré . Les revêtements décoratifs Topciment garantissent
                         des performances techniques imbattables.</p>
-
-                    <h3>3. Protège le béton ciré</h3>
+                    <h3>3. Protège le béton ciré  dans la cuisine </h3>
                     <p> Bien que ce revêtement soit résistant, une mauvaise utilisation peut provoquer l'apparition de
                         fissures, rayures ou taches avec le temps. Chez Topciment, nous avons créé une gamme de vernis
-                        et de scellant spécifiques avec lesquels vous pouvez protéger le béton ciré dans les cuisines.
-                        Découvrez <a href="../beton-cire/vernis-topsealer">la gamme Topsealer</a></p>
-
-
-                    <h3>4. Utilisez des nettoyants spécialisés </h3>
-                    <p>Le nettoyage d'une cuisine en béton ciré peut être effectué avec de l'eau et un savon doux.
-                        Cependant, pour mieux conserver le béton ciré plus longtemps, il est conseillé d'utiliser un
-                        nettoyant spécialisé. Pour cela, nous avons fabriqué <a
-                            href="../beton-cire/nettoyage-et-entretien-du-beton-cire">la gamme Ecoclean</a>. </p>
-
-
-
+                        et de mastics spécifiques avec lesquels vous pouvez protéger le béton ciré  dans les cuisines.
+                        Découvrez la <strong><a class="links" href="../beton-cire/vernis-polyurethane-acrylique-aleau-topsealer">gamme Topsealer</a></strong>.</p>
+                    <h3>4. Utilisez des nettoyants spécialisés pour les cuisines en béton ciré  </h3>
+                    <p>Le nettoyage d'une cuisine en béton ciré  peut être effectué avec un savon doux et de l'eau.
+                        Cependant, pour mieux conserver le béton ciré  plus longtemps, il est conseillé d'utiliser un
+                        nettoyant spécialisé. Pour cela, nous avons fabriqué la gamme <a href="../beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-basic">Ecoclean Basic</a>.</p>
                     <p>
                         Si vous avez besoin de plus d'informations sur nos produits, de répondre à des questions sur
-                        l'application du béton ciré dans les cuisines ou sur le type de béton ciré le plus adapté,
-                        contactez directement notre <a href="../contact">service technique spécialisé</a>.
+                        l'application du béton ciré  dans les cuisines ou sur le type de béton ciré  le plus adapté,
+                        contactez directement notre <strong><a class="links" href="../contact">service technique</a> spécialisé. </strong>
 
+                    </p>
+                    <p>
+                        Si le revêtement est résistant, une mauvaise utilisation peut provoquer l'apparition de
+                        fissures, de rayures ou de taches avec le temps. Chez Topciment, nous avons créé une gamme de
+                        vernis et de mastics spécifiques avec lesquels vous pouvez protéger le béton ciré  dans les
+                        cuisines. Découvrez la <strong><a class="links" href="../beton-cire/vernis-polyurethane-acrylique-aleau-topsealer">gamme Topsealer</a></strong>.
 
                     </p>
                     <div id="separador50px"></div>
@@ -371,14 +383,14 @@ Découvrez les avantages du béton ciré dans les cuisines, des conseils d'appli
                                                     class="SIGNUP_FLD">
                                                     <input type="text"
                                                         style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                        placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
-                                                        name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
+                                                        placeholder="Nom" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                        id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                     class="SIGNUP_FLD">
                                                     <input type="button"
                                                         style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType"

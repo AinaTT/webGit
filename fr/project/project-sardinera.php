@@ -16,16 +16,16 @@
 
 
     <title>Logement de luxe avec microciment.</title>
-    <meta name="description" content="Impressionnante maison avec des sols en béton ciréau bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
+    <meta name="description" content="Impressionnante maison avec des sols en béton ciré au bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Logement de luxe avec microciment."/>
-    <meta property="og:description" content="Impressionnante maison avec des sols en béton ciréau bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
+    <meta property="og:description" content="Impressionnante maison avec des sols en béton ciré au bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
     <meta property="og:url" content="https://www.topciment.com/fr/project/project-sardinera"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Impressionnante maison avec des sols en béton ciréau bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
+    <meta name="twitter:description" content="Impressionnante maison avec des sols en béton ciré au bord de la mer. Casa Sardinera du célèbre architecte Ramón Esteve."/>
     <meta name="twitter:title" content="Logement de luxe avec microciment."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
@@ -37,13 +37,6 @@
         <link rel="alternate" href="https://www.topciment.com/fr/project/project-sardinera" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/proyecto-sardinera.html" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-sardinera" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-sardinera.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-sardinera.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-sardinera.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-sardinera.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-sardinera.html" hreflang="ru-RU"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -83,7 +76,7 @@
                         Casa Sardinera combine le design,
                         la modernité et la détente. Le style de <u><a href="http://www.ramonesteve.com/" target="blank">Ramón
                                 Esteve Studio</a></u> est projeté dans cette maison avec une finition <strong>"Total White"</strong>, où le <strong>Total
-                            White"</strong>, où les <strong>planchers de <a href="../information-beton-cire">Béton Ciré</a></strong> in <a href="../information-beton-cire">Béton Ciré</a></strong> in
+                            White"</strong>, où les <strong>planchers de <a href="../information-beton-cire">béton ciré </a></strong> in <a href="../information-beton-cire">béton ciré </a></strong> in
                         <u> couleur ivoire</u> agir en accord avec le reste de la
                         le reste des éléments.
                 </div>

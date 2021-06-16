@@ -316,14 +316,14 @@
                                                 class="SIGNUP_FLD">
                                                 <input type="text"
                                                     style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                    placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                    placeholder="Name" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
                                                     id="EMBED_FORM_NAME_LABEL">
                                             </div>
                                             <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                 class="SIGNUP_FLD">
                                                 <input type="button"
                                                     style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                    name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe">
                                             </div>
                                             <input type="hidden" id="fieldBorder" value="">
                                             <input type="hidden" id="submitType" name="submitType"
@@ -396,7 +396,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/how-to-clean-microcement"
+  },
+  "headline": "How to clean microcement: specialised products and tips",
+  "image":"https://www.topciment.com/imagenes/news/limpieza-microcemento.jpg",
+  "datePublished": "2021-03-31",
+  "dateModified": "2021-03-31",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "Do you want to know everything about cleaning microcement? In this article you will find out which are the most suitable products for cleaning any surface covered with microcement: floors, walls, etc."
+}
+</script>
 </body>
 
 </html>

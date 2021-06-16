@@ -375,7 +375,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/8-motivos-microcemento-futuro-reformas"
+  },
+  "headline": "8 motivos por los que el microcemento es el futuro de las reformas",
+  "image":"https://www.topciment.com/imagenes/news/Topciment%20Shkaf%202%20-header.jpg",
+  "datePublished": "2020-10-13",
+  "dateModified": "2020-10-13",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "El microcemento es el revestimiento decorativo del presente, pero sobre todo del futuro, ya que sus múltiples ventajas frente a otros materiales lo convierten en idóneo para la creación de todo tipo de espacios y estilos. A continuación te explicamos los principales beneficios del microcemento que te enamorarán y con la que lograrás la casa de tus sueños."
+  
+}
+</script>
 </body>
 
 </html>

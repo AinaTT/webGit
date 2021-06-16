@@ -12,9 +12,9 @@
 
 
     <?php include("../../assets/includes/styles.php"); ?>
-    <title>Möglichkeiten, die Mikrozement in seinen Oberflächen bietet.</title>
+    <title>Möglichkeiten, die mikrozement  in seinen Oberflächen bietet.</title>
     <meta name="description"
-        content="Die Oberfläche von Mikrozement hängt vom Untergrund, der Anwendung, der Farbe, der Art des Produkts, der Methode der Anwendung und der Spachtelbewegung ab." />
+        content="Die Oberfläche von mikrozement  hängt vom Untergrund, der Anwendung, der Farbe, der Art des Produkts, der Methode der Anwendung und der Spachtelbewegung ab." />
 
     <link rel=" canonical" href="https://www.topciment.com/de/mikrozement/verschiedene-effekte-auf-finish" />
 
@@ -46,8 +46,8 @@
             <div class="container">
                 <div class="content">
 
-                    <h3 style="text-align:left;">Die Anwendung von Mikrozement ist ein Handwerk, bei dem wir
-                        verschiedene Oberflächen für dasselbe Material erhalten können. Die Oberfläche des Mikrozements
+                    <h3 style="text-align:left;">Die Anwendung von mikrozement  ist ein Handwerk, bei dem wir
+                        verschiedene Oberflächen für dasselbe Material erhalten können. Die Oberfläche des mikrozement s
                         hängt vom Untergrund, der Anwendung, der Farbe, der Art des Produkts, der Art der Anwendung und
                         der Bewegung des Glätters ab. </h3>
                     <h2 style="text-align:left;">Die unterschiedlichen Effekte hängen ab von:</h2>
@@ -77,12 +77,12 @@
                             <div id="columnaSeparadoraIzquierda">&nbsp;</div>
                             <div id="mitadTextoIzquierda">
                                 <img src="https://www.topciment.com/imagenes/microcemento-efecto-piedra.jpg"
-                                    width="100%" alt="microcemento efecto piedra" title="microcemento efecto piedra">
+                                    width="100%" alt="mikrozement efecto piedra" title="mikrozement efecto piedra">
                             </div>
                             <div id="mitadTextoDerecha" >
                                 <img src="https://www.topciment.com/imagenes/microcemento-con-efecto-piedra.jpg"
-                                    width="100%" alt="microcemento con efecto piedra"
-                                    title="microcemento con efecto piedra">
+                                    width="100%" alt="mikrozement con efecto piedra"
+                                    title="mikrozement con efecto piedra">
                             </div>
                         </div>
                     </section>
@@ -92,7 +92,7 @@
                         <div class="container">
                             <div id="columnaSeparadoraIzquierda">&nbsp;</div>
                             <div id="mitadTextoIzquierda">
-                                <h2>Die Farbe und Art des Mikrozements. </h2> In Sttandard und Evoluttion Microfino wird
+                                <h2>Die Farbe und Art des mikrozement s. </h2> In Sttandard und Evoluttion Microfino wird
                                 das Wasser stärker sichtbar sein als in Sttandard oder Evoluttion Microdeck. In dunklen
                                 Farben sind sie ebenfalls besser sichtbar, während in weißen und gebrochen weißen Farben
                                 das Wasser fast nicht wahrnehmbar ist, besonders wenn es mit einem Gummispachtel
@@ -101,8 +101,8 @@
                             <div id="mitadTextoDerecha" >
                                 <h2>&nbsp;</h2>
                                 <img src="https://www.topciment.com/imagenes/microcemento-fino-claro-oscuro-aguas.jpg"
-                                    width="100%" alt="microcemento fino claro oscuro aguas"
-                                    title="microcemento fino claro oscuro aguas">
+                                    width="100%" alt="mikrozement fino claro oscuro aguas"
+                                    title="mikrozement fino claro oscuro aguas">
                             </div>
                         </div>
                     </section>

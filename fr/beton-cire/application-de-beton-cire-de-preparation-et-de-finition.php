@@ -14,33 +14,24 @@
     <?php include("../../assets/includes/styles.php"); ?>
 
 
-    <title>Méthodes d’application de différents types de béton ciré.</title>
-    <meta name="description" content="Processus d’application du béton ciré de préparation: microbase. Méthode de placement du béton ciré de finition : murs, sols, piscines et extérieurs."/>
+    <title>Méthodes d’application de différents types de béton ciré .</title>
+    <meta name="description" content="Processus d’application du béton ciré  de préparation: microbase. Méthode de placement du béton ciré  de finition : murs, sols, piscines et extérieurs."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Méthodes d’application de différents types de béton ciré."/>
-    <meta property="og:description" content="Processus d’application du béton ciré de préparation: microbase. Méthode de placement du béton ciré de finition : murs, sols, piscines et extérieurs."/>
+    <meta property="og:title" content="Méthodes d’application de différents types de béton ciré ."/>
+    <meta property="og:description" content="Processus d’application du béton ciré  de préparation: microbase. Méthode de placement du béton ciré  de finition : murs, sols, piscines et extérieurs."/>
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/application-de-beton-cire-de-preparation-et-de-finition"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Processus d’application du béton ciré de préparation: microbase. Méthode de placement du béton ciré de finition : murs, sols, piscines et extérieurs."/>
-    <meta name="twitter:title" content="Méthodes d’application de différents types de béton ciré."/>
+    <meta name="twitter:description" content="Processus d’application du béton ciré  de préparation: microbase. Méthode de placement du béton ciré  de finition : murs, sols, piscines et extérieurs."/>
+    <meta name="twitter:title" content="Méthodes d’application de différents types de béton ciré ."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/application-de-beton-cire-de-preparation-et-de-finition"/>
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/application-de-beton-cire-de-preparation-et-de-finition" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/en/applicators-corner/application-of-preparation-microcement-and-finish-microcement.html" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/es/microcemento/aplicacion-de-microcemento-de-preparacion-y-de-acabado" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/de/die-ecke-vom-fachmann/anwendung-von-mikrozement-fur-vorbereitung-und-abschluss.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/angolo-dellapplicatore/applicazione-di-microcemento-di-preparazione-e-di-finitura.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman/verwerking-van-de-microcement-grond-en-afwerkingslaag.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-applicators-corner/application-of-preparation-microcement-and-finish-microcement.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/kak-rabotat-s-microcementom/naneseniye-cementa-dlia-gruntovij-pokritiy.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/instructions/topciment-microcement-application.html" hreflang="zh-CN"/>
-
 
 
 
@@ -58,14 +49,14 @@
         <div class="container">
             <div class="content">
                 <h1 id="queeselmicrocemento" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>Application
-                    de béton ciré de préparation et de finition</h1>
+                    de béton ciré  de préparation et de finition</h1>
             </div>
             <div class="container">
                 <div class="content">
                     <h3 style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>Le
-                        béton ciré est un revêtement appliqué en plusieurs couches, il faut distinguer deux
-                        types de matériau selon sa fonction, béton ciré de préparation qui est le premier
-                        employé et qui sert à préparer le support et le béton ciré de finition est celui qui
+                        béton ciré  est un revêtement appliqué en plusieurs couches, il faut distinguer deux
+                        types de matériau selon sa fonction, béton ciré  de préparation qui est le premier
+                        employé et qui sert à préparer le support et le béton ciré  de finition est celui qui
                         donnera l’aspect final. Au sein des bétons cirés de finition, il existe des textures
                         différentes : Microfino, Microdeck, Microstone et Aquaciment M. Chaque matériau a
                         ses particularités et outils pour le travailler. </h3>
@@ -86,14 +77,14 @@
                         revêtement.<br>
                     </p>
                     <p style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
-                        Laisser sécher 24 heures avant d’appliquer le béton ciré de finition
+                        Laisser sécher 24 heures avant d’appliquer le béton ciré  de finition
                     </p>
-                    <img src="https://www.topciment.com/imagenes/microcemento-base-monocomponente-para-preparacion-del-soporte-antes-de-los-microcementos-de-acabado-1.jpg" width="100%" alt="Béton ciré de préparation" title="Béton ciré de préparation">
+                    <img src="https://www.topciment.com/imagenes/microcemento-base-monocomponente-para-preparacion-del-soporte-antes-de-los-microcementos-de-acabado-1.jpg" width="100%" alt="béton ciré  de préparation" title="béton ciré  de préparation">
                     <p style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
                         &nbsp;
                     </p>
                     <div id="mitadTextoIzquierda" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
-                        <h2>Béton ciré de finition :</h2>
+                        <h2>béton ciré  de finition :</h2>
                         <h3>Application de Microfino</h3>
                         <p>
                             Nous appliquerons <strong>Microfino </strong> sur Microbase en une ou deux
@@ -107,7 +98,7 @@
                         <p>
                             Laisser sécher 3 heures entre chaque couche. Polir à la main ou avec un
                             polissoir roto-orbital avec des meulettes de 120 à 220. Si nous polissons le
-                            jour même de l’application du béton ciré fin, le mortier sera encore frais, nous
+                            jour même de l’application du béton ciré  fin, le mortier sera encore frais, nous
                             utiliserons des meulettes de grain 220. Si nous polissons le lendemain, le
                             revêtement sera plus dur et nous utiliserons une meulette de grain 120. Ne pas
                             dépasser une épaisseur d’application par couche de 0,3 mm pour le Microfino.

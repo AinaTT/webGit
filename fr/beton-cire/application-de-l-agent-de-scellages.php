@@ -13,18 +13,18 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Application du vernis ou du scellant pour le béton ciré.</title>
-    <meta name="description" content="Comment appliquer le vernis du béton ciré pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré."/>
+    <title>Application du vernis ou du scellant pour le béton ciré .</title>
+    <meta name="description" content="Comment appliquer le vernis du béton ciré  pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré ."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Application du vernis ou du scellant pour le béton ciré."/>
-    <meta property="og:description" content="Comment appliquer le vernis du béton ciré pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré."/>
+    <meta property="og:title" content="Application du vernis ou du scellant pour le béton ciré ."/>
+    <meta property="og:description" content="Comment appliquer le vernis du béton ciré  pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré ."/>
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/application-de-l-agent-de-scellages"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Comment appliquer le vernis du béton ciré pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré."/>
-    <meta name="twitter:title" content="Application du vernis ou du scellant pour le béton ciré."/>
+    <meta name="twitter:description" content="Comment appliquer le vernis du béton ciré  pour une finition parfaite. Résistances chimiques et résistances mécaniques du scellant de béton ciré ."/>
+    <meta name="twitter:title" content="Application du vernis ou du scellant pour le béton ciré ."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -34,15 +34,7 @@
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/application-de-l-agent-de-scellages" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/applicators-corner/sealant-application.html" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/es/microcemento/sealant-application" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/de/die-ecke-vom-fachmann/anwendung-des-dichtmittels.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/angolo-dellapplicatore/applicazione-del-sigillante.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman/vernissen.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-applicators-corner/sealant-application.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/kak-rabotat-s-microcementom/naneseniye-germetika.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.us/applicators-corner/sealant-application.html" hreflang="en-US"/>
-    <link rel="alternate" href="https://www.topciment.cn/instructions/topsealer-sealer-application.html" hreflang="zh-CN"/>
-
-
+ 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -62,11 +54,11 @@
             <div class="container">
                 <div class="content">
                     <h3 style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>Le
-                        béton ciré est scellé pour sa protection, le vernis lui confère une résistance
+                        béton ciré  est scellé pour sa protection, le vernis lui confère une résistance
                         chimique et mécanique et le choix est une finition satinée, mat ou brillante. </h3>
                     <p style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
                         Le processus de scellage doit être démarré entre 24 et 48 heures après l'application
-                        de la dernière couche de béton ciré. En plus de faciliter le travail de nettoyage,
+                        de la dernière couche de béton ciré . En plus de faciliter le travail de nettoyage,
                         le scellage rendra la surface imperméable.<br>
                     </p>
                     <p style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
@@ -90,7 +82,7 @@
                         Laissez la surface sécher pendant sept jours et deux semaines sans utiliser de
                         produits de nettoyage et sans couvrir.<br>
                     </p>
-                    <!--p style="text-align:left; ;" >Le béton ciré fini peut également être scellé avec Topsealer DSV, appliqué en deux couches au moyen d'un pistolet ou d'un rouleau à poils courts, en ponçant la première couche. La seconde ne nécessite aucun ponçage mais doit sécher au moins sept jours avant de mettre la surface en service.<br>
+                    <!--p style="text-align:left; ;" >Le béton ciré  fini peut également être scellé avec Topsealer DSV, appliqué en deux couches au moyen d'un pistolet ou d'un rouleau à poils courts, en ponçant la première couche. La seconde ne nécessite aucun ponçage mais doit sécher au moins sept jours avant de mettre la surface en service.<br>
           </p-->
                     <p style="text-align:left; ;" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "1"}'>
                         Les piscines faites avec Aquaciment doivent être scellés simplement avec Presealer,

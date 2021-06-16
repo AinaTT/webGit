@@ -456,7 +456,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/como-limpiar-el-microcemento"
+  },
+  "headline": "Cómo limpiar el microcemento: productos especializados y recomendaciones",
+  "image":"https://www.topciment.com/imagenes/news/limpieza-microcemento.jpg",
+  "datePublished": "2021-03-31",
+  "dateModified": "2021-03-31",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "¿Quieres saber todo acerca de la limpieza del microcemento? En este artículo descubrirás cuáles son los productos más indicados para limpiar cualquier superficie revestida con microcemento: suelos, paredes, etc."
+}
+</script>
 </body>
 
 </html>

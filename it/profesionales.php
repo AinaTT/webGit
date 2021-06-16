@@ -66,7 +66,7 @@
                                  <li><a href="microcemento/cursos-aplicacion-microcemento">Corsi di microcemento</a>
                                  </li>
                                  <li> <a href="distribuidores">Distributori di microcemento</a></li>
-                                 <li> <a href="microcemento/metodos-de-aplicacion-microcemento">Metodi
+                                 <li> <a href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">Metodi
                                          d'applicazione</a></li>
                                  <li> <a href="calc/">Calculadora de material</a></li>
                                  <li> <a href="fichas-tecnicas">Fichas técnicas</a></li>
@@ -157,7 +157,7 @@
                                      <h2 class="card-header"> <img
                                              src="https://www.topciment.com/imagenes/iconos/aplicacion.png"
                                              class="img-fluid "> <a class=""
-                                             href="microcemento/metodos-de-aplicacion-microcemento">Applicazione del
+                                             href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">Applicazione del
                                              microcemento</a>
                                      </h2>
                                      <p>
@@ -165,7 +165,7 @@
                                          trovano in questa sezione.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links"
-                                             href="microcemento/metodos-de-aplicacion-microcemento"><strong>Conoscere i
+                                             href="microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso"><strong>Conoscere i
                                                  metodi di applicazione del microcemento</strong></a></p>
                                  </div>
                                  <div class="col-md-12">

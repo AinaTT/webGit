@@ -36,15 +36,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-ambau" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-sardinera" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-sardinera.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-sardinera.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-sardinera.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-sardinera.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-sardinera.html" hreflang="ru-RU"/>
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
-
-
+  
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -82,7 +74,7 @@
                         Un vieil appartement avec beaucoup de petites pièces et peu de lumière dans une maison moderne avec un espace pour un atelier de vélo.
                         espace pour un atelier de vélo.
                         Une fois la distribution conçue, nous avons opté pour des couleurs neutres : des panneaux blancs sur les murs et du blanc
-                        avec un étage de <a href="../information-beton-cire">Béton Ciré</a> Topciment pour toute la maison.
+                        avec un étage de <a href="../information-beton-cire">béton ciré </a> Topciment pour toute la maison.
                         Un dessin dont la froideur dont il était censé être le résultat était teintée d'une multitude de couleurs vives
                         d'accessoires aux couleurs vives, créant ainsi une histoire fantastique qui raconte la vie et le goût de ses propriétaires.
                         la vie et le goût de ses propriétaires. Photos par Ambau.</p>

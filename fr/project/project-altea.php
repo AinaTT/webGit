@@ -36,12 +36,6 @@
 
     <link rel="alternate" href="https://www.topciment.com/fr/project/project-altea" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-altea" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-altea.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-altea.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-altea.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-altea.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-altea.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-altea.html" hreflang="zh-CN"/>
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

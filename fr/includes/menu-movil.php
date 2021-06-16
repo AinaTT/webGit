@@ -12,7 +12,7 @@
      <div id="ocultomovilinterno">
          <div id="menuidiomasmovil">
              <ul>
-                 <li> <a class="activo" href="../information-beton-cire">Béton Ciré</li>
+                 <li> <a class="activo" href="../information-beton-cire">béton ciré </li>
              </ul>
          </div>
          <div id="menuocultomovil">

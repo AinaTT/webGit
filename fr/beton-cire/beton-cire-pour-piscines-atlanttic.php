@@ -18,14 +18,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Béton ciré pour piscines  | Atlantic </title>
-    <meta name="description" content="Le béton ciré Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine."/>
+    <title>béton ciré  pour piscines  | Atlantic </title>
+    <meta name="description" content="Le béton ciré  Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine."/>
 
 
-    <meta property="og:title" content="Béton ciré pour piscines  | Atlantic">
+    <meta property="og:title" content="béton ciré  pour piscines  | Atlantic">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-pour-piscines-atlanttic">
-    <meta property="og:description" content="Le béton ciré Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine.">
+    <meta property="og:description" content="Le béton ciré  Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine.">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
@@ -79,11 +79,11 @@
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Béton ciré piscines Attlantic </h1>
+                            <h1 class="en2">béton ciré  piscines Attlantic </h1>
                             <div class="text-justify">
 
 
-                                <p class="h3s"> Atlanttic est la ligne de béton ciré bicomposant (ciment+ résine) conçus
+                                <p class="h3s"> Atlanttic est la ligne de béton ciré  bicomposant (ciment+ résine) conçus
                                     spécifiquement
                                     pour des superficies en contact permanent avec de l'eau.</p>
                                 </p>
@@ -133,7 +133,7 @@
                         <div class="col-md-6">
                             <p>
                             <h2 class="h2s"></h2>
-                            <p class="h3s">Atlanttic Aquaciment est le béton ciré bicomposant par excellence pour revêtir des
+                            <p class="h3s">Atlanttic Aquaciment est le béton ciré  bicomposant par excellence pour revêtir des
                                 superficies en contact permanent avec de l'eau, comme les piscines, bassins ou des
                                 fontaines.</h3>
                                 Sa formulation innovante produit une activation de 100% du ciment , qui améliore
@@ -145,12 +145,12 @@
                             </p>
                             <p>Attlantic Aquaciment sont disponibles en 2 granulométries:
                             </p>
-                            <p><strong>Atlanttic Aquaciment XL:</strong>comme béton ciré de préparation avant Aquaciment
-                                M, et aussi comme béton ciré de finition et afin d'obtenir des textures antidérapantes
+                            <p><strong>Atlanttic Aquaciment XL:</strong>comme béton ciré  de préparation avant Aquaciment
+                                M, et aussi comme béton ciré  de finition et afin d'obtenir des textures antidérapantes
                                 (idéal pour les bords de piscines).
 
                             </p>
-                            <p><strong>Atlanttic Aquaciment M:</strong>comme béton ciré de finition avec des textures
+                            <p><strong>Atlanttic Aquaciment M:</strong>comme béton ciré  de finition avec des textures
                                 plus douces.
 
                             </p>
@@ -422,8 +422,8 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment",
-         "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+    "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment",
+         "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
     "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
     "brand": {
       "@type": "Organization",
@@ -495,8 +495,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment M",
-             "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+        "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment M",
+             "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
         "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-pour-piscines-atlanttic",
@@ -567,8 +567,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment bicomposant pour piscines Atlanttic Aquaciment XL",
-             "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+        "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment XL",
+             "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
 
 
         "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_XL.jpg",

@@ -16,16 +16,16 @@
     <link rel="stylesheet" href="../../assets/css/familia.css" />
 
 
-    <title>Mikrozement-Harz | Acrylharz auf Wasserbasis Acricem
+    <title>mikrozement -Harz | Acrylharz auf Wasserbasis Acricem
     </title>
     <meta name="description"
-        content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-Mikrozement eine zusätzliche Härte und Flexibilität." />
+        content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität." />
 
 
-    <meta property="og:title" content="Mikrozement-Harz | Acrylharz auf Wasserbasis Acricem">
+    <meta property="og:title" content="mikrozement -Harz | Acrylharz auf Wasserbasis Acricem">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/harz-mikrozement-acricem">
-    <meta property="og:description" content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-Mikrozement eine zusätzliche Härte und Flexibilität.">
+    <meta property="og:description" content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
 
@@ -71,13 +71,13 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Harz für Mikrozement </h1>
+                            <h1>Harz für mikrozement  </h1>
                      <p>
-                          Acricem ist ein Harz, das die Haftung, Härte und Flexibilität von Mikrozementbeschichtungen gewährleistet. Dieses Acrylharz auf Wasserbasis eignet sich besonders zur Begleitung unserer zweikomponentigen Mikrozementsysteme: Sttandard, Unlimitiert und Atlantisch.
+                          Acricem ist ein Harz, das die Haftung, Härte und Flexibilität von mikrozement beschichtungen gewährleistet. Dieses Acrylharz auf Wasserbasis eignet sich besonders zur Begleitung unserer zweikomponentigen mikrozement systeme: Sttandard, Unlimitiert und Atlantisch.
 
                      </p>    
 <p>
-    Dieses lösungsmittelfreie Harz für Mikrozement verbessert sowohl die mechanische Festigkeit als auch die Dichtigkeit des Mörtels erheblich. Außerdem wird das mögliche Auftreten von Schwindungsrissen reduziert.
+    Dieses lösungsmittelfreie Harz für mikrozement  verbessert sowohl die mechanische Festigkeit als auch die Dichtigkeit des Mörtels erheblich. Außerdem wird das mögliche Auftreten von Schwindungsrissen reduziert.
 
 </p>    
 <p>
@@ -190,7 +190,317 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Acryl-mikrozement harz auf Wasserbasis Acricem", 
+    "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+    "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_y_25L_2021.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "25 Kg und  5 kG",
+    "variesBy": "size",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Trägermaterial",
+        "value": "Ausgezeichnete Substratpenetration und Stabilisierung"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendung",
+        "value": "Anwendbar mit Rolle oder Pinsel in einem Anstrich"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Entzündung",
+        "value": "Nicht entflammbar, auf Wasserbasis"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Versorgung",
+        "value": "Das Produkt wird gebrauchsfertig geliefert."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "(1 Hand)- 0,10 L/m2"
+      }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement harz"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "10"
+    },
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "name": "Acryl-mikrozement harz auf Wasserbasis Acricem 5 L",
+        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
+        "size": "5 L",
+        "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",
+        "sku": "TT01009",
+        "gtin13": "8436575620107",
+        
+        "weight": "5kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Trägermaterial",
+        "value": "Ausgezeichnete Substratpenetration und Stabilisierung"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendung",
+        "value": "Anwendbar mit Rolle oder Pinsel in einem Anstrich"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Entzündung",
+        "value": "Nicht entflammbar, auf Wasserbasis"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Versorgung",
+        "value": "Das Produkt wird gebrauchsfertig geliefert."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "(1 Hand)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Acryl-mikrozement harz auf Wasserbasis Acricem 25 L",
+        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
+        "size": "25 L",
+        "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",
+        "sku": "TT01010",
+        "gtin13": "8436575620114",
+        "weight": "25kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Trägermaterial",
+        "value": "Ausgezeichnete Substratpenetration und Stabilisierung"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendung",
+        "value": "Anwendbar mit Rolle oder Pinsel in einem Anstrich"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Entzündung",
+        "value": "Nicht entflammbar, auf Wasserbasis"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Versorgung",
+        "value": "Das Produkt wird gebrauchsfertig geliefert."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "(1 Hand)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Acryl-mikrozement harz auf Wasserbasis Acricem M",
+        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",
+        "sku": "TT01016",
+        "gtin13": "8436575620718",
+        
+        "weight": "15kg und  20kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ {
+        "@type": "PropertyValue",
+        "name": "Trägermaterial",
+        "value": "Ausgezeichnete Substratpenetration und Stabilisierung"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Anwendung",
+        "value": "Anwendbar mit Rolle oder Pinsel in einem Anstrich"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Entzündung",
+        "value": "Nicht entflammbar, auf Wasserbasis"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Versorgung",
+        "value": "Das Produkt wird gebrauchsfertig geliefert."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Leistung",
+        "value": "(1 Hand)- 0,10 L/m2"
+      }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "10"
+        }
+      }
+    ]
+  } </script>
 </body>
 
 </html>

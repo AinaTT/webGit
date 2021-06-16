@@ -15,18 +15,18 @@
     <link rel="stylesheet" href="../assets/css/proyectos.css"/>
 
 
-    <title>Photos et images du béton ciré dans les salles de bains, les cuisines, les sols et les murs.</title>
-    <meta name=" description" content="Photos de béton cirédans les sols, photos de béton cirédans les murs, photos de béton cirédans les cuisines, photos de béton cirédans les salles de bains."/>
+    <title>Photos et images du béton ciré  dans les salles de bains, les cuisines, les sols et les murs.</title>
+    <meta name="description" content="Photos de béton ciré dans les sols, photos de béton ciré dans les murs, photos de béton ciré dans les cuisines, photos de béton ciré dans les salles de bains."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Photos et images du béton ciré dans les salles de bains, les cuisines, les sols et les murs."/>
-    <meta property="og:description" content="Photos de béton cirédans les sols, photos de béton cirédans les murs, photos de béton cirédans les cuisines, photos de béton cirédans les salles de bains."/>
+    <meta property="og:title" content="Photos et images du béton ciré  dans les salles de bains, les cuisines, les sols et les murs."/>
+    <meta property="og:description" content="Photos de béton ciré dans les sols, photos de béton ciré dans les murs, photos de béton ciré dans les cuisines, photos de béton ciré dans les salles de bains."/>
     <meta property="og:url" content="https://www.topciment.com/fr/projects"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Photos de béton cirédans les sols, photos de béton cirédans les murs, photos de béton cirédans les cuisines, photos de béton cirédans les salles de bains."/>
-    <meta name="twitter:title" content="Photos et images du béton ciré dans les salles de bains, les cuisines, les sols et les murs."/>
+    <meta name="twitter:description" content="Photos de béton ciré dans les sols, photos de béton ciré dans les murs, photos de béton ciré dans les cuisines, photos de béton ciré dans les salles de bains."/>
+    <meta name="twitter:title" content="Photos et images du béton ciré  dans les salles de bains, les cuisines, les sols et les murs."/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/root-"/>
@@ -36,14 +36,7 @@
 
         <link rel="alternate" href="https://www.topciment.com/fr/projects" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/es/proyectos" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/systems.html" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/systeme.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/sistemi.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/systemen.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-microcemento-system.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/sistemy.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/microcement-systems.html" hreflang="zh-CN"/>
-
+   
 
     <?php include("../assets/includes/scripts-head.php"); ?>
 </head>
@@ -72,7 +65,7 @@
         </div>
         <div class="content">
             <a id="proyectos" class="ancla"></a>
-            <h1 id="preguntasFrecuentesH1" class="wow fadeInDown mb-4"><span style="padding:5px;float: left;">Projects béton ciré</span>
+            <h1 id="preguntasFrecuentesH1" class="wow fadeInDown mb-4"><span style="padding:5px;float: left;">Projects béton ciré </span>
                 <!-- <span class="showfilter name">/Filtrar por:</span> -->
             </h1>
 

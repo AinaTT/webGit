@@ -14,20 +14,20 @@
 
 
 
-    <title>Fabricant de béton ciré | Topciment béton ciré</title>
-    <meta name="description" content="Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits
+    <title>Fabricant de béton ciré  | Topciment béton ciré </title>
+    <meta name="description" content="Nous sommes leader dans la fabrication de béton ciré  en Espagne. Garantie jusqu'à 10 ans sur les produits
 développés avec les dernières technologies."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Fabricant de béton ciré | Topciment béton ciré"/>
-    <meta property="og:description" content="Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits  développés avec les dernières technologies."/>
+    <meta property="og:title" content="Fabricant de béton ciré  | Topciment béton ciré "/>
+    <meta property="og:description" content="Nous sommes leader dans la fabrication de béton ciré  en Espagne. Garantie jusqu'à 10 ans sur les produits  développés avec les dernières technologies."/>
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/fabricant-beton-cire"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits
+    <meta name="twitter:description" content="Nous sommes leader dans la fabrication de béton ciré  en Espagne. Garantie jusqu'à 10 ans sur les produits
         développés avec les dernières technologies."/>
-    <meta name="twitter:title" content="Fabricant de béton ciré | Topciment béton ciré"/>
+    <meta name="twitter:title" content="Fabricant de béton ciré  | Topciment béton ciré "/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -37,12 +37,6 @@ développés avec les dernières technologies."/>
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/fabricant-beton-cire" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/microcements/microcement-manufacturer" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/es/microcemento/fabricante-microcemento" hreflang="es-ES"/>
-    <link rel="alternate" href="https://www.topciment.com/de/uber-uns.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/chi-siamo.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/over-ons.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-about-us.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/o-nas.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.cn/we-are-decorative-coating-supplier.html" hreflang="zh-CN"/>
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -66,34 +60,34 @@ développés avec les dernières technologies."/>
                     <div class="container">
                         <div class="content text-justify">
                             <h1 class="en2">
-                                Fabricant de béton ciré</h1>
-                            <p>Nous sommes fabricants de béton ciré développés avec les dernières technologies
+                                Fabricant de béton ciré </h1>
+                            <p>Nous sommes fabricants de béton ciré  développés avec les dernières technologies
                                 du marché et 100% respectueux de l'environement. Bien que notre meilleure lettre d'introduction
                                 soit l'opinion de nos clients après près de deux décennies d'expérience dans le secteur de la construction.</p>
                             <p>
                                 Dans la recherche de la plus haute qualité ,nous selectionnons soigneusement les matériaux afin que chaque client obtienne
-                                une finition unique.Une méthode de travail qui nous différencie de la concurrence et qui nous à conduit à être leader dans la fabrication de béton ciré en Espagne et à avoir
+                                une finition unique.Une méthode de travail qui nous différencie de la concurrence et qui nous à conduit à être leader dans la fabrication de béton ciré  en Espagne et à avoir
                                 une grande reconnaissance internationale dans plus de 58 pays .
                             </p>
                             <p>
-                                Mais nous ne sommes pas seulement fabricant de béton ciré.Nous produisons également toutes sortes de revêtements décoratifs
-                                (peintures métalliques , glacis , pigments et revêtements métalliques ) ainsi que des primaires, bouches pores ou vernis , nettoyants spécialisés et accessoires liés au béton ciré.</p>
+                                Mais nous ne sommes pas seulement fabricant de béton ciré .Nous produisons également toutes sortes de revêtements décoratifs
+                                (peintures métalliques , glacis , pigments et revêtements métalliques ) ainsi que des primaires, bouches pores ou vernis , nettoyants spécialisés et accessoires liés au béton ciré .</p>
 
-                            <h2>Usine de béton ciré Topciment</h2>
+                            <h2>Usine de béton ciré  Topciment</h2>
 
-                            <p>L'usine de béton ciré Topciment est unique en Espagne . Des installations innovantes d'une superficie
-                                de plus de 4000 nètres carrés et équipées des machines les plus modernes du marché du béton ciré et des technologies les plus avancées.
+                            <p>L'usine de béton ciré  Topciment est unique en Espagne . Des installations innovantes d'une superficie
+                                de plus de 4000 nètres carrés et équipées des machines les plus modernes du marché du béton ciré  et des technologies les plus avancées.
                             </p>
                             <p>
                                 Une infrastructure privilégiée dans laquelle on trouve le plus grand show room d'Europe; une salle de 140 m2 où se déroule la partie pratique de nos formations pour professionels ; une autre salle de 100m2 destinée à la partie théorique de nos cours et dans laquelle sont réalisées diverses présentations; et un grand laboratoire bien équipé dans lequel notre équipe de chimistes qualifiés
                                 travaille très dur pour améliorer de plus en plus les performances et la qualité des bétons cirés que nous fabriquons.</p>
-                            <p>Vous souhaitez connaître l'usine de béton ciré Topciment ? Nous effectuons des visites guidées à tous ceux qui veulent le savoir. </p>
+                            <p>Vous souhaitez connaître l'usine de béton ciré  Topciment ? Nous effectuons des visites guidées à tous ceux qui veulent le savoir. </p>
 
                             <figure>
                                 <img src="https://www.topciment.com/imagenes/Topciment_nosotros.jpg" class="img-fluid" alt="Fabrica microcementos Topciment" title="Fabrica microcementos Topciment">
-                                <figcaption> Image de l'intérieur de l'usine de béton ciréTopciment.</figcaption>
+                                <figcaption> Image de l'intérieur de l'usine de béton ciré Topciment.</figcaption>
                             </figure>
-                            <h2 class="mt-3 mb-3 ">Que vous proposons nous en tant que fabricant de béton ciré ?</h2>
+                            <h2 class="mt-3 mb-3 ">Que vous proposons nous en tant que fabricant de béton ciré  ?</h2>
                             <h3>Conseils personnalisé</h3>
                             <p>
                                 Ecouter et apporter des solutions à nos clients est notre raison d'être.Nous disposons d'un service technique
@@ -102,7 +96,7 @@ développés avec les dernières technologies."/>
                             </p>
                             <h3>Formation continue</h3>
                             <p>Instruire les professionels du secteur est notre meilleur investissement. Nous proposons en permanence des cours d'application
-                                des types de béton ciré que nous fabriquons pour garantir le meilleur résultat final possible.
+                                des types de béton ciré  que nous fabriquons pour garantir le meilleur résultat final possible.
                                 Nos formations sont adaptés au niveau individuel de chaque personne. </p>
                             <h3>Assistance aux distributeurs </h3>
                             <p> Nos distributeurs sont l'âme de Topciment , ils permettent aux bétons cirés que nous fabriquons d'être commercialisés dans
@@ -144,7 +138,7 @@ développés avec les dernières technologies."/>
                                     </div>
 
                                     <p>
-                                        15 ans , c'est un long chemin.Notre vaste expérience et les normes de qualité de nos produits nous le garantissent. Une expérience qui nous à conduit à l'enregistrement de la marque Topciment en tant que fabricant de béton ciré aux Etats unis , en Chine, en Russie et dans le reste de l'Europe.
+                                        15 ans , c'est un long chemin.Notre vaste expérience et les normes de qualité de nos produits nous le garantissent. Une expérience qui nous à conduit à l'enregistrement de la marque Topciment en tant que fabricant de béton ciré  aux Etats unis , en Chine, en Russie et dans le reste de l'Europe.
                                     </p>
                                 </div>
                                 <div class="col-md-6">
@@ -168,8 +162,8 @@ développés avec les dernières technologies."/>
                     <div class="container">
                         <div class="content text-justify">
                             <h2 class="mt-4">Regard vers le futur</h2>
-                            <p>Nous aspirons à être la meilleure version de nous mêmes chaque jour. Si nous sommes fiers de notre parcours et de la portée intertnationale que nous avons acquise en tant que fabricant de béton ciré , nous voulons aller encore plus loin.</p>
-                            <p>Nous cherchons à continuer à développer la marque Topciment à travers le monde avec l'aide de nos distributeurs.Une volonté de s'amélioré qui ne serait pas possible sans un investissement conséquent . Nous continuerons de nous efforcer de fabriquer des bétons cirés toujours meilleurs qui continuent à être une tendance et de satisfaire les besoins de nos clients .Tout cela toujours sur le prisme du respect et de la protection de l'environement car l'un de nos objectifs est de réduire l'empreinte écologique dans la fabrication de béton ciré.</p>
+                            <p>Nous aspirons à être la meilleure version de nous mêmes chaque jour. Si nous sommes fiers de notre parcours et de la portée intertnationale que nous avons acquise en tant que fabricant de béton ciré  , nous voulons aller encore plus loin.</p>
+                            <p>Nous cherchons à continuer à développer la marque Topciment à travers le monde avec l'aide de nos distributeurs.Une volonté de s'amélioré qui ne serait pas possible sans un investissement conséquent . Nous continuerons de nous efforcer de fabriquer des bétons cirés toujours meilleurs qui continuent à être une tendance et de satisfaire les besoins de nos clients .Tout cela toujours sur le prisme du respect et de la protection de l'environement car l'un de nos objectifs est de réduire l'empreinte écologique dans la fabrication de béton ciré .</p>
 
                             <h2>Contact</h2>
                             <p>Email: info@topciment.com <br>
@@ -194,12 +188,12 @@ développés avec les dernières technologies."/>
         {
             "@context": "https://schema.org/",
             "@type": "Organization",
-            "name": "Fabricant de béton ciré",
+            "name": "Fabricant de béton ciré ",
             "url": "https://www.topciment.com/fr/beton-cire/fabricant-beton-cire",
             "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
             "image": "https://www.topciment.com/imagenes/sistemas/topciment_Sttandard_Microbase_Oscura.jpg",
             "email": "info@topciment.com",
-            "description": "Nous sommes leader dans la fabrication de béton ciré en Espagne. Garantie jusqu'à 10 ans sur les produits développés avec les dernières technologies.    ",
+            "description": "Nous sommes leader dans la fabrication de béton ciré  en Espagne. Garantie jusqu'à 10 ans sur les produits développés avec les dernières technologies.    ",
             "address": {
                 "@type": "PostalAddress",
                 "postalCode": "46940",
@@ -234,7 +228,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Unlimitted est la nouvelle ligne de microciment à deux composants (ciment + résine)."
+                            "description": "Unlimitted est la nouvelle ligne de béton ciré à deux composants (ciment + résine)."
                         }
                     },
                     {
@@ -256,7 +250,7 @@ développés avec les dernières technologies."/>
                         "itemOffered": {
                             "@type": "Product",
                             "name": "Microcemento para piscinas",
-                            "description": " Atlanttic est la ligne de microciment à deux composants (ciment + résine) spécifiquement développée pour les surfaces en contact permanent avec l'eau.",
+                            "description": " Atlanttic est la ligne de béton ciré à deux composants (ciment + résine) spécifiquement développée pour les surfaces en contact permanent avec l'eau.",
                             "brand": "Atlanttic",
                             "aggregateRating": {
                                 "@type": "AggregateRating",
@@ -276,7 +270,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Efectto Quartz est la ligne de microciment prête à l'emploi qui vous permet de réaliser des finitions continues hautement décoratives. Sa formule exclusive ne contient pas de ciments susceptibles de produire des rétrécissements ou des fissures imprévus."
+                            "description": "Efectto Quartz est la ligne de béton ciré prête à l'emploi qui vous permet de réaliser des finitions continues hautement décoratives. Sa formule exclusive ne contient pas de ciments susceptibles de produire des rétrécissements ou des fissures imprévus."
                         }
                     },
                     {
@@ -360,7 +354,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "Topsealer est la gamme de vernis polyuréthane de Topciment. Un produit qui est utilisé dans l'étape finale de l'application du microciment pour la protection des surfaces."
+                            "description": "Topsealer est la gamme de vernis polyuréthane de Topciment. Un produit qui est utilisé dans l'étape finale de l'application du béton ciré pour la protection des surfaces."
                         }
                     },
                     {
@@ -388,7 +382,7 @@ développés avec les dernières technologies."/>
                                 "ratingValue": "5",
                                 "reviewCount": "17"
                             },
-                            "description": "La solution de Topciment pour donner aux sols en microciment une brillance naturelle attrayante et une durabilité à la surface traitée."
+                            "description": "La solution de Topciment pour donner aux sols en béton ciré une brillance naturelle attrayante et une durabilité à la surface traitée."
                         }
                     },
                     {

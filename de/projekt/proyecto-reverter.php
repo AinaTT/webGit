@@ -14,21 +14,21 @@
     <link rel="preload" href="../../assets/css/proyecto.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
-    <title>Spektakuläres Haus mit Mikrozement.</title>
+    <title>Spektakuläres Haus mit mikrozement .</title>
     <meta name="description"
-        content="Fotos von renoviertem Haus mit Mikrozement. Kombination aus Mikrozement und Beleuchtung." />
+        content="Fotos von renoviertem Haus mit mikrozement . Kombination aus mikrozement  und Beleuchtung." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Spektakuläres Haus mit Mikrozement." />
+    <meta property="og:title" content="Spektakuläres Haus mit mikrozement ." />
     <meta property="og:description"
-        content="Fotos von renoviertem Haus mit Mikrozement. Kombination aus Mikrozement und Beleuchtung." />
+        content="Fotos von renoviertem Haus mit mikrozement . Kombination aus mikrozement  und Beleuchtung." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-reverter" />
     <meta property=" og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Fotos von renoviertem Haus mit Mikrozement. Kombination aus Mikrozement und Beleuchtung." />
-    <meta name="twitter:title" content="Spektakuläres Haus mit Mikrozement." />
-    <meta name="twitter:title" content="Spektakuläres Haus mit Mikrozement." />
+        content="Fotos von renoviertem Haus mit mikrozement . Kombination aus mikrozement  und Beleuchtung." />
+    <meta name="twitter:title" content="Spektakuläres Haus mit mikrozement ." />
+    <meta name="twitter:title" content="Spektakuläres Haus mit mikrozement ." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -80,7 +80,7 @@
                     <p>Niemand renoviert sein Zuhause mit dem Gedanken an ein gemeinsames Haus. In diesem Fall ist das
                         Ergebnis eindeutig. Futurismus und Originalität verbinden ihre Hände, um das Finish dieses
                         Hauses mit spektakulärem Blick auf das alte Turia-Flussbett zu erhalten ist völlig exklusiv.
-                        Zusammen mit den <a href="../mikrozemente">Mikrozementen</a> verleiht ein klares Bekenntnis zur
+                        Zusammen mit den <a href="../mikrozemente">mikrozement en</a> verleiht ein klares Bekenntnis zur
                         Beleuchtung diesem Haus zwei völlig unterschiedliche Ausstrahlungen: Während tagsüber das Innere
                         des Hauses modern und hell ist, erwachen die Paneele bei Einbruch der Dunkelheit zum Leben und
                         verwandeln die Räume in einen Tanz aus bläulichen Farbtönen. Fotos von Mariela Apollonio. </p>

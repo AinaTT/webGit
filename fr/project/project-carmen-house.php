@@ -73,7 +73,7 @@
                         la continuité.
                         Son architecte, Carles Faus, a créé une œuvre où la couleur blanche est le véritable protagoniste, car elle agit comme un
                         protagoniste, car il agit comme un générateur et un conducteur de lumière. </p>
-                    <p>La traçabilité et la linéarité créées avec le béton ciréblanc de la continuité, unissent les chaussées verticales et horizontales
+                    <p>La traçabilité et la linéarité créées avec le béton ciré blanc de la continuité, unissent les chaussées verticales et horizontales
                         des trottoirs horizontaux et verticaux, donnant de l'amplitude à toute la maison. </p>
                     <p>Produits topiques utilisés :</p>
                     <p>-<a href="../beton-cire/beton-cire-bicomposant-sttandard#sttandard-microdeck" class="links">Sttandard Microdeck</a> en couleur blanche et en finition satinée :

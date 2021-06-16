@@ -97,7 +97,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/slipperiness-of-microcement"
+  },
+  "headline": "Slipperiness",
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRW1PcBDbd1Z5HGi-r3vZj8PkTy7z63lyPY75RdCZgkIkj6JlX_g&s",
+  "datePublished": "2020-01-26",
+  "dateModified": "2020-01-26",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"tests of slipperiness of microcement at the only testing laboratory in Spain specialised in this field"
+} 
+</script>
 </body>
 
 </html>

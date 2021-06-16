@@ -13,22 +13,21 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Probleme, Nachteile und Nachteile von schlecht verarbeitetem Mikrozement </title>
+    <title>Tricks zur Vermeidung von Flecken und Abdrücken auf Mikrozement </title>
     <meta name="description"
-        content="Anwendungsfehler in Mikrozementböden und -wänden. Flecken und Markierungen. Lösung für Mikrozementprobleme" />
+        content="Kennen Sie die Hauptfehler einer schlechten Anwendung von Mikrozement auf Böden und Wänden. Unsere Experten bieten Lösungen für die Hauptprobleme: Flecken und Abdrücke." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title"
-        content="Probleme, Nachteile und Unannehmlichkeiten von schlecht verarbeitetem Mikrozement" />
+    <meta property="og:title" content="Tricks zur Vermeidung von Flecken und Abdrücken auf Mikrozement" />
     <meta property="og:description"
-        content="Verarbeitungsfehler bei Mikrozementböden und -wänden. Flecken und Markierungen. Lösung für Mikrozement-Probleme" />
+        content="Kennen Sie die Hauptfehler einer schlechten Anwendung von Mikrozement auf Böden und Wänden. Unsere Experten bieten Lösungen für die Hauptprobleme: Flecken und Abdrücke." />
     <meta property="og:url"
         content="https://www.topciment.com/de/mikrozement/wie-zu-vermeiden-flecken-auf-dem-tisch-auftragen-microcemento" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Anwendungsfehler in Mikrozementböden und -wänden. Flecken und Markierungen. Lösung für die Probleme von Mikrozement" />
-    <meta name="twitter:title" content="Problemas, desventajas e inconvenientes del microcemento mal aplicado" />
+        content="Kennen Sie die Hauptfehler einer schlechten Anwendung von Mikrozement auf Böden und Wänden. Unsere Experten bieten Lösungen für die Hauptprobleme: Flecken und Abdrücke." />
+    <meta name="twitter:title" content="Tricks zur Vermeidung von Flecken und Abdrücken auf Mikrozement" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -76,94 +75,129 @@
 
             <div class="container">
                 <div class="content">
-                    <h3 style="text-align:left;">Gründe, die zu Flecken im Mikrozement führen und Lösungen für Flecken.
-                        Prozesse zur Vermeidung möglicher Imperfektionen. </h3>
-                    <div id="textHalfLeft">
-                        <h2>Markierung von Fliesenfugen</h2>
-                        <p>Einige Punkte müssen beachtet werden, um die Markierung von Fliesenfugen zu vermeiden:<br>
-                        </p>
-                        <ul class="marginLeft50px">
-                            <li>Wir müssen auf den Unterschied der Absorption zwischen Fliesen und Fugen achten: das im
-                                Mikrozement enthaltene Harz wird unterschiedlich absorbiert, wenn keine Vorkehrungen
-                                getroffen werden, besteht die Gefahr, dass sie beim Trocknen in Form eines visuellen
-                                Spektrums erscheinen (visuelles Muster). Auch Feuchtigkeit in den Fugen verursacht
-                                diesen Fehler.<br> </li>
-                            <li>Die Fugen sind in der Regel hohl, sie liegen nicht auf einer Ebene mit der Fliese, der
-                                Rückzug der <a href="../mikrozemente">Mikrozement</a> erzeugt nach dem Trocknen ein
-                                Relief im Fugenbereich (Reliefmuster)</li>
-                        </ul>
-                        <p>Deshalb schaffen wir mit unserem <a href="../mikrozement/produkte">System</a> eine Schicht,
-                            die isoliert und nivelliert. Aus diesem Grund ist es sehr wichtig, dass nach dem Füllen der
-                            Fugen eine Trocknungszeit von 24 Stunden eingehalten wird, bevor mit dem Auftragen der
-                            Microbase begonnen wird</p>
-                        <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg"
-                            width="100%" alt="marcas de las juntas de los azulejos por humedad"
-                            title="marcas de las juntas de los azulejos por humedad">
-                    </div>
-                    <div id="mitadTextoDerecha" >
-                        <h2>Kellenabdrücke, Hervorhebung von Unregelmäßigkeiten der vorherigen Schicht</h2>
-                        <p>Wir müssen den Mikrozement auftragen, ohne Grate oder Reliefs zu hinterlassen, die den
-                            Durchgang der Kelle zeigen, und diese Unvollkommenheiten in jeder Schicht abschleifen. Wenn
-                            wir über eine Schicht mit Graten auftragen, werden diese Reliefs kopiert. </p>
-                        <p>Mit der Stahlkelle und einem Übermaß an Druck verursachen diese Unregelmäßigkeiten den Effekt
-                            &quot;verbrannte" dunkle Flecken, die den Mangel an Schleifen der unteren Schicht
-                            widerspiegeln.</p>
-                        <p>&nbsp;</p>
-                        <h2>Schleifen von Unregelmäßigkeiten</h2>
-                        <p>Wir müssen den Mikrozement nach jeder Schicht schleifen, um den im vorherigen Abschnitt
-                            beschriebenen Effekt zu vermeiden. </p>
-                        <p>Wir führen ein sanftes Aufrauen mit einem <a href="../neuigkeit/festool">Rotations-Schleifer</a>
-                            mit niedriger Drehzahl oder mit Hilfe eines Schleifhandschuhs und
-                            Siliziumkarbid-Schleifpapier durch. </p>
-                        <p>Zirka 3 Stunden nach dem Auftragen wird eine Veränderung im Ton des Mikrozements heller, dies
-                            zeigt an, dass der Mikrozement begehbar und hart genug ist, um mit dem Schleifen
-                            fortzufahren, Temperatur, Luftfeuchtigkeit und Belüftung des Raumes beeinflussen diese
-                            Zeitspanne.</p>
-                        <p>Wir empfehlen, vor 12 Stunden nach dem Auftragen zu schleifen, damit die Beschichtung keine
-                            übermäßige Härte erreicht hat und dieser Schritt komplizierter ist.</p>
-                        <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg" width="100%"
-                            alt="marca de quemado de llana" title="marca de quemado de llana">
-                        <p>&nbsp;</p>
-                    </div>
+                    <h2>Abdrücke auf Fliesenfugen beim Anwenden von Mikrozement</h2>
+                    <p>
+                        Möchten Sie Mikrozement auf Fliesen auftragen? Dies sind die drei Punkte, die Sie beachten
+                        müssen, um eine Markierung der Fliesenfugen zu vermeiden.
+
+                    </p>
+                    <h3>1. Achten Sie auf den Unterschied in der Absorption zwischen Fliesen und Fugen</h3>
+                    <p>
+                        Das im Mikrozement enthaltene Harz wird unterschiedlich absorbiert. Wenn keine Vorkehrungen
+                        getroffen werden, besteht die Gefahr, dass sie beim Trocknen in Form eines visuellen Spektrums
+                        erscheinen (visuelles Muster). Auch Feuchtigkeit in den Fugen verursacht diesen Defekt.
+
+                    </p>
+                    <figure class="figure mt-4">
+                        <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg" class="figure-img img-fluid "
+                         title="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit" alt="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit" width="auto" height="auto">
+                        <figcaption class="figure-caption">Mikrozementboden, auf dem die Fliesenfugen aufgrund von Feuchtigkeit markiert sind.</figcaption>
+                    </figure>
+                    <h3>2. Fliesenfugen sind in der Regel hohl </h3>
+                    <p>
+                        Die Fugen sind in der Regel hohl, sie liegen nicht in der gleichen Ebene wie die Fliese.
+                        Außerdem entsteht durch die Schrumpfung von Microcemento nach dem Trocknen ein Relief im
+                        Fugenbereich (Reliefmuster). Aus all diesen Gründen schaffen wir mit unseren Mikrozementsystemen
+                        eine Schicht, die isoliert und nivelliert.
+
+                    </p>
+                    <h3>3. Vor dem Auftragen von Mikrozement 24 Stunden trocknen lassen</h3>
+                    <p>
+                        Es ist sehr wichtig, dass nach dem Füllen der Fliesenfugen eine Trocknungszeit von 24 Stunden
+                        eingehalten wird, bevor mit dem Auftragen der Mikrozementbasis begonnen wird.
+
+                    </p>
+                    <figure class="figure mt-4">
+                        <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg" class="figure-img img-fluid " 
+                        title="Kellenbrandspur" alt="Kellenbrandspur" width="auto" height="auto">
+                        <figcaption class="figure-caption">Mikrozementboden mit der Brandspur des Spachtels.</figcaption>
+                    </figure>
+                    <h2>Spachtelspuren auf dem Mikrozement</h2>
+
+                    <p>
+                        Wir müssen den Mikrozement auftragen, ohne Grate oder Reliefs zu hinterlassen, die den Durchgang
+                        des Spachtels zeigen, und diese Unvollkommenheiten in jeder Schicht abschleifen. Wenn wir
+                        Mikrozement auf eine Schicht mit Graten auftragen, werden diese Reliefs kopiert.
+
+                    </p>
+                    <p>
+                        Mit der Stahlkelle und übermäßigem Druck verursachen diese Unvollkommenheiten den "verbrannten"
+                        Effekt, dunkle Flecken, die das mangelnde Schleifen der unteren Schicht des Mikrozements
+                        widerspiegeln.
+
+                    </p>
+                    <h2>Unregelmäßigkeiten auf Mikrozementoberflächen</h2>
+
+                    <p>
+                        Nach dem Auftragen jeder Schicht Mikrozement muss die Oberfläche geschliffen werden. Dies ist
+                        ein wesentlicher Schritt, um den im vorherigen Abschnitt beschriebenen Effekt zu vermeiden. Wir
+                        führen ein sanftes Aufrauen mit einem Rotationsschleifer mit niedriger Drehzahl oder mit einem
+                        Schleifhandschuh und Siliziumkarbid-Schleifpapier durch.
+
+                    </p>
+                    <p>
+                        Ungefähr 3 Stunden nach dem Auftragen des geglätteten Mikrozements ist eine Veränderung des
+                        Farbtons der Beschichtung zu erkennen, die heller wird. Diese Veränderung des Farbtons zeigt an,
+                        dass der Mikrozement begehbar und hart genug ist, um geschliffen zu werden. Es ist zu beachten,
+                        dass die Temperatur, die Luftfeuchtigkeit und die Belüftung des Raumes diese Zeitspanne
+                        beeinflussen.
+
+                    </p>
+                    <p>
+                        Wir empfehlen, vor 12 Stunden nach dem Auftragen des Mikrozements zu schleifen, damit die
+                        Beschichtung nicht eine zu große Härte erreicht hat und dieser Schritt komplizierter ist.
+
+                    </p>
+                    <h2>Mikrozementflecken durch Überschleifen</h2>
+                    <p>
+                        Beim Schleifen der letzten Schicht Microcemento müssen wir darauf achten, dass wir das Material
+                        gleichmäßig bearbeiten. Mit der einen Hand nehmen wir den Schleifer oder den Schleifhandschuh
+                        und mit der anderen Hand prüfen wir mit dem Tastsinn, ob der Schliff korrekt ist. Wenn wir die
+                        Oberfläche richtig bearbeiten, werden wir drei Arten von charakteristischen Flecken vermeiden:
+                        Kreise, Konturlinien und schwarze Flecken.
+
+                    </p>
+                    <p>
+                        Der Schleifer muss vom Typ Exzenter sein, um keine Kreise zu hinterlassen. Wir werden versuchen,
+                        ihn in ständiger Bewegung zu halten, ohne dass er längere Zeit an der gleichen Stelle einwirkt.
+                        Bei übermäßigem Schleifen würden wir am Ende das geglättete Mikrozement der vorherigen Schicht
+                        sehen und einige charakteristische "Höhenlinien" hinterlassen, die darauf hinweisen würden, dass
+                        wir zur unteren Schicht übergegangen sind. Sobald das Schleifpapier abgenutzt ist, müssen wir es
+                        wechseln. Wenn wir den Wechsel nicht vornehmen, geht das Schleifpapier vom Schleifen zum
+                        Polieren über und hinterlässt schwarze Spuren auf dem Mikrozement.
+
+                    </p>
+                    <h2>Mikrozementflecken durch übermäßiges Polieren</h2>
+                    <p>
+                        Wenn die Oberfläche des Mikrozements nicht Ihren Vorstellungen entspricht, ist es am besten,
+                        eine zusätzliche Schicht geglätteten Mikrozements aufzutragen. Das Ausbessern der bereits
+                        trockenen Oberfläche hinterlässt auffällige Spuren, die nicht sehr ästhetisch sind.
+
+                    </p>
+                    <p>
+                        Übermäßiges Spachteln hinterlässt dunkle Flecken. Dies kann z. B. passieren, wenn sich am Ende
+                        der Applikationsstrecke Material auf Böden ansammelt und uns zwingt, den überschüssigen
+                        geglätteten Mikrozement aufzunehmen und mit der Kelle zu überarbeiten.
+
+                    </p>
+                    <p>
+                        Wenn Sie einen Bereich zu stark bearbeiten, zwingen Sie ihn zum Trocknen. Dieses Problem
+                        spiegelt sich in der Aufhellung der Fläche wider. Zum Beispiel: Eine schwarze Wand könnte viel
+                        hellere graue Flecken haben als die gewählte Mikrozementfarbe.
+
+                    </p>
+                    <p>
+                        Wenn der Verarbeiter zu sehr über die gesamte Fläche geht oder zu stark drückt, kann die
+                        geglättete Mikrozementunterlage eine hellere Farbe haben. Es ist sehr typisch, eine schwarze
+                        Wand zu sehen, die grau aussieht.
+
+                    </p> 
                 </div>
             </div>
 
         </div>
     </div>
 
-
-    <div id="separador50px"></div>
-
-    <section id="mantenimiento">
-        <div class="container">
-            <div id="columnaSeparadoraIzquierda">&nbsp;</div>
-            <div id="mitadTextoIzquierda">
-                <h2>Manchas del exceso de lijado</h2>
-                <p> Cuando efectuemos el lijado de la última mano de microcemento debemos asegurarnos de trabajar
-                    suavemente, con 1 Schichtcogeremos la lijadora o el guante de lijado y con la otra iremos
-                    comprobando con el tacto si el lijado es correcto. Si trabajamos adecuadamente evitaremos tres tipos
-                    de manchas características: círculos, curvas de nivel y marcas negras.</p>
-                <p> La lijadora tendrá que ser del tipo roto-orbital para evitar dejar <strong>círculos</strong>.
-                    Procuraremos mantenerla en movimiento de forma constante sin incidir de forma prolongada en el mismo
-                    sitio. Si el lijado fuese excesivo acabaríamos viendo el microcemento de la anterior mano y dejando
-                    unas &quot;<strong>curvas de nivel</strong>&quot; características que indicarían que hemos pasado a
-                    la capa inferior. En cuanto la lija se desgaste tendremos que cambiarla, si no realizamos el cambio,
-                    la lija pasa de lijar a pulir dejando <strong>marcas negras</strong> en el microcemento. </p>
-            </div>
-            <div id="mitadTextoDerecha" >
-                <h2>Exceso de bruñido en el microcemento</h2>
-                <p> Los retoques cuando ya empieza a secar el microcemento dejarán marcas evidentes y poco estéticas, lo
-                    más adecuado cuando el acabado no es el deseado es volver a aplicar 1 Schichtadicional.</p>
-                <p> Repasar en exceso una zona con la llana dejará marcas oscuras. Esto puede ocurrir por ejemplo,
-                    cuando se acumule material en suelos al final del recorrido de la aplicación obligándonos a recoger
-                    el microcemento sobrante y a trabajarlo de más con la llana.</p>
-                <p> Si repasas en exceso una zona lo que haces es forzar el secado. Este problema se refleja en el
-                    blanqueamiento de la zona. Por ejemplo: Una pared negra podría tener manchas grises mucho más claras
-                    que el color elegido. </p>
-                <p> Si el aplicador repasa mucho toda la superficie o aprieta demasiado la superficie puede quedar de un
-                    color más claro. Es muy típico ver una pared negra que parece gris. </p>
-            </div>
-        </div>
         <div id="separador50px">
         </div>
 

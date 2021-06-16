@@ -15,18 +15,18 @@
      <link rel="preload" href="../assets/css/profesionales.css" as="style"/>
      <link rel="stylesheet" href="../assets/css/profesionales.css"/>
 
-     <title>Service pour professionnels du béton ciré | Topciment </title>
-     <meta name="description" content="Chez Topciment, nous aidons les professionnels du béton ciré. Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
+     <title>Service pour professionnels du béton ciré  | Topciment </title>
+     <meta name="description" content="Chez Topciment, nous aidons les professionnels du béton ciré . Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
 
      <meta property="og:locale" content="fr_FR"/>
      <meta property="og:type" content="website"/>
-     <meta property="og:title" content="Service pour professionnels du béton ciré | Topciment "/>
-     <meta property="og:description" content="Chez Topciment, nous aidons les professionnels du béton ciré. Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
+     <meta property="og:title" content="Service pour professionnels du béton ciré  | Topciment "/>
+     <meta property="og:description" content="Chez Topciment, nous aidons les professionnels du béton ciré . Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
      <meta property="og:url" content="https://www.topciment.com/fr/professionnels"/>
      <meta property="og:site_name" content="Topciment"/>
      <meta name="twitter:card" content="summary"/>
-     <meta name="twitter:description" content="Chez Topciment, nous aidons les professionnels du béton ciré. Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
-     <meta name="twitter:title" content="Service pour professionnels du béton ciré | Topciment "/>
+     <meta name="twitter:description" content="Chez Topciment, nous aidons les professionnels du béton ciré . Découvrez nos services pour les professionnels et dites-nous comment nous pouvons vous aider."/>
+     <meta name="twitter:title" content="Service pour professionnels du béton ciré  | Topciment "/>
      <meta name="twitter:site" content="@topciment"/>
      <meta name="twitter:creator" content="@topciment"/>
      <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -35,12 +35,6 @@
      <link rel="canonical" href="https://www.topciment.com/fr/professionnels"/>
      <link rel="alternate" href="https://www.topciment.com/es/profesionales" hreflang="es-ES"/>
      <link rel="alternate" href="https://www.topciment.com/en/professionals" hreflang="en-GB"/>
-     
-     <link rel="alternate" href="https://www.topciment.com/it/professionisti.html" hreflang="it-IT"/>
-     <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman.html" hreflang="nl-NL"/>
-     <link rel="alternate" href="https://www.topciment.com/gr/gr-professionals.html" hreflang="el-GR"/>
-     <link rel="alternate" href="https://www.topciment.ru/professionali.html" hreflang="ru-RU"/>
-     <link rel="alternate" href="https://www.topciment.cn/polished-plaster-professionals.html" hreflang="zh-CN"/>
 
      <?php include("../assets/includes/root-scripts-head.php"); ?>
  </head>
@@ -65,9 +59,9 @@
                                  <!--<li><a href="#profesionales-microcemento">Profesionales de Microcemento</a></li> -->
                                  <li><a href="#que-ofrecemos">Que proposons-nous?</a></li>
                                  <li><a href="contact">Service technique</a></li>
-                                 <li><a href="beton-cire/cours-application-beton-cire">Cours de béton ciré</a></li>
-                                 <li> <a href="distributeurs">Distributeurs de béton ciré</a></li>
-                                 <li> <a href="beton-cire/methode-application-beton-cire">Méthodes d'application</a>
+                                 <li><a href="beton-cire/cours-application-beton-cire">Cours de béton ciré </a></li>
+                                 <li> <a href="distributeurs">Distributeurs de béton ciré </a></li>
+                                 <li> <a href="beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape">Méthodes d'application</a>
                                  </li>
                                  <li> <a href="calc/index">Calculatrice de matériel</a></li>
                                  <li> <a href="fiches-technique">Fiches techniques </a></li>
@@ -88,7 +82,7 @@
                                  services à forte valeur
                                  ajoutée.
                              </p>
-                             <p>Dans notre engagement envers les professionnels du béton ciré nous ne fabriquons pas
+                             <p>Dans notre engagement envers les professionnels du béton ciré  nous ne fabriquons pas
                                  seulement les
                                  meilleurs revêtements décoratifs possibles pour eux et leurs clients.
                                  Nous mettons à votre disposition un recueil de services afin de vous aider à prospérer
@@ -114,14 +108,14 @@
                                          que le professionnel
                                          pourrait avoir sur les produits Topciment ou sur l'application, l'entretien et
                                          la maintenance du
-                                         béton ciré.
+                                         béton ciré .
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="contact">
                                              <strong>Contactez un technicien</strong></a></p>
                                  </div>
                                  <div class="col-md-12">
                                      <a id="cursos" class="ancla"></a>
-                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/cursos.png" class="img-fluid "> <a class="" href="beton-cire/cours-application-beton-cire"> Cours de béton ciré</a>
+                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/cursos.png" class="img-fluid "> <a class="" href="beton-cire/cours-application-beton-cire"> Cours de béton ciré </a>
                                      </h2>
                                      <p>
                                          Afin de garantir le meilleur résultat possible dans l'application de nos
@@ -130,7 +124,7 @@
                                          formations aux professionnels de chaque niveau. Dans les cours Topciment, les
                                          instructeurs
                                          enseignent, entre autres,
-                                         l'application du béton ciré , des vernis, des peintures métalliques ou des
+                                         l'application du béton ciré  , des vernis, des peintures métalliques ou des
                                          techniques et textures
                                          avancées.
 
@@ -149,7 +143,7 @@
                                  <div class="col-md-12">
                                      <a id="distribuidores" class="ancla"></a>
                                      <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/distribuidor.png" class="img-fluid ">
-                                         <a class="" href="distributeurs"> Distributeurs de béton ciré</a>
+                                         <a class="" href="distributeurs"> Distributeurs de béton ciré </a>
                                      </h2>
 
                                      <p>
@@ -163,25 +157,25 @@
                                  </div>
                                  <div class="col-md-12">
                                      <a id="metodos" class="ancla"></a>
-                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="beton-cire/methode-application-beton-cire"> Méthodes d'application de béton ciré</a>
+                                     <h2 class="card-header"> <img src="https://www.topciment.com/imagenes/iconos/aplicacion.png" class="img-fluid "> <a class="" href="beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"> Méthodes d'application de béton ciré </a>
                                      </h2>
                                      <p>
-                                         Des recommandations, trucs et astuces pour l'application du béton ciré se trouvent dans cette
+                                         Des recommandations, trucs et astuces pour l'application du béton ciré  se trouvent dans cette
                                          section.
                                      </p>
-                                     <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="beton-cire/methode-application-beton-cire"><strong>Connaître les méthodes
+                                     <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"><strong>Connaître les méthodes
                                                  d'application</strong></a></p>
                                  </div>
                                  <div class="col-md-12">
                                      <a id="calculadora" style="display: block;height: 20px;margin-top: -20px;visibility: hidden;"></a>
-                                     <h2 class="en4 card-header"> <img src="https://www.topciment.com/imagenes/iconos/calculadora.png" class="img-fluid "> <a class="" href="calc/">Calculatrice de matériel béton ciré</a>
+                                     <h2 class="en4 card-header"> <img src="https://www.topciment.com/imagenes/iconos/calculadora.png" class="img-fluid "> <a class="" href="calc/">Calculatrice de matériel béton ciré </a>
                                      </h2>
                                      <p>
                                          Bien que notre service technique se charge de faire des budgets individualisés, nous disposons d'un
                                          calculateur de
-                                         matériaux qui estime la quantité de béton ciré nécessaire pour recouvrir les sols, les murs et les
+                                         matériaux qui estime la quantité de béton ciré  nécessaire pour recouvrir les sols, les murs et les
                                          extérieurs en
-                                         fonction du type de surface, de sa superficie en pieds carrés et de la couleur de béton ciré
+                                         fonction du type de surface, de sa superficie en pieds carrés et de la couleur de béton ciré 
                                          choisie.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="calc/">
@@ -195,7 +189,7 @@
                                      <p>
                                          Nous fournissons les spécifications techniques de tous nos produits. Ainsi, les professionnels
                                          peuvent opter pour le
-                                         système de béton ciré qui correspond le mieux à leurs besoins personnels.
+                                         système de béton ciré  qui correspond le mieux à leurs besoins personnels.
                                      </p>
                                      <p> <i class="fa fa-arrow-circle-right"></i> <a class="links" href="fiches-technique"> <strong>Voir les fiches
                                                  techniques</strong></a></p>

@@ -19,14 +19,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Béton ciré bicomposant traditionnel | Sttandard  </title>
-    <meta name="description" content="Le béton ciré Sttandard est notre béton ciré traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques."/>
+    <title>béton ciré  bicomposant traditionnel | Sttandard  </title>
+    <meta name="description" content="Le béton ciré  Sttandard est notre béton ciré  traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques."/>
 
 
-    <meta property="og:title" content="Béton ciré bicomposant traditionnel | Sttandard  ">
+    <meta property="og:title" content="béton ciré  bicomposant traditionnel | Sttandard  ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard">
-    <meta property="og:description" content="Le béton ciré Sttandard est notre béton ciré traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques.">
+    <meta property="og:description" content="Le béton ciré  Sttandard est notre béton ciré  traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques.">
     <meta property="og:type" content="article">
 
 
@@ -77,16 +77,16 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>Béton ciré bicomposant traditionnel Sttandard </h1>
+                <h1>béton ciré  bicomposant traditionnel Sttandard </h1>
                 <div class="text-justify">
                     <p>
 
-                        Sttandard est la gamme de béton ciré bicomposants ( ciment et résine ) de
+                        Sttandard est la gamme de béton ciré  bicomposants ( ciment et résine ) de
                         Topciment.
                     </p>
-                    <p>Le béton ciré Sttandard est idéal pour les artisans applicateurs qui ont pour
+                    <p>Le béton ciré  Sttandard est idéal pour les artisans applicateurs qui ont pour
                         objectif de créer des textures avec son propre caractère.
-                        Le béton ciré Sttandard vous permet de jouer avec ses propres mélanges et resortir
+                        Le béton ciré  Sttandard vous permet de jouer avec ses propres mélanges et resortir
                         ainsi , le meilleur de chaque produit.</p>
                     <p>Votre choix est synonyme de succès. Et sa robusté et polyvalence rend possible son
                         application sur d'infinies superficies,
@@ -128,12 +128,12 @@
                         <div class="col-md-6">
                             <p>
 
-                            <p>Sttandard Microbase est le béton ciré de préparation. Il est utiliser toujours avant
+                            <p>Sttandard Microbase est le béton ciré  de préparation. Il est utiliser toujours avant
                                 l'application de Sttandard Microfino, Sttandard Microdeck,
                                 et Sttandard Microstone.
                             </p>
                             </p>
-                            <p>Sa finition rustique permet d'ètre utiliser comme béton ciré de finition.</p>
+                            <p>Sa finition rustique permet d'ètre utiliser comme béton ciré  de finition.</p>
                             <p>Sttandard Microbase est disponible en 3 granulométrie: L, XL, XXL</p>
                             <p>Sa variété de produit permet au marché d'avoir un ample échantillon de solutions
                                 décoratives.</p>
@@ -256,7 +256,7 @@
                         <div class="col-md-6">
                             <p>
 
-                            <p> Sttandard Microfino est le béton ciré de finition le plus adéquate pour les murs. </p> Il
+                            <p> Sttandard Microfino est le béton ciré  de finition le plus adéquate pour les murs. </p> Il
                             est conçus pour des superficies verticales et de non transit.
                             </p>
                             <p>Une fois appliquer , il offreune finition soyeux et douceau toucher.En plus , sa capacité
@@ -379,14 +379,14 @@
                         <div class="col-md-6">
                             <p>
 
-                            <p>Sttandard Microdeck est un béton ciré de finition indiqué, spécialement , pour les
+                            <p>Sttandard Microdeck est un béton ciré  de finition indiqué, spécialement , pour les
                                 revêtements de sols intérieurs.</p> Son application se réalise en escaliers,
                             receveurs de douches, murs, lavabos,et plan de travail.
                             </p>
                             <p>L'aspect que donne Sttandard Microdeck aux chambres est très naturel et élégant. Sa
                                 texture est de grain Moyen.
                                 Pour cela , l'effet brulé dans la finition est moindre que pour Sttandard Microfino.
-                                Esthétiquement il ressemble au ciment poli, mais avec touts les avantages du béton ciré.
+                                Esthétiquement il ressemble au ciment poli, mais avec touts les avantages du béton ciré .
                             </p>
                             <p>Sttandard Microdeck est disponible en 3 granulométrie: M, L et XL.</p>
                             <a class="links" href="../fiches-techniques/MicrodeckBI-FR.pdf" target="_blank"><span class="fa-stack">
@@ -501,7 +501,7 @@
                         <div class="col-md-6">
                             <p>
 
-                            <p>Sttandard Microstone est un béton ciré de finition. A la diférence de Sttandard Microbase ,
+                            <p>Sttandard Microstone est un béton ciré  de finition. A la diférence de Sttandard Microbase ,
                                 il possède une finition esthétique beaucoup plus élaboré et défini. </p> Its
                             uniform colour et stony
                             Sa couleur uniforme et son aspect pierreux, permettent de créer
@@ -1047,8 +1047,8 @@
 {
   "@context": "https://schema.org",
   "@type": "ProductGroup",
- "name": "Microciment bicomposant Sttandard Microbase",  
-  "description": "Préparation bicomposante à base de microciment utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
+ "name": "béton ciré bicomposant Sttandard Microbase",  
+  "description": "Préparation bicomposante à base de béton ciré utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
   "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
   "brand": {
     "@type": "Organization",
@@ -1120,8 +1120,8 @@
   "hasVariant": [
   {
     "@type": "Product",
-     "name": "Microciment bicomposant Sttandard Microbase L",
-	  "description": "Préparation bicomposante à base de microciment utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
+     "name": "béton ciré bicomposant Sttandard Microbase L",
+	  "description": "Préparation bicomposante à base de béton ciré utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
 	"url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microbase",
 	"sku": "TT01001",
@@ -1193,8 +1193,8 @@
   },
   {
     "@type": "Product",
-	    "name": "Microciment bicomposant Sttandard Microbase XL",
-	  "description": "Préparation bicomposante à base de microciment utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
+	    "name": "béton ciré bicomposant Sttandard Microbase XL",
+	  "description": "Préparation bicomposante à base de béton ciré utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XL.jpg",
 	"url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microbase",
 	"sku": "TT01017",  
@@ -1266,8 +1266,8 @@
   },
   {
     "@type": "Product",
- "name": "Microciment bicomposant Sttandard Microbase XXL",
-	  "description": "Préparation bicomposante à base de microciment utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
+ "name": "béton ciré bicomposant Sttandard Microbase XXL",
+	  "description": "Préparation bicomposante à base de béton ciré utilisée pour les revêtements continus à faible épaisseur sur les sols et les murs.",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XXL.jpg",
 	"url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microbase",
 	"sku": "TT01018",
@@ -1343,8 +1343,8 @@
 <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment bi-composant Sttandard Microdeck",
-    "description": "Microciment à deux composants pour la finition des revêtements de sol intérieurs",
+    "name": "béton ciré bi-composant Sttandard Microdeck",
+    "description": "béton ciré à deux composants pour la finition des revêtements de sol intérieurs",
     "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
     "brand": {
       "@type": "Organization",
@@ -1421,8 +1421,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment bi-composant Sttandard Microdeck M",
-        "description": "Microciment à deux composants pour la finition des revêtements de sol intérieurs",
+        "name": "béton ciré bi-composant Sttandard Microdeck M",
+        "description": "béton ciré à deux composants pour la finition des revêtements de sol intérieurs",
         "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microdeck",
@@ -1498,8 +1498,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment bi-composant Sttandard Microdeck L",
-        "description": "Microciment à deux composants pour la finition des revêtements de sol intérieurs",
+        "name": "béton ciré bi-composant Sttandard Microdeck L",
+        "description": "béton ciré à deux composants pour la finition des revêtements de sol intérieurs",
         "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_L.jpg",
         "size": "L",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microdeck",
@@ -1580,8 +1580,8 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment bicomposant Sttandard Microfino",
-    "description": "Finition microciment à deux composants pour murs et surfaces verticales non praticables.",
+    "name": "béton ciré bicomposant Sttandard Microfino",
+    "description": "Finition béton ciré à deux composants pour murs et surfaces verticales non praticables.",
     "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
     "brand": {
       "@type": "Organization",
@@ -1657,8 +1657,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment bicomposant Sttandard Microfino XS",
-        "description": "Finition microciment à deux composants pour murs et surfaces verticales non praticables.",
+        "name": "béton ciré bicomposant Sttandard Microfino XS",
+        "description": "Finition béton ciré à deux composants pour murs et surfaces verticales non praticables.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
         "size": "XS",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microfino",
@@ -1734,8 +1734,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment bicomposant Sttandard Microfino S",
-        "description": "Finition microciment à deux composants pour murs et surfaces verticales non praticables.",
+        "name": "béton ciré bicomposant Sttandard Microfino S",
+        "description": "Finition béton ciré à deux composants pour murs et surfaces verticales non praticables.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_S.jpg",
         "size": "S",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microfino",
@@ -1812,8 +1812,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment bicomposant Sttandard Microfino M",
-        "description": "Finition microciment à deux composants pour murs et surfaces verticales non praticables.",
+        "name": "béton ciré bicomposant Sttandard Microfino M",
+        "description": "Finition béton ciré à deux composants pour murs et surfaces verticales non praticables.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microfino",
@@ -1892,8 +1892,8 @@
   <script type = "application/ld+json"> {
     "@context": "https://schema.org",
     "@type": "ProductGroup",
-    "name": "Microciment à deux composants Sttandard Microstone",
-    "description": "Finition en microciment bicomposant pour les espaces extérieurs",
+    "name": "béton ciré à deux composants Sttandard Microstone",
+    "description": "Finition en béton ciré bicomposant pour les espaces extérieurs",
     "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
     "brand": {
       "@type": "Organization",
@@ -1970,8 +1970,8 @@
     },
     "hasVariant": [{
         "@type": "Product",
-        "name": "Microciment à deux composants Sttandard Microstone L",
-        "description": "Finition en microciment bicomposant pour les espaces extérieurs",
+        "name": "béton ciré à deux composants Sttandard Microstone L",
+        "description": "Finition en béton ciré bicomposant pour les espaces extérieurs",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
         "size": "L",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microstone",
@@ -2047,8 +2047,8 @@
       },
       {
         "@type": "Product",
-        "name": "Microciment à deux composants Sttandard Microstone XL",
-        "description": "Finition en microciment bicomposant pour les espaces extérieurs",
+        "name": "béton ciré à deux composants Sttandard Microstone XL",
+        "description": "Finition en béton ciré bicomposant pour les espaces extérieurs",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
         "size": "XL",
         "url": "https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard#sttandard-microstone",

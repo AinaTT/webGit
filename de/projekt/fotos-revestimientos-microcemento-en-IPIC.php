@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css"/>
 
 
-    <title>Mikrozementwandverkleidung auf der C Lazy U Ranch</title> <meta name="description" content="Fotos der Topciment Mikrozementwandverkleidung auf der C Lazy U Ranch in Colorado"/> <meta property="og:locale" content="en_US"/> <meta property="og: type" content="website"/> <meta property="og:title" content="Microcement Siding at C Lazy U Ranch"/> <meta property="og:description" content="Fotos von Topciment Microcement Wall Siding at C Lazy U Ranch in Colorado"/> <meta property="og:url" content="https://www. topciment. com/de/project/photos-microcement-siding-in-IPIC"/> <meta property="og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter: description" content="Fotos von Topciment Mikrozementwandverkleidungen auf der C Lazy U Ranch in Colorado"/> <meta name="twitter:title" content="Mikrozementwandverkleidungen auf der C Lazy U Ranch"/> <meta name="twitter:title" content="Topciment Mikrozementwandverkleidungen auf der C Lazy U Ranch"/>
+    <title>mikrozement wandverkleidung auf der C Lazy U Ranch</title> <meta name="description" content="Fotos der Topciment mikrozement wandverkleidung auf der C Lazy U Ranch in Colorado"/> <meta property="og:locale" content="en_US"/> <meta property="og: type" content="website"/> <meta property="og:title" content="Microcement Siding at C Lazy U Ranch"/> <meta property="og:description" content="Fotos von Topciment Microcement Wall Siding at C Lazy U Ranch in Colorado"/> <meta property="og:url" content="https://www. topciment. com/de/project/photos-microcement-siding-in-IPIC"/> <meta property="og:site_name" content="Topciment"/> <meta name="twitter:card" content="summary"/> <meta name="twitter: description" content="Fotos von Topciment mikrozement wandverkleidungen auf der C Lazy U Ranch in Colorado"/> <meta name="twitter:title" content="mikrozement wandverkleidungen auf der C Lazy U Ranch"/> <meta name="twitter:title" content="Topciment mikrozement wandverkleidungen auf der C Lazy U Ranch"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -26,9 +26,7 @@
  <link rel="alternate" href="https://www.topciment.com/de/projekt/fotos-revestimientos-microcemento-en-IPIC" hreflang="de-DE"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-sardinera" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/fr/projet-sardinera" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html" hreflang="zh-CN"/>
-
-
+  
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -57,7 +55,7 @@
                 </ul>
             </div>
             <div class="content">
-                <p id="suelosDeMicrocementogalerieH1" class="wow fadeInLeft" style="width:100%">IPIC Movie Theater</p> <h2 id="galeriaH2" class="wow fadeInLeft justified">Miami, USA <br></h2>Topciment im IPIC Movie Theater, Miami, USA. Bei dieser Gelegenheit wurde Topciment schieferfarbener Mikrozement als Wand- und Deckenverkleidung gewählt.
+                <p id="suelosDeMicrocementogalerieH1" class="wow fadeInLeft" style="width:100%">IPIC Movie Theater</p> <h2 id="galeriaH2" class="wow fadeInLeft justified">Miami, USA <br></h2>Topciment im IPIC Movie Theater, Miami, USA. Bei dieser Gelegenheit wurde Topciment schieferfarbener mikrozement  als Wand- und Deckenverkleidung gewählt.
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
                     <img data-action="zoom" src="https://www.topciment.us/img/IPIC/Topciment-microcement-wall-application-at-IPIC-Movie-Theater-01.jpg" width="100%">
                 </div>

@@ -16,17 +16,17 @@
   <link rel="stylesheet" href="../assets/css/microcemento.css"/>
   <!-- ********** END NEW LINKS ********** -->
 
-  <title>Qu'est-ce que le béton ciré ? Utilisations, application, types, couleurs et avantages. </title>
-  <meta name="description" content="Apprenez tout sur le béton ciré, le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
+  <title>Qu'est-ce que le béton ciré  ? Utilisations, application, types, couleurs et avantages. </title>
+  <meta name="description" content="Apprenez tout sur le béton ciré , le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
   <meta property="og:locale" content="fr_FR"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:title" content="Qu'est-ce que le béton ciré ? Utilisations, application, types, couleurs et avantages. "/>
-  <meta property="og:description" content="Apprenez tout sur le béton ciré, le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
+  <meta property="og:title" content="Qu'est-ce que le béton ciré  ? Utilisations, application, types, couleurs et avantages. "/>
+  <meta property="og:description" content="Apprenez tout sur le béton ciré , le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
   <meta property="og:url" content="https://www.topciment.com/fr/information-beton-cire"/>
   <meta property="og:site_name" content="Topciment"/>
   <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:description" content="Apprenez tout sur le béton ciré, le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
-  <meta name="twitter:title" content="Qu'est-ce que le béton ciré ? Utilisations, application, types, couleurs et avantages. "/>
+  <meta name="twitter:description" content="Apprenez tout sur le béton ciré , le revêtement décoratif du moment: ce que c'est, les types, les endroits où il peut être appliqué, les avantages et les couleurs."/>
+  <meta name="twitter:title" content="Qu'est-ce que le béton ciré  ? Utilisations, application, types, couleurs et avantages. "/>
   <meta name="twitter:site" content="@topciment"/>
   <meta name="twitter:creator" content="@topciment"/>
   <meta property="article:publisher" content="https://www.facebook.com/topciment.beton-cire/"/>
@@ -36,12 +36,6 @@
   <link rel="alternate" href="https://www.topciment.com/fr/information-beton-cire" hreflang="fr-FR"/>
   <link rel="alternate" href="https://www.topciment.com/es/microcementos" hreflang="es-ES"/>
   <link rel="alternate" href="https://www.topciment.com/en/microcement" hreflang="en"/>
-  <link rel="alternate" href="https://www.topciment.com/de/mikrozement-informationen.html" hreflang="de-DE"/>
-  <link rel="alternate" href="https://www.topciment.com/it/informazioni-microcemento.html" hreflang="it-IT"/>
-  <link rel="alternate" href="https://www.topciment.com/nl/informatie-over-microcement.html" hreflang="nl-NL"/>
-  <link rel="alternate" href="https://www.topciment.com/gr/gr-microcement.html" hreflang="el-GR"/>
-  <link rel="alternate" href="https://www.topciment.ru/microcementi.html" hreflang="ru-RU"/>
-  <link rel="alternate" href="https://www.topciment.cn/microcement-and-decorative-coating-products.html" hreflang="zh-CN"/>
 
 
   <?php include("../assets/../assets/includes/root-scripts-head.php"); ?>
@@ -55,14 +49,14 @@
     <div id="sidebar" class="menuOculto menuMicrocementos stick">
       <ul>
                 <li>
-          <a href="#up" style="font-size:26px">Béton Ciré</a>
+          <a href="#up" style="font-size:26px">béton ciré </a>
         </li>
-        <li><a href="#que-es-microcemento">Qu'est-ce que le béton ciré</a></li>
+        <li><a href="#que-es-microcemento">Qu'est-ce que le béton ciré </a></li>
         <li><a href="#donde-aplicar">Où peut-on appliquer</a></li>
-        <li><a href="#tipos-de-microcemento">Types de béton ciré</a></li>
-        <li><a href="#ventajas">Avantages du béton ciré</a></li>
-        <li><a href="#acabadosmicro">Finitions de béton ciré</a></li>
-        <li><a href="#microcement-colors">Couleurs béton ciré</a></li>
+        <li><a href="#tipos-de-microcemento">Types de béton ciré </a></li>
+        <li><a href="#ventajas">Avantages du béton ciré </a></li>
+        <li><a href="#acabadosmicro">Finitions de béton ciré </a></li>
+        <li><a href="#microcement-colors">Couleurs béton ciré </a></li>
         <li><a href="#preguntas-frecuentes-ok">Questions fréquentes</a></li>
 
 
@@ -80,9 +74,9 @@
     <div class="container">
       <div id="que-es-microcemento" class="content">
 
-        <h1 class="mb-3">Qu'est-ce que le béton ciré? Utilisations, types, applications et avantages</h1>
+        <h1 class="mb-3">Qu'est-ce que le béton ciré ? Utilisations, types, applications et avantages</h1>
 
-        <p>Le microciment Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il s'applique directement sur un matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, parmi beaucoup d'autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.
+        <p>Le béton ciré Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il s'applique directement sur un matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, parmi beaucoup d'autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.
         <p>Un revêtement avant-gardiste, sans couture et adapté aux espaces extérieurs et intérieurs. Un revêtement
           continu applicable sur les sols, les murs, les escaliers, les plafonds, les piscines et même les meubles. Sa
           polyvalence l'a conduit à être de plus en plus présent dans la rénovation de logements privés et dans des
@@ -91,7 +85,7 @@
         </p>
 
 
-        <p>Pas de rénovations plus compliquées. Avec le béton ciré Topciment, vous économiserez du temps et de l'argent. Toute combinaison et style est possible. Nous sommes impatients de vous aider et de vous conseiller.</p>
+        <p>Pas de rénovations plus compliquées. Avec le béton ciré  Topciment, vous économiserez du temps et de l'argent. Toute combinaison et style est possible. Nous sommes impatients de vous aider et de vous conseiller.</p>
 
 
 
@@ -105,32 +99,32 @@
     <div class="container">
       <div class="content">
         <span id="donde-aplicar" class="ancla"></span>
-        <h2>Où peut-on appliquer le béton ciré ?</h2>
-        <p>Les solutions décoratives du béton ciré sont infinies. Par conséquent, ses utilisations sont si variées. Des
-          escaliers en béton ciré ou des piscines en béton ciré aux meubles recouverts de béton ciré. Bien que
-          l'utilisation par excellence du béton ciré soit dans les sols et les murs des cuisines, des salles de bains et
+        <h2>Où peut-on appliquer le béton ciré  ?</h2>
+        <p>Les solutions décoratives du béton ciré  sont infinies. Par conséquent, ses utilisations sont si variées. Des
+          escaliers en béton ciré  ou des piscines en béton ciré  aux meubles recouverts de béton ciré . Bien que
+          l'utilisation par excellence du béton ciré  soit dans les sols et les murs des cuisines, des salles de bains et
           des espaces extérieurs tels que les terrasses</p>
-        <p>Quelle que soit la surface à recouvrir en béton ciré, chez Topciment nous nous soucions du résultat final.
+        <p>Quelle que soit la surface à recouvrir en béton ciré , chez Topciment nous nous soucions du résultat final.
           Par conséquent, dans notre volonté d'obtenir un produit optimal, polyvalent et de qualité qui dure dans le
           temps et s'adapte aux besoins du marché, nous avons atteint l'équilibre entre résistance et flexibilité.
 
         </p>
         <p>
-          Et cela signifie? Que notre béton ciré permet de recouvrir n'importe quelle surface, quelle que soit sa
+          Et cela signifie? Que notre béton ciré  permet de recouvrir n'importe quelle surface, quelle que soit sa
           taille, en réalisant un revêtement continu sans joints ni fissures. De cette façon, nous évitons les zones
           sales, facilitant ainsi le nettoyage et la désinfection, aidant à obtenir des endroits exempts de germes et de
           bactéries.</p>
         <p>
           De plus, nos bétons cirés garantissent une résistance élevée dans les zones les plus exposées au trafic ainsi
-          qu'aux produits de nettoyage les plus agressifs. D'où la forte demande de <strong><a class="links" href="nouvelle/beton-cire-dans-les-cuisines">béton ciré dans les cuisines</a></strong>
+          qu'aux produits de nettoyage les plus agressifs. D'où la forte demande de <strong><a class="links" href="nouvelle/beton-cire-dans-les-cuisines">béton ciré  dans les cuisines</a></strong>
           et les<strong><a class="links" href="nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance"> et les salles
-              de bains en béton ciré </a></strong> .</p>
+              de bains en béton ciré  </a></strong> .</p>
 
 
         <figure>
           <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen4.jpg" alt="
-sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton ciré salon salle à manger  maison Hernán Cortés"/></a>
-          <figcaption>Image du salon-salle à manger moderne de la maison Hernán Cortés. avec sol en béton ciré Iron 004.
+sol en béton ciré  salon salle à manger  maison Hernán Cortés" title="béton ciré  salon salle à manger  maison Hernán Cortés"/></a>
+          <figcaption>Image du salon-salle à manger moderne de la maison Hernán Cortés. avec sol en béton ciré  Iron 004.
           </figcaption>
         </figure>
       </div>
@@ -138,56 +132,46 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
 
     <div class="container">
       <div class="content">
-        <h3> Béton ciré sur les murs.</h3>
-        <p>Le béton ciré est un matériau de construction hautement recommandé pour le revêtement de tous types de murs
-          et de façades. Dans notre galerie, vous trouverez différents murs en béton ciré Topciment
-          pour vous <strong><a class="links" href="beton-cire/galerie#paredes">inspirer </a></strong>.
-        </p>
+        <h3> béton ciré  sur les murs.</h3>
+        <p>Le béton ciré  est un matériau de construction hautement recommandé pour le revêtement de tous types de murs et de façades. Dans notre galerie, vous trouverez différents murs en béton ciré 
+         Topciment pour vous inspirer. Si vous souhaitez compléter les informations sur le<strong><a class="links" href="nouvelle/revetements-du-muraux"> béton ciré  sur les murs</a> </strong>, lisez notre article. </p>
 
-        <h3>Sols en béton ciré </h3>
-        <p>Les sols en béton ciré continu sont non seulement très attrayants pour les yeux, mais ont également des
-          qualités intéressantes. Explorez<strong><a class="links" href="beton-cire/galerie#suelos">
-              notre galerie </a> </strong>
-          et découvrez tous les sols en béton ciré pouvant être créés avec Topciment. </p>
-
-        <h3>Salles de bains en béton ciré </h3>
-        <p>Le béton ciré est un revêtement décoratif parfait pour rénover la salle de bain, notamment en raison de sa
-          résistance à l'humidité et de sa facilité de nettoyage. Jetez un œil à tous les bains en béton ciré possibles
-          avec les bétons cirés Topciment dans<strong><a class="links" href="beton-cire/galerie#banyos">notre galerie
-            </a> </strong>. </p>
+        <h3>Sols en béton ciré  </h3>
+       <p>Les sols en béton ciré  continu sont non seulement très attrayants pour les yeux, mais ont également des qualités intéressantes.
+        Explorez notre galerie et découvrez tous les sols en béton ciré qui peuvent être créés avec Topciment. Si vous avez voulu en savoir plus, nous vous recommandons de lire notre 
+        article sur les <strong><a class="links" href="nouvelle/sols-en-beton-cire-application-types-avantages-et-astuces">sols en béton ciré </a>.</strong> </p>
+        <h3>Salles de bains en béton ciré  </h3>
+  <p>Le béton ciré  est un revêtement décoratif parfait pour rénover la salle de bain, notamment en raison de sa résistance à l'humidité et de sa facilité de nettoyage. 
+  Jetez un œil à toutes les baignoires en béton ciré  possibles avec les bétons cirés Topciment dans notre galerie ou lisez notre article sur les
+ <strong> <a class="links" href="nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance"> baignoires en béton ciré </a> </strong>. </p>
 
         <figure>
-          <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen3.jpg" alt="Salle de bains béton ciré sur les murs et sols Casa Isabel " title="béton ciré murs et sols salles de bains Casa Isabel"/></a>
+          <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen3.jpg" alt="Salle de bains béton ciré  sur les murs et sols Casa Isabel " title="béton ciré  murs et sols salles de bains Casa Isabel"/></a>
           <figcaption>
-            Belle salle de bain en béton ciré de style rustique. Les murs et le sol ont été recouverts de notre béton ciré coloré Kalahari. </figcaption>
+            Belle salle de bain en béton ciré  de style rustique. Les murs et le sol ont été recouverts de notre béton ciré  coloré Kalahari. </figcaption>
         </figure>
-        <h3>Béton ciré dans les cuisines</h3>
-        <p>Le béton ciré est un revêtement décoratif parfait pour rénover la salle de bain, notamment en raison de sa
-          résistance à l'humidité et de sa facilité de nettoyage. Jetez un œil à tous les bains de béton ciré possibles
-          avec les bétons cirés Topciment dans<strong><a class="links" href="beton-cire/galerie#cocinas">notre galerie
-            </a> </strong>.</p>
+        <h3>béton ciré  dans les cuisines</h3>
+      <p>
+          Le béton ciré  dans les cuisines peut être utilisé de nombreuses manières. Il peut recouvrir les sols et les murs, les plafonds,
+           les éviers et les comptoirs de cuisine dans pratiquement toutes les couleurs que vous pouvez imaginer. Cuisines en béton ciré  de tous styles et de toutes tailles. 
+           Nous vous invitons à le consulter dans l'article de notre blog sur les <strong><a class="links" href="nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces">cuisines en béton ciré  </a></strong>.
+      </p>  
 
-        <h3>Escaliers en béton ciré</h3>
-        <p>La polyvalence du béton ciré lui permet d'être utilisé même dans les escaliers, bien que le travail de
-          l'applicateur soit un peu plus complexe. Avec les bétons cirés Topciment, vous pouvez concevoir des escaliers
-          spectaculaires en béton ciré. Découvrez-les dans <strong><a class="links" href="beton-cire/galerie#escaleras">notre galerie
-            </a> </strong> </p>
-        <h3>Piscines en béton ciré</h3>
-        <p>Couvrir la couronne et la zone autour de la piscine avec du béton ciré est un succès garanti. Le caractère
-          antidérapant et imperméable de nos revêtements décoratifs, ainsi que leur excellente résistance aux rayons UV,
-          sont idéaux pour le revêtement des piscines intérieures et extérieures.
-          Dans <strong><a class="links" href="beton-cire/galerie#piscinas">notre galerie </a> </strong> vous trouverez
-          toutes sortes de piscines en béton ciré. </p>
+        <h3>Escaliers en béton ciré </h3>
+       <p>La polyvalence du béton ciré  lui permet d'être utilisé même dans les escaliers, bien que le travail de l'applicateur soit un peu plus complexe.
+        Des escaliers spectaculaires en béton ciré  peuvent être conçus avec des bétons cirés Topciment. Découvrez-les dans notre article sur les escaliers en béton ciré <!--  (lien actualités escaliers) TODO -->.
+</p>
+        <h3>Piscines en béton ciré </h3>
+        <p>Couvrir la couronne et la zone autour de la piscine avec du béton ciré  est un succès garanti. Le caractère antidérapant et imperméable de nos revêtements décoratifs, 
+        ainsi que leur excellente résistance aux rayons UV, sont idéaux pour le revêtement des piscines intérieures et extérieures. Dans notre blog, vous trouverez tout ce que vous devez 
+        savoir et les avantages des<strong><a class="links" href="nouvelle/piscines-en-beton-cire-milleure-option-possible"> piscines en béton ciré </a></strong>. </p>
+        <h3>béton ciré  extérieur</h3>
+       <p>Le béton ciré  est un excellent revêtement continu également pour les surfaces extérieures telles que les sols de terrasse, les patios de maisons résidentielles ou les
+        façades et les murs des bâtiments. Visitez notre galerie ou lisez notre article et découvrez toutes les options d'application
+         du<strong><a class="links" href="nouvelle/conception-et-confort-des-espaces-exterieurs"> béton ciré  extérieur</a>.</strong> </p>
 
-        <h3>Béton ciré extérieur</h3>
-        <p>Le béton ciré est un excellent revêtement continu également pour les surfaces extérieures telles que les sols
-          de terrasse, les patios de maisons résidentielles ou les façades et les murs de bâtiments.
-          Visitez <strong><a class="links" href="beton-cire/galerie#exterior">notre galerie </a> </strong>
-          et découvrez toutes les possibilités d'application de béton ciré à l'extérieur. </p>
-
-          <p>Maintenant que vous savez où il peut être appliqué, il est temps d'apprendre à le faire.  <a class="links" href="https://www.topciment.com/fr/beton-cire/methode-application-beton-cire">Sur
-           cette page</a> , vous trouverez l'application étape par étape du béton ciré sur les sols, les murs et les piscines.</p>
-      </div>
+         <p>Maintenant que vous savez où cela peut être appliqué, le moment est venu pour vous d'apprendre à le faire. Sur cette page, vous trouverez 
+         <strong><a  class="links" href="beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape">l'application étape par étape du béton ciré </a></strong> dans les sols, les murs et les piscines.</p> </div>
     </div>
     <div class="fullscreen background parallax" style="background-image:url('https://www.topciment.com/imagenes/microcemento/imagen1.jpg');" data-img-width="1920" data-img-height="1281" data-diff="100" background-position="top">
     </div>
@@ -199,12 +183,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
       <div class="container">
         <div class="content">
           <span id="tipos-de-microcemento" class="ancla"></span>
-          <h2>Types de béton ciré</h2>
-          <p> <strong>Chez Topciment, nous sommes bien plus que des <a class="links" href="beton-cire/fabricant-beton-cire">fabricants de béton ciré</a></strong>.
+          <h2>Types de béton ciré </h2>
+          <p> <strong>Chez Topciment, nous sommes bien plus que des <a class="links" href="beton-cire/fabricant-beton-cire">fabricants de béton ciré </a></strong>.
             Nous sommes des spécialistes et c'est pourquoi nous faisons la différence.</p>
           <p>Nous sommes à l'écoute des professionnels du secteur depuis près de deux décennies pour connaître leurs
-            préoccupations et leurs lacunes. Grâce à cela, nous avons développé différents types de béton ciré en
-            fonction de vos besoins. Nous disposons de différents systèmes de béton ciré et revêtements décoratifs en
+            préoccupations et leurs lacunes. Grâce à cela, nous avons développé différents types de béton ciré  en
+            fonction de vos besoins. Nous disposons de différents systèmes de béton ciré  et revêtements décoratifs en
             fonction des exigences de l'ouvrage et de l'effet final recherché.</p>
 
 
@@ -214,7 +198,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
               <a href="beton-cire/beton-cire-bicomposant-sttandard" target="_blank"><img class="imgmicro img-fluid" src=" https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7 my-auto">
-              <h3>Béton ciré bicomposant Topciment</h3>
+              <h3>béton ciré  bicomposant Topciment</h3>
               <p class="mt-2">D'une part, nous avons <strong style="color: #7e91a6;">STTANDARD</strong>, notre béton
                 ciré traditionnel à deux composants applicable à la fois sur les sols et les murs. Il se distingue par
                 sa robustesse, sa polyvalence et sa capacité à créer des textures inégalées.</p>
@@ -227,7 +211,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             </div>
             <div class="col-md-7">
               <p class="mt-2">D'autre part, <strong style="color:#d9da23;"> UNLIMITTED</strong>, la nouvelle ligne de
-                béton ciré bicomposant qui améliore notablement l'ouvrabilité du matériau et la résistance mécanique
+                béton ciré  bicomposant qui améliore notablement l'ouvrabilité du matériau et la résistance mécanique
                 finale. De plus, il réduit l'effet de brûlure causé par la taloche en acier.
               </p>
             </div>
@@ -239,9 +223,9 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
               <a href="beton-cire/beton-cire-monocomposant-evoluttion" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png" alt="Logo Evoluttion microcemento monocomponente" title="Logo Evoluttion microcemento monocomponente"></a>
             </div>
             <div class="col-md-7">
-              <h3>Béton ciré monocomposant Topciment</h3>
+              <h3>béton ciré  monocomposant Topciment</h3>
               <p class="mt-2">La simplification des mélanges réduit les erreurs futures. C'est ce que garantit <strong style="color:#e30514;">EVOLUTTION</strong>,
-                notre béton ciré mono-composant. Il confère une très bonne résistance mécanique et une grande
+                notre béton ciré  mono-composant. Il confère une très bonne résistance mécanique et une grande
                 ouvrabilité du matériau.
             </div>
           </div>
@@ -252,11 +236,11 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                 <img class="imgmicro " width="92" src="https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png" alt="Logo Atlanttic microcemento bicomponente" title="Logo Atlanttic microcmento bicomponente"></a>
             </div>
             <div class="col-md-7">
-              <h3>Béton ciré pour piscines Topciment</h3>
-              <p class="mt-2"><strong style="color:#4c86c3;">ATLANTTIC</strong> est notre ligne exclusive de béton ciré
-                pour piscines et autres surfaces en contact constant avec l'eau. Un béton ciré à deux composants qui
+              <h3>béton ciré  pour piscines Topciment</h3>
+              <p class="mt-2"><strong style="color:#4c86c3;">ATLANTTIC</strong> est notre ligne exclusive de béton ciré 
+                pour piscines et autres surfaces en contact constant avec l'eau. Un béton ciré  à deux composants qui
                 offre une finition antidérapante dans les zones sujettes au glissement, telles que la couronne et la
-                zone extérieure entourant la piscine en béton ciré. </p>
+                zone extérieure entourant la piscine en béton ciré . </p>
             </div>
           </div>
           <hr>
@@ -265,9 +249,9 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
               <a href="beton-cire/beton-cire-pret-a-lemploi-efectto" target="_blank"><img class="imgmicro img-fluid" src="https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png" alt="Logo Sttandard microcemento bicomponente" title="Logo Sttandard microcemento bicomponente"></a>
             </div>
             <div class="col-md-7">
-              <h3>Béton ciré prêt à l'emploi Topciment</h3>
-              <p class="mt-2">Aucun autre béton ciré n'assure une application aussi rapide qu'Efectto Quartz, notre
-                béton ciré prêt à l'emploi disponible en 4 granulométries. Non seulement le temps passé au travail est
+              <h3>béton ciré  prêt à l'emploi Topciment</h3>
+              <p class="mt-2">Aucun autre béton ciré  n'assure une application aussi rapide qu'Efectto Quartz, notre
+                béton ciré  prêt à l'emploi disponible en 4 granulométries. Non seulement le temps passé au travail est
                 réduit, mais les finitions sont les plus naturelles.</p>
             </div>
           </div>
@@ -284,15 +268,15 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
       <div class="container">
         <div class="content">
           <span id="ventajas" class="ancla"></span>
-          <h2>Avantages du béton ciré</h2>
-          <p>Le béton ciré est un revêtement décoratif qui possède de grandes qualités. Voici un bref résumé des
-            principaux avantages du béton ciré Topciment:
+          <h2>Avantages du béton ciré </h2>
+          <p>Le béton ciré  est un revêtement décoratif qui possède de grandes qualités. Voici un bref résumé des
+            principaux avantages du béton ciré  Topciment:
           </p>
           <p><i class="fa fa-check"></i> Plusieurs finitions décoratives.</p>
           <p><i class="fa fa-check"></i> Surface sans joints.</p>
           <p><i class="fa fa-check"></i> Il peut être appliqué sur les sols, les murs, les plafonds, les piscines et les
             meubles. Espaces intérieurs et extérieurs.</p>
-          <p><i class="fa fa-check"></i> Grande variété de couleurs et de textures de béton ciré</p>
+          <p><i class="fa fa-check"></i> Grande variété de couleurs et de textures de béton ciré </p>
           <p><i class="fa fa-check"></i> Application artisanale. Résultat exclusif et personnalisé</p>
           <p><i class="fa fa-check"></i> Haute adhérence. Compatible avec les carreaux, le marbre, le grès, le terrazzo,
             les plaques de plâtre, le béton, le ciment, le plâtre, etc.</p>
@@ -308,32 +292,32 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <p><i class="fa fa-check"></i> Espaces exempts de germes et de bactéries.</p>
 
           <figure>
-            <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen5.jpg" alt="Sol en béton ciré salon salle à manger Casa Sardinera " title="béton ciré sol salon salle à manger  Casa Sardinera"/></a>
-            <figcaption>Vues impressionnantes depuis le salon de la Casa Sadinera, dont le sol en béton ciré Ivoire est un succès. </figcaption>
+            <img class="mt-4 foto-microcemento img-fluid" src="https://www.topciment.com/imagenes/microcemento/imagen5.jpg" alt="Sol en béton ciré  salon salle à manger Casa Sardinera " title="béton ciré  sol salon salle à manger  Casa Sardinera"/></a>
+            <figcaption>Vues impressionnantes depuis le salon de la Casa Sadinera, dont le sol en béton ciré  Ivoire est un succès. </figcaption>
           </figure>
         </div>
       </div>
       <div class="container">
         <div class="content acabados">
           <span id="acabadosmicro" class="ancla"></span>
-          <h2>Finitions de béton ciré</h2>
-          <p>Les différentes finitions de béton ciré pouvant être obtenues dépendent des textures (voir types de bétons cirés ) et des vernis ou scellant utilisés, car ce sont deux éléments qui déterminent l'aspect et la finition finale de nos bétons cirés.</p>
+          <h2>Finitions de béton ciré </h2>
+          <p>Les différentes finitions de béton ciré  pouvant être obtenues dépendent des textures (voir types de bétons cirés ) et des vernis ou scellant utilisés, car ce sont deux éléments qui déterminent l'aspect et la finition finale de nos bétons cirés.</p>
 
           <p>
-            Le béton ciré étant un matériau poreux, il est nécessaire d'appliquer un vernis ou un scellant qui le protège de la saleté et peut rendre la surface à enduire imperméable.</p>
+            Le béton ciré  étant un matériau poreux, il est nécessaire d'appliquer un vernis ou un scellant qui le protège de la saleté et peut rendre la surface à enduire imperméable.</p>
           <div class="row">
             <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
-              <h3>Béton ciré finition mate</h3>
-              <p>Il donne au revêtement de béton ciré un aspect très naturel. Désactivez légèrement la tonalité de couleur.</p>
+              <h3>béton ciré  finition mate</h3>
+              <p>Il donne au revêtement de béton ciré  un aspect très naturel. Désactivez légèrement la tonalité de couleur.</p>
             </div>
           </div>
 
           <div class="row">
             <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Supermate.jpg" alt="Acabado mate" title="acabado mate"></div>
             <div class="col-md-11 my-auto">
-              <h3>Béton ciré finition super mate</h3>
+              <h3>béton ciré  finition super mate</h3>
               <p>Idéal lorsque vous recherchez un fini mat profond, sans brillance.</p>
             </div>
           </div>
@@ -341,7 +325,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Satinado.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
-              <h3>Béton ciré finition satinée</h3>
+              <h3>béton ciré  finition satinée</h3>
               <p>A mi-chemin entre une finition mate et une finition brillante. C'est l'un des plus demandés pour donner un aspect moderne à la surface.</p>
             </div>
           </div>
@@ -349,7 +333,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Brillo.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
-              <h3>Béton ciré finition brillante</h3>
+              <h3>béton ciré  finition brillante</h3>
               <p>Rehaussez et animez la couleur. L'effet obtenu est du persillage.</p>
             </div>
           </div>
@@ -357,7 +341,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div class="col-md-1"><img class="img-fluid acabado" src="https://www.topciment.com/imagenes/topsealer/Mate.jpg" alt="Acabado mate" title="acabado mate">
             </div>
             <div class="col-md-11 my-auto">
-              <h3>Béton ciré finition mate antidérapant</h3>
+              <h3>béton ciré  finition mate antidérapant</h3>
               <p>Finition mate mais avec un état antidérapant. Le vernis ou le scellant polyuréthane anti-dérapant Topsealer doit être utilisé</p>
             </div>
           </div>
@@ -371,10 +355,10 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
       <div class="container">
         <div class="content">
           <span id="microcement-colors" class="ancla"></span>
-          <h2>Couleurs béton ciré</h2>
-          <p>Nous avons un vaste nuancier de béton ciré. Le système de pigmentation vous permet de créer n'importe quelle couleur personnalisée, personnalisant ainsi les pièces et les environnements pour obtenir votre propre style.</p>
+          <h2>Couleurs béton ciré </h2>
+          <p>Nous avons un vaste nuancier de béton ciré . Le système de pigmentation vous permet de créer n'importe quelle couleur personnalisée, personnalisant ainsi les pièces et les environnements pour obtenir votre propre style.</p>
 
-          <p>Le blanc, le gris, le vert, le rouge, le noir ou le bleu ne sont que quelques-unes des nombreuses couleurs de béton ciré disponibles pour nos systèmes. Choisissez ici celui qui convient le mieux à votre projet.
+          <p>Le blanc, le gris, le vert, le rouge, le noir ou le bleu ne sont que quelques-unes des nombreuses couleurs de béton ciré  disponibles pour nos systèmes. Choisissez ici celui qui convient le mieux à votre projet.
           </p>
           <p><a class="links" href="beton-cire/beton-cire-bicomposant-sttandard#colores"><i class="fas fa-arrow-circle-right"></i> Découvrez ici toutes les couleurs <strong style="color: #7e91a6;">STTANDARD</strong> </a></p>
           <p><a class="links" href="beton-cire/beton-cire-bicomposant-unlimitted#colores"><i class="fas fa-arrow-circle-right"></i> Découvrez ici toutes les couleurs <strong style="color:#d9da23;">UNLIMITTED</strong> </a></p>
@@ -405,7 +389,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
       <div class="content">
         <div style="float:none; clear:both;"></div>
         <span id="preguntas-frecuentes-ok" class="ancla"></span>
-        <h2 class="faqs">Questions fréquentes béton ciré</h2>
+        <h2 class="faqs">Questions fréquentes béton ciré </h2>
 
         <!-- Accordion -->
         <div id="accordionExample" class="accordion shadow">
@@ -415,12 +399,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div id="heading1" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1" class="d-block position-relative     collapsible-link py-2">1.
 
-                  Quelle est la résistance et la dureté du béton ciré?</a></h3>
+                  Quelle est la résistance et la dureté du béton ciré ?</a></h3>
             </div>
             <div id="collapse1" aria-labelledby="heading1" data-parent="#accordionExample" class="collapse show">
               <div class="card-body p-4">
-                <p>L'une des particularités du béton ciré par rapport aux autres revêtements décoratifs est sa résistance et sa dureté élevées. Dans les cas de Standard Microdeck, Standard Microstone et Evolution Microdeck peuvent même être utilisés dans les zones à fort trafic.</p>
-                <p>De multiples facteurs peuvent influencer la résistance et la dureté de ce revêtement, tels que: le support sur lequel le béton ciré sera appliqué, le type de béton ciré choisi ou le vernis, entre autres.</p>
+                <p>L'une des particularités du béton ciré  par rapport aux autres revêtements décoratifs est sa résistance et sa dureté élevées. Dans les cas de Standard Microdeck, Standard Microstone et Evolution Microdeck peuvent même être utilisés dans les zones à fort trafic.</p>
+                <p>De multiples facteurs peuvent influencer la résistance et la dureté de ce revêtement, tels que: le support sur lequel le béton ciré  sera appliqué, le type de béton ciré  choisi ou le vernis, entre autres.</p>
 
 
                 <p>
@@ -430,20 +414,20 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
 
                   <p><strong>
                       Résistance mécanique</strong><br>
-                    Résistance du béton ciré aux chocs: Bien que le béton ciré soit un matériau relativement dur, la résistance aux chocs dépend dans une certaine mesure de la dureté du support. Le béton ciré, en raison de sa faible épaisseur, se déformera sous un fort impact si le support se déforme.
+                    Résistance du béton ciré  aux chocs: Bien que le béton ciré  soit un matériau relativement dur, la résistance aux chocs dépend dans une certaine mesure de la dureté du support. Le béton ciré , en raison de sa faible épaisseur, se déformera sous un fort impact si le support se déforme.
 
 
                   </p>
 
-                  <p>Par exemple, si on applique du béton ciré sur du plâtre et que la base se déforme car elle n'est pas très résistante, le béton ciré se déformera également. En revanche, si nous appliquons du béton ciré sur du terrazzo ou des supports similaires, la résistance du béton ciré sera plus grande.</p>
-                  <p>Résistance du béton ciré à l'abrasion et à l'usure: La résistance du béton ciré à l'abrasion ou à l'usure dépend également du type de béton ciré et du vernis utilisé. Topciment dispose de trois revêtements continus pour sols: Standard MicroDeck et MicroStone, Evoluttion Microdeck et Efectto Medium. Tous sont des revêtements avec des agrégats sélectionnés de plus grande taille de particules, ce qui les rend plus résistants à la compression et à l'abrasion.</p>
+                  <p>Par exemple, si on applique du béton ciré  sur du plâtre et que la base se déforme car elle n'est pas très résistante, le béton ciré  se déformera également. En revanche, si nous appliquons du béton ciré  sur du terrazzo ou des supports similaires, la résistance du béton ciré  sera plus grande.</p>
+                  <p>Résistance du béton ciré  à l'abrasion et à l'usure: La résistance du béton ciré  à l'abrasion ou à l'usure dépend également du type de béton ciré  et du vernis utilisé. Topciment dispose de trois revêtements continus pour sols: Standard MicroDeck et MicroStone, Evoluttion Microdeck et Efectto Medium. Tous sont des revêtements avec des agrégats sélectionnés de plus grande taille de particules, ce qui les rend plus résistants à la compression et à l'abrasion.</p>
                   <p>Standard et Evoluttion Microfino ou Efectto Small, en raison de leur faible résistance, sont réservés au revêtement mural. En ce qui concerne les vernis bien que les résistances soient les mêmes, plus le brillant est élevé, plus les marques d'usure sont visibles. Les finitions mates ne reflètent pas la lumière ou le font de manière minimale et les finitions satinées sont les plus naturelles.</p>
 
                   <p><strong>Résistance chimique</strong></p>
 
-                  <p>Résistance du béton ciré aux taches et aux liquides: La résistance du béton ciré aux taches et aux liquides dépendra du vernis utilisé pour protéger le revêtement. Le scellant est la dernière couche de l'application du béton ciré, ce qui lui confère une imperméabilité et une protection contre les taches. Nos vernis Topsealer offrent une grande résistance aux taches et aux liquides. Selon les différents tests effectués, les vernis Topsealers protègent contre l'huile, le cola, le vin rouge et les taches similaires.</p>
-                  <p>Les taches en béton ciré de vinaigre ou de jus de citron, laissent de légères traces après deux heures d'exposition. Cette surface est affectée par l'acide comme le marbre, bien que si nous agissons en nettoyant rapidement, il n'y aura pas de marques.
-                    Les taches de salfumán, d'eau de Javel pure, d'acétone et d'ammoniaque laissent une marque après une demi-heure d'exposition. Cependant, si nous nettoyons le béton ciré rapidement, il n'y aura aucune marque. La texture du béton ciré et la difficulté de nettoyage doivent également être prises en compte.</p>
+                  <p>Résistance du béton ciré  aux taches et aux liquides: La résistance du béton ciré  aux taches et aux liquides dépendra du vernis utilisé pour protéger le revêtement. Le scellant est la dernière couche de l'application du béton ciré , ce qui lui confère une imperméabilité et une protection contre les taches. Nos vernis Topsealer offrent une grande résistance aux taches et aux liquides. Selon les différents tests effectués, les vernis Topsealers protègent contre l'huile, le cola, le vin rouge et les taches similaires.</p>
+                  <p>Les taches en béton ciré  de vinaigre ou de jus de citron, laissent de légères traces après deux heures d'exposition. Cette surface est affectée par l'acide comme le marbre, bien que si nous agissons en nettoyant rapidement, il n'y aura pas de marques.
+                    Les taches de salfumán, d'eau de Javel pure, d'acétone et d'ammoniaque laissent une marque après une demi-heure d'exposition. Cependant, si nous nettoyons le béton ciré  rapidement, il n'y aura aucune marque. La texture du béton ciré  et la difficulté de nettoyage doivent également être prises en compte.</p>
 
                   <p style="font-size:16px; margin-bottom:5px">&nbsp;</p>
                   <div style="float:none; clear:both; height:20px;"></div>
@@ -451,13 +435,13 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                   <div id="tresColumnasIzquierdaImagen"><img src="https://www.topciment.com/imagenes/golpe-y-marca-en-suelo-de-microcemento.jpg" alt="marque de coup laissé par un objet pointu sur un sol de Microdeck." width="100%"><br>
                     Marque de coup laissé par un objet pointu sur un sol de Microdeck.</div>
 
-                  <div id="tresColumnasCentroImagen"><img src="https://www.topciment.com/imagenes/diferente-textura-y-resistencia-pavimento-microcemento.jpg" alt="Différentes textures et resistance d'un sol de béton ciré." width="100%"><br>
-                    Différentes textures et resistance d'un sol de béton ciré.
+                  <div id="tresColumnasCentroImagen"><img src="https://www.topciment.com/imagenes/diferente-textura-y-resistencia-pavimento-microcemento.jpg" alt="Différentes textures et resistance d'un sol de béton ciré ." width="100%"><br>
+                    Différentes textures et resistance d'un sol de béton ciré .
 
                   </div>
-                  <div id="tresColumnasDerechaImagen"><img src="https://www.topciment.com/imagenes/impermeabilidad-del-microcemento.jpg" alt="Imperméabilité du béton ciré
+                  <div id="tresColumnasDerechaImagen"><img src="https://www.topciment.com/imagenes/impermeabilidad-del-microcemento.jpg" alt="Imperméabilité du béton ciré 
 " width="100%"><br>
-                    Imperméabilité du béton ciré
+                    Imperméabilité du béton ciré 
 
                   </div>
                   <div id="separador20px"></div>
@@ -470,59 +454,59 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading2" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2" class="d-block position-relative collapsed     collapsible-link py-2">
-                  2. Sur quels supports le béton ciré peut-il être appliqué?</a></h3>
+                  2. Sur quels supports le béton ciré  peut-il être appliqué?</a></h3>
             </div>
             <div id="collapse2" aria-labelledby="heading2" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
 
-                <p>Le béton ciré peut être appliqué sur presque tous les types de supports: mortier de ciment, autolissant, terrazzo, marbre, carrelage, plaque de plâtre ou plâtre. L'application de béton ciré peut également être réalisée sur des surfaces verticales et horizontales, à l'intérieur et à l'extérieur. Une polyvalence avec laquelle nous pouvons créer des escaliers en béton ciré, des salles de bains en béton ciré, des cuisines en béton ciré et même des piscines en béton ciré.
+                <p>Le béton ciré  peut être appliqué sur presque tous les types de supports: mortier de ciment, autolissant, terrazzo, marbre, carrelage, plaque de plâtre ou plâtre. L'application de béton ciré  peut également être réalisée sur des surfaces verticales et horizontales, à l'intérieur et à l'extérieur. Une polyvalence avec laquelle nous pouvons créer des escaliers en béton ciré , des salles de bains en béton ciré , des cuisines en béton ciré  et même des piscines en béton ciré .
                 </p>
-                <p>Bien entendu, vous ne pouvez pas appliquer de béton ciré sur du bois naturel ou des supports constitués de pièces pouvant se dilater différemment.
+                <p>Bien entendu, vous ne pouvez pas appliquer de béton ciré  sur du bois naturel ou des supports constitués de pièces pouvant se dilater différemment.
                 </p>
 
                 <a href="javascript:MostrarOcultar('texto1_3');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
                 <div class="ocultable" id="texto1_3" style="text-align:left;font-size:16px;">
-                  <p>Une des principales propriétés du béton ciré est sa grande adhérence. Grâce à cette dernière,
+                  <p>Une des principales propriétés du béton ciré  est sa grande adhérence. Grâce à cette dernière,
                     il
 
-                    est possible d’appliquer le béton ciré sur des carrelages, ce qui facilite les rénovations
+                    est possible d’appliquer le béton ciré  sur des carrelages, ce qui facilite les rénovations
                     et évite le décombrement du revêtement original. Tant que
 
                     les carrelages soient fermes et ne soient pas détachés. Dans ces cas, il faut utiliser la
                     maille pour solidariser el support.<br>
 
-                    <a href="#">Cf. la méthode d’application de béton ciré sur carrelages sur le tutoriel
+                    <a href="#">Cf. la méthode d’application de béton ciré  sur carrelages sur le tutoriel
                       vidéo.</a>
 
                   </p>
 
                   <img src="https://www.topciment.com/imagenes/microcemento-sobre-azulejos-rejuntado.jpg" width="50%"><br>
-                  <p>Photo : Béton ciré sur carrelages, grès ou granito</p>
+                  <p>Photo : béton ciré  sur carrelages, grès ou granito</p>
                   <p> <br>
                     <strong>Conditions optimales et état de la surface à revêtir</strong><br>
-                    La préparation du support est aussi importante que l'application du béton ciré Si le support ne remplit pas les conditions nécessaires, nous ne pourrons pas appliquer le béton ciré avec des garanties. La surface doit être plane, consolidée, exempte de saleté et avec un taux d'humidité inférieur à 5%.
+                    La préparation du support est aussi importante que l'application du béton ciré  Si le support ne remplit pas les conditions nécessaires, nous ne pourrons pas appliquer le béton ciré  avec des garanties. La surface doit être plane, consolidée, exempte de saleté et avec un taux d'humidité inférieur à 5%.
 
 
                   </p>
 
-                  <p>Dans le cas où le support sur lequel le béton ciré doit être appliqué est un mortier, celui-ci doit avoir pris au moins quatre semaines avant
-                    l'application du béton ciré, pour contrôler les fissures pouvant apparaître lors du processus de durcissement.
+                  <p>Dans le cas où le support sur lequel le béton ciré  doit être appliqué est un mortier, celui-ci doit avoir pris au moins quatre semaines avant
+                    l'application du béton ciré , pour contrôler les fissures pouvant apparaître lors du processus de durcissement.
                   </p>
 
                   <img src="https://www.topciment.com/imagenes/condiciones-estado-de-la-superficie-a-revestir.jpg" width="50%"><br>
-                  <p><strong> Piscines en béton ciré</strong><br>
-                    Chez Topciment, nous avons développé Atlanttic, une ligne de béton ciré bi-composant conçue exclusivement pour les espaces en contact permanent avec l'eau comme les piscines. Et c'est que les piscines en béton ciré sont une tendance et elles continueront d'être dues aux larges avantages de ce revêtement décoratif.
+                  <p><strong> Piscines en béton ciré </strong><br>
+                    Chez Topciment, nous avons développé Atlanttic, une ligne de béton ciré  bi-composant conçue exclusivement pour les espaces en contact permanent avec l'eau comme les piscines. Et c'est que les piscines en béton ciré  sont une tendance et elles continueront d'être dues aux larges avantages de ce revêtement décoratif.
                     Ici vous pouvez voir quelques-unes des <strong><a href="beton-cire/galerie#piscinas">piscines couvertes d'Atlanttic</a></strong> .
 
                   </p>
-                  <p> <strong> Béton ciré sur bois naturel ou sur parquet </strong> <br>
+                  <p> <strong> béton ciré  sur bois naturel ou sur parquet </strong> <br>
                     Les planchers de parquet ou bois naturel possèdent une grande quantité de joints, les
                     planches se dilatent
 
                     dans différents sens, provoquant des tensions difficiles de contrôler, qui peuvent provoquer
                     des fissures sur le revêtement, c’est pourquoi ils ne
 
-                    sont pas aptes pour y appliquer directement du béton ciré. Dans ces cas, il faut retirer le
+                    sont pas aptes pour y appliquer directement du béton ciré . Dans ces cas, il faut retirer le
                     plancher existant et préparer le support avant la mise
 
                     en place du produit.</p>
@@ -537,11 +521,11 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading3" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3" class="d-block position-relative collapsed     collapsible-link py-2">
-                  3. Le béton ciré peut-il être appliqué sur un chauffage par le sol?</a></h3>
+                  3. Le béton ciré  peut-il être appliqué sur un chauffage par le sol?</a></h3>
             </div>
             <div id="collapse3" aria-labelledby="heading3" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p class="  m-0"> De plus en plus de personnes choisissent d'installer un chauffage par le sol. Mais, le béton ciré peut-il être appliqué sur un chauffage par le sol? Oui, le béton ciré peut être installé sans problème dans le chauffage par le sol. Un protocole de mise en marche du chauffage doit être réalisé pour éviter que les fissures produites par les variations de température de la dalle ne se reproduisent dans le béton ciré.
+                <p class="  m-0"> De plus en plus de personnes choisissent d'installer un chauffage par le sol. Mais, le béton ciré  peut-il être appliqué sur un chauffage par le sol? Oui, le béton ciré  peut être installé sans problème dans le chauffage par le sol. Un protocole de mise en marche du chauffage doit être réalisé pour éviter que les fissures produites par les variations de température de la dalle ne se reproduisent dans le béton ciré .
                 </p>
                 <a href="javascript:MostrarOcultar('texto1_4');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
                 <div class="ocultable" id="texto1_4" style="text-align:left;font-size:16px;">
@@ -551,12 +535,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                     progressivement la température de
 
                     l’eau jusqu’à 45 °C et la maintenir pendant plusieurs jours.</p>
-                  <p>3. Éteindre le chauffage au moins 48 h avant de commencer l’installation du béton ciré. La
+                  <p>3. Éteindre le chauffage au moins 48 h avant de commencer l’installation du béton ciré . La
                     température maximale du sol devra
 
                     être de 18 °C. 
                   </p>
-                  <p> <strong> Les pavements de béton ciré doivent être appliqués </strong>  sur des mortiers
+                  <p> <strong> Les pavements de béton ciré  doivent être appliqués </strong>  sur des mortiers
                     cémenteux qui ont atteint une phase
 
                     avancée de prise. Ceci se produit au terme de trois ou quatre semaines, en fonction du
@@ -571,7 +555,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                     d’application doit être consistante, sinon il faudra la
 
                     consolider. </p>
-                  <p> <strong> Après l’application du béton ciré </strong> nous devrons attendre au moins 48
+                  <p> <strong> Après l’application du béton ciré  </strong> nous devrons attendre au moins 48
                     heures avant de rallumer le chauffage de forme
 
                     graduelle (+5 °C chaque jour). </p>
@@ -603,11 +587,11 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading4" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4" class="d-block position-relative collapsed     collapsible-link py-2">
-                  4. Le béton ciré est-il étanche?</a></h3>
+                  4. Le béton ciré  est-il étanche?</a></h3>
             </div>
             <div id="collapse4" aria-labelledby="heading4" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p class="  m-0"> Le béton ciré n'est pas étanche en soi, mais il peut l'être si un scellant est utilisé comme finition et que le béton ciré est appliqué de cette manière dans les éviers, les receveurs de douche, les baignoires ou les zones humides. Chez Topciment, nous avons créé le vernis Topsealer WT (vernis polyuréthane à base d'eau), un vernis permettant de garantir l'imperméabilité du béton ciré.</p>
+                <p class="  m-0"> Le béton ciré  n'est pas étanche en soi, mais il peut l'être si un scellant est utilisé comme finition et que le béton ciré  est appliqué de cette manière dans les éviers, les receveurs de douche, les baignoires ou les zones humides. Chez Topciment, nous avons créé le vernis Topsealer WT (vernis polyuréthane à base d'eau), un vernis permettant de garantir l'imperméabilité du béton ciré .</p>
               </div>
             </div>
           </div>
@@ -615,14 +599,14 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading5" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5" class="d-block position-relative collapsed     collapsible-link py-2">
-                  5. Le béton ciré est-il antidérapant?</a></h3>
+                  5. Le béton ciré  est-il antidérapant?</a></h3>
             </div>
             <div id="collapse5" aria-labelledby="heading5" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p class="  m-0">SOui, selon le type de béton ciré, la texture qui reste et le vernis utilisé, nous pouvons rendre le béton ciré antidérapant.</p>
+                <p class="  m-0">SOui, selon le type de béton ciré , la texture qui reste et le vernis utilisé, nous pouvons rendre le béton ciré  antidérapant.</p>
                 <a href="javascript:MostrarOcultar('texto1_5');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
                 <div class="ocultable" id="texto1_5" style="text-align:left;font-size:16px;">
-                  <p>Selon le type de béton ciré et de texture, nous obtenons une plus ou moins grande résistance au
+                  <p>Selon le type de béton ciré  et de texture, nous obtenons une plus ou moins grande résistance au
                     glissement (degré de glissance). De plus petite à plus grande glissance nous avons : Microstone
                     car il est hautement texturé, Microdeck avec une texture douce, et enfin Microfino qui n’est pas
                     apte aux sols.</p>
@@ -632,7 +616,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                     Topciment, nous pouvons atteindre n’importe laquelle des classes exigées. Microdeck agent de
                     scellage avec du polyuréthane correspond à la classe 1 mais si des microsphères de verre sont
                     ajoutées dans la première couche de polyuréthane, nous pouvons obtenir la classe 2. Si nous
-                    employons Microstone qui contient des particules plus épaisses que le béton ciré traditionnel,
+                    employons Microstone qui contient des particules plus épaisses que le béton ciré  traditionnel,
                     nous atteignons la classe 3. La différence de texture peut être appréciée à simple vue.
                     Il faut tenir compte des caractéristiques antidérapantes de la surface et de la difficulté de
                     nettoyage. Plus la résistance à la glissance est grande, plus il est difficile de nettoyer la
@@ -719,13 +703,13 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
               <h3><a href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6" class="d-block position-relative collapsed     collapsible-link py-2">
                   6. Quelles sont les différences entre
 
-                  le béton ciré et le béton poli ?</a></h3>
+                  le béton ciré  et le béton poli ?</a></h3>
             </div>
             <div id="collapse6" aria-labelledby="heading6" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p>Bien que la finition esthétique puisse se ressembler, ce n’est pas la
                   même chose.<br>
-                  Le béton ciré vous permet d’avoir plus <strong> d’avantages </strong> :
+                  Le béton ciré  vous permet d’avoir plus <strong> d’avantages </strong> :
                   <br>
                 </p>
                 <ul>
@@ -745,7 +729,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                 <a href="javascript:MostrarOcultar('texto1_6');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
                 <div class="ocultable" id="texto1_6" style="text-align:left;font-size:16px;">
                   <p style="font-size:16px; margin-bottom:5px">
-                    <strong> Différences entre béton ciré et béton poli (béton taloché) pour pavements quant aux
+                    <strong> Différences entre béton ciré  et béton poli (béton taloché) pour pavements quant aux
                       composants :
                     </strong> <br>
                     <br>Il faut faire la différence entre ciment, mortier de ciment et béton. Le ciment est un
@@ -758,7 +742,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                   </p>
 
                   <p>Bien que tous soient des <strong> solutions pour créer des pavements </strong> , dans le cas
-                    du béton ciré il est continu et dans le cas du
+                    du béton ciré  il est continu et dans le cas du
 
                     béton poli, béton projeté ou béton taloché il est discontinu (nécessitant des joints de
                     dilatation).
@@ -815,9 +799,9 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
 
                   <div id="mitadTextoDerecha">
                     <p>
-                      <strong> BÉTON CIRÉ </strong>
+                      <strong> béton ciré  </strong>
                     </p>
-                    <p>Le <strong> béton ciré  </strong> est un mortier dont la granulométrie des granulats est
+                    <p>Le <strong> béton ciré   </strong> est un mortier dont la granulométrie des granulats est
                       plus fine, il est appliqué aussi bien sur les murs
 
                       que sur les sols, il a une épaisseur d’environ 2-3 mm, il ne nécessite pas de joints et
@@ -852,7 +836,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                         <th>Idéal pour :</th>
                       </tr>
                       <tr>
-                        <th> <strong> Béton ciré </strong>
+                        <th> <strong> béton ciré  </strong>
 
                         </th>
                         <td>Revêtement continu appliqué à la truelle</td>
@@ -926,12 +910,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading7" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7" class="d-block position-relative collapsed     collapsible-link py-2">
-                  7. ombien de temps dure une rénovation de béton ciré?</a></h3>
+                  7. ombien de temps dure une rénovation de béton ciré ?</a></h3>
             </div>
             <div id="collapse7" aria-labelledby="heading7" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  Comme le béton ciré adhère au matériau existant, les travaux ne sont pas nécessaires, de sorte que les travaux avec du béton ciré peuvent être exécutés en très peu de temps: entre trois et cinq jours. En revanche, l'application de béton ciré dans les sols augmente cette période jusqu'à une semaine.
+                  Comme le béton ciré  adhère au matériau existant, les travaux ne sont pas nécessaires, de sorte que les travaux avec du béton ciré  peuvent être exécutés en très peu de temps: entre trois et cinq jours. En revanche, l'application de béton ciré  dans les sols augmente cette période jusqu'à une semaine.
                 </p> <br>
 
                 <a href="javascript:MostrarOcultar('texto1_7');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
@@ -961,7 +945,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div id="collapse8" aria-labelledby="heading8" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  Non, ce n’est pas nécessaire. Le béton ciré crée une couche sur la
+                  Non, ce n’est pas nécessaire. Le béton ciré  crée une couche sur la
                   surface de 1 à 3 mm d’épaisseur.
 
                   Normalement la distance avec laquelle sont placées les portes est de 5 mm par rapport au sol
@@ -976,16 +960,16 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading9" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9" class="d-block position-relative collapsed     collapsible-link py-2">
-                  9. Comment nettoyer le béton ciré? </a></h3>
+                  9. Comment nettoyer le béton ciré ? </a></h3>
             </div>
             <div id="collapse9" aria-labelledby="heading9" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  L'une des questions les plus fréquemment posées sur ce revêtement décoratif est de savoir comment nettoyer le béton ciré. Bien que le nettoyage du béton ciré soit simple et avec de l'eau et du savon neutre soit plus que suffisant, chez Topciment nous avons créé des produits de nettoyage et d'entretien exclusifs pour le béton ciré afin d'obtenir de meilleurs résultats au fil du temps
+                  L'une des questions les plus fréquemment posées sur ce revêtement décoratif est de savoir comment nettoyer le béton ciré . Bien que le nettoyage du béton ciré  soit simple et avec de l'eau et du savon neutre soit plus que suffisant, chez Topciment nous avons créé des produits de nettoyage et d'entretien exclusifs pour le béton ciré  afin d'obtenir de meilleurs résultats au fil du temps
                 </p>
                 <a href="javascript:MostrarOcultar('texto1_9');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information</strong></a>
                 <div class="ocultable" id="texto1_9" style="text-align:left;font-size:16px;">
-                  <p style="font-size:16px; margin-bottom:5px">Les soins du béton ciré sont similaires à ceux d’un
+                  <p style="font-size:16px; margin-bottom:5px">Les soins du béton ciré  sont similaires à ceux d’un
                     parquet en bois naturel. Nous recommandons d’éviter des détrempages permanents et le contact
                     prolongé avec l’humidité. Il faut éviter de laisser des tapis et des serviettes mouillées
                     sur le sol ou des pots à fleur qui perdent du liquide. Nous devons aussi maintenir la
@@ -993,11 +977,11 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                     revêtement. Éviter de donner des coups et de frotter avec des objets durs.
 
                   </p>
-                  <p>Bien que le béton ciré offre une résistance élevée aux produits chimiques, le nettoyage du béton ciré doit être effectué avec des savons neutres, jamais avec des produits agressifs ou détartrants. Nous éviterons les produits tels que le chlore, l'eau de Javel, l'ammoniaque, les savons et les détergents en général, car ils peuvent endommager le film protecteur.
+                  <p>Bien que le béton ciré  offre une résistance élevée aux produits chimiques, le nettoyage du béton ciré  doit être effectué avec des savons neutres, jamais avec des produits agressifs ou détartrants. Nous éviterons les produits tels que le chlore, l'eau de Javel, l'ammoniaque, les savons et les détergents en général, car ils peuvent endommager le film protecteur.
                   </p>
                   <p> <strong>Soins initiales</strong> </p>
-                  <p>Le béton ciré atteint les qualités de dureté, résistance et étanchéité désirées, un mois
-                    après son application. Les deux premières semaines suite à l’application du béton ciré sont
+                  <p>Le béton ciré  atteint les qualités de dureté, résistance et étanchéité désirées, un mois
+                    après son application. Les deux premières semaines suite à l’application du béton ciré  sont
                     une période à risque pour la formation de défauts. Le revêtement sera praticable avec
                     beaucoup de précaution deux jours après le vernissage, et praticable sans précaution
                     particulière après une semaine. Ne pas couvrir les surfaces pendant les deux premières
@@ -1017,24 +1001,24 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
                     doivent être de caoutchouc, étant moins agressives que celles en plastique dur.
                   </p>
                   <p> <strong>Nettoyage</strong> </p>
-                  <p>Pour le nettoyage du Béton ciré, on recommande d’utiliser les produits conçus spécialement
+                  <p>Pour le nettoyage du béton ciré , on recommande d’utiliser les produits conçus spécialement
                     pour ce revêtement: Ecoclean et Ecoclean Pro. Ecoclean est un nettoyant écologique pour
                     usage domestique. C’est un produit très concentré et adapté pour le nettoyage des sols. Pour
                     son application il est dilué dans l’eau. Il est très important que deux semaines se soient
-                    écoulées depuis l'application de béton ciré pour commencer à l'utiliser. Ecoclean Pro est un
+                    écoulées depuis l'application de béton ciré  pour commencer à l'utiliser. Ecoclean Pro est un
                     nettoyant écologique professionnel spécialement indiqué pour le nettoyage des saletés
                     difficiles et persistantes. Ce nettoyant n'est pas dilué dans l'eau, il est pulvérisé et
                     laissé agir quelques instants.
                     Une autre possibilité est d’utiliser des savons neutres, jamais des produits agressifs. Ne
-                    pas laisser le savon en contact prolongé avec le béton ciré. Les produits alcalins comme le
+                    pas laisser le savon en contact prolongé avec le béton ciré . Les produits alcalins comme le
                     chlore, l’eau de Javel, l’ammoniac et les détergents en général, abiment la pellicule
-                    protectrice du béton ciré.
+                    protectrice du béton ciré .
                     Il est important de prendre en compte les besoins d’anti dérapage du sol. Plus le revêtement
                     est antidérapant, plus son nettoyage est compliqué à cause de sa texture. Voilà pourquoi il
                     est recommandé d’appliquer Microdeck pour les intérieurs et Microstone pour les extérieurs.
                   </p>
                   <p> <strong>Entretien régulier</strong> </p>
-                  <p>Il est recommandé d’entretenir régulièrement les revêtements de béton ciré avec des cires
+                  <p>Il est recommandé d’entretenir régulièrement les revêtements de béton ciré  avec des cires
                     acryliques, elles laissent un résidu acrylique qui renouvelle la couche protectrice du
                     revêtement. Le Ceraciment est un produit qui contribue à la dureté et à la brillance
                     naturelle de manière persistante. La fréquence du cirage dépendra de l'utilisation et des
@@ -1052,12 +1036,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading10" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10" class="d-block position-relative collapsed     collapsible-link py-2">
-                  10. Le béton ciré peut-il perdre de la couleur avec le temps?</a></h3>
+                  10. Le béton ciré  peut-il perdre de la couleur avec le temps?</a></h3>
             </div>
             <div id="collapse10" aria-labelledby="heading10" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  Chez Topciment, <strong> <a class="links" href="beton-cire/fabricant-beton-cire">fabricants de béton ciré</a></strong> ,nous disposons d'une large gamme de couleurs de béton ciré permettant de revêtir tout type de surface. Maintenant, le béton ciré peut-il perdre de la couleur avec le temps? Non, nos couleurs de béton ciré se comportent de manière stable, sans subir d'altérations dans le temps et sans affecter la météo.
+                  Chez Topciment, <strong> <a class="links" href="beton-cire/fabricant-beton-cire">fabricants de béton ciré </a></strong> ,nous disposons d'une large gamme de couleurs de béton ciré  permettant de revêtir tout type de surface. Maintenant, le béton ciré  peut-il perdre de la couleur avec le temps? Non, nos couleurs de béton ciré  se comportent de manière stable, sans subir d'altérations dans le temps et sans affecter la météo.
                 </p>
                 <a href="javascript:MostrarOcultar('texto1_4c');" id="enlace1_1" style="color:#000; text-decoration:none;"><strong>+information aina</strong></a>
                 <div class="ocultable" id="texto1_4c" style="text-align: left; font-size: 16px;">
@@ -1077,7 +1061,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div id="collapse11" aria-labelledby="heading11" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  L' <a href="beton-cire/methode-application-beton-cire">application du béton ciré </a>
+                  L' <a href="beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape">application du béton ciré  </a>
                   est un travail artisanal, des facteurs tels que la charge de matériau ou le rouleau utilisé dans le scellage font qu'il peut y avoir de petites différences de luminosité entre l'échantillon et le travail.avec un pistolet de pulvérisation, vous obtenez un peu plus de brillance.
                 </p>
 
@@ -1093,7 +1077,7 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
             <div id="collapse12" aria-labelledby="heading12" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="m-0">
-                  Oui, différentes couleurs de béton ciré peuvent être combinées sur une même surface, voire plusieurs finitions. L'essentiel est de définir clairement la surface sur laquelle vous souhaitez appliquer une autre couleur.
+                  Oui, différentes couleurs de béton ciré  peuvent être combinées sur une même surface, voire plusieurs finitions. L'essentiel est de définir clairement la surface sur laquelle vous souhaitez appliquer une autre couleur.
                 </p>
 
               </div>
@@ -1103,12 +1087,12 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading13" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13" class="d-block position-relative collapsed     collapsible-link py-2">
-                  13.Est-il obligatoire d'appliquer le maillage pour le béton ciré ?</a>
+                  13.Est-il obligatoire d'appliquer le maillage pour le béton ciré  ?</a>
               </h3>
             </div>
             <div id="collapse13" aria-labelledby="heading13" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
-                <p>Nous recommandons toujours d'appliquer un treillis de fibres, en particulier sur les sols et les murs carrelés, ainsi que dans les joints entre les plaques de plâtre, il est utilisé pour renforcer le béton ciré de base et éviter les fissures dues aux tensions du support de béton ciré.
+                <p>Nous recommandons toujours d'appliquer un treillis de fibres, en particulier sur les sols et les murs carrelés, ainsi que dans les joints entre les plaques de plâtre, il est utilisé pour renforcer le béton ciré  de base et éviter les fissures dues aux tensions du support de béton ciré .
                   La décision finale de le mettre ou non appartient à l'applicateur, bien sûr, mais s'il ne l'ajoute pas, il les avertit des problèmes qui peuvent survenir.</p>
 
               </div>
@@ -1135,17 +1119,17 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading15" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="d-block position-relative collapsed     collapsible-link py-2">
-                  15.Combien coûte le m2 de béton ciré ? </a>
+                  15.Combien coûte le m2 de béton ciré  ? </a>
               </h3>
             </div>
             <div id="collapse15" aria-labelledby="heading15" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
                 <p class="  m-0">
-                  <strong> Le prix du béton ciré varie en fonction de nombreux facteurs. Seul un applicateur professionnel de ce revêtement décoratif peut dire avec précision le prix au mètre carré de ce revêtement.
+                  <strong> Le prix du béton ciré  varie en fonction de nombreux facteurs. Seul un applicateur professionnel de ce revêtement décoratif peut dire avec précision le prix au mètre carré de ce revêtement.
 
                 </p>
                 <p>
-                  Le déplacement des professionnels, le type de béton ciré choisi ou le support sur lequel le béton ciré doit être appliqué sont quelques-uns des facteurs qui détermineront le prix au m2 du béton ciré. </p>
+                  Le déplacement des professionnels, le type de béton ciré  choisi ou le support sur lequel le béton ciré  doit être appliqué sont quelques-uns des facteurs qui détermineront le prix au m2 du béton ciré . </p>
                 <br> <strong> <a class="links" href="nouvelle/prix-du-beton-cire">
                     Más information
                   </a></strong>
@@ -1156,14 +1140,14 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
           <div class="card">
             <div id="heading16" class="card-header bg-white shadow-sm border-0">
               <h3><a href="#" data-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="d-block position-relative collapsed     collapsible-link py-2">
-                  16.omment puis-je m'inscrire à un cours de béton ciré ?</a>
+                  16.omment puis-je m'inscrire à un cours de béton ciré  ?</a>
               </h3>
             </div>
             <div id="collapse16" aria-labelledby="heading16" data-parent="#accordionExample" class="collapse">
               <div class="card-body p-4">
 
-                <p>Vous êtes un professionnel et souhaitez vous former à l'application du béton ciré? Nous pouvons t'aider. Visitez notre site Web pour les<strong>
-                    <a class="links" href="beton-cire/cours-application-beton-cire">cours de béton ciré </a></strong>et découvrez notre vaste programme.</p>
+                <p>Vous êtes un professionnel et souhaitez vous former à l'application du béton ciré ? Nous pouvons t'aider. Visitez notre site Web pour les<strong>
+                    <a class="links" href="beton-cire/cours-application-beton-cire">cours de béton ciré  </a></strong>et découvrez notre vaste programme.</p>
 
                 <p>Vous y trouverez toutes les informations dont vous avez besoin sur chaque cours: connaissances que vous allez apprendre, durée et prix de celui-ci, où il se déroule, qui l'enseigne, etc. Ainsi que le calendrier, que nous mettons constamment à jour, et le lien pour vous permettre d'effectuer votre réservation.
                 </p>
@@ -1195,33 +1179,33 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
 {
     "@context": "https://schema.org/",
     "@type": "Thing",
-    "name": "Béton ciré",
-    "description:": "Le microciment Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il se pose directement sur le matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, entre autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.",
+    "name": "béton ciré ",
+    "description:": "Le béton ciré Topciment est un revêtement décoratif composé de ciment, de résines à base d'eau, d'additifs et de pigments minéraux qui peut être appliqué sur une multitude de surfaces verticales et horizontales grâce à sa grande adhérence. Ce matériau de construction se distingue par le fait qu'il se pose directement sur le matériau existant : carreaux, plaques de plâtre, tuiles, marbre, terrazzo ou plâtre, entre autres. Avec pratiquement aucun travail et une épaisseur de seulement 3 millimètres, on obtient une rénovation rapide des espaces.",
     "additionalProperty": [
     {
       "@type": "PropertyValue",
-      "name": "Où peut-on appliquer le microciment ?",
-      "value": " Des escaliers ou des piscines en microciment aux meubles recouverts de microciment. Bien que l'utilisation par excellence du microciment soit dans les sols et les murs des cuisines, des salles de bains et des espaces extérieurs tels que les terrasses."
+      "name": "Où peut-on appliquer le béton ciré ?",
+      "value": " Des escaliers ou des piscines en béton ciré aux meubles recouverts de microciment. Bien que l'utilisation par excellence du béton ciré soit dans les sols et les murs des cuisines, des salles de bains et des espaces extérieurs tels que les terrasses."
     },{
       "@type": "PropertyValue",
       "name": "Avantages du microciment",
-      "value": " Multiples finitions décoratives, surface sans joints ; Peut être appliqué sur les sols, les murs, les plafonds, les piscines et les meubles. Espaces intérieurs et extérieurs ; Grande variété de couleurs et de textures de microciment ; Application artisanale. Résultat exclusif et personnalisé ; Haute adhérence. Compatible avec les carreaux, le marbre, la céramique, le grès, le terrazzo, les plaques de plâtre, le béton, le ciment, le plâtre, etc. Résistant au trafic, aux coups, aux rayures et aux produits chimiques. Imperméable. Antidérapant, selon la finition. Des travaux rapides et sans débris. L'épaisseur du matériau est de 2/3 mm, ce qui n'affecte pas la charge structurelle du bâtiment. Matériaux naturels. Produit 100% écologique. Entretien et nettoyage faciles ; avec de l'eau et du savon à pH neutre. Espaces exempts de germes et de bactéries."
+      "value": " Multiples finitions décoratives, surface sans joints ; Peut être appliqué sur les sols, les murs, les plafonds, les piscines et les meubles. Espaces intérieurs et extérieurs ; Grande variété de couleurs et de textures de béton ciré ; Application artisanale. Résultat exclusif et personnalisé ; Haute adhérence. Compatible avec les carreaux, le marbre, la céramique, le grès, le terrazzo, les plaques de plâtre, le béton, le ciment, le plâtre, etc. Résistant au trafic, aux coups, aux rayures et aux produits chimiques. Imperméable. Antidérapant, selon la finition. Des travaux rapides et sans débris. L'épaisseur du matériau est de 2/3 mm, ce qui n'affecte pas la charge structurelle du bâtiment. Matériaux naturels. Produit 100% écologique. Entretien et nettoyage faciles ; avec de l'eau et du savon à pH neutre. Espaces exempts de germes et de bactéries."
     }
     ,{
       "@type": "PropertyValue",
       "name": "Finitions en microciment",
-      "value": "Les différentes finitions de microciment que l'on peut obtenir dépendent des textures et des vernis ou scellants utilisés, car ce sont deux éléments qui conditionnent l'aspect et la finition finale de nos microciments. Nous avons des finitions mates, super mates, satinées, brillantes et mates antidérapantes."
+      "value": "Les différentes finitions de béton ciré que l'on peut obtenir dépendent des textures et des vernis ou scellants utilisés, car ce sont deux éléments qui conditionnent l'aspect et la finition finale de nos microciments. Nous avons des finitions mates, super mates, satinées, brillantes et mates antidérapantes."
     },{
       "@type": "PropertyValue",
       "name": "Couleurs du microciment",
-      "value": "Nous disposons d'une large gamme de couleurs de microciment. Le système de pigmentation vous permet de créer n'importe quelle couleur sur mesure, personnalisant ainsi les pièces et les environnements pour obtenir votre propre style.Blanc, gris, vert, rouge, noir ou bleu ne sont que quelques-unes des nombreuses couleurs de microciment disponibles pour nos systèmes."
+      "value": "Nous disposons d'une large gamme de couleurs de microciment. Le système de pigmentation vous permet de créer n'importe quelle couleur sur mesure, personnalisant ainsi les pièces et les environnements pour obtenir votre propre style.Blanc, gris, vert, rouge, noir ou bleu ne sont que quelques-unes des nombreuses couleurs de béton ciré disponibles pour nos systèmes."
     }
   ],
   "hasVariant":[
     {
       "@type": "Product",
-      "name": "Microciment à deux composants Sttandard",
-	  "description": "Microciment traditionnel à deux composants applicable à la fois aux sols et aux murs. Il se distingue par sa robustesse, sa polyvalence et sa capacité à créer des textures uniques.",
+      "name": "béton ciré à deux composants Sttandard",
+	  "description": "béton ciré traditionnel à deux composants applicable à la fois aux sols et aux murs. Il se distingue par sa robustesse, sa polyvalence et sa capacité à créer des textures uniques.",
 	  "image": "https://www.topciment.com/imagenes/sistemas/Sttandard_Generico_Web.png",
 	  "brand": "Atlanttic",
 	  "aggregateRating": {
@@ -1232,8 +1216,8 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
     },
 	{
       "@type": "Product",
-      "name": "Microciment à deux composants Non limité",
-	  "description": "Microciment bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
+      "name": "béton ciré à deux composants Non limité",
+	  "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
 	  "image": "https://www.topciment.com/imagenes/sistemas/logo_unlimitted_pagina_principal_92px_negro.png",
 	  "brand": "Unlimitted",
 	  "aggregateRating": {
@@ -1244,8 +1228,8 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
     },
 	{
       "@type": "Product",
-      "name": "Microciment monocomposant Evoluttion",
-	  "description": "La simplification des mélanges réduit les erreurs futures. C'est ce que garantit EVOLUTTION, notre microciment monocomposant. Il offre une très bonne résistance mécanique et une grande maniabilité du matériau.",
+      "name": "béton ciré monocomposant Evoluttion",
+	  "description": "La simplification des mélanges réduit les erreurs futures. C'est ce que garantit EVOLUTTION, notre béton ciré monocomposant. Il offre une très bonne résistance mécanique et une grande maniabilité du matériau.",
 	  "image": "https://www.topciment.com/imagenes/sistemas/Evoluttion_Generico_Web.png",
 	  "brand": "Evoluttion",
 	  "aggregateRating": {
@@ -1256,8 +1240,8 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
     },
 	{
       "@type": "Product",
-      "name": "Microciment Atlanttic pour piscines",
-	  "description": "ATLANTTIC est notre ligne exclusive de microciment pour les piscines et autres surfaces en contact permanent avec l'eau. ",
+      "name": "béton ciré Atlanttic pour piscines",
+	  "description": "ATLANTTIC est notre ligne exclusive de béton ciré pour les piscines et autres surfaces en contact permanent avec l'eau. ",
 	  "image": "https://www.topciment.com/imagenes/sistemas/logo_atlanttic_pagina_principal_negro_92px.png",
 	  "brand": "Atlanttic",
 	  "aggregateRating": {
@@ -1268,8 +1252,8 @@ sol en béton ciré salon salle à manger  maison Hernán Cortés" title="béton
     },
 	{
       "@type": "Product",
-      "name": "Microciment prêt à l'emploi Efectto",
-	  "description": "Aucun autre microciment ne garantit une application aussi rapide que le QUARTZ EFECTTO, notre microciment prêt à l'emploi disponible en 4 granulométries. ",
+      "name": "béton ciré prêt à l'emploi Efectto",
+	  "description": "Aucun autre béton ciré ne garantit une application aussi rapide que le QUARTZ EFECTTO, notre béton ciré prêt à l'emploi disponible en 4 granulométries. ",
 	  "image": "https://www.topciment.com/imagenes/sistemas/Efectto__Generico_Web.png",
 	  "brand": "Efectto",
 	  "aggregateRating": {

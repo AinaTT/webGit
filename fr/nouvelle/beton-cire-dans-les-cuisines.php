@@ -15,9 +15,9 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>béton cirédans les cuisines et pour les comptoirs</title>
-    <meta name="description" content="Le béton cirédans les cuisines classiques, contemporaines,
-     par l'industrie et les pays nordiques est plus qu'une alternative aux autres revêtements décoratifs, y compris le béton cirépour les comptoirs."/>
+    <title>béton ciré dans les cuisines et pour les comptoirs</title>
+    <meta name="description" content="Le béton ciré dans les cuisines classiques, contemporaines,
+     par l'industrie et les pays nordiques est plus qu'une alternative aux autres revêtements décoratifs, y compris le béton ciré pour les comptoirs."/>
 
 
 
@@ -48,14 +48,14 @@
             </div>
 
             <div class="content">
-                <h1>béton cirédans les cuisines et pour les comptoirs</h1>
+                <h1>béton ciré dans les cuisines et pour les comptoirs</h1>
                 <div id="mitadTextoIzquierda" style="width: 100%;">
                     <h2>Les meilleurs plats sont préparés dans un environnement qui est
                         source de
                         l'inspiration.</h2>
                     <p>Les chefs veulent des éléments dans leur environnement pour dynamiser leur
                         la créativité, et
-                        Le béton ciréest aussi polyvalent que les gens : il y a une finition pour
+                        Le béton ciré est aussi polyvalent que les gens : il y a une finition pour
                         chaque
                         style. Si
                         s'il s'agit d'une nouvelle cuisine ou d'une rénovation, vous pouvez
@@ -67,14 +67,14 @@
                         a <strong>rénovation rapide sur les murs et le sol</strong>, sans
                         besoin de
                         les travaux, le bruit et les débris.</p>
-                    <p>Le béton ciréest un matériau neutre qui s'adapte à tout type de
+                    <p>Le béton ciré est un matériau neutre qui s'adapte à tout type de
                         cuisine, de
                         classique à contemporaine, en passant par les options industrielles et nordiques
                         style.
                         Les couleurs claires apportent luminosité et amplitude, tandis que les couleurs
                         sombres
                         créer un environnement agréable
-                        espaces. Dans les cuisines ouvertes, le béton ciréoffre la possibilité
+                        espaces. Dans les cuisines ouvertes, le béton ciré offre la possibilité
                         l'enrobage de la
                         Le sol est exactement comme celui du salon, <strong>harmoniser et générer
                             la continuité dans
@@ -86,7 +86,7 @@
                         l'étape suivante consiste à choisir les meubles en fonction des couleurs
                         utilisées et
                         effets
-                        atteint. Dans ce cas, les meubles peuvent être recouverts de béton cirépour
+                        atteint. Dans ce cas, les meubles peuvent être recouverts de béton ciré pour
                         <strong>obtenir
                             un design original et 100% exclusif.</strong>
                     </p>
@@ -97,7 +97,7 @@
                         Le
                         le sol et les murs sont constamment exposés à des éclaboussures de graisse et/ou
                         dégoulinant
-                        liquides. Dans ce domaine, <strong>Le béton ciréprésente un grand avantage :
+                        liquides. Dans ce domaine, <strong>Le béton ciré présente un grand avantage :
                             son
                             la maintenance est très simple</strong>. Comme il n'y a pas de joints, le
                         nettoyage

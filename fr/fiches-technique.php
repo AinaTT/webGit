@@ -17,18 +17,18 @@
 
      <title>Fiches techniques des produits Topciment</title>
      <meta name="description" content="Découvrez notre catalogue et toutes les solutions que nous offrons pour l'application
-        de béton ciré en revêtements décoratifs."/>
+        de béton ciré  en revêtements décoratifs."/>
 
      <meta property="og:locale" content="fr_FR"/>
      <meta property="og:type" content="website"/>
      <meta property="og:title" content="Fiches techniques des produits Topciment"/>
      <meta property="og:description" content="Découvrez notre catalogue et toutes les solutions que nous offrons pour l'application
-        de béton ciré en revêtements décoratifs."/>
+        de béton ciré  en revêtements décoratifs."/>
      <meta property="og:url" content="https://www.topciment.com/fr/fiches-technique"/>
      <meta property="og:site_name" content="Topciment"/>
      <meta name="twitter:card" content="summary"/>
      <meta name="twitter:description" content="Découvrez notre catalogue et toutes les solutions que nous offrons pour l'application
-        de béton ciré en revêtements décoratifs."/>
+        de béton ciré  en revêtements décoratifs."/>
      <meta name="twitter:title" content="Fiches techniques des produits Topciment"/>
      <meta name="twitter:site" content="@topciment"/>
      <meta name="twitter:creator" content="@topciment"/>
@@ -72,35 +72,35 @@
                      <h5 class="card-header mb-3">Sttandard
                      </h5>
                      <p class="links-ft text-dark">
-                         <a href="fiches-techniques/MicrobaseBI-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase</strong> (béton ciré
+                         <a href="fiches-techniques/MicrobaseBI-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase</strong> (béton ciré 
                              bicomposant de préparation)</a><br>
                          <a href="fiches-techniques/MicrobaseBI-XL-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase XL</strong>
-                             </i><strong>Sttandard Microbase</strong> (béton ciré bicomposant de préparation)</a>
+                             </i><strong>Sttandard Microbase</strong> (béton ciré  bicomposant de préparation)</a>
                          </a><br>
                          <a href="fiches-techniques/MicrobaseBI-XXL-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microbase XXL</strong>
-                             </i><strong>Sttandard Microbase</strong> (béton ciré bicomposant de préparation)</a>
+                             </i><strong>Sttandard Microbase</strong> (béton ciré  bicomposant de préparation)</a>
                          </a><br>
                          <a href="fiches-techniques/MicrodeckBI-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microdeck</strong>
-                             ( béton ciré bicomposant pour les sols )</a><br>
+                             ( béton ciré  bicomposant pour les sols )</a><br>
                          <a href="fiches-techniques/MicrofinoBI-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microfino</strong>
-                             (Béton ciré fino bicomposant )</a><br>
+                             (béton ciré  fino bicomposant )</a><br>
                          <a href="fiches-techniques/MicrostoneBI-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microstone</strong>
-                             (béton ciré bicomposant pour l'extérieur)</a><br>
+                             (béton ciré  bicomposant pour l'extérieur)</a><br>
                          <a href="fiches-techniques/Acricem-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Acricem</strong> ( Résine acrylique
-                             pour la préparation du béton ciré)</a><br>
+                             pour la préparation du béton ciré )</a><br>
                      </p>
                      <h5 class="card-header mb-3 mt-3">Evoluttion</h5>
                      <p class="text-dark links-ft">
-                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrobaseMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microbase</strong> (béton ciré
+                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrobaseMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microbase</strong> (béton ciré 
                              monocomposant de préparation)</a><br>
-                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrofinoMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microfino</strong> ( béton ciré
+                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrofinoMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microfino</strong> ( béton ciré 
                              monocomposant pour les murs )</a><br>
-                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrodeckMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microdeck</strong> (Béton ciré
+                         <a href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrodeckMN_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Evoluttion Microdeck</strong> (béton ciré 
                              monocomposant pour les sols )</a><br>
                      </p>
                      <h5 class="card-header mb-3 mt-3">Efectto</h5>
                      <p class="text-dark links-ft">
-                         <a href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Efectto Quartz</strong> (béton ciré prêt à
+                         <a href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Efectto Quartz</strong> (béton ciré  prêt à
                              l'emploi)</a>
                      </p>
                      <h5 class="card-header mb-3 mt-3">Pure Mettal</h5>
@@ -149,28 +149,28 @@
                          <a href="fiches-techniques/ArcocemBASIC-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Arcocem Basic</strong> (pigment
                              concentré pour préparer dose)</a><br>
                          <a href="fiches-techniques/ArcocemPLUS-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Arcocem Plus</strong>(pigments
-                             mono dose pour béton ciré)</a><br>
+                             mono dose pour béton ciré )</a><br>
                      </p>
                      <h5 class="card-header mb-3 mt-3"> Topsealer
                      </h5>
                      <p class="text-dark links-ft">
                          <a href="fiches-techniques/TopsealerWTonecoat-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT One
                                  Coat</strong>
-                             (agent de scellage base eau pour béton ciré)</a><br>
+                             (agent de scellage base eau pour béton ciré )</a><br>
                          <a href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTquickdry-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Quick
-                                 Dry</strong>(agent de scellage base eau pour béton ciré)</a><br>
+                                 Dry</strong>(agent de scellage base eau pour béton ciré )</a><br>
                          <a href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTantiSlip-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti
                                  Slip</strong> (Vernis scellant Antidérapant)</a><br>
                          <a href="fiches-techniques/TopsealerDSV-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong>((agent de
-                             scellage pour béton ciré base dissolvant)</a><br>
+                             scellage pour béton ciré  base dissolvant)</a><br>
                          <a href="fiches-techniques/Presealer-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong> (apprêt
                              bouche-pores pour les piscines)</a><br>
 
-                     </p>
+                     </p> 
 
 
 
-                     <h5 class="card-header mb-3 mt-3"> Limpieza y mantenimiento</h5>
+                     <h5 class="card-header mb-3 mt-3"> Nettoyage et entretien</h5>
                      <p class="text-dark links-ft">
                          <a href="fiches-techniques/Ceraciment-FR.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong> Ceraciment Basic</strong> (Cire
                              d’entretien des sols)</a><br>

@@ -17,22 +17,18 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Gebrauchsfertiger Mikrozement für hohe Dekoration | Efectto Quartz</title>
+    <title>Gebrauchsfertiger mikrozement  für hohe Dekoration | Efectto Quartz</title>
     <meta name="description"
-        content="Der gebrauchsfertige Mikrozement Efectto Quartz schafft fugenlose, durchgehende Oberflächen mit hohem Dekor. Aber das Beste ist ohne Zweifel seine schnelle Anwendung." />
+        content="Der gebrauchsfertige mikrozement  Efectto Quartz schafft fugenlose, durchgehende Oberflächen mit hohem Dekor. Aber das Beste ist ohne Zweifel seine schnelle Anwendung." />
 
 
-    <meta property="og:title" content="Gebrauchsfertiger Mikrozement für hohe Dekoration | Efectto Quartz">
+    <meta property="og:title" content="Gebrauchsfertiger mikrozement  für hohe Dekoration | Efectto Quartz">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto">
     <meta property="og:description"
-        content="Der gebrauchsfertige Mikrozement Efectto Quartz schafft fugenlose, durchgehende Oberflächen mit hohem Dekor. Aber das Beste ist ohne Zweifel seine schnelle Anwendung.">
+        content="Der gebrauchsfertige mikrozement  Efectto Quartz schafft fugenlose, durchgehende Oberflächen mit hohem Dekor. Aber das Beste ist ohne Zweifel seine schnelle Anwendung.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
-    <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
+  <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto" />
@@ -96,9 +92,9 @@
                         </div>
                         <div class="content">
                             <a id="que-es-efectto" class="ancla"></a>
-                            <h1 class="en2">Gebrauchsfertiger Mikrozement Efectto Quartz</h1>
+                            <h1 class="en2">Gebrauchsfertiger mikrozement  Efectto Quartz</h1>
                             <div class="text-justify">
-                                <p> Efectto Quartz ist die gebrauchsfertige Linie aus Mikrozement, mit der Sie
+                                <p> Efectto Quartz ist die gebrauchsfertige Linie aus mikrozement , mit der Sie
                                     hochdekorative, durchgehende Oberflächen erzielen können. Seine exklusive Formel
                                     enthält keine Zemente, die unvorhergesehene Schrumpfungen oder Risse verursachen
                                     können. </p>
@@ -111,7 +107,7 @@
                                     angebracht werden kann. </p>
                                 <p>Es ist in einer breiten Farbpalette und in vier verschiedenen Körnungen erhältlich,
                                     die sich durch ihre natürliche Optik auszeichnen. Im Gegensatz zu Sttandard oder
-                                    Evoluttion ist die Farbe homogener und bewahrt die Textur des Mikrozements. </p>
+                                    Evoluttion ist die Farbe homogener und bewahrt die Textur des mikrozement s. </p>
                             </div>
                         </div>
                     </div>
@@ -418,7 +414,7 @@
                         <!-- descripcion -->
                         <div class="col-md-6">
                             <p>
-                                Efectto Quartz Big Grain ist die mit Mikrozement verputzte Vorbereitung für das
+                                Efectto Quartz Big Grain ist die mit mikrozement  verputzte Vorbereitung für das
                                 Wandsystem. Auf dieses Produkt wird eine Schicht Efectto Quartz Small Grain aufgetragen.
                                 <br> Tiene una granulometría máxima de 0,3 <br><br>
                                 <a class="links"
@@ -1076,10 +1072,10 @@
         </section>
       <section id="preguntas-frecuentes">
             <div><img class="imgiz" src="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_900X443_01.jpg" width="100%"
-                    alt="mikrozemente">
+                    alt="mikrozement e">
             </div>
             <div><img class="imgde" src="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_900X443_02.jpg" width="100%"
-                    alt="mikrozemente">
+                    alt="mikrozement e">
             </div>
             <div id="separador50px"></div>
             <a id="preguntas-frecuentes-ok" class="ancla" ></a>
@@ -1185,8 +1181,8 @@
                         <div style="font-size:16px;">
                             <ul>
                                 <li>Gebrauchsfertig, so dass kein Mischen erforderlich ist.</li>
-                                <li> Viel schneller zu verarbeiten als traditionelles Mikrozement.</li>
-                                <li> Schneller zu trocknen als traditionelles Mikrozement.</li>
+                                <li> Viel schneller zu verarbeiten als traditionelles mikrozement .</li>
+                                <li> Schneller zu trocknen als traditionelles mikrozement .</li>
                                 <li> Einfache Anwendung, keine Notwendigkeit für vorherige Anwendungserfahrung.</li>
                                 <li> Sehr gute Haftung auf dem Träger.</li>
                                 <li> Es ist flexibel und schrumpft nicht, so dass es nicht reißt.</li>
@@ -1347,9 +1343,9 @@
                                 <h3>Wie wird Efectto Quartz gereinigt?
                             </strong></p></a>
                         <div style="font-size:16px;">
-                            <p>Um eine lange Lebensdauer für unseren Mikrozement zu garantieren, empfehlen wir die
-                                Verwendung der Topciment Mikrozement Reinigungs- und Pflegeprodukte: Ecoclean Reiniger
-                                und Ceraciment Pflegewachs, wie in diesem pdf angegeben>> Topciment Mikrozement
+                            <p>Um eine lange Lebensdauer für unseren mikrozement  zu garantieren, empfehlen wir die
+                                Verwendung der Topciment mikrozement  Reinigungs- und Pflegeprodukte: Ecoclean Reiniger
+                                und Ceraciment Pflegewachs, wie in diesem pdf angegeben>> Topciment mikrozement 
                                 Reinigungs- und Pflegeleitfaden oder neutrale Seife und Wasser .</p>
                         </div>
 
@@ -1363,7 +1359,7 @@
                         <p style="font-size:16px;">
                             Ja, aber vor der Anwendung müssen wir das Einschaltprotokoll der Heizung durchführen, um zu
                             verhindern, dass durch die Temperaturwechsel im Estrich entstehende Risse sich auch im
-                            Mikrozement fortsetzen.
+                            mikrozement  fortsetzen.
 
                         </p>
 
@@ -1378,11 +1374,11 @@
                             25 °C gehalten. Danach wird
                             die Wassertemperatur langsam auf 45 °C erhöht und so mehrere Tage lang gehalten.
                         </p>
-                        <p>3. Die Heizung wird mindestens 48 Stunden vor dem Auftragen des Mikrozements ausgeschaltet.
+                        <p>3. Die Heizung wird mindestens 48 Stunden vor dem Auftragen des mikrozement s ausgeschaltet.
                             Die Bodentemperatur darf 18
                             °C nicht überschreiten.
                         </p>
-                        <p>Mikrozement-Bodenbeläge müssen auf Zementmörtel aufgetragen werden, der bereits sehr weit
+                        <p>mikrozement -Bodenbeläge müssen auf Zementmörtel aufgetragen werden, der bereits sehr weit
                             ausgehärtet ist. Das
                             geschieht, abhängig vom Wetter, in drei oder vier Wochen. Wir müssen in jedem Fall
                             sicherstellen, dass der Mörtel
@@ -1395,7 +1391,7 @@
                             einheitlich sein muss und
                             ansonsten erst noch in dieser Hinsicht bearbeitet werden müsste.</p>
 
-                        <p>Nach dem Auftragen des Mikrozements, müssen wir mindestens 48 Stunden warten, bis wir die
+                        <p>Nach dem Auftragen des mikrozement s, müssen wir mindestens 48 Stunden warten, bis wir die
                             Heizung erneut anschalten und
                             stufenweise (+5 °C täglich) erhitzen können.</p>
 
@@ -1434,7 +1430,957 @@
     </div>
     </div>
     <!-- include jQuery -->
-
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Gebrauchsfertige mikrozement -Wandvorbereitung Efectto Quartz Big",
+         "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg und  6 Kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement -Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "21"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Wandvorbereitung Efectto Quartz Big 17Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#big-grain",
+        "sku": "TT01209",
+        "gtin13": "8436575625232",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Wandvorbereitung Efectto Quartz Big 6Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#big-grain",
+        "sku": "TT01210",
+        "gtin13": "8436575625249",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Gebrauchsfertige mikrozement -Bodenbeschichtung Efectto Quartz Medium Grain",
+         "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg und  6 Kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+            {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,450 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement -Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "20"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Bodenbeschichtung Efectto Quartz Medium Grain 17Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#medium-grain",
+        "sku": "TT01215",
+        "gtin13": "8436575625294",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+                 {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,450 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "20"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Bodenbeschichtung Efectto Quartz Medium Grain 6Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Medium_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#medium-grain",
+        "sku": "TT01216",
+        "gtin13": "8436575625300",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+               {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,5 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,61 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,450 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "20"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Gebrauchsfertige mikrozement -Wandverkleidung Efectto Quartz Small Grain",
+         "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg und  6 Kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,250 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement -Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "14"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Wandverkleidung Efectto Quartz Small Grain 17Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#small-grain",
+        "sku": "TT01211",
+        "gtin13": "8436575625256",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [     {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,250 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Gebrauchsfertige mikrozement -Wandverkleidung Efectto Quartz Small Grain 6Kg",
+             "description": "Gebrauchsfertige mikrozement ierung für das Wandsystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Small_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#small-grain",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+         {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "0,3 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,63 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "45 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "42 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 0,250 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      }
+     
+    ]
+  } </script>
+  <script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Gebrauchsfertiger mikrozement  für die Bodenvorbereitung Efectto Quartz Super Grain",
+         "description": "Gebrauchsfertige mikrozement oberfläche für das Fußbodensystem",
+    "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "17 Kg und  6 Kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+          {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement -Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "21"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Gebrauchsfertiger mikrozement  für die Bodenvorbereitung Efectto Quartz Super Grain 17Kg",
+             "description": "Gebrauchsfertige mikrozement oberfläche für das Fußbodensystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg",
+        "size": "17 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#super-grain",
+        "sku": "TT01213",
+        "gtin13": "8436575625270",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "17Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [ 
+              {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Gebrauchsfertiger mikrozement  für die Bodenvorbereitung Efectto Quartz Super Grain 6Kg",
+             "description": "Gebrauchsfertige mikrozement oberfläche für das Fußbodensystem.",
+        "image": "https://www.topciment.com/imagenes/efectto/Topciment_Cubo_Efectto_Super_Grain_6Kg.jpg",
+        "size": "6 Kg",
+        "url": "https://www.topciment.com/de/mikrozement/gebrauchsfertiger-mikrozement-effektto#super-grain",
+        "sku": "TT01212",
+        "gtin13": "8436575625263",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "6 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+             {
+      "@type": "PropertyValue",
+      "name": "Maximale Dicke pro Schicht",
+      "value": "1 mm"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Dichte",
+      "value": "1,67 g/m3"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Shore D-Härte",
+      "value": "66 mg"
+    },
+	{
+     "@type": "PropertyValue",
+      "name": "Taber Abrasion",
+      "value": "66 mg"
+    },
+	{
+      "@type": "PropertyValue",
+      "name": "Leistung",
+      "value": "(1 Umhang)- 1,3 Kg/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "21"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

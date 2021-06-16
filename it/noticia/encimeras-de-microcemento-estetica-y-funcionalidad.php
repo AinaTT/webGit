@@ -85,7 +85,7 @@
                     <h3>2. Buona risposta del piano di lavoro in microcemento all'umidità </h3>.
                     <p>I piani in microcemento hanno una buona resistenza all'umidità ambientale e hanno la possibilità
                         di essere impermeabili se sigillati con una delle nostre <a class="link"
-                            href="../microcemento/barniz-topsealer">vernici poliuretaniche</a>. Qualità che hanno
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer">vernici poliuretaniche</a>. Qualità che hanno
                         incrementato il rivestimento dei piani di lavoro con microcemento. </p>
                     <h3>3. Piano di lavoro in microcemento per molti anni</h3>
                     <p>Come la pulizia, questo materiale non richiede quasi nessuna manutenzione. Così avrete il vostro

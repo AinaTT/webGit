@@ -7,7 +7,7 @@
             <div class="menu botones menu1b">
                 <ul>
 
-                    <li><a href="mikrozemente">Mikrozement</a>
+                    <li><a href="mikrozemente">mikrozement </a>
                     </li>
                     <!--    <li><a href="epoxi">Epoxi</a></li> -->
                     <li class="submenu idiomas"><a href="#"><img src="https://www.topciment.com/imagenes/flags/germany.png" alt="Topciment germany web" Title="Topciment germany web"></a>
@@ -32,7 +32,7 @@
                 <ul>
                     <li><a href="mikrozement/produkte">produkte</a></li>
                     <li><a href="fachleute">PROFIS</a></li>
-                    <li><a href="mikrozement/schulungen-anwendung-mikrozement">Kurse</a></li>
+                    <li><a href="mikrozement/schulungen-anwendung-mikrozement ">Kurse</a></li>
                     <li><a href="mikrozement/galerie">Galerie</a></li>
                     <li><a href="nachrichten">Nachrichten</a></li>
 

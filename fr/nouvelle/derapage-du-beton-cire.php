@@ -57,14 +57,14 @@
                     <p>Afin d'offrir à nos clients <strong>les solutions les plus sûres
                             solutions</strong> Topciment a effectué des tests de glisse sur <u><a href="https://www.laboratorioderesbaladicidad.com/">Wessex</a></u> le
                         seul laboratoire d'essai en Espagne spécialisé dans ce domaine. Être en tant que
-                        l'application du béton ciréest un processus comportant de nombreuses variables, différentes applications et finitions
+                        l'application du béton ciré est un processus comportant de nombreuses variables, différentes applications et finitions
                         différentes alternatives d'application et de finition ont été testées pour se conformer à la
                         de se conformer aux réglementations nationales et internationales en vigueur relatives à l'application du microciment.
 
                     </p>
                     <p>Grâce à ces résultats, les techniciens pourront choisir le système qui répondra aux exigences de la
                         le système pour répondre aux exigences des normes. Cela dit
-                        Ceci étant dit, nous devons tenir compte du fait que la <u><a href="../information-beton-cire">Béton Ciré</a></u> est appliquée in situ, la main de l
+                        Ceci étant dit, nous devons tenir compte du fait que la <u><a href="../information-beton-cire">béton ciré </a></u> est appliquée in situ, la main de l
                         la main de l'applicateur influence le résultat final de sorte que les résultats que nous donnons sont
                         nous donnons <strong>ne peuvent être comprises que comme des valeurs de référence</strong>.</p>
 

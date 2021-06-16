@@ -15,30 +15,30 @@
     <link rel="preload" href="../../assets/css/aplicacion.css" as="style" />
     <link rel="stylesheet" href="../../assets/css/aplicacion.css" />
 
-    <title>使用微水泥的方法 - 如何使用</title>
+    <title>如何应用微水泥- 应用步骤</title>
     <meta name="description" content="认识使用微水泥，依照我们的建议，您可以学习如何在墙壁，地板，游泳池和建筑外墙涂上微水泥。" />
 
     <meta property="og:locale" content="zh_CN" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="使用微水泥的方法 - 如何使用" />
+    <meta property="og:title" content="如何应用微水泥- 应用步骤" />
     <meta property="og:description" content="认识使用微水泥，依照我们的建议，您可以学习如何在墙壁，地板，游泳池和建筑外墙涂上微水泥。" />
-    <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/weishuini-de-yingyong-fangfa" />
+    <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="认识使用微水泥，依照我们的建议，您可以学习如何在墙壁，地板，游泳池和建筑外墙涂上微水泥。" />
-    <meta name="twitter:title" content="使用微水泥的方法 - 如何使用" />
+    <meta name="twitter:title" content="如何应用微水泥- 应用步骤" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
-    <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/weishuini-de-yingyong-fangfa" />
+    <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou" />
 
 
-    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/weishuini-de-yingyong-fangfa"
+    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/ruhe-yingyong-weishuini-yingyong-weishuini-meigebuzou"
         hreflang="zh-CN" />
-    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/methode-application-beton-cire"
+    <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape"
         hreflang="fr-FR" />
-    <link rel="alternate" href="https://topciment.com/en/microcements/methods-application-microcement"
+    <link rel="alternate" href="https://topciment.com/en/microcements/how-to-apply-microcement-microcement-application-step-by-step"
         hreflang="en-GB" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/metody-aplikacji-mikrocementu" hreflang="pl-PL" />
 
@@ -72,7 +72,7 @@
                         </div>
                         <div class="content">
                             <a id="up" class="ancla"></a>
-                            <h1 class=" en2 mb-3">使用方法</h1>
+                            <h1 class=" en2 mb-3">如何应用微水泥-你必须知道的技巧</h1>
 
                             <p>这个部分是特别给微水泥的专业人员，由我们的经验丰富的专家提供的宝贵建议，您可以学到微水泥在墙壁，地板，室内，室外和游泳池的施工方法</p>
 
@@ -80,7 +80,7 @@
 
                             <p>这个拉页说明根据您不同需要的完工效果，施用微水泥也有不一样的技巧，微水泥是可以提供应有尽有效果的装饰性涂料。</p>
 
-                            <h2>如何使用</h2>
+                            <h2>应用步骤-方法</h2>
                             <p>
                                 微水泥的应用过程取决于所选择的Topciment微水泥产品系统。
 
@@ -103,7 +103,7 @@
                     <div class="container">
                         <div class="content">
                             <a id="suelos" class="ancla"></a>
-                            <h2 class="mb-3">微水泥在地板上的应用</h2>
+                            <h2 class="mb-3">如何应用微水泥在地板上</h2>
                           <p>
                                微水泥地板是一种趋势，因为它是一种耐用和耐磨的装饰涂料，并提供了高度的个性化。我们告诉你如何一步步在地板上涂抹微水泥，无论是室内还是室外的表面。
 
@@ -147,7 +147,7 @@
                         <div class="content">
                             <a id="paredes" class="ancla"></a>
 
-                            <h2 class="mb-3">微水泥墙壁的应用</h2>
+                            <h2 class="mb-3">如何在墙壁应用微水泥</h2>
                        <p>
                             微水泥在墙体中的应用已经普及，这要归功于其工业化的外观、快速的施工和高粘性以及高抗裂性等诸多优点。因此，我们发现越来越多的微水泥墙不仅出现在私人住宅中，也出现在酒店或餐馆等大型商业场所中。
 
@@ -196,14 +196,14 @@
 
                            </p>    
 <p>Topciment，意识到这种装饰涂料在建造游泳池方面的无数优势，我们特别设计了 "Atlanttic"，这是一个专门针对游泳池的微水泥系列。</p>
-                            <h3>如何在游泳池中使用 "Atlanttic "微水泥？</h3>
+                            <h3>如何在泳池中应用 "Atlanttic "大西洋系列微水泥？</h3>
                            <p>下面，我们将介绍使用我们的 "Atlanttic "系统在游泳池中应用微水泥的步骤。不管是室内泳池还是室外泳池，都要按照同样的流程进行。</p>
                             <p>
                                 <a class="links" href="daxiyangxilie-yongchi-weishuini#aplicacion"><i
                                         class="fas fa-arrow-circle-right "></i>  如何应用 
                                     <strong> Atlanttic</strong> 在这里</a>
                             </p>
-                            <h2>微水泥的应用技巧</h2>
+                            <h2>正确应用微水泥的技巧</h2>
                             <p>如果你对如何涂抹微水泥还有疑惑，千万不要错过这一系列的建议。</p>
                            
                         </div>

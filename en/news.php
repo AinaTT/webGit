@@ -63,7 +63,96 @@
 
                             <div class="col-md-12 pr-0 pl-0 ">
                                 <div class="row">
+                                  <!-- Start bloques  noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="new/microcement-stairs-how-to-coat-them-correctly">
+                                     Microcement stairs: how to coat them correctly</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>9/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/img/microcemento/escalera-microcemento-plata.webp"
+                                                                    height="auto" />
+                                                               <p>Microcement stairs are the decorative element of the moment. Follow our tips and learn how to make microcement stairs step by step.</p>
+                                                                <a href="new/microcement-stairs-how-to-coat-them-correctly"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read more</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                                 <!-- Start bloques  noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="new/how-to-apply-microcement-on-old-tiles-step-by-step">
+                                       How to apply microcement on old tiles: step by step</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>8/06/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg"
+                                                                    height="auto" />
+                                                                <p>Microcement is the best material for coating old tiles without building work. We explain how to apply microcement on tiles, step by step.</p>
+
+                                                                <a href="new/how-to-apply-microcement-on-old-tiles-step-by-step"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read
+                                                                    more</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
                                   
+                                    <!-- Start bloques  noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="new/microcement-worktops-aesthetics-and-functionality">
+                                           Microcement worktops: aesthetics and functionality</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>5/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg"
+                                                                    height="auto" />
+                                                                <p>Microcement worktops are becoming more and more common due to their functionality, aesthetics and wide variety of uses. Find out about their main advantages.
+                                                                </p>
+
+                                                                <a href="new/microcement-worktops-aesthetics-and-functionality"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read
+                                                                    more</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
                                     <!-- Start bloques  noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
@@ -296,6 +385,35 @@
                                             </div>
                                         </div>
                                     </div>
+                                     <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="microcements/how-to-avoid-unwanted-stains-or-marks-when-applying-microcement">
+                                                  Tips to avoid stains and marks on microcement</a> <span
+                                                    class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>14/3/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg"
+                                                                    height="auto" />
+                                                                <p>Learn about the main defects of a bad application of microcement on floors and walls. Our experts provide solutions to the main problems: stains and marks.
+                                                                </p>
+                                                                <a href="microcements/how-to-avoid-unwanted-stains-or-marks-when-applying-microcement"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read
+                                                                    more</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a
@@ -318,8 +436,7 @@
                                                                     values Topciment's significant investment in R&D&I.
                                                                 </p>
                                                                 <a href="new/topciment-receives-innovative-sme-stamp"
-                                                                    class="btn float-right btn-primary leermass mt-2">Read
-                                                                    more</a>
+                                                                    class="btn float-right btn-primary leermass mt-2">Read more</a>
                                                             </div>
 
                                                         </div>
@@ -661,7 +778,7 @@
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header" id="preciomicrocemento"> <a
-                                                    href="new/microcement-price">Price of microcement</a> <span
+                                                    href="new/microcement-price">What is the price of microcement per square metre in 2021?</a> <span
                                                     class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2  "></i>13/01/2020</span></h2>
                                             <div class="card-body">
@@ -674,53 +791,10 @@
                                                                     height="auto" />
 
 
-                                                                <p>Only a professional microcement applicator knows the
-                                                                    exact prices per m2 (travel, material, value of his
-                                                                    work, difficulty of the work, etc...).</p>
-                                                                <p>Only a professional microcement applicator knows the
-                                                                    exact prices per m2 (travel, material, value of his
-                                                                    work, difficulty of the work, etc...).
+                                                                <p>Are you planning to cover walls or floors with microcement?  Find out what the price of  microcement   per square metre in 2021</p>
                                                                     <a href="new/microcement-price"
                                                                         class="btn btn-primary leermass mt-2 ml-0">Read
                                                                         more</a>
-
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-md-12 pr-0 pl-0 mb-5">
-                                        <div class="card">
-                                            <h2 class="card-header"> <a
-                                                    href="new/kitchen-countertops-with-microcement">Kitchen worktops
-                                                    with microcement?</a><span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2  "></i>13/01/2020</span> </h2>
-                                            <div class="card-body">
-                                                <div class="paragraphs">
-                                                    <div class="row">
-                                                        <div class="span4">
-                                                            <div class="clearfix content-heading">
-                                                                <img class="pull-left mr-3"
-                                                                    src="https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg"
-                                                                    height="auto" />
-
-
-
-                                                                <p>There are many different types of materials for
-                                                                    kitchen worktops, both cheaper and more expensive,
-                                                                    but Topciment microcement is a different option to
-                                                                    all the other solutions on the market. We tell you
-                                                                    everything here so that you can choose the perfect
-                                                                    kitchen worktop: resistant, hygienic, easy to clean
-                                                                    and maintain.</p>
-                                                                </p>
-                                                                <a href="new/kitchen-countertops-with-microcement"
-                                                                    class="btn btn-primary leermass mt-2 ">Read more</a>
 
                                                             </div>
 

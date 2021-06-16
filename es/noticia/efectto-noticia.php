@@ -108,7 +108,38 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/efectto-noticia"
+  },
+  "headline": "¡Topciment presenta Efectto!",
+  "image":"https://www.topciment.com/imagenes/efectto/noticia_bodegon_efectto.jpg",
+  "datePublished": "2020-01-14",
+  "dateModified": "2020-01-14",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Topciment presenta Efectto , la nueva línea de revestimientos continuos y listos al uso de alta decoración.
 
+Efectto es una gama de productos muy amplia y con gran variedad de acabados que se irán desvelando en los próximos meses. El primero de estos nuevos productos en ver la luz es Efectto Quartz."
+}
+</script>
 </body>
 
 </html>

@@ -146,6 +146,7 @@
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerWTantiSlip-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT Anti Slip</strong> (barniz poliuretano al agua antideslizante) </a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/TopsealerDSV-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer DSV</strong> (barniz poliuretano acrílico bicomponente al disolvente)</a><br>
                          <a href="https://www.topciment.com/fichas-tecnicas/Presealer-ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Presealer</strong> (barniz acrílico al agua)</a><br>
+                     <a href="https://www.topciment.com/fichas-tecnicas/TopsealerAll_In_One_ES.pdf" target="_blank"><i class="fas fa-file-pdf mr-2  "></i><strong>Topsealer WT All in One</strong> (Barniz poliuretano al agua monocomponente)</a><br>
 
                      </p>
 

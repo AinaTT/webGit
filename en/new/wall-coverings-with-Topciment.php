@@ -90,7 +90,7 @@
                         Microfino as watermarks are less noticeable. </p> <br> <img
                         src="https://www.topciment.com/imagenes/revestimiento-paredes/revestimiento-paredes-con-microcemento-topciment.jpg"
                         width="100%" alt="Wall cladding with microcement"> <br><br><br>
-                    <p>Both products, combined with Topciment's ">range of colours, textures and varnishes, give the
+                    <p>Both products, combined with Topciment's range of colours, textures and varnishes, give the
                         wall cladding of rooms an aesthetic dimension beyond anything we are used to.
 
 
@@ -107,7 +107,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/wall-coverings-with-Topciment"
+  },
+  "headline": "Wall cladding walls",
+  "image":"https://www.topciment.com/imagenes/revestimiento-paredes.jpg",
+  "datePublished": "2020-01-17",
+  "dateModified": "2020-01-17",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Wall cladding in some of the rooms, or in the whole house, gives us quality and an aesthetic and long-lasting result, especially on walls that require constant hygiene and cleaning, such as those in the kitchen or bathroom."
+}
+</script>
 </body>
 
 </html>

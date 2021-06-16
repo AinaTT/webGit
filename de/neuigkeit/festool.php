@@ -60,7 +60,7 @@
             <div class="content">
                 <h1>Topciment empfiehlt Festool für eine perfekte Anwendung</h1>
                 <div class="headline wow fadeInRight styleNormal16justified">
-                    <p>Eine gute <strong>Mikrozementanwendung</strong> ist von mehreren Faktoren abhängig. Dazu gehören
+                    <p>Eine gute <strong>mikrozement anwendung</strong> ist von mehreren Faktoren abhängig. Dazu gehören
                         unbedingt Qualitätsprodukte, die mit einem Fachmann kombiniert werden müssen, der die
                         Anwendungstechnik beherrscht, aber auch die besten Werkzeuge verwendet, um ein außergewöhnliches
                         Finish zu erzielen. Die Kombination von <strong>Topciment</strong>-Produkten und
@@ -78,7 +78,7 @@
                         ohne den Einsatz von Werkzeugen eingearbeitet werden. Konkret passen sich die
                         HS-Schraubenstangen perfekt an die Maschinen an und können <strong>bis zu 60 kg Material
                             bewegen</strong>. <br><br><br>Sie sind ideal für schwere und zähflüssige Mischungen, wie
-                        <strong><a href="https://www.topciment.com/de/mikrozemente">Mikrozemente</a></strong>,
+                        <strong><a href="https://www.topciment.com/de/mikrozemente">mikrozement e</a></strong>,
                         selbstnivellierende oder Epoxidharze.</p><br>
                 </div>.
                 <div id="mitadTextoDerecha" data-animate-scroll='{"x": "0",
@@ -92,7 +92,7 @@
 						"y": "0",
 						"alpha": "0",
 						"duration": "1"}'>
-                    <h2>ROTEX Exzenterschleifer: </h2> <p>Dieses Maschinenmodell eignet sich am besten zum Schleifen von Mikrozement und zur Beseitigung von Unebenheiten und Reliefs. </p> <p><br>Es ist ein grundlegendes Werkzeug bei der Fertigstellung des Bewerbungsprozesses. Er zeichnet sich durch seinen ergonomischen Griff aus, durch die Leichtigkeit, mit der Sie die Platte wechseln können und durch die Möglichkeit, drei Arten von Bewegungen auszuführen, um Schleifeffekte zu erzielen: grob, fein oder poliert. </p> <p><br>Wir empfehlen, an die Schleifmaschine die blaue ROTEX-Schleifplatte zu montieren, mit der notwendigen Härte für Topciment-Mikromörtel. </p> <p><br>Mit dem Ziel des Hochleistungsschleifens, mit der höchstmöglichen Qualität und dem Gedanken an die Gesundheit derer, die es benutzen, hat Festool das MULTI-JETSTREAM-System patentiert, das die ständige Regeneration der Luft, die Kühlung der Maschine und die Reduzierung von Verstopfungen ermöglicht.  </p>
+                    <h2>ROTEX Exzenterschleifer: </h2> <p>Dieses Maschinenmodell eignet sich am besten zum Schleifen von mikrozement  und zur Beseitigung von Unebenheiten und Reliefs. </p> <p><br>Es ist ein grundlegendes Werkzeug bei der Fertigstellung des Bewerbungsprozesses. Er zeichnet sich durch seinen ergonomischen Griff aus, durch die Leichtigkeit, mit der Sie die Platte wechseln können und durch die Möglichkeit, drei Arten von Bewegungen auszuführen, um Schleifeffekte zu erzielen: grob, fein oder poliert. </p> <p><br>Wir empfehlen, an die Schleifmaschine die blaue ROTEX-Schleifplatte zu montieren, mit der notwendigen Härte für Topciment-Mikromörtel. </p> <p><br>Mit dem Ziel des Hochleistungsschleifens, mit der höchstmöglichen Qualität und dem Gedanken an die Gesundheit derer, die es benutzen, hat Festool das MULTI-JETSTREAM-System patentiert, das die ständige Regeneration der Luft, die Kühlung der Maschine und die Reduzierung von Verstopfungen ermöglicht.  </p>
                 </div>
                 <div id="mitadTextoDerecha" data-animate-scroll='{"x": "0",
 						"y": "50",
@@ -106,7 +106,7 @@
 						"y": "0",
 						"alpha": "0",
 						"duration": "1"}'>
-                    <h2>CLEANTEC mobile Systeme:</h2> <p>Moderne Staubsauger, mit denen Sie exquisite Reinigung in Rekordgeschwindigkeit erreichen.</p> <p><br>So vermeiden Sie Schmutzwolken bei der Arbeit. Ebenso wird das ständige Einatmen von Staub verhindert, der bei Personen, die täglich mit Schleifmaschinen arbeiten, gesundheitsschädliche Auswirkungen haben kann. </p> <p><br>Auf der anderen Seite ist sein Design auf einen komfortablen Transport ausgelegt, da er über eine robuste Struktur, große Räder und Stahlachsen verfügt, um ihn während der Fahrt nicht zu beschädigen und ein Umkippen zu vermeiden. </p> <p>Die Ergebnisse der Verwendung dieser Werkzeuge zusammen mit Topciment-Produkten für die Anwendung von Mikrozement sind Arbeiten von höchstmöglicher Qualität, sauber und gesund. </p>
+                    <h2>CLEANTEC mobile Systeme:</h2> <p>Moderne Staubsauger, mit denen Sie exquisite Reinigung in Rekordgeschwindigkeit erreichen.</p> <p><br>So vermeiden Sie Schmutzwolken bei der Arbeit. Ebenso wird das ständige Einatmen von Staub verhindert, der bei Personen, die täglich mit Schleifmaschinen arbeiten, gesundheitsschädliche Auswirkungen haben kann. </p> <p><br>Auf der anderen Seite ist sein Design auf einen komfortablen Transport ausgelegt, da er über eine robuste Struktur, große Räder und Stahlachsen verfügt, um ihn während der Fahrt nicht zu beschädigen und ein Umkippen zu vermeiden. </p> <p>Die Ergebnisse der Verwendung dieser Werkzeuge zusammen mit Topciment-Produkten für die Anwendung von mikrozement  sind Arbeiten von höchstmöglicher Qualität, sauber und gesund. </p>
                     <p>Mehr Informationen:&nbsp;<a href="https://www.festool.es/"
                             target="_blank">https://www.festool.es/</a></p>
                 </div>

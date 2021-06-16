@@ -44,11 +44,6 @@
     <link rel="alternate" href="https://www.topciment.com/en/professionals" hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/sceau-de-qualite" hreflang="fr-FR" />
 
-    <link rel="alternate" href="https://www.topciment.com/it/professionisti.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/voor-de-vakman.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-professionals.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/professionali.html" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.cn/polished-plaster-professionals.html" hreflang="zh-CN" />
 
     <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>

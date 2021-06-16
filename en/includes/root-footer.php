@@ -14,7 +14,7 @@
                      <li class="primacemF"><a class="linkB" href="microcements/primers-and-adhesion-promoters-primacem">Primers</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="microcements/pigments-for-microcement-arcocem">Pigments</a></li>
-                     <li class="topsealerF"><a class="linkB" href="microcements/varnishes-topsealer">Primers</a></li>
+                     <li class="topsealerF"><a class="linkB" href="microcements/polyurethane-waterbased-acrylic-varnishes-topsealer">Primers</a></li>
                      <li class="limpieF"><a class="linkB" href="microcements/cleaning-and-care-of-microcement">Cleaning and care of
                                 microcement</a></li>
                      <li class="herramF"><a class="linkB" href="microcements/microcement-tools">Tools</a></li>

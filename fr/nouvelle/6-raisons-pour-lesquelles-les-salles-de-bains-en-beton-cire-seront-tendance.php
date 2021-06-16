@@ -15,24 +15,24 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title> 6 raisons pour lesquelles les salles de bains en béton ciré seront une tendance en 2021</title>
+    <title> 6 raisons pour lesquelles les salles de bains en béton ciré  seront une tendance en 2021</title>
     <meta name="description"
-        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré dans les salles de bain et ses principaux avantages." />
+        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré  dans les salles de bain et ses principaux avantages." />
 
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
     <meta property="og:title"
-        content=" 6 raisons pour lesquelles les salles de bains en béton ciré seront une tendance en 2021" />
+        content=" 6 raisons pour lesquelles les salles de bains en béton ciré  seront une tendance en 2021" />
     <meta property="og:description"
-        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré dans les salles de bain et ses principaux avantages." />
+        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré  dans les salles de bain et ses principaux avantages." />
     <meta property="og:url"
         content="https://www.topciment.com/fr/nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré dans les salles de bain et ses principaux avantages." />
+        content=" Les salles de bains en micro-ciment deviendront à la mode en 2021 et chez Topciment on sait pourquoi. Découvrez ici où appliquer le béton ciré  dans les salles de bain et ses principaux avantages." />
     <meta name="twitter:title"
-        content=" 6 raisons pour lesquelles les salles de bains en béton ciré seront une tendance en 2021" />
+        content=" 6 raisons pour lesquelles les salles de bains en béton ciré  seront une tendance en 2021" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -67,19 +67,19 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>6 raisons pour lesquelles les salles de bains en béton ciré seront une tendance en 2021 </h1>
+                <h1>6 raisons pour lesquelles les salles de bains en béton ciré  seront une tendance en 2021 </h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
                     <p>
                         Si vous envisagez de rénover ou d'agrandir la salle de bain dans les mois à venir, cet article
-                        est pour vous. Les salles de bain en béton ciré, enduit décoratif haute performance, sera une
+                        est pour vous. Les salles de bain en béton ciré , enduit décoratif haute performance, sera une
                         tendance en 2021. Chez Topciment nous savons très bien de quoi nous parlons, pour une raison
-                        nous sommes leaders dans la <a href="../beton-cire/fabricant-beton-cire">fabrication de béton ciré</a> en Espagne avec plus
+                        nous sommes leaders dans la <a class="links" href="../beton-cire/fabricant-beton-cire">fabrication de béton ciré </a> en Espagne avec plus
                         de 15 des années d'expérience.
 
                     </p>
                     <p>
                         Les avantages de ce revêtement ont conduit les architectes, les architectes d'intérieur et les
-                        professionnels de la construction à miser de plus en plus sur le béton ciré dans les salles de
+                        professionnels de la construction à miser de plus en plus sur le béton ciré  dans les salles de
                         bain. Non seulement en raison des belles finitions qu'offre ce revêtement, mais aussi en raison
                         de la résistance ou de la durabilité qu'il offre, parmi de nombreux autres avantages.
 
@@ -88,8 +88,8 @@
                         <img src="https://www.topciment.com/imagenes/news/topciment-pared-lavabo-baño-USA.jpg"
                             class="figure-img img-fluid " title="Baño con microcemento "
                             alt="Baño microcemento gris Topciment">
-                        <figcaption class="figure-caption">Comptoir de salle de bains en béton cirégris et
-                            des murs en béton cirégris de Topciment.</figcaption>
+                        <figcaption class="figure-caption">Comptoir de salle de bains en béton ciré gris et
+                            des murs en béton ciré gris de Topciment.</figcaption>
                     </figure>
 
 
@@ -97,41 +97,41 @@
                     <p>
                         Dans la plupart des cas, la salle de bain est la plus petite surface de la maison et, par
                         conséquent, optimiser sa taille autant que possible est une priorité lors de la décision de la
-                        rénover. La continuité du béton ciré dans les salles de bains offre une plus grande sensation
+                        rénover. La continuité du béton ciré  dans les salles de bains offre une plus grande sensation
                         d'espace qui sera encore renforcée si elle est combinée avec des couleurs claires sur les sols
                         et les murs.
 
                     </p>
                     <p>
-                        C'est le cas du blanc, une couleur idéale pour que la salle de bain en béton ciré paraisse
+                        C'est le cas du blanc, une couleur idéale pour que la salle de bain en béton ciré  paraisse
                         beaucoup plus grande qu'elle ne l'est réellement et qui se marie également parfaitement avec
                         d'autres matériaux comme le bois.
 
                     </p>
                     <h2 class="en3"> 2. Résistance à l'humidité</h2>
-                    <p>Un autre des avantages les plus notables du béton ciré dans les salles de bain qui contribuera à
+                    <p>Un autre des avantages les plus notables du béton ciré  dans les salles de bain qui contribuera à
                         le faire devenir une mode en 2021 est son extraordinaire résistance à l'humidité ambiante. La
                         salle de bain est une zone qui souffre constamment de ce type d'humidité, c'est pourquoi il est
-                        si important de sélectionner correctement les matériaux à utiliser. Avec le béton ciré, ce
+                        si important de sélectionner correctement les matériaux à utiliser. Avec le béton ciré , ce
                         problème disparaît complètement.</p>
 
                     <h2 class="en3">3. Polyvalence
                     </h2>
                     <p>
-                        S'il y a une caractéristique qui définit parfaitement les salles de bain en béton ciré, c'est
+                        S'il y a une caractéristique qui définit parfaitement les salles de bain en béton ciré , c'est
                         bien leur polyvalence, puisque ce revêtement a une excellente adhérence sur pratiquement tous
                         les supports tels que les carreaux, l'un des matériaux phares des salles de bain.
 
                     </p>
                     <p>
-                        C'est pourquoi nous pouvons appliquer du béton ciré dans les salles de bain de plusieurs façons,
+                        C'est pourquoi nous pouvons appliquer du béton ciré  dans les salles de bain de plusieurs façons,
                         pas seulement sur les murs et les sols. Il est courant de voir des meubles de salle de bain
-                        recouverts de béton ciré, d'éviers et même de receveurs de douche et de baignoires.
+                        recouverts de béton ciré , d'éviers et même de receveurs de douche et de baignoires.
 
                     </p>
                     <p>
                         Une polyvalence qui vous permet de créer des designs infinis et toutes les couleurs que vous
-                        souhaitez, car le béton cirépossède une large gamme de pigments.
+                        souhaitez, car le béton ciré possède une large gamme de pigments.
 
                     </p>
 
@@ -148,13 +148,13 @@
                     </h2>
                     <p>
                         Ranger une salle de bain est l'une des choses les plus paresseuses au monde, non? Un problème
-                        qui disparaît avec ce revêtement continu. Une salle de bain avec béton ciré est très facile à
+                        qui disparaît avec ce revêtement continu. Une salle de bain avec béton ciré  est très facile à
                         nettoyer car l'absence de joints empêche la saleté de s'accumuler. Il vous suffit d'utiliser un
                         détergent neutre et une balleta pour le soin quotidien et… voila!
 
                     </p>
                     <p>
-                        Bien que nous recommandons notre nettoyant pour béton ciré à usage domestique, <a
+                        Bien que nous recommandons notre nettoyant pour béton ciré  à usage domestique, <a
                             href="../beton-cire/nettoyage-et-entretien-du-beton-cire#ecoclean-basic">Ecoclean
                             Basic</a>, capable d'éliminer tout type de saleté.
 
@@ -162,14 +162,14 @@
                     <h2 class="en3"> 5. Améliore la lumière naturelle
                     </h2>
                     <p>S'il y a quelque chose qui préoccupe et inquiète lors de la rénovation d'une salle de bain, c'est
-                        qu'elle soit lumineuse, créant une atmosphère détendue. Le béton ciré est idéal car il met en
+                        qu'elle soit lumineuse, créant une atmosphère détendue. Le béton ciré  est idéal car il met en
                         valeur la lumière naturelle comme si elle se reflétait dessus, à condition que les couleurs
                         utilisées soient claires.</p>
 
                     <h2 class="en3">6. Rapidité dans l'installation
                     </h2>
                     <p>
-                        Comme l'application du béton ciré dans les salles de bain ne nécessite pas de travaux,
+                        Comme l'application du béton ciré  dans les salles de bain ne nécessite pas de travaux,
                         l'installation sera très rapide. S'il est appliqué sur les sols, il faudra attendre environ 2 ou
                         3 jours pour pouvoir se déplacer sur le nouveau trottoir sans problème. N'est-ce pas
                         fantastique?
@@ -181,93 +181,129 @@
 
                     </p>
                     <p>
-                        En ce qui concerne <a href="../beton-cire/methode-application-beton-cire">l'application du béton
-                            ciré</a> dans les salles de bains, le procédé varie en fonction du type de béton ciré choisi
+                        En ce qui concerne <a class="links" href="../beton-cire/comment-appliquer-le-microciment-application-du-beton-cire-etape-par-etape">l'application du béton
+                            ciré</a> dans les salles de bains, le procédé varie en fonction du type de béton ciré  choisi
                         et de la surface à recouvrir (qu'elle soit praticable ou non praticable).
 
                     </p>
-                    <h2>Prix du béton ciré de la salle de bain</h2>
+                    <h2>Prix du béton ciré  de la salle de bain</h2>
 
                     <p>
-                        Le prix du béton ciré dans les salles de bain dépend de plusieurs éléments tels que la
-                        difficulté du travail, la qualité du béton ciré qui va être utilisé ainsi que ce qui va être
-                        couvert. Ce n'est pas la même chose d'appliquer du béton ciré sur le sol ou les murs de la salle
+                        Le prix du béton ciré  dans les salles de bain dépend de plusieurs éléments tels que la
+                        difficulté du travail, la qualité du béton ciré  qui va être utilisé ainsi que ce qui va être
+                        couvert. Ce n'est pas la même chose d'appliquer du béton ciré  sur le sol ou les murs de la salle
                         de bain pour fabriquer un receveur de douche ou une baignoire.
 
                     </p>
-                    <h2>4 idées pour appliquer du béton ciré dans les salles de bain</h2>
+                 <h2>5 idées pour appliquer du béton ciré  dans les salles de bain</h2>
 
-                    <p>
-                        Le béton ciré dans les salles de bains peut être appliqué de nombreuses façons et dans de
-                        nombreux endroits. Les experts de Topciment vous donnent quelques-unes des idées les plus
-                        intéressantes pour obtenir un bain de magazine.
+<p>
+    Le béton ciré  dans les salles de bains peut être appliqué de nombreuses façons et dans de nombreux endroits. Les experts de Topciment vous donnent quelques-unes des idées les plus intéressantes pour obtenir un bain de magazine.
 
-                    </p>
-                    <h3>Baignoire et douche en béton ciré</h3>
+</p>    
+<h3>1. Baignoire et douche en béton ciré  </h3>
 
-                    <p>
-                        Depuis quelque temps déjà, la production de baignoires et de douches en béton ciré explose.
-                        Principalement parce que, outre sa belle esthétique, le béton ciré est un revêtement décoratif
-                        dont l'entretien est faible et son nettoyage est minime.
+<p>
+    Depuis quelque temps déjà, la production de baignoires et de douches en béton ciré  explose. Principalement parce que, outre sa belle esthétique, le béton ciré  est un revêtement décoratif dont l'entretien est faible et son nettoyage est minime.
 
-                    </p>
-                    <p>
-                        Mais aussi en raison de la capacité de ce revêtement innovant à créer des finitions
-                        antidérapantes pour éviter ces glissades perfides dont nous souffrons tous un certain temps dans
-                        notre vie. Notre <a href="../beton-cire/vernis-topsealer#topsealer-anti-slip">vernis antidérapant Topsealer WT</a> fait de la baignoire et de la
-                        douche en béton ciré un espace 100% sûr.
+</p>    
+<p>
+    Mais aussi en raison de la capacité de ce revêtement innovant à créer des finitions antidérapantes pour éviter ces glissades perfides dont nous souffrons tous un certain temps dans notre vie. Notre vernis antidérapant Topsealer WT (lien produit) fait de la baignoire et de la douche en béton ciré  un espace 100% sûr.
 
-                    </p>
-                    <p>
-                        Dans le même ordre d'idées, une finition imperméable peut également être réalisée à l'aide d'un
-                        autre scellant pour empêcher l'eau de stagner dans le receveur de douche et l'apparition de
-                        champignons.
+</p>    
+<p>
+    Dans le même ordre d'idées, une finition imperméable peut également être réalisée à l'aide d'un autre scellant pour empêcher l'eau de stagner dans le receveur de douche et l'apparition de champignons.
 
-                    </p>
+</p>   
+<h3>2. béton ciré  dans le comptoir et le lavabo de la salle de bain </h3>
 
-                    <h3>Béton ciré sur le comptoir et le lavabo de la salle de bain</h3>
+<p>
+    Une imperméabilité qui le rend très approprié pour recouvrir le comptoir ou le lavabo de la salle de bain de béton ciré , deux éléments constamment exposés à l'eau. Le vaste nuancier du béton ciré  Topciment permet de nombreux designs pour les comptoirs et les lavabos de la salle de bain. Cependant, le béton ciré  blanc et le béton ciré  gris sont toujours les plus populaires lors de la rénovation d'une salle de bain.
 
-                    <p>
-                        Une imperméabilité qui le rend très approprié pour recouvrir le comptoir ou le lavabo de la
-                        salle de bain avec du béton ciré, deux éléments constamment exposés à l'eau. Le vaste nuancier
-                        du béton ciré Topciment permet de nombreux designs pour les comptoirs et les lavabos de la salle
-                        de bain. Cependant, le béton ciré blanc et le béton ciré gris gris sont toujours les plus
-                        populaires lors de la rénovation d'une salle de bain.
+</p>    
+<h3>3. Étagères en béton ciré  dans la salle de bain</h3> 
 
-                    </p>
-                    <h3>Étagères en béton ciré dans la salle de bain </h3>
+<p>
+    L'organisation et le rangement dans la salle de bain sont essentiels. Parfois, cela peut être un vrai casse-tête lorsque la salle de bain en question est très petite. Par conséquent, optimiser au maximum l'espace est une priorité.
 
-                    <p>
-                        L'organisation et le rangement dans la salle de bain sont essentiels. Parfois, cela peut être un
-                        vrai casse-tête lorsque la salle de bain en question est très petite. Par conséquent, optimiser
-                        au maximum l'espace est une priorité.
+</p>    
+<p>
+    Quelle que soit sa taille, opter pour une étagère de salle de bain avec béton ciré  est un succès, car elle permet non seulement de ranger des articles d'hygiène tels que des serviettes, mais contribue également à donner une impression de continuité à toute la pièce. De même, la flexibilité de ce matériau permet la création de tout type de meuble en béton ciré  dans la salle de bain, pas seulement des étagères.
 
-                    </p>
-                    <p>
-                        Quelle que soit sa taille, opter pour une étagère de salle de bain avec du béton ciré est un
-                        succès, car elle permet non seulement de ranger des articles d'hygiène tels que des serviettes,
-                        mais contribue également à donner une impression de continuité à toute la pièce. De même, la
-                        flexibilité de ce matériau permet la création de tout type de meuble en béton ciré dans la salle
-                        de bain, pas seulement des étagères.
+</p>    
+<figure class="figure">
+                        <img src="https://www.topciment.com/imagenes/news/banera-microcemento.jpg" class="figure-img img-fluid " title="Baignoire en béton ciré gris" alt="Baignoire en béton ciré gris" > <figcaption class="figure-caption"> Grande baignoire en béton ciré gris assortie au mur qui a également été recouvert de béton ciré Topciment.
+                    </figcaption></figure>
+<h3>4. Murs et sols en béton ciré  dans les salles de bains</h3> 
 
-                    </p>
-                    <h3>Murs et sols en béton ciré dans les salles de bains</h3>
+<p>
+    L'utilisation la plus répandue du béton ciré  n'allait pas être une exception dans le cas des salles de bain. Recouvrir les murs de béton ciré , mais surtout les sols de la salle de bain, est l'une des options préférées. Un type de revêtement de sol à prendre en compte car, comme mentionné précédemment, il peut devenir antidérapant.
 
-                    <p>
-                        L'utilisation la plus répandue du béton ciré n'allait pas être une exception dans le cas des
-                        salles de bain. Recouvrir les murs de béton ciré, mais surtout les sols de la salle de bain, est
-                        l'une des options préférées. Un type de revêtement de sol à prendre en compte car, comme
-                        mentionné précédemment, il peut devenir antidérapant.
+</p>    
+<p>
+    Comme vous l'avez vu, le potentiel du béton ciré  dans les salles de bain est immense. Des compétences qui sont tombées amoureuses des architectes, designers d'intérieur et autres professionnels de la construction.
 
-                    </p>
-                    <p>
-                        Comme vous l'avez vu, le potentiel du béton cirédans les salles de bain est immense. Des
-                        compétences qui sont tombées amoureuses des architectes, designers d'intérieur et autres
-                        professionnels de la construction.
+</p>    
+<h3>5. Lavabos en béton ciré  </h3>
 
-                    </p>
+<p>
+    L'une des meilleures idées pour appliquer du béton ciré  dans les salles de bain est de construire un évier pour son faible entretien, sa fonctionnalité, son design et son esthétique moderne. Quelle que soit la couleur du béton ciré , la finition finale sera très attractive, douce et agréable au toucher.
 
+</p>    
+<p>
+    Lors de la fabrication d'un lavabo en béton ciré , il faut prendre en compte une série de considérations que nous allons développer ci-dessous.
 
+</p>    
+<figure class="figure mt-4">
+                                                    <img src="https://www.topciment.com/imagenes/news/lavabo-bano-microcemento.jpg" class="figure-img img-fluid" 
+                                                    title="Lavabo en béton ciré de couleur ardoise en Belgique" alt="Lavabo en béton ciré de couleur ardoise dans une maison en Belgique"> <figcaption class="figure-caption">Salle de bain de style industriel avec lavabo en béton ciré de couleur ardoise. Le travail, où notre béton ciré a également été appliqué sur le sol, a été réalisé dans une maison en Belgique.</figcaption>
+                                                </figure>
+<h4>1. Évier en béton ciré  avec une bonne pente vers le drain</h4>
+
+<p>
+    Il faut s'assurer que le futur lavabo en béton ciré  présente une bonne pente ou une bonne pente vers le drain pour éviter que l'eau ne stagne, ce qui serait fatal. En assurant cela, la plupart des problèmes lors de l'application de béton ciré  à un évier seront évités.
+
+</p>    
+<h4>2. Renforcer les bords du bassin en béton ciré </h4>
+
+<p>
+    Un des conseils de nos experts, bien qu'à priori cela ne soit pas nécessaire, est de renforcer les bords du lavabo en béton ciré  avec des profilés en aluminium. Ce faisant, une qualité, une cohérence et un design supplémentaires sont ajoutés au lavabo recouvert de béton ciré  lisse.
+
+</p>    
+<h4>3. Lavabo en béton ciré  imperméabilisant</h4>
+
+<p>
+    L'un des grands avantages de la fabrication d'un lavabo en béton ciré  est le caractère imperméable qui peut être donné à ce revêtement avec des mastics spécialisés. Avec nos vernis, le lavabo en béton ciré  résistera sans problème à l'humidité ambiante et à l'eau courante.
+
+</p>    
+<h4>4. Large gamme d'éviers en béton ciré  </h4>
+
+<p>
+    Les éviers en béton ciré  offrent de larges possibilités décoratives en fonction du type de revêtement. Si vous recherchez un aspect marqué d'eau ou de stuc et un toucher doux, il est recommandé d'utiliser le béton ciré  Microfino.
+
+</p>    
+<p>
+    Si, au contraire, un aspect plus naturel est préféré, le meilleur choix est le béton ciré  Microdeck. Mais vous pouvez également obtenir une finition en pierre ou rustique si vous appliquez du béton ciré  Microbase frais sur frais.
+
+</p>    
+<figure class="figure mt-4">
+                                                    <img src="https://www.topciment.com/imagenes/news/bano-lavabo-microcemento-gris.jpg" class="figure-img img-fluid" 
+                                                    title="Lavabo en béton ciré Himalaya dans une maison en Allemagne" alt="Lavabo en béton ciré Himalaya dans une maison en Allemagne"> <figcaption class="figure-caption">Notre béton ciré Himalaya est le protagoniste de la salle de bain de cette maison en Allemagne. Le mur de la salle de bains et le lavabo ont été recouverts de béton ciré </figcaption>
+                      </figure>
+
+ <h2>Couleurs de salle de bain en béton ciré </h2>
+
+<p>
+    Le blanc, le gris et le beige sont les couleurs les plus utilisées dans les salles de bains en béton ciré . Le blanc, comme mentionné précédemment, est la teinte préférée pour favoriser la luminosité et la propreté de la pièce ainsi que la sensation d'espace dans les petites salles de bains en béton ciré .
+
+</p>    
+<p>
+    Pour sa part, le beige et le reste des bruns clairs est une couleur de béton ciré  idéale dans les salles de bains qui recherchent une atmosphère et un style plus rustiques. Si vous recherchez juste le contraire, un style plus moderne et actuel, le gris est le meilleur allié. Dans tous les cas, il est important de noter que la polyvalence du béton ciré  dans les salles de bain permet de combiner différentes couleurs
+
+</p>    
+<p>
+    Comme vous l'avez vu, le potentiel du béton ciré  dans les salles de bain est immense. Des compétences qui sont tombées amoureuses des architectes, designers d'intérieur et autres professionnels de la construction.  
+</p>                 
                     <h4 class="mt-5 mb-4 en7">Vous pourriez également être intéressé :</h4>
                     <div class="row">
                         <div class="col-md-3">
@@ -281,7 +317,7 @@
                             <p>
                                 <p><a class="links"
                                         href="8-raisons-pour-lesquelles-beton-cire-lavenir-des-renovations"><strong>8
-                                            les raisons pour lesquelles le béton ciréest l'avenir des rénovations.
+                                            les raisons pour lesquelles le béton ciré est l'avenir des rénovations.
                                             les rénovations.</strong></a></p>
                         </div>
                         </p>
@@ -405,14 +441,14 @@
                                                     class="SIGNUP_FLD">
                                                     <input type="text"
                                                         style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                        placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                        placeholder="Nom" changeitem="SIGNUP_FORM_FIELD"
                                                         name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                     class="SIGNUP_FLD">
                                                     <input type="button"
                                                         style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType"

@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Möbel mit Mikrozement </title>
-    <meta name="description" content="Bilder von unglaublichen Originalmöbeln mit Mikrozement-Verkleidung" />
+    <title>Möbel mit mikrozement  </title>
+    <meta name="description" content="Bilder von unglaublichen Originalmöbeln mit mikrozement -Verkleidung" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Möbel mit Mikrozement" />
+    <meta property="og:title" content="Möbel mit mikrozement " />
     <meta property="og:description"
-        content="Bilder von unglaublichen super originellen Möbeln mit Mikrozement verkleidet" />
+        content="Bilder von unglaublichen super originellen Möbeln mit mikrozement  verkleidet" />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/muebles-revestidos-con-microcemento" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Bilder von unglaublichen super originellen Möbeln, die mit Mikrozement verkleidet sind" />
-    <meta name="twitter:title" content="Möbel mit Mikrozement" />
-    <meta name="twitter:title" content="Möbel mit Mikrozement" />
+        content="Bilder von unglaublichen super originellen Möbeln, die mit mikrozement  verkleidet sind" />
+    <meta name="twitter:title" content="Möbel mit mikrozement " />
+    <meta name="twitter:title" content="Möbel mit mikrozement " />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -68,15 +68,15 @@
                 </ul>
             </div>
             <div class="content">
-                <h1 id="microCementFlooringGalleryH1" class="wow fadeInLeft" style="width:100%">Möbel mit Mikrozement
+                <h1 id="microCementFlooringGalleryH1" class="wow fadeInLeft" style="width:100%">Möbel mit mikrozement 
                 </h1>
                 <h2 id="galleryH2" class="wow fadeInLeft justified">@the_ply Moskau, Russland. <br> Fotos: @the_ply
                 </h2>
                 <div class="wow fadeInRight justified" style="float:left; font-size:16px; margin-left:0; margin-top:0;">
-                    <p>Die unendlichen Möglichkeiten von Topciment-Mikrozement haben die Fantasie unserer russischen
+                    <p>Die unendlichen Möglichkeiten von Topciment-mikrozement  haben die Fantasie unserer russischen
                         Kollegen an unglaublichen Orten spielen lassen. <a href="https://www.theply.ru/" target="blank"
                             rel="nofollow">@the_ply</a> hat in unseren Produkten <strong>die Möglichkeit entdeckt,
-                            unglaubliche Möbel zu schaffen</strong>. Mit Microbase als Mikrozement mit rustikalem Finish
+                            unglaubliche Möbel zu schaffen</strong>. Mit Microbase als mikrozement  mit rustikalem Finish
                         und mit einem sehr originellen Design hat dieses Unternehmen echte Schmuckstücke geschaffen:
                         Sofas, Tische, Spiegel und vieles mehr... Jeden Tag eine neue Herausforderung, eine neue
                         Kreation und ein neuer Erfolg.

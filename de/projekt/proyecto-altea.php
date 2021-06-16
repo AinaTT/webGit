@@ -16,15 +16,15 @@
 
 
     <title>Projekt in altea</title>
-    <meta name="description" content="Fotos vom altea Projekt mit Topciment Mikrozement" />
+    <meta name="description" content="Fotos vom altea Projekt mit Topciment mikrozement " />
     <meta property="og:locale" content="es_ES" />
     <meta property="og: type" content="website" />
     <meta property="og:title" content="Projekt in altea" />
-    <meta property="og:description" content="Fotos des altea Projekts mit Topciment Mikrozement" />
+    <meta property="og:description" content="Fotos des altea Projekts mit Topciment mikrozement " />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-altea" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Bilder vom altea-Projekt mit Mikrozement Topciment" />
+    <meta name="twitter:description" content="Bilder vom altea-Projekt mit mikrozement  Topciment" />
     <meta name="twitter:title" content="Projekt in altea" />
     <meta name="twitter:title" content="Projekt in altea" />
     <meta name="twitter:site" content="@topciment" />

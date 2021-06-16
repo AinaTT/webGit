@@ -93,13 +93,8 @@
                          <a href="data-sheets/MicrostoneBI-EN.pdf" target="_blank"><i
                                  class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Microstone</strong>
                              ( two component microcement for exteriors)</a><br>
-                         <a href="data-sheets/Aquaciment-EN.pdf" target="_blank"><i
-                                 class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Aquaciment</strong>
-                             (Microcement for swimming pools)</a><br>
-                         <a href="data-sheets/Acricem-EN.pdf" target="_blank"><i
-                                 class="fas fa-file-pdf mr-2  "></i><strong>Sttandard Acricem</strong> (Resina acrílica
-                             para
-                             preparación del microcemento)</a><br></p>
+                      
+                         </p>
                      <h5 class="card-header mb-3 mt-3">Unlimitted</h5>
                      <p class="text-dark links-ft">
                          <a href="data-sheets/Unlimitted_Microbase_EN.pdf" target="_blank"><i
@@ -169,6 +164,13 @@
                                  class="fas fa-file-pdf mr-2  "></i><strong>Elitte Glitter</strong>( Glitter metal
                              glazes)</a><br>
                      </p>
+                          <h5 class="card-header mb-3 mt-3"> Acricem
+                     </h5>
+                     <p class="text-dark links-ft">
+                     <a href="data-sheets/Acricem-EN.pdf" target="_blank"><i
+                                 class="fas fa-file-pdf mr-2  "></i><strong>Acricem</strong> (Acrylic resin for microcement preparation)</a><br>
+
+                      </p>
                      <h5 class="card-header mb-3 mt-3"> Primacem
                      </h5>
                      <p class="text-dark links-ft">
@@ -224,6 +226,7 @@
                          <a href="data-sheets/Presealer-EN.pdf" target="_blank"><i
                                  class="fas fa-file-pdf mr-2"></i><strong>Presealer</strong> (swimming pool
                              primer)</a><br>
+                             <a href="data-sheets/Topsealer_All_in_one_EN.pdf" target="_blank"><i class="fas fa-file-pdf mr-2"></i><strong>Topsealer WT All in One</strong> (One-component water-based polyurethane varnish)</a><br>
                      </p>
                      <h5 class="card-header mb-3 mt-3"> Cleaning and maintenance</h5>
                      <p class="text-dark links-ft">
@@ -267,7 +270,7 @@
 
              <div class="container">
                  <div class="content">
-
+   
                      <a id="catalogo-topciment" class="ancla"></a>
                      <h2>Topciment catalogue</h2>
                      <p class="text-catalogue" style="text-align:justify;">Our new catalogue contains detailed

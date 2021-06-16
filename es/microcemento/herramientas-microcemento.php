@@ -278,7 +278,7 @@
                     <p class="en3">
                         Presentación</p>
                     <p>
-La llana de goma para microcemento fino se vende por unidades.
+La llana de goma para microcemento fino se vende en cajas de 20 unidades.
                     </p>
                 </div>
             </div>
@@ -339,7 +339,7 @@ La llana de goma para microcemento fino se vende por unidades.
                     <p class="en3">
                         Presentación</p>
                     <p>
-La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
+La llana de acero Bi-Flex para microcemento se vende en cajas de 20 unidades.
                     </p>
                 </div>
             </div>
@@ -403,7 +403,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     <p class="en3">
                         Presentación</p>
                     <p>
-    El número de unidades varía según el gramaje de la malla de fibra de vidrio.
+ La malla de fibra de vidrio para microcemento se vende en rollos de 50 x 1 m.
                     </p>
                 </div>
 
@@ -468,7 +468,7 @@ La llana de acero Bi-Flex para microcemento se vende en blisters unitarios.
                     <!-- presentacion -->
                     <p class="en3">
                         Presentación</p>
-                    <p>El rodillo de pelo corto para microcemento se vende en blisters unitarios.
+                    <p>El rodillo de pelo corto para microcemento se vende en cajas de 20 unidades.
                     </p>
                 </div>
 

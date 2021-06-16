@@ -18,14 +18,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Mikrozement für Schwimmbäder | Atlanttic</title>
-    <meta name="description" content="Atlanttic-Mikrozement für Schwimmbäder zeichnet sich durch seine Beständigkeit gegen Eintauchen und seine rutschfeste Oberfläche aus. Ideal für die Beschichtung des Randes und rund um den Pool."/>
+    <title>mikrozement  für Schwimmbäder | Atlanttic</title>
+    <meta name="description" content="Atlanttic-mikrozement  für Schwimmbäder zeichnet sich durch seine Beständigkeit gegen Eintauchen und seine rutschfeste Oberfläche aus. Ideal für die Beschichtung des Randes und rund um den Pool."/>
 
 
-    <meta property="og:title" content="Mikrozement für Schwimmbäder | Atlanttic">
+    <meta property="og:title" content="mikrozement  für Schwimmbäder | Atlanttic">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/mikrozement/mikrozement-fur-pools-atlanttic">
-    <meta property="og:description" content="Atlanttic-Mikrozement für Schwimmbäder zeichnet sich durch seine Beständigkeit gegen Eintauchen und seine rutschfeste Oberfläche aus. Ideal für die Beschichtung des Randes und rund um den Pool.">
+    <meta property="og:description" content="Atlanttic-mikrozement  für Schwimmbäder zeichnet sich durch seine Beständigkeit gegen Eintauchen und seine rutschfeste Oberfläche aus. Ideal für die Beschichtung des Randes und rund um den Pool.">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
@@ -80,11 +80,11 @@
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Mikrozement-Piscinas Atlantic</h1>
+                            <h1 class="en2">mikrozement -Piscinas Atlantic</h1>
                             <div class="text-justify">
 
 
-                                <p class="h3s"> Atlanttic ist die Linie der Zweikomponenten-Mikrozemente (Zement + Harz), die speziell für Oberflächen in ständigem Kontakt mit Wasser entwickelt wurde.</p> </p> <p>Sie ermöglicht die Schaffung von kontinuierlichen Räumen, die die Verbindung zwischen verschiedenen Bereichen erleichtern und jeden Raum einheitlich und einzigartig machen. Wie beim Schwimmbad, seiner Krone und dem ihn umgebenden Außenbereich. </p> <p>Und es bietet Anti-Rutsch-Beschichtungen für Bereiche, die eher zum Ausrutschen neigen. Daher kann die Anwendung auch auf Terrassen, Nassbereichen und vertikalen und begehbaren Flächen erfolgen. </p>
+                                <p class="h3s"> Atlanttic ist die Linie der Zweikomponenten-mikrozement e (Zement + Harz), die speziell für Oberflächen in ständigem Kontakt mit Wasser entwickelt wurde.</p> </p> <p>Sie ermöglicht die Schaffung von kontinuierlichen Räumen, die die Verbindung zwischen verschiedenen Bereichen erleichtern und jeden Raum einheitlich und einzigartig machen. Wie beim Schwimmbad, seiner Krone und dem ihn umgebenden Außenbereich. </p> <p>Und es bietet Anti-Rutsch-Beschichtungen für Bereiche, die eher zum Ausrutschen neigen. Daher kann die Anwendung auch auf Terrassen, Nassbereichen und vertikalen und begehbaren Flächen erfolgen. </p>
 
 
                             </div>
@@ -121,8 +121,8 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>Atlanttic Aquaciment ist der Zweikomponenten-Mikrozement schlechthin für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen. Seine innovative Formel bewirkt eine 100%ige Aktivierung des Zements, was die Beständigkeit gegen Eintauchen erheblich verbessert. </p> <p>Die brennende Wirkung des Stahlglätters wird reduziert und erreicht mit der Zeit hohe Härtegrade. </p> <p>Atlanttic Aquaciment ist in 2 Granulometrien erhältlich: </p> <p><strong>Atlanttic Aquaciment XL:</strong>als vorbereitender Mikrozement vor Aquaciment M und auch als abschließender Mikrozement und zur Erzielung von rutschfesten Texturen (ideal für Beckenränder). </p>
-                            <p><strong>Atlanttic Aquaciment M:</strong>als Mikrozementoberfläche mit einer weicheren Textur.</p>
+                            <p>Atlanttic Aquaciment ist der Zweikomponenten-mikrozement  schlechthin für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen. Seine innovative Formel bewirkt eine 100%ige Aktivierung des Zements, was die Beständigkeit gegen Eintauchen erheblich verbessert. </p> <p>Die brennende Wirkung des Stahlglätters wird reduziert und erreicht mit der Zeit hohe Härtegrade. </p> <p>Atlanttic Aquaciment ist in 2 Granulometrien erhältlich: </p> <p><strong>Atlanttic Aquaciment XL:</strong>als vorbereitender mikrozement  vor Aquaciment M und auch als abschließender mikrozement  und zur Erzielung von rutschfesten Texturen (ideal für Beckenränder). </p>
+                            <p><strong>Atlanttic Aquaciment M:</strong>als mikrozement oberfläche mit einer weicheren Textur.</p>
 
 
                             <a class="links" href="https://www.topciment.com/de/technische-datenblatter/atlanttic-aquaciment-DE.pdf" target="_blank" style="font-weight: 700;"> <span class="fa-stack">
@@ -350,10 +350,10 @@
                             <div class="containerSttand">
 
                                 <a data-lightbox="colores" data-title="Color blanco" href="https://www.topciment.com/imagenes/colores/blanco.jpg">
-                                    <img class="four-columns" width="293" height="293" src="https://www.topciment.com/imagenes/colores/blanco.jpg" alt="microcemento color blanco" title="microcemento color blanco"/>
+                                    <img class="four-columns" width="293" height="293" src="https://www.topciment.com/imagenes/colores/blanco.jpg" alt="mikrozement color blanco" title="mikrozement color blanco"/>
                                 </a>
                                 <a data-lightbox="colores" data-title="Color blanco roto" href="https://www.topciment.com/imagenes/colores/blanco-roto-microcemento.jpg">
-                                    <img class="four-columns" width="293" height="293" src="https://www.topciment.com/imagenes/colores/blanco-roto-microcemento.jpg" alt="microcemento color roto" title="microcemento color roto"/>
+                                    <img class="four-columns" width="293" height="293" src="https://www.topciment.com/imagenes/colores/blanco-roto-microcemento.jpg" alt="mikrozement color roto" title="mikrozement color roto"/>
                                 </a>
                             </div>
                         </section>
@@ -371,9 +371,9 @@
             </div>
         </section>
         <!-- Colores End -->
-        <div><img class="imgiz" src="https://www.topciment.com/imagenes/atlanttic/background/Atlanttic_aquaciment_piscina_900_1.jpg" width="100%" alt="mikrozemente">
+        <div><img class="imgiz" src="https://www.topciment.com/imagenes/atlanttic/background/Atlanttic_aquaciment_piscina_900_1.jpg" width="100%" alt="mikrozement e">
         </div>
-        <div><img class="imgde" src="https://www.topciment.com/imagenes/atlanttic/background/Atlanttic_aquaciment_piscina_900_2.jpg" width="100%" alt="mikrozemente">
+        <div><img class="imgde" src="https://www.topciment.com/imagenes/atlanttic/background/Atlanttic_aquaciment_piscina_900_2.jpg" width="100%" alt="mikrozement e">
         </div>
         <div id="separador50px">
         </div>
@@ -387,7 +387,230 @@
     </div>
     </div>
     <!-- include jQuery -->
+<script type = "application/ld+json"> {
+    "@context": "https://schema.org",
+    "@type": "ProductGroup",
+    "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment",
+         "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
+    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
+    "brand": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "manufacturer": {
+      "@type": "Organization",
+      "name": "Topciment",
+      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+      "url": "https://www.topciment.com",
+      "legalName": "Grupo Negocios PO SLU",
+      "telephone": "+34617955352",
+      "taxID": "B97539076",
+      "location": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Rosas, 33",
+        "addressLocality": "Manises",
+        "postalCode": "46940",
+        "addressRegion": "Valencia",
+        "addressCountry": "España"
+      }
+    },
+    "weight": "20 Kg",
+    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+    "variesBy": "size",
+    "additionalProperty": [
+       {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "9 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "55 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+    ],
+    "potentialAction": {
+      "@type": "Action",
+      "name": "mikrozement -Anwendung"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "14"
+    },
+    "hasVariant": [{
+        "@type": "Product",
+        "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment M",
+             "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
+        "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
+        "size": "M",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-fur-pools-atlanttic",
+        "sku": "TT01008",
+        "gtin13": "8436575620091",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "9 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "55 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      },
+      {
+        "@type": "Product",
+        "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment XL",
+             "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
 
+
+        "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_XL.jpg",
+        "size": "XL",
+        "url": "https://www.topciment.com/de/mikrozement/mikrozement-fur-pools-atlanttic",
+        "sku": "TT01007",
+        "gtin13": "8436575620084",
+        "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
+        "weight": "20 Kg",
+        "brand": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "Topciment",
+          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+          "url": "https://www.topciment.com",
+          "legalName": "Grupo Negocios PO SLU",
+          "telephone": "+34617955352",
+          "taxID": "B97539076",
+          "location": {
+            "@type": "PostalAddress",
+            "streetAddress": "Calle Rosas, 33",
+            "addressLocality": "Manises",
+            "postalCode": "46940",
+            "addressRegion": "Valencia",
+            "addressCountry": "España"
+          }
+        },
+        "additionalProperty": [
+        {
+      "@type": "PropertyValue",
+      "name": "Biegefestigkeit",
+      "value": "9 N/m² (28 Tage)"
+    },
+    {
+     "@type": "PropertyValue",
+      "name": "Feuerbeständigkeit",
+      "value": "BFL S1"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Druckfestigkeit",
+      "value": "55 N/m² (28 Tage)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Einhaltung des Supports",
+      "value": "1,5 N/m²"
+    }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "14"
+        }
+      }
+     
+    ]
+  } </script>
 </body>
 
 </html>

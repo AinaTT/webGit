@@ -15,22 +15,22 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Mikrozementverkleidung in Restaurants</title>
+    <title>mikrozement verkleidung in Restaurants</title>
     <meta name="description"
-        content="Fotos von unglaublich schönen Ergebnissen der Mikrozementbodenverkleidung in einem ukrainischen Restaurant" />
+        content="Fotos von unglaublich schönen Ergebnissen der mikrozement bodenverkleidung in einem ukrainischen Restaurant" />
     <meta property="og:locale" content="en_US" />
     <meta property="og: type" content="website" />
-    <meta property="og:title" content="Mikrozement-Bodenbelag in Restaurants" />
+    <meta property="og:title" content="mikrozement -Bodenbelag in Restaurants" />
     <meta property="og:description"
-        content="Fotos von unglaublich schönen Ergebnissen des Mikrozement-Bodenbelags in Restaurants in der Ukraine" />
+        content="Fotos von unglaublich schönen Ergebnissen des mikrozement -Bodenbelags in Restaurants in der Ukraine" />
     <meta property="og:url"
         content="https://www.topciment.com/de/projekt/fotos-revestimientos-microcemento-en-restaurante" />
     <meta property=" og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter: description"
-        content="Fotos von unglaublich schönen Ergebnissen des Mikrozement-Bodenbelags im ukrainischen Restaurant" />
-    <meta name="twitter:title" content="Mikrozement-Bodenbelag in Restaurants" />
-    <meta name="twitter:title" content="Mikrozement-Bodenbelag in Restaurants" />
+        content="Fotos von unglaublich schönen Ergebnissen des mikrozement -Bodenbelags im ukrainischen Restaurant" />
+    <meta name="twitter:title" content="mikrozement -Bodenbelag in Restaurants" />
+    <meta name="twitter:title" content="mikrozement -Bodenbelag in Restaurants" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -73,7 +73,7 @@
                 </ul>
             </div>
             <div class="content">
-                <h1 id="suelosDeMicrocementoGaleriaH1" class="wow fadeInLeft" style="width:100%">Topciment Mikrozementverkleidung im Restaurant</h1> <h2 id="galleryH2" class="wow fadeInLeft justified">Kiew, Ukraine<br> Restaurant NAM </h2>
+                <h1 id="suelosDeMicrocementoGaleriaH1" class="wow fadeInLeft" style="width:100%">Topciment mikrozement verkleidung im Restaurant</h1> <h2 id="galleryH2" class="wow fadeInLeft justified">Kiew, Ukraine<br> Restaurant NAM </h2>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
                     <img src="https://www.topciment.com/imagenes/ucrania/revestimiento-con-topciment-microcemento-ucrania-0.jpg"
                         alt="Topciment" width="100%">

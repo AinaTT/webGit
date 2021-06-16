@@ -17,7 +17,8 @@
 
     <title>Microcement floors: application, types, advantages and tips</title>
     <meta name="description"
-        content=" Ahere you will find everything you need to know about microcement flooring. Learn how to apply microcement on floors, the types of microcement available for floors, its advantages and care and maintenance tips."
+        content=" Ahere you will find everything you need to know about microcement flooring. Learn how to apply microcement on floors, the types of microcement available for floors, its advantages and
+         care and maintenance tips.">
         <meta property="og:locale" content="en_EN" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Microcement floors: application, types, advantages and tips" />
@@ -166,7 +167,7 @@
                             floor.</figcaption>.
                         <img src="https://www.topciment.com/imagenes/news/imagen-suelo-microcemento-balnco-dormitorio.jpg"
                             class="figure-img img-fluid  lazyload" title="attic with steel microcement floor"
-                            alt="Very colourful bedroom with a broken white microcement floor." >
+                            alt="Very colourful bedroom with a broken white microcement floor.">
                     </figure>
                     <h2>Types of microcement for floors
                     </h2>
@@ -208,7 +209,8 @@
                         <!--  (link new news). -->
                     </p>
                     <p>Thanks to the large number of microcement colours that exist, it is possible
-                        to create an infinite number of floor coverings. In our gallery  you will find multiple microcement floors in bathrooms and
+                        to create an infinite number of floor coverings. In our gallery you will find multiple
+                        microcement floors in bathrooms and
                         kitchens.
                     </p>
                     <h2>Colours for microcement floors</h2>
@@ -233,7 +235,7 @@
                             covered with our slate-coloured microcement </figcaption>.
                         <img src="https://www.topciment.com/imagenes/news/imagen-suelo-microcemento-gris-comedor.jpg"
                             class="figure-img img-fluid  lazyload" title="rustic living room slate microcement floor"
-                            alt="Beautiful rustic living room whose floor has been covered with our Ivory coloured micro cement." >
+                            alt="Beautiful rustic living room whose floor has been covered with our Ivory coloured micro cement.">
                     </figure>
                     <h2>Cleaning, care and maintenance of microcement flooring</h2>
                     <p>Microcement is a covering that does not require exhaustive cleaning and
@@ -273,20 +275,8 @@
 
 
                 </div>
-                <hr>
-                <div class="row">
-                    <div class="col-md-3"> <a
-                            href="https://www.topciment.com/en/news/topciment-receives-innovative-sme-stamp"> <img
-                                class="pull-left mr-3 img-fluid"
-                                src="https://www.topciment.com/imagenes/efectto/noticia_bodegon_efectto.jpg"
-                                height="auto"></a> </div>
-                    <div class="col-md-8">
-                        <p><a class="links"
-                                href="https://www.topciment.com/en/news/topciment-receives-innovative-sme-stamp">
-                                Topciment receives the seal of INNOVATIVE SME </a></p>
-                    </div>
-                </div>
-            </div>
+                
+           
             <div id="divider50px"></div>
             <div class="row">
                 <div class="co-md-12">
@@ -388,14 +378,14 @@
                                             class="SIGNUP_FLD">
                                             <input type="text"
                                                 style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
+                                                placeholder="Name" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME"
                                                 id="EMBED_FORM_NAME_LABEL">
                                         </div>
                                         <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                             class="SIGNUP_FLD">
                                             <input type="button"
                                                 style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Subscribe">
                                         </div>
                                         <input type="hidden" id="fieldBorder" value="">
                                         <input type="hidden" id="submitType" name="submitType" value="optinCustomView">
@@ -466,7 +456,36 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/microcement-floors"
+  },
+  "headline": "Microcement floors: application, types, advantages and tips",
+  "image":"https://www.topciment.com/imagenes/news/imagen-microcemento-suelos.jpg",
+  "datePublished": "2021-03-17",
+  "dateModified": "2021-03-17",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description": "Microcement can be applied in many ways on a floor. In this article we tell you everything you need to know about microcement flooring: how it is applied, its main advantages, the types available and tips for use."
+}
+</script>
 </body>
 
 </html>

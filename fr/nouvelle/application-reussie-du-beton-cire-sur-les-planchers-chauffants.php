@@ -15,21 +15,21 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Application réussie du béton ciré sur les planchers chauffants</title>
+    <title>Application réussie du béton ciré  sur les planchers chauffants</title>
     <meta name="description"
-        content="Le béton ciré est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
+        content="Le béton ciré  est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
 
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Application réussie du béton ciré sur les planchers chauffants" />
+    <meta property="og:title" content="Application réussie du béton ciré  sur les planchers chauffants" />
     <meta property="og:description"
-        content="Le béton ciré est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
+        content="Le béton ciré  est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/application-reussie-du-beton-cire-sur-les-planchers-chauffants" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Le béton ciré est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
-    <meta name="twitter:title" content="Application réussie du béton ciré sur les planchers chauffants" />
+        content="Le béton ciré  est un excellent revêtement à utiliser avec le chauffage par le sol grâce à sa bonne conductivité thermique,entre autres avantages. Lisez cet article et apprenez à l'appliquer étape par étape." />
+    <meta name="twitter:title" content="Application réussie du béton ciré  sur les planchers chauffants" />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -61,7 +61,7 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>Application réussie du béton ciré sur les planchers chauffants</h1>
+                <h1>Application réussie du béton ciré  sur les planchers chauffants</h1>
                 <div class="titular  fadeInRight estiloNormal16justificado">
 
                     <p>
@@ -74,7 +74,7 @@
 
                     </p>
                     <p>
-                        Le béton ciré est l'un des matériaux de construction les plus adaptés au chauffage par le sol
+                        Le béton ciré  est l'un des matériaux de construction les plus adaptés au chauffage par le sol
                         pour de nombreuses raisons.
                         Principalement parce que c'est un revêtement continu, il ne se fissure pas et surtout il a une
                         bonne conductivité thermique grâce à son excellente résistance à la chaleur.
@@ -84,58 +84,57 @@
                     <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/news/comedor-microcemento-suelo-radiante.jpg"
                             class="figure-img img-fluid "
-                            title="Salle à manger avec béton ciréargenté sur plancher chauffant"
-                            alt="Salle à manger avec béton ciréargenté sur plancher chauffant " width="auto"
+                            title="Salle à manger avec béton ciré argenté sur plancher chauffant"
+                            alt="Salle à manger avec béton ciré argenté sur plancher chauffant " width="auto"
                             height="auto">
-                        <figcaption class="figure-caption">Petite salle à manger où notre béton ciréargenté sur
+                        <figcaption class="figure-caption">Petite salle à manger où notre béton ciré argenté sur
                             plancher chauffant a été appliqué. </figcaption>
                     </figure>
-                    <h2> Comment appliquer le béton ciré sur un plancher chauffant : étape par étape</h2>
+                    <h2> Comment appliquer le béton ciré  sur un plancher chauffant : étape par étape</h2>
 
                     <p>
                         Notre équipe technique conseille et résout les doutes des professionnels sur l'application du
-                        béton ciré depuis près de deux décennies.
+                        béton ciré  depuis près de deux décennies.
                         L'une des plus récurrentes concerne justement la possibilité d'installer un plancher radiant en
-                        béton ciré.
+                        béton ciré .
 
                     </p>
                     <p>
                         Nous expliquons ci-dessous les instructions étape par étape pour une application réussie du
-                        béton ciré sur le chauffage par le sol.
+                        béton ciré  sur le chauffage par le sol.
                         Prenez note de nos conseils.
                     </p>
-                    <h3>Chauffage du sol avant l'application du béton ciré</h3>
-                    <p> Avant d'appliquer le béton ciré sur le plancher chauffant, un protocole de mise en route du
+                    <h3>Chauffage du sol avant l'application du béton ciré </h3>
+                    <p> Avant d'appliquer le béton ciré  sur le plancher chauffant, un protocole de mise en route du
                         chauffage doit être effectué. Cela empêchera les fissures causées
-                        par les changements de température dans la chape d'endommager le béton ciré.</p>
+                        par les changements de température dans la chape d'endommager le béton ciré .</p>
                     <ol>
-
-
-                        <li> Mettez le chauffage en marche au moins 4 semaines après la pose du mortier de ciment.</li>
+ 
+                        <li> Mettez le chauffage en marche au moins 4 semaines avant la pose du béton ciré.</li>
 
                         <li> Maintenez l'eau d'entrée des circuits à 25ºC pendant une période de 2 ou 3 jours.</li>
 
                         <li> Augmentez progressivement la température de l'eau jusqu'à ce qu'elle atteigne 45ºC.
                             Gardez-le ainsi pendant plusieurs jours.</li>
 
-                        <li> Arrêtez le chauffage 48 heures avant de commencer à installer le béton cirésur le
+                        <li> Arrêtez le chauffage 48 heures avant de commencer à installer le béton ciré sur le
                             plancher chauffant.
                             Il est très important que la température maximale du sol n'excède pas 18ºC.</li>
                     </ol>
 
-                    <h3>Application du béton ciré t sur le chauffage par le sol</h3>
+                    <h3>Application du béton ciré  t sur le chauffage par le sol</h3>
 
                     <p>
-                        Les sols en béton ciré doivent être posés sur des mortiers de ciment ayant atteint un stade
+                        Les sols en béton ciré  doivent être posés sur des mortiers de ciment ayant atteint un stade
                         avancé de prise. Trois à quatre semaines doivent s'écouler avant d'atteindre
                         ce stade optimal, une période qui peut varier en fonction de la météo.
                         Il est essentiel de vérifier que le mortier est pratiquement sec (5% d'humidité maximum).
                     </p>
 
-                    <h3>Allumer le chauffage par le sol après l'installation du béton ciré</h3>
+                    <h3>Allumer le chauffage par le sol après l'installation du béton ciré </h3>
 
                     <p>
-                        Une fois que le béton ciré a été correctement appliqué sur le plancher chauffant, il est
+                        Une fois que le béton ciré  a été correctement appliqué sur le plancher chauffant, il est
                         nécessaire d'attendre au moins 48 heures avant de remettre le chauffage
                         en marche. Les aspects suivants doivent être pris en compte :
                     </p>
@@ -166,17 +165,17 @@
                         <figcaption class="figure-caption">Spacieux salon avec plancher chauffant et notre couleur
                             microcemento Acier. </figcaption>
                     </figure>
-                    <h2> Avantages du chauffage par le sol en béton ciré</h2>
+                    <h2> Avantages du chauffage par le sol en béton ciré </h2>
 
                     <p>
-                        Ce ne sont là que quelques-uns des nombreux avantages de l'utilisation du béton ciré par rapport
+                        Ce ne sont là que quelques-uns des nombreux avantages de l'utilisation du béton ciré  par rapport
                         au chauffage par le sol :
 
                     </p>
                     <h3>1. Faible consommation </h3>
 
                     <p>
-                        L'un des principaux avantages du béton ciré par rapport au chauffage par le sol est qu'il s'agit
+                        L'un des principaux avantages du béton ciré  par rapport au chauffage par le sol est qu'il s'agit
                         d'un système à faible consommation et très efficace. En d'autres termes,
                         la quantité d'énergie nécessaire pour atteindre une température optimale est considérablement
                         réduite par rapport à d'autres solutions.
@@ -190,13 +189,13 @@
                         Le chauffage par le sol, grâce à sa distribution uniforme, permet d'atteindre plus rapidement
                         cette sensation de confort thermique, d'équilibre entre la température
                         de la pièce et la température corporelle des personnes qui s'y trouvent. Une harmonie qui est
-                        renforcée grâce au sol en béton ciré et à sa haute conductivité thermique.
+                        renforcée grâce au sol en béton ciré  et à sa haute conductivité thermique.
 
                     </p>
                     <h3>3. Résistance et conductivité thermique</h3>
 
                     <p>
-                        La résistance exceptionnelle du béton ciré à la chaleur et sa conductivité thermique font de ce
+                        La résistance exceptionnelle du béton ciré  à la chaleur et sa conductivité thermique font de ce
                         revêtement l'un des plus adaptés
                         à l'installation d'un chauffage par le sol.
 
@@ -204,8 +203,8 @@
                     <h3>4. Non fissuré</h3>
 
                     <p>
-                        En étroite relation avec le point précédent, si le béton ciré est appliqué correctement par le
-                        professionnel, le sol en béton ciré ne se fissurera pas.
+                        En étroite relation avec le point précédent, si le béton ciré  est appliqué correctement par le
+                        professionnel, le sol en béton ciré  ne se fissurera pas.
                         Un aspect à prendre en compte car tous les revêtements ne sont pas capables de résister à la
                         chaleur qui irradie d'un plancher radiant
                         et finissent par se fissurer et des fentes apparaissent. Cela ne se produira pas si le béton
@@ -215,7 +214,7 @@
                     <h3>5. Bardage continu</h3>
 
                     <p>
-                        Enfin, le béton ciré est le revêtement continu par excellence. De cette manière, le chauffage
+                        Enfin, le béton ciré  est le revêtement continu par excellence. De cette manière, le chauffage
                         par le sol est recouvert sans rupture visuelle et
                         offre donc une agréable sensation de continuité.
                     </p>
@@ -226,36 +225,36 @@
                         <figcaption class="figure-caption">Chambre à coucher dans laquelle notre microcemento en sol
                             radiant de couleur Marfil a été installé. </figcaption>
                     </figure>
-                    <h2>Problèmes de béton ciré dans le chauffage par le sol</h2>
+                    <h2>Problèmes de béton ciré  dans le chauffage par le sol</h2>
 
                     <p>
                         Comme tout système qui se respecte, il existe également un certain nombre d'inconvénients qu'il
                         faut garder à l'esprit pour éviter les problèmes liés
-                        au béton ciré dans le chauffage par le sol.
+                        au béton ciré  dans le chauffage par le sol.
                     </p>
 
-                    <h3>Choisir un béton ciré de mauvaise qualité</h3>
-                    <p> Bien que le béton cirésoit un revêtement continu très résistant à la chaleur qui ne doit pas se
+                    <h3>Choisir un béton ciré  de mauvaise qualité</h3>
+                    <p> Bien que le béton ciré soit un revêtement continu très résistant à la chaleur qui ne doit pas se
                         fissurer, ne lésinez pas sur sa qualité. Plus la qualité est élevée, plus la résistance est
-                        grande et donc moins il est probable que des problèmes de béton ciré apparaissent dans le
+                        grande et donc moins il est probable que des problèmes de béton ciré  apparaissent dans le
                         chauffage par le sol.</p>
 
                     <h3>Installation complexe </h3>
-                    <p>Le processus d'application du béton ciré sur le sol ne change pas dans le cas du chauffage par le
+                    <p>Le processus d'application du béton ciré  sur le sol ne change pas dans le cas du chauffage par le
                         sol. Cependant, le fait de ne pas suivre à la lettre le protocole d'allumage poserait problème.
                         C'est pourquoi il est si important de suivre les étapes suivantes</p>
-                    <h2>Béton Ciré duTopciment, le meilleur choix pour le chauffage par le sol</h2>
+                    <h2>béton ciré  duTopciment, le meilleur choix pour le chauffage par le sol</h2>
 
                     <p>
                         La haute performance de nos revêtements nous a conduits à devenir les leaders de la<a
-                            href="../beton-cire/fabricant-beton-cire"> fabrication de béton ciré</a> en Espagne.
-                        Des béton ciré aux caractéristiques techniques imbattables et parfaits pour le chauffage par le
+                            href="../beton-cire/fabricant-beton-cire"> fabrication de béton ciré </a> en Espagne.
+                        Des béton ciré  aux caractéristiques techniques imbattables et parfaits pour le chauffage par le
                         sol.
                     </p>
 
                     <p>
                         Si, après avoir lu cet article, vous avez encore des doutes sur l'installation d'un chauffage
-                        par le sol ou si vous voulez savoir quel type de béton ciré est le plus approprié,
+                        par le sol ou si vous voulez savoir quel type de béton ciré  est le plus approprié,
                         n'hésitez pas à nous <a href="../contact">contacter</a> . Nous sommes impatients de vous aider.
                     </p>
                     <div id="separador50px"></div>
@@ -360,14 +359,14 @@
                                                     class="SIGNUP_FLD">
                                                     <input type="text"
                                                         style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px"
-                                                        placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD"
+                                                        placeholder="Nom" changeitem="SIGNUP_FORM_FIELD"
                                                         name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                 </div>
                                                 <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block"
                                                     class="SIGNUP_FLD">
                                                     <input type="button"
                                                         style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px"
-                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                 </div>
                                                 <input type="hidden" id="fieldBorder" value="">
                                                 <input type="hidden" id="submitType" name="submitType"

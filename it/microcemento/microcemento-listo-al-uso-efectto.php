@@ -405,7 +405,7 @@
                     </div>
                     <p class="en3">
                         Performance</p>
-                    <p><span>Una capa de Medium Grain de 0,450 kg/m² </span></p>
+                    <p><span>Uno strato di Medium Grain di 0,450 kg/m². </span></p>
                     <p class="en3">
                         Presentazione</p>
                     <p>La finitura per pavimenti in microcemento Efectto Quartz Medium Grain pronta all'uso è
@@ -482,7 +482,7 @@
                         </div>
 
                     </div>
-                    <!-- Propiedades -->
+                    <!-- Propiedades  -->
                     <div class="text-left mt-4 mb-4">
                         <p class="en3">
                             Dati tecnici</p>

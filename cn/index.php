@@ -98,10 +98,7 @@
             <div class="content-a" onClick="location.href='weishuini'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles"
-                        style="text-align:right;" data-animate-scroll='{"x": "0",
-                    "y": "50",
-                    "alpha": "0",
-                    "duration": "1"}'>
+                        style="text-align:right;"  >
                         <h1 class="enHome3 br1">不只是微水泥，更是TOPCIMENT</h1>
                         <h2 class="txHome2 br1"> Topciment，引领卓越潮流</h2>
                         <h2 class=" txHome2 br1">
@@ -348,7 +345,7 @@
                                         <li class="arcocemF"><a class="linkB"
                                                 href="wenxingshuini/weishuini-sejiang-yanliao">颜料</a></li>
                                         <li class="topsealerF"><a class="linkB"
-                                                href="wenxingshuini/mifeng-zhaomianji-yingyong">清漆</a></li>
+                                                href="wenxingshuini/qingqi-juanzhi-bingxisuan-shui-mifengji">清漆</a></li>
                                         <li class="limpieF"><a class="linkB"
                                                 href="wenxingshuini/weishuini-de-qingjie-baohu">微水泥的清洁和保养</a></li>
                                         <li class="herramF"><a class="linkB"

@@ -9,15 +9,14 @@
                      <li class="evoluttionF"><a class="linkB" href="microcemento/microcemento-monocomponente-evoluttion">Microcemento monocomponente</a></li>
                      <li class="efecF"><a class="linkB" href="microcemento/microcemento-listo-al-uso-efectto">Microcemento
                              listo al uso</a></li>
-                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Microcemento
-                             metálico</a></li>
+                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Revestimiento metálico</a></li>
                      <li class="classicF"><a class="linkB" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">Pinturas metálicas</a></li>
                      <li class="elitteF"><a class="linkB" href="microcemento/veladuras-metalicas-elitte">Veladuras y
                              pigmentos metálicos</a></li>
                      <li class="primacemF"><a class="linkB" href="microcemento/imprimacione-y-promotores-de-adherencia-primacem">Promotores de adherencia</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="microcemento/pigmentos-para-microcemento-arcocem">Pigmentos</a></li>
-                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-topsealer">Barnices</a></li>
+                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Barnices</a></li>
                      <li class="limpieF"><a class="linkB" href="microcemento/limpieza-y-cuidado-del-microcemento">Limpieza y
                              cuidado del microcemento</a></li>
                      <li class="herramF"><a class="linkB" href="microcemento/herramientas-microcemento">Herramientas</a></li>

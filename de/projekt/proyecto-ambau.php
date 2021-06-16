@@ -15,19 +15,19 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos von Boden- und Wandsanierung mit Mikrozement.</title>
-    <meta name="description" content="Studio renoviert mit Mikrozement. Bilder von Böden und Wänden aus Mikrozement." />
+    <title>Fotos von Boden- und Wandsanierung mit mikrozement .</title>
+    <meta name="description" content="Studio renoviert mit mikrozement . Bilder von Böden und Wänden aus mikrozement ." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos der Reform von Boden und Wänden mit Mikrozement." />
+    <meta property="og:title" content="Fotos der Reform von Boden und Wänden mit mikrozement ." />
     <meta property="og:description"
-        content="Studio renoviert mit Mikrozement. Bilder von Mikrozementböden und -wänden." />
+        content="Studio renoviert mit mikrozement . Bilder von mikrozement böden und -wänden." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-ambau" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Studio mit Mikrozement renoviert. Bilder von Böden und Wänden aus Mikrozement." />
-    <meta name="twitter:title" content="Fotos von Boden- und Wandsanierungen mit Mikrozement." />
+        content="Studio mit mikrozement  renoviert. Bilder von Böden und Wänden aus mikrozement ." />
+    <meta name="twitter:title" content="Fotos von Boden- und Wandsanierungen mit mikrozement ." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -38,13 +38,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/en/project/project-sardinera" hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/projet-sardinera" hreflang="fr-FR" />
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-sardinera.html" hreflang="it-IT" />
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-sardinera.html" hreflang="nl-NL" />
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-sardinera.html" hreflang="el-GR" />
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-sardinera.html" hreflang="ru-RU" />
-
-    <link rel="alternate" href="https://www.topciment.cn/best-images-of-concrete-revest-at-sardinera.html"
-        hreflang="zh-CN" />
+  
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
@@ -90,7 +84,7 @@
                                     Wohnung mit vielen kleinen Räumen und wenig Licht in ein modernes Zuhause mit Platz
                                     für eine Fahrradwerkstatt zu verwandeln. Nachdem die Verteilung geplant war,
                                     entschieden wir uns für neutrale Farben: weiß getäfelte Wände mit einem <a
-                                        href="../mikrozemente">Mikrozementboden</a> für das ganze Haus. Ein Design, bei
+                                        href="../mikrozemente">mikrozement boden</a> für das ganze Haus. Ein Design, bei
                                     dem die vermeintliche Kälte mit einer Vielzahl von bunten Accessoires eingefärbt
                                     wurde und so eine fantastische Geschichte entstand, die das Leben und den Geschmack
                                     seiner Besitzer erzählt. Fotos von Ambau.</p>

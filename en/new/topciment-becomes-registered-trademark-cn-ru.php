@@ -98,6 +98,36 @@
 
     <!-- include jQuery -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/topciment-becomes-registered-trademark-cn-ru"
+  },
+  "headline": "We are already a registered trademark in China and Russia",
+  "image":"https://www.topciment.com/imagenes/news/portada.jpg",
+  "datePublished": "2020-06-22",
+  "dateModified": "2020-06-22",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"Our brand TT Topciment has been registered in China and Russia by the World Intellectual Property Organization (WIPO)."
+}
+</script>
 </body>
 
 </html>

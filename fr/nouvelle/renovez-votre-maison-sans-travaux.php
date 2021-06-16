@@ -16,16 +16,16 @@
 
 
     <title>Rénovez votre maison sans travaux et en peu de temps c'est possible</title>
-    <meta name="description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
+    <meta name="description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré  en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Rénovez votre maison sans travaux et en peu de temps c'est possible"/>
-    <meta property="og:description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
+    <meta property="og:description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré  en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelle/renovez-votre-maison-sans-travaux"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
+    <meta name="twitter:description" content="Rénovez votre maison sans travaux et en peu de temps c'est possible. L'installation rapide et facile du béton ciré  en fait le revêtement décoratif parfait. Un revêtement compatible avec toutes les surfaces, qui ne nécessite pas de construction et dont l'investissement économique est considérablement moindre."/>
     <meta name="twitter:title" content="Rénovez votre maison sans travaux et en peu de temps c'est possible"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
@@ -67,41 +67,41 @@
                         plafonds et les meubles devenus obsolètes et démodés. Mais entrer dans un chantier et tout ce
                         que cela implique (budget, temps et débris) rend très difficile de franchir le pas, non?</p>
 
-                    <h2 class="en4">Rénovation sans travaux lourd et en peu de temps: béton ciré</h2>
+                    <h2 class="en4">Rénovation sans travaux lourd et en peu de temps: béton ciré </h2>
 
                     <p>Nous avons la solution! <a class="links" href="../information-beton-cire"><strong>Béton
                                 ciré</strong></a> est le revêtement décoratif que vous recherchez. L'installation du
-                        béton ciré est facile et simple, vous investirez beaucoup moins d'argent et surtout: pas de
+                        béton ciré  est facile et simple, vous investirez beaucoup moins d'argent et surtout: pas de
                         construction ni de débris, vous allez donc rénover votre maison en un rien de temps.
 
                     </p>
                     <p>De plus, c'est un matériau compatible avec tout type de surface (sol, mur, plafond et mobilier),
-                        aussi bien pour les pièces intérieures qu'extérieures. De cette manière, le béton ciré est
+                        aussi bien pour les pièces intérieures qu'extérieures. De cette manière, le béton ciré  est
                         appliqué directement sur le matériau existant. Oui, comme vous lisez. Vous pouvez appliquer du
-                        béton ciré sur des carreaux dans la salle de bain ou la cuisine, entre autres. N'est-ce pas
+                        béton ciré  sur des carreaux dans la salle de bain ou la cuisine, entre autres. N'est-ce pas
                         merveilleux?</p>
                     <figure class="figure">
                         <img src="https://www.topciment.com/imagenes/news/habitacion-suelo-microcemento.jpg" class="figure-img img-fluid " title="Habitación suelo microcemento" alt="Dormitorio con suelo de microcemento gris Topciment">
                         <figcaption class="figure-caption">Chambre dans laquelle la demande a été déposée
-                            béton ciréTopciment gris sur le sol.</figcaption>
+                            béton ciré Topciment gris sur le sol.</figcaption>
                     </figure>
-                    <h2 class="en4">Forte valeur décorative du béton ciré</h2>
-                    <p>Le béton ciré permet de larges possibilités décoratives et des designs uniques avec lesquels vous
+                    <h2 class="en4">Forte valeur décorative du béton ciré </h2>
+                    <p>Le béton ciré  permet de larges possibilités décoratives et des designs uniques avec lesquels vous
                         pouvez laisser libre cours à votre imagination. Vous pouvez créer des salles de bains en béton
-                        ciré, des cuisines en béton ciré, des escaliers en béton ciré, des piscines en béton ciré et
+                        ciré, des cuisines en béton ciré , des escaliers en béton ciré , des piscines en béton ciré  et
                         même installer un chauffage par le sol car ils sont entièrement compatibles.</p>
-                    <p>Mais la mise en place du béton ciré offre bien d'autres avantages
+                    <p>Mais la mise en place du béton ciré  offre bien d'autres avantages
                         comme sa grande résistance mécanique et à l'abrasion; ou que son nettoyage et son entretien sont
                         très simples, avec de l'eau et du savon neutre est largement suffisant, entre autres</p>
                     <figure class="figure">
                         <img src="https://www.topciment.com/imagenes/news/cocina-con-microcemento.jpg" class="figure-img img-fluid " title="Cocina con microcemento" alt="Cocina revestida microcemento Topciment">
-                        <figcaption class="figure-caption">Cuisine en béton cirétopciment ouverte sur le salon.
+                        <figcaption class="figure-caption">Cuisine en béton ciré topciment ouverte sur le salon.
                         </figcaption>
                     </figure>
-                    <h2 class="en4">Topciment , fabricant de béton ciré</h2>
+                    <h2 class="en4">Topciment , fabricant de béton ciré </h2>
 
                     <p>Chez Topciment, nous savons très bien de quoi nous parlons, nous sommes des fabricants de
-                        béton ciré et de produits pour leur application, leur entretien et leur maintenance
+                        béton ciré  et de produits pour leur application, leur entretien et leur maintenance
                         optimaux. </p>
 
                     <p>Nous proposons des <a class="links" href="../beton-cire/produits"><strong>revêtements
@@ -110,10 +110,10 @@
                         irremplaçables qui peuvent être appliquées sur les sols, les murs, les plafonds, les meubles
                         et même les piscines. De plus, nous sélectionnons soigneusement les matériaux et les
                         textures pour offrir un résultat final de la plus haute qualité, totalement différent de
-                        tout béton ciré ou revêtement du marché.</p>
+                        tout béton ciré  ou revêtement du marché.</p>
 
                     <p>Découvrez les vastes possibilités de décoration que chacun de nos produits vous offre et la
-                        large gamme de couleurs de béton ciré sur notre <a class="links" href="../"><strong>
+                        large gamme de couleurs de béton ciré  sur notre <a class="links" href="../"><strong>
                                 web</strong> </a> .</p>
 
 
@@ -130,7 +130,7 @@
                             <div class="col-md-8">
                                 <p>
                                 <p><a class="links" href="https://www.topciment.com/fr/nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance"><strong>6
-                                            les raisons pour lesquelles les salles de bains en béton ciréseront une tendance en 2021
+                                            les raisons pour lesquelles les salles de bains en béton ciré seront une tendance en 2021
                                             tendance en 2021</strong></a></p>
                             </div>
                             </p>
@@ -145,7 +145,7 @@
                             </div>
                             <div class="col-md-8">
                                 <p><a class="links" href="../nouvelle/beton-cire-dans-les-cuisines"><strong>
-                                            Le béton cirédans les cuisines</strong>
+                                            Le béton ciré dans les cuisines</strong>
                                     </a></p>
                             </div>
 
@@ -236,10 +236,10 @@
                                                         <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color:black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 13px" placeholder="Email" changeitem="SIGNUP_FORM_FIELD" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL">
                                                     </div>
                                                     <div style="position: relative; margin: 15px 15px 15px 15px; width: 150px; height: 28px; display: inline-block" class="SIGNUP_FLD">
-                                                        <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nombre" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
+                                                        <input type="text" style="border-width: 0px 0px 1px; border-color: rgb(132, 156, 179); border-style: solid; width: 100%; height: 100%; z-index: 4; outline: none; padding: 5px 10px; color: black; text-align: left; font-family: Arial; border-radius: 0px; background-color: transparent; font-size: 14px" placeholder="Nom" changeitem="SIGNUP_FORM_FIELD" name="LASTNAME" id="EMBED_FORM_NAME_LABEL">
                                                     </div>
                                                     <div style="position: relative; width: 100px; height: 28px; margin: 0 0 15px 12px; display: inline-block" class="SIGNUP_FLD">
-                                                        <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Suscríbete">
+                                                        <input type="button" style="text-align: center; width: 100%; height: 100%; z-index: 5; border: 0px; color: rgb(255, 255, 255); cursor: pointer; outline: none; font-size: 14px; background-color: rgb(254, 7, 19); border-radius: 0px" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" value="Souscrivez">
                                                     </div>
                                                     <input type="hidden" id="fieldBorder" value="">
                                                     <input type="hidden" id="submitType" name="submitType" value="optinCustomView">

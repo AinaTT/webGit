@@ -97,7 +97,37 @@
     </div>
 
     <!-- include jQuery -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/en/new/topciment-in-cevisama-2018"
+  },
+  "headline": "Topciment confirms its Participation in Cevisama 2018 in Feriavalencia",
+  "image":"https://www.topciment.com/imagenes/feria-microcemento-cevisama-2018.jpg",
+  "datePublished": "2020-01-23",
+  "dateModified": "2020-01-23",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":"The Topciment team will be found at Cevisama 2018 in Feriavalencia to willingness of everyone who wants to solve his Doubts on.You we facilitate a link so that can get free admission."
+}
 
+</script>
 </body>
 
 </html>

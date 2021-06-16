@@ -15,21 +15,21 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Fotos von gefliestem Bad, das mit Mikrozement renoviert wurde</title>
+    <title>Fotos von gefliestem Bad, das mit mikrozement  renoviert wurde</title>
     <meta name="description"
-        content="Badrenovierung auf Fliesen mit Mikrozementanwendung durchgeführt. Mikrozement-Dusche. Badezimmermöbel aus Mikrozement." />
+        content="Badrenovierung auf Fliesen mit mikrozement anwendung durchgeführt. mikrozement -Dusche. Badezimmermöbel aus mikrozement ." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Fotos von gefliestem Badezimmer, das mit Mikrozement renoviert wurde" />
+    <meta property="og:title" content="Fotos von gefliestem Badezimmer, das mit mikrozement  renoviert wurde" />
     <meta property="og:description"
-        content="Badezimmerrenovierung auf Fliesen mit Anwendung von Mikrozement durchgeführt. Mikrozement-Dusche. Badezimmermöbel aus Mikrozement." />
+        content="Badezimmerrenovierung auf Fliesen mit Anwendung von mikrozement  durchgeführt. mikrozement -Dusche. Badezimmermöbel aus mikrozement ." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/bano-microcemento-fd-fliesen" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Badrenovierung durchgeführt auf Fliesen mit Anwendung von Mikrozement. Mikrozement-Dusche. Badezimmermöbel aus Mikrozement." />
-    <meta name="twitter:title" content="Fotos von gefliestem Bad mit Mikrozement renoviert" />
-    <meta name="twitter:title" content="Fotos von gefliestem Bad mit Mikrozement renoviert." />
+        content="Badrenovierung durchgeführt auf Fliesen mit Anwendung von mikrozement . mikrozement -Dusche. Badezimmermöbel aus mikrozement ." />
+    <meta name="twitter:title" content="Fotos von gefliestem Bad mit mikrozement  renoviert" />
+    <meta name="twitter:title" content="Fotos von gefliestem Bad mit mikrozement  renoviert." />
     <meta name=" twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
@@ -77,20 +77,17 @@
                 </ul>
             </div>
             <div class="content">
-                <h1 id="MicroCementFlooringGalleryH1" class="wow fadeInLeft" style="width:100%">Bad<br> mit Mikrozement
+                <h1 id="MicroCementFlooringGalleryH1" class="wow fadeInLeft" style="width:100%">Bad<br> mit mikrozement 
                 </h1>
                 <h2 id="galleryH2" class="wow fadeInLeft justified">Düsseldorf, Deutschland<br> Fotos Frank Drees</h2>
                 <p>Düsseldorf ist die deutsche Modestadt, bekannt für ihre Kombination aus Spaß und Beschaulichkeit.
                     Hier finden wir eine wunderschöne Villa, bei der Architekt, Verarbeiter und Endkunde Topciment für
                     ihr Projekt gewählt haben. Bei der Reform dieses Badezimmers mit schräger Decke ist die
                     Innenraumgestaltung mit minimalen Elementen gelöst, sowohl in Bezug auf Materialien und Farben als
-                    auch auf Möbel. Der Mikrozement als Bodenbelag, in der Farbe Stahl, und Himalaya-Farbe für die Wände
+                    auch auf Möbel. Der mikrozement  als Bodenbelag, in der Farbe Stahl, und Himalaya-Farbe für die Wände
                     und Waschbecken-Arbeitsplatte. Weiße Details für die Sanitärkeramik krönen ein unglaubliches
                     Ergebnis. </p>
-                <div class="wow fadeInRight" style="float:left">
-                    <img src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-4.jpg"
-                        alt="Fotos de baño de azulejos reformado con microcemento" width="100%">
-                </div>
+               
                 <div id="separador20px">
                 </div>
                 <div class="wow fadeInLeft" style="float:left; width:49%"><img
@@ -104,34 +101,28 @@
                 <div id="separador20px"></div>
                 <div id="fotoAnchoTotal" class="wow fadeInLeft" style="float:left"><img
                         src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-5.jpg"
-                        alt="En cuartos de baño el microcemento soluciona problemas de humedades" width="100%"> </div>
+                        alt="En cuartos de baño el mikrozement soluciona problemas de humedades" width="100%"> </div>
                 <div id="separador20px">
                 </div>
 
-                <div class="wow fadeInLeft" style="float:left; width:49%;"><img
-                        src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-6.jpg"
-                        alt="Nuevas tendencias en la reforma de cuartos de baño" width="100%"></div>
+                
 
                 <div class="wow fadeInRight" style="float:right; width:49%;"><img
                         src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-2.jpg"
-                        alt="Paredes de microcemento gris en cuartos de baño" width="100%"></div>
+                        alt="Paredes de mikrozement gris en cuartos de baño" width="100%"></div>
 
 
                 <div id="separador20px"></div>
 
                 <div id="fotoAnchoTotal" class="wow fadeInLeft" style="float:left"><img
                         src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-9.jpg"
-                        alt="Baño reformado con microcemento Topciment" width="100%"></div>
+                        alt="Baño reformado con mikrozement Topciment" width="100%"></div>
 
                 <div id="separador20px"></div>
 
-                <div class="wow fadeInRight" style="float:left; width:49%;"><img
-                        src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-8.jpg"
-                        alt="Cuarto de baño con paredes de microcemento" width="100%"></div>
+                
 
-                <div class="wow fadeInLeft" style="float:right; width:49%;"><img
-                        src="https://www.topciment.com/imagenes/Reformbadezimmer-mit-Mikrozement-Topciment-FD-Fliesen-10.jpg"
-                        alt="Reforma con microcemento Topciment" width="100%"></div>
+              
               
             </div>
 

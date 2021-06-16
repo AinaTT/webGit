@@ -15,21 +15,21 @@
     <link rel="preload" href="../assets/css/noticias.css" as="style"/>
     <link rel="stylesheet" href="../assets/css/noticias.css"/>
 
-    <title>Nouveautés béton ciré: nouveaux produits , tendances et conseils </title>
+    <title>Nouveautés béton ciré : nouveaux produits , tendances et conseils </title>
     <meta name="description"
-        content="Actualités béton ciré sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
+        content="Actualités béton ciré  sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
 
     <meta property="og:locale" content="fr_FR"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Nouveautés béton ciré: nouveaux produits , tendances et conseils"/>
+    <meta property="og:title" content="Nouveautés béton ciré : nouveaux produits , tendances et conseils"/>
     <meta property="og:description"
-        content="Actualités béton ciré sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
+        content="Actualités béton ciré  sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
     <meta property="og:url" content="https://www.topciment.com/fr/nouvelles"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description"
-        content="Actualités béton ciré sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
-    <meta name="twitter:title" content="Nouveautés béton ciré: nouveaux produits , tendances et conseils"/>
+        content="Actualités béton ciré  sur les nouveaux produits Topciment, les dernières tendances en matière de revêtements continus et de pointes."/>
+    <meta name="twitter:title" content="Nouveautés béton ciré : nouveaux produits , tendances et conseils"/>
     <meta name="twitter:site" content="@topciment"/>
     <meta name="twitter:creator" content="@topciment"/>
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
@@ -40,13 +40,6 @@
     <link rel="alternate" href="https://www.topciment.com/fr/nouvelles" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/es/noticias" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/en/news" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/de/nachrichten.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/notizie.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/nieuws.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-news.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/novosti.html" hreflang="ru-RU"/>
-    <link rel="alternate" href="https://www.topciment.us/news.html" hreflang="en-US"/>
-    <link rel="alternate" href="https://www.topciment.cn/updates-and-news.html" hreflang="zh-CN"/>
 
     <?php include("../assets/includes/root-scripts-head.php"); ?>
 </head>
@@ -68,11 +61,86 @@
                         <div class="row">
                             <div class="col-md-12 pr-0 pl-0">
                                 <div class="row">
+                                  <!-- start bloque noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="nouvelle/comment-appliquer-du-beton-cire-sur-de-vieux-carreaux-etape-par-etape">
+                                            Comment appliquer du béton ciré sur de vieux carreaux: étape par étape</a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>28/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3" src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg"  height="auto"/>
+                                                            <p>Le béton ciré est le meilleur matériau pour recouvrir de vieux carreaux sans travaux. Nous expliquons comment appliquer du béton ciré sur des carreaux, étape par étape.</p>
+                                                            
+                                                            <a href="nouvelle/comment-appliquer-du-beton-cire-sur-de-vieux-carreaux-etape-par-etape" class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia-->
+                                     <!-- start bloque noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="nouvelle/comment-appliquer-du-beton-cire-sur-de-vieux-carreaux-etape-par-etape">
+                                            Escaliers en béton ciré: comment les recouvrir correctementa</a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>25/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3" src="https://www.topciment.com/img/microcemento/escalera-microcemento-plata.webp"  height="auto"/>
+                                                            <p>Les escaliers en béton ciré sont l'élément décoratif du moment. Suivez nos conseils et apprenez à fabriquer des escaliers en béton ciré étape par étape.</p>
+                                                            <a href="nouvelle/comment-appliquer-du-beton-cire-sur-de-vieux-carreaux-etape-par-etape" class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia-->
+                                      <!-- start bloque noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="nouvelle/comptoirs-en-beton-cire-esthetique-et-fonctionnalite">
+                                            Comptoirs en béton ciré : esthétique et fonctionnalité</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>5/05/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg"
+                                                                    height="auto"/>
+                                                          <p>Les comptoirs en béton ciré  sont de plus en plus fréquents en raison de leur fonctionnalité, de leur esthétique et d'une grande variété d'utilisations. Connaissez ses principaux avantages.</p>
+                                                            <a href="nouvelle/comptoirs-en-beton-cire-esthetique-et-fonctionnalite"
+                                                                    class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
                                     <!-- start bloque noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a href="nouvelle/avis-sur-beton-cire-avantages-et-inconvenients-de-ce-revetement">
-                                             Avis sur le béton ciré: avantages et inconvénients de ce revêtement</a>
+                                             Avis sur le béton ciré : avantages et inconvénients de ce revêtement</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>23/4/2021</span>
                                             </h2>
@@ -84,7 +152,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/microcemento-gris-suelo-dormitorio.jpeg"
                                                                     height="auto"/>
-                                                           <p>Le béton ciré est très populaire dans la décoration intérieure et extérieure des maisons et des entreprises. Un revêtement qui génère toutes sortes d'opinions. Dans cet article, vous découvrirez ses principaux avantages et inconvénients</p>
+                                                           <p>Le béton ciré  est très populaire dans la décoration intérieure et extérieure des maisons et des entreprises. Un revêtement qui génère toutes sortes d'opinions. Dans cet article, vous découvrirez ses principaux avantages et inconvénients</p>
                                                             <a href="nouvelle/avis-sur-beton-cire-avantages-et-inconvenients-de-ce-revetement"
                                                                     class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
                                                             </div>
@@ -100,7 +168,7 @@
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a href="nouvelle/comment-nettoyer-le-beton-cire-produits-specialises-et-recommandations">
-                                               Comment nettoyer le béton ciré : produits spécialisés et recommandations</a>
+                                               Comment nettoyer le béton ciré  : produits spécialisés et recommandations</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>31/3/2021</span>
                                             </h2>
@@ -112,7 +180,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/limpieza-microcemento.jpg"
                                                                     height="auto"/>
-                                                            <p>Vous voulez tout savoir sur le nettoyage du béton ciré ? Dans cet article, vous découvrirez quels sont les produits les plus adaptés pour nettoyer toute surface recouverte du béton ciré: sols, murs, etc.</p>
+                                                            <p>Vous voulez tout savoir sur le nettoyage du béton ciré  ? Dans cet article, vous découvrirez quels sont les produits les plus adaptés pour nettoyer toute surface recouverte du béton ciré : sols, murs, etc.</p>
                                                             <a href="nouvelle/comment-nettoyer-le-beton-cire-produits-specialises-et-recommandations"
                                                                     class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
                                                             </div>
@@ -128,7 +196,7 @@
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a href="nouvelle/application-reussie-du-beton-cire-sur-les-planchers-chauffants">
-                                                Application réussie du béton ciré sur les planchers chauffants</a>
+                                                Application réussie du béton ciré  sur les planchers chauffants</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>29/3/2021</span>
                                             </h2>
@@ -140,7 +208,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/comedor-microcemento-suelo-radiante.jpg"
                                                                     height="auto"/>
-                                                             <p>Non seulement il est possible d'appliquer du béton ciré sur un chauffage par le sol, mais c'est aussi une alternative qui offre de nombreux avantages. Jetez un coup d'œil à cet article et apprenez comment réaliser une installation réussie grâce aux conseils de notre équipe technique.</p>
+                                                             <p>Non seulement il est possible d'appliquer du béton ciré  sur un chauffage par le sol, mais c'est aussi une alternative qui offre de nombreux avantages. Jetez un coup d'œil à cet article et apprenez comment réaliser une installation réussie grâce aux conseils de notre équipe technique.</p>
                                                               <a href="nouvelle/application-reussie-du-beton-cire-sur-les-planchers-chauffants"
                                                                     class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
                                                             </div>
@@ -156,9 +224,8 @@
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a href="nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces">
-                                                 Cuisines en béton ciré: avantages, styles et astuces</a>
-                                                <span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2"></i>17/3/2021</span>
+                                                 Cuisines en béton ciré : avantages, styles et astuces</a>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>17/3/2021</span>
                                             </h2>
                                             <div class="card-body">
                                                 <div class="paragraphs">
@@ -168,7 +235,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/isla-cocina-microcemento-gris.jpg"
                                                                     height="auto"/>
-                                                              <p>Le béton ciré dans les cuisines garantit des créations uniques. Chez Topciment, nous vous parlons de ses nombreux avantages et nous vous proposons quatre styles de cuisines en béton ciré. Qu'attendez-vous pour connaître la dernière tendance en matière de décoration?</p>
+                                                              <p>Le béton ciré  dans les cuisines garantit des créations uniques. Chez Topciment, nous vous parlons de ses nombreux avantages et nous vous proposons quatre styles de cuisines en béton ciré . Qu'attendez-vous pour connaître la dernière tendance en matière de décoration?</p>
                                                                 <a href="nouvelle/cuisines-en-beton-cire-avantages-styles-et-astuces"
                                                                     class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
                                                             </div>
@@ -184,7 +251,7 @@
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a href="nouvelle/sols-en-beton-cire-application-types-avantages-et-astuces">
-                                                   Sols en béton ciré: application, types, avantages et astuces</a>
+                                                   Sols en béton ciré : application, types, avantages et astuces</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>15/3/2021</span>
                                             </h2>
@@ -196,8 +263,35 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/imagen-microcemento-suelos.jpg"
                                                                     height="auto" />
-                                                                <p>Le béton ciré peut être appliqué de plusieurs façons sur un sol. Dans cet article, nous vous expliquons tout ce que vous devez savoir sur un sol en béton ciré: son application, ses principaux avantages, les types disponibles et des conseils d'utilisation.</p>
+                                                                <p>Le béton ciré  peut être appliqué de plusieurs façons sur un sol. Dans cet article, nous vous expliquons tout ce que vous devez savoir sur un sol en béton ciré : son application, ses principaux avantages, les types disponibles et des conseils d'utilisation.</p>
                                                                 <a href="nouvelle/sols-en-beton-cire-application-types-avantages-et-astuces"
+                                                                    class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia -->
+                                     <!-- start bloque noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="beton-cire/comment-eviter-les-taches-ou-marques-indesirables-en-appliquant-le-beton-cire">
+                                               Astuces pour éviter les taches et les marques du béton ciré</a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>14/3/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg"
+                                                                    height="auto" />
+                                                              <p>Connaître les principaux défauts d'une mauvaise application de béton ciré sur les sols et les murs. Nos experts résolvent les principaux problèmes: les taches et les marques.</p>
+                                                                <a href="beton-cire/comment-eviter-les-taches-ou-marques-indesirables-en-appliquant-le-beton-cire"
                                                                     class="btn float-right btn-primary leermass mt-2">Lire la suite</a>
                                                             </div>
 
@@ -247,7 +341,7 @@
                                             <h2 class="card-header"> <a
                                                     href="nouvelle/topciment-lance-son-nouveau-vernis-polyurethane-base-eau">
                                                     Topsealer WT All in One: nouveau vernis polyuréthane à base d'eau
-                                                    pour béton ciré prêt à l'emploi </a> <span
+                                                    pour béton ciré  prêt à l'emploi </a> <span
                                                     class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>12/3/2021</span>
                                             </h2>
@@ -356,7 +450,7 @@
                                         <div class="card">
                                             <h2 class="card-header"> <a
                                                     href="nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance">6
-                                                    raisons pour lesquelles les salles de bains en béton ciréseront
+                                                    raisons pour lesquelles les salles de bains en béton ciré seront
                                                     une tendance à l'avenir.
                                                     2021</a> <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>2/11/2020</span>
@@ -380,7 +474,7 @@
                                                                     en 2021. Découvrez les 6 raisons pour lesquelles les
                                                                     salles de bains en microciment
 
-                                                                    Les salles de bains en béton ciréseront à la mode
+                                                                    Les salles de bains en béton ciré seront à la mode
                                                                     en 2021. <br>
                                                                 </p>
                                                                 <a href="nouvelle/6-raisons-pour-lesquelles-les-salles-de-bains-en-beton-cire-seront-tendance"
@@ -398,7 +492,7 @@
                                         <div class="card">
                                             <h2 class="card-header"> <a
                                                     href="nouvelle/8-raisons-pour-lesquelles-beton-cire-lavenir-des-renovations">8
-                                                    les raisons pour lesquelles le béton ciréest l'avenir des
+                                                    les raisons pour lesquelles le béton ciré est l'avenir des
                                                     rénovations</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>13/10/2020</span>
@@ -411,7 +505,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/news/Topciment Shkaf 2 -header.jpg"
                                                                     height="auto"/>
-                                                                <p>Le béton ciréest le revêtement décoratif du
+                                                                <p>Le béton ciré est le revêtement décoratif du
                                                                     présent.
                                                                     présent, mais surtout
                                                                     mais surtout de l'avenir, en raison de ses multiples
@@ -423,7 +517,7 @@
                                                                     toutes sortes d'espaces et de styles. Nous
                                                                     expliquons ici
                                                                     nous expliquons
-                                                                    les principaux avantages du béton ciréqui vous
+                                                                    les principaux avantages du béton ciré qui vous
                                                                     tomber amoureux et
                                                                     avec lequel vous réaliserez la maison de vos rêves.
                                                                     <br>
@@ -462,8 +556,8 @@
                                                                     toute la journée, à tremper dans l'eau ou sur la
                                                                     pelouse de votre maison, à prendre le soleil ?
                                                                     Et, si nous voulons le meilleur, une piscine en
-                                                                    béton ciréest la solution idéale.
-                                                                    La piscine en béton ciréest la solution idéale.
+                                                                    béton ciré est la solution idéale.
+                                                                    La piscine en béton ciré est la solution idéale.
                                                                     <br>
                                                                 </p>
                                                                 <a href="nouvelle/piscines-en-beton-cire-milleure-option-possible"
@@ -686,7 +780,7 @@
                                                                     height="auto"/>
 
 
-                                                                <p>Seul un applicateur professionnel de béton cirésait
+                                                                <p>Seul un applicateur professionnel de béton ciré sait
                                                                     comment postuler
                                                                     avec
                                                                     exactement vos prix au m2
@@ -708,56 +802,7 @@
                                         </div>
 
                                     </div>
-                                    <div class="col-md-12 pr-0 pl-0 mb-5">
-                                        <div class="card">
-                                            <h2 class="card-header"> <a
-                                                    href="nouvelle/cuisine-des-comptoirs-avec-du-beton-cire">Microciment
-                                                    des comptoirs de cuisine avec du béton ciré?</a><span
-                                                    class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2 "></i>13/01/2020</span> </h2>
-                                            <div class="card-body">
-                                                <div class="paragraphs">
-                                                    <div class="row">
-                                                        <div class="span4">
-                                                            <div class="clearfix content-heading">
-                                                                <img class="pull-left mr-3"
-                                                                    src="https://www.topciment.com/imagenes/encimeras/encimeras-de-cocina-con-microcemento-topciment.jpg"
-                                                                    height="auto"/>
-
-
-                                                                <p>
-                                                                    <p>Il existe de multiples <strong>types de matériaux
-                                                                            pour </strong>kitchen
-                                                                        pour les plans de travail de cuisine</strong>,
-                                                                        moins chers et plus
-                                                                        moins cher et plus coûteux, mais le microciment
-                                                                        Topciment est une autre
-                                                                        différente de toutes les autres solutions sur le
-                                                                        des solutions sur le marché. Nous vous en
-                                                                        parlons ici
-                                                                        afin que vous puissiez
-                                                                        pour choisir le plan de travail <strong>parfait
-                                                                            de la cuisine
-                                                                            parfait</strong> : résistant, hygiénique,
-                                                                        facile à
-                                                                        facile
-                                                                        facile à nettoyer et à entretenir.</p>
-                                                                </p>
-                                                                <a href="nouvelle/cuisine-des-comptoirs-avec-du-beton-cire"
-                                                                    class="btn btn-primary Lire la leermass mt-2">Lire
-                                                                    la
-                                                                    suite</a>
-
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                    </div>
+                                    
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a
@@ -778,7 +823,7 @@
                                                                 <p>Topciment présente la solution la plus moderne pour
                                                                     pour l'extérieur,
                                                                     terrasses, balcons et patios, le
-                                                                    <strong>béton cirépour l'extérieur
+                                                                    <strong>béton ciré pour l'extérieur
                                                                         Microstone</strong> . C'est le plus innovant
                                                                     le produit le plus innovant en
                                                                     des revêtements décoratifs continus parce qu'il
@@ -903,7 +948,7 @@
                                                                     height="auto"/>
 
 
-                                                                <p>Une bonne application du béton ciréest conditionnée
+                                                                <p>Une bonne application du béton ciré est conditionnée
                                                                     par plusieurs
                                                                     conditionné par plusieurs facteurs
                                                                     facteurs, la qualité des
@@ -1021,7 +1066,7 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/microcemento-cocinas-1.jpg"
                                                                     height="auto"/>
-                                                                <p></a> Le béton ciréest un matériau neutre
+                                                                <p></a> Le béton ciré est un matériau neutre
                                                                     un matériau neutre qui
                                                                     se combine dans tout type de cuisine, de classique à
                                                                     classique
@@ -1047,7 +1092,7 @@
                                         <div class="card">
                                             <h2 class="card-header"> <a
                                                     href="nouvelle/comment-eviter-problemes-avec-le-beton-cire">
-                                                    béton cirésans
+                                                    béton ciré sans
                                                     problèmes</a> <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2 "></i>13/01/2020</span></h2>
                                             <div class="card-body">
@@ -1059,7 +1104,7 @@
                                                                     src="https://www.topciment.com/imagenes/evita-problemas-microcemento-con-profesionales.jpg"
                                                                     height="auto"/>
                                                                 <p>Comment
-                                                                    éviter les problèmes liés au béton ciré? Une
+                                                                    éviter les problèmes liés au béton ciré ? Une
                                                                     demande
                                                                     avec
                                                                     Les produits Topciment garantissent des produits du
@@ -1212,7 +1257,7 @@
                                                                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRW1PcBDbd1Z5HGi-r3vZj8PkTy7z63lyPY75RdCZgkIkj6JlX_g&s"
                                                                     height="auto"/>
                                                                 <p>
-                                                                    le derapage du béton cirédans le seul
+                                                                    le derapage du béton ciré dans le seul
                                                                     laboratoire d'essais
                                                                     laboratoire d'essais en Espagne
                                                                     spécialisée dans ce domaine </p>

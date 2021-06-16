@@ -211,7 +211,7 @@
                     </p>
                     <p>
                         Por lo que respecta a la <a class="links"
-                            href="../microcemento/metodos-de-aplicacion-microcemento">aplicación del microcemento</a>en
+                            href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación del microcemento</a>en
                         baños, el
                         proceso varía dependiendo del tipo de microcemento elegido y de la superficie a revestir (si es
                         transitable o no transitable).
@@ -262,7 +262,7 @@
                             antideslizantes</strong> para evitar esos resbalones tan traicioneros que todos padecemos
                         alguna vez en
                         nuestra vida. Nuestro barniz <a class="links"
-                            href="../microcemento/barniz-topsealer#topsealer-anti-slip">Topsealer WT Anti Slip </a> hace
+                            href="../microcemento/barniz-poliuretano-acrilico-alagua-topsealer#topsealer-anti-slip">Topsealer WT Anti Slip </a> hace
                         de la bañera y ducha de
                         microcemento un espacio 100% seguro.
 
@@ -626,7 +626,37 @@
     </div>
 
     <!-- include jQuery -->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.topciment.com/es/noticia/6-razones-banos-microcemento-seran-tendencia"
+  },
+  "headline": "6 razones por las que los baños de microcemento serán tendencia en 2021",
+  "image":"https://www.topciment.com/imagenes/news/topciment-pared-lavabo-ba%C3%B1o-USA-portada.jpg",
+  "datePublished": "2020-11-02",
+  "dateModified": "2020-11-02",
+  "author": {
+    "@type": "Organization",
+	"name": "Topciment",
+	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+	"url": "https://www.topciment.com"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "url":"https://www.topciment.com",
+    "name": "Topciment",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+    }
+  },
+  "description":  "Si estás pensando en renovar o agrandar el baño en los próximos meses, este artículo es para ti. Los baños de microcemento serán tendencia en 2021. Descubre aquí por qué."
+  
+}
+</script>
 </body>
 
 </html>

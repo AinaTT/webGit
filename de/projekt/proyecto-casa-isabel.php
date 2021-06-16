@@ -15,20 +15,20 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Bilder von großen Flächen. Renovierung mit Mikrozement </title>
+    <title>Bilder von großen Flächen. Renovierung mit mikrozement  </title>
     <meta name="description"
-        content="Fotos von Räumen mit Mikrozement. Innenräume mit durchgehendem Pflaster. Mikrozementböden." />
+        content="Fotos von Räumen mit mikrozement . Innenräume mit durchgehendem Pflaster. mikrozement böden." />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bilder von großen Flächen. Renovierung mit Mikrozement." />
+    <meta property="og:title" content="Bilder von großen Flächen. Renovierung mit mikrozement ." />
     <meta property="og:description"
-        content="Bilder von Räumen mit Mikrozement. Innenräume mit durchgehendem Pflaster. Mikrozementböden." />
+        content="Bilder von Räumen mit mikrozement . Innenräume mit durchgehendem Pflaster. mikrozement böden." />
     <meta property="og:url" content="https://www.topciment.com/de/projekt/proyecto-casa-isabel" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description"
-        content="Fotos von Räumen mit Mikrozement. Innenräume mit durchgehendem Pflaster. Mikrozementböden." />
-    <meta name="twitter:title" content="Bilder von großen Flächen. Renovierung mit Mikrozement." />
+        content="Fotos von Räumen mit mikrozement . Innenräume mit durchgehendem Pflaster. mikrozement böden." />
+    <meta name="twitter:title" content="Bilder von großen Flächen. Renovierung mit mikrozement ." />
     <meta name="twitter:title" content="Bilder von großen Flächen." />
     <meta name="twitter:site" content="@topciment" />
     <meta name="twitter:creator" content="@topciment" />
@@ -76,9 +76,9 @@
                     Apollonio. </h2> <div class="wow fadeInRight justified"
                     style="float:left; font-size:16px; margin-left:0; margin-top:0;">
                     <p>In der kleinen Stadt Carpesa, nördlich der Stadt Valencia, steht ein einzigartiges Haus, bei dem
-                        <a href="../mikrozemente">Mikrozement</a> zusammen mit Stein und Holz ein einzigartiges Design
+                        <a href="../mikrozemente">mikrozement </a> zusammen mit Stein und Holz ein einzigartiges Design
                         schafft. Ein Wohnzimmer mit offener Küche, wo die rustikale Inspiration dank der freiliegenden
-                        Balken aus Hartholz sichtbar ist. Der <strong>Kalahari-Mikrozementboden schafft einen
+                        Balken aus Hartholz sichtbar ist. Der <strong>Kalahari-mikrozement boden schafft einen
                             durchgehenden Raum, vereinheitlicht die Umgebungen und gibt ein größeres Gefühl von
                             Geräumigkeit</strong>. Derselbe Farbstoff wird in Treppen und Bädern verwendet, mit dem
                         Ziel, ein Ganzes zu schaffen, ein Ganzes. Eine Variation zu Weiß, um vertikale und horizontale
