@@ -22,12 +22,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-francisco-jesus" hreflang="zh-CN"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-francisco-jesus" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/fr/projet-francisco-jesus" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-francisco-jesus.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-francisco-jesus.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-francisco-jesus.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-francisco-jesus.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-francisco-jesus.html" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/projet-francisco-jesus" hreflang="fr-FR"/> 
  
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

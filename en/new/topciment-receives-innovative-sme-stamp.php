@@ -16,7 +16,7 @@
 
 
     <title>Topciment obtains the INNOVATIVE SME seal as a reward for its efforts in research, development and
-        innovation.</title>
+        innovation</title>
     <meta name="description"
         content=" Topciment receives the seal of INNOVATIVE SME from the Ministry of Science and Innovation. An indisputable award for its investment in research, development and innovation." />
 
@@ -306,7 +306,7 @@
 
     <?php include("../../assets/includes/scripts.php"); ?>
     </div>
-
+ 
     <!-- include jQuery -->
 <script type="application/ld+json">
 {

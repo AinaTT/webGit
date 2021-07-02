@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width"/>
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
+    <meta name="Language" content="IT"/>
 
 
     <?php include("../../assets/includes/styles.php"); ?>

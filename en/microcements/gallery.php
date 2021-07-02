@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/galeria.css" />
 
 
-    <title>Photos and images of microcement in bathrooms, kitchens, floors and walls.</title>
+    <title>Photos and images of microcement in bathrooms, kitchens, floors and walls</title>
     <meta name="description"
         content="Photos of microcement in floors, photos of microcement in walls, photos of microcement in kitchens, photos of microcement in bathrooms." />
 
@@ -91,7 +91,7 @@
                     restaurants and large surfaces. It is increasingly common to see microcement walls in bathrooms,
                     kitchens or exterior facades thanks to its many qualities and its beautiful decorative aesthetics.
                     In this gallery you will find some of our most outstanding projects in which microcement has been
-                    applied to walls and facades.
+                    applied to <a class="links" href="../new/wall-coverings-with-Topciment">walls</a> and facades.
 
                 </p>
                 <div class="imagenes">
@@ -161,7 +161,7 @@
                 <a id="suelos" class="ancla"></a>
                 <h2>Microcement floors</h2>
                 <p>Resistance to transit, knocks and easy cleaning as there are no joints, are some of the
-                    characteristics that make microcement floors the best option for covering interior and exterior
+                    characteristics that make microcement <a class="links"  href="../new/microcement-floors">floors</a> the best option for covering interior and exterior
                     floors, not to mention the colours! Discover here some of our most outstanding projects in which we
                     have opted for microcement flooring.
                 </p>
@@ -239,7 +239,7 @@
                     resistance to humidity as well as the speed of installation of this continuous coating has led to a
                     boom in microcement bathrooms. And a picture, or a few pictures, is proof of this. Microcement can
                     be applied on floors, walls, bathroom sinks and even showers or bathtubs. Enjoy the photos of
-                    microcement bathrooms from our most outstanding projects here. They are an absolute trend!
+                    microcement <a class="links" href="../new/6-reasons-why-microcement-bathrooms-will-be-a-trend-in-2021">bathrooms</a> from our most outstanding projects here. They are an absolute trend!
                 </p>
                 <div class="imagenes">
                     <div class="row">
@@ -304,7 +304,7 @@
                                         alt="Grey microcement bathroom on walls and floor Germany"
                                         title="Grey microcement bathroom on walls and floor Germany" /></a>
                                 <figcaption>Microcement bathroom on walls (Himalaya colour) and floor (Steel colour) in
-                                    a house in Germany </figcaption>.
+                                    a house in Germany </figcaption>
                             </figure>
                         </div>
                     </div>
@@ -314,7 +314,7 @@
                     Microcement in kitchens</h2>
                 <p>As with bathrooms, microcement kitchens are in fashion. Especially when you are looking for a modern
                     and minimalist kitchen, a style that is achieved thanks to the continuity of microcement. There are
-                    many ways to apply microcement in kitchens: floors, walls, sinks and even kitchen worktops. Take a
+                    many ways to apply microcement in <a class="links" href="../new/microcement-kitchens-advantages-styles-and-tips">kitchens</a>: floors, walls, sinks and even kitchen worktops. Take a
                     look at our most outstanding projects and discover for yourself what microcement can do in kitchens.
                 </p>
                 <div class="imagenes">
@@ -385,7 +385,7 @@
                 <a id="escaleras" class="ancla"></a>
                 <h2>
                     Microcement stairs</h2>
-                <p>Although microcement stairs are complicated to make, the final result is well worth it. Microcement
+                <p>Although microcement <a class="links" href="../new/microcement-stairs-how-to-coat-them-correctly">stairs</a> are complicated to make, the final result is well worth it. Microcement
                     turns a simple staircase into a highly valuable decorative resource that gives personality to the
                     room in which it is located. Enjoy here some of the microcement staircases featured in our most
                     outstanding projects.
@@ -454,7 +454,7 @@
                 <h2>
                     Microcement swimming pools</h2>
                 <p>There are many alternatives for lining the crown and around a swimming pool, but few offer as many
-                    advantages as microcement in swimming pools. Its great adherence, its non-slip and waterproof
+                    advantages as microcement in <a href="../new/microcement-pools-the-best-possible-option">swimming pools.</a> Its great adherence, its non-slip and waterproof
                     character and its high resistance to sunlight make microcement pools the best alternative for both
                     outdoor and indoor pools. Let yourself be amazed by the photos of the microcement pools of our most
                     outstanding projects.
@@ -524,7 +524,7 @@
                 <h2>Microcement for outdoors</h2>
                 <p>Who said that microcement is only for indoors? Outdoor microcement is also a trend, especially for
                     covering terrace floors or patios and building façades. In our gallery you will find some of the
-                    most interesting ideas for applying microcement outdoors. Open your mind!
+                    most interesting ideas for applying microcement <a class="links" href="../new/microcement-in-exteriors-floors-that-make-a-difference">outdoors</a>. Open your mind!
                 </p>
                 <div class="imagenes">
                     <div class="row">

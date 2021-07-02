@@ -316,7 +316,7 @@
                      <li class="classicF"><a class="linkB" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">Pinturas metálicas</a></li>
                      <li class="elitteF"><a class="linkB" href="microcemento/veladuras-metalicas-elitte">Veladuras y
                              pigmentos metálicos</a></li>
-                     <li class="primacemF"><a class="linkB" href="microcemento/imprimacione-y-promotores-de-adherencia-primacem">Promotores de adherencia</a>
+                     <li class="primacemF"><a class="linkB" href="microcemento/imprimaciones-y-promotores-de-adherencia-primacem">Promotores de adherencia</a>
                      </li>
                      <li class="arcocemF"><a class="linkB" href="microcemento/pigmentos-para-microcemento-arcocem">Pigmentos</a></li>
                      <li class="topsealerF"><a class="linkB" href="microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Barnices</a></li>

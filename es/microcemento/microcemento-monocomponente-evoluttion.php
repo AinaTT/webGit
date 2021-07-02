@@ -612,7 +612,7 @@
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
                                     Aplicar <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
+                                        href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
                                         Plus
                                         / ABS</a> .
                                 </div>
@@ -748,10 +748,10 @@
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
                                     Aplicar <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">
+                                        href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">
                                         Primacem Plus</a>
                                     <a class="links" target="_blank"
-                                        href="imprimacione-y-promotores-de-adherencia-primacem#primacem-abs"> /
+                                        href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-abs"> /
                                         ABS</a> .
                                 </div>
                                 <!-- Icono -->
@@ -770,7 +770,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 2</strong><br>Aplicar una
                                     primera capa de
-                                    <a class="links" href="#evoluttion-microbase">Microbase</a> sin pigmento.
+                                    <a class="links" href="#evoluttion-microbase">Microbase</a> sin pigmento. Lijar.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -788,7 +788,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 3</strong><br>Aplicar una segunda
                                     capa de <a class="links" href="#evoluttion-microbase">Microbase</a> con
-                                    pigmento.
+                                    pigmento. Lijar.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -806,7 +806,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 4</strong><br>Aplicar una primera
                                     capa de <a class="links" href="#evoluttion-microdeck">Microdeck</a> con
-                                    pigmento.
+                                    pigmento. Lijar.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -824,7 +824,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 5</strong><br>Aplicar una segunda
                                     capa de <a class="links" href="#evoluttion-microdeck">Microdeck</a> con
-                                    pigmento.
+                                    pigmento. Lijar.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img

@@ -61,6 +61,36 @@
                         <div class="row">
                             <div class="col-md-12 pr-0 pl-0 ">
                                 <div class="row">
+                                    <!-- Start bloque noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="neuigkeit/venezianischer-stuck-alles-uber-diese-dekorative-technik-fur-wande">Venezianischer Stuck: alles über diese dekorative Technik für Wände </a><span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>28/06/2021</span> </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/imagenes/news/pared-de-estuco-veneciano-en-salon.jpg"
+                                                                    height="auto" /> 
+                                                              <p>Venezianischer Stuck ist eine der am häufigsten verwendeten Dekorationstechniken für Wände und Decken. Erfahren Sie, was es ist, welche Vorteile es hat und wie man es richtig anwendet.</p>
+                                                                <a href="neuigkeit/venezianischer-stuck-alles-uber-diese-dekorative-technik-fur-wande"
+                                                                    class="btn btn-primary leermass mt-2 ">Mehr
+                                                                    lesen</a>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- End bloque noticia -->
                                    <!-- Start bloque noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">

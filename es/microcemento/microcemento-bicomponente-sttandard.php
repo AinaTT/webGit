@@ -657,7 +657,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
+                                    Aplicar <a class="links" target="_blank" href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
                                         Plus
                                         / ABS</a>.
                                 </div>
@@ -773,7 +773,7 @@
                                 <div class="col-9 col-md-5 pasoapli">
                                     <strong>Paso 1</strong><br>Colocar la malla sobre la
                                     superficie a recubrir.
-                                    Aplicar <a class="links" target="_blank" href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
+                                    Aplicar <a class="links" target="_blank" href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">Primacem
                                         Plus
                                         / ABS</a>.
                                 </div>

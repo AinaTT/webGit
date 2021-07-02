@@ -57,32 +57,76 @@
         <div class=" clearfix">
             <div id="content">
                 <section id="up">
-                    <div class="container mt-5">
-
-                       <div class="row">
-
+                    <div class="container mt-5"> 
+                       <div class="row"> 
                             <div class="col-md-12 pr-0 pl-0 ">
                                 <div class="row"> 
-                                     <!-- start noticia--> 
+                                <!-- start noticia--> 
                                   <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
-                                            <h2 class="card-header"> <a
-                                                    href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos">Cómo aplicar microcemento sobre azulejos antiguos: paso a paso</a><span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2  "></i>27/05/2021</span> </h2>
+                                            <h2 class="card-header"> <a href="noticia/estuco-veneciano-todo-sobre-esta-tecnica-decorativa-para-paredes">
+                                        Estuco veneciano: todo sobre esta técnica decorativa para paredes  </a><span class="float-right clocki">
+                                            <i class="fa fa-clock-o mr-2  "></i>28/06/2021</span> </h2>
                                             <div class="card-body">
                                                 <div class="paragraphs">
                                                     <div class="row">
                                                         <div class="span4">
                                                             <div class="clearfix content-heading">
-                                                                <img class="pull-left mr-3"
-                                                                    src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg"
-                                                                    height="auto" />
+                                                                <img class="pull-left mr-3" src="https://www.topciment.com/imagenes/news/pared-de-estuco-veneciano-en-salon.jpg"
+                                                                    height="auto"/> 
+                                                         <p>El estuco veneciano es una de las técnicas decorativas más utilizadas para paredes y techos. Conoce en qué consiste, todas sus ventajas y cómo aplicarlo correctamente. </p>
+                                                           <a href="noticia/estuco-veneciano-todo-sobre-esta-tecnica-decorativa-para-paredes" class="btn btn-primary leermass mt-2 ">Leer más</a> 
+                                                            </div>
 
+                                                        </div>
+                                                    </div>
+                                                </div>
 
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- end noticia -->
+                                   <!-- start noticia--> 
+                                  <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="noticia/microcemento-en-exterior">Microcemento en exterior: suelos que marcan la diferencia</a><span class="float-right clocki">
+                                            <i class="fa fa-clock-o mr-2  "></i>18/06/2021</span> </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3" src="https://www.topciment.com/img/microcemento/microcemento-exterior-sardinera.webp"
+                                                                    height="auto"/> 
+                                                          <p>Los suelos de microcemento en exteriores son una tendencia decorativa al alza. Conoce sus ventajas y saca el máximo partido a un pavimento continuo que
+                                                           marca la diferencia.</p>
+                                                           <a href="noticia/microcemento-en-exterior" class="btn btn-primary leermass mt-2 ">Leer más</a> 
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <!-- end noticia -->
+                                     <!-- start noticia--> 
+                                  <div class="col-md-12 pr-0 pl-0 mb-5">
+                                        <div class="card">
+                                            <h2 class="card-header"> <a
+                                                    href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos">Cómo aplicar microcemento sobre azulejos antiguos: paso a paso</a><span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>27/05/2021</span> </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                            <img class="pull-left mr-3" src="https://www.topciment.com/imagenes/news/bano-con-azulejos-suelo-y-ducha.jpg" height="auto" /> 
                                                            <p>El microcemento es el mejor material para revestir azulejos antiguos sin obras. Te explicamos cómo aplicar microcemento sobre azulejos, paso a paso.</p> 
-                                                           <a href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos"
-                                                                    class="btn btn-primary leermass mt-2 ">Leer más</a>
-
+                                                           <a href="noticia/como-aplicar-microcemento-sobre-azulejos-antiguos" class="btn btn-primary leermass mt-2 ">Leer más</a> 
                                                             </div>
 
                                                         </div>
@@ -98,8 +142,7 @@
                                   <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a
-                                                    href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente">Escaleras de microcemento: cómo revestirlas
-correctamente</a><span class="float-right clocki"><i
+                                                    href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente">Escaleras de microcemento: cómo revestirlas correctamente</a><span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2  "></i>25/05/2021</span> </h2>
                                             <div class="card-body">
                                                 <div class="paragraphs">
@@ -162,8 +205,7 @@ correctamente</a><span class="float-right clocki"><i
                                         <div class="card">
                                             <h2 class="card-header"> <a href="noticia/opiniones-del-microcemento-pros-contras-revestimiento">
                                          Opiniones del microcemento: pros y contras de este revestimiento</a>
-                                                <span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2"></i>23/4/2021</span>
+                                                <span class="float-right clocki"><i class="fa fa-clock-o mr-2"></i>23/4/2021</span>
                                             </h2>
                                             <div class="card-body">
                                                 <div class="paragraphs">
@@ -174,8 +216,7 @@ correctamente</a><span class="float-right clocki"><i
                                                                     src="https://www.topciment.com/imagenes/news/microcemento-gris-suelo-dormitorio.jpeg"
                                                                     height="auto" />
                                                              <p>El microcemento es muy popular en la decoración de interiores y exteriores de hogares y comercios. Un revestimiento que
-                                                              genera todo tipo de opiniones. En este artículo descubrirás sus ventajas y problemas principales.
-</p>
+                                                              genera todo tipo de opiniones. En este artículo descubrirás sus ventajas y problemas principales. </p>
                                                                 <a href="noticia/opiniones-del-microcemento-pros-contras-revestimiento"
                                                                     class="btn float-right btn-primary leermass mt-2">Leer
                                                                     más</a>
@@ -247,7 +288,7 @@ correctamente</a><span class="float-right clocki"><i
                                             </div>
                                         </div>
                                     </div>
-<!-- End bloque noticia -->
+                                    <!-- End bloque noticia -->
                                 <!-- Start bloques  noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
@@ -820,47 +861,7 @@ correctamente</a><span class="float-right clocki"><i
 
                                     </div>
                                   
-                                    <div class="col-md-12 pr-0 pl-0 mb-5">
-                                        <div class="card">
-                                            <h2 class="card-header"> <a
-                                                    href="noticia/diseno-y-confort-para-espacios-exteriores">Diseño
-                                                    y confort
-                                                    para espacios exteriores</a><span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2  "></i>13/01/2020</span> </h2>
-                                            <div class="card-body">
-                                                <div class="paragraphs">
-                                                    <div class="row">
-                                                        <div class="span4">
-                                                            <div class="clearfix content-heading">
-                                                                <img class="pull-left mr-3"
-                                                                    src="https://www.topciment.com/imagenes/exteriores/diseno-y-confort-exterior-viviendas-1.jpg"
-                                                                    height="auto" />
-
-
-                                                                <p>Topciment presenta la solución más actual para
-                                                                    exteriores,
-                                                                    terrazas, balcones y patios, el
-                                                                    <strong>microcemento para exteriores
-                                                                        Microstone</strong> . Es el
-                                                                    producto más innovador en
-                                                                    los revestimientos decorativos continuos porque
-                                                                    consigue un
-                                                                    <strong> entorno limpio,
-                                                                        agradable y vanguardista.</strong>
-                                                                </p>
-                                                                <a href="noticia/diseno-y-confort-para-espacios-exteriores"
-                                                                    class="btn btn-primary leermass mt-2 ">Leer más</a>
-
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                    </div>
+                                   
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
                                             <h2 class="card-header"> <a

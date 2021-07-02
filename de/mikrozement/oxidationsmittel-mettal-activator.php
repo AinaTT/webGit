@@ -31,14 +31,6 @@
     <meta property="og:type" content="article">
     <meta property="og:image"
         content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image"
-        content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/de/mikrozement/oxidationsmittel-mettal-activator" />

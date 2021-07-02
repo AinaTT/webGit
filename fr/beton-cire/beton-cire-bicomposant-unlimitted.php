@@ -16,14 +16,12 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>béton ciré  bicomposant avec une meilleur maniabilitée | Unlimited</title>
-    <meta name="description" content="Le béton ciré  Unlimited est le béton ciré  bicomposant 
-avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre des finitions plus douces. "/>
-    <meta property="og:title" content="béton ciré  bicomposant avec une meilleur maniabilitée | Unlimited">
+    <title>Béton ciré bi composant avec une plus grande maniabilité | Unlimitted</title>
+    <meta name="description" content="Le béton ciré Unlimited est le béton ciré bi composant de Topciment avec une meilleure maniabilité. Réduit l'effet de brûlure et offre des finitions plus lisses"/>
+    <meta property="og:title" content="Béton ciré bi composant avec une plus grande maniabilité | Unlimitted">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/information-beton-cire/unlimitted">
-    <meta property="og:description" content="Le béton ciré  Unlimited est le béton ciré  bicomposant 
-avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre des finitions plus douces. ">
+    <meta property="og:description" content="Le béton ciré Unlimited est le béton ciré bi composant de Topciment avec une meilleure maniabilité. Réduit l'effet de brûlure et offre des finitions plus lisses ">
     <meta property="og:type" content="article">
 
 
@@ -60,19 +58,19 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                                     <a href="#up" style="font-size:26px">Unlimitted</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-unlimitted">Qu'est-ce que Unlimitted?</a></h2>
+                                    <a href="#que-es-unlimitted">Qu'est-ce que Unlimitted?</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#unlimitted-microbase">Unlimitted Microbase</a></h2>
+                                    <a href="#unlimitted-microbase">Unlimitted Microbase</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#unlimitted-microdeck">Unlimitted Microdeck</a></h2>
+                                    <a href="#unlimitted-microdeck">Unlimitted Microdeck</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Application</a></h2>
+                                     <a href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#colores">Couleurs</a></h2>
+                                    <a href="#colores">Couleurs</a>
                                 </li>
 
 
@@ -82,27 +80,19 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
 
                             <a id="que-es-unlimitted" class="ancla"></a>
 
-                            <h1 class="en2">béton ciré  bicomposant Unlimited </h1>
-                            <div class="text-justify">
+                            <h1  >Béton ciré bi composant avec une plus grande maniabilité | Unlimitted </h1>
+                            <p>
+                                Unlimited est la nouvelle gamme de béton ciré bicomposant de Topciment (ciment et résine). Sa principale qualité est qu'il améliore considérablement l'ouvrabilité du matériau par l'applicateur.
 
+                            </p>    
+<p>
+    Grâce à sa formule innovante, les résistances mécaniques finales d'Unlimited sont exceptionnelles. Un béton ciré dont les finitions décoratives sont beaucoup plus douces et lisses et qui peuvent se vanter d'une extraordinaire résistance au trafic.
 
+</p>    
+<p>
+    Une autre des qualités de ce revêtement est qu'il réduit l'effet de brûlure résultant de l'application du matériau avec une truelle en acier. Il offre également une ductilité similaire aux mortiers à base de chaux.
 
-                                <p class="h3s"> Unlimitted est la nouvelle ligne de béton ciré  bicomposant ( ciment + résine ).</p> C'est la version amélioré de la gamme Sttandard. Unlimited offre beaucoup
-                                d'avantages:
-                                <ul>
-                                    <li> Améloire la maniabilité du matériel. </li>
-                                    <li>Permet obtenir des finitions plus douces et lisses que Standard Microdeck.
-                                    </li>
-                                    <li>Améliore ses résistances mécaniques finales.</li>
-                                    <li>Réduit l'effet de brulure qui se produisent pour l'application à l'aide de
-                                        la taloche
-                                        en acier.</li>
-                                    <li> Offre une ductilité similaire aux mortiers à base de chaux</li>
-                                </ul>
-                                </p>
-
-
-                            </div>
+</p>    
                         </div>
                     </div>
                 </section>
@@ -143,28 +133,24 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                            Préparation du béton ciré bi composant Microbase Unlimitted
 
-                            <p class="h3s">
-                                Unlimitted Microbase C'est le béton ciré  de préparation d'Unlimited.</p> Il est toujours utilisé avant
-                            la application de'Unlimited Microdeck S et Un limited Microdeck M.
+Unlimitted Microbase est le béton ciré bi composant de préparation de la gamme Unlimited. Il s'applique toujours avant le Microdeck S Unlimitted et le Microdeck M Unlimitted.
 
-                            </p>
-                            <p> Peut s'utiliser comme béton ciré  de finition grâce à sa finition rustique.
-                            </p>
-                            <p>Unlimitted Microbase est disponible en 3 granulométrie : L , XL, XXL.</p>
+Parmi les nombreuses finitions décoratives disponibles, Unlimited donne au professionnel la possibilité d'opter pour une finition rustique. C'est pourquoi cet enduit peut également être utilisé comme béton ciré bi composant de finition .
 
-                            <!--  <a class="links" href="../fichas-tecnicas/" target="_blank" style="font-weight: 700;"> <span
+Unlimitted Microbase est disponible en 3 tailles de particules : L, XL et XXL.
+
+                              <a class="links" href="../fiches-techniques/Unlimitted_MicrodeckBI-FR.pdf"" target="_blank" style="font-weight: 700;"> <span
                                     class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Download here the technical sheet of
-                                Unlimitted Microbase
-                            </a> -->
+                                </span>Téléchargez la fiche technique de 
+                                Unlimitted Microbase ici
+                            </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types de
-                        Unlimitted Microdeck</p>
+                    <h3 class="en3" >Types de béton ciré de préparation bi composant Unlimitted Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg" class=" img-fluid " alt="Unlimitted Microbase L" title="Unlimitted Microbase L">
@@ -236,17 +222,13 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                         <div class="col-md-12"><strong>Unlimitted Microbase L</strong> ( 2 couches) 2,0 kg/m2</div>
                         <br>
                         <div class="col-md-12"><strong>Unlimitted Microbase XL</strong> ( 2 couches) 3,0 kg/m2</div>
-                        <br>
-
-                        <div class="col-md-12"> <strong>Unlimitted Microbase XXL </strong> ( 2 couches) 3,0 kg/m
-                        </div>
+                        <br> 
+                        <div class="col-md-12"> <strong>Unlimitted Microbase XXL </strong> ( 2 couches) 3,0 kg/m</div>
                     </div>
                     <!-- Presentación -->
                     <p class="en3" >
-                        Packaging</p>
-                    <p>Unlimited Microbase est disponible en seaux en plastique coniques noir de 20kg.
-
-                    </p>
+                        Présentation</p>
+                    <p>Le béton ciré de préparation bi composant Unlimitted Microbase est présenté en seaux coniques en plastique noir de 20 kg. </p>
 
                 </div>
         </section>
@@ -278,27 +260,35 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                            <h2>
+                                Béton ciré de finition bi-composant Microdeck Unlimitted
 
-                            <p class="h3s">Unlimitted Microdeck il est utilisé comme béton ciré  de finition.
-                            </p>
-                            </p>
-                            <p>Il peut être appliqué sur tous types de surfaces praticables et non praticables et dans
-                                les pièces extérieures et intérieures.
-                            </p>
-                            <p>Il permet d'obtenir des finitions plus lisses que le Microdeck Standard et sans l'effet
-                                de brûlure produit par l'application avec une truelle en acier.</p>
-                            <p>Unlimitted Microdeck est disponible en deux granulométries: S et M.</p>
-                            <p>Unlimited Microdeck S offre des finitions beaucoup plus douce et uniformes que
-                                Unlimited Microdeck M parce qu'il sèche moins rapidement et peur être repasser
-                                davantage.</p>
+                            </h2>  
+<p>
+    Unlimitted Microdeck est utilisé comme béton ciré bi composant de finition . Ce revêtement peut être appliqué sur tous types de surfaces praticables et non praticables, que ce soit à l'intérieur ou à l'extérieur.
 
-                            <!--  <a class="links" href="../fiches-techniques/" target="_blank" style="font-weight: 700;"> <span
+</p>    
+<p>
+    Par rapport au Microdeck sttandard, les finitions Unlimitted Microdeck sont plus lisses. De même, si le professionnel l'applique à l'aide d'une taloche en acier, il n'aura pas à se soucier de l'effet de brûlure typique, car il n'y en a pas.
+
+</p>    
+<p>
+    Concernant la comparaison des deux granulométries dans lesquelles Unlimitted Microdeck est disponible, Unlimitted Microdeck S assure des finitions plus lisses que son analogue Unlimitted Microdeck M . De plus, il sèche plus lentement et peut être retravaillé.
+
+</p>    
+
+<p>
+    Unlimitted Microdeck est disponible en 2 tailles de particules : S et M.
+
+</p>    
+
+                         <a class="links" href="../fiches-techniques/Unlimitted_MicrodeckBI-FR.pdf" target="_blank" style="font-weight: 700;"> <span
                                     class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de
-                                Unlimitted Microdeck
-                            </a> -->
+                                </span>Téléchargez la fiche technique de
+                                   
+                                Unlimitted Microdeck ici
+                            </a> 
                         </div>
                     </div>
                     <!-- Tipos de cubos  -->
@@ -317,8 +307,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3" >
-                        Caracteristiques techniques</p>
+                    <h3 class="en3" >Types de béton ciré bi composant de finition Unlimitted Microdeck</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -375,7 +364,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                     <!-- Presentación -->
                     <p class="en3" >
                         Présentation</p>
-                    <p>Unlimitted Microdeck est présenté en seau coniques en plastique noir de 20 kg.
+                    <p>Le béton ciré de finition bi composant Unlimitted Microdeck est présenté dans des seaux en plastique coniques noirs de 20 kg.
                     </p>
                 </div>
         </section>
@@ -392,15 +381,14 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ PÀS A PÀS (Pour
-                                murs et sols)
-                            </strong></a>
+                     <h2>   <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Application du béton ciré bi composant Unlimitted en sols et murs </strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br> Placer la maille sur la surface à recouvrir.
+                                    <strong>Etape 1</strong><br> 
+Placez la maille sur la superficie à recouvrir .
                                     <br>Appliquer Primacem Plus/ABS.
 
                                 </div>
@@ -416,8 +404,8 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans
-                                    pigment.Ponçer.
+                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans pigment. Ponçer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -431,8 +419,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br> Appliquer une seconde couche de Microdeck avec
-                                    pigment.Ponçer.
+                                    <strong>Etape 3</strong><br> Appliquer une seconde couche de Microbase avec pigment.Ponçer.
 
                                 </div>
                                 <!-- Icono -->
@@ -446,8 +433,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microdeck avec
-                                    pigment.Ponçer.
+                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microdeck avec pigment.Ponçer.
 
                                 </div>
                                 <!-- Icono -->
@@ -461,8 +447,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microdeck avec
-                                    pigments.Ponçer.
+                                    <strong>Etape 5</strong><br>Appliquer une seconde couche avec pigment. Poncer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -476,7 +461,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer .
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -489,7 +474,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer
+                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer .
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -516,7 +501,7 @@ avec une meilleure maniabilité de Topciment . Réduit l'effet brûlé et offre 
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Couleurs</h2>
+                        Couleurs béton ciré bicomposant Unlimitted</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

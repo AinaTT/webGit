@@ -39,7 +39,7 @@
     <link rel="alternate" href="https://www.topciment.com/en/systems/promoteurs-dadherence-primacem.html"
         hreflang="en-GB" />
     <link rel="alternate"
-        href="https://www.topciment.com/es/microcemento/imprimacione-y-promotores-de-adherencia-primacem"
+        href="https://www.topciment.com/es/microcemento/imprimaciones-y-promotores-de-adherencia-primacem"
         hreflang="es-ES" />
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -85,22 +85,22 @@
                             <a id="que-es-primacem" class="ancla"></a>
                             <h1 class="en2">
                               Primaires et promoteurs d'adhérence en béton ciré  | Primacem</h1>
-                          <p>
-                               Primacem est notre gamme de primaires et de promoteurs d'adhérence pour le béton ciré  et d'autres matériaux tels que les carreaux, le béton ou les carreaux, entre autres. Produits fondamentaux puisqu'ils constituent la première étape du processus d'application du béton ciré . Sa fonction est de faciliter l'union entre le support existant et le nouveau revêtement.
+              <p>
+                  Primacem est notre gamme de primaires et de promoteurs d'adhérence pour le béton ciré et d'autres matériaux tels que les carreaux, le béton ou les carreaux, entre autres. Produits fondamentaux puisqu'ils constituent la première étape du processus d'application du béton ciré. Sa fonction est de faciliter l'union entre le support existant et le nouveau revêtement.
 
-                          </p>    
+              </p>  
 <p>
-    Notre gamme de primaires offre différentes possibilités et solutions en fonction de la surface à revêtir. C'est pourquoi nous avons des primaires pour surfaces absorbantes, des surfaces non absorbantes, avec effet collant, avec des primaires agrégés et même des primaires époxy anti-humidité.
+  Notre gamme de primaires offre différentes possibilités et solutions en fonction de la surface à revêtir. C'est pourquoi nous avons des primaires pour surfaces absorbantes, des surfaces non absorbantes, avec effet collant, avec des primaires agrégés et même des primaires époxy anti-humidité.
 
-</p>    
+</p>  
 <p>
-    Pour garantir une consolidation optimale, il est important de suivre les étapes et les recommandations d'utilisation de chacun des promoteurs d'adhérence pour béton ciré  et autres substrats que nous fabriquons.
+  Pour garantir une consolidation optimale, il est important de suivre les étapes et les recommandations d'utilisation de chacun des promoteurs d'adhérence pour béton ciré et autres substrats que nous fabriquons.
 
-</p>    
+</p>  
 <p>
-    Ci-dessous, nous présentons les cinq types d'amorces et de promoteurs d'adhésion qui composent la gamme Primacem.
-       
-</p>                   
+  Ci-dessous, nous présentons les cinq types d'amorces et de promoteurs d'adhésion qui composent la gamme Primacem.     
+    
+</p>               
 </div>
                     </div>
                 </section>
@@ -130,13 +130,13 @@
                         <h2>   Primaire Effet tacking pour béton ciré </h2>
 
 <p>
-    Primacem Fix est un apprêt pour béton ciré  à effet collant prêt à l'emploi et qui favorise l'adhérence du support de béton ciré  existant et nouveau. Il est également particulièrement recommandé comme pont de liaison entre le béton et le mortier.
+  Primacem Fix est un apprêt pour béton ciré à effet collant prêt à l'emploi et qui favorise l'adhérence du support de béton ciré existant et nouveau. Il est également particulièrement recommandé comme pont de liaison entre le béton et le mortier.
 
-</p>    
+</p>  
 <p>
-    Cet apprêt à base d'eau avec un grand pouvoir d'adhérence sur différents supports est très résistant aux alcalis. Concernant son application, le promoteur d'adhérence Primacem Fix est réalisé à l'aide d'une brosse ou d'un rouleau en microfibre. Une seule couche suffit amplement.
-
-</p>    
+  Cet apprêt à base d'eau avec un grand pouvoir d'adhérence sur différents supports est très résistant aux alcalis. Concernant son application, le promoteur d'adhérence Primacem Fix est réalisé à l'aide d'une brosse ou d'un rouleau en microfibre. Une seule couche suffit amplement.
+    
+</p>
 
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Primacem-FR.pdf"
                                 target="_blank"><span class="fa-stack">
@@ -182,7 +182,7 @@
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
                                     <strong>
-                                        Viscosité Brookfiled RTV À 20ºC ( 3/20rpm)
+                                       Viscosité Brookfield RVT à 20 ° C (3 / 20rpm)
                                     </strong>
                                 </div>
                             </div>
@@ -192,12 +192,13 @@
                     <p class="en3">
                         Rendements</p>
 
-                    <p>Le rendement du primaire pour le béton ciré  à effet collant Primacem Fix est de 0,10 L / m2 en 1 couche.</p>
+                    <p>
+Le rendement du primaire pour le béton ciré à effet collant Primacem Fix est de 0,10 L / m2 en 1 couche.
+</p>
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>
-Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5 et 25 litres</p>
+                    <p>Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5 et 25 litres</p>
                 </div>
             </div>
         </section>
@@ -226,18 +227,18 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                         <!-- descripcion -->
                         <div class="col-md-6">
                           <h2>
-                               Primaire Surfaces non absorbantes pour béton ciré 
+                     Primaire Surfaces non absorbantes pour béton ciré
 
                           </h2>  
-<p>
-    Primacem Plus est notre primaire pour le béton ciré  sur les surfaces non absorbantes. Cette dispersion aqueuse de polymère acrylique à base d'eau est appliquée au rouleau ou au pinceau en une seule couche.
+                          <p>
+                            Primacem Plus est notre primaire pour le béton ciré sur les surfaces non absorbantes. Cette dispersion aqueuse de polymère acrylique à base d'eau est appliquée au rouleau ou au pinceau en une seule couche.
 
-</p>    
-<p>
-    En plus d'être parfait pour les surfaces de béton ciré  non absorbantes, ce promoteur d'adhérence prêt à l'emploi est fortement recommandé sur les matériaux tels que les carreaux. Produit sans plastifiants, solvants, ammoniaque et sans émulsifiants.
+                          </p>  
+                          <p>
+                            En plus d'être parfait pour les surfaces de béton ciré non absorbantes, ce promoteur d'adhérence prêt à l'emploi est fortement recommandé sur les matériaux tels que les carreaux. Produit sans plastifiants, solvants, ammoniaque et sans émulsifiants.
 
-</p>
-                            <p>
+                          </p>  
+                         
                                 <a class="links"
                                     href="https://www.topciment.com/fr/fiches-techniques/PrimacemPLUS-FR.pdf"
                                     target="_blank"><span class="fa-stack">
@@ -269,7 +270,7 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Séchage au tacte
+                                    <strong>Sec au toucher
                                     </strong>
                                     <p>30 minutes</p>
                                 </div>
@@ -294,7 +295,7 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                     <!-- Rendements -->
                     <p class="en3">
                         Rendements</p>
-                    <p> Le rendement du primaire pour béton ciré  sur les surfaces non absorbantes Primacem Plus est de 0,09 L / m2 en 1 couche.</p>
+                    <p>Le rendement du primaire pour béton ciré sur les surfaces non absorbantes Primacem Plus est de 0,09 L / m2 en 1 couche.</p>
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
@@ -331,14 +332,14 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                                 Primaire Surfaces absorbantes pour béton ciré 
 
                            </h2> 
-<p>
-    Primacem ABS est le primaire indiqué pour le béton ciré  sur les surfaces absorbantes. Cette dispersion acrylique en milieu aqueux est parfaite pour être utilisée sur d'autres matériaux comme les plaques de plâtre ou le plâtre.
+                            <p>
+                              Primacem ABS est le primaire indiqué pour le béton ciré sur les surfaces absorbantes. Cette dispersion acrylique en milieu aqueux est parfaite pour être utilisée sur d'autres matériaux comme les plaques de plâtre ou le plâtre.
 
-</p>    
-<p>
-    Ce promoteur d'adhérence, particulièrement recommandé pour le béton ciré , est prêt à l'emploi pour une application au pinceau ou au rouleau microfibre en une seule couche.
-
-</p>    
+                            </p>  
+                            <p>
+                              Ce promoteur d'adhérence, particulièrement recommandé pour le béton ciré, est prêt à l'emploi pour une application au pinceau ou au rouleau microfibre en une seule couche.
+                                
+                            </p>
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/PrimacemABS-FR.pdf"
                                 target="_blank">
                                 <span class="fa-stack">
@@ -371,7 +372,7 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong> Séchage au tacte
+                                    <strong> Sec au tacte
                                     </strong>
                                     <p> 30 minutes
                                     </p>
@@ -395,12 +396,10 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                         </div>
                     </div>
                     <!-- Rendements -->
-                    <p class="en3">
-                        Rendements</p>
-                    <p>Le rendement du primaire pour béton ciré  sur surfaces absorbantes Primacem ABS est de 0,10 L / m2 en 1 seule couche.</p>
+                    <p class="en3">Rendements</p>
+                    <p>Le rendement du primaire pour béton ciré sur surfaces absorbantes Primacem ABS est de 0,10 L / m2 en 1 seule couche. </p>
                     <!-- Présentation -->
-                    <p class="en3">
-                        Présentation</p>
+                    <p class="en3">Présentation</p>
                     <p>Le promoteur d'adhérence Primacem ABS est présenté en bidons plastique de 5 litres</p>
                 </div>
             </div>
@@ -430,18 +429,18 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                        <p>
-                             Primaire avec agrégat pour béton ciré 
+                        <h2>
+                            Primaire avec agrégat pour béton ciré
 
-                        </p>    
+                        </h2>    
 <p>
-    Primacem Grip est notre primaire pour béton ciré  avec agrégat et peut être appliqué sur les surfaces intérieures et extérieures. Fournit une excellente adhérence sur les substrats liquides ou à faible absorption, il est donc fortement recommandé d'appliquer sur l'enduit, les carreaux, le béton, les carreaux de céramique ou hydrauliques en plus du béton ciré .
+  Primacem Grip est notre primaire pour béton ciré avec agrégat et peut être appliqué sur les surfaces intérieures et extérieures. Fournit une excellente adhérence sur les substrats liquides ou à faible absorption, il est donc fortement recommandé d'appliquer sur l'enduit, les carreaux, le béton, les carreaux de céramique ou hydrauliques en plus du béton ciré.
 
-</p>    
+</p>  
 <p>
-    Ce promoteur d'adhérence prêt à l'emploi facilite l'ancrage et crée des textures rugueuses. Son application se fait au pinceau ou au rouleau en une seule couche.
+  Ce promoteur d'adhérence prêt à l'emploi facilite l'ancrage et crée des textures rugueuses. Son application se fait au pinceau ou au rouleau en une seule couche.
 
-</p>
+</p>  
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/PrimacemGRIP-FR.pdf"
                                 target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -471,9 +470,10 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                                         src="https://www.topciment.com/imagenes/sistemas/icons/secado_tacto.png"
                                         class="figure-img img-fluid rounded"></div>
                                 <div class="col-md-9">
-                                    <strong>Séchage au tacte
+                                    <strong>Sec au tacte
                                     </strong>
-                                    <p> 3/4 h en fonction de l'épaisseur appliquée et des conditions environnementales.
+                                    <p>3 / 4h, selon l'épaisseur appliquée et les conditions environnementales
+
                                     </p>
                                 </div>
                             </div>
@@ -488,7 +488,7 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                                 <div class="col-md-9">
                                     <strong>Viscosité
                                     </strong>
-                                    <p> A 20ºC (3/20 rpm): 1.700 - 2.200 mPa·s
+                                    <p>À 20 ° C (3/20 tr / min): 1700 - 2200 mPa · s
                                     </p>
                                 </div>
                             </div>
@@ -509,7 +509,8 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                     <!-- Rendements -->
                     <p class="en3">
                         Rendements</p>
-                    <p>Le rendement du primaire pour béton ciré  avec agrégat Primacem Grip est de 0,25 L / m² en 1 couche.
+                    <p>Le rendement du primaire pour béton ciré avec agrégat Primacem Grip est de 0,25 L / m² en 1 couche.
+
                     </p>
                     <!-- Présentation -->
                     <p class="en3">
@@ -549,13 +550,13 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
 
                          </h2> 
 <p>
-    Primacem Impoxy (A + B) est un primaire époxy anti-humidité conçu pour bloquer l'humidité par action capillaire et agit comme un pare-vapeur. Ce système époxy bi-composant 100% solide se distingue par son excellente ouvrabilité, sa faible viscosité et sa forte adhérence à tout type de support.
+  Primacem Impoxy (A + B) est un primaire époxy anti-humidité conçu pour bloquer l'humidité par action capillaire et agit comme un pare-vapeur. Ce système époxy bi-composant 100% solide se distingue par son excellente ouvrabilité, sa faible viscosité et sa forte adhérence à tout type de support.
 
-</p>    
+</p>  
 <p>
-    Le promoteur d'adhérence époxy Primacem Impoxy est compatible avec le microciment, les carreaux, les carreaux de céramique et même le béton humide, parmi de nombreux autres matériaux.
+  Le promoteur d'adhérence époxy Primacem Impoxy est compatible avec le microciment, les carreaux, les carreaux de céramique et même le béton humide, parmi de nombreux autres matériaux.
 
-</p> 
+</p>  
                                 <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Impoxy-FR.pdf"
                                     target="_blank">
                                     <strong>Téléchargez la fiche technique de Primacem Impoxy ici</strong>
@@ -613,8 +614,8 @@ Le promoteur d'adhérence Primacem Fix est disponible en flacons plastiques de 5
                     <p class="en3">
                         Rendements
                     </p>
-                    <p>Selon le deré d'humidité, la surface sur laquelle il est appliqué et le type d'application qui est effectué, le primaire anti-humidité époxy Primacem Impoxy peut agir comme pare-vapeur ou comme pare-humidité par capillarité.
-                    </p>
+                  <p>Selon le deré d'humidité, la surface sur laquelle il est appliqué et le type d'application qui est effectué, le primaire anti-humidité époxy Primacem Impoxy peut agir comme pare-vapeur ou comme pare-humidité par capillarité.
+</p>
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation

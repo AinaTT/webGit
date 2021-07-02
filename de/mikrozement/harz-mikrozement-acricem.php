@@ -16,20 +16,16 @@
     <link rel="stylesheet" href="../../assets/css/familia.css" />
 
 
-    <title>mikrozement -Harz | Acrylharz auf Wasserbasis Acricem
+    <title>ACRICEM Harz für Mikrozement
     </title>
-    <meta name="description"
-        content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität." />
-
-
-    <meta property="og:title" content="mikrozement -Harz | Acrylharz auf Wasserbasis Acricem">
+    <meta name="description" content="Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement." />
+    
+    <meta property="og:title" content="ACRICEM Harz für Mikrozement">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/de/harz-mikrozement-acricem">
-    <meta property="og:description" content="Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.">
+    <meta property="og:description" content="Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
-
-
 
     <link rel="canonical" href="https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem" />
 
@@ -71,29 +67,29 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Harz für mikrozement  </h1>
-                     <p>
-                          Acricem ist ein Harz, das die Haftung, Härte und Flexibilität von mikrozement beschichtungen gewährleistet. Dieses Acrylharz auf Wasserbasis eignet sich besonders zur Begleitung unserer zweikomponentigen mikrozement systeme: Sttandard, Unlimitiert und Atlantisch.
+                    <h1>Acrylharz für Mikrozement Acricem </h1> 
+                          <p>
+                            Acricem ist ein Harz, das die Haftung, Härte und Flexibilität von Mikrozementbeschichtungen gewährleistet. Dieses Acrylharz auf Wasserbasis eignet sich besonders zur Begleitung unserer zweikomponentigen Mikrozementsysteme: Sttandard, Unlimittedt und Atlanttic.
 
-                     </p>    
-<p>
-    Dieses lösungsmittelfreie Harz für mikrozement  verbessert sowohl die mechanische Festigkeit als auch die Dichtigkeit des Mörtels erheblich. Außerdem wird das mögliche Auftreten von Schwindungsrissen reduziert.
+                          </p>  
+                          <p>
+                            Dieses lösungsmittelfreie Harz für Mikrozement verbessert sowohl die mechanische Festigkeit als auch die Dichtigkeit des Mörtels erheblich. Außerdem wird das mögliche Auftreten von Rissen aufgrund von Schrumpfung reduziert.
 
-</p>    
-<p>
-    Es kann auch als Grundierung verwendet werden, da Acricem ein Harz ist, das saugfähige zementäre Oberflächen verfestigt.
+                          </p>  
+                          <p>
+                            Es kann auch als Grundierung verwendet werden, da Acricem ein Harz auf Acryl- und Wasserbasis ist, mit dem sich saugfähige zementäre Oberflächen verfestigen lassen.
 
-</p>    
-                            <!--    <a class="links" href="https://www.topciment.com/de/technische-datenblatter/Primacem-DE.pdf" target="_blank"><span class="fa-stack">
+                          </p>  
+                              <a class="links" href="https://www.topciment.com/de/technische-datenblatter/Acricem-DE.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
                                 <strong> 
-Downloaden Sie hier das technische Datenblatt von Primacem </strong>
-                            </a> -->
+Downloaden Sie hier das technische Datenblatt von Acricem </strong>
+                            </a> 
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h2 class="en3">Acrylharz Acricem</h2>
+                    <h2 class="en3">Typen von Acryl- und wasserbasierten Harzen für Zweikomponenten-Mikrozement Acricem</h2>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img class="img-fluid" alt="Acricem" title="Acricem 5 L"
@@ -110,8 +106,7 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3">
-                        Technische Eigenschaften</p>
+                    <h2 class="en3">Technische Eigenschaften Acricem Acrylharz für Mikrozement</h2>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -159,15 +154,13 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
                         </div>
                     </div>
                     <!-- Leistung -->
-                    <p class="en3">
-                        Leistung</p>
+                    <h2 class="en3"> Acricem-Acrylharzleistung für Mikrozement</h2>
                     <div class="row">
-                        <div class="col-md-12"><span>Acricem (1 Schicht) - 0,10 L/m2</span></div>
+                        <div class="col-md-12">Die Leistung von Acricem-Acryl und wasserbasiertem Harz für unsere Zweikomponenten-Mikrozementsysteme beträgt 0,10 L/m2 in einer Schicht.</div>
                     </div>
                     <!-- Verpackung -->
-                    <p class="en3">
-                        Verpackung</p>
-                    <p>Alle Typen von Acricem sind in 5 und 25 L Kunststoffkannen erhältlich.</p>
+                    <h2 class="en3">Präsentation Acricem Acrylharz für Mikrozement</h2>
+                    <p>Acricem-Acrylharz für unsere Zweikomponenten-Mikrozemente (Sttandard, Unlimitted und Atlanttic) ist in 5 und 25 L Kunststoffflaschen erhältlich.</p>
                 </div>
             </div>
         </section>
@@ -194,7 +187,7 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
     "@context": "https://schema.org",
     "@type": "ProductGroup",
     "name": "Acryl-mikrozement harz auf Wasserbasis Acricem", 
-    "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+    "description": "Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.",
     "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_y_25L_2021.jpg",
     "brand": {
       "@type": "Organization",
@@ -272,7 +265,7 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
       {
         "@type": "Product",
         "name": "Acryl-mikrozement harz auf Wasserbasis Acricem 5 L",
-        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "description": "Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
         "size": "5 L",
         "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",
@@ -349,7 +342,7 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
       {
         "@type": "Product",
         "name": "Acryl-mikrozement harz auf Wasserbasis Acricem 25 L",
-        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "description": "Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
         "size": "25 L",
         "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",
@@ -425,7 +418,7 @@ Downloaden Sie hier das technische Datenblatt von Primacem </strong>
       {
         "@type": "Product",
         "name": "Acryl-mikrozement harz auf Wasserbasis Acricem M",
-        "description": "Acrylharz, das die mechanische Festigkeit erhöht. Dieses Harz auf Wasserbasis verleiht dem Zweikomponenten-mikrozement  eine zusätzliche Härte und Flexibilität.",
+        "description": "Acricem ist unser Microzementharz schlechthin. Dieses Acrylharz auf Wasserbasis erhöht die mechanische Festigkeit und Dichtigkeit des Mörtels. Besonders empfohlen für Zweikomponenten-Mikrozement.",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
         "url": "https://www.topciment.com/de/mikrozement/harz-mikrozement-acricem",

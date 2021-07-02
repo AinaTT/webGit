@@ -363,7 +363,7 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Ceraciment Basic</h2>
+                            <h2>Ceraciment Basic Mikrozement-Schutzwachs Ceraciment Basic</h2>
                             <p> <strong>Ceraciment Basic</strong> ist ein Pflegewachs für Böden, das jeder Oberfläche
                                 Härte und natürlichen Glanz verleiht. </p>
                             <p>Seine spezielle Formel ermöglicht die Anreicherung und Penetration in den behandelten
@@ -378,8 +378,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">
-                        Technische Eigenschaften</h3>
+                    <h3 class="en3">Technische Eigenschaften Ceraciment Basic Mikrozement-Schutzwachs</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -434,16 +433,15 @@
                     <!-- Leistung -->
                     <h3 class="en3">
                         Leistung</h3>
-                    <p><span>A mano 0,25 mL/m2</span></p>
+                    <p>Die Leistung des Schutzwachses für den Hausgebrauch microcemento Ceraciment Basic ist 0,25 mL/m2 von Hand</p>
                     <!-- Verpackung -->
                     <h3 class="en3">
                         Verpackung</h3>
-                    <p>Ceraciment Basic wird in 5-Liter-Kunststoffkannen geliefert.
-                    </p>
+                   <p>Ceraciment Basic Mikrozement-Schutzwachs ist in 5-Liter-Kunststoffkannen erhältlich</p>
                 </div>
             </div>
         </section>
-        <!-- end ceraciment basic  -->j
+        <!-- end ceraciment basic  -->
 
         <!-- start ceraciment pro -->
         <div id="separador50px">
@@ -465,14 +463,14 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Ceraciment Pro mikrozement  Schutzwachs</h2>
+                            <h2>Ceraciment Pro Mikrozement-Schutzwachs</h2>
                             <p> <strong>Ceraciment Pro </strong>ist ein Pflegewachs für hochbeständige Böden mit einer
                                     metallische Oberfläche. Es handelt sich um eine Verbindung, die im Laufe der Zeit
                                     nicht
                                     vergilbt und daher
                                     das ursprüngliche Aussehen der Oberflächen.</p>
                             <p>Es verleiht der Oberfläche einen hohen Glanz und größeren Schutz. Seine Anwendung
-                                ist für den professionellen Gebrauch bestimmt.
+                                ist für den professionellen Gebrauch bestimmt. </p>
                                 <a class="links" href="https://www.topciment.com/de/technische-datenblatter/CeracimentPRO-DE.pdf"
                                     target="_blank"> <span class="fa-stack">
                                         <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -481,8 +479,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <p class="en3">
-                        Technische Eigenschaften</p>
+                    <h3 class="en3">Technische Eigenschaften Ceraciment Pro Mikrozementschutzwachs</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -538,13 +535,13 @@
                         </div>
                     </div>
                     <!-- Leistung -->
-                    <p class="en3">
-                        Leistung</p>
-                    <p><span>Maschine 20-40 mL/m2<br>Hand 30-50 mL/m2</span></p> 
+                    <h3 class="en3">
+                        Leistung</h3>
+                    <p>Die Leistung des Mikrozement-Schutzwachses für den professionelleren Einsatz hängt davon ab, ob es mit der Maschine oder von Hand aufgetragen wird:</p> 
                     <!-- Verpackung -->
-                    <p class="en3">
-                        Verpackung </p>
-                    <p>Ceraciment Pro wird in 5-L-Kunststoffkannen geliefert.
+                    <h3 class="en3">
+                        Verpackung </h3>
+                    <p>Ceraciment Pro Mikrozement-Schutzwachs ist auch in 5-Liter-Kunststoffkannen erhältlich.
                     </p>
                 </div>
             </div>

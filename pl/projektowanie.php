@@ -104,7 +104,7 @@
                 </div>
                 <div class="item sttandard elitte  banyo paredes wow fadeInRight proyectoLeft">
                     <a href="projekt/proyecto-c-lazy-u-ranch"><img
-                            src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment.jpg"
+                            src="https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment.jpg"
                             width="100%">
                         <div class="textoProyectos">
                             <br>

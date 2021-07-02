@@ -18,14 +18,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>béton ciré  pour piscines  | Atlantic </title>
-    <meta name="description" content="Le béton ciré  Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine."/>
+    <title>Béton ciré pour piscines | Atlanttic </title>
+    <meta name="description" content="Le béton ciré Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine."/>
 
 
-    <meta property="og:title" content="béton ciré  pour piscines  | Atlantic">
+    <meta property="og:title" content="Béton ciré pour piscines | Atlanttic">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-pour-piscines-atlanttic">
-    <meta property="og:description" content="Le béton ciré  Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine.">
+    <meta property="og:description" content="Le béton ciré Atlanttic pour piscines se distingue par sa résistance à l'immersion et sa finition antidérapante. Idéal pour couvrir la couronne et autour de la piscine.">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
@@ -64,39 +64,37 @@
                                     <a href="#up" style="font-size:26px">Atlanttic</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-atlanttic">Qu'est-ce queAtlanttic?</a></h2>
+                                   <a href="#que-es-atlanttic">Qu'est-ce queAtlanttic?</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#atlanttic-aquaciment">Atlanttic Aquaciment</a></h2>
+                                   <a href="#atlanttic-aquaciment">Atlanttic Aquaciment</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Application</a></h2>
+                                    <a href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#colores">Couleurs</a></h2>
+                                   <a href="#colores">Couleurs</a>
                                 </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">béton ciré  piscines Attlantic </h1>
+                            <h1 class="en2">Béton ciré pour piscines | Atlanttic </h1>
                             <div class="text-justify">
 
 
-                                <p class="h3s"> Atlanttic est la ligne de béton ciré  bicomposant (ciment+ résine) conçus
-                                    spécifiquement
-                                    pour des superficies en contact permanent avec de l'eau.</p>
-                                </p>
+                       <p>
+                            Atlanttic est notre béton ciré bi composant (ciment + résine) spécialement développé pour revêtir les surfaces en contact permanent avec l'eau grâce aux finitions antidérapantes qu'il offre.
 
-                                <p> Il permet créer des espaces continues qui facilitent l'union entre diverses zones,
-                                    faisant de chaque
-                                    lieu, un endroit uniforme et unique.
-                                    Comme pour la piscine , sa couronne et l'espace extérieur qui l'entoure.</p>
-                                <p>Il offre aussi des finitions antidérapantes pour des zones plus enclin au glissades.
-                                    Pour cela , son application peut être réalisé aussi sur des terrasses et des zones
-                                    humides , en extérieur et intérieur et sur des superficies verticales et
-                                    transitables.</p>
+                       </p>    
+<p>
+    Sa formule innovante ainsi que la beauté de ses finitions font d'Atlanttic le béton ciré parfait pour les piscines. Avec lui, le professionnel peut couvrir la couronne et l'espace extérieur entourant la piscine car ce sont les zones les plus sujettes aux glissades.
 
+</p>    
+<p>
+    Grâce à sa nature également imperméable, ce béton ciré pour piscines à deux composants est idéal pour être également appliqué dans les fontaines, les étangs et autres zones humides.
+
+</p>    
 
                             </div>
                         </div>
@@ -131,31 +129,33 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
-                            <h2 class="h2s"></h2>
-                            <p class="h3s">Atlanttic Aquaciment est le béton ciré  bicomposant par excellence pour revêtir des
-                                superficies en contact permanent avec de l'eau, comme les piscines, bassins ou des
-                                fontaines.</h3>
-                                Sa formulation innovante produit une activation de 100% du ciment , qui améliore
-                                substanciellement la résistance en immersion.
-                            </p>
-                            <p>L'effet brulé de la taloche en acier est réduit et , avec le temps , obtient de haut
-                                grades de dureté.
+                          
+<h2>Béton ciré bi composant pour piscines</h2>
 
-                            </p>
-                            <p>Attlantic Aquaciment sont disponibles en 2 granulométries:
-                            </p>
-                            <p><strong>Atlanttic Aquaciment XL:</strong>comme béton ciré  de préparation avant Aquaciment
-                                M, et aussi comme béton ciré  de finition et afin d'obtenir des textures antidérapantes
-                                (idéal pour les bords de piscines).
+<p>
+    Comme mentionné précédemment, Atlanttic Aquaciment est non seulement parfait pour créer des piscines en béton ciré, mais également pour revêtir des terrasses, des fontaines ou des bassins. Surfaces praticables et non praticables.
 
-                            </p>
-                            <p><strong>Atlanttic Aquaciment M:</strong>comme béton ciré  de finition avec des textures
-                                plus douces.
+</p>    
+<p>
+    Ce béton ciré exclusif à deux composants pour les surfaces en contact avec l'eau, produit 100% d'activation du ciment, améliorant de façon exponentielle la résistance en immersion.
 
-                            </p>
+</p>    
+<p>
+    Atlanttic permet à l'applicateur professionnel de créer des espaces continus qui facilitent l'union entre plusieurs zones, rendant chaque pièce uniforme et unique. De plus, l'effet brûlé de la taloche en acier est réduit et, avec le temps, atteint une dureté extraordinaire.
 
+</p>    
+<p>
+    Le béton ciré bi-composant pour piscines Atlanttic Aquaciment se décline en 2 granulométries :
 
+</p>    
+<p>
+    Atlanttic Aquaciment XL : c'est le béton ciré bi composant de préparation pour les piscines , il doit donc toujours être appliqué avant Atlanttic Aquaciment M. Bien qu'il puisse également être utilisé comme béton ciré de finition et pour obtenir des textures antidérapantes, ce qui le rend idéal pour les bords de la piscine.
+
+</p>    
+<p>
+    Atlanttic Aquaciment M : est le béton ciré bi composant de finition pour les piscines. La texture qu'il offre est plus lisse.
+
+</p>    
                             <!--    <a class="links" href="../fichas-tecnicas/Aquaciment-ES.pdf" target="_blank"
                                 style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -165,8 +165,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3" >Types de
-                        Atlanttic Aquaciment</p>
+                    <h3 class="en3" >Types de béton ciré pour les piscines Atlanttic Aquaciment</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg" class=" img-fluid " alt="Atlanttic Aquaciment M" title="Atlanttic Aquaciment M">
@@ -239,8 +238,7 @@
                     <!-- Presentación -->
                     <p class="en3" >
                         Présentation</p>
-                    <p>Atlanttic Aquaciment est présenté en seau en platique coniques noir de 20 kg.
-                    </p>
+                    <p>Le béton ciré pour piscines Atlanttic Aquaciment est présenté en seaux coniques en plastique noir de 20 kg.</p>
                 </div>
             </div>
         </section>
@@ -258,17 +256,14 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ PÀS A PÀS
-                            </strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Application de béton ciré pour les piscines Atlanttic </strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br>Nous devons nous assurer que le support soit cohésif et
-                                    si nécessaire , lié.
-                                    Aspirer pour laisser propre le support.
-                                    <br>Appliquer une couche de Sttandard Acricem.
+                                    <strong>Etape 1</strong><br>Assurez-vous que le support est cohésif, sec et, si nécessaire, poncé. Passez l'aspirateur pour le nettoyer. Appliquer au rouleau une couche de résine Acricem. Laisser sécher au moins 30 minutes.
+
                                 </div>
                                 <!-- Icono -->
 
@@ -282,8 +277,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>Appliquer une première couche de Aquaciment XL sans
-                                    pigments.Ponçer
+                                    <strong>Etape 2</strong><br>Appliquer une première couche d'Atlanttic Aquaciment XL sans pigment. Laisser sécher 24 heures et poncer au grain 40.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -297,8 +292,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br> Appliquer une seconde couche de Aquaciment M avec
-                                    pigments.Ponçer
+                                    <strong>Etape 3</strong><br>Appliquer une deuxième couche d'Atlanttic Aquaciment XL avec un pigment. Laisser sécher 24 heures et poncer au grain 40.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -312,8 +307,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br>Appliquer une première couche de Aquaciment M avec
-                                    pigments.Ponçer.
+                                    <strong>Etape 4</strong><br>Appliquer une première couche d'Atlanttic Aquaciment M avec un pigment. Laisser sécher 24 heures et poncer au grain 40.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -327,8 +322,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Aquaciment M avec
-                                    pigments.Ponçer.
+                                    <strong>Etape 5</strong><br>Appliquer une deuxième couche d'Atlanttic Aquaciment M avec un pigment. Laisser sécher 24 heures et poncer au grain 40.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -342,13 +337,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer deux couches de Presealer pour protéger la
-                                    superficie.
-                                    <br>
-                                    Laisser sécher 4 heures entre chaque couches.
-                                    <br>
-                                    Le temps de séchage avant le rempplissage de la piscine est de 5 jours minimum.
-                                    </a>.
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer pour protéger la surface, <br> en laissant sécher 4 heures entre les couches.
+                                     Laisser sécher au moins 5 jours avant de remplir la piscine. 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -374,8 +364,7 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en2" >
-                        Colours</h2>
+                    <h2 class="en2">Couleurs béton ciré pour piscines Atlantic</h2>
 
                     <div class="rowColor">
                         <section id="responsive-images-columns">

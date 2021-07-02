@@ -76,7 +76,7 @@
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Microcemento piscinas | Atlanttic</h1>
+                            <h1 class="en2">Microcemento para piscinas | Atlanttic</h1>
                             <div class="text-justify">
 
 
@@ -89,7 +89,7 @@
 
 </p>    
 <p>
-    Gracias a su también carácter impermeable, este microcemento bicomponente para piscinas es ideal para aplicarse además en fuentes, estanqués y demás zonas húmedas.
+    Gracias a su también carácter impermeable, este microcemento bicomponente para piscinas es ideal para aplicarse además en fuentes, estanques y demás zonas húmedas.
 
 </p>    
 
@@ -264,10 +264,9 @@
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1</strong><br>Asegurar que el soporte esté cohesionado, seco y, si es necesario, ligado. Aspirar para limpiarlo. Aplicar con rodillo una capa de la resina Acricem. <br> Dejar secar mínimo 30 minutos.</a> .
+                                    <strong>Paso 1</strong><br>Asegurar que el soporte esté cohesionado, seco y, si es necesario, lijado. Aspirar para limpiarlo. Aplicar con rodillo una capa de la resina Acricem. <br> Dejar secar mínimo 30 minutos.</a> .
                                 </div>
-                                <!-- Icono -->
-
+                                <!-- Icono --> 
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/atlanttic/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <!-- Imagen paso a paso -->
                                 <div class="col-12 col-md-5">

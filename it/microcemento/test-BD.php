@@ -11,7 +11,7 @@ if ($link === false) {
 
 
 // Consulta
-$sql = "SELECT alternate, hreflang FROM alternates WHERE href='https://www.topciment.com/es/noticia/6-razones-banos-microcemento-seran-tendencia'";
+$sql = "SELECT alternate, hreflang FROM alternates WHERE href='https://www.topciment.com/it/notizia/6 motivi-per-cui-i-bagni-in-microcemento-saranno-di-tendenza'";
 if ($result = mysqli_query($link, $sql)) {
     if (mysqli_num_rows($result) > 0) {
         while ($row = mysqli_fetch_array($result)) {

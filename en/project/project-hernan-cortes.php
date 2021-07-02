@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Photos of modern housing with microcement.</title>
+    <title>Photos of modern housing with microcement</title>
     <meta name="description"
         content="Images of spectacular home with application of microcement on floors and walls in living room, kitchen and bathrooms." />
 

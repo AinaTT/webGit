@@ -17,16 +17,16 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>béton ciré  monocomposant pour revêtement décoratifs.</title>
+    <title>Béton ciré monocomposant | Evoluttion</title>
     <meta name="description"
-        content="Evoluttion es simplicité et innovation. C'est le béton ciré  monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales." />
+        content="Le béton ciré Evoluttion est le béton ciré monocomposant de Topciment. Il confère une bonne résistance mécanique et simplifie le mélange pour éviter les erreurs." />
 
 
-    <meta property="og:title" content="béton ciré  monocomposant pour revêtement décoratifs.">
+    <meta property="og:title" content="Béton ciré monocomposant | Evoluttion">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion">
     <meta property="og:description"
-        content="Evoluttion es simplicité et innovation. C'est le béton ciré  monocomposant idéal pour les revètements décoratifs en intérieures et extérieures et en superficies verticales et horizontales.">
+        content="Le béton ciré Evoluttion est le béton ciré monocomposant de Topciment. Il confère une bonne résistance mécanique et simplifie le mélange pour éviter les erreurs.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
     <meta property="og:image" content="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_01.jp">
@@ -68,44 +68,46 @@
                                     <a href="#up" style="font-size:26px">Evoluttion</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#que-es-evoluttion">Qu'est-ce que Evoluttion?</a></h2>
+                                    <a href="#que-es-evoluttion">Qu'est-ce que Evoluttion?</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microbase">Evoluttion Microbase</a></h2>
+                                    <a href="#evoluttion-microbase">Evoluttion Microbase</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microfino">Evoluttion Microfino</a></h2>
+                                    <a href="#evoluttion-microfino">Evoluttion Microfino</a>
                                 </li>
                                 <li>
-                                    <h2><a href="#evoluttion-microdeck">Evoluttion Microdeck</a></h2>
+                                    <a href="#evoluttion-microdeck">Evoluttion Microdeck</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#aplicacion">Application</a></h2>
+                                    <a href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2> <a href="#colores">Couleurs</a></h2>
+                                    <a href="#colores">Couleurs</a>
                                 </li>
                             </ul>
                         </div>
 
                         <div class="content">
                             <a id="que-es-evoluttion" class="ancla"></a>
-                            <h1 class="en2">béton ciré  monocomposants Evoluttion</h1>
+                            <h1 class="en2">Béton ciré monocomposant |Evoluttion</h1>
                             <div class="text-justify">
+                                <p>
+                                    Evoluttion est la ligne améliorée de béton ciré monocomposant (ciment et eau) de
+                                    Topciment. Avec ce produit, les mélanges et la préparation sont simplifiés,
+                                    minimisant ainsi les erreurs possibles de la part du professionnel.
 
-                                <p>est la gamme améliorer des bétons cirés monocomposants ( ciment
-                                    + eau ) de Topciment.
                                 </p>
-                                <p> Avec le béton ciré  Evoluttion les mélanges sont simplifié et la préparation ,
-                                    réduisant
-                                    ainsi les possibles erreurs.
-                                </p>
-                                <p>En plus , il permet aussi de réduire les coûts de transport et de stockage.
-                                </p>
+                                <p>
+                                    Un béton ciré mono-composant qui peut se vanter de conserver la bonne ouvrabilité de
+                                    la gamme traditionnelle de béton ciré bi-composant Sttandard, avec la particularité
+                                    d'offrir une résistance mécanique supérieure.
 
-                                <p>Le béton ciré  Evoluttion maintient la bonne maniabilité de la ligne Sttandard ,
-                                    aved la particularité qui offre une amélioration des résistances
-                                    mécaniques.
+                                </p>
+                                <p>
+                                    De plus, avec Evoluttion, les coûts de transport et de stockage sont réduits. Tous
+                                    les avantages pour l'applicateur de béton ciré.
+
                                 </p>
                             </div>
                         </div>
@@ -145,30 +147,34 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
+                            <h2>Béton ciré Microbase mono-composant de préparation Evoluttion Microbase</h2>
+
                             <p>
-                                <strong class="h2s"></strong>
-                                <p class="h3s"> Evoluttion Microbase est le béton ciré  de préparation. Aussi , il est
-                                    connu comme béton ciré 
-                                    rustique lorsqu'il est employer en finition.</h3>
-                                </p>
+                                Evoluttion Microbase est le béton ciré de préparation monocomposant, également appelé
+                                béton ciré rustique si vous décidez de l'utiliser comme béton ciré de finition.
 
-                                <p>Evoluttion Microbase s'utilise toujours avant l'application d'Evoluttion Microfino et
-                                    Evoluttion Microdeck.</p>
+                            </p>
+                            <p>
+                                Dans tous les cas, les solutions décoratives proposées par ce revêtement aux
+                                professionnels sont les plus variées et distinguées. Concernant son application, il est
+                                à noter qu'il est toujours utilisé avant l'application d'Evoluttion Microfino et
+                                Evoluttion Microdeck.
 
-                                <p>Il offre au marché les plus amples solutions décoratives. </p>
-                                <p>Il est disponible en 3 granulometrie: L, XL ET XXL. </p>
+                            </p>
+                            <p>
+                                Evoluttion Microbase est disponible en 3 granulométries : L, XL et XXL.
 
-                                <a class="links"
-                                    href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrobaseMN_EN.pdf"
-                                    target="_blank" style="font-weight: 700;"> <span class="fa-stack">
-                                        <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                    </span>Téléchargez la fiche technique de Evoluttion Microbase ici
-                                </a>
+                            </p>
+                            <a class="links"
+                                href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrobaseMN_EN.pdf"
+                                target="_blank" style="font-weight: 700;"> <span class="fa-stack">
+                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                </span>Téléchargez la fiche technique de Evoluttion Microbase ici
+                            </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Evoluttion Microbase</p>
+                    <h3 class="en3">Types de béton ciré monocomposant de préparation Evoluttion Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -194,7 +200,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Caracteristiques techniques </p>
+                        Caractéristiques techniques </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -263,7 +269,6 @@
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Evoluttion Microbase se présente en seau coniques en plastique noir de 20 kg.
                     </p>
                 </div>
             </div>
@@ -299,39 +304,41 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
+                            <h2>Béton ciré monocomposant de finition pour les murs</h2>
+
                             <p>
+                                Evoluttion Microfino est le béton ciré monocomposant pour la finition optimale des murs,
+                                des façades ou des meubles, car il est uniquement conçu pour couvrir les surfaces
+                                verticales et non carrossables.
 
-                                <p class="h3s"> Evoluttion Microfino est le béton ciré  idéal pour les murs.</h3> Conçus
-                                    uniquement pour les
-                                    superficies verticales et pour des superficies non transitables.
+                            </p>
+                            <p>
+                                Il garantit une finition soyeuse au toucher et permet de réaliser facilement des
+                                filigranes. Ces qualités font d'Evoluttion Microfino un revêtement de grande valeur pour
+                                la décoration intérieure et extérieure.
 
-                                </p>
+                            </p>
+                            <p>
+                                Sur le plan esthétique, c'est un enduit qui ressemble au stuc à la chaux à la différence
+                                que sa finition est beaucoup plus naturelle que le stuc à la chaux.
 
+                            </p>
+                            <p>
+                                Evoluttion Microfino est disponible en 3 granulométries : XS, S et M.
 
-                                <p>
-                                    Une fois appliquer , il apporte une finition soyeux et doux au tacte. De plus , il
-                                    permet
-                                    obtenir des effects brulés avec facilité, ce qui lui apporte une forte valeur
-                                    décorative.
-                                </p>
+                            </p>
+                            <a class="links"
+                                href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrofinoMN_EN.pdf"
+                                target="_blank" style="font-weight: 700;">
+                                <span class="fa-stack">
+                                    <i class="fas fa-file-pdf fa-stack-1x"></i>
+                                </span>Téléchargez la fiche technique de Evoluttion Microfino ici
 
-                                <p>Esthétiquement , il ressemble au stucc à la chaux, mais avec une finition beaucoup
-                                    plus
-                                    naturel.</p>
-                                <p>Evoluttion Microfino est disponible en 3 granulométrie: XS , S ET M.</p>
-                                <a class="links"
-                                    href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrofinoMN_EN.pdf"
-                                    target="_blank" style="font-weight: 700;">
-                                    <span class="fa-stack">
-                                        <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                    </span>Téléchargez la fiche technique de Evoluttion Microfino ici
-
-                                </a>
+                            </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Evoluttion Microfino</p>
+                    <h3 class="en3">Types de béton ciré monocomposant de finition pour les murs Evoluttion Microfino</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -357,7 +364,7 @@
                     </div>
                     <!-- Proiedades -->
                     <p class="en3">
-                        Caracteristiques techniques </p>
+                        Caractéristiques techniques </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -426,7 +433,7 @@
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Sttandard Microfino est présenté en seau en plastique coniques noir de 15 kg
+                    <p>Le béton ciré de finition monocomposant Evoluttion Microfino, particulièrement recommandé pour les murs, est présenté en seaux coniques en plastique noir de 15 kg. 
                     </p>
                 </div>
             </div>
@@ -461,22 +468,20 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                           <h2> Béton ciré monocomposant de finition pour les sols</h2>
 
-                                <p class="h3s">Evoluttion Microdeck est spécialement indiqué pour le revêtement de sols
-                                    intérieur , mais
-                                    habituellement aussi il s'applique en escaliers , receveurs de douches ,
-                                    lavabos , plan de travail et murs.</h3>
-                                </p>
-                                <p>Evoluttion Microdeck apporte aux séjours un aspect très naturel et élégant. Sa
-                                    texture
-                                    est de grain moyen.
-                                    Ceci fait que l'effet brulé dans la finition soit moindre qu'avec Evolution
-                                    Microfino.
-                                </p>
+<p>
+    Evoluttion Microdeck est le meilleur béton ciré de finition monocomposant pour sols intérieurs. L'aspect que ce béton ciré donne aux pièces est des plus naturel et élégant.
 
-                                <p>Esthétiquement , il ressemble au béton poli.</p>
-                                <p>Evoluttion Microdeck est disponible en 2 granulométrie: M et L.</p>
+</p>    
+<p>
+    Mais Evoluttion Microdeck peut également être appliqué sur les escaliers, les receveurs de douche, les éviers, les plans de travail et les murs. De par sa texture grain moyen, l'effet eau est inférieur à celui d'Evoluttion Microfino. Sur le plan esthétique, ce béton ciré monocomposant pour finition est très similaire au ciment poli.
+
+</p>    
+<p>
+    Evoluttion Microdeck est disponible en 2 granulométries : M et L.
+
+</p>    
                                 <a class="links"
                                     href="https://www.topciment.com/en/data-sheets/Evoluttion_MicrodeckMN_EN.pdf"
                                     target="_blank" style="font-weight: 700;">
@@ -489,8 +494,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Evoluttion Microdeck</p>
+                    <h3 class="en3">Types de béton ciré monocomposant de finition pour les sols Evoluttion Microdeck</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -510,7 +514,7 @@
                     </div>
                     <!-- Propiedades -->
                     <p class="en3">
-                        Caracteristiques techniques </p>
+                        Caractéristiques techniques </p>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -579,7 +583,8 @@
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Evoluttion Microdeck est présenté en seau en plastique coniques de 20kg </p>
+                    <p>Le béton ciré monocomposant pour finition Evoluttion Microdeck, dont la résistance atteint un autre niveau dans les sols intérieurs, est présenté en seaux coniques en plastique noir de 20 kg.
+ </p>
                 </div>
             </div>
         </section>
@@ -599,15 +604,14 @@
                 <div class="content">
                     <!-- Aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ MICROFINO PÀS A
-                                PÀS</strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Application béton ciré monocomposant Evoluttion sur les murs</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br>Placer la maille sur la superficie à recouvrir.Appliquer
-                                    Primacem Plus/ABS
+                                    <strong>Etape 1</strong><br>Placez la maille sur la superficie à recouvrir. Appliquer Primacem Plus / ABS
+
                                 </div>
                                 <!-- Icono -->
 
@@ -624,8 +628,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br> Appliquer une première couche de Microbase sans
-                                    pigment. Poncer.
+                                    <strong>Etape 2</strong><br> Appliquer une première couche de Microbase sans pigment.Ponçer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -642,8 +646,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>Apppliquer une seconde couche de Microbase avec pigment.
-                                    Poncer.
+                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigment. Ponçer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -660,8 +664,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microfino avec pigment.
-                                    Poncer.
+                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microfino avec pigment.Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -677,8 +681,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microfino avec pigment.
-                                    Poncer.
+                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microfino avec pigment.Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -694,8 +698,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer à l'aide d'un rouleau deux couches de
-                                    Presealer.
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -711,8 +715,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 7</strong><br>Appliquer à l'aide d'un rouleau deux couches de
-                                    Topsealer.
+                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -728,15 +732,14 @@
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ MICRODECK PÀS A
-                                PÀS</strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Application béton ciré monocomposant Evoluttion pour les sols</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br>Placer la maille sur la superficie à recouvrir.
-                                    Appliquer Primacem Plus/ABS
+                                    <strong>Etape 1</strong><br>Placez la maille sur la superficie à recouvrir. Appliquer Primacem plus / ABS
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -752,8 +755,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans
-                                    pigments. Ponçer.
+                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans pigment. Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -769,8 +772,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigment.
-                                    Ponçer.
+                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigment. Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -786,8 +789,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microdeck avec
-                                    pigments. Ponçer.
+                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microdeck avec pigment .Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -803,8 +806,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br> Appliquer une seconde couche de Microdeck avec
-                                    pigments. Ponçer
+                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microdeck avec pigment.Ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -820,8 +823,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer à l'aide d'un rouleau deux couches de
-                                    Presealer.
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -837,8 +840,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 7</strong><br>Appliquer à l'aide d'un rouleau deux couches de
-                                    Topsealer.
+                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -868,8 +871,7 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en2">
-                        Couleurs</h2>
+                    <h2 class="en2">Couleurs du béton ciré Monocomposant Evoluttion</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -906,8 +908,7 @@
                     </div>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
-                            <div class="containerSttand">
-
+                            <div class="containerSttand"> 
                                 <a data-title="Color Wengue" data-lightbox="colores"
                                     href="https://www.topciment.com/imagenes/colores/wengue-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
@@ -1054,24 +1055,24 @@
                                     href="https://www.topciment.com/imagenes/colores/marfil-microcemento.jpg"> <img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/marfil-microcemento.jpg"
-                                        alt="microcemento color marfil" title="microcemento color marfil" /></a>
+                                        alt="microcemento color marfil" title="microcemento color marfil"/></a>
                                 <a data-lightbox="colores" data-title="Color kalahari"
                                     href="https://www.topciment.com/imagenes/colores/kalahari-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/kalahari-microcemento.jpg"
-                                        alt="microcemento color kalahari" title="microcemento color kalahari" />
+                                        alt="microcemento color kalahari" title="microcemento color kalahari"/>
                                 </a>
                                 <a data-lightbox="colores" data-title="Color Desert Tan"
                                     href="https://www.topciment.com/imagenes/colores/desert-tan-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/desert-tan-microcemento.jpg"
-                                        alt="microcemento color Desert Tan" title="microcemento color Desert Tan" />
+                                        alt="microcemento color Desert Tan" title="microcemento color Desert Tan"/>
                                 </a>
                                 <a data-lightbox="colores" data-title="Color arena"
                                     href="https://www.topciment.com/imagenes/colores/arena-microcemento.jpg">
                                     <img class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/arena-microcemento.jpg"
-                                        alt="microcemento color arena" title="microcemento color arena" />
+                                        alt="microcemento color arena" title="microcemento color arena"/>
                                 </a>
                             </div>
                         </section>
@@ -1091,7 +1092,7 @@
                                     href="https://www.topciment.com/imagenes/colores/mojave-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
                                         src="https://www.topciment.com/imagenes/colores/mojave-microcemento.jpg"
-                                        alt="microcemento color mojave" title="microcemento color mojave" /></a>
+                                        alt="microcemento color mojave" title="microcemento color mojave"/></a>
                                 <a data-lightbox="colores" data-title="Color selva"
                                     href="https://www.topciment.com/imagenes/colores/selva-microcemento.jpg"><img
                                         class="four-columns" width="293" height="293"
@@ -1164,11 +1165,11 @@
                                         src="https://www.topciment.com/imagenes/colores/carmin-microcemento.jpg"
                                         alt="microcemento color Carmín" title="microcemento color Carmín" />
 
-                                <a data-lightbox="colores" data-title="Color Sahara"
-                                    href="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"><img
-                                        class="four-columns" width="293" height="293"
-                                        src="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"
-                                        alt="microcemento color Sahara" title="microcemento color Sahara" /></a>
+                                    <a data-lightbox="colores" data-title="Color Sahara"
+                                        href="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"><img
+                                            class="four-columns" width="293" height="293"
+                                            src="https://www.topciment.com/imagenes/colores/sahara-microcemento.jpg"
+                                            alt="microcemento color Sahara" title="microcemento color Sahara" /></a>
 
                             </div>
                         </section>
@@ -1204,992 +1205,1023 @@
     </div>
     </div>
     <!-- include jQuery -->
-<script type = "application/ld+json"> {
-    "@context": "https://schema.org",
-    "@type": "ProductGroup",
-    "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase",
-       "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
-    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
-    "brand": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "manufacturer": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "weight": "20 kg",
-    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-    "variesBy": "size",
-    "additionalProperty": [
-       {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 11,90 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1,175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1,545 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1,470 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 30 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,5 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "2,20 Kg/m2"
-    }
-    ],
-    "potentialAction": {
-      "@type": "Action",
-      "name": "Application du microciment"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "reviewCount": "19"
-    },
-    "hasVariant": [{
-        "@type": "Product",
-        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase L",
-           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
-
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
-        "size": "L",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
-        "sku": "TT01114",
-        "gtin13": "8436575625041",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "20 kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [       {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 11,90 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1,175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1,545 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1,470 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 30 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,5 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "2,20 Kg/m2"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
-        }
-      },
-      {
-        "@type": "Product",
-        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XL",
-           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
-
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XL.jpg",
-        "size": "XL",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
-        "sku": "TT01120",
-        "gtin13": "8436575620633",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "20 kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [
-          {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 11,90 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1,175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1,545 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1,470 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 30 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,5 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "2,20 Kg/m2"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
-        }
-      },
-      {
-        "@type": "Product",
-        "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XXL",
-           "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
-
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XXL.jpg",
-        "size": "XXL",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
-        "sku": "TT01119",
-        "gtin13": "8436575620640",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "20 kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [
-          {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 11,90 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1,175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1,545 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1,470 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 30 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,5 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "2,20 Kg/m2"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
-        }
-      }
-     
-    ]
-  } </script>
-  <script type = "application/ld+json"> {
-    "@context": "https://schema.org",
-    "@type": "ProductGroup",
-    "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck",
-         "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
-    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
-    "brand": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "manufacturer": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "weight": "20 Kg",
-    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-    "variesBy": "size",
-    "additionalProperty": [
+    <script type="application/ld+json">
         {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 10 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.480 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.430 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 40 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,2 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 1,40 Kg/m²"
-    }
-    ],
-    "potentialAction": {
-      "@type": "Action",
-      "name": "Application du microciment"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "reviewCount": "20"
-    },
-    "hasVariant": [{
-        "@type": "Product",
-        "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck M",
-             "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
-        "size": "M",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microdeck",
-        "sku": "TT01117",
-        "gtin13": "8436575625034",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "20 Kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [          {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 10 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.480 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.430 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 40 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,2 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 1,40 Kg/m²"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "20"
-        }
-      },
-      {
-        "@type": "Product",
-        "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck L",
-             "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
+            "@context": "https://schema.org",
+            "@type": "ProductGroup",
+            "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase",
+            "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+            "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
+            "brand": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "manufacturer": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "weight": "20 kg",
+            "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+            "variesBy": "size",
+            "additionalProperty": [{
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la flexion",
+                    "value": "≥ 11,90 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente en poudre ",
+                    "value": "1,175 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente dans la pâte ",
+                    "value": "1,545 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente durcie ",
+                    "value": "1,470 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la compression",
+                    "value": "≥ 30 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Adhésion au substrat",
+                    "value": "≥ 1,5 N/m²"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rendement",
+                    "value": "2,20 Kg/m2"
+                }
+            ],
+            "potentialAction": {
+                "@type": "Action",
+                "name": "Application du microciment"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "19"
+            },
+            "hasVariant": [{
+                    "@type": "Product",
+                    "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase L",
+                    "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
 
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
+                    "size": "L",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
+                    "sku": "TT01114",
+                    "gtin13": "8436575625041",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "20 kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 11,90 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1,175 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1,545 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1,470 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 30 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,5 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "2,20 Kg/m2"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                },
+                {
+                    "@type": "Product",
+                    "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XL",
+                    "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
 
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_L.jpg",
-        "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
-        "sku": "TT01121",
-        "gtin13": "8436575620671",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "20 Kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [
-         {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 10 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.175 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.480 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.430 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 40 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,2 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 1,40 Kg/m²"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "20"
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XL.jpg",
+                    "size": "XL",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
+                    "sku": "TT01120",
+                    "gtin13": "8436575620633",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "20 kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 11,90 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1,175 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1,545 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1,470 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 30 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,5 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "2,20 Kg/m2"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                },
+                {
+                    "@type": "Product",
+                    "name": "Préparation monocomposante pour béton ciré Evoluttion Microbase XXL",
+                    "description": "Préparation de béton ciré monocomposant utilisée pour le revêtement continu à faible épaisseur des sols et des murs.",
+
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XXL.jpg",
+                    "size": "XXL",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microbase",
+                    "sku": "TT01119",
+                    "gtin13": "8436575620640",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "20 kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 11,90 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1,175 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1,545 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1,470 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 30 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,5 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "2,20 Kg/m2"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                }
+
+            ]
         }
-      }
-     
-    ]
-  } </script>
-  <script type = "application/ld+json"> {
-    "@context": "https://schema.org",
-    "@type": "ProductGroup",
-    "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs",
-         "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
-    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
-    "brand": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "manufacturer": {
-      "@type": "Organization",
-      "name": "Topciment",
-      "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-      "url": "https://www.topciment.com",
-      "legalName": "Grupo Negocios PO SLU",
-      "telephone": "+34617955352",
-      "taxID": "B97539076",
-      "location": {
-        "@type": "PostalAddress",
-        "streetAddress": "Calle Rosas, 33",
-        "addressLocality": "Manises",
-        "postalCode": "46940",
-        "addressRegion": "Valencia",
-        "addressCountry": "España"
-      }
-    },
-    "weight": "15 Kg",
-    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-    "variesBy": "size",
-    "additionalProperty": [
+    </script>
+    <script type="application/ld+json">
         {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 8 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.005 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.505 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.285 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 29 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,7 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 0,60 Kg/m²"
-    }
-    ],
-    "potentialAction": {
-      "@type": "Action",
-      "name": "Application du microciment"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "reviewCount": "19"
-    },
-    "hasVariant": [{
-        "@type": "Product",
-        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs XS",
-             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
-        "size": "XS",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
-        "sku": "TT01122",
-        "gtin13": "8436575620688",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "15 Kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [       {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 8 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.005 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.505 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.285 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 29 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,7 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 0,60 Kg/m²"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
+            "@context": "https://schema.org",
+            "@type": "ProductGroup",
+            "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck",
+            "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
+            "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
+            "brand": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "manufacturer": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "weight": "20 Kg",
+            "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+            "variesBy": "size",
+            "additionalProperty": [{
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la flexion",
+                    "value": "≥ 10 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente en poudre ",
+                    "value": "1.175 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente dans la pâte ",
+                    "value": "1.480 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente durcie ",
+                    "value": "1.430 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la compression",
+                    "value": "≥ 40 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Adhésion au substrat",
+                    "value": "≥ 1,2 N/m²"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rendement",
+                    "value": "(2 couche)- 1,40 Kg/m²"
+                }
+            ],
+            "potentialAction": {
+                "@type": "Action",
+                "name": "Application du microciment"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "20"
+            },
+            "hasVariant": [{
+                    "@type": "Product",
+                    "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck M",
+                    "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
+                    "size": "M",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microdeck",
+                    "sku": "TT01117",
+                    "gtin13": "8436575625034",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "20 Kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 10 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1.175 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1.480 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1.430 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 40 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,2 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "(2 couche)- 1,40 Kg/m²"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "20"
+                    }
+                },
+                {
+                    "@type": "Product",
+                    "name": "béton ciré monocomposant de finition de sol Evoluttion Microdeck L",
+                    "description": "Microcemento Finition monocomposante pour revêtements de sol intérieurs",
+
+
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_L.jpg",
+                    "size": "L",
+                    "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
+                    "sku": "TT01121",
+                    "gtin13": "8436575620671",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "20 Kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 10 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1.175 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1.480 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1.430 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 40 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,2 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "(2 couche)- 1,40 Kg/m²"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "20"
+                    }
+                }
+
+            ]
         }
-      },
-      {
-        "@type": "Product",
-        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs S",
-             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "ProductGroup",
+            "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs",
+            "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
+            "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
+            "brand": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "manufacturer": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com",
+                "legalName": "Grupo Negocios PO SLU",
+                "telephone": "+34617955352",
+                "taxID": "B97539076",
+                "location": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Calle Rosas, 33",
+                    "addressLocality": "Manises",
+                    "postalCode": "46940",
+                    "addressRegion": "Valencia",
+                    "addressCountry": "España"
+                }
+            },
+            "weight": "15 Kg",
+            "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+            "variesBy": "size",
+            "additionalProperty": [{
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la flexion",
+                    "value": "≥ 8 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente en poudre ",
+                    "value": "1.005 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente dans la pâte ",
+                    "value": "1.505 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": ""
+                    Densité apparente durcie ",
+                    "value": "1.285 ± 50Kg/m3"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Résistance à la compression",
+                    "value": "≥ 29 N/m² (28 jours)"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Adhésion au substrat",
+                    "value": "≥ 1,7 N/m²"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Rendement",
+                    "value": "(2 couche)- 0,60 Kg/m²"
+                }
+            ],
+            "potentialAction": {
+                "@type": "Action",
+                "name": "Application du microciment"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "19"
+            },
+            "hasVariant": [{
+                    "@type": "Product",
+                    "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs XS",
+                    "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
+                    "size": "XS",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
+                    "sku": "TT01122",
+                    "gtin13": "8436575620688",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "15 Kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 8 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1.005 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1.505 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1.285 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 29 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,7 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "(2 couche)- 0,60 Kg/m²"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                },
+                {
+                    "@type": "Product",
+                    "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs S",
+                    "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
 
 
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_S.jpg",
-        "size": "S",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
-        "sku": "TT01118",
-        "gtin13": "8436575620299",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "15 Kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [
-       {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 8 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.005 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.505 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.285 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 29 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,7 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 0,60 Kg/m²"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_S.jpg",
+                    "size": "S",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
+                    "sku": "TT01118",
+                    "gtin13": "8436575620299",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "15 Kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 8 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1.005 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1.505 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1.285 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 29 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,7 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "(2 couche)- 0,60 Kg/m²"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                },
+                {
+                    "@type": "Product",
+                    "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs M",
+                    "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
+
+
+                    "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_M.jpg",
+                    "size": "M",
+                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
+                    "sku": "TT01123",
+                    "gtin13": "8436575620695",
+                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
+                    "weight": "15 Kg",
+                    "brand": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "name": "Topciment",
+                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                        "url": "https://www.topciment.com",
+                        "legalName": "Grupo Negocios PO SLU",
+                        "telephone": "+34617955352",
+                        "taxID": "B97539076",
+                        "location": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Calle Rosas, 33",
+                            "addressLocality": "Manises",
+                            "postalCode": "46940",
+                            "addressRegion": "Valencia",
+                            "addressCountry": "España"
+                        }
+                    },
+                    "additionalProperty": [{
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la flexion",
+                            "value": "≥ 8 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente en poudre ",
+                            "value": "1.005 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente dans la pâte ",
+                            "value": "1.505 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": ""
+                            Densité apparente durcie ",
+                            "value": "1.285 ± 50Kg/m3"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Résistance à la compression",
+                            "value": "≥ 29 N/m² (28 jours)"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Adhésion au substrat",
+                            "value": "≥ 1,7 N/m²"
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "Rendement",
+                            "value": "(2 couche)- 0,60 Kg/m²"
+                        }
+                    ],
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "5",
+                        "reviewCount": "19"
+                    }
+                }
+
+            ]
         }
-      },
-      {
-        "@type": "Product",
-        "name": "béton ciré monocomposant Evoluttion Microfino pour la finition des murs M",
-             "description": "Finition en béton ciré monocomposant pour murs et surfaces verticales non praticables",
-
-
-        "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_M.jpg",
-        "size": "M",
-        "url": "https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion#evoluttion-microfino",
-        "sku": "TT01123",
-        "gtin13": "8436575620695",
-        "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-        "weight": "15 Kg",
-        "brand": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "manufacturer": {
-          "@type": "Organization",
-          "name": "Topciment",
-          "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-          "url": "https://www.topciment.com",
-          "legalName": "Grupo Negocios PO SLU",
-          "telephone": "+34617955352",
-          "taxID": "B97539076",
-          "location": {
-            "@type": "PostalAddress",
-            "streetAddress": "Calle Rosas, 33",
-            "addressLocality": "Manises",
-            "postalCode": "46940",
-            "addressRegion": "Valencia",
-            "addressCountry": "España"
-          }
-        },
-        "additionalProperty": [
-           {
-      "@type": "PropertyValue",
-      "name": "Résistance à la flexion",
-      "value": "≥ 8 N/m² (28 jours)"
-    },
-    {
-     "@type": "PropertyValue",
-      "name": ""Densité apparente en poudre",
-      "value": "1.005 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente dans la pâte",
-      "value": "1.505 ± 50Kg/m3"
-    },
-	{
-     "@type": "PropertyValue",
-      "name": ""Densité apparente durcie",
-      "value": "1.285 ± 50Kg/m3"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Résistance à la compression",
-      "value": "≥ 29 N/m² (28 jours)"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Adhésion au substrat",
-      "value": "≥ 1,7 N/m²"
-    },
-	{
-      "@type": "PropertyValue",
-      "name": "Rendement",
-      "value": "(2 couche)- 0,60 Kg/m²"
-    }
-        ],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "19"
-        }
-      }
-     
-    ]
-  } </script>
+    </script>
 </body>
 
 </html>

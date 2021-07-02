@@ -55,7 +55,7 @@
 
     <div id="main">
         <div class="fullscreen background parallax"
-            style="background-image:url('https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-00.jpg');"
+            style="background-image:url('https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-00.jpg');"
             data-img-width="1500" data-img-height="1000" data-diff="100">
             <div class="content-a" id="up">
 

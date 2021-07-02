@@ -135,8 +135,8 @@
                         <figcaption class="figure-caption">Cocina de microcemento gris de en suelo de Topciment.</figcaption>
                     </figure>
 
-                    <h2 class="en3"> 6. Limpieza y mantenimiento
-                    </h2>
+                    <h2 class="en3"> 6. Limpieza y mantenimiento </h2>
+                    
                     <p>
                         En relación al punto anterior, la limpieza y mantenimiento son de lo más
                         sencillos. <strong>Con apenas agua y jabón neutro</strong>
@@ -164,9 +164,7 @@
                         <strong>El hecho
                             de no ser necesario eliminar la anterior
                             superficie</strong> para instalar el microcemento <strong>reduce
-                            drásticamente</strong> <strong>el coste total</strong> de
-                        una obra o reforma que no pierde ni un
-                        ápice de distinción y elegancia.
+                            drásticamente</strong> <strong><a class="links" href="precio-del-microcemento">el coste total</a></strong> de una obra o reforma que no pierde ni un ápice de distinción y elegancia.
                     </p>
 
                     <h2 class="en3">Topciment, la mejor elección</h2>

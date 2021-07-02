@@ -12,28 +12,28 @@
      <div id="ocultomovilinterno">
          <div id="menuidiomasmovil">
              <ul>
-                 <li> <a class="activo" href="../microcementos">Microcemento</li>
+                 <li> <a class="activo" href="../microcementi">Microcemento</li>
              </ul>
          </div>
          <div id="menuocultomovil">
              <ul>
-                 <li><a href="../microcemento/productos" onclick="ocultarmovil()">Prodotti</a></li>
-                 <li><a href="../profesionales" onclick="ocultarmovil()">Professionisti</a></li>
-                 <li><a href="../microcemento/cursos-aplicacion-microcemento" onclick="ocultarmovil()">Corsi</a></li>
-                 <li><a href="../microcemento/galeria" onclick="ocultarmovil()">Galleria</a></li>
-                 <li><a href="../noticias" onclick="ocultarmovil()">Notizie</a></li>
+                 <li><a href="../microcemento/prodotti" onclick="ocultarmovil()">Prodotti</a></li>
+                 <li><a href="../professionisti" onclick="ocultarmovil()">Professionisti</a></li>
+                 <li><a href="../microcemento/corsi-applicazione-microcemento" onclick="ocultarmovil()">Corsi</a></li>
+                 <li><a href="../microcemento/galleria" onclick="ocultarmovil()">Galleria</a></li>
+                 <li><a href="../notizie" onclick="ocultarmovil()">Notizie</a></li>
 
              </ul>
          </div>
          <div id="menuidiomasmovil">
              <ul> <li>  <a href="https://www.topciment.com/it/"><img src="https://www.topciment.com/imagenes/flags/italy.png" alt="Topciment italian web" title="Topciment italian web"></a></li>
-                            <li> <a href="https://www.topciment.com/en/"> <img src="https://www.topciment.com/imagenes/flags/united-kingdom.png" alt="Topciment english web" Title="Topciment english web"> </a></li>
+                            <li> <a href="https://www.topciment.com/en/"> <img src="https://www.topciment.com/imagenes/flags/united-kingdom.png" alt="Topciment english web" Title="Topciment english web"> </a></li><li> <a href="https://www.topciment.com/en-us/"> <img src="https://www.topciment.com/imagenes/flags/usa.png" alt="Topciment usa web" Title="Topciment usa web"></a></li>
                             <li><a href="https://www.topciment.com/fr/"><img src="https://www.topciment.com/imagenes/flags/france.png" alt="Topciment french web" Title="Topciment french web"></a></li>
                                <li> <a href="https://www.topciment.com/pl/"><img src="https://www.topciment.com/imagenes/flags/poland.png" alt="Topciment Polonia Web" Title="Topciment Polonia Web"></a></li>
                             <li> <a href="https://www.topciment.com/de/"><img src="https://www.topciment.com/imagenes/flags/germany.png" alt="Topciment germany web" Title="Topciment germany web"></a></li>
                            <li> <a href="https://www.topciment.com/cn/"><img src="https://www.topciment.com/imagenes/flags/china.png" alt="Topciment Chinese Web" Title="Topciment Chinese Web"></a></li>
                            
-                               <li> <a href="https://www.topciment.com/es/"><img src="https://www.topciment.com/imagenes/flags/spain.png" alt="Topciment Spanish Web" title="Topciment Spanish web"></a></li>
+                               <li> <a href="https://www.topciment.com/it/"><img src="https://www.topciment.com/imagenes/flags/spain.png" alt="Topciment Spanish Web" title="Topciment Spanish web"></a></li>
                             <li> <a href="https://www.topciment.com/nl/"><img src="https://www.topciment.com/imagenes/flags/netherlands.png" alt="Topciment dutch web" title="Topciment dutch web"></a></li>
                             <li> <a href="https://www.topciment.com/gr/"><img src="https://www.topciment.com/imagenes/flags/greece.png" alt="Topciment greek web" title="Topciment greek web"></a></li>
                             <li><a class="ultimo" href="https://www.topciment.ru/"><img src="https://www.topciment.com/imagenes/flags/russia.png" alt="Topciment russian web" title="Topciment russian web"></a></li>

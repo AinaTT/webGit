@@ -24,12 +24,7 @@
 
  <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-casa-isabel" hreflang="zh-CN"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-casa-isabel" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/fr/projet-casa-isabel" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-casa-isabel.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-casa-isabel.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-casa-isabel.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-casa-isabel.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-casa-isabel.html" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/projet-casa-isabel" hreflang="fr-FR"/> 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>

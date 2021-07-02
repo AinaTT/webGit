@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Renovating your house without building work and in a short time is possible.</title>
+    <title>Renovating your house without building work and in a short time is possible</title>
     <meta name="description"
         content="Microcement is the perfect decorative coating, with its quick installation you can renovate your house without building work and in a short time." />
 

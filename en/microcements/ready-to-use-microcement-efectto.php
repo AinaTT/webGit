@@ -1218,7 +1218,7 @@
 								<h3>What guarantee has Efectto?
 							</strong></h3></a>
 						<div style="font-size:16px;">
-							<p>Efectto has one year guarantee from the production date. If you do not follow correctly
+							<p>Efectto has 5 years guarantee from the production date. If you do not follow correctly
 								the
 								application process the product will loose its guarantee.</p>
 						</div>

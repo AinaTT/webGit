@@ -21,21 +21,21 @@
 
   <meta property="og:title" content="Vernis polyuréthane, à base d'eau et acryliques | Vernis Topsealer">
   <meta property="og:site_name" content="Topciment">
-  <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau">
+  <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer">
   <meta property="og:description"
     content="Les vernis Topsealer offrent une protection supérieure contre l'abrasion, les rayures, les taches et la lumière du soleil. Nous fabriquons des vernis polyuréthane, à base d'eau et acryliques.">
   <meta property="og:type" content="article">
   <meta property="og:image" content="https://www.topciment.com/imagenes/topsealer/background/topsealer_fondo_07.jpg">
 
 
-  <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau" />
+  <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer" />
   <link rel="alternate" href="https://www.topciment.com/es/microcemento/barniz-poliuretano-acrilico-alagua-topsealer"
     hreflang="es-ES" />
   <link rel="alternate"
     href="https://www.topciment.com/en/microcements/polyurethane-waterbased-acrylic-varnishes-topsealer"
     hreflang="en-GB" />
 
-  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau"
+  <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/vernis-polyurethane-acrylique-aleau-topsealer"
     hreflang="fr-FR" />
   <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -117,10 +117,7 @@
                   bicomposant 100% solides, vernis polyuréthane acrylique et même vernis polyuréthane en spray.
 
                 </p>
-                <p>
-                  Voici la gamme complète des vernis Topsealer.
-
-                </p>
+                <p> Voici la gamme complète des vernis Topsealer.  </p>
 
               </div>
             </div>
@@ -154,19 +151,23 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>Vernis bicomposant </h2>
-              <p>Topsealer WT One Coat est un vernis polyuréthane à deux composants utilisé pour préserver
-                et protéger le béton ciré .
-              </p>
-              <p>Ce vernis à l'eau qui facilite le nettoyage et l'entretien du béton ciré , présente une
-                résistance élevée à l'usure, à l'abrasion et aux rayures, aux produits chimiques, à la
-                saleté et au jaunissement.</p>
-              <p> Le vernis polyuréthane Topsealer WT One Coat convient pour une application sur plusieurs
-                supports: métaux, sols en béton estampé et ciment, parquet et bois.
-              </p>
-              <p>Quant aux finitions qu'il propose, on retrouve des vernis mate ou super mate; vernis
-                satiné et vernis brillant.</p>
-              <p>Téléchargez ici la fiche technique de Topsealer WT One Coat</p>
+              <h2>Vernis polyuréthane bi composant à base d'eau</h2>
+          <p>
+            Topsealer WT One Coat est un vernis polyuréthane bi composant à base d'eau  utilisé pour préserver et protéger le béton ciré.
+
+          </p>  
+<p>
+  Ce vernis à base d'eau qui facilite le nettoyage et l'entretien du béton ciré, a une haute résistance à l'usure, à l'abrasion et aux rayures, aux produits chimiques, à la saleté et au jaunissement.
+
+</p>  
+<p>
+  Le vernis polyuréthane Topsealer WT One Coat convient à une application sur de multiples supports : métaux, sols en béton et ciment estampés, parquet et bois.
+
+</p>  
+<p>
+  Concernant les finitions offertes par ce vernis polyuréthane, on retrouve des vernis mate ou supermate , vernis satiné et vernis brillant.
+
+</p>   
               <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTonecoat-FR.pdf"
                 target="_blank"><span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -175,8 +176,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caractéristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques Vernis polyuréthane bi-composant à l'eau Topsealer WT One Coat</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -196,7 +196,7 @@
                     class="figure-img img-fluid rounded"></div>
                 <div class="  col-md-9">
                   <strong>Viscosité</strong>
-                  <p>20 - 30" a 25ºC (Copa Ford 4mm) Comp.A</p>
+                  <p>20 - 30 "à 25ºC (Ford Cup 4mm) Comp.A</p>
                 </div>
               </div>
             </div>
@@ -237,7 +237,7 @@
           <!-- Présentation -->
           <p class="en3">
             Présentation</p>
-          <p>TopSealer WT One Coat est présenté en contenants de 5 L (Composant A) + 1 L (Composant B)</p>
+          <p>Le vernis polyuréthane bi-composant à base d'eau Topsealer WT One Coat est présenté en bidons de 5 L (Composant A) + 1 L (Composant B)</p>
 
         </div>
       </div>
@@ -268,19 +268,20 @@
             <!-- descripcion -->
             <div class="col-md-6">
               <p>
-                <h2>Vernis antidérapant </h2>
-                <p class="h3s">Topsealer WT Anti Slip est un polyuréthane modifié bicomposant en phase
-                  acqueuse légèrement
-                  alcalin avec une finition semi mate.</h3>Sa fonction principal est de convertir une
-                  superficie en antidérapant.
+                <h2>Vernis polyuréthane antidérapant à base d'eau </h2>
+               <p>
+                  Topsealer WT Anti Slip est un vernis antidérapant à l'eau en finition mate dont la fonction principale est de rendre les surfaces antidérapantes.
 
-                </p>
-                <p>Topsealer WT Antislip possède une résistance au glissement supérieur à 45º,Clase 3
-                  selon
-                  la norme UNE-ENV
-                  12633:2003 certifié pour la AIDIMME.</p>
+               </p>  
+<p>
+  Ce vernis polyuréthane à deux composants est particulièrement recommandé pour la protection du béton ciré, bien qu'il puisse également être utilisé sur les sols en béton et pour la rénovation des parquets.
 
-                <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTantiSlip-FR.pdf"
+</p>  
+<p>
+  Grâce à sa bonne résistance chimique et mécanique, le vernis à l'eau Topsealer WT Anti Slip peut être appliqué sur les bords des piscines, salles de bain et cuisines, sols et couloirs des espaces communs et des rampes et trottoirs en béton.
+   
+</p>              
+<a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTantiSlip-FR.pdf"
                   target="_blank"><span class="fa-stack">
                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                   </span><strong>Téléchargez la fiche technique de Topsealer WT Anti Slip ici</strong>
@@ -288,8 +289,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caracteristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques Vernis polyuréthane à l'eau Topsealer WT Anti Slip </h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -349,8 +349,7 @@
           <!-- Présentation -->
           <p class="en3">
             Présentation</p>
-          <p>Topsealer WT Anti Slip est disponible en flacon de 5 L (composant A) + flacon de 1 L (composant
-            B)
+          <p>Le vernis polyuréthane à base d'eau Topsealer WT Anti Slip est disponible en bouteilles de 5 L (Composant A) + Bouteille de 1 L (Composant B)
           </p>
         </div>
       </div>
@@ -380,17 +379,17 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
+              
+                <h2>Vernis polyuréthane à base d'eau à séchage rapide</h2>
               <p>
-                <h2>Vernis à l'eau</h2>
-                <p class="h3s">Topsealer WT Quick Dry est un polyuréthane à deux composants légèrement
-                  alcalin à base d'eau,
-                  adapté à la protection du microciment.</h3>
-                </p>
-                <p>Une de ses principales caractéristiques est qu'il a un séchage très rapide et une
-                  bonne
-                  résistance à l'abrasion et aux agents chimiques.</p>
+                Topsealer WT Quick Dry est un vernis polyuréthaneà l'eau à deux composants adapté à la protection du béton ciré.
 
-                <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTquickdry-FR.pdf"
+              </p>  
+<p>
+  L'une des principales caractéristiques de ce vernis polyuréthane à l'eau est qu'il sèche très rapidement. De plus, ce vernis polyuréthane a une bonne résistance à l'abrasion et aux agents chimiques
+   
+</p>              
+<a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerWTquickdry-FR.pdf"
                   target="_blank"><span class="fa-stack">
                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                   </span><strong>Téléchargez la fiche technique de Topsealer WT Quick Dry ici</strong>
@@ -398,8 +397,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caracteristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques Polyuréthane à base d'eau à séchage rapide Topsealer WT Quick Dry</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -459,8 +457,7 @@
           <!-- Présentation -->
           <p class="en3">
             Présentation</p>
-          <p>Topsealer WT Anti Slip se présente en bidons de 5 litres (componente A)+ bouteille de
-            1L(composant B)
+          <p>Le vernis polyuréthane à base d'eau Topsealer WT Quick Dry est disponible en bouteilles de 5 L (Composant A) + bouteille de 0,5 L (Composant B)
           </p>
         </div>
       </div>
@@ -650,15 +647,19 @@
             <!-- descripcion -->
             <div class="col-md-6">
               <p>
-                <h2>Vernis acrylique bicomposant</h2>
-                <p class="h3s">Topsealer DSV est un polyuréthane acrylique de deux composants (A+B) au
-                  solvant.</h3>
-                </p>
-                <p>Le produit est idéal pour la protection des bétons cirés en intérieurs et en
-                  extérieurs.
-                  Il est disponilble en trois diférentes finitions:mate ,
-                  brillant , et satiné.</p>
+                <h2>Vernis polyuréthane acrylique bi composant à base de solvant</h2>
+              <p>
+                Topsealer DSV est un vernis acrylique bi-composant à base de solvant (A + B). Ce scellant protège les surfaces revêtues de béton ciré à l'intérieur et à l'extérieur.
 
+              </p>  
+<p>
+  Ce vernis polyuréthane acrylique à deux composants offre une bonne résistance à l'abrasion, aux rayures, à l'eau, aux rayons UV et aux agents de nettoyage ménagers.
+
+</p>  
+<p>
+  Il rehausse également considérablement la couleur des revêtements en béton ciré, béton, bois ou parquet. Les trois finitions Topsealer DSV sont: Mate, Glossy et Satiné.
+
+</p>  
                 <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerDSV-FR.pdf"
                   target="_blank"> <span class="fa-stack">
                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -667,8 +668,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caracteristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques du vernis polyuréthane acrylique bi-composant à base de solvant Topsealer DSV</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -716,8 +716,7 @@
           <p class="en3">
             Présentation
           </p>
-          <p>Topsealer DSV se présente dans un emballages de 4 L ( composant A)+ deux emballages de 1L chacun(
-            durcisseur Composant B)
+          <p>Le vernis à base de solvant acrylique polyuréthane bi-composant Topsealer DSV est présenté en bidon de 4 L (composant A) + deux bidons de 1 L chacun (durcisseur composant B)
           </p>
         </div>
       </div>
@@ -888,18 +887,19 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2>Vernis polyuréthane monocomposant</h2>
-              <p>Topsealer WT All in One est un vernis polyuréthane monocomposant à l'eau spécialement
-                développé pour protéger notre béton ciré prêt à l'emploi "Efectto". Bien qu'il puisse
-                également être appliqué sur du béton ciré époxy,
-                du parquet ou du bois.</p>
-              <p>Ce vernis polyuréthane améliore considérablement la couleur et offre une résistance
-                mécanique
-                élevée à la fois à l'usure abrasive et aux rayures .</p>
-              <p>Il possède une bonne résistance chimique , étant également imperméable à l'eau et
-                inaltérable
-                à lumière ultraviolette. Disponible en mate et satiné.</p>
+              <h2>Vernis polyuréthane monocomposant à l'eau</h2>
+             <p>
+                Topsealer WT All in One est un vernis polyuréthane à base d'eau monocomposant spécialement développé pour la protection de notre béton ciré prêt à l'emploi "Efectto". Bien qu'il puisse également être appliqué sur du béton ciré époxy, du parquet ou du bois.
 
+             </p>  
+<p>
+  Ce vernis polyuréthane rehausse considérablement la couleur du béton ciré prêt à l'emploi et offre une haute résistance mécanique à la fois à l'usure abrasive et aux rayures.
+
+</p>  
+<p>
+  Il a une bonne résistance chimique, étant également imperméable à l'eau et inaltérable à la lumière ultraviolette. Disponible en mate et satiné.
+
+</p>  
               <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerAll_in_one_FR.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -908,8 +908,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caractéristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques du vernis polyuréthane monocomposant à l'eau Topsealer WT All in One </h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -964,7 +963,8 @@
           <p class="en3">
             Présentation
           </p>
-          <p>Topsealer All in One se présente en bidons de 2 et 5 litres</p>
+          <p>
+Le vernis polyuréthane monocomposant Topsealer WT All in One est disponible en bidons de 2 et 5 litres.</p>
         </div>
       </div>
     </section>
@@ -994,25 +994,20 @@
             </div>
             <!-- descripcion -->
             <div class="col-md-6">
-              <h2> Vernis au pistolet </h2>
-              <p>
-                Topsealer WT Spray est un vernis au pistolet conçu pour protéger les surfaces revêtues de béton ciré ou
-                de béton. En plus d'être appliqué au pistolet, contrairement aux autres vernis polyuréthane, il se
-                distingue par sa ténacité extraordinaire et par sa résistance chimique et mécanique améliorée.
-              </p>
-              <p>
-                Ce vernis polyuréthane à deux composants est fortement recommandé pour les cuisines en béton ciré et les
-                salles de bains en béton ciré . Parfaitement résistant à l'eau de Javel, aux détergents, aux taches de
-                vinaigre, à l'huile, au vin, à la graisse, etc.
+              <h2> Vernis polyuréthane à l'eau au pistolet  </h2>
+            <p>
+              Topsealer WT Spray est un vernis en aérosol à base d'eau conçu pour protéger les surfaces revêtues de béton ciré ou de béton. En plus d'être appliqué au pistolet, contrairement aux autres vernis polyuréthanes, il se distingue par son extraordinaire dureté et par sa résistance chimique et mécanique améliorée.
 
-              </p>
-              <p>
-                Topsealer WT Spray est un vernis à base d'eau qui est disponible en brillant et a une bonne résistance à
-                l'abrasion, aux rayures, aux agents chimiques, à l'eau, aux alcalis et ne jaunit pas sous l'action du
-                soleil.
+            </p>  
+<p>
+  Ce vernis polyuréthane bi-composant est fortement recommandé pour les cuisines en béton ciré et les salles de bain en béton ciré. Parfaitement résistant à l'eau de javel, aux détergents, aux taches de vinaigre, à l'huile, au vin, à la graisse, etc.
 
-              </p>
-              <a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerAll_in_one_FR.pdf"
+</p>  
+<p>
+  Topsealer WT Spray est un vernis en spray à base d'eau qui se décline en brillant et présente une bonne résistance à l'abrasion, aux rayures, aux agents chimiques, à l'eau, aux alcalis et ne jaunit pas sous l'action du soleil. .
+   
+</p>          
+<a class="links" href="https://www.topciment.com/fr/fiches-techniques/TopsealerAll_in_one_FR.pdf"
                 target="_blank"> <span class="fa-stack">
                   <i class="fas fa-file-pdf fa-stack-1x"></i>
                 </span><strong>Descarga aquí la ficha
@@ -1022,8 +1017,7 @@
             </div>
           </div>
           <!-- Propiedades -->
-          <p class="en3">
-            Caractéristiques techniques</p>
+          <h3 class="en3">Caractéristiques techniques du vernis polyuréthane à l'eau Topsealer WT Spray  au pistolet</h3>
           <div class="row">
             <div class="col-6">
               <div class="row">
@@ -1083,7 +1077,7 @@
           <p class="en3">
             Présentation
           </p>
-          <p>Topsealer WT Spray est disponible en flacons de 3 L (composant A) + flacon de 1 L (composant B)</p>
+          <p>Le vernis polyuréthane à base d'eau Topsealer WT Spray est disponible en bouteilles de 3 L (Composant A) + bouteille de 1 L (Composant B)</p>
         </div>
       </div>
   </div>

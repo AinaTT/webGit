@@ -65,6 +65,14 @@
                         applying microcement</span><span style="background-color:#FFF; padding: 5px;"></span></span>
                 </h1>
 
+                <p> A poor application of microcement can lead to the appearance of unwanted stains and scuffs. Visual
+                    problems that damage the final finish. If you have come this far, it is because you are concerned
+                    about this circumstance and, above all, because you want to know how you can avoid them at all
+                    costs. </p>
+                <p>You've come to the right place. In this article we will not only delve into the most common reasons
+                    that produce those dreaded marks and stains due to poor installation of smoothed microcement. </p>
+                <p>In addition, our experienced applicators will give you a series of tips, advice and solutions to each
+                    of the problems so that unwanted imperfections do not appear. Take note! </p>
                 <h2>Marks on tile joints when applying microcement</h2>
                 <p>
                     Do you want to apply microcement on tiles? Here are three points to take into consideration to avoid
@@ -79,10 +87,12 @@
 
                 </p>
                 <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg" class="figure-img img-fluid "
-                         title="marks on tile joints due to dampness" alt="marks on tile joints due to dampness"> 
-                         <figcaption class="figure-caption">Microcement floor on which the tile joints are marked due to dampness.</figcaption>
-                    </figure>
+                    <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg"
+                        class="figure-img img-fluid " title="marks on tile joints due to dampness"
+                        alt="marks on tile joints due to dampness">
+                    <figcaption class="figure-caption">Microcement floor on which the tile joints are marked due to
+                        dampness.</figcaption>
+                </figure>
                 <h3>2. Tile joints are usually hollow </h3>
                 <p>
                     Joints are generally hollow, not in the same plane as the tile. Also, the shrinkage of the
@@ -105,7 +115,7 @@
                     these reliefs will be copied.
 
                 </p>
-              
+
                 <p>
                     With the steel trowel and excessive pressure these imperfections cause the "burnt" effect, dark
                     spots that reflect the lack of sanding the bottom layer of microcement.
@@ -113,9 +123,10 @@
                 </p>
 
                 <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg" class="figure-img img-fluid "
-                         title="trowel burn mark" alt="trowel burn mark" > <figcaption class="figure-caption">Microcement floor showing the trowel burn mark </figcaption>
-                    </figure> 
+                    <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg"
+                        class="figure-img img-fluid " title="trowel burn mark" alt="trowel burn mark">
+                    <figcaption class="figure-caption">Microcement floor showing the trowel burn mark </figcaption>
+                </figure>
                 <h2>Irregularities on microcement surfaces</h2>
 
                 <p>
@@ -193,36 +204,36 @@
     </div>
 
     <!-- include jQuery -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.topciment.com/en/microcements/how-to-avoid-unwanted-stains-or-marks-when-applying-microcement"
-  },
-  "headline": "Tips to avoid stains and marks on microcement",
-  "image":"https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg",
-  "datePublished": "2021-03-14",
-  "dateModified": "2021-03-14",
-  "author": {
-    "@type": "Organization",
-	"name": "Topciment",
-	"logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-	"url": "https://www.topciment.com"
-  },
-   "publisher": {
-    "@type": "Organization",
-    "url":"https://www.topciment.com",
-    "name": "Topciment",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
-    }
-  },
-  "description":"Learn about the main defects of a bad application of microcement on floors and walls. Our experts provide solutions to the main problems: stains and marks."
-}
-</script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "NewsArticle",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.topciment.com/en/microcements/how-to-avoid-unwanted-stains-or-marks-when-applying-microcement"
+            },
+            "headline": "Tips to avoid stains and marks on microcement",
+            "image": "https://www.topciment.com/imagenes/news/marcas-aplicacion-microcemento.jpg",
+            "datePublished": "2021-03-14",
+            "dateModified": "2021-03-14",
+            "author": {
+                "@type": "Organization",
+                "name": "Topciment",
+                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
+                "url": "https://www.topciment.com"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "url": "https://www.topciment.com",
+                "name": "Topciment",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
+                }
+            },
+            "description": "Learn about the main defects of a bad application of microcement on floors and walls. Our experts provide solutions to the main problems: stains and marks."
+        }
+    </script>
 </body>
 
 </html>

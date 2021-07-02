@@ -252,7 +252,7 @@
                         Microcement, which has a high thermal conductivity, is perfectly compatible with underfloor
                         heating.
                         In fact, it is one of the most recommended construction materials. <a class="links"
-                            href="micrcoement-over-underfloor-heating">Here</a>
+                            href="micrcocement-over-underfloor-heating">Here</a>
                         you will find everything you need to know. A quality that polished concrete cannot boast.
 
                     </p>

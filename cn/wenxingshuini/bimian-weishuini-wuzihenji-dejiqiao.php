@@ -23,7 +23,7 @@
     <meta property="og:title"
         content="在应用微水泥时如何避免不必要的污点或痕迹" />
     <meta property="og:description" content="你是否担心在应用微水泥时出现污点或痕迹？我们的专家告诉你如何完全避免这个问题" />
-    <meta property="og:url" content="https://www.topciment.com/cn/xinwen/bimian-weishuini-wuzihenji-dejiqiao" />
+    <meta property="og:url" content="https://www.topciment.com/cn/wenxingshuini/bimian-weishuini-wuzihenji-dejiqiao" />
     <meta property="og:site_name" content="Topciment" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="你是否担心在应用微水泥时出现污点或痕迹？我们的专家告诉你如何完全避免这个问题" />
@@ -34,9 +34,9 @@
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/" />
 
 
-    <link rel="canonical" href="https://www.topciment.com/cn/xinwen/bimian-weishuini-wuzihenji-dejiqiao" />
+    <link rel="canonical" href="https://www.topciment.com/cn/wenxingshuini/bimian-weishuini-wuzihenji-dejiqiao" />
 
-    <link rel="alternate" href="https://www.topciment.com/cn/xinwen/bimian-weishuini-wuzihenji-dejiqiao"
+    <link rel="alternate" href="https://www.topciment.com/cn/wenxingshuini/bimian-weishuini-wuzihenji-dejiqiao"
         hreflang="es-ES" />
 
 
@@ -99,10 +99,7 @@
     我们必须注意批刀涂抹微水泥不留下毛边，在每层要打磨这些不完美的地方。如果我们在有毛边的面层上涂抹微水泥，这些浮雕就会被复制出来。
 
 </p>    
-<p>
-    大力用钢质批刀，这些不完善的地方会造成 "烧焦 "的效果，这些暗色痕迹显示底下一层微水泥没有被打磨。
-
-</p>    
+<p> 大力用钢质批刀，这些不完善的地方会造成 "烧焦 "的效果，这些暗色痕迹显示底下一层微水泥没有被打磨。 </p>    
                 <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg" class="figure-img img-fluid " title="镘刀烧痕" alt="镘刀烧痕" width="auto" height="auto"> <figcaption class="figure-caption">微水泥地板显示镘刀烧痕 </figcaption>
                     </figure>

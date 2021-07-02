@@ -14,7 +14,7 @@
     <?php include("../../assets/includes/styles.php"); ?>
 
 
-    <title>Methods of application of the different types of microcement.</title>
+    <title>Methods of application of the different types of microcement</title>
     <meta name="description"
         content="Application process of preparatory microcement: microbase. Laying method of finishing microcement: walls, floors, swimming pools and exteriors." />
 

@@ -211,7 +211,7 @@
                     </p>
                     <p>
                         Por lo que respecta a la <a class="links"
-                            href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación del microcemento</a>en
+                            href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación del microcemento</a> en
                         baños, el
                         proceso varía dependiendo del tipo de microcemento elegido y de la superficie a revestir (si es
                         transitable o no transitable).

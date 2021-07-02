@@ -98,7 +98,7 @@
                         totalmente compatibles.
 
                     </p>
-                    <p>Pero la instalación de microcemento ofrece muchas más <a class="links" href="8-motivos-microcemento-futuro-reformas"><strong>ventajas</strong></a> como su gran resistencia mecánica y a la abrasión; o que su
+                    <p>Pero la instalación de microcemento ofrece muchas más <a class="links" href="opiniones-del-microcemento-pros-contras-revestimiento"><strong>ventajas</strong></a> como su gran resistencia mecánica y a la abrasión; o que su
                         <strong> limpieza y mantenimiento son de lo más sencillos</strong> , con agua y jabón neutro es más
                         que suficiente, entre otras.
                     </p>

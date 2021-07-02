@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Photos of bathroom reform with microcement.</title>
+    <title>Photos of bathroom reform with microcement</title>
     <meta name="description"
         content="Pictures of application of microcement in a bathroom. Photos of modern bathroom with microcement." />
 

@@ -13,7 +13,7 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Application of microcement. Generalities and planning of the work.</title>
+    <title>Application of microcement. Generalities and planning of the work</title>
     <meta name="description"
         content="Step by step in the professional application of microcement: planning, tools, products, drying times and microcement tutorial videos. " />
 

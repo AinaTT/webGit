@@ -223,7 +223,7 @@
                                                     <img src="https://www.topciment.com/imagenes/news/escalera-microcemento-exterior-acero.jpg"
                                                         class="figure-img img-fluid " title="escalera microcemento exterior Acero" alt=" Escalera de microcemento exterior color Acero ">
                                                     <figcaption class="figure-caption">Escalera de microcemento de color Acero de Topciment en el exterior de una vivienda</figcaption> </figure>
-                    <h2>Cómo hacer escaleras de microcemento:</h2>
+                    <h2>Cómo aplicar microcemento en escaleras</h2>
                     <p>
                         Lo primero que hay que tener en cuenta a la hora de aplicar microcemento en una escalera, es que
                         este proceso <strong>solo puede ser llevado a cabo por un profesional experimentado</strong>. Ya que revestir con
@@ -270,13 +270,9 @@
 
                     </p>
                       <figure class="figure mt-4">
-                                                    <img src="https://www.topciment.com/imagenes/news/escalera-microcemento-interior.jpg"
-                                                        class="figure-img img-fluid " title="escalera microcemento interior con soporte central" alt="escalera de microcemento interior con soporte
-central
-">
-                                                    <figcaption class="figure-caption">Escalera de microcemento en el interior de una
-vivienda con soporte central.
-</figcaption>
+                                                    <img src="https://www.topciment.com/imagenes/news/escalera-microcemento-interior.jpg" class="figure-img img-fluid " title="escalera microcemento interior con soporte central" alt="escalera de microcemento interior con soporte central ">
+                                                    <figcaption class="figure-caption">Escalera de microcemento en el interior de una vivienda con soporte central.
+                                                    </figcaption>
                                                 </figure>
                     <h4>5. Aplicar segunda capa microcemento Microbase en la escalera</h4>
 

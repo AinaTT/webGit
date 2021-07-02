@@ -19,14 +19,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>béton ciré  bicomposant traditionnel | Sttandard  </title>
-    <meta name="description" content="Le béton ciré  Sttandard est notre béton ciré  traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques."/>
+    <title>Béton ciré bi-composant traditionnel | Sttandard  </title>
+    <meta name="description" content="Le béton ciré sttandard est notre béton ciré traditionnel à deux composants. Un revêtement très polyvalent qui offre des textures très uniques."/>
 
 
-    <meta property="og:title" content="béton ciré  bicomposant traditionnel | Sttandard  ">
+    <meta property="og:title" content="Béton ciré bi-composant traditionnel | Sttandard  ">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard">
-    <meta property="og:description" content="Le béton ciré  Sttandard est notre béton ciré  traditionnel bicomposant. Un revêtement très polyvalent qui offre des textures très uniques.">
+    <meta property="og:description" content="Le béton ciré sttandard est notre béton ciré traditionnel à deux composants. Un revêtement très polyvalent qui offre des textures très uniques.">
     <meta property="og:type" content="article">
 
 
@@ -77,21 +77,20 @@
                 </ul>
             </div>
             <div class="content">
-                <h1>béton ciré  bicomposant traditionnel Sttandard </h1>
+                <h1>Béton ciré bi-composant traditionnel | Sttandard</h1>
                 <div class="text-justify">
-                    <p>
+               <p>
+                  Sttandard est notre ligne traditionnelle de béton ciré bi -composant (ciment et résine). Idéal pour l'artisan applicateur qui souhaite créer des textures avec leur propre caractère.
 
-                        Sttandard est la gamme de béton ciré  bicomposants ( ciment et résine ) de
-                        Topciment.
-                    </p>
-                    <p>Le béton ciré  Sttandard est idéal pour les artisans applicateurs qui ont pour
-                        objectif de créer des textures avec son propre caractère.
-                        Le béton ciré  Sttandard vous permet de jouer avec ses propres mélanges et resortir
-                        ainsi , le meilleur de chaque produit.</p>
-                    <p>Votre choix est synonyme de succès. Et sa robusté et polyvalence rend possible son
-                        application sur d'infinies superficies,
-                        tant horizontales que verticales, comme intérieures et extérieures, et aussi en
-                        zones exposées en contact permanent avec l'eau.</p>
+               </p>  
+<p>
+  Le béton ciré traditionnel bi-composant Sttandard permet aux professionnels de jouer avec leurs propres mélanges et ainsi de tirer le meilleur parti des produits.
+
+</p>  
+<p>
+  Parier sur Sttandard est synonyme de succès. Et c'est parce que sa robustesse et sa polyvalence permettent à ce béton ciré bicomposant d'être appliqué sur d'innombrables surfaces, à la fois horizontales et verticales ainsi qu'intérieures et extérieures. Sans surprise, c'est l'un des revêtements les plus demandés par les applicateurs.
+
+</p>  
 
                 </div>
             </div>
@@ -126,18 +125,19 @@
                         </div>
                         <!-- Descripcion -->
                         <div class="col-md-6">
-                            <p>
+                            <h2>Béton ciré bi composant pour la préparation sttandard Microbase</h2>
+                         <p>
+                           Sttandard Microbase est le béton ciré traditionnel bi composant pour la préparation. Il est toujours utilisé avant l'application de Sttandard Microfino, Sttandard Microdeck et Sttandard Microstone.
 
-                            <p>Sttandard Microbase est le béton ciré  de préparation. Il est utiliser toujours avant
-                                l'application de Sttandard Microfino, Sttandard Microdeck,
-                                et Sttandard Microstone.
-                            </p>
-                            </p>
-                            <p>Sa finition rustique permet d'ètre utiliser comme béton ciré  de finition.</p>
-                            <p>Sttandard Microbase est disponible en 3 granulométrie: L, XL, XXL</p>
-                            <p>Sa variété de produit permet au marché d'avoir un ample échantillon de solutions
-                                décoratives.</p>
+                         </p>  
+<p>
+  Grâce à la finition rustique qu'il offre, il peut également être utilisé comme béton ciré de finition bi composant. La variété de ce revêtement décoratif rend une large gamme de solutions accessible au professionnel.
 
+</p>  
+<p>
+  Sttandard Microbase est disponible en 3 tailles de particules : L, XL et XXL
+
+</p>  
                             <a class="links" href="../fiches-techniques/MicrobaseBI-FR.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique
@@ -146,9 +146,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Sttandard
-                        Microbase</p>
+                    <h3 class="en3">Types de préparation de béton ciré bi composant Sttandard Microbase</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg" class=" img-fluid " alt="Sttandard Microbase" title="Sttandard Microbase">
@@ -213,7 +211,7 @@
                     </div>
                     <!-- Consumption -->
                     <p class="en3">
-                        Rendements</p>
+                        Rendement</p>
                     <div class="row">
                         <div class="col-md-4"><span><strong>Sttandard Microbase L</strong><br> (2 couches)
                                 - 2,00 Kg /m²</span></div>
@@ -226,7 +224,8 @@
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Sttandard Microbase est présenté en seau en plastique noir de 20kg.
+                    <p>Le béton ciré traditionnel bi composant pour préparation Sttandard Microbase est présenté en seaux coniques en plastique noir de 20 kg.
+
                     </p>
                 </div>
             </div>
@@ -254,17 +253,25 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                        <h2>
+                            Béton ciré de finition bi-composant Sttandard Microfino
 
-                            <p> Sttandard Microfino est le béton ciré  de finition le plus adéquate pour les murs. </p> Il
-                            est conçus pour des superficies verticales et de non transit.
-                            </p>
-                            <p>Une fois appliquer , il offreune finition soyeux et douceau toucher.En plus , sa capacité
-                                pour obtenir des effets brulés , lui donne un haute valeur décorative.Esthétiquement il
-                                ressemble au stuc à la chaux , mais il possède une finition beaucoup plus naturel.</p>
+                        </h2>
+<p>
+  Sttandard Microfino est le béton ciré de finition traditionnel bi composant pour les surfaces verticales et non carrossables.
 
-                            <p>Sttandard Microfino est disponible en 3 granulométrie: XS, S et M.</p>
+</p>  
+<p>
+  C'est un revêtement décoratif parfait pour recouvrir les murs, les façades ou les meubles. Une fois appliqué, il offre un fini soyeux et doux au toucher. De plus, sa capacité à réaliser des filigranes lui confère une haute valeur décorative.
 
+</p>  
+<p>
+  Sur le plan esthétique, ce béton ciré de finition traditionnel bi composant ressemble au stuc à la chaux mais avec une finition beaucoup plus naturelle.
+
+</p>  
+<p>
+  Sttandard Microfino est disponible en 3 granulométries : XS, S et M 
+</p>  
                             <a class="links" href="../fiches-techniques/MicrofinoBI-FR.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique de
@@ -273,8 +280,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Sttandard Microfino</p>
+                    <h3 class="en3">Types de finition en béton ciré bi composant Sttandard Microfino</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg" class=" img-fluid " alt="Sttandard Microfino XS" title="Sttandard Microfino XS">
@@ -345,13 +351,12 @@
                         Rendements
                     </p>
                     <div class="row">
-                        <div class="col-md-12"><span><strong>Sttandard Microfino XS</strong> (2
-                                couches)- 0,50 Kg /m²</span></div>
+                        <div class="col-md-12">Microfino sttandard XS/S/M (2 couches) - 0.50 Kg/m2</div>
                     </div>
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Sttandard Microfino est présenté en seau coniques en plastique noir de 15 kg.</p>
+                    <p>Tous les types de béton ciré traditionnel bi composant pour la finition Sttandard Microfino sont présentés dans des seaux coniques en plastique noir de 15 et 20 kg.</p>
                 </div>
             </div>
         </section>
@@ -377,18 +382,22 @@
                             </a>
                         </div>
                         <div class="col-md-6">
-                            <p>
+                          <h2> Béton ciré bi composant pour la finition Sttandard Microdeck</h2>
 
-                            <p>Sttandard Microdeck est un béton ciré  de finition indiqué, spécialement , pour les
-                                revêtements de sols intérieurs.</p> Son application se réalise en escaliers,
-                            receveurs de douches, murs, lavabos,et plan de travail.
-                            </p>
-                            <p>L'aspect que donne Sttandard Microdeck aux chambres est très naturel et élégant. Sa
-                                texture est de grain Moyen.
-                                Pour cela , l'effet brulé dans la finition est moindre que pour Sttandard Microfino.
-                                Esthétiquement il ressemble au ciment poli, mais avec touts les avantages du béton ciré .
-                            </p>
-                            <p>Sttandard Microdeck est disponible en 3 granulométrie: M, L et XL.</p>
+<p>
+  Sttandard Microdeck est le béton ciré de finition traditionnel bi composant spécialement indiqué pour le revêtement des sols intérieurs. Un revêtement décoratif qui peut être appliqué sur les sols, les escaliers et les receveurs de douche.
+
+</p>  
+<p>
+  Bien qu'il puisse également être utilisé sans problème sur les murs, les éviers, les comptoirs et les façades. L'apparence que Sttandard Microdeck donne aux chambres se distingue par son naturel et son élégance.
+
+</p>  
+<p>
+  Avec une texture à grain moyen, ce béton ciré de finition traditionnel à deux composants a un effet d'eau plus faible que le Microfino Sttandard. Esthétiquement, il ressemble à du ciment poli mais avec tous les avantages du béton ciré.
+</p>  
+<p>
+  Sttandard Microdeck est disponible en 2 granulométries : M et L 
+</p>   
                             <a class="links" href="../fiches-techniques/MicrodeckBI-FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique de Sttandard Microdeck ici</strong>
@@ -396,8 +405,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Sttandard Microdeck</p>
+                    <h3 class="en3">Types de finition en béton ciré bi composant Sttandard Microdeck</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img class="img-fluid" alt="Sttandard Microdeck M " title="Sttandard Microdeck M" src="https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg">
@@ -469,7 +477,8 @@
                     <!-- Présentation -->
                     <p class="en3">
                         Présentation</p>
-                    <p>Sttandard Microdeck est présenté en seau conique en plastique noir de 20kg.
+                    <p>Le béton ciré de finition traditionnel bi composant Sttandard Microdeck est présenté en seaux coniques en plastique noir de 20 kg.
+
                     </p>
                 </div>
 
@@ -499,19 +508,22 @@
                         <!-- descripcion  -->
 
                         <div class="col-md-6">
-                            <p>
+                          <h2>
+                             Béton ciré de finition bi-composant Sttandard Microstone
 
-                            <p>Sttandard Microstone est un béton ciré  de finition. A la diférence de Sttandard Microbase ,
-                                il possède une finition esthétique beaucoup plus élaboré et défini. </p> Its
-                            uniform colour et stony
-                            Sa couleur uniforme et son aspect pierreux, permettent de créer
-                            des ambiances naturelles avec beaucoup de personnalité.
-                            </p>
-                            <p>
-                                Sttandard Microstone est antidérapant et avec une excellente résistance à l'abrasion,
-                                caractéristiques qui est idéal pour des zones
-                                extérieures en terrasse, porches et aussi les façades.</p>
-                            <p>Sttandard Microstone est disponible en 2 granulométrie : L et XL.</p>
+                          </h2>
+<p>
+  Sttandard Microstone est notre ligne de finition traditionnelle en béton ciré bi composant idéale pour les espaces extérieurs grâce à son excellente résistance à l'abrasion et à son caractère antidérapant.
+
+</p>  
+<p>
+  L'aspect pierre naturelle et la couleur uniforme de ce revêtement permettent au professionnel de créer des environnements naturels avec beaucoup de personnalité sur les terrasses, les porches et même les façades.
+
+</p>  
+<p>
+  Sttandard Microstone est disponible en 2 tailles de particules : L et XL.
+
+</p>  
                             <a class="links" href="../fiches-techniques/MicrostoneBI-FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Téléchargez la fiche technique de
@@ -520,8 +532,7 @@
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <p class="en3">Types de
-                        Sttandard Microstone</p>
+                    <h3 class="en3">Types de béton ciré bi-composant de finition Sttandard Microstone</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg" class=" img-fluid " alt="Sttandard Microstone 20 Kg" title="Sttandard Microstone 20 Kg">
@@ -593,7 +604,7 @@
                     <p class="en3">
 
                         Présentation</p>
-                    <p>Sttandard Microstone est présenté en seau coniques en plastique noir de 20kg.
+                    <p>Le béton ciré traditionnel bi composant de finition Sttandard Microstone est présenté en seaux coniques en plastique noir de 20 kg.
                     </p>
 
                 </div>
@@ -615,15 +626,14 @@
                 <div class="content">
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ MICROFINO PAS À
-                                PAS</strong></a>
+                       <h2> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>Application du béton ciré bi-composant Sttandard sur les murs</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br>Placer la maille sur la superficie à recouvrir
-                                    Appliquer Primacem Plus / ABS
+                                    <strong>Etape 1</strong><br>Placer la maille sur la superficie à recouvrir .Appliquer Primacem Plus / ABS
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -636,8 +646,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans
-                                    pigments.
+                                    <strong>Etape 2</strong><br>Appliquer une deuxième couche de Microbase sans pigment.Ponçer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -651,7 +661,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigments.
+                                    <strong>Etape 3</strong><br>Appliquer une deuxième couche de Microbase avec pigment. Ponçer*
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -664,8 +674,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microfino avec
-                                    pigments.
+                                    <strong>Etape 4</strong><br>Appliquer une première couche de Microfino avec pigment.Ponçer .
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -678,7 +687,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microfino avec pigments.
+                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microfino avec pigment.Ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -691,8 +700,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer à l'aide d'un rouleau deux couches de
-                                    Presealer.
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -705,7 +713,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 7</strong><br>Appliquer à l'aide rouleau deux couches de Topsealer
+                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -718,15 +726,13 @@
                     </div>
                     <!-- Aplicacion suelo -->
                     <div class="stepfloor mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ MICRODECK PAS À
-                                PAS</strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Application béton ciré bicomposant Sttandard pour sols</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br> Placer la maille sur la superficie à recouvrir.
-                                    Appliquer Primacem Plus.</a>.
+                                    <strong>Etape 1</strong><br> Placer la maille sur la superficie à recouvrir .Appliquer Primacem Plus /ABS</a>
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -739,8 +745,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans
-                                    pigments.
+                                    <strong>Etape 2</strong><br>Appliquer une première couche de Microbase sans pigments. Ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -753,7 +758,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigments.
+                                    <strong>Etape 3</strong><br>Appliquer une seconde couche de Microbase avec pigments .Ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -766,8 +771,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br> Appliquer une première couche de Microdeck avec
-                                    pigments .
+                                    <strong>Etape 4</strong><br> Appliquer une première couche de Microdeck avec pigments.Ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -780,7 +784,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microdeck avec pigments.
+                                    <strong>Etape 5</strong><br>Appliquer une seconde couche de Microdeck avec pigments .Ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -793,7 +797,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br>Appliquer à l'aide de rouleau deux couches de Presealer
+                                    <strong>Etape 6</strong><br>Appliquer au rouleau deux couches de Presealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -806,7 +810,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 7</strong><br>Appliquer à l'aide de rouleau deux couches de Topsealer
+                                    <strong>Etape 7</strong><br>Appliquer au rouleau deux couches de Topsealer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -833,7 +837,7 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en2">
-                        Couleurs</h2>
+                        Couleurs béton ciré bicomposant Sttandard</h2>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css"/>
 
 
-    <title>A good application of microcement is conditioned by several factors: the use of quality products, the application technique, but also the use of the best tools.</title>
+    <title>A good application of microcement is conditioned by several factors: the use of quality products, the application technique, but also the use of the best tools</title>
     <meta name="description" content="Say goodbye to tiles, joints, dirt and mould. Say hello to Topciment and your new bathroom!"/>
 
     <meta property="og:locale" content="en_EN"/>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <meta name="Language" content="IT" />
 
     <?php include("../../assets/includes/styles.php"); ?>
     <link rel="preload" href="../../assets/css/familia.css" as="style" />
@@ -23,7 +23,7 @@
 
     <meta property="og:title" content="Microcemento bicomponente con migliore lavorabilità | Unlimitted">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/es/microcementos/unlimitted">
+    <meta property="og:url" content="https://www.topciment.com/it/microcementos/unlimitted">
     <meta property="og:description"
         content="Il microcemento illimitato è il microcemento bicomponente con una migliore lavorabilità di Topciment. Riduce l'effetto bruciato e offre finiture più lisce.">
     <meta property="og:type" content="article">
@@ -31,10 +31,10 @@
 
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted" />
+    <link rel="canonical" href="https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted" />
 
-    <link rel="alternate" href="https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted"
-        hreflang="es-ES" />
+    <link rel="alternate" href="https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted"
+        hreflang="it-IT" />
     <link rel="alternate" href="https://www.topciment.com/en/microcements/two-component-microcement-unlimitted"
         hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-unlimitted"
@@ -168,7 +168,7 @@
      
 </p>  
                             <a class="links"
-                                href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrobaseBI-ES.pdf"
+                                href="https://www.topciment.com/it/schede-tecniche/Unlimitted_MicrobaseBI-IT.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>Scarica qui la scheda tecnica di
@@ -330,7 +330,7 @@
 
 </p>    
                             <a class="links"
-                                href="https://www.topciment.com/fichas-tecnicas/Unlimitted_MicrodeckBI-ES.pdf"
+                                href="https://www.topciment.com/it/schede-tecniche/Unlimitted_MicrodeckBI-IT.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>Scarica qui la scheda tecnica di
@@ -903,11 +903,11 @@
         <!-- Colores End -->
         <div><img class="imgiz"
                 src="https://www.topciment.com/imagenes/unlimitted/background/Unlimitted_imagen_inerior_01_900x443.jpg"
-                width="100%" alt="microcementos">
+                width="100%" alt="microcementi">
         </div>
         <div><img class="imgde"
                 src="https://www.topciment.com/imagenes/unlimitted/background/Unlimitted_imagen_inerior_02_900x443.jpg"
-                width="100%" alt="microcementos">
+                width="100%" alt="microcementi">
         </div>
         <div id="separador50px">
         </div>
@@ -1005,7 +1005,7 @@
         "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_L.jpg",
         "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
         "sku": "TT01085",
         "gtin13": "8436575620657",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1077,7 +1077,7 @@
         "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
         "size": "XL",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
         "sku": "TT01080",
         "gtin13": "8436575620602",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1150,7 +1150,7 @@
         "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microbase_XXL.jpg",
         "size": "XXL",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microbase",
         "sku": "TT01086",
         "gtin13": "8436575620664",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1301,7 +1301,7 @@
           "description": "Microcemento Bicomponente de terminación para el revestimiento de suelos y paredes de interior y exterior",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microdeck",
         "sku": "TT01082",
         "gtin13": "8436575620626",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1373,7 +1373,7 @@
           "description": "Microcemento Bicomponente de terminación para el revestimiento de suelos y paredes de interior y exterior",
         "image": "https://www.topciment.com/imagenes/unlimitted/Cubo_Unlimitted_Microdeck_S.jpg",
         "size": "S",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-unlimitted#unlimitted-microdeck",
         "sku": "TT01081",
         "gtin13": "8436575620619",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",

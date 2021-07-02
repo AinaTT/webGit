@@ -247,7 +247,7 @@
 
                     </p>
                     <p>
-                        <strong> <a class="links" href="../microcemento/imprimacione-y-promotores-de-adherencia-primacem#primacem-impoxy">Primacem Impoxy A + B</a> </strong> es nuestra imprimación epoxi antihumedad
+                        <strong> <a class="links" href="../microcemento/imprimaciones-y-promotores-de-adherencia-primacem#primacem-impoxy">Primacem Impoxy A + B</a> </strong> es nuestra imprimación epoxi antihumedad
                         que<strong> bloquea la humedad por capilaridad </strong>y actúa como
                         <strong> barrera de vapor</strong>. Un promotor de adherencia 100% sólidos y
                         bicomponente que es perfecto para los azulejos de la pared de la ducha o los azulejos del suelo
@@ -256,7 +256,7 @@
 
                     </p>
                     <p>
-                        Por otro lado, también se puede utilizar<strong> <a class="links" href="../microcemento/imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">Primacem Plus </a></strong>, nuestra
+                        Por otro lado, también se puede utilizar<strong> <a class="links" href="../microcemento/imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">Primacem Plus </a></strong>, nuestra
                         imprimación
                         específica para superficies no absorbentes como el es caso de los azulejos y que se aplica en
                         una única mano.

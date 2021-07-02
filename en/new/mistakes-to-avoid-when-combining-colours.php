@@ -121,9 +121,8 @@
                                     <img src="https://www.topciment.com/imagenes/combinar-colores/colores-microcemento-3.jpg" width="100%"
                                         alt="Not make a differentiation between spaces">
                                     <h3>Error 4 - Only think about the walls</h3>
-                                    <p>We must remember that not only decoration involves <a
-                                            href="https://www.topciment.com/en/systems.html">floors and walls,
-                                        </a>it
+                                    <p>We must remember that not only decoration involves floors and walls,
+                                         it
                                         may also be used in plinths, doors, furniture, or rooftops. Create a
                                         border
                                         within a wall or play with contrasts on the door frame can get a

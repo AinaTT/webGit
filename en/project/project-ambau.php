@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Photos of reform of floor and walls with microcement.</title>
+    <title>Photos of reform of floor and walls with microcement</title>
     <meta name="description" content="Studio refurbished with microcement. Images of microcement floors and walls." />
 
     <meta property="og:locale" content="en_EN" />

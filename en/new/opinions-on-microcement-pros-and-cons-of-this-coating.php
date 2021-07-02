@@ -184,7 +184,7 @@
                     The last but not least advantage of microcement is its good thermal conductivity. An advantage
                     thanks to which smoothed microcement is perfectly compatible with underfloor heating. In fact, it is
                     one of the best building materials for underfloor heating. <a
-                        href="./micrcoement-over-underfloor-heating">In the following article</a> you will find out why
+                        href="./micrcocement-over-underfloor-heating">In the following article</a> you will find out why
                     and what is the protocol for installing the flooring.
 
                 </p>

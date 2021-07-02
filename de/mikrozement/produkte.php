@@ -230,6 +230,39 @@
 
             </div>
             <!-- End Efectto -->
+<!-- Start Industtrial -->
+            <div class="separador">
+            </div>
+            <div class="row altofam">
+                <!-- Logo Industtrial -->
+                <div class="col-md-5 col-12 text-center">
+                    <a href="epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial"><img src="https://www.topciment.com/imagenes/industtrial/industtrial-logo.png" alt="Microcemento epoxi bicomponente" title="Microcemento epoxi bicomponente" class="text-center img-fluid industtrial-logo"></a>
+                </div>
+                <!-- Desctiption Industtrial -->
+                <div class="col-md-5 col-12">
+                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <p class="textos">
+                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    </p>
+                </div>
+                <!-- Products Industtrial -->
+                <div class="col-md-2 col-12">
+                    <div class="row mb-2">
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial#industtrial-xl" class="vermas2"> <strong>XL</strong></a><br>
+                            <a href="epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial#industtrial-base" class="vermas2"><strong>Base</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial#industtrial-medio" class="vermas2"><strong>Medio</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial#industtrial-liso" class="vermas2"> <strong>Liso</strong></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End Industtrial -->
 
             <!--Start Pure Mettal -->
             <div class="separador">

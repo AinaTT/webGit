@@ -17,16 +17,14 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>béton ciré  prêt à l'emploi de haute décoration  | 
-Efectto Quartz </title>
-    <meta name="description" content="Le béton ciré  prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide."/>
+    <title>Béton ciré prêt à l'emploi | Effectto Quartz </title>
+    <meta name="description" content="Le béton ciré prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur, sans aucun doute, est son application rapide."/>
 
 
-    <meta property="og:title" content="béton ciré  prêt à l'emploi de haute décoration  | 
-Efectto Quartz ">
+    <meta property="og:title" content="Béton ciré prêt à l'emploi | Effectto Quartz">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/beton-cire-pret-a-lemploi-efectto">
-    <meta property="og:description" content="Le béton ciré  prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur est sans aucun doute son application rapide.">
+    <meta property="og:description" content="Le béton ciré prêt à l'emploi Efectto Quartz crée des finitions continues inégalées de haute décoration. Mais le meilleur, sans aucun doute, est son application rapide.">
     <meta property="og:type" content="article">
   <meta property="og:image" content="https://www.topciment.com/imagenes/efectto/background/efectto_fondo_03.jpg">
 
@@ -59,62 +57,56 @@ Efectto Quartz ">
                                     <a href="#up" style="font-size:26px">Efectto Quartz</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#que-es-efectto">Qu'est-ce que
-                                            Efectto Quartz?</a></h2>
+                                    <a class="bl" href="#que-es-efectto">Qu'est-ce que
+                                            Efectto Quartz?</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#small-grain">Efectto Quartz Small Grain</a></h2>
+                                    <a class="bl" href="#small-grain">Efectto Quartz Small Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#medium-grain">Efectto Quartz Medium Grain</a></h2>
+                                    <a class="bl" href="#medium-grain">Efectto Quartz Medium Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#big-grain">Efectto Quartz Big Grain</a></h2>
+                                    <a class="bl" href="#big-grain">Efectto Quartz Big Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#super-grain">Efectto Quartz Super Grain</a></h2>
+                                    <a class="bl" href="#super-grain">Efectto Quartz Super Grain</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#aplicacion">Application</a></h2>
+                                    <a class="bl" href="#aplicacion">Application</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#colores"> Couleurs</a></h2>
+                                    <a class="bl" href="#colores"> Couleurs</a>
                                 </li>
                                 <li>
-                                    <h2><a class="bl" href="#preguntas-frecuentes-ok">Questions fréquentes</a></h2>
+                                    <a class="bl" href="#preguntas-frecuentes-ok">Questions fréquentes</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="content">
                             <a id="que-es-efectto" class="ancla"></a>
-                            <h1 class="en2">béton ciré  prêt à l'emploi Efectto Quartz </h1>
+                            <h1 class="en2">Béton ciré prêt à l'emploi de haute décoration | Efectto Quartz</h1>
                             <div class="text-justify">
-                                <p>
-                                    Efectto Quartz est la ligne de béton ciré  prèt à l'emploi de Topciment qui permet
-                                    d'obtenir des finitions
-                                    contunues de haute décoration. </h2>Sa formule exclusive no contient pas de
-                                    ciment qui peuvent produire des rétracctions
-                                    imprévus ni fissures.
-                                </p>
+                              <p>
+                                   Efectto Quartz est la ligne de béton ciré prêt à l'emploi qui offre des finitions continues et hautement décoratives. Sa formule exclusive ne contient pas de ciments pouvant provoquer un retrait ou des fissures imprévus.
 
+                              </p>    
+<p>
+    Un revêtement conçu pour les professionnels qui cherchent à être plus productifs, augmenter la vitesse d'application du béton ciré et éviter les débris. Pour toutes ces raisons, Efectto Quartz est le meilleur choix pour réaliser des travaux dans des maisons déjà habitées.
 
-                                <p>Efectto Quartz est imaginé pour des professionnels qui cherche une rapidité dans
-                                    l'application et éviter des débris.
-                                    Pour cela, c'est le choix idéal pour des travaux dans des maisons habitées.
+</p>    
+<p>
+    Ce béton ciré prêt à l'emploi se distingue par sa faible épaisseur qui, ajoutée à sa grande adhérence, permet de l'appliquer sur pratiquement n'importe quel support. Un revêtement adapté aux surfaces verticales et horizontales, aux pièces intérieures et extérieures.
 
-                                </p>
+</p>    
+<p>
+    Efeccto Quartz est disponible en 16 couleurs exclusives de béton ciré et en quatre granulométries différentes. Tous se distinguent par leur aspect naturel obtenu.
 
-                                <p>C'est un revêtement décoratif continue de faible épaisseur qui, en raison de sa
-                                    grandse adhérence, peut on appliquer sur
-                                    pratiquement quelconque support.
-                                </p>
+</p>    
+<p>
+    Contrairement au béton ciré bi-composant Sttandard ou au béton ciré mono-composant Evoluttion, la couleur d'Efectto Quartz est plus homogène et préserve la texture du revêtement.
 
-                                <p>Il est disponible dans une ample gamme de couleurs et en quatre granulométrie
-                                    différentes, qui se démarquent pour son
-                                    aspect naturel. A la différence de Sttandard ou Evoluttion, la couleur est plus
-                                    homogène et conserve la texture propre du béton ciré .
-
-                                </p>
+</p>    
                             </div>
                         </div>
                     </div>
@@ -144,14 +136,12 @@ Efectto Quartz ">
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                             <h2>Béton ciré prêt à l'emploi pour la finition des murs</h2>
 
-                            <p class="h3s"> Efectto Quartz Small Grain est la couche de finition pour le système des murs.
-                                </h3>
-                                <br> Il on applique en une seule couche après deux couches de Efectto Quartz Big Grain.
-                                Il possède une granulométrie maximum de 0,1 mm.
-                                <br>
-                            </p>
+<p>
+    Efectto Quartz Small Grain est notre béton ciré prêt à l'emploi pour la finition des murs et autres surfaces verticales. Un béton ciré chargé qui s'applique en une seule couche après deux couches d'Efectto Quartz Big Grain. Il a une granulométrie maximale de 0,1.
+
+</p>    
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
@@ -160,8 +150,7 @@ Efectto Quartz ">
                         </div>
                     </div>
                     <!-- Tipos de cubos-->
-                    <p class="en3" >
-                        Types de Efectto Quartz Small Grain</p>
+                    <h3 class="en3">Types de béton ciré prêt à l'emploi de finition pour les murs</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-small-grain.jpg" class=" img-fluid " alt="" title="Efectto Quartz Small Grain 17 Kg">
@@ -234,7 +223,7 @@ Efectto Quartz ">
                     <p class="en3" >
                         Présentation
                     </p>
-                    <p>Efectto Quartz Small Grain est présenté en seau en plastique noir de 17 , 6 et de 1.7 kg. </p>
+                    <p>Le béton ciré prêt à l'emploi pour finition murale Efectto Quartz Small Grain est présenté en seaux coniques en plastique noir de 6 et 17 kg.</p>
                 </div>
             </div>
         </section>
@@ -262,14 +251,14 @@ Efectto Quartz ">
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                         <h2>
+                              Béton ciré prêt à l'emploi de finition pour sol
 
-                            <p class="h3s"> Efectto Quartz Medium Grain est la couche de finition pour le système de sols.</h3>
-                                Il on applique en une seule couche après Efectto Quartz Super Grain.
+                         </h2>   
+<p>
+    Efectto Quartz Medium Grain est notre béton ciré prêt à l'emploi pour sols. Il s'applique en une seule couche après Efectto Quartz Super Grain. Sa granulométrie maximale est de 0,2.
 
-                                <br> Il possède une granulométrie maximum de 0,2.
-
-                            </p>
+</p>    
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
@@ -279,8 +268,7 @@ Efectto Quartz ">
                         </div>
                     </div>
                     <!-- Tipos de cubos-->
-                    <p class="en3" >Types de
-                        Efectto Quartz Medium Grain</p>
+                    <h3 class="en3" >Types de béton ciré prêt à l'emploi pour sols</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-medium-grain.jpg" class=" img-fluid " alt="  Efectto Quartz Medium Grain 17 Kg" title="  Efectto Quartz Medium Grain 17 Kg">
@@ -348,8 +336,7 @@ Efectto Quartz ">
                         </span></p>
                     <p class="en3" >
                         Présentation</p>
-                    <p>Efectto Quartz Medium Grain est présenté en seau en plastique noir de 17 , et de 6 et de 1.7 kg.
-                    </p>
+                    <p>Le béton ciré de finition prêt à l'emploi pour sols Efectto Quartz Medium Grain est présenté en seaux coniques en plastique noir de 6 et 17 kg.</p>
                 </div>
             </div>
 
@@ -377,14 +364,12 @@ Efectto Quartz ">
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                           <h2>Béton ciré prêt à l'emploi pour la préparation des murs</h2>
 
-                            <p class="h3s">Efectto Quartz Big Grain est la pâte de préparation pour le système de murs.</h3>
-                                Sur ce produit on on applique une couche de Efectto Quartz Small Grain.
+<p>
+    Efectto Quartz Big Grain est la ligne de béton ciré prêt à l'emploi pour la préparation des murs. Après l'application de ce revêtement, une couche de béton ciré de pâte de finition Efectto Quartz Small Grain est appliquée, il a une granulométrie maximale de 0,3.
 
-
-                                <br> Il possède une granulométrie maximum de 0.3 mm
-                                <br><br>
+</p>    
                                 <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><span class="fa-stack">
                                         <i class="fas fa-file-pdf fa-stack-1x"></i>
                                     </span>
@@ -394,8 +379,7 @@ Efectto Quartz ">
                         </div>
                     </div>
                     <!-- Tipos de cubos-->
-                    <p class="en3" >Types de
-                        Efectto Quartz Big Grain</p>
+                    <h3 class="en3" >Types de béton ciré prêt à l'emploi de preparation pour les murs</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-big-grain.jpg" class=" img-fluid " alt="Efectto Quartz Big Grain 17 Kg" title="Efectto Quartz Big Grain 17 Kg">
@@ -468,8 +452,7 @@ Efectto Quartz ">
                     <!-- Présentation -->
                     <p  class="en3">
                         Présentation</p>
-                    <p>Efectto Quartz Big Grain se présente en seau en plastique coniques noir de 17 , et de 6 et de 1.7
-                        kg.</p>
+                   <p>Le béton ciré prêt à l'emploi pour la préparation des murs Efectto Quartz Big Grain est présenté en seaux coniques en plastique noir de 6 et 17 kg.</p>
                 </div>
             </div>
         </section>
@@ -498,14 +481,12 @@ Efectto Quartz ">
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <p>
+                           <h2>Béton ciré prêt à l'emploi pour la préparation du sol</h2>
 
-                            <p class="h3s">Efectto Quartz Super Grain est la couche de préparation pour les systèmes de sols.</h3>
-                                Sur ce produit on applique une couche Efectto Quartz Meduim Grain.
+<p>
+    Efectto Quartz Super Grain est la gamme de béton ciré prêt à l'emploi pour la préparation des sols et des dallages. Après l'application de ce produit, une couche de béton ciré de finition Efectto Quartz Medium Grain doit être appliquée. La granulométrie maximale est de 0,5.
 
-                                <br> Il possède une granulométrie maximum de 0.5.
-
-                            </p>
+</p>    
                             <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Ficha_Tecnica_Efectto_FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
@@ -515,8 +496,7 @@ Efectto Quartz ">
                         </div>
                     </div>
                     <!-- Tipos de cubos-->
-                    <p class="en3" >Types de
-                        Efectto Quartz Super Grain</p>
+                    <h3 class="en3" >Types de béton ciré prêt à l'emploi de préparation pour les sols</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img src="https://www.topciment.com/imagenes/efectto/efectto-super-grain.jpg" class=" img-fluid " alt="Efectto Quartz Super Grain 17 Kg" title="Efectto Quartz Super Grain 17 Kg">
@@ -585,8 +565,7 @@ Efectto Quartz ">
                     <!-- Présentation -->
                     <p  class="en3">
                         Présentation</p>
-                    <p>Efectto Quartz Super Grain est présenté en seau en plastique noir de 17 , et de 6 et de 1.7 kg.
-                    </p>
+                  <p>Le béton ciré prêt à l'emploi pour la préparation des sols Efectto Quartz Super Grain est présenté en seaux coniques en plastique noir de 6 et 17 kg.</p>
                 </div>
 
             </div>
@@ -604,14 +583,13 @@ Efectto Quartz ">
                 <div class="content">
                     <!-- aplicacion paredes -->
                     <div class="stepwalls mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ PÀS A PÀS MURS
-                            </strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Application béton ciré prêt à l'emploi Efectto Quartz sur les murs.</strong></a></h2>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br>Remplir les joints avec Efectto Quartz Big Grain.
+                                    <strong>Etape 1</strong><br>Remplir les joints avec Efectto Quartz Big Grain et ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -624,8 +602,8 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br>
-                                    Appliquer à l'aide d'un rouleau une couche de Primacem Plus/ABS
+                                    <strong>Etape 2</strong><br>Appliquer au rouleau une couche de Primacem Plus / ABS
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -638,9 +616,8 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>
-                                    Appliquer à l'aide d'une taloche une couche pigmentée de Efectto Quartz Big Grain et
-                                    ponçer.
+                                    <strong>Etape 3</strong><br>Appliquer avec une taloche une couche d'Efectto Quartz Big Grain et ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -654,9 +631,8 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br> Appliquer à l'aide d'une taloche une couche pigmentée
-                                    de Efectto Quartz Big Grain et ponçer.
-                                    sand.
+                                    <strong>Etape 4</strong><br> Appliquer avec une taloche une couche d'Efectto Quartz Big Grain et ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -669,8 +645,8 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br>Appliquer à l'aide d'une taloche une couche pigmentée de
-                                    Efectto Quartz Small Grain et ponçer.
+                                    <strong>Etape 5</strong><br>Appliquer avec une taloche une couche de Efectto Quartz Small Grain et ponçer.
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -683,8 +659,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br> Appliquer à l'aide d'un rouleau deux couches de
-                                    Topsealer WT One Coat et ponçer
+                                    <strong>Etape 6</strong><br> Appliquer deux rouleau une couche de Topsealer WT One Coat et ponçer.
 
                                 </div>
                                 <!-- Icono -->
@@ -699,14 +674,13 @@ Efectto Quartz ">
                     </div>
                     <!-- aplicacion suelos -->
                     <div class="stepfloor mt-5">
-                        <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ PÀS A PÀS
-                                SOLS</strong></a>
+                        <h2><a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Application béton ciré prêt à l'emploi Efectto Quartz sur les sols</strong></a></h2>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 1</strong><br> Remplir les joints avec Efectto Quartz Super Grain.
+                                    <strong>Etape 1</strong><br> Remplir les joints avec Efectto Quartz Super Grain et ponçer 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -719,8 +693,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 2</strong><br> Appliquer à l'aide d'un rouleau une couche de Primacem
-                                    Plus/ABS
+                                    <strong>Etape 2</strong><br> Appliquer au rouleau une couche de Primacem Plus / ABS
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -733,8 +706,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 3</strong><br>Appliquer à l'aide d'une taloche une couche pigmentée de
-                                    Efectto Quartz Super Grain et ponçer.
+                                    <strong>Etape 3</strong><br>Appliquer avec une taloche une couche de Efectto Quartz Super Grain et ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -747,9 +719,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 4</strong><br> Appliquer à l'aide d'une taloche une couche pigmentée
-                                    de Efectto Quartz Super Grain et ponçer.
-                                    sand.
+                                    <strong>Etape 4</strong><br> Appliquer avec une taloche une couche de Efectto Quartz Super Grain
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -762,8 +732,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 5</strong><br> Appliquer à l'aide d'une taloche une couche pigmentée
-                                    de Efectto Quartz Medium Grain et ponçer.
+                                    <strong>Etape 5</strong><br> Appliquer avec une taloche une couche de Efectto Quartz Medium Grain et ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/llana.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -776,8 +745,7 @@ Efectto Quartz ">
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Etape 6</strong><br> Appliquer à l'aide d'un rouleau deux couches de
-                                    Topsealer WT One coat et ponçer
+                                    <strong>Etape 6</strong><br> Appliquer au rouleau deux couche de Topsealer WT One Coat et ponçer.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/efectto/stepbystep/roller.png" class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
@@ -1101,8 +1069,7 @@ Efectto Quartz ">
                                 <h3>Quelle garantie a l'Efectto?
                             </strong></h3></a>
                         <div style="font-size:16px;">
-                            <p>Efectto a une garantie d'un an à compter de sa date de production. Si les systèmes
-                                d'application ne sont pas suivis correctement, le produit perdra sa garantie.</p>
+                            <p>Efectto Quartz est garanti pendant 5 ans à compter de la date de production. Si les systèmes d'application ne sont pas suivis correctement, le produit perdra sa garantie.</p>
                         </div>
 
                     </div>

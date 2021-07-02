@@ -1230,9 +1230,8 @@
                                     href="javascript:MostrarOcultar('texto1_1');" id="enlace1_1"
                                     style="color:#000; text-decoration:none;"><strong>
                                         Jaką gwarancję posiada Efectto? </strong> </a>
-                                <div style="font-size:16px;">
-                                    <p>Efectto posiada roczną gwarancję od daty produkcji. W przypadku nieprzestrzegania
-                                        systemów aplikacji produkt traci gwarancję.
+                                <div style="font-size:16px;">  
+                                    <p>Kwarc Efectto jest objęty gwarancją przez 5 lat od daty produkcji. W przypadku nieprzestrzegania systemów aplikacji produkt traci gwarancję.
 
                                 </div>
                                 <!-- End question FAQ -->

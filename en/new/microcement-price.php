@@ -68,9 +68,9 @@
                 <p>
                     Many factors determine the price of microcement: the quality of the material, the square metres of
                     the surface to be covered or the complexity of the work. Read on to find out how much microcement
-                    costs in 2021.
-
+                    costs in 2021. 
                 </p>
+
                 <p>
                     Microcement is the coating of the moment. A construction material that has become fashionable in
                     recent years in interior decoration, both in private homes and in large commercial premises
@@ -85,11 +85,11 @@
                     other advantages.
 
                 </p>
+
                 <p>
                     For all these reasons and more, more and more construction professionals advocate this coating for
                     application on floors, walls, stairs, swimming pools and even furniture. But how much does it cost
-                    to lay microcement? Read on to find out.
-
+                    to lay microcement? Read on to find out. 
                 </p>
                 <figure class="figure mt-4">
                         <img src="https://www.topciment.com/imagenes/microcemento-topciment-imagen01.jpg" class="figure-img img-fluid " title="precio microcemento suelo sala de estar" alt="Precio microcemento suelo sala de estar" width="auto" height="auto">
@@ -113,8 +113,7 @@
                 <p>Below we explain everything you need to know about the price of microcement per square metre in 2021.
                 </p>
 
-                <h2>What elements affect the price of microcement?</h2>
-
+                <h2>What elements affect the price of microcement?</h2> 
                 <p>
                     Beyond the features and benefits that a coating can provide, the price of the same conditions the
                     final choice to tackle a work. To determine the final price per m2 of microcement, the following
@@ -212,10 +211,7 @@
 
 
 
-            </div>
-
-
-
+            </div> 
         </div>
 
         <?php include "../includes/footer.php"; ?>
@@ -251,7 +247,7 @@
       "url": "https://www.topciment.com/imagenes/logos/logoBlanco2.png"
     }
   },
-  "description":"Are you planning to cover walls or floors with microcement? Find out what the price of microcement per square metre in 2021"
+  "description":"Are you planning to cover walls or floors with microcement? Find out what the price of microcement per square metre in 2021" 
 }
 </script>
 </body>

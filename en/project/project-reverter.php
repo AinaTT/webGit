@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Spectacular house with microcement.</title>
+    <title>Spectacular house with microcement</title>
     <meta name="description"
         content="Photos of refurbished house with microcement. Combination of microcement and lighting." />
 

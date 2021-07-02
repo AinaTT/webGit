@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Images of microcement in offices.</title>
+    <title>Images of microcement in offices</title>
     <meta name="description"
         content="Photos of offices with microcement flooring. Real estate refurbished with microcement. Design with microcement." />
 

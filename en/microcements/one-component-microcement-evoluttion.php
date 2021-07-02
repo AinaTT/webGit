@@ -703,7 +703,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 2</strong><br>Apply a first coat of Microbase without pigment.
+                                    <strong>Step 2</strong><br>Apply a first coat of Microbase without pigment.  sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -718,7 +718,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 3</strong><br>Apply a second coat of Microbase with pigment.
+                                    <strong>Step 3</strong><br>Apply a second coat of Microbase with pigment. sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -733,7 +733,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 4</strong><br>Apply a first coat of Microdeck with pigment.
+                                    <strong>Step 4</strong><br>Apply a first coat of Microdeck with pigment. sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"
@@ -748,7 +748,7 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Step 5</strong><br>Apply a second coat of Microdeck with pigment.
+                                    <strong>Step 5</strong><br>Apply a second coat of Microdeck with pigment. sand.
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img src="https://www.topciment.com/imagenes/sttandard/stepbystep/llana.png"

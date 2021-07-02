@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Luxury home with microcement.</title>
+    <title>Luxury home with microcement</title>
     <meta name="description"
         content="Luxury microcement in impressite house.Casa Sardinera" />
 

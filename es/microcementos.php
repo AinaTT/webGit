@@ -119,10 +119,10 @@
         <span id="donde-aplicar" class="ancla"></span>
         <h2>¿Dónde se puede aplicar el microcemento?</h2>
         <p>Las soluciones decorativas del microcemento son infinitas. De ahí que sus usos sean tan variados. Desde
-          <strong> escaleras de microcemento</strong> o <strong> piscinas de microcemento </strong> hasta
+          <strong> <a class="links" href="noticia/escaleras-de-microcemento-como-revestirlas-correctamente">escaleras</a> de microcemento</strong> o <strong> piscinas de microcemento </strong> hasta
           <strong>muebles</strong> revestidos con microcemento. Aunque el uso
-          por excelencia del microcemento es en suelos y paredes de <strong>cocinas, baños</strong> y espacios
-          exteriores como <strong>terrazas</strong>.
+          por excelencia delmicrocemento es en  <a class="links" href="noticia/suelos-de-microcemento">suelos</a> y paredes de <strong>cocinas, baños</strong> y espacios
+          <a class="links" href="noticia/microcemento-en-exterior">exteriores</a> como <strong>terrazas</strong>.
         </p>
         <p>Sea cual sea la superficie a revestir con microcemento, en Topciment <strong>nos importa el resultado
             final</strong> . Por eso,
@@ -204,9 +204,8 @@
 
         <h3>Microcemento exterior</h3>
         <p>El microcemento es un revestimiento continuo excelente también para superficies exteriores como suelos de
-          terrazas, patios de casas residenciales
-          o fachadas y paredes de edificios. Visita nuestra galería o lee nuestro post y descubre todas las opciones de
-          aplicar <strong><a class="links" href="noticia/diseno-y-confort-para-espacios-exteriores">microcemento en exteriores</a></strong>.
+          terrazas, patios de casas residenciales o fachadas y paredes de edificios. Visita nuestra galería o lee nuestro post y descubre todas las opciones de
+          aplicar <strong><a class="links" href="noticia/microcemento-en-exterior">microcemento en exteriores</a></strong>.
         </p>
 
         <p>
@@ -599,7 +598,7 @@
                   autonivelante, terrazo, mármol, azulejo, pladur o yeso. La aplicación del microcemento también puede
                   realizarse sobre superficies verticales, horizontales, en espacios interiores y exteriores. Una
                   versatilidad con la que podemos crear escaleras de microcemento, baños de microcemento, cocinas de
-                  microcemento e incluso piscinas de microcemento.</p>
+                  microcemento e incluso <a class="links" href="noticia/piscinas-de-microcemento-la-mejor-opcion-posible">piscinas de microcemento</a>.</p>
                 <p>Eso sí, no se puede aplicar microcemento sobre madera natural o soportes formados por piezas que
                   puedan dilatar de forma diferente.</p>
 
@@ -611,13 +610,11 @@
                     aplicar microcemento sobre azulejos, agilizando las reformas y evitando el desescombro del
                     revestimiento
                     original. Siempre y cuando los azulejos estén firmes y no estén sueltos. En estos casos es necesario
-                    el
-                    uso de la malla para solidarizar el soporte.<br>
+                    el  uso de la malla para solidarizar el soporte.<br>
 
                     <a target="_blank" href="https://youtu.be/e_frK5ObsD0">Ver el método de aplicación de microcemento
                       sobre
-                      azulejos con video tutorial.</a>
-
+                      azulejos con video tutorial.</a> 
                   </p>
 
                   <img src="https://www.topciment.com/imagenes/microcemento-sobre-azulejos-rejuntado.jpg"

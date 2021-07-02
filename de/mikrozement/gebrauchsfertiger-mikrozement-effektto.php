@@ -1287,8 +1287,7 @@
                                 <h3>Welche Garantie hat Efectto?
                             </strong></p></a>
                         <div style="font-size:16px;">
-                            <p>Effecto hat eine Garantie von einem Jahr ab Produktionsdatum. Wenn die Anwendungssysteme
-                                nicht korrekt befolgt werden, verliert das Produkt seine Garantie.</p>
+                            <p>Efectto Quartz hat eine Garantie von 5 Jahren ab dem Produktionsdatum. Wenn die Anwendungssysteme nicht korrekt befolgt werden, verliert das Produkt seine Garantie.</p>
                         </div>
 
                     </div>

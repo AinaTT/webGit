@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/noticias.css" />
 
 
-    <title>Topciment continues its international expansion and registers its trademark in the United States.</title>
+    <title>Topciment continues its international expansion and registers its trademark in the United States</title>
     <meta name="description"
         content=" The Topciment brand has been registered by the United States Patent and Trademark Office (USPTO). A further step in our international expansion strategy." />
 

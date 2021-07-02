@@ -35,12 +35,7 @@
 
  <link rel="alternate" href="https://www.topciment.com/es/proyecto/bano-microcemento-fd-fliesen" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/een/project/bathroom-microcement-fd-fliesen" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/fr/renovee-salle-de-bains-avec-beton-cire-topciment" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/badezimmer-mit-mikrozement.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/galleria.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/galerij.html#proyectos" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-gallery.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/fotogalereya.html" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/renovee-salle-de-bains-avec-beton-cire-topciment" hreflang="fr-FR"/> 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
 

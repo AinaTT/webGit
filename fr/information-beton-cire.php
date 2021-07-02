@@ -159,8 +159,8 @@ sol en béton ciré  salon salle à manger  maison Hernán Cortés" title="béto
 
         <h3>Escaliers en béton ciré </h3>
        <p>La polyvalence du béton ciré  lui permet d'être utilisé même dans les escaliers, bien que le travail de l'applicateur soit un peu plus complexe.
-        Des escaliers spectaculaires en béton ciré  peuvent être conçus avec des bétons cirés Topciment. Découvrez-les dans notre article sur les escaliers en béton ciré <!--  (lien actualités escaliers) TODO -->.
-</p>
+        Des escaliers spectaculaires en béton ciré  peuvent être conçus avec des bétons cirés Topciment. Découvrez-les dans notre <strong><a class="links" href="nouvelle/escaliers-en-beton-cire-comment-les-recouvrir-correctement">article sur les escaliers en béton ciré</a></strong> <!--  (lien actualités escaliers) TODO -->.
+  </p>
         <h3>Piscines en béton ciré </h3>
         <p>Couvrir la couronne et la zone autour de la piscine avec du béton ciré  est un succès garanti. Le caractère antidérapant et imperméable de nos revêtements décoratifs, 
         ainsi que leur excellente résistance aux rayons UV, sont idéaux pour le revêtement des piscines intérieures et extérieures. Dans notre blog, vous trouverez tout ce que vous devez 

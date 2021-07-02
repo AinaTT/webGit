@@ -23,12 +23,7 @@
 
     <link rel="alternate" href="https://www.topciment.com/cn/jihua/proyecto-altea" hreflang="zh-CN"/>
     <link rel="alternate" href="https://www.topciment.com/en/project/project-altea" hreflang="en-GB"/>
-    <link rel="alternate" href="https://www.topciment.com/fr/projet-altea" hreflang="fr-FR"/>
-    <link rel="alternate" href="https://www.topciment.com/de/proyecto-altea.html" hreflang="de-DE"/>
-    <link rel="alternate" href="https://www.topciment.com/it/proyecto-altea.html" hreflang="it-IT"/>
-    <link rel="alternate" href="https://www.topciment.com/nl/projecten-altea.html" hreflang="nl-NL"/>
-    <link rel="alternate" href="https://www.topciment.com/gr/gr-project-altea.html" hreflang="el-GR"/>
-    <link rel="alternate" href="https://www.topciment.ru/proyekt-mikrotsementa-altea.html" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://www.topciment.com/fr/projet-altea" hreflang="fr-FR"/> 
 
 
     <?php include("../../assets/includes/scripts-head.php"); ?>

@@ -17,7 +17,7 @@
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.19.0/themes/prism-tomorrow.min.css" as="style"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.19.0/themes/prism-tomorrow.min.css"/>
 
-    <title>Quality Seal Topciment, high quality standards.</title>
+    <title>Quality Seal Topciment, high quality standards</title>
     <meta name="description" content="This Seal of Quality only appears on the websites of companies that have committed to working with Topciment and that meet our high quality standards."/>
 
     <meta property="og:locale" content="en_EN"/>

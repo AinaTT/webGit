@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es-ES">
+<html lang="en-GB">
 
 <head>
     <meta charset="utf-8">
@@ -43,7 +43,7 @@
     <link rel="alternate" href="https://www.topciment.com/nl/" hreflang="nl-NL" />
     <link rel="alternate" href="https://www.topciment.com/gr/" hreflang="el-GR" />
     <link rel="alternate" href="https://www.topciment.ru/" hreflang="ru-RU" />
-    <link rel="alternate" href="https://www.topciment.us/" hreflang="en-US" />
+    <link rel="alternate" href="https://www.topciment.com/en-us/" hreflang="en-US" />
 
 
     <link rel="preload" href="../assets/css/home.css" as="style" />

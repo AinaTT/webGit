@@ -3,26 +3,26 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#000"/>
-    <meta name="viewport" content="width=device-width"/>
+    <meta name="theme-color" content="#000" />
+    <meta name="viewport" content="width=device-width" />
 
-    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
+    <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
+    <meta name="Language" content="ES" />
 
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <link rel="preload" href="../../assets/css/contacto.css" as="style"/>
-    <link rel="stylesheet" href="../../assets/css/contacto.css"/>
+    <link rel="preload" href="../../assets/css/contacto.css" as="style" />
+    <link rel="stylesheet" href="../../assets/css/contacto.css" />
 
 
-    <title>Microcemento en Marbella y alrededores</title>
-    <meta name="description" content="Topciment Marbella, microcemento con aplicadores profesionales y de confianza en Marbella, Estepona, ronda, Fuengirola y alrededores"/>
+    <title>Microcemento en Marbella - Presupuesto aplicadores  microcemento</title>
+    <meta name="description" content="Empresa con dilatada experiencia en la aplicación de microcemento en Marbella. Expertos en pavimentos continuos de microcemento en interiores y exteriores. Infórmate gratis." />
 
 
     <link rel="canonical" href="https://www.topciment.com/es/delegaciones/microcemento-marbella"/>
 
- <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-marbella" hreflang="es-ES"/>
+    <link rel="alternate" href="https://www.topciment.com/es/delegaciones/microcemento-marbella" hreflang="es-ES" />
 
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -41,106 +41,188 @@
                 <div class="fullscreen background parallax">
                     <div class="content-a">
                         <div class="map-wrap">
-                            <div class="overlay" onClick="style.pointerEvents='none'"></div><!-- wrap map iframe to turn off mouse scroll and turn it back on on click -->
-                            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d410488.9691837379!2d-4.872763!3d36.507188!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72d809904dabdf%3A0xe6c9db907b5ecab!2zTWFyYmVsbGEsIE3DoWxhZ2EsIEVzcGHDsWE!5e0!3m2!1ses!2ses!4v1490258458266" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <div class="overlay" onClick="style.pointerEvents='none'"></div>
+                            <!-- wrap map iframe to turn off mouse scroll and turn it back on on click -->
+                            <iframe class="map"
+                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d410488.9691837379!2d-4.872763!3d36.507188!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd72d809904dabdf%3A0xe6c9db907b5ecab!2zTWFyYmVsbGEsIE3DoWxhZ2EsIEVzcGHDsWE!5e0!3m2!1ses!2ses!4v1490258458266"
+                                width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
-                </div><a id="contactanos" style="display: block; height: 60px; margin-top: -60px; visibility: hidden;"></a>
+                </div><a id="contactanos"
+                    style="display: block; height: 60px; margin-top: -60px; visibility: hidden;"></a>
 
                 <div class="container">
-                    <div class="content">
-
-                        <h1 id="queeselmicrocemento" ><span style=" padding:5px;">Delegación Marbella</span></h1>
-                    </div>
-
-                    <div class="container">
+                    <div>
                         <div class="content">
 
-                            <div >
-                                <p>Topciment Marbella, microcemento con aplicadores profesionales y de confianza en Marbella, Estepona, ronda, Fuengirola y alrededores</p>
-                                <p> Topciment - Delegación Marbella</p>
-                                <p><strong><a class="text-dark" target="_blank" href="https://www.microcemento-marbella.com">www.microcemento-marbella.com</a></strong></p>
+                            <h1 class="h3">Microcemento en Marbella - Presupuesto aplicadores de microcemento</h1>
+                            <p>
+                                <strong>Desde 2005</strong> nos dedicamos a la venta y aplicación de microcemento en
+                                Marbella y
+                                alrededores. Una dilatada experiencia que nos ha llevado a ganar la confianza de
+                                nuestros clientes y a situarnos a la cabeza del sector de España y Europa. 
+                            </p>
+                            <p>
+                                Nuestro <a class="links" href="../microcementos">microcemento</a> es un revestimiento
+                                continuo decorativo pigmentado que facilita una rápida y fácil renovación de <strong>las estancias</strong>, tanto
+                                interiores como
+                                exteriores, permitiendo así que estos <strong>continúen siendo habitables</strong>
+                                durante el proceso de
+                                reforma <strong>al no tener que realizar tareas de desescombro.</strong> 
+                            </p>
+                            <p>
+                                Pavimentos continuos decorativos y revestimientos de paredes que permiten <strong>un
+                                    amplio abanico de soluciones decorativas</strong> tanto en viviendas como en grandes
+                                locales comerciales
+                                y negocios tales como restaurantes, hoteles, oficinas, tiendas, etc. Sean cuales sean
+                                las necesidades del cliente, obtendrá un recubrimiento de lo más versátil por sus altas
+                                prestaciones, inmejorables resistencias y durabilidad. 
+                            </p>
+                            <p>
+                                <strong>Creamos espacios únicos, haciendo realidad todo tipo de proyectos</strong> en
+                                cocinas, baños,
+                                muebles, exteriores, piscinas, escaleras, hoteles y comercios. Un microcemento de última
+                                generación que goza de gran flexibilidad y que se adhiere fácilmente a todo tipo de
+                                soportes: cemento, hormigón, azulejos, terrazo, pladur, yeso, mármol, etc, sin retirar
+                                el material existente.
 
-                                <h2> Disponemos de aplicadores en las principales ciudades.</h2>
-                                <p>Ver todas las delegaciones</p>
-                                <form name="form" id="form">
-                                    <select name="jumpMenu" id="jumpMenu" style="margin-top: 5px;
-margin-bottom: 5px;
-color: #4d4d4d;
-color: #4d4d4d;
-width: 244px;
-height: 38px;
-border: #C9C9C9 solid thin;
-border-radius: 0;
-box-shadow: none;
-font-size: 13px;
--webkit-appearance: none;
--moz-appearance: none;
-background: #fff url(https://www.angelgrafico.es/microcemento/imagenes/select-arrow.png) no-repeat 90% center;
-padding-left: 5px;">
+                            </p>
+                            <p>
+                                En Microcemento Marbella de Topciment conferimos personalidad propia a cualquier
+                                espacio, <strong>gracias al amplio abanico de acabados </strong>que ofrecen los
+                                microcementos que  <a class="links" href="../microcemento/fabricante-microcemento">fabricamos</a>. 
+                            </p>
 
-                                        <option value="microcemento-barcelona">Barcelona</option>
-                                        <option value="microcemento-madrid">Madrid</option>
-                                        <option value="microcemento-valencia">Valencia</option>
-                                        <option value="microcemento-sevilla">Sevilla</option>
-                                        <option value="microcemento-malaga">Málaga</option>
-                                        <option value="microcemento-mallorca">Mallorca</option>
-                                        <option value="microcemento-zaragoza">Zaragoza</option>
-                                        <option value="microcemento-alicante">Alicante</option>
-                                        <option value="microcemento-tenerife">Tenerife</option>
-                                        <option value="microcemento-murcia">Murcia</option>
-                                        <option value="microcemento-laspalmas">Las Palmas</option>
-                                        <option value="microcemento-albacete">Albacete</option>
-                                        <option value="microcemento-alcala">Alcala</option>
-                                        <option value="microcemento-bilbao">Bilbao</option>
-                                        <option value="microcemento-caceres">Caceres</option>
-                                        <option value="microcemento-cadiz">Cádiz</option>
-                                        <option value="microcemento-cordoba">Córdoba</option>
-                                        <option value="microcemento-granada">Granada</option>
-                                        <option value="microcemento-huelva">Huelva</option>
-                                        <option value="microcemento-ibiza">Ibiza</option>
-                                        <option value="microcemento-leon">León</option>
-                                        <option value="microcemento-marbella">Marbella</option>
-                                        <option value="microcemento-vigo">Vigo</option>
-                                        <option value="microcemento-valladolid">Valladolid</option>
-                                    </select>
-                                    <input type="button" name="go_button" id="go_button" value="IR" onClick="MM_jumpMenuGo('jumpMenu','parent',0)" style="padding:10px; background-color:#000; color:#fff; font-size:16px; border: none; cursor:pointer; width:80px;">
-                                    <input type='hidden' id="zc_gad" name="zc_gad" value=""/>
-                                </form>
-                            </div>
+                            <p><strong>Espacios de diseño, distinguidos y elegantes.</strong> Estancias que se adaptan
+                                a cualquier
+                                estilo de decoración de interiores y exteriores. Revestimientos que no solo brindan una
+                                estética sofisticada y de alta decoración, sino también una importante funcionalidad.
+                                Son resistentes al desgaste, a la abrasión, al tránsito peatonal, a los limpiadores
+                                domésticos, no fisuran y, además, pueden ofrecer <strong>acabados antideslizantes</strong> e <strong>impermeables</strong>al agua corriente. 
+                            </p>
+
+                            <h2>Presupuesto aplicadores microcemento en Marbella</h2>
+
+                            <p> ¿Deseas transformar tu vivienda, local o negocio? Nuestros <strong>aplicadores</strong> de microcemento  en Marbella y alrededores cuentan con una 
+                                <strong>dilatada trayectoria profesional.</strong> Instaladores con muchos años de experiencia que son formados de manera continúa. 
+                            </p>
+                            <p>
+                                Nuestros instaladores de microcemento alisado evaluarán tu reforma y la harán realidad
+                                en un breve espacio de tiempo sin obras ni escombros. Diseños increíbles para cualquier
+                                espacio interior o exterior. ¿A qué esperas a pedir presupuesto?
+
+                            </p>
+
+                            <h2>Precio aplicación microcemento en Marbella</h2> 
+                            <p>
+                                El precio de aplicación de microcemento en Marbella varía en función de la dificultad de
+                                la obra a cometer, la superficie en metros cuadrados a revestir, el material elegido así
+                                como el tipo de acabado. Cuéntanos en qué consiste tu proyecto de reforma y te
+                                realizamos un <strong>presupuesto gratuito sin compromiso.</strong>
+
+                            </p>
+                            <h2>Obras con microcemento en Marbella y alrededores</h2>
+
+                            <p>
+                                Nuestros aplicadores realizan obras con microcemento en Marbella y en ciudades y
+                                localidades de alrededores como Estepona, Benalmádena, Ronda, Vélez, Coín, Pizarra o
+                                Málaga.
+
+                            </p>
+
+                            <h3> Obras con microcemento en Marbella </h3>
+                            <h3> Obras con microcemento en Estepona </h3>
+                            <h3> Obras con microcemento en Benalmádena </h3>
+                            <h3> Obras con microcemento en Ronda </h3>
+                            <h3> Obras con microcemento en Vélez </h3>
+                            <h3> Obras con microcemento en Coín </h3>
+                            <h3> Obras con microcemento en Pizarra </h3>
+
+                            <p>
+                                Si tu casa o negocio se encuentra en otro municipio y te gustaría que lleváramos a cabo
+                                tu proyecto de reforma, no dudes en contactar con nosotros.
+
+                            </p>
+
+                            <h2>Asesoramiento en microcemento en Marbella</h2>
+
+                            <p>
+                                No solo basta con decir que somos especialistas en microcemento, sino que hay que
+                                demostrarlo. No hay mayor prueba que el excelente equipo humano con el que contamos. Un
+                                grupo de <strong>expertos</strong> que ofrece <strong>asesoramiento técnico</strong> en
+                                microcemento <strong>tanto a aplicadores profesionales como a particulares</strong>
+                                que desean llevar a cabo una reforma con microcemento
+                                en Marbella y alrededores.
+                            </p>
+
+                            <p>
+                                Técnicos especialistas que estudian tu caso y necesidades para darte los mejores
+                                consejos y soluciones posibles. Además, realizamos cursos de microcemento en Marbella
+                                para aquellos aplicadores que quieran formarse en la aplicación de nuestros
+                                microcementos.
+
+                            </p>
+                            <h2>Contacta con Topciment Microcemento de Marbella</h2>
+
+                            <p>
+                                Si necesitas más información de nuestros productos, resolver dudas sobre el microcemento
+                                o pedir un presupuesto personalizado para tu proyecto, rellena por favor este formulario
+                                y nos pondremos en contacto contigo a la mayor brevedad. Nuestros expertos estarán
+                                encantados de ayudarte en todo lo que necesites.
+
+                            </p>
+
+
                             <div>
-                                <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+                                <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001
+                                    method='POST'
+                                    onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()'
+                                    accept-charset='UTF-8'>
 
                                     <!-- Note :    - You can modify the font style and form style to suit your website.     - Code lines with comments ���Do not remove this code���  are required for the form to work properly, make sure that you do not remove these lines of code.     - The Mandatory check script can modified as to suit your business needs.     - It is important that you test the modified form before going live.    - Do not remove captcha and other form elements that are necessary for the form to work.  -->
                                     <div id='crmWebToEntityForm' style='margin:auto;'>
                                         <META HTTP-EQUIV='content-type' CONTENT='text/html;charset=UTF-8'>
-                                        <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2193829000000221001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory2193829000000221001()' accept-charset='UTF-8'>
+                                        <form action='https://crm.zoho.com/crm/WebToLeadForm'
+                                            name=WebToLeads2193829000000221001 method='POST'
+                                            onSubmit='javascript:document.charset="UTF-8"; return checkMandatory2193829000000221001()'
+                                            accept-charset='UTF-8'>
 
                                             <!-- Do not remove this code. -->
-                                            <input type='text' style='display:none;' name='xnQsjsdp' value='0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf' />
+                                            <input type='text' style='display:none;' name='xnQsjsdp'
+                                                value='0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf' />
                                             <input type='hidden' name='zc_gad' id='zc_gad' value='' />
-                                            <input type='text' style='display:none;' name='xmIwtLD' value='b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e' />
-                                            <input type='text' style='display:none;' name='actionType' value='TGVhZHM=' />
+                                            <input type='text' style='display:none;' name='xmIwtLD'
+                                                value='b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e' />
+                                            <input type='text' style='display:none;' name='actionType'
+                                                value='TGVhZHM=' />
 
-                                            <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias.html' />
+                                            <input type='text' style='display:none;' name='returnURL'
+                                                value='https&#x3a;&#x2f;&#x2f;www.topciment.com&#x2f;gracias.html' />
                                             <!-- Do not remove this code. -->
-                                            <input type='text' style='display:none;' id='ldeskuid' name='ldeskuid'></input>
-                                            <input type='text' style='display:none;' id='LDTuvid' name='LDTuvid'></input>
+                                            <input type='text' style='display:none;' id='ldeskuid'
+                                                name='ldeskuid'></input>
+                                            <input type='text' style='display:none;' id='LDTuvid'
+                                                name='LDTuvid'></input>
                                             <!-- Do not remove this code. -->
                                             <div class="formulario">
-                                                <div class=" card-block border-radius mt-5" style=" background-color: rgba(247, 247, 249, 0.34);">
-                                                    <div class="text-center mt-3 mb-4" data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "2"}'>
+                                                <div class=" card-block border-radius mt-5"
+                                                    style=" background-color: rgba(247, 247, 249, 0.34);">
+                                                    <div class="text-center mt-3 mb-4"
+                                                        data-animate-scroll='{"x": "-100", "y": "0", "alpha": "0", "duration": "2"}'>
                                                         <h2 style="   font-size: 35px;	font-weight: 400;">¿Podemos
                                                             ayudarle?</h2>
                                                     </div>
 
                                                     <div class="form-group input-group">
                                                         <span class="has-float-label">
-                                                            <input name='First Name' maxlength='40' class="form-control" id="first" type="text" placeholder="Su nombre"/>
-                                                            <label for="first">Nombre<span style='color:red;'>*</span></label>
+                                                            <input name='First Name' maxlength='40' class="form-control"
+                                                                id="first" type="text" placeholder="Su nombre" />
+                                                            <label for="first">Nombre<span
+                                                                    style='color:red;'>*</span></label>
                                                         </span>
                                                         <label class="has-float-label">
-                                                            <input name='Last Name' maxlength='80' class="form-control" type="text" placeholder="Sus apellidos"/>
+                                                            <input name='Last Name' maxlength='80' class="form-control"
+                                                                type="text" placeholder="Sus apellidos" />
                                                             <span>Apellidos<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
@@ -148,20 +230,27 @@ padding-left: 5px;">
                                                     <div class="form-group input-group">
                                                         <span class="input-group-addon">@</span>
                                                         <label class="has-float-label">
-                                                            <input name='Email' maxlength='100' class="form-control" type="text" placeholder="email@ejemplo.com"/>
+                                                            <input name='Email' maxlength='100' class="form-control"
+                                                                type="text" placeholder="email@ejemplo.com" />
                                                             <span>E-mail<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group has-float-label">
-                                                        <input name='Phone' maxlength='30' class="form-control" id="telefono" type="text" placeholder="Ej: +34 666 565 852"/>
-                                                        <label for="telefono">Teléfono<span style='color:red;'>*</span></label>
+                                                        <input name='Phone' maxlength='30' class="form-control"
+                                                            id="telefono" type="text"
+                                                            placeholder="Ej: +34 666 565 852" />
+                                                        <label for="telefono">Teléfono<span
+                                                                style='color:red;'>*</span></label>
                                                     </div>
                                                     <div class="form-group has-float-label">
-                                                        <input name='City' maxlength='30' class="form-control" id="localidad" type="text" placeholder="Ej: Valencia"/>
-                                                        <label for="localidad">Localidad/Provincia<span style='color:red;'>*</span></label>
+                                                        <input name='City' maxlength='30' class="form-control"
+                                                            id="localidad" type="text" placeholder="Ej: Valencia" />
+                                                        <label for="localidad">Localidad/Provincia<span
+                                                                style='color:red;'>*</span></label>
                                                     </div>
                                                     <label class="form-group has-float-label">
-                                                        <select name='LEADCF11' multiple class="form-control custom-select">
+                                                        <select name='LEADCF11' multiple
+                                                            class="form-control custom-select">
                                                             <option value='Aplicador'>Aplicador</option>
                                                             <option value='Cliente&#x20;final'>Cliente final
                                                             </option>
@@ -171,7 +260,8 @@ padding-left: 5px;">
                                                         <span>Usted es:</span>
                                                     </label>
                                                     <div class="form-group has-float-label">
-                                                        <textarea name='LEADCF9' maxlength='2000' class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                        <textarea name='LEADCF9' maxlength='2000' class="form-control"
+                                                            id="exampleFormControlTextarea1" rows="3"></textarea>
                                                         <span>Mensaje:</span>
                                                     </div>
                                                     <label class="form-group has-float-label">
@@ -188,13 +278,17 @@ padding-left: 5px;">
                                                     </label>
                                                     <div class="form-group input-group">
                                                         <span class="has-float-label">
-                                                            <input name='enterdigest' maxlength='80' class="form-control" style="min-height: 70px;" id="captcha" type="text"/>
+                                                            <input name='enterdigest' maxlength='80'
+                                                                class="form-control" style="min-height: 70px;"
+                                                                id="captcha" type="text" />
                                                             <label for="captcha">Introduzca el captcha</label>
                                                         </span>
                                                         <label class="has-float-label">
-                                                            <img class="form-control" style="height: 100%;" id='imgid' src='https://crm.zoho.com/crm/CaptchaServlet?formId=b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e&grpid=0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf'>
+                                                            <img class="form-control" style="height: 100%;" id='imgid'
+                                                                src='https://crm.zoho.com/crm/CaptchaServlet?formId=b9c761651d784b3338501c899dd43e577f8637d9060b22d0ae6b874843221c2e&grpid=0bc3358bdd3baefdb791a8c5b584c69212d1c4bf9f87c329186bb76ccb66d5cf'>
 
-                                                            <span><a href='javascript:;' onclick='reloadImg()'>Recargar</a></span>
+                                                            <span><a href='javascript:;'
+                                                                    onclick='reloadImg()'>Recargar</a></span>
                                                         </label>
                                                     </div>
                                                     <!-- Invisible -->
@@ -220,25 +314,30 @@ padding-left: 5px;">
                                                     <!-- /Invisible -->
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF102' class="custom-control-input" type="checkbox"/>
+                                                            <input name='LEADCF102' class="custom-control-input"
+                                                                type="checkbox" />
                                                             <span class="custom-control-indicator "></span>
                                                             <span class="custom-control-description">He leído y
-                                                                acepto la <a target="_blank" href="https://www.topciment.com/es/condiciones-uso-politica-privacidad"></a>
+                                                                acepto la <a target="_blank"
+                                                                    href="https://www.topciment.com/es/condiciones-uso-politica-privacidad"></a>
                                                                 política de
                                                                 privacidad<span style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF109' class="custom-control-input" type="checkbox"/>
+                                                            <input name='LEADCF109' class="custom-control-input"
+                                                                type="checkbox" />
                                                             <span class="custom-control-indicator"></span>
                                                             <span class="custom-control-description">Acepto recibir
-                                                                comunicaciones comerciales<span style='color:red;'>*</span></span>
+                                                                comunicaciones comerciales<span
+                                                                    style='color:red;'>*</span></span>
                                                         </label>
                                                     </div>
                                                     <div class="form-group">
                                                         <label class="custom-control custom-checkbox">
-                                                            <input name='LEADCF106' class="custom-control-input" type="checkbox"/>
+                                                            <input name='LEADCF106' class="custom-control-input"
+                                                                type="checkbox" />
                                                             <span class="custom-control-indicator"></span>
                                                             <span class="custom-control-description">Autorizo la
                                                                 cesión de mis datos a
@@ -263,8 +362,10 @@ padding-left: 5px;">
                                                         <option value='Ruso'>Ruso</option>
                                                         <option value='Turco'>Turco</option>
                                                     </select>
-                                                    <input type='submit' value='Enviar' id='formsubmit' class="btn float-left btn-primary leermass mt-2"/>
-                                                    <input type='reset' name='reset' value='Restablecer' class="btn float-left btn-primary leermass mt-2"/>
+                                                    <input type='submit' value='Enviar' id='formsubmit'
+                                                        class="btn float-left btn-primary leermass mt-2" />
+                                                    <input type='reset' name='reset' value='Restablecer'
+                                                        class="btn float-left btn-primary leermass mt-2" />
                                                 </div>
                                             </div>
 
@@ -342,7 +443,7 @@ padding-left: 5px;">
                                                 $zoho.salesiq = $zoho.salesiq || {
                                                     widgetcode: '7e78cb83d15a60689cfbb20a8903bc4acf81a6c960d39dee1212f343ec7821c9533163b23229b79e91104310dadb43de',
                                                     values: {},
-                                                    ready: function() {
+                                                    ready: function () {
                                                         $zoho.salesiq.floatbutton.visible('hide');
                                                     }
                                                 };
@@ -391,7 +492,8 @@ padding-left: 5px;">
                                     <p>
                             </div>
                             <div id="separador50px"></div>
-                            <p><img src="https://www.topciment.com/imagenes/microcemento-marbella.jpg" width="100%" alt="Precio microcemento en Marbella"><br>
+                            <p><img src="https://www.topciment.com/imagenes/microcemento-marbella.jpg" width="100%"
+                                    alt="Precio microcemento en Marbella"><br>
                                 <!--<div id="mitadTextoIzquierda" >
 			  <h2>Referente en la fabricación de morteros técnicos y microcementos<br>
 			    </h2>
@@ -419,7 +521,7 @@ padding-left: 5px;">
 		    <p><img src="https://www.topciment.com/imagenes/topciment-exposicion-colores-microcemento.jpg" width="100%" alt="Nuestro Showroom"></p>
 		    <p>Somos conscientes de la falta de información sobre el microcemento. Las ventajas de este revestimientos continuos son muchas, y sus características son para la mayoría desconocidas. Es por esto que impartimos cursos básicos y avanzados una vez al mes, en nuestras instalaciones en Valencia. Esta formación es de pago y completamente reembolsable con el siguiente pedido de producto, contactarnos para más información.</p>
 		  </div>-->
-                            <div id="separador50px"></div>
+                                <div id="separador50px"></div>
                         </div>
                     </div>
                 </div>

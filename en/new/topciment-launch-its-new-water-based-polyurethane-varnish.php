@@ -79,7 +79,7 @@
                     <figure class="figure mt-4"> <img
                             src="https://www.topciment.com/imagenes/topsealer/topsealer-barniz-microcemento.jpg"
                             class="figure-img img-fluid" title=" Topsealer WT All in One water-based varnish container"
-                            alt=" Topsealer WT All in One water-based varnish container">
+                            alt="Topsealer WT All in One water-based varnish container">
                         <figcaption class="figure- caption">Image of the new Topsealer WT All in One water-based
                             polyurethane varnish </figcaption>
                     </figure>
@@ -149,9 +149,8 @@
                                         margin: 0 !important
                                     }
                                 }
-                            </style>
-
-                            <!--Zoho Campaigns Web-Optin Form's Header Code Ends Here-->
+                            </style> 
+                            <!-- Zoho Campaigns Web-Optin Form's Header Code Ends Here -->
                             <!--Zoho Campaigns Web-Optin Form Starts Here-->
 
                             <div id="sf339f2ea05e1f35d3f0ab0fb7317495244b766efe51c265c7" data-type="signupform"

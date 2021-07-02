@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="../assets/css/microcemento.css" />
   <!-- ********** END NEW LINKS ********** -->
 
-  <title>Co to jest Microcemento? Zastosowania, aplikacja, rodzaje, kolory i zalety </title>
+  <title>C o to jest Microcemento? Zastosowania, aplikacja, rodzaje, kolory i zalety </title>
   <meta name="description"
     content="Dowiedz się wszystkiego o mikrocemencie, powłoce dekoracyjnej chwili: czym jest, rodzaje, gdzie może być zastosowany, zalety i kolory." />
   <meta property="og:locale" content="pl_PL" />
@@ -1145,8 +1145,13 @@
               </div>
             </div>
           </div>
+          <div class="text-center"> <img src="https://www.topciment.com/imagenes/pfr.jpeg" class="img-fluid"  style="width:50%" alt="PFR Polonia" title="PFR Polonia"></div>
+
       </div>
-    </div>
+     
+    </div> 
+  
+    
   </div>
 
 

@@ -77,7 +77,7 @@
                         paredes blancas y piezas de cuidado diseño en zonas concretas.
                         En los baños la imaginación vuela y se apuesta por colores verdaderamente impresionantes y
                         revestimiento en suelos y paredes, eligiendo <strong>Arcocem Oxide Hierro 004</strong> y la
-                        utilización del <strong>Agente Oxidante</strong> como protagonistas
+                        utilización del <strong>activador de óxido</strong> como protagonistas
                         en uno de ellos. Fotos de Mariela Apollonio. </p>
                 </div>
 

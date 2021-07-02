@@ -77,9 +77,9 @@
                 </p>
                 <h2>Marcas de las juntas de los azulejos al aplicar microcemento</h2>
                 <p>
-                    ¿Quieres aplicar el microcemento sobre azulejos? Estos son los <strong>tres puntos a tener en consideración</strong>
+                    ¿Quieres aplicar el <a rel="follow" class="links" href="../noticia/como-aplicar-microcemento-sobre-azulejos-antiguos">microcemento sobre azulejos</a>? Estos son los <strong>tres puntos a tener en consideración</strong>
                     para evitar que se marquen las juntas de los azulejos.
-
+ 
                 </p>
                 <h3>1. Prestar atención a la diferencia de absorción entre las baldosas y juntas</h3>
                 <p>

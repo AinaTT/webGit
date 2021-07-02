@@ -54,7 +54,7 @@
 
     <div id="main">
         <div class="fullscreen background parallax"
-            style="background-image:url('https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-00.jpg');"
+            style="background-image:url('https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-00.jpg');"
             data-img-width="1500" data-img-height="1000" data-diff="100">
             <div class="content-a" id="up">
 
@@ -82,25 +82,25 @@
 
 
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
-                    <img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-02.jpg"
+                    <img src="https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-02.jpg"
                         width="100%">
                 </div>
                 <div id="separador20px">
                 </div>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
-                    <img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-03.jpg"
+                    <img src="https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-03.jpg"
                         width="100%">
                 </div>
                 <div id="separador20px">
                 </div>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
-                    <img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-04.jpg"
+                    <img src="https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-04.jpg"
                         width="100%">
                 </div>
                 <div id="separador20px">
                 </div>
                 <div id="fotoAnchoTotal" class="wow fadeInRight" style="float:left">
-                    <img src="https://www.topciment.us/img/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-01.jpg"
+                    <img src="https://www.topciment.com/imagenes/C-Lazy-U-Ranch/Renovation-of-the-luxury-ranch-with-microcement-Topciment-01.jpg"
                         width="100%">
                 </div>
                 <div id="separador20px">

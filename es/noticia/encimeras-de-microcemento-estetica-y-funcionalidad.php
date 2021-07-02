@@ -282,7 +282,7 @@
                     <h2> Precio encimeras de microcemento</h2>
 
                     <p>
-                        Solo un profesional podrá determinar cuál es el precio de una encimera de microcemento. Un
+                        Solo un profesional podrá determinar cuál es el <strong><a class="links" href="precio-del-microcemento">precio</a></strong> de una encimera de microcemento. Un
                         importe que fluctuará en función de la forma de la encimera, la longitud y metros a cubrir de la
                         misma, la complejidad de la obra o el tipo de microcemento que se aplique sobre ella.
 

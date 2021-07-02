@@ -456,7 +456,7 @@
             style="background-image:url('https://www.topciment.com/imagenes/toptools/background/tools_fondo_03.jpg'); "
             data-img-width="1920" data-img-height="1080" data-diff="100"></div>
         <a id="rodillo" class="ancla"></a>
-        <section>º
+        <section>
             <div class="container">
                 <div class="content">
                     <div class="row">
@@ -527,7 +527,7 @@
         <div><img class="imgde" src="https://www.topciment.com/imagenes/toptools/background/tools_fondo_900X443_02.jpg"
                 width="100%" alt="microcementos">
         </div>
-        <!-- start preguntas  -->
+        <!-- start preguntas -->
         <div id="separador50px">
         </div>
         <!-- Acricem End -->

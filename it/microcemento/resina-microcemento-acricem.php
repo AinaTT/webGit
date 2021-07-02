@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <meta name="Language" content="IT" />
 
 
 
@@ -24,7 +24,7 @@
 
     <meta property="og:title" content="Resina di microcemento | Resina acrilica a base acquosa Acricem">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/es/resina-microcemento-acricem">
+    <meta property="og:url" content="https://www.topciment.com/it/resina-microcemento-acricem">
     <meta property="og:description"
         content="Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente.">
     <meta property="og:type" content="article">
@@ -33,10 +33,10 @@
 
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/microcemento/resina-microcemento-acricem" />
+    <link rel="canonical" href="https://www.topciment.com/it/microcemento/resina-microcemento-acricem" />
 
-    <link rel="alternate" href="https://www.topciment.com/es/microcemento/resina-microcemento-acricem"
-        hreflang="es-ES" />
+    <link rel="alternate" href="https://www.topciment.com/it/microcemento/resina-microcemento-acricem"
+        hreflang="it-IT" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem" hreflang="fr-FR" />
     <link rel="alternate" href="https://topciment.com/en/microcements/resin-for-microcement-acricem" hreflang="en-GB" />
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/zywica-akrylowa-acricem" hreflang="pl-PL" />
@@ -83,7 +83,7 @@
   Può anche essere usato come primer, poiché Acricem è una resina acrilica a base d'acqua che consolida le superfici cementizie assorbenti.
 
 </p>  
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Acricem-ES.pdf"
+                            <a class="links" href="https://www.topciment.com/it/schede-tecniche/Acricem-IT.pdf"
                                 target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
@@ -276,7 +276,7 @@
         "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_5L_2021.jpg",
         "size": "5 L",
-        "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
+        "url": "https://www.topciment.com/it/microcemento/resina-microcemento-acricem",
         "sku": "TT01009",
         "gtin13": "8436575620107",
         
@@ -353,7 +353,7 @@
         "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/acricem/Acricem_25L_2021.jpg",
         "size": "25 L",
-        "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
+        "url": "https://www.topciment.com/it/microcemento/resina-microcemento-acricem",
         "sku": "TT01010",
         "gtin13": "8436575620114",
         "weight": "25kg",
@@ -429,7 +429,7 @@
         "description": "Resina acrilica che aumenta la resistenza meccanica. A base d'acqua, questa resina conferisce un'ulteriore durezza e flessibilità al microcemento bicomponente..",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/resina-microcemento-acricem",
+        "url": "https://www.topciment.com/it/microcemento/resina-microcemento-acricem",
         "sku": "TT01016",
         "gtin13": "8436575620718",
         

@@ -63,6 +63,60 @@
 
                             <div class="col-md-12 pr-0 pl-0 ">
                                 <div class="row">
+                                      <!-- Start bloques  noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5"> 
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="new/venetian-stucco-all-about-this-wall-decoration-technique">Venetian stucco: all about this wall decoration technique </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>29/06/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3" src="https://www.topciment.com/imagenes/news/pared-de-estuco-veneciano-en-salon.jpg" height="auto" />
+                                                                   Venetian stucco is one of the most widely used decorative techniques for walls and ceilings. Find out what it consists of, all its advantages and how to apply it correctly.
+
+                                                               <a href="new/venetian-stucco-all-about-this-wall-decoration-technique"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read more</a>
+                                                            </div> 
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia   -->
+                                        <!-- Start bloques  noticia -->
+                                    <div class="col-md-12 pr-0 pl-0 mb-5"> 
+                                        <div class="card">
+                                            <h2 class="card-header"> <a href="new/microcement-in-exteriors-floors-that-make-a-difference">
+                                   Microcement in exteriors: floors that make a difference </a>
+                                                <span class="float-right clocki"><i
+                                                        class="fa fa-clock-o mr-2"></i>22/06/2021</span>
+                                            </h2>
+                                            <div class="card-body">
+                                                <div class="paragraphs">
+                                                    <div class="row">
+                                                        <div class="span4">
+                                                            <div class="clearfix content-heading">
+                                                                <img class="pull-left mr-3"
+                                                                    src="https://www.topciment.com/img/microcemento/microcemento-exterior-sardinera.webp"
+                                                                    height="auto" />
+                                                              Outdoor microcement floors are a decorative trend on the rise. Find out about its advantages and make the most of a continuous paving that makes a difference.
+
+                                                               <a href="new/microcement-in-exteriors-floors-that-make-a-difference"
+                                                                    class="btn float-right btn-primary leermass mt-2">Read more</a>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End bloque noticia   -->
                                   <!-- Start bloques  noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
@@ -252,7 +306,7 @@
                                     <!-- Start bloques  noticia -->
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
-                                            <h2 class="card-header"> <a href="new/micrcoement-over-underfloor-heating">
+                                            <h2 class="card-header"> <a href="new/micrcocement-over-underfloor-heating">
                                                     Successfully applying microcement over underfloor heating</a>
                                                 <span class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2"></i>29/3/2021</span>
@@ -272,7 +326,7 @@
                                                                     installation with the advice of our technical team.
                                                                 </p>
 
-                                                                <a href="new/micrcoement-over-underfloor-heating"
+                                                                <a href="new/micrcocement-over-underfloor-heating"
                                                                     class="btn float-right btn-primary leermass mt-2">Read
                                                                     more</a>
                                                             </div>
@@ -710,9 +764,7 @@
                                     </div>
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
-                                            <h2 class="card-header"> <a href="new/sttandard-new">Topciment
-                                                    changes its image!</a> <span class="float-right clocki"><i
-                                                        class="fa fa-clock-o mr-2  "></i>13/01/2020</span></h2>
+                                            <h2 class="card-header"> <a href="new/sttandard-new">Topciment changes its image!</a> <span class="float-right clocki"><i class="fa fa-clock-o mr-2  "></i>13/01/2020</span></h2>
                                             <div class="card-body">
                                                 <div class="paragraphs">
                                                     <div class="row">
@@ -731,9 +783,7 @@
                                                                     Topciment.
 
                                                                 </p>
-                                                                <a href="new/sttandard-new"
-                                                                    class="btn float-right btn-primary leermass mt-2">Read
-                                                                    more</a>
+                                                                <a href="new/sttandard-new" class="btn float-right btn-primary leermass mt-2">Read more</a>
                                                             </div>
 
                                                         </div>
@@ -777,8 +827,7 @@
                                     </div>
                                     <div class="col-md-12 pr-0 pl-0 mb-5">
                                         <div class="card">
-                                            <h2 class="card-header" id="preciomicrocemento"> <a
-                                                    href="new/microcement-price">What is the price of microcement per square metre in 2021?</a> <span
+                                            <h2 class="card-header" id="preciomicrocemento"> <a href="new/microcement-price">What is the price of microcement per square metre in 2021?</a> <span
                                                     class="float-right clocki"><i
                                                         class="fa fa-clock-o mr-2  "></i>13/01/2020</span></h2>
                                             <div class="card-body">
@@ -789,12 +838,8 @@
                                                                 <img class="pull-left mr-3"
                                                                     src="https://www.topciment.com/imagenes/microcemento-topciment-imagen01.jpg"
                                                                     height="auto" />
-
-
-                                                                <p>Are you planning to cover walls or floors with microcement?  Find out what the price of  microcement   per square metre in 2021</p>
-                                                                    <a href="new/microcement-price"
-                                                                        class="btn btn-primary leermass mt-2 ml-0">Read
-                                                                        more</a>
+                                                            <p>Are you planning to cover walls or floors with microcement?  Find out what the price of  microcement   per square metre in 2021</p>
+                                                                    <a href="new/microcement-price" class="btn btn-primary leermass mt-2 ml-0">Read more</a>
 
                                                             </div>
 

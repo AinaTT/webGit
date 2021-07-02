@@ -13,7 +13,7 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Ideal conditions and substrates for the application of microcement.</title>
+    <title>Ideal conditions and substrates for the application of microcement</title>
     <meta name="description"
         content="Preparation of the substrate so that it meets the necessary conditions to apply microcement with guarantees on stoneware, terrazzo, hydraulic tile or marble." />
 

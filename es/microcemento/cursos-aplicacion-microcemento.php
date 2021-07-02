@@ -25,8 +25,7 @@
     <meta property="og:description" content="Tu futuro profesional nos importa. En Topciment te formamos con varios cursos de aplicación de microcemento, barnices y pinturas metálicas.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.topciment.com/imagenes/profesionales/cursos%20de%20aplicacion%20de%20microcemento.jpg">
-
-
+ 
     <link rel="canonical" href="https://www.topciment.com/es/microcemento/cursos-aplicacion-microcemento"/>
 
 <link rel="alternate" href="https://www.topciment.com/es/microcemento/cursos-aplicacion-microcemento" hreflang="es-ES"/>
@@ -49,8 +48,7 @@
                 <li><a href="#invertimos-en-tu-futuro">Invertimos en tu futuro</a></li>
                 <li><a href="#que-aprenderas">¿Qué aprenderas?</a></li>
                 <li><a href="#cursos">Cursos</a></li>
-                <li><a href="#modalidades">Modalidades</a></li>
-
+                <li><a href="#modalidades">Modalidades</a></li> 
                 <li> <a href="#maestros">Maestros aplicadores</a></li>
                 <li> <a href="#precio-duracion">Precio y duración</a></li>
                 <li> <a href="#donde-se-hacen">¿Dónde se hacen?</a></li>
@@ -93,9 +91,7 @@
 
                 <p>Disponemos de una amplia variedad de cursos para que encuentres justo lo que estás
                     buscando. Desde cursos de microcemento o barnices, hasta cursos de texturas o pinturas
-                    metálicas, entre otros. Descúbrelos todos. </p>
-
-
+                    metálicas, entre otros. Descúbrelos todos. </p> 
             </div>
         </div>
 
@@ -141,7 +137,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
                 <div class="card mb-3 mt-5 shadow  mb-5 bg-white rounded">
                     <div class="row no-gutters">
                         <div class="col-md-4 fondocurso2" "> 
@@ -156,7 +152,7 @@
                                     mejorar la productividad en la aplicación de microcemento al mismo
                                     tiempo que reducir lo máximo posible los costes. </p>
 
-                                <p class="card-text">De la mano del instructor César Orellana,
+                                <p class="card-text">De la mano del instructor César Or ellana,
                                     aprenderás a revestir más metros de superficie en un periodo
                                     menor. El curso de técnicas de aplicación de microcemento
                                     avanzadas durará aproximadamente 8 horas (1 h teoría + 7 h
@@ -226,8 +222,7 @@
                                 <p class="card-text">
 
                                 <div class="home_link mt-4">
-                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA
-                                        TU PLAZA</a>
+                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA TU PLAZA</a>
                                 </div>
                                 </p>
                             </div>
@@ -238,8 +233,7 @@
 
                 <div class=" card mb-3 mt-5 shadow mb-5 bg-white rounded">
                     <div class="row no-gutters">
-                        <div class="col-md-4 fondocurso9" "> 
-                                             
+                        <div class="col-md-4 fondocurso9">        
                           </div>
                            <div class=" col-md-8 fondoscuro">
                             <div class="card-body">
@@ -262,9 +256,7 @@
                                 </p>
                                 <p class="card-text">
 
-                                <div class="home_link mt-4">
-                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA
-                                        TU PLAZA</a>
+                                <div class="home_link mt-4"> <a href="https://training.topciment.com/#/customer/topciment">RESERVA TU PLAZA</a>
                                 </div>
                                 </p>
                             </div>
@@ -296,13 +288,11 @@
                                     crear acabados oxidados); o el sistema "Elitte" (gama de
                                     veladuras que ofrece acabados metálicos y acabados con purpurina),
                                     entre otros. </p>
-                                <p>El curso durará aproximadamente 8 horas
-                                    (1 h teoría + 7 h práctica).</p>
+                                <p>El curso durará aproximadamente 8 horas (1 h teoría + 7 h práctica).</p>
                                 <p class="card-text">
 
                                 <div class="home_link mt-4">
-                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA
-                                        TU PLAZA</a>
+                                    <a href="https://training.topciment.com/#/customer/topciment">RESERVA TU PLAZA</a>
                                 </div>
                                 </p>
                             </div>
@@ -346,7 +336,7 @@
                     aplicador. </p>
                 <p>Para que el aprendizaje sea lo más completo posible, <strong>es
                         fundamental elegir el curso que mejor se ajuste a tus habilidades.</strong>
-                    Todos nuestros cursos de aplicación de microcemento y revestimientos continuos son
+                    Todos nuestros cursos de <strong><a class="links" href="como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación de microcemento</a></strong> y revestimientos continuos son
                     impartidos por maestros aplicadores con muchos años de experiencia y están
                     disponibles en cuatro modalidades: presencial, formación en obra, online y
                     videotutoriales.
@@ -409,7 +399,6 @@
                                 </div>
                             </div>
                             <div class="col-md-4 fondocurso11">
-
                             </div>
                         </div>
                     </div>
@@ -417,8 +406,7 @@
                         <div class="row no-gutters">
                             <div class="col-md-8">
                                 <div class="card-body">
-                                    <h3 class="card-title">Cursos
-                                        online</h5>
+                                    <h3 class="card-title">Cursos  online</h5>
                                         <p class="card-text  ">Todos los cursos presenciales que
                                             impartimos de aplicación de microcemento, barnices y
                                             acabados decorativos pueden realizarse también desde
@@ -446,12 +434,10 @@
                         </div>
                     </div>
                     <div class=" card mb-3 mt-5 shadow mb-5 bg-white rounded">
-                        <div class="row no-gutters">
-
+                        <div class="row no-gutters"> 
                             <div class=" col-md-8">
                                 <div class="card-body">
-                                    <h3 class="card-title">
-                                        Videotutoriales</h3>
+                                    <h3 class="card-title">Videotutoriales</h3>
                                     <p class="card-text">Contamos con videotutoriales para aquellas personas que
                                         estén interesadas en prender cosas muy concretas de la aplicación de microcemento.
                                     </p>
@@ -480,8 +466,7 @@
 
                 <a id="maestros" class="ancla"></a>
 
-                <h2 class="mt-5">Maestros aplicadores Topciment</h2>
-
+                <h2 class="mt-5">Maestros aplicadores Topciment</h2> 
 
                 <p>Lo más importante para nosotros es proporcionar a
                     los
@@ -514,8 +499,7 @@
                                 pinturas metálicas y óxidos, es capaz de
                                 revestir
                                 desde paredes y suelos a muebles, coches e
-                                incluso guitarras eléctricas. </p>
-
+                                incluso guitarras eléctricas. </p> 
                         </div>
                     </div>
                     <!-- End-->
@@ -565,9 +549,7 @@
                     mera introducción de los revestimientos continuos, y
                     superior en los cursos avanzados.
                 </p>
-
-
-
+ 
                 <p> <strong>El coste del material,</strong> que Topciment
                     proporciona a cada profesional para la realización del
                     curso, es otro de los elementos que influyen en el
@@ -582,7 +564,7 @@
                 <a id="donde-se-hacen" class="ancla"></a>
 
                 <h2 class="mt-5">¿Dónde se realizan los cursos de microcemento?</h2>
-                <p>Los cursos de aplicación de microcemento de
+                <p>Los cursos de <a class="links" href="./como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación de microcemento</a> de
                     Topciment se llevan a cabo en unas <strong>modernas
                         instalaciones </strong> dotadas de <strong>4.000
                         metros cuadrados.</strong></p>
@@ -595,7 +577,7 @@
                     la que cada
                     profesional posee un espacio de trabajo adecuado.
                 </p>
-                <p>Nuestra fábrica de microcemento está ubicada en la
+                <p>Nuestra <a class="links" href="fabricante-microcemento">fábrica</a> de microcemento está ubicada en la
                     <strong> Calle Viena 31 del Polígono Industrial Mas de
                         Tous
                         de Pobla de Vallbona (València).</strong>

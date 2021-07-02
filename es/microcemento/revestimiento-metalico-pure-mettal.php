@@ -111,7 +111,7 @@ recubrimientos metálicos. Un producto innovador con el que conseguirás acabado
                                     Pero hay mucho más. <strong> También es posible dotar a las superficies de acabados
                                         oxidados</strong> ,
                                     al más puro estilo vintage. ¿Cómo? Con nuestro acelerador de óxido
-                                    <strong><a class="links" href="agente-oxidante-mettal-activator"> Mettal
+                                    <strong><a class="links" href="activador-de-oxido-mettal-activator"> Mettal
                                             Activator</a>.</strong>
 
                                 </p>
@@ -213,11 +213,11 @@ recubrimientos metálicos. Un producto innovador con el que conseguirás acabado
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <figure class="figure"><a href="agente-oxidante-mettal-activator" target="_blank"><img
+                            <figure class="figure"><a href="activador-de-oxido-mettal-activator" target="_blank"><img
                                         src="https://www.topciment.com/imagenes/pure-mettal/Mettal_Activator.jpg"
                                         class="img-fluid" alt="Mettal Activator" title="Mettal Activator"></a>
                                 <figcaption class="text-center"><a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator"><strong>Mettal Activator</strong></a>
+                                        href="activador-de-oxido-mettal-activator"><strong>Mettal Activator</strong></a>
                                 </figcaption>
                             </figure>
                         </div>

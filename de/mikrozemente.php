@@ -214,16 +214,13 @@
                 <p>mikrozement  in Küchen kann auf viele Arten verwendet werden. Es kann Böden und Wände, Decken,
                     Waschbecken und Küchenarbeitsplatten in praktisch jeder erdenklichen Farbe bedecken.
                     mikrozement küchen in allen Stilen und Größen. Wir laden Sie ein, es in unserem Blogartikel über
-                    <strong> <a class="links"
-                            href="neuigkeit/mikrozement-kuchen-vorteile-stil-ratschlage">mikrozement küchen
-                            nachzulesen</a></strong> .
+                    <strong> <a class="links" href="neuigkeit/mikrozement-kuchen-vorteile-stil-ratschlage">mikrozement küchen nachzulesen</a></strong>.
                 </p>
 
                 <h3>mikrozement treppe</h3>
                 <p>Die Vielseitigkeit von mikrozement  erlaubt es, ihn sogar auf Treppen zu verwenden, obwohl die Arbeit
                     des Verarbeiters etwas komplexer ist. Mit Topciment mikrozement en
-                    können Sie spektakuläre mikrozement treppen entwerfen. Erfahren Sie sie in unserem Post über
-                    mikrozement treppen .
+                    können Sie spektakuläre mikrozement treppen entwerfen. Erfahren Sie sie in unserem <strong><a class="links" href="neuigkeit/mikrozementtreppen-wie-sie-richtig-abgedeck-werden">Post über mikrozement treppen</a></strong>.
                 </p>
 
                 <h3>mikrozement -Schwimmbecken</h3>

@@ -26,10 +26,6 @@
     <meta property="og:description" content="Résine acrylique qui augmente la résistance mécanique . A base d'eau , cette résine confèrent une dureté et flexibilité au béton ciré  bicomposant">
     <meta property="og:type" content="article">
     <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
-    <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
-    <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
-    <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
-    <meta property="og:image" content=" https://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpgg">
 
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/resine-beton-cire-acricem"/>
@@ -74,17 +70,24 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h1>Résine pour béton ciré  </h1>
-                            <p> Acricem est une résine qui confère adhérence, dureté et flexibilité aux revêtements de béton ciré  . Cette résine acrylique et à base d'eau est particulièrement indiquée pour accompagner nos systèmes de béton ciré  à deux composants: Sttandard, Unlimited et Atlanttic.
+                            <h1>Résine   acrylique  pour béton ciré  </h1>
+                          <p>
+                             Acricem est une résine qui confère adhérence, dureté et flexibilité aux revêtements de béton ciré . Cette résine acrylique et à base d'eau est particulièrement indiquée pour accompagner nos systèmes de béton ciré à deux composants: Sttandard, Unlimited et Atlanttic.
 
-                            </p>
-                            <p>Cette résine pour béton ciré  sans solvant améliore considérablement la résistance mécanique ainsi que l'imperméabilité du mortier. De plus, il réduit l'apparition possible de fissures de retrait.</p>
-                            <p>Il peut également être utilisé comme apprêt, car Acricem est une résine qui permet de consolider les surfaces absorbantes à base de ciment.</p>
-                            <!--    <a class="links" href="https://www.topciment.com/fiches-techniques/Primacem-ES.pdf" target="_blank"><span class="fa-stack">
+                          </p>  
+<p>
+  Cette résine pour béton ciré sans solvant améliore considérablement la résistance mécanique ainsi que l'imperméabilité du mortier. De plus, il réduit l'apparition possible de fissures de retrait.
+
+</p>  
+<p>
+  Il peut également être utilisé comme apprêt, car Acricem est une résine qui permet de consolider les surfaces absorbantes à base de ciment.
+   
+</p>
+                            <a class="links" href="https://www.topciment.com/fr/fiches-techniques/Acricem-FR.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>
                                 <strong> Téléchargez ici la fiche technique Acricem</strong>
-                            </a> -->
+                            </a>  
                         </div>
                     </div>
                     <!-- Tipos de cubos -->

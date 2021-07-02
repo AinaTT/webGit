@@ -40,7 +40,7 @@
     <link rel="alternate" href="https://www.topciment.com/en/microcements/primers-and-adhesion-promoters-primacem"
         hreflang="en-GB" />
     <link rel="alternate"
-        href="https://www.topciment.com/es/microcemento/imprimacione-y-promotores-de-adherencia-primacem"
+        href="https://www.topciment.com/es/microcemento/imprimaciones-y-promotores-de-adherencia-primacem"
         hreflang="es-ES" />
 
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/promoteurs-dadherence-primacem"

@@ -78,10 +78,9 @@
 
                     </p>
                     <p>
-                        Un material de construcción cuya <strong>aplicación</strong> está únicamente reservada a un
-                        <strong>profesional con experiencia.</strong> Ya que, de lo contrario, se pueden cometer errores
-                        en la instalación que acaben
-                        degenerando en problemas del microcemento. Es por ello que existen todo tipo de opiniones acerca
+                        Un material de construcción cuya 
+                        <strong><a class="links" href="../microcemento/como-aplicar-microcemento-aplicacion-de-microcemento-paso-a-paso">aplicación</a></strong> está únicamente reservada a un
+                        <strong>profesional con experiencia.</strong> Ya que, de lo contrario, se pueden cometer errores en la instalación que acaben degenerando en problemas del microcemento. Es por ello que existen todo tipo de opiniones acerca
                         de este recubrimiento.
 
                     </p>
@@ -241,7 +240,7 @@
                         <figcaption class="figure-caption">Imagen del restaurante Nacionsushi de Valencia con el
                             pavimento revestido con nuestro microcemento.</figcaption>
                     </figure>
-                    <h2>Ventajas  y desventajas del microcemento </h2>
+                    <h2> Problemas del microcemento más comunes </h2>
 
                     <p>
                         Hay que remarcar que<strong> si se utiliza un material de calidad</strong> y la<strong>
@@ -252,7 +251,7 @@
                         estado del soporte que sirve de base del nuevo revestimiento.
 
                     </p>
-                    <h3>Efectuar errores en la aplicación del microcemento</h3>
+                    <h3>Problemas del microcemento por una mala aplicación</h3>
 
                     <p>
                         La aplicación del microcemento tiene unos pasos muy marcados. <strong>Alterar el orden o cometer
@@ -331,7 +330,7 @@
                         <figcaption class="figure-caption">Restaurante con microcemento blanco en la pared y
                             microcemento gris en el suelo.</figcaption>
                     </figure>
-                    <h3> Reparación incorrecta superficie </h3>
+                    <h3> Problemas del microcemento por una mala reparación de la superficie</h3>
 
                     <p>
                         Cuando es necesario arreglar el microcemento por alguno de los errores previamente descritos o,

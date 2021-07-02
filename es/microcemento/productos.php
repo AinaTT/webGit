@@ -215,11 +215,7 @@
                 <div class="col-md-5 col-12">
                     <h2 class="sh2">Microcemento listo al uso</h2>
                     <p class="textos">
-                        Es el microcemento listo al uso. Es un material acrílico que ofrece acabados
-                        decorativos
-                        naturales de alta calidad e inimitables. Permite reducir el efecto de aguas manteniendo la
-                        textura propia
-                        del microcemento.
+                        Es el microcemento listo al uso. Es un material acrílico que ofrece acabados decorativos naturales de alta calidad e inimitables. Permite reducir el efecto de aguas manteniendo la textura propia del microcemento.
                     </p>
                 </div>
                 <!-- Products Efectto -->
@@ -280,7 +276,7 @@
                         </div>
                         <div class="col-md-12 col-4 p-0">
                             <a href="revestimiento-metalico-pure-mettal#puremetal-aluminium" class="vermas2"><strong>Brass</strong></a> <br>
-                            <a href="agente-oxidante-mettal-activator" class="vermas2"><strong>Activator</strong></a>
+                            <a href="activador-de-oxido-mettal-activator" class="vermas2"><strong>Activator</strong></a>
                         </div>
                     </div>
                 </div>
@@ -322,7 +318,7 @@
                         </div>
                         <div class="col-md-12 col-4 p-0">
                             <a href="pinturas-metalicas-efecto-oxido-classic-mettal" class="vermas2"><strong>Brass</strong></a> <br>
-                            <a href="agente-oxidante-mettal-activator" class="vermas2"><strong>Activator</strong></a>
+                            <a href="activador-de-oxido-mettal-activator" class="vermas2"><strong>Activator</strong></a>
                         </div>
                     </div>
                 </div>
@@ -403,7 +399,7 @@
             <div class="row altofam">
                 <!-- Logo Primacem -->
                 <div class="col-md-5 col text-center ">
-                    <a class="font1as" href="imprimacione-y-promotores-de-adherencia-primacem">PRIMACEM</a>
+                    <a class="font1as" href="imprimaciones-y-promotores-de-adherencia-primacem">PRIMACEM</a>
                 </div>
                 <!-- Description Primacem -->
                 <div class="col-md-5">
@@ -418,15 +414,15 @@
                 <div class="col-md-2">
                     <div class="row mb-2">
                         <div class="col-md-12 col-6 p-0">
-                            <a href="imprimacione-y-promotores-de-adherencia-primacem#primacem" class="vermas">
+                            <a href="imprimaciones-y-promotores-de-adherencia-primacem#primacem" class="vermas">
                                 <strong>Primacem Fix</strong></a><br>
-                            <a href="imprimacione-y-promotores-de-adherencia-primacem#primacem-plus" class="vermas">
+                            <a href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus" class="vermas">
                                 <strong>Primacem Plus</strong></a><br>
-                            <a href="imprimacione-y-promotores-de-adherencia-primacem#primacem-impoxy" class="vermas"><strong>Impoxy A+B</strong></a>
+                            <a href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-impoxy" class="vermas"><strong>Impoxy A+B</strong></a>
                         </div>
                         <div class="col-md-12 col-6 p-0">
-                            <a href="imprimacione-y-promotores-de-adherencia-primacem#primacem-abs" class="vermas"><strong>Primacem ABS</strong></a> <br>
-                            <a href="imprimacione-y-promotores-de-adherencia-primacem#primacem-grip" class="vermas">
+                            <a href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-abs" class="vermas"><strong>Primacem ABS</strong></a> <br>
+                            <a href="imprimaciones-y-promotores-de-adherencia-primacem#primacem-grip" class="vermas">
                                 <strong>Primacem Grip</strong></a>
                         </div>
 

@@ -366,12 +366,10 @@ Innerhalb dieser Linie finden wir die dreizehn Grundfarben:</p><br>
                 title="Perfil de aluminio" alt="Perfil de aluminio">
             </div>
             <!-- descripcion -->
-            <div class="col-md-6">
-              <p>
-                <h2>Arcocem Plus Mikrozement-Pigmente</h2>
-              <p>
-Arcocem Plus ist die Bezeichnung für die Einzeldosen der Mikrozementpigmente von Topciment. Diese ermöglichen es uns, alle Farben des Mikrozements zu erhalten, die die Farbkarten Topciment bilden. Ein Brief, der 34 Farben für die Mikrozementsysteme Sttandard, Unlimitted und Evoluttion enthält; und eine weitere Farbkarte mit 16 Pigmenten für unseren gebrauchsfertigen Mikrozement Efectto.
-</p>
+            <div class="col-md-6"> 
+              <h2>Arcocem Plus Mikrozement-Pigmente</h2>
+              <p>Arcocem Plus ist die Bezeichnung für die Einzeldosen der Mikrozementpigmente von Topciment. Diese ermöglichen es uns, alle Farben des Mikrozements zu erhalten, die die Farbkarten Topciment bilden. Ein Brief, der 34 Farben für die Mikrozementsysteme Sttandard, Unlimitted und Evoluttion enthält; und eine weitere Farbkarte mit 16 Pigmenten für unseren gebrauchsfertigen Mikrozement Efectto.</p>
+
                   <a class="links" href="https://www.topciment.com/de/technische-datenblatter/ArcocemPLUS-DE.pdf"
                   target="_blank"> <span class="fa-stack">
                     <i class="fas fa-file-pdf fa-stack-1x"></i>

@@ -128,11 +128,11 @@
                             microcemento.</strong> Si la
                         superficie base es absorbente, como puede ser el hormigón o autonivelante, se empleará <a
                             class="links"
-                            href="https://www.topciment.com/es/microcemento/imprimacione-y-promotores-de-adherencia-primacem#primacem-abs">
+                            href="https://www.topciment.com/es/microcemento/imprimaciones-y-promotores-de-adherencia-primacem#primacem-abs">
                             PRIMACEM
                             ABS </a> ; si por el contrario es no absorbente como puede ser terrazo, azulejo o mármol, se
                         utilizará <a class="links"
-                            href="https://www.topciment.com/es/microcemento/imprimacione-y-promotores-de-adherencia-primacem#primacem-plus">PRIMACEM
+                            href="https://www.topciment.com/es/microcemento/imprimaciones-y-promotores-de-adherencia-primacem#primacem-plus">PRIMACEM
                             PLUS</a>.</p>
 
                     <h3>3. Primera capa de microcememento base</h3>
@@ -270,11 +270,7 @@
                         importantes o que perjudiquen a la resina y, por último, mover muebles de aquí para allá. Si se
                         tienen en cuenta todos estos consejos, no habrá problemas futuros en los suelos de microcemento.
                     </p>
-                    <p>Para más información sobre el microcemento, explora nuestra página ¿Qué es el microcemento?  <a href="https://www.topciment.com/es/microcementos"> ¿Qué es el 
-                    
-                    microcemento?</a>. En ella resolvemos algunas de las preguntas más frecuentes sobre este
-                        revesimiento.
-                    </p>
+                   <p>Para más información sobre el microcemento, explora nuestra página <strong><a class="links" href="../microcementos" >¿Qué es el microcemento?</a></strong> En ella resolvemos algunas de las preguntas más frecuentes sobre este revestimiento decorativo.</p>
                     <div class="interest">
 
 

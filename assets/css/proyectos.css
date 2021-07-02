@@ -32,6 +32,9 @@
     font-weight: bold;
 }
 
+.items .col-md-6{
+    margin-bottom: 28px;
+}
 /* movilcss */
 @media screen and (max-width:480px) {}
 

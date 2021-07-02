@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <meta name="Language" content="IT" />
 
 
     <?php include("../../assets/includes/styles.php"); ?>
@@ -20,7 +20,7 @@
     <title>Calcolatore prezzi microcemento, vernici, primer e Colori</title>
     <meta name="description"
         content="Vuoi applicare il microcemento e non sai quanto materiale ti serve? Con il nostro calcolatore saprete la quantità secondo la superficie da rivestire, m2 e colore del microcemento." />
-    <link rel="canonical" href="https://www.topciment.com/es/calc/" />
+    <link rel="canonical" href="https://www.topciment.com/it/calc/" />
 
 
 

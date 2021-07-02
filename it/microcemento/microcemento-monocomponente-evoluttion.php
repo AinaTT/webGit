@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="ES" />
+    <meta name="Language" content="IT" />
 
 
     <?php include("../../assets/includes/styles.php"); ?>
@@ -24,7 +24,7 @@
 
     <meta property="og:title" content="Microcemento monocomponente: Evoluttion">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion">
+    <meta property="og:url" content="https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion">
     <meta property="og:description"
         content="Il microcemento Evoluttion è il microcemento monocomponente di Topciment. Fornisce una buona resistenza meccanica e semplifica la miscelazione per evitare errori.">
     <meta property="og:type" content="article">
@@ -32,10 +32,10 @@
 
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion" />
+    <link rel="canonical" href="https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion" />
 
-    <link rel="alternate" href="https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion"
-        hreflang="es-ES" />
+    <link rel="alternate" href="https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion"
+        hreflang="it-IT" />
     <link rel="alternate" href="https://www.topciment.com/en/microcements/one-component-microcement-evoluttion"
         hreflang="en-GB" />
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/beton-cire-monocomposant-evoluttion"
@@ -150,7 +150,7 @@ In ogni caso, le soluzioni decorative offerte da questo rivestimento al professi
 Evoluttion Microbase è disponibile in 3 granulometrie: L, XL e XXL.
   
                             <a class="links"
-                                href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrobaseMN_ES.pdf"
+                                href="https://www.topciment.com/it/schede-tecniche/Evoluttion_MicrobaseMN_IT.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span>Scarica qui la scheda tecnica di
@@ -312,7 +312,7 @@ Evoluttion Microbase è disponibile in 3 granulometrie: L, XL e XXL.
     Evoluttion Microfino è disponibile in 3 granulometrie: XS, S e M.                     
      
 </p>                           <a class="links"
-                                href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrofinoMN_ES.pdf"
+                                href="https://www.topciment.com/it/schede-tecniche/Evoluttion_MicrofinoMN_IT.pdf"
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -468,7 +468,7 @@ Evoluttion Microbase è disponibile in 3 granulometrie: L, XL e XXL.
     Evoluttion Microdeck è disponibile in 2 granulometrie: M e L.    
       
 </p>                          <a class="links"
-                                href="https://www.topciment.com/fichas-tecnicas/Evoluttion_MicrodeckMN_ES.pdf"
+                                href="https://www.topciment.com/it/schede-tecniche/Evoluttion_MicrodeckMN_IT.pdf"
                                 target="_blank" style="font-weight: 700;">
                                 <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
@@ -1174,11 +1174,11 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
         <!-- Colores End -->
         <div><img class="imgiz"
                 src="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_900X443_01.jpg"
-                width="100%" alt="microcementos">
+                width="100%" alt="microcementi">
         </div>
         <div><img class="imgde"
                 src="https://www.topciment.com/imagenes/evoluttion/background/evoluttion_fondo_900X443_02.jpg"
-                width="100%" alt="microcementos">
+                width="100%" alt="microcementi">
         </div>
         <div id="separador50px">
         </div>
@@ -1288,7 +1288,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_L.jpg",
         "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
         "sku": "TT01114",
         "gtin13": "8436575625041",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1376,7 +1376,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XL.jpg",
         "size": "XL",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
         "sku": "TT01120",
         "gtin13": "8436575620633",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1465,7 +1465,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microbase_XXL.jpg",
         "size": "XXL",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microbase",
         "sku": "TT01119",
         "gtin13": "8436575620640",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1646,7 +1646,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
              "description": "Microcemento Monocomponente terminación para paredes y superficies verticales no transitables",
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_XS.jpg",
         "size": "XS",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
         "sku": "TT01122",
         "gtin13": "8436575620688",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1735,7 +1735,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_S.jpg",
         "size": "S",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
         "sku": "TT01118",
         "gtin13": "8436575620299",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1825,7 +1825,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microfino_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microfino",
         "sku": "TT01123",
         "gtin13": "8436575620695",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -2006,7 +2006,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
              "description": "Microcemento Monocomponente de terminación para el revestimiento de suelos de interior",
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
         "sku": "TT01117",
         "gtin13": "8436575625034",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -2095,7 +2095,7 @@ Applicazione del microcemento monocomponente Evoluttion sui muri</strong></a></h
 
         "image": "https://www.topciment.com/imagenes/evoluttion/Topciment_Cubo_Evoluttion_Microdeck_L.jpg",
         "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-monocomponente-evoluttion#evoluttion-microdeck",
         "sku": "TT01121",
         "gtin13": "8436575620671",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="it">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width"/>
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
+    <meta name="Language" content="IT"/>
 
 
 
@@ -25,15 +25,15 @@
 
     <meta property="og:title" content="Microcemento bicomponente tradizionale: Sttandard">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard">
+    <meta property="og:url" content="https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard">
     <meta property="og:description" content="Il microcemento Sttandard è il nostro tradizionale microcemento bicomponente. Un rivestimento molto versatile che offre texture uniche.">
     <meta property="og:type" content="article">
 
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard"/>
+    <link rel="canonical" href="https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard"/>
 
-     <link rel="alternate" href="https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard" hreflang="es-ES"/>
+     <link rel="alternate" href="https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard" hreflang="it-IT"/>
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/beton-cire-bicomposant-sttandard" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/en/microcements/two-component-microcement-sttandard" hreflang="en-GB"/>
     <link rel="alternate" href="https://topciment.com/pl/mikrocement/mikrocement-dwuskladnikowy-sttandard" hreflang="pl-PL" />
@@ -146,7 +146,7 @@
   Sttandard Microbase è disponibile in 3 granulometrie: L, XL e XXL
      
 </p>                 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrobaseBI-ES.pdf" target="_blank"> <span class="fa-stack">
+                            <a class="links" href="https://www.topciment.com/it/schede-tecniche/MicrobaseBI-IT.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microbase</strong>
@@ -284,7 +284,7 @@
     
 </p>
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrofinoBI-ES.pdf" target="_blank"> <span class="fa-stack">
+                            <a class="links" href="https://www.topciment.com/it/schede-tecniche/MicrofinoBI-IT.pdf" target="_blank"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microfino</strong>
@@ -415,7 +415,7 @@
   Sttandard Microdeck è disponibile in 2 granulometrie: M e L.
      
 </p>
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrodeckBI-ES.pdf" target="_blank"><span class="fa-stack">
+                            <a class="links" href="https://www.topciment.com/it/schede-tecniche/MicrodeckBI-IT.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Scarica qui la scheda tecnica di Sttandard Microdeck</strong>
                             </a>
@@ -544,7 +544,7 @@
   Sttandard Microstone è disponibile in 2 granulometrie: L e XL.
      
 </p> 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/MicrostoneBI-ES.pdf" target="_blank"><span class="fa-stack">
+                            <a class="links" href="https://www.topciment.com/it/schede-tecniche/MicrostoneBI-IT.pdf" target="_blank"><span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
                                 </span><strong>Scarica qui la scheda tecnica di
                                     Sttandard Microstone</strong>
@@ -1056,9 +1056,9 @@
             </div>
         </section>
         <!-- Colores End -->
-        <div><img class="imgiz" src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_01.jpg" width="100%" alt="microcementos">
+        <div><img class="imgiz" src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_01.jpg" width="100%" alt="microcementi">
         </div>
-        <div><img class="imgde" src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_02.jpg" width="100%" alt="microcementos">
+        <div><img class="imgde" src="https://www.topciment.com/imagenes/sttandard/background/sttandard_fondo_900X443_02.jpg" width="100%" alt="microcementi">
         </div>
         <div id="separador50px">
         </div>
@@ -1160,7 +1160,7 @@
      "name": "Microcemento Bicomponente Sttandard Microbase L",
 	  "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_L.jpg",
-	"url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
+	"url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
 	"sku": "TT01001",
   "gtin13":"8436575620015",  
     "size": "L",
@@ -1233,7 +1233,7 @@
 	    "name": "Microcemento Bicomponente Sttandard Microbase XL",
 	  "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XL.jpg",
-	"url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
+	"url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
 	"sku": "TT01017",  
   "gtin13":"8436575624617",
     "size": "XL",
@@ -1306,7 +1306,7 @@
  "name": "Microcemento Bicomponente Sttandard Microbase XXL",
 	  "description": "Microcemento Bicomponente de preparación utilizado para el revestimiento continuo de bajo espesor en suelos y paredes",
 	  "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microbase_Azul_XXL.jpg",
-	"url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
+	"url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microbase",
 	"sku": "TT01018",
   "gtin13":"8436575624815",
     "size": "XXL",
@@ -1462,7 +1462,7 @@
         "description": "Microcemento Bicomponente de terminación para paredes y superficies verticales no transitables",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_XS.jpg",
         "size": "XS",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
         "sku": "TT01015",
         "gtin13": "8436575620701",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1539,7 +1539,7 @@
         "description": "Microcemento Bicomponente de terminación para paredes y superficies verticales no transitables",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_S.jpg",
         "size": "S",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
         "sku": "TT01004",
         "gtin13": "8436575620046",
         
@@ -1617,7 +1617,7 @@
         "description": "Microcemento Bicomponente de terminación para paredes y superficies verticales no transitables",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microfino_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microfino",
         "sku": "TT01016",
         "gtin13": "8436575620718",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1776,7 +1776,7 @@
         "description": "Microcemento Bicomponente de terminación para el revestimiento de suelos de interior",
         "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_M.jpg",
         "size": "M",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microdeck",
         "sku": "TT01005",
         "gtin13": "8436575620053",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -1853,7 +1853,7 @@
         "description": "Microcemento Bicomponente de terminación para el revestimiento de suelos de interior",
         "image": "https://www.topciment.com/imagenes/sttandard/Sttandard_Microdeck_Azul_L.jpg",
         "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microdeck",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microdeck",
         "sku": "TT01012",
         "gtin13": "8436575620138",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -2014,7 +2014,7 @@
         "description": "Microcemento Bicomponente de terminación para zonas exteriores",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_L.jpg",
         "size": "L",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microstone",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microstone",
         "sku": "TT01024",
         "gtin13": "8436575620756",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
@@ -2091,7 +2091,7 @@
         "description": "Microcemento Bicomponente de terminación para zonas exteriores",
         "image": "https://www.topciment.com/imagenes/sttandard/Topciment_Cubo_Sttandard_Microstone_XL.jpg",
         "size": "XL",
-        "url": "https://www.topciment.com/es/microcemento/microcemento-bicomponente-sttandard#sttandard-microstone",
+        "url": "https://www.topciment.com/it/microcemento/microcemento-bicomponente-sttandard#sttandard-microstone",
         "sku": "TT01006",
         "gtin13": "8436575620060",
         "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",

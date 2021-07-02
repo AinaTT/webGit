@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="../../assets/css/proyecto.css" />
 
 
-    <title>Images of large surfaces. Renovation with microcement.</title>
+    <title>Images of large surfaces. Renovation with microcement</title>
     <meta name="description"
         content="Photos of spaces with microcement. Interiors with continuous paving. Microcement floors." />
 

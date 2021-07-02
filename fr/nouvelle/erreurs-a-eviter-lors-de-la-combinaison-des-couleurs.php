@@ -114,8 +114,8 @@
                         l'occasion de donner libre cours à l'imagination.</p>
                     <img src="https://www.topciment.com/imagenes/combinar-colores/colores-microcemento-3.jpg" width="100%" alt="Not make a differentiation between spaces">
                     <h3>Erreur 4 - Ne pensez qu'aux murs</h3>
-                    <p>Nous devons nous rappeler que la décoration n'implique pas seulement <a href="https://www.topciment.com/en/systems.html">les sols et les murs,
-                        </a>it
+                    <p>Nous devons nous rappeler que la décoration n'implique pas seulement les sols et les murs,
+ it
                         peut également être utilisé dans les plinthes, les portes, les meubles ou les
                         toits. Créer un
                         frontière

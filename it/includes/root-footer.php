@@ -7,52 +7,52 @@
                  <ul class="ulF productosF">
                      <li class="sttandardF"><a class="linkB" href="microcemento/microcemento-bicomponente-sttandard">Microcemento bicomponente</a></li>
                      <li class="evoluttionF"><a class="linkB" href="microcemento/microcemento-monocomponente-evoluttion">Microcemento monocomponente</a></li>
-                     <li class="efecF"><a class="linkB" href="microcemento/microcemento-listo-al-uso-efectto">Microcemento pronto all'uso</a></li>
-                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Rivestimento metallico</a></li>
-                     <li class="classicF"><a class="linkB" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">Vernici metallizzate</a></li>
-                     <li class="elitteF"><a class="linkB" href="microcemento/veladuras-metalicas-elitte">elature e pigmenti metalizzati</a></li>
-                     <li class="primacemF"><a class="linkB" href="microcemento/imprimacione-y-promotores-de-adherencia-primacem">Promotori d'adesione</a>
+                     <li class="efecF"><a class="linkB" href="microcemento/microcemento-pronto-alluso">Microcemento pronto all'uso</a></li>
+                     <li class="puremF"><a class="linkB" href="microcemento/rivestimento-metallico-pure-mettal">Rivestimento metallico</a></li>
+                     <li class="classicF"><a class="linkB" href="microcemento/vernici-metalliche-ossido-effetto-classic-mettal">Vernici metallizzate</a></li>
+                     <li class="elitteF"><a class="linkB" href="microcemento/smalti-metallici-elitte">elature e pigmenti metalizzati</a></li>
+                     <li class="primacemF"><a class="linkB" href="microcemento/primer-e-promoteri-di-adhesion-primacem">Promotori d'adesione</a>
                      </li>
-                     <li class="arcocemF"><a class="linkB" href="microcemento/pigmentos-para-microcemento-arcocem">Pigmenti</a></li>
-                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Primers</a></li>
-                     <li class="limpieF"><a class="linkB" href="microcemento/limpieza-y-cuidado-del-microcemento">Pulizia e cura del microcemento</a></li>
-                     <li class="herramF"><a class="linkB" href="microcemento/herramientas-microcemento">Strumenti</a></li>
+                     <li class="arcocemF"><a class="linkB" href="microcemento/pigmenti-per-microcement-arcocem">Pigmenti</a></li>
+                     <li class="topsealerF"><a class="linkB" href="microcemento/vernice-poliuretano-acrilico-acqua-topsealer">Primers</a></li>
+                     <li class="limpieF"><a class="linkB" href="microcemento/pulizia-e-cura-del-microcemento">Pulizia e cura del microcemento</a></li>
+                     <li class="herramF"><a class="linkB" href="microcemento/attrezzi-microcemento">Strumenti</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col2F">
                  <p class="tituloF proyectosF"><strong>PROGETTI</strong></p>
                  <ul class="ulF proyectos">
-                     <li class=""><a class="linkB" href="microcemento/galeria#paredes">Microcemento sui muri</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#suelos">Pavimenti in microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#banyos">Bagni in microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#cocinas">Microcemento nelle cucine</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#escaleras">Scale in microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#piscinas">Piscine in microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#exterior">Microcemento esterno</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#paredes">Microcemento sui muri</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#suelos">Pavimenti in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#banyos">Bagni in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#cocinas">Microcemento nelle cucine</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#escaleras">Scale in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#piscinas">Piscine in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#exterior">Microcemento esterno</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col3F">
                  <p class="tituloF"><strong>PROFESSIONALI</strong></p>
                  <ul class="ulF profesionalesF">
-                 <li class="cursosF"><a class="linkB" href="microcemento/cursos-aplicacion-microcemento">Corsi di microcemento</a></li>
-                     <li class="distriF"><a class="linkB" href="distribuidores">Distributori</a></li>
-                     <li class="garantF"><a class="linkB" href="garantia">Garanzia</a></li>
-                     <li class="fichatF"><a class="linkB" href="fichas-tecnicas">Schede tecniche</a> </li>
-                     <li class="descargasF"><a class="linkB" href="proyectos">Progetti</a></li>
+                 <li class="cursosF"><a class="linkB" href="microcemento/corsi-applicazione-microcemento">Corsi di microcemento</a></li>
+                     <li class="distriF"><a class="linkB" href="distributori">Distributori</a></li>
+                     <li class="garantF"><a class="linkB" href="garanzia">Garanzia</a></li>
+                     <li class="fichatF"><a class="linkB" href="schede-tecniche-garanzia">Schede tecniche</a> </li>
+                     <li class="descargasF"><a class="linkB" href="progetti">Progetti</a></li>
                      <li class="calcF"><a class="linkB" href="calc/">Calcolatrice</a></li>
-                     <li class="selloF"><a class="linkB" href="sello-de-calidad">Etichetta di qualità</a></li>
+                     <li class="selloF"><a class="linkB" href="sigillo-di-qualita">Etichetta di qualità</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col4F">
                  <p class="tituloF"><strong>L'AZIENDA</strong></p>
                  <ul class="ulF empresaF">
-                     <li class="nosotrosF"><a class="linkB" href="microcemento/fabricante-microcemento">Fabbricanti di microcemento</a></li>
+                     <li class="nosotrosF"><a class="linkB" href="microcemento/fabbricante-microcemento">Fabbricanti di microcemento</a></li>
                      
-                     <li class="noticiasF"><a class="linkB" href="noticias">Notizie</a></li>
-                     <li class="contactoF"><a class="linkB" href="contacto">Contatto</a></li>
+                     <li class="noticiasF"><a class="linkB" href="notizie">Notizie</a></li>
+                     <li class="contactoF"><a class="linkB" href="contattare">Contatto</a></li>
                      <li class="newsletterF"><a class="linkB" href="http://zc.vg/jPV0m">Iscriviti alla nostra newsletter</a>
                      </li>
-                       <li class="politicaF"><a class="linkB" href="politica-de-calidad">Politica di qualità</a></li>
+                       <li class="politicaF"><a class="linkB" href="qualita-politica">Politica di qualità</a></li>
                      <li class="atencionF">Servizio clienti Topciment dal lunedì al venerdì dalle 9:00 alle 18:00</li>
                      <li class="numFooter">+34 963 92 59 89</li>
                      <li class="emailF"> info@topciment.com</li>
@@ -103,9 +103,9 @@
                  <small class="direccionF"> © 2020 Grupo Negocios PO,S.L.U. Rosas 33, Manises 46940
                      España</small><br class="brF">
                  <small class="privaF">
-                     <a class="linkB politicaF" href="condiciones-uso-politica-privacidad" rel="nofollow">
+                     <a class="linkB politicaF" href="condizioni-duso-privacy-policy" rel="nofollow">
                            Termini, condizioni e dichiarazione sulla privacy</a> |
-                     <a class="linkB cookieF" href="uso-de-cookies" rel="nofollow" class="textoBlanco">Uso dei cookie</a></small>
+                     <a class="linkB cookieF" href="use-of-cookies" rel="nofollow" class="textoBlanco">Uso dei cookie</a></small>
              </div>
          </div>
      </div>

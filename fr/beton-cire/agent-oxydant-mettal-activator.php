@@ -21,26 +21,20 @@
     <link rel="preload" href="../../assets/css/twentytwenty.css" as="style">
     <link rel="stylesheet" href="../../assets/css/twentytwenty.css">
 
-    <title>Accelerateur pour des finitions rouillées.</title>
-    <meta name="description" content="Mettal activateur est un système accélérateur avec des effets rouillés.On l'utilise
-        avec notre famille de produits Classic Mettal et Pure Mettal."/>
+    <title>Activateur d'oxyde pour les surfaces métalliques | Activateur Mettal</title>
+    <meta name="description" content="Activateur d'oxyde pour les surfaces métalliques. Grâce à sa formule innovante, vous réaliserez rapidement des finitions rouille très décoratives en intérieur et en extérieur."/>
 
 
-    <meta property="og:title" content="Accelerateur pour des finitions rouillées.">
+    <meta property="og:title" content="Activateur d'oxyde pour les surfaces métalliques | Activateur Mettal">
     <meta property="og:site_name" content="Topciment">
     <meta property="og:url" content="https://www.topciment.com/fr/beton-cire/agent-oxydant-mettal-activator">
-    <meta property="og:description" content="Mettal activateur est un système accélérateur avec des effets rouillés.On l'utilise
-        avec notre famille de produits Classic Mettal et Pure Mettal.">
+    <meta property="og:description" content="Activateur d'oxyde pour les surfaces métalliques. Grâce à sa formule innovante, vous réaliserez rapidement des finitions rouille très décoratives en intérieur et en extérieur.">
     <meta property="og:type" content="article">
-    <meta property="og:image" content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
-    <meta property="og:image" content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
     <meta property="og:image" content="https://www.topciment.chttps://www.topciment.com/imagenes/atlanttic/background/atlanttic_fondo_01.jpg">
 
 
     <link rel="canonical" href="https://www.topciment.com/fr/beton-cire/agent-oxydant-mettal-activator"/>
-    <link rel="alternate" href="https://www.topciment.com/es/microcemento/agente-oxidante-mettal-activator" hreflang="es-ES"/>
+    <link rel="alternate" href="https://www.topciment.com/es/microcemento/activador-de-oxido-mettal-activator" hreflang="es-ES"/>
     <link rel="alternate" href="https://www.topciment.com/fr/beton-cire/agent-oxydant-mettal-activator" hreflang="fr-FR"/>
     <?php include("../../assets/includes/scripts-head.php"); ?>
 </head>
@@ -65,8 +59,8 @@
                                     <a href="#up" style="font-size:26px">Mettal Activator</a>
                                 </li>
                                 <li><a href="#que-es-puremetal">Qu'est-ce que Mettal Activator?</a></li>
-                                <li><a href="#pure-mettal">Pure Mettal </a></li>
-                                <li><a href="#classic-mettal">Classic Mettal</a></li>
+                                <li><a href="#aplicacion">Application Mettal Activator  </a></li>
+                                <li><a href="#acabados">Finitions Oxydes Metalliques</a></li>
                             </ul>
                         </div>
                         <div class="content">
@@ -75,31 +69,30 @@
                             <div class="row mt-5">
                                 <div class="col-md-4"><img src="https://www.topciment.com/imagenes/Mettal_Activator/Mettal_Pistol.jpg" class="img-fluid" alt="Mettal Pistol" title="Mettal Pistol"></div>
                                 <div class="col-md-7 ">
-                                    <p>
-                                    <h1 class="en2">
-                                        Qu'est-ce que Mettal Activator?</h1>
-                                    <h1 class="h2s"></h1>
-                                    <p> Mettal Activator est une solution en phase acqueuse qui réagit lorqu'il rentre
-                                        en contact avec
-                                        les particules métalliques.On l'utilise pour accélérer l'oxydation
-                                        des produits
-                                        <a class="links" target="_blank" href="revetement-metallique-pure-mettal"> <strong>Pure
-                                                Mettal</strong> </a>
-                                        et <a href="peintures-metallique-classic-mettal" class="links" target="_blank">
-                                            <strong>Classic Mettal</strong></a>.
 
-                                    </p>
+                                <h1>Activateur d'oxyde pour les surfaces métalliques | Activateur Mettal</h1>
+                                    <p>
+                                        Mettal Activator est un activateur d'oxyde qui réagit lorsqu'il entre en contact avec des particules métalliques, créant ainsi tous les types de finitions oxydés hautement décoratives. Un activateur d'oxyde haute performance qui a été conçu pour accélérer le processus d'oxydation de notre peinture métallique Classic Mettal et de notre revêtement métallique Pure Mettal.
+
+                                    </p>    
+<p>
+    En outre, cet activateur d'oxyde à base d'eau pour les surfaces métalliques peut également être utilisé sur tous les types de surfaces ferreuses, bronce, cobre et latón pour créer les finitions et les effets de rouille les plus distingués et les plus sophistiqués. C'est un excellent activateur d'oxydation pour l'intérieur et l'extérieur.
+
+</p>     
+                <p><a class="links" href="../fiches-techniques/Mettal_Activator-FR.pdf" target="_blank"> <span class="fa-stack"> <i class="fas fa-file-pdf fa-stack-1x"></i>
+                 </span><strong>Téléchargez la fiche technique de Mettal Activator ici</strong></a></p> 
+
+
                                 </div>
                             </div>
                             <!-- Propiedades-->
-                            <p class="en3" >
-                                Caracteristiques techniques</p>
+                            <h3 class="en3" >Caractéristiques techniques de l'activateur d'oxydes Activateur Mettal</h3>
                             <div class="row">
                                 <div class="col-6">
                                     <div class="row">
                                         <div class="col-md-3"><img src="https://www.topciment.com/imagenes/Mettal_Activator/exteriores_interiores.png" class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                         <div class="col-md-9">
-                                            <strong> Applicable en interieures et extérieures</strong>
+                                            <strong> Convient pour les intérieurs et les extérieurs</strong>
                                             <p>Peut s'appliquer en façades , porches , et pièces intérieures.</p>
                                         </div>
                                     </div>
@@ -108,9 +101,10 @@
                                     <div class="row">
                                         <div class="col-md-3"><img src="https://www.topciment.com/imagenes/Mettal_Activator/aplicable_cualquier_soporte.png" class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                         <div class="col-md-9">
-                                            <strong>Applicable sur Classic et Pure Mettal
+                                            <strong>
+Convient comme agent oxydant pour le Classic Mettal et le Pure Mettal
                                             </strong>
-                                            <p>Et toutes les superficies ferreuses , bronze , cuivre, et laiton.</p>
+                                            <p>Accélère l'oxydation de nos revêtements et peintures métalliques</p>
                                         </div>
                                     </div>
                                 </div>
@@ -120,10 +114,9 @@
                                     <div class="row">
                                         <div class="col-md-3"><img src="https://www.topciment.com/imagenes/Mettal_Activator/pulverizador.png" class="figure-img img-fluid rounded" alt="Icon" title="Icon"></div>
                                         <div class="col-md-9">
-                                            <strong>Appliqué à l'aide d'un pulvérisateur
+                                            <strong>Le produit s'applique par pulvérisation
                                             </strong>
-                                            <p> Augmente la précision , le confort et la qualité d'application.
-
+                                            <p> Augmente la précision, la commodité et la qualité de l'application de l'activateur de rouille 
                                             </p>
                                         </div>
                                     </div>

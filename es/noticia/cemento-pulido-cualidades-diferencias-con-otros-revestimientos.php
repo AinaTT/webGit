@@ -115,7 +115,7 @@
                         pavimento se denomina <strong>fratasado</strong>.
 
                     </p>
-                    <h2>Cualidades y ventajas cemento pulido</h2>
+                    <h2>Cualidades y ventajas  suelo  cemento pulido</h2>
 
                     <p>
                         El cemento pulido está pensado para recubrir superficies donde lo más importante es la
@@ -150,7 +150,7 @@
                         <figcaption class="figure-caption"> Operario puliendo y sacando brillo al pavimento de cemento
                             pulido con una pulidora rotativa.</figcaption>
                     </figure>
-                    <h2>Inconvenientes o desventajas del cemento pulido</h2>
+                    <h2>Inconvenientes o desventajas de un suelo de  cemento pulido</h2>
 
                     <p>
                         Pero también hay que saber que el cemento pulido presenta una serie de inconvenientes y

@@ -103,7 +103,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             </p>
                             <p>
                                 Pero la versatilidad de esta innovadora pintura va mucho más allá. Gracias a la
-                                aplicación de nuestro <strong>activador de óxido   <a href="agente-oxidante-mettal-activator">Mettal Activator</a> </strong> , Classic
+                                aplicación de nuestro <strong>activador de óxido   <a href="activador-de-oxido-mettal-activator">Mettal Activator</a> </strong> , Classic
                                 Mettal <strong> se convierte en una pintura de efecto óxido</strong> que dota a las
                                 superficies sobre las que se aplica de un efecto envejecido de lo más natural. Una
                                 pintura efecto óxido muy recomendable para paredes e ideal para replicar ese estilo
@@ -190,11 +190,11 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                             </figure>
                         </div>
                         <div class="col-md-4">
-                            <figure class="figure"><a href="agente-oxidante-mettal-activator" target="_blank"><img
+                            <figure class="figure"><a href="activador-de-oxido-mettal-activator" target="_blank"><img
                                         src="https://www.topciment.com/imagenes/pure-mettal/Mettal_Activator.jpg"
                                         class="img-fluid" alt="Mettal Activator" title="Mettal Activator"></a>
                                 <figcaption class="text-center"><a class="links"
-                                        href="agente-oxidante-mettal-activator"><strong>Mettal
+                                        href="activador-de-oxido-mettal-activator"><strong>Mettal
                                             Activator</strong></a>
                                 </figcaption>
                             </figure>
@@ -307,7 +307,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                         <div class="row mb-3">
                             <div class="col-md-12">
                                 <p class="en3">Cobre + <a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator">Mettal Activator</a></p><br>
+                                        href="activador-de-oxido-mettal-activator">Mettal Activator</a></p><br>
                                 <div class="color">
                                     <img  src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideCobreCopper.jpg">
                                     <img src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideCobreAO.jpg">
@@ -318,7 +318,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                         <div class="row mb-3">
                             <div class="col-md-12">
                                 <p class="en3">Bronce + <a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator">Mettal Activator</a></p><br>
+                                        href="activador-de-oxido-mettal-activator">Mettal Activator</a></p><br>
                                 <div class="color">
                                     <img src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideBronce.jpg">
                                     <img
@@ -330,7 +330,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                         <div class="row mb-3">
                             <div class="col-md-12">
                                 <p class="en3">Hierro 004 + <a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator">Mettal Activator</a></p><br>
+                                        href="activador-de-oxido-mettal-activator">Mettal Activator</a></p><br>
                                 <div class="color">
                                     <img
                                         src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideHierroIron004.jpg">
@@ -343,7 +343,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                         <div class="row mb-3">
                             <div class="col-md-12">
                                 <p class="en3">Hierro 030 + <a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator">Mettal Activator</a></p><br>
+                                        href="activador-de-oxido-mettal-activator">Mettal Activator</a></p><br>
                                 <div class="color">
                                     <img
                                         src="https://www.topciment.com/imagenes/classic-mettal/colors/Classic_Mettal_Hierro-Grueso030.jpg">
@@ -356,7 +356,7 @@ hormigón, ladrillo, cerámica e incluso metales. Descúbrelas.">
                         <div class="row mb-3">
                             <div class="col-md-12">
                                 <p class="en3"> Latón + <a target="_blank" class="links"
-                                        href="agente-oxidante-mettal-activator">Mettal Activator</a></p><br>
+                                        href="activador-de-oxido-mettal-activator">Mettal Activator</a></p><br>
                                 <div class="color">
                                     <img
                                         src="https://www.topciment.com/imagenes/classic-mettal/colors/OxideLatonbrass.jpg">

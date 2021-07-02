@@ -55,7 +55,6 @@
 
 
     <div id="main">
-
         <div class="container">
             <div id="sidebar" class="menuOculto menuMicrocementos stick">
                 <ul>
@@ -163,7 +162,7 @@
                 <a id="suelos" class="ancla"></a>
                 <h2>Suelos de microcemento</h2>
                 <p>La resistencia al tránsito, los golpes y su fácil limpieza al no tener juntas, son algunas de las
-                    características que hacen de los suelos de microcemento la mejor opción para revestir pavimentos
+                    características que hacen de los <strong><a class="links" href="../noticia/suelos-de-microcemento">suelos</a></strong> de microcemento la mejor opción para revestir pavimentos
                     interiores y exteriores. ¡Por no hablar de los colores! Descubre aquí algunos de nuestros proyectos
                     más destacados en los que se ha apostado por el microcemento en suelos.</p>
                 <div class="imagenes">
@@ -174,8 +173,7 @@
                                         height="300" src="../../img/microcemento/suelo-microcemento-carmen-house.webp"
                                         alt="Suelo exterior microcemento color blanco"
                                         title="Suelo exterior microcemento color blanco" /></a>
-                                <figcaption>Exterior de la vivienda de Carmen House (Dénia) con suelo de microcemento
-                                    blanco. </figcaption>
+                                <figcaption>Exterior de la vivienda de Carmen House (Dénia) con suelo de microcemento blanco. </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -237,10 +235,10 @@
                 </div>
                 <a id="banyos" class="ancla"></a>
                 <h2>Baños de microcemento</h2>
-                <p>Si hay una estancia en la que el microcemento es protagonista absoluto es el cuarto de baño. La alta
-                    resistencia a la humedad así como la rapidez en la instalación de este revestimiento continuo ha
-                    propiciado un boom de baños de microcemento. Y para muestra una imagen, o unas cuantas. El
-                    microcemento puede aplicarse en suelos, paredes, pilas de baño e incluso duchas o bañeras. Disfruta
+                <p>Si hay una estancia en la que el microcemento es protagonista absoluto es el cuarto de baño. 
+                La alta resistencia a la humedad así como la rapidez en la instalación de este revestimiento continuo ha
+                    propiciado un boom de<strong> <a class="links" href="../noticia/6-razones-banos-microcemento-seran-tendencia">baños</a></strong> de microcemento. 
+                     Y para muestra una imagen, o unas cuantas. El  microcemento puede aplicarse en suelos, paredes, pilas de baño e incluso duchas o bañeras. Disfruta
                     de las fotos de baños de microcemento de nuestros proyectos más destacados aquí. ¡Son tendencia
                     absoluta!</p>
 
@@ -273,8 +271,7 @@
                                         height="300" src="../../img/microcemento/bano-microcemento-casa-isabel.webp"
                                         alt="Baño microcemento Casa Isabel en Valencia"
                                         title="Baño microcemento Casa Isabel en Valencia" /></a>
-                                <figcaption> Espectacular baño de microcemento en paredes y suelo de la Casa Isabel
-                                    (Valencia).</figcaption>
+                                <figcaption> Espectacular baño de microcemento en paredes y suelo de la Casa Isabel  (Valencia).</figcaption>
                             </figure>
                         </div>
                     </div>
@@ -296,8 +293,7 @@
                                         src="../../img/microcemento/bano-microcemento-imasi.webp"
                                         alt="Paredes y suelo de microcemento en baño"
                                         title="Paredes y suelo de microcemento en baño" /></a>
-                                <figcaption> Baño con las paredes y suelo de microcemento en una vivienda particular.
-                                </figcaption>
+                                <figcaption> Baño con las paredes y suelo de microcemento en una vivienda particular. </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -315,11 +311,11 @@
                 </div>
                 <a id="cocinas" class="ancla"></a>
                 <h2>Microcemento en cocinas</h2>
-                <p>Del mismo modo que ocurre con los baños, las cocinas de microcemento están de moda. Sobre todo cuando
+                <p>Del mismo modo que ocurre con los baños, las <strong><a class="links" href="../noticia/cocinas-de-microcemento-ventajas-estilos-consejos">cocinas</a></strong> de microcemento están de moda. Sobre todo cuando
                     se busca una cocina moderna y minimalista, un estilo que se logra gracias a la continuidad del
                     microcemento. Hay muchas formas de aplicar el microcemento en cocinas: suelos, paredes, pilas e
                     incluso encimeras de cocina. Echa un vistazo a nuestros proyectos más destacados y descubre por ti
-                    mismo todo lo que puede dar de sí el microcemento en cocinas.</p>
+                    mismo todo lo que puede dar de sí el microcemento en cocinas.</p>  
                 <div class="imagenes">
                     <div class="row">
                         <div class="col-md-4">
@@ -390,7 +386,7 @@
                 </div>
                 <a id="escaleras" class="ancla"></a>
                 <h2>Escaleras de microcemento</h2>
-                <p>Aunque las escaleras de microcemento son complicadas de realizar, el resultado final merece y mucho
+                <p>Aunque las <strong><a class="links" href="../noticia/escaleras-de-microcemento-como-revestirlas-correctamente">escaleras</a></strong> de microcemento son complicadas de realizar, el resultado final merece y mucho
                     la pena.
                     El microcemento convierte una simple escalera en un recurso decorativo de alto valor que dota de
                     personalidad a la estancia en la que se encuentra.
@@ -433,8 +429,7 @@
                                     src="../../img/microcemento/escalera-microcemento-caracol.webp"
                                     alt="Escalera microcemento gris de caracol  "
                                     title="Escalera microcemento gris de caracol  " />
-                                <figcaption> Elegante escalera de microcemento gris de caracol en el interior de una
-                                    casa. </figcaption>
+                                <figcaption> Elegante escalera de microcemento gris de caracol en el interior de una casa. </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">
@@ -442,7 +437,7 @@
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/escalera-microcemento-roja.webp"
                                     alt="Escalera microcemento rojo tienda China"
-                                    title="Escalera microcemento rojo tienda China" />
+                                    title="Escalera microcemento rojo tienda China" /> 
                                 <figcaption>Llamativa escalera de microcemento rojo en una tienda de China.
                                 </figcaption>
                             </figure>
@@ -465,9 +460,8 @@
                     tantas ventajas como el microcemento en piscinas.
                     Su gran adherencia, su carácter antideslizante e impermeable y su elevada resistencia a la luz solar
                     convierten a las piscinas de microcemento en la mejor alternativa, tanto para piscinas exteriores
-                    como piscinas interiores. Déjate asombrar por las fotos de las piscinas de microcemento de nuestros
-                    proyectos más destacados.</p>
-
+                    como piscinas interiores. Déjate asombrar por las fotos de las <strong><a class="links" href="../noticia/piscinas-de-microcemento-la-mejor-opcion-posible">piscinas</a> </strong>de microcemento de nuestros
+                    proyectos más destacados.</p> 
                 <div class="imagenes">
                     <div class="row">
                         <div class="col-md-4">
@@ -534,7 +528,7 @@
                 <p>¿Quién dijo que el microcemento solo es para interior? El microcemento en exterior también es
                     tendencia, sobre todo para recubrir suelos de terrazas o patios y fachadas de edificios.
                     En nuestra galería encontrarás algunas de las ideas más interesantes para aplicar el microcemento en
-                    exteriores. ¡Abre tu mente!</p>
+                  <strong>  <a class="links" href="../noticia/microcemento-en-exterior">exteriores</a></strong>. ¡Abre tu mente!</p>
                 <div class="imagenes">
                     <div class="row">
                         <div class="col-md-4">
@@ -572,7 +566,7 @@
                                 <img class="img-fluid foto" width="350" height="300"
                                     src="../../img/microcemento/terraza-exterior-microcemento-piscina.webp"
                                     alt="Microcemento exterior terraza " title="Microcemento exterior terraza " />
-                                <figcaption>Deslumbrante terraza exterior con pavimento de microemento. </figcaption>
+                                <figcaption>Deslumbrante terraza exterior con pavimento de microcemento. </figcaption>
                             </figure>
                         </div>
                         <div class="col-md-4">

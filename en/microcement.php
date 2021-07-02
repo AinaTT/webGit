@@ -24,7 +24,7 @@
   <meta property="og:title" content="What is Microcement? Uses, application, types, colours and advantages" />
   <meta property="og:description"
     content="Learn all about microcement, the decorative coating of the moment: what it is, types, where it can be applied, advantages and colours." />
-  <meta property="og:url" content="https://www.topciment.com/en/microcement" />
+  <meta property="og:url" content="https://www.topciment.com/en/microcement"/>
   <meta property="og:site_name" content="Topciment" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:description"
@@ -106,8 +106,8 @@
         <span id="donde-aplicar" class="ancla"></span>
         <h2>Where can microcement be applied?</h2>
         <p>The decorative solutions of microcement are infinite. That is why its uses are so varied. From microcement
-          stairs or microcement swimming pools to furniture clad with microcement. Although the use par excellence of
-          microcement is in floors and walls of kitchens, bathrooms and outdoor spaces such as terraces.
+          <a class="links" href="new/microcement-stairs-how-to-coat-them-correctly">stairs</a> or microcement swimming pools to furniture clad with microcement. Although the use par excellence of
+          microcement is in <a class="links" href="new/microcement-floors">floors</a> and walls of kitchens, bathrooms and <a class="links" href="new/microcement-in-exteriors-floors-that-make-a-difference">outdoor</a> spaces such as terraces.
         </p>
         <p>Whatever the surface to be covered with microcement, at Topciment we care about the final result. That is
           why, in our desire to achieve an optimal, versatile and quality product that lasts over time and adapts to the
@@ -135,6 +135,7 @@
           <figcaption>Image of the modern living/dining room of the Hernán Cortés home. Our Hierro 004 coloured
             microcement on the floor brings luminosity to the room. </figcaption>
         </figure>
+        
       </div>
     </div>
 
@@ -176,7 +177,7 @@
         <h3>Microcement stairs</h3>
         <p>The versatility of microcement means that it can even be used on stairs, although the applicator's work is
           somewhat more complex. With Topciment microcements it is possible to
-          design spectacular microcement stairs. Discover them in our post of microcement stairs</a>
+          design spectacular microcement stairs. Discover them in our<strong><a class="links" href="new/microcement-stairs-how-to-coat-them-correctly"> post of microcement stairs</a> </strong>
           <!-- (link noticia) TODO -->.
         </p>
         <h3>Microcement pools</h3>
@@ -191,7 +192,7 @@
         <h3>Outdoor microcement</h3>
         <p>Microcement is an excellent continuous coating also for exterior surfaces such as terrace floors, patios of
           residential houses or facades and walls of buildings.
-          Visit our gallery or read our post and discover all the options for applying <strong><a  class="links" href="new/design-and-comfort-for-outdoor-spaces">microcement on outdoors</a>.</strong>
+          Visit our gallery or read our post and discover all the options for applying <strong><a  class="links" href="new/microcement-in-exteriors-floors-that-make-a-difference">microcement on outdoors</a>.</strong>
           <p>Now that you know where it can be applied, it is time to learn how to do it. On this page you will find a
             step-by-step guide to <strong><a class="links" href="microcements/how-to-apply-microcement-microcement-application-step-by-step">applying microcement</a>  </strong>to floors, walls and swimming pools.</p>
       </div>
@@ -565,7 +566,7 @@
                 <p>Microcement can be applied on almost any type of substrate: cement mortar, self-levelling mortar,
                   terrazzo, marble, tile, plaster or plasterboard. Microcement can also be applied on vertical and
                   horizontal surfaces, in interior and exterior spaces. A versatility with which we can create
-                  microcement stairs, microcement bathrooms, microcement kitchens and even microcement swimming pools.
+                  microcement stairs, microcement bathrooms, microcement kitchens and even microcement <a class="links" href="new/microcement-pools-the-best-possible-option">swimming pools</a>.
                 </p>
                 <p>Yes, microcement cannot be applied on natural wood or supports formed by pieces that can expand
                   differently. </p> <a href="javascript:ShowHide('text1_3');" id="link1_1"

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width"/>
 
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png"/>
-    <meta name="Language" content="ES"/>
+    <meta name="Language" content="IT"/>
 
     <link rel="preload" href="../assets/css/home.css" as="style"/>
     <link rel="stylesheet" href="../assets/css/home.css"/>
@@ -16,11 +16,11 @@
     <title>Microcemento Topciment, rivestimento continuo.</title>
     <meta name="description" content="Il microcemento Topciment è un rivestimento decorativo di ultima tendenza per qualsiasi stanza della vostra casa o della vostra azienda."/>
 
-    <meta property="og:locale" content="es_ES"/>
+    <meta property="og:locale" content="it_IT"/>
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Microcemento Topciment, rivestimento continuo."/>
     <meta property="og:description" content="Il microcemento Topciment è un rivestimento decorativo di ultima tendenza per qualsiasi stanza della vostra casa o della vostra azienda."/>
-    <meta property="og:url" content="https://www.topciment.com/es/"/>
+    <meta property="og:url" content="https://www.topciment.com/it/"/>
     <meta property="og:site_name" content="Topciment"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Il microcemento Topciment è un rivestimento decorativo di ultima tendenza per qualsiasi stanza della vostra casa o della vostra azienda."/>
@@ -30,8 +30,8 @@
     <meta property="article:publisher" content="https://www.facebook.com/topciment.microcemento/"/>
 
 
-    <link rel="canonical" href="https://www.topciment.com/es/"/>
-     <link rel="alternate" href="https://www.topciment.com/es/" hreflang="es-ES"/>
+    <link rel="canonical" href="https://www.topciment.com/it/"/>
+     <link rel="alternate" href="https://www.topciment.com/it/" hreflang="it-IT"/>
     <link rel="alternate" href="https://www.topciment.com/en/" hreflang="en-GB"/>
     <link rel="alternate" href="https://www.topciment.com/fr/" hreflang="fr-FR"/>
     <link rel="alternate" href="https://www.topciment.com/de/" hreflang="de-DE"/>
@@ -95,7 +95,7 @@
     <?php include("includes/root-menu-movil.php"); ?>
     <div id="fullpage">
         <div class="section fullscreen background parallax" id="section0">
-            <div class="content-a" onClick="location.href='microcementos'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href='microcementi'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                    <div id="texto-microcemento" class=" content-b textoArribaDerecha contenedorHome texto40pixeles" style="text-align:right;">
                         <h1 class="enHome3 br1">È PIÙ CHE <span class="negrita">MICROCEMENTO,</span><br>È <span class="negrita">TOPCIMENT</span></h1>
@@ -161,7 +161,7 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="atlanttici">
-            <div class="content-a" onClick="location.href= 'microcemento/microcemento-para-piscinas-atlanttic'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href= 'microcemento/microcemento-per-piscine-atlanttic'" style="cursor:pointer;">
 
 
                 <div class="contenedorTexto">
@@ -175,7 +175,7 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="efecttoi">
-            <div class="content-a" onClick="location.href= 'microcemento/microcemento-listo-al-uso-efectto'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href= 'microcemento/microcemento-pronto-alluso'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
@@ -188,7 +188,7 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="pure-mettali">
-            <div class="content-a" onClick="location.href= 'microcemento/revestimiento-metalico-pure-mettal'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href= 'microcemento/rivestimento-metallico-pure-mettal'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
@@ -201,7 +201,7 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="classic-mettali">
-            <div class="content-a" onClick="location.href= 'microcemento/pinturas-metalicas-efecto-oxido-classic-mettal'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href= 'microcemento/vernici-metalliche-ossido-effetto-classic-mettal'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="row">
                         <div class="col-md-12  text-center">
@@ -215,7 +215,7 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="elittei">
-            <div class="content-a" onClick="location.href= 'microcemento/veladuras-metalicas-elitte'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href= 'microcemento/smalti-metallici-elitte'" style="cursor:pointer;">
 
                 <div class="contenedorTexto">
                     <div class="row">
@@ -230,7 +230,7 @@
         </div>
 
         <div class="section fullscreen background parallax" id="galeriai">
-            <div class="content-a" onClick="location.href='microcemento/galeria'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href='microcemento/galleria'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="texotHome">
                         <div class=" txHome text-white">
@@ -248,7 +248,7 @@
 
 
         <div class="section fullscreen background parallax" id="profesionalesi">
-            <div class="content-a" onClick="location.href='profesionales'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href='professionisti'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="texotHome">
 
@@ -264,12 +264,12 @@
             </div>
         </div>
         <div class="section fullscreen background parallax" id="noticiasi">
-            <div class="content-a" onClick="location.href='noticias'" style="cursor:pointer;">
+            <div class="content-a" onClick="location.href='notizie'" style="cursor:pointer;">
                 <div class="contenedorTexto">
                     <div class="texotHome">
 
                         <div class="txHome text-white">
-                            <h2 class="enHome2 "> NOTIZIE</h2>
+                            <h2 class="enHome2"> NOTIZIE</h2>
                             <p>Indaghiamo, creiamo e progettiamo nuovi prodotti Topciment costantemente. E, ovviamente,
                             siamo impegnati alle
                             novità e tendenze del microcemento e rivestimenti decorativi. Te lo diciamo tutto nella
@@ -299,6 +299,7 @@
                 <div class="contenedorTexto contenedorF contenedorFI" style="top:150px;background-color: black;">
                     <!-- START Footer -->
                    <!-- START Footer -->
+ <!-- START Footer -->
  <footer class="footerp">
      <div class="container contenedorF">
          <div class="row row1">
@@ -307,57 +308,53 @@
                  <ul class="ulF productosF">
                      <li class="sttandardF"><a class="linkB" href="microcemento/microcemento-bicomponente-sttandard">Microcemento bicomponente</a></li>
                      <li class="evoluttionF"><a class="linkB" href="microcemento/microcemento-monocomponente-evoluttion">Microcemento monocomponente</a></li>
-                     <li class="efecF"><a class="linkB" href="microcemento/microcemento-listo-al-uso-efectto">Microcemento
-                             listo al uso</a></li>
-                     <li class="puremF"><a class="linkB" href="microcemento/revestimiento-metalico-pure-mettal">Revestimiento metálico</a></li>
-                     <li class="classicF"><a class="linkB" href="microcemento/pinturas-metalicas-efecto-oxido-classic-mettal">Pinturas metálicas</a></li>
-                     <li class="elitteF"><a class="linkB" href="microcemento/veladuras-metalicas-elitte">Veladuras y
-                             pigmentos metálicos</a></li>
-                     <li class="primacemF"><a class="linkB" href="microcemento/imprimacione-y-promotores-de-adherencia-primacem">Promotores de adherencia</a>
+                     <li class="efecF"><a class="linkB" href="microcemento/microcemento-pronto-alluso">Microcemento pronto all'uso</a></li>
+                     <li class="puremF"><a class="linkB" href="microcemento/rivestimento-metallico-pure-mettal">Rivestimento metallico</a></li>
+                     <li class="classicF"><a class="linkB" href="microcemento/vernici-metalliche-ossido-effetto-classic-mettal">Vernici metallizzate</a></li>
+                     <li class="elitteF"><a class="linkB" href="microcemento/smalti-metallici-elitte">elature e pigmenti metalizzati</a></li>
+                     <li class="primacemF"><a class="linkB" href="microcemento/primer-e-promoteri-di-adhesion-primacem">Promotori d'adesione</a>
                      </li>
-                     <li class="arcocemF"><a class="linkB" href="microcemento/pigmentos-para-microcemento-arcocem">Pigmentos</a></li>
-                     <li class="topsealerF"><a class="linkB" href="microcemento/barniz-poliuretano-acrilico-alagua-topsealer">Barnices</a></li>
-                     <li class="limpieF"><a class="linkB" href="microcemento/limpieza-y-cuidado-del-microcemento">Limpieza y
-                             cuidado del microcemento</a></li>
-                     <li class="herramF"><a class="linkB" href="microcemento/herramientas-microcemento">Strumenti</a></li>
+                     <li class="arcocemF"><a class="linkB" href="microcemento/pigmenti-per-microcement-arcocem">Pigmenti</a></li>
+                     <li class="topsealerF"><a class="linkB" href="microcemento/vernice-poliuretano-acrilico-acqua-topsealer">Primers</a></li>
+                     <li class="limpieF"><a class="linkB" href="microcemento/pulizia-e-cura-del-microcemento">Pulizia e cura del microcemento</a></li>
+                     <li class="herramF"><a class="linkB" href="microcemento/attrezzi-microcemento">Strumenti</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col2F">
                  <p class="tituloF proyectosF"><strong>PROGETTI</strong></p>
                  <ul class="ulF proyectos">
-                     <li class=""><a class="linkB" href="microcemento/galeria#paredes">Microcemento en paredes</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#suelos">Suelos de microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#banyos">Baños de microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#cocinas">Microcemento en cocinas</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#escaleras">Escaleras de microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#piscinas">Piscinas de microcemento</a></li>
-                     <li class=""><a class="linkB" href="microcemento/galeria#exterior">Microcemento exterior</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#paredes">Microcemento sui muri</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#suelos">Pavimenti in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#banyos">Bagni in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#cocinas">Microcemento nelle cucine</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#escaleras">Scale in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#piscinas">Piscine in microcemento</a></li>
+                     <li class=""><a class="linkB" href="microcemento/galleria#exterior">Microcemento esterno</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col3F">
                  <p class="tituloF"><strong>PROFESSIONALI</strong></p>
                  <ul class="ulF profesionalesF">
-                 <li class="cursosF"><a class="linkB" href="microcemento/cursos-aplicacion-microcemento">Cursos de microcemento</a></li>
-                     <li class="distriF"><a class="linkB" href="distribuidores">Distribuidores</a></li>
-                     <li class="garantF"><a class="linkB" href="garantia">Garantía</a></li>
-                     <li class="fichatF"><a class="linkB" href="fichas-tecnicas">Fichas Técnicas</a>
-                     </li>
-                     <li class="descargasF"><a class="linkB" href="proyectos">Proyectos</a></li>
-                     <li class="calcF"><a class="linkB" href="calc/">Calculadora</a></li>
-                     <li class="selloF"><a class="linkB" href="sello-de-calidad">Sello de Calidad</a></li>
+                 <li class="cursosF"><a class="linkB" href="microcemento/corsi-applicazione-microcemento">Corsi di microcemento</a></li>
+                     <li class="distriF"><a class="linkB" href="distributori">Distributori</a></li>
+                     <li class="garantF"><a class="linkB" href="garanzia">Garanzia</a></li>
+                     <li class="fichatF"><a class="linkB" href="schede-tecniche-garanzia">Schede tecniche</a> </li>
+                     <li class="descargasF"><a class="linkB" href="progetti">Progetti</a></li>
+                     <li class="calcF"><a class="linkB" href="calc/">Calcolatrice</a></li>
+                     <li class="selloF"><a class="linkB" href="sigillo-di-qualita">Etichetta di qualità</a></li>
                  </ul>
              </div>
              <div class="col-md-3 col4F">
                  <p class="tituloF"><strong>L'AZIENDA</strong></p>
                  <ul class="ulF empresaF">
-                     <li class="nosotrosF"><a class="linkB" href="microcemento/fabricante-microcemento">Fabricantes microcemento</a></li>
+                     <li class="nosotrosF"><a class="linkB" href="microcemento/fabbricante-microcemento">Fabbricanti di microcemento</a></li>
                      
-                     <li class="noticiasF"><a class="linkB" href="noticias">Noticias</a></li>
-                     <li class="contactoF"><a class="linkB" href="contacto">Contacto</a></li>
-                     <li class="newsletterF"><a class="linkB" href="http://zc.vg/jPV0m">Suscríbete a nuestra newsletter</a>
+                     <li class="noticiasF"><a class="linkB" href="notizie">Notizie</a></li>
+                     <li class="contactoF"><a class="linkB" href="contattare">Contatto</a></li>
+                     <li class="newsletterF"><a class="linkB" href="http://zc.vg/jPV0m">Iscriviti alla nostra newsletter</a>
                      </li>
-                       <li class="politicaF"><a class="linkB" href="politica-de-calidad">Política de calidad</a></li>
-                     <li class="atencionF">Atención al cliente Topciment de lunes a viernes de 9:00 a 18:00</li>
+                       <li class="politicaF"><a class="linkB" href="qualita-politica">Politica di qualità</a></li>
+                     <li class="atencionF">Servizio clienti Topciment dal lunedì al venerdì dalle 9:00 alle 18:00</li>
                      <li class="numFooter">+34 963 92 59 89</li>
                      <li class="emailF"> info@topciment.com</li>
                  </ul>
@@ -407,13 +404,14 @@
                  <small class="direccionF"> © 2020 Grupo Negocios PO,S.L.U. Rosas 33, Manises 46940
                      España</small><br class="brF">
                  <small class="privaF">
-                     <a class="linkB politicaF" href="condiciones-uso-politica-privacidad" rel="nofollow">
+                     <a class="linkB politicaF" href="condizioni-duso-privacy-policy" rel="nofollow">
                            Termini, condizioni e dichiarazione sulla privacy</a> |
-                     <a class="linkB cookieF" href="uso-de-cookies" rel="nofollow" class="textoBlanco">Uso dei cookie</a></small>
+                     <a class="linkB cookieF" href="use-of-cookies" rel="nofollow" class="textoBlanco">Uso dei cookie</a></small>
              </div>
          </div>
      </div>
  </footer>
+ <!-- END Footer -->
  <!-- END Footer -->
 
 
@@ -434,7 +432,7 @@
   "@context": "https://schema.org/",
   "@type": "Organization",
   "name": "Topciment",
-  "url": "https://www.topciment.com/es/",
+  "url": "https://www.topciment.com/it/",
   "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
   "email": "info@topciment.com",
   "description": "Somos líderes en la fabricación de microcemento en España. Garantía de hasta 10 años en todos nuestros productos.",

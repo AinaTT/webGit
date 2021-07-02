@@ -13,7 +13,7 @@
 
     <?php include("../../assets/includes/styles.php"); ?>
 
-    <title>Preparation of the microcement mixture, consumption and yields.</title>
+    <title>Preparation of the microcement mixture, consumption and yields</title>
     <meta name="description"
         content="When preparing any variety of microcement we should always respect the recommended mixing proportions." />
 

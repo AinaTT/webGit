@@ -74,7 +74,19 @@
             </div>
 
             <div class="container">
+            
                 <div class="content">
+                    <p>Eine schlechte Anwendung von Mikrozement kann zum Auftreten von Flecken und unerwünschten
+                        Verschmutzungen führen. Optische Probleme, die das endgültige Finish beschädigen. Wenn Sie bis
+                        hierher gekommen sind, dann deshalb, weil Sie sich über diesen Umstand Gedanken machen und vor
+                        allem, weil Sie wissen wollen, wie Sie ihn unbedingt vermeiden können. </p>
+                    <p>Sie sind an der richtigen Stelle. In diesem Artikel werden wir nicht nur auf die häufigsten
+                        Gründe eingehen, die zu den gefürchteten Flecken und Abdrücken aufgrund einer schlechten
+                        Verlegung von geglättetem Mikrozement führen. </p>
+                    <p>Darüber hinaus geben Ihnen unsere erfahrenen Applikateure eine Reihe von Tipps, Ratschlägen und
+                        Lösungen für jedes der Probleme, damit keine unerwünschten Unvollkommenheiten entstehen.
+                        Beachten Sie! </p>
+
                     <h2>Abdrücke auf Fliesenfugen beim Anwenden von Mikrozement</h2>
                     <p>
                         Möchten Sie Mikrozement auf Fliesen auftragen? Dies sind die drei Punkte, die Sie beachten
@@ -89,9 +101,11 @@
 
                     </p>
                     <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg" class="figure-img img-fluid "
-                         title="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit" alt="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit" width="auto" height="auto">
-                        <figcaption class="figure-caption">Mikrozementboden, auf dem die Fliesenfugen aufgrund von Feuchtigkeit markiert sind.</figcaption>
+                        <img src="https://www.topciment.com/imagenes/marcas-de-las-juntas-de-los-azulejos-por-humedad.jpg"
+                            class="figure-img img-fluid " title="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit"
+                            alt="Spuren auf Fliesenfugen aufgrund von Feuchtigkeit" width="auto" height="auto">
+                        <figcaption class="figure-caption">Mikrozementboden, auf dem die Fliesenfugen aufgrund von
+                            Feuchtigkeit markiert sind.</figcaption>
                     </figure>
                     <h3>2. Fliesenfugen sind in der Regel hohl </h3>
                     <p>
@@ -108,9 +122,11 @@
 
                     </p>
                     <figure class="figure mt-4">
-                        <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg" class="figure-img img-fluid " 
-                        title="Kellenbrandspur" alt="Kellenbrandspur" width="auto" height="auto">
-                        <figcaption class="figure-caption">Mikrozementboden mit der Brandspur des Spachtels.</figcaption>
+                        <img src="https://www.topciment.com/imagenes/marca-de-quemado-de-llana-1.jpg"
+                            class="figure-img img-fluid " title="Kellenbrandspur" alt="Kellenbrandspur" width="auto"
+                            height="auto">
+                        <figcaption class="figure-caption">Mikrozementboden mit der Brandspur des Spachtels.
+                        </figcaption>
                     </figure>
                     <h2>Spachtelspuren auf dem Mikrozement</h2>
 
@@ -191,24 +207,24 @@
                         geglättete Mikrozementunterlage eine hellere Farbe haben. Es ist sehr typisch, eine schwarze
                         Wand zu sehen, die grau aussieht.
 
-                    </p> 
+                    </p>
                 </div>
             </div>
 
         </div>
     </div>
 
-        <div id="separador50px">
-        </div>
+    <div id="separador50px">
+    </div>
 
-        <?php include("../includes/footer.php"); ?>
+    <?php include("../includes/footer.php"); ?>
 
 
-        <?php include("../../assets/includes/scripts.php"); ?>
-        </div>
-        </div>
-        </div>
-        <!-- include jQuery -->
+    <?php include("../../assets/includes/scripts.php"); ?>
+    </div>
+    </div>
+    </div>
+    <!-- include jQuery -->
 
 </body>
 
