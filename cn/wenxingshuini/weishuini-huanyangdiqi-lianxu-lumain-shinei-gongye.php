@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="cn">
 
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <!--[if lt IE 9]> <script src="js/css3-mediaqueries.js"></script> <![endif]-->
     <link rel="icon" type="image/png" href="https://www.topciment.com/favicon.png" />
-    <meta name="Language" content="IT" />
+    <meta name="Language" content="CN" />
 
 
 
@@ -18,22 +18,24 @@
     <link rel="preload" href="../../assets/css/lightbox.min.css" as="style">
     <link rel="stylesheet" href="../../assets/css/lightbox.min.css">
 
-    <title>Microcemento epossidico per pavimentazione interna continua | Industtrial</title>
-    <meta name="description"
-        content="Microcemento epossidico bicomponente ad alte prestazioni per la decorazione di pavimenti interni continui. Maggiore durezza, resistenza e impermeabilità rispetto ai microcementi tradizionali." />
+    <title>Industtrial 工业系列- 室内地板环氧微水泥</title>
+    <meta name="description" content="高性能的双组分环氧微水泥，用于室内地板的连续性装饰涂层。与传统微水泥相比，具有更高的硬度、阻力和防渗性。" />
 
 
-    <meta property="og:title" content="Microcemento epossidico per pavimentazione interna continua | Industtrial">
+    <meta property="og:title" content="Industtrial 工业系列- 室内地板环氧微水泥">
     <meta property="og:site_name" content="Topciment">
-    <meta property="og:url" content="https://www.topciment.com/it/microcemento/microcemento-epossidico-per-pavimentazione-interna-continua-industtrial">
-    <meta property="og:description"
-        content="Microcemento epossidico bicomponente ad alte prestazioni per la decorazione di pavimenti interni continui. Maggiore durezza, resistenza e impermeabilità rispetto ai microcementi tradizionali.">
-    <meta property="og:type" content="article"> 
+    <meta property="og:url"
+        content="https://www.topciment.com/cn/wenxingshuini/weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye">
+    <meta property="og:description" content="高性能的双组分环氧微水泥，用于室内地板的连续性装饰涂层。与传统微水泥相比，具有更高的硬度、阻力和防渗性。">
+    <meta property="og:type" content="article">
 
-    <link rel="canonical" href="https://www.topciment.com/it/microcemento/microcemento-epossidico-per-pavimentazione-interna-continua-industtrial" />
 
-    <link rel="alternate" href="https://www.topciment.com/it/microcemento/microcemento-epossidico-per-pavimentazione-interna-continua-industtrial"
-        hreflang="it-IT" /> 
+    <link rel="canonical"
+        href="https://www.topciment.com/cn/wenxingshuini/weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye" />
+
+    <link rel="alternate"
+        href="https://www.topciment.com/cn/wenxingshuini/weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye"
+        hreflang="zh-CN" />
 
     <?php include("../../assets/../assets/../assets/includes/scripts-head.php"); ?>
 </head>
@@ -43,7 +45,6 @@
     <?php include("../includes/header.php"); ?>
 
     <?php include("../includes/menu-movil.php"); ?>
-
 
     <div id="main">
         <div class="clearfix">
@@ -55,37 +56,37 @@
                     <div class="container">
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
-                                <li> <a href="#up" style="font-size:26px">Industtrial</a> </li>
-                                <li> <a href="#que-es-atlanttic">Cos'è Industtrial?</a> </li>
+                                <li> <a href="#up" style="font-size:26px">Industtrial 工业系列</a> </li>
+                                <li> <a href="#que-es-atlanttic">什么是Industtrial 工业系列？</a> </li>
                                 <li> <a href="#industtrial-xl">Industtrial XL</a></li>
-                                <li> <a href="#industtrial-base">Industtrial Base</a></li>
-                                <li> <a href="#industtrial-medio">Industtrial Medio</a></li>
-                                <li> <a href="#industtrial-liso">Industtrial Liso</a></li>
-                                <li> <a href="#aplicacion">Applicazione</a></li>
-                                <li> <a href="#colores">Colori</a> </li>
+                                <li> <a href="#industtrial-base">Industtrial Base 基础</a></li>
+                                <li> <a href="#industtrial-medio">Industtrial Medio 中</a></li>
+                                <li> <a href="#industtrial-liso">Industtrial Liso 细</a></li>
+                                <li> <a href="#aplicacion">应用</a></li>
+                                <li> <a href="#colores">颜色</a> </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Microcemento epossidico per pavimentazione interna continua | Industtrial</h1>
+                            <h1 class="en2">Industtrial 工业系列- 室内地板环氧微水泥</h1>
                             <div class="text-justify">
 
-                           <p>
-                                Industtrial è la nostra linea esclusiva di microcemento epossidico bicomponente (cemento + resina epossidica). Un rivestimento decorativo continuo specialmente per pareti e pavimenti interni. In questo prodotto abbiamo combinato le eccellenti prestazioni dei nostri microcementi bicomponenti con la durezza extra fornita dalle resine epossidiche.
+                          <p>
+                                Industtrial是我们独有的双组份环氧树脂微水泥（水泥+环氧树脂）系列, 特别是用于室内墙壁和地板的装饰性连续涂料。在此系列中，我们将双组分微水泥的优异性能与环氧树脂提供的最佳硬度相结合。
 
-                           </p>    
+                          </p>    
 <p>
-    Il risultato è un rivestimento continuo di altissime prestazioni soprattutto per pavimenti interni continui e pavimenti. Un microcemento epossidico di eccellente lavorabilità e imbattibile resistenza all'abrasione e al traffico pedonale.
-
-</p>    
-<p>
-    Inoltre, il nostro microcemento epossidico bicomponente Industtrial a base d'acqua si distingue per la sua finitura minerale molto naturale e l'impermeabilizzazione superiore ai sistemi di microcemento convenzionali.
+    结果令人惊喜的是一种性能非常高的连续涂料，特别适合用于室内地板和走道。这种环氧微水泥，具有极出色的操作性能和无与伦比的抗磨损和抗通行能力。
 
 </p>    
 <p>
-    Industtrial è disponibile in 16 colori e 4 granulometrie: Industtrial XL, Industtrial Base, Industtrial Medium e Industtrial Smooth.
-      
-</p>                         
+    此外，Industtrial水基环氧微水泥,, 以其非常自然的矿物饰面和防水性优于传统的微水泥系统而凸显其优点。
+
+</p>    
+<p>
+    Industtrial有16种颜色和4种颗粒纹理：Industtrial XL、Industtrial Base基础、Industtrial Medio 中 和Industtrial Liso细。
+
+</p>    
                             </div>
                         </div>
                     </div>
@@ -126,29 +127,30 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                      <h2>Microcemento epossidico per la preparazione di pavimenti e pavimentazioni Industtrial XL</h2>
+                       <H2> Industtrial XL环氧微水泥，地板和走道的基础准备。</H2>
 
 <p>
-    Industtrial XL è il nostro microcemento epossidico bicomponente per la preparazione di pavimenti e pavimentazioni epossidiche. Dopo aver applicato questo rivestimento decorativo continuo su qualsiasi pavimento o pavimentazione interna, sarà necessario applicare due mani di Industtrial Medium per completare il sistema epossidico.
+    Industtrial XL是我们的双组分环氧微水泥，用于环氧地板和走道的基础准备。这种装饰性的连续涂层可应用于任何室内地板，在Industtrial XL 之后接着要批涂两层Industtrial Medio 中面层来完成整个环氧系统。
 
 </p>    
 <p>
-    Anche se Industtrial XL è destinato a rivestire pavimenti epossidici interni e pavimenti, può anche essere utilizzato su pareti se si sta cercando una finitura specifica.
+    尽管Industtrial XL是用于室内地板的涂层，但如果想要特别的饰面效果，它也可以用于墙面。
 
-</p>     
-
- 
+</p>    
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-IT.pdf"
+
+
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-CN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Scarica qui la scheda tecnica di Industtrial XL
+                                </span>在此下载Industtrial XL的技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipi di microcemento epossidico di preparazione del pavimento Industtrial XL
+                    <h3 class="en3">用于地面和铺装准备的环氧微灰泥的类型 Industtrial XL
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -167,7 +169,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Caratteristiche del microcemento epossidico di preparazione del pavimento Industtrial XL</h3>
+                    <h3 class="en3">Industtrial  XL环氧微水泥地板基础准备的特性</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -175,7 +177,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>A组份的pH值 </strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -186,9 +188,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densità</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> 密度</strong>
+                                    <p>1,65 ± 0,02 g/mL (A组份) <br>
+                                       25ºC时1,16 g/mL (B组份)
                                 </div>
                             </div>
                         </div>
@@ -200,9 +202,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Cura totale
+                                    <strong>固化时间
                                     </strong>
-                                    <p>7- 14 giorni</p>
+                                    <p>7- 14 天 </p>
                                 </div>
                             </div>
                         </div>
@@ -212,29 +214,23 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Maggiore durezza e impermeabilità
+                                    <strong>非常高的硬度和防水性
                                     </strong>
-                                    <p>Resiste all'abrasione, al traffico pedonale e agli agenti chimici come ammoniaca, bibite o caffè.
-
-
+                                    <p>一种环氧微水泥可高度抗磨损、抗通行和化学剂，如氨、汽水或咖啡。
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación para suelos y pavimentos interiores
-                        Industtrial XL es: 1,40 Kg/m2 (1 mano)
+                    <p class="en3"> 涂布率</p>
+                    <p>用于室内地板的Industtrial XL涂布率是：1.40 Kg/m2（1层）。
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentazione</p>
-                    <p>El microcemento epoxi bicomponente de preparación para pavimentos y suelos de interior
-                        Industtrial XL
-                        se presenta en dos tipos de envases. Envases de 4,5+0,5 Kg de A+B para pigmentar 100g de ARCOCEM
-                        PLUS y envases de 18+2 Kg de A+B para pigmentar 400g de ARCOCEM PLUS.
+                    <p class="en3">包装</p>
+                    <p>有两种包装：4.5+0.5 kg的A+B可用于混合100g的ARCOCEM PLUS色浆，18+2 kg的A+B可用于混合400gARCOCEM PLUS色浆。
 
                     </p>
                 </div>
@@ -276,28 +272,25 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de paredes Industtrial Base</h2>
+                       <h2> Industtrial Base 基础 环氧微水泥，用于墙壁的准备基础</h2>
 
-                            <p>
-                                Industtrial Base es nuestro microcemento epoxi bicomponente de preparación que se
-                                utiliza
-                                para revestir paredes de interior. A continuación de aplicar este revestimiento continuo
-                                decorativo para paredes, habrá que aplicar otras dos manos de Industtrial Liso para
-                                tener el
-                                sistema epoxi completo.
+<p>
+    Industtrial Base 是我们的双组分环氧微水泥准备基础，在应用这种装饰性的连续墙面涂料后，必须再批涂两层Industtrial Liso细面层来完成环氧微水泥系统。
 
-                            </p>
+</p>    
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-IT.pdf"
+
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-CN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Scarica qui la scheda tecnica di Industtrial Base
+                                </span>在此下载Industtrial Base技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipi di microcemento epossidico di preparazione di pareti Industtrial Base </h3>
+                    <h3 class="en3">用于墙体准备的环氧微水泥类型 工业试验基地 </h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -315,7 +308,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Caratteristiche microcemento epossidico di preparazione di pareti Industtrial Base</h3>
+                    <h3 class="en3">Industtrial Base环氧微水泥墙面准备基础的特性</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -323,7 +316,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>A组份的pH值 </strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -334,9 +327,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densità</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> 密度</strong>
+                                    <p>1,65 ± 0,02 g/mL (A组份) <br>
+                                       25ºC时1,16 g/mL (B组份)
                                 </div>
                             </div>
                         </div>
@@ -348,9 +341,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Cura totale
+                                    <strong>固化时间
                                     </strong>
-                                    <p>7- 14 giorni</p>
+                                    <p>7- 14 天 </p>
                                 </div>
                             </div>
                         </div>
@@ -360,26 +353,24 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Maggiore durezza e impermeabilità
+                                    <strong>非常高的硬度和防水性
                                     </strong>
-                                    <p>Resiste all'abrasione, al traffico pedonale e agli agenti chimici come ammoniaca, bibite o caffè.
-
+                                    <p>一种环氧微水泥可高度抗磨损、抗通行和化学剂，如氨、汽水或咖啡。
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimento</p>
-                    <p>Il rendimento del microcemento epossidico Industtrial XL per pavimenti e pavimentazioni interne è: 1,40 Kg/m2 (1 mano). 
+                    <p class="en3"> 涂布率</p>
+                    <p>
+用于室内墙面的Industtrial Base涂布率是：1.20 Kg/m2（1层）。
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentazione</p>
-                    <p>Il microcemento epossidico bicomponente Industtrial XL per la preparazione di pavimenti e pavimentazioni interne è disponibile in due tipi di confezione. Confezioni da 4,5+0,5 Kg di A+B per pigmentare 100g di ARCOCEM PLUS e confezioni da 18+2 Kg di A+B per pigmentare 400g di ARCOCEM PLUS.
-
-
+                    <p class="en3">包装</p>
+                    <p>有两种包装：4.5+0.5 kg的A+B可用于混合100g的ARCOCEM PLUS色浆，18+2 kg的A+B可用于混合400gARCOCEM PLUS色浆
 
                     </p>
                 </div>
@@ -421,30 +412,28 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
- <h2>Microcemento epossidico di finiture per pavimenti Industtrial Medio</h2>
+                       <h2> Industtrial Medio环氧微水泥，用于室内地板和走道的饰面</h2>
 
 <p>
-    Industtrial Medio è il nostro microcemento epossidico bicomponente per la finitura di pavimenti e pavimentazioni epossidiche in spazi interni. Per ottenere questa pavimentazione decorativa continua, sarà necessario applicare precedentemente due mani di Industtrial XL.
+    Industtrial Medio是我们的双组分环氧微水泥，用于室内空间的环氧地板和走道的饰面。之前要达到连续无缝饰面，要先涂抹两层Industtrial XL基础。
 
 </p>    
 <p>
-    Come per Industtrial XL, anche se Industtrial Medio è appositamente progettato per pavimenti epossidici e pavimentazioni interne, può anche essere applicato su pareti se la finitura desiderata è un'altra.
+    与Industtrial XL一样，尽管Industtrial Medio是专门为环氧微水泥地板和走道设计的，但如果需要另一种表面效果，也可以应用于墙壁。
 
 </p>    
- 
 
- 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-IT.pdf"
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-CN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Scarica qui la scheda tecnica di Industtrial Medio
+                                </span>在此下载Industtrial Medio的技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipi di pavimento in microcemento epossidico Industtrial Medium
-
+                    <h3 class="en3">用于修饰地面和路面的环氧微水泥的类型 Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -464,7 +453,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">  Caratteristiche del pavimento in microcemento epossidico Industtrial Medium
+                    <h3 class="en3"> Industtrial Medio环氧微水泥地面面层特性
                     </h3>
                     <div class="row">
                         <div class="col-6">
@@ -473,7 +462,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>A组份的pH值 </strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -484,9 +473,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densità</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> 密度</strong>
+                                    <p>1,65 ± 0,02 g/mL (A组份) <br>
+                                       25ºC时1,16 g/mL (B组份)
                                 </div>
                             </div>
                         </div>
@@ -498,9 +487,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Cura totale
+                                    <strong>固化时间
                                     </strong>
-                                    <p>7- 14 giorni</p>
+                                    <p>7- 14 天 </p>
                                 </div>
                             </div>
                         </div>
@@ -510,27 +499,24 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Maggiore durezza e impermeabilità
+                                    <strong>非常高的硬度和防水性
                                     </strong>
-                                    <p>Resiste all'abrasione, al traffico pedonale e agli agenti chimici come ammoniaca, bibite o caffè.
-
+                                    <p>一种环氧微水泥可高度抗磨损、抗通行和化学剂，如氨、汽水或咖啡。
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimento</p>
-                    <p>Il rendimento del microcemento epossidico Industtrial Medium per pavimenti e pavimentazioni interne è: 0,70 Kg/m2 (1 mano).
-
+                    <p class="en3"> 涂布率</p>
+                    <p>用于室内地板的Industtrial  Medio涂布率是：0.70 Kg/m2（1层）
 
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentazione</p>
-                    <p> Il microcemento epossidico bicomponente per la finitura di pavimenti interni e pavimenti Industtrial Medio è disponibile in 4,5+0,5 Kg di A+B se si vogliono pigmentare 100g di ARCOCEM PLUS. Ci sono anche confezioni da 18+2 Kg di A+B se si vuole pigmentare con 400g di ARCOCEM PLUS.
-</p>
+                    <p class="en3">包装</p>
+                    <p> 有两种包装：4.5+0.5 kg的A+B可用于混合100g的ARCOCEM PLUS色浆，18+2 kg的A+B可用于混合400gARCOCEM PLUS色浆</p>
                 </div>
             </div>
 
@@ -564,30 +550,28 @@
                                     src="https://www.topciment.com/imagenes/industtrial/texturas/textura-industtrial-liso.jpg"
                                     alt="Textura Industtrial  liso" title="Textura Industtrial  liso">
                             </a>
-
-
-
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                      <h2>Microcemento epossidico finitura pareti Industtrial Liso</h2>
+                        <h2>用于墙面饰面的环氧微水泥 Industtrial Liso细面层</h2>
 
 <p>
-    Industtrial Liso è il nostro microcemento epossidico bicomponente ideale per la finitura di pareti interne. In precedenza, dovevano essere applicate due mani di Industtrial Base.
+    Industtrial Liso是我们的双组分环氧微水泥，是室内墙面的理想选择。之前必须涂抹两层Industtrial Base 基础。
 
-</p>     
+</p>    
 
- 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-IT.pdf"
+
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-CN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Scarica qui la scheda tecnica di Industtrial liso
+                                </span>在此下载Industtrial Liso 技术参数
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipi di  microcemento epossidico Industtrial Liso per finiture murali</h3>
+                    <h3 class="en3">环氧树脂微水泥墙面的类型 工业用光滑剂</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -605,7 +589,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Caratteristiche del microcemento epossidico Industtrial Liso per finiture murali</h3>
+                    <h3 class="en3">Industtrial Liso  环氧微水泥墙面面层特性</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -613,7 +597,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>A组份的pH值 </strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -624,9 +608,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densità</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> 密度</strong>
+                                    <p>1,65 ± 0,02 g/mL (A组份) <br>
+                                       25ºC时1,16 g/mL (B组份)
                                 </div>
                             </div>
                         </div>
@@ -638,9 +622,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Cura totale
+                                    <strong>固化时间
                                     </strong>
-                                    <p>7- 14 giorni</p>
+                                    <p>7- 14 天 </p>
                                 </div>
                             </div>
                         </div>
@@ -650,10 +634,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Maggiore durezza e impermeabilità
+                                    <strong>非常高的硬度和防水性
                                     </strong>
-                                    <p>Resiste all'abrasione, al traffico pedonale e agli agenti chimici come ammoniaca, bibite o caffè.
-
+                                    <p>一种环氧微水泥可高度抗磨损、抗通行和化学剂，如氨、汽水或咖啡。
 
                                     </p>
                                 </div>
@@ -661,13 +644,12 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimento</p>
-                    <p>Il rendimento del microcemento epossidico di finitura per pareti interne Industtrial Liso è: 0,55 Kg/m2 (1 mano).
-</p>
+                    <p class="en3"> 涂布率</p>
+                    <p>用于室内墙面的Industtrial  Liso 涂布率是：0.55 Kg/m2（1层）。</p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentazione</p>
-                    <p> Il microcemento epossidico bicomponente per la finitura di pareti interne Industtrial Base è disponibile in 4,5+0,5 Kg di A+B (per pigmentare 100g di ARCOCEM PLUS) e 18+2 Kg di A+B (per pigmentare 400g di ARCOCEM PLUS).</p>
+                    <p class="en3">包装</p>
+                    <p>有两种包装：4.5+0.5 kg的A+B可用于混合100g的ARCOCEM PLUS色浆，18+2 kg的A+B可用于混合400gARCOCEM PLUS色浆</p>
                 </div>
             </div>
 
@@ -685,31 +667,23 @@
         <section>
             <div class="container">
                 <div class="content">
-               <h2>Come applicare il microcemento epossidico bicomponente Industtrial su pareti e pavimenti negli interni</h2>
+                <h2>如何在室内墙面和地板上应用Industtrial工业系列双组分环氧微水泥</h2>
 
 <p>
-    Il microcemento epossidico bicomponente Industtrial ha un'alta adesione ai supporti minerali, anche su piastrelle dirette. Si tratta di un rivestimento decorativo continuo altamente raccomandato per la decorazione di pareti e pavimenti interni, specialmente in aree ad alta usura come garage, edifici industriali, pavimenti di gallerie, negozi, sale d'attesa, corridoi o uffici.
-
-</p>    
-<p>
-    In generale, Industtrial è un microcemento epossidico ideale per quelle pavimentazioni continue esposte ad un alto traffico pedonale.
+    Industtrial 工业系列双组分环氧微水泥对矿物基面有高的粘附力，甚至在直接铺涂在瓷砖上也是如此。它是一种装饰性的连续涂料，非常建议用于高磨损区如车库，工业仓库，画廊、商场、等候室、走廊或办公室的室内墙面和地板，以及所有人流密集高通行区域。
 
 </p>    
-<p>
-    Di seguito, spieghiamo passo dopo passo l'applicazione del microcemento epossidico Industtrial su pavimenti e pareti interne.
-      
-</p>               
+<p>下面，我们解释一下Industtrial工业系列环氧微水泥在室内地板和墙壁上的应用步骤。</p>
                     <!-- Aplicacion suelos -->
                     <div class="stepfloors mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Applicazione industriale di microcemento epossidico su pavimenti e pavimentazioni interne</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Industtrial工业系列环氧微水泥在室内地面和走道的应用</strong></a></h3>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 1. Pulizia e preparazione del supporto.</strong>
-                                    <br>Assicurarsi che il supporto sia asciutto, pulito, privo di polvere, grasso o sporco. Nel caso in cui il pavimento o la pavimentazione interna siano verniciati o dipinti, rimuovere il rivestimento precedente.
-
+                                    <strong>第 1步：清洁和准备基面</strong>
+                                    <br>确保基面干燥、清洁，没有灰尘、油脂或污垢。如果地板或走道已经有清漆或油漆，必须先清除以前的涂层。
 
                                 </div>
                                 <!-- Icono -->
@@ -726,9 +700,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 2. Priming.</strong><br>
-                                    Su superfici minerali o cementizie si raccomanda di utilizzare PRIMACEM IMPOXY A+B come primer, per ottenere un sistema epossidico al 100%. La famiglia Primapox può essere utilizzata anche come primer.
-
+                                    <strong>第2步：上底漆</strong><br>
+                                    在矿物或水泥基表面，强烈建议使用PRIMACEM IMPOXY A+B 防潮底漆，以达到100%的环氧系列环境， 也可以使用Primapox系列。
 
                                 </div>
                                 <!-- Icono -->
@@ -745,9 +718,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Fase 3. Mescolare e pigmentare.</strong><br>
-                                    Omogeneizzare il componente A e mescolarlo con il toner ARCOCEM PLUS della cartella colori INDUSTTRIAL. Poi, aggiungere il componente B e mescolare i due componenti (vedere le proporzioni nella scheda tecnica).
-  
+                                    <strong>第3步：混合色浆</strong><br>
+                                    先将A组份搅拌均匀，加入 Industtrial 工业系列色卡中的ARCOCEM PLUS色浆。然后，把B组份加入，将两组份混合均匀（见技术参数中的混合比例）。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -763,9 +735,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 4. Due mani di preparazione del pavimento in microcemento epossidico</strong>
-                                    <br>Per i pavimenti e i rivestimenti epossidici interni applicare con una spatola due mani di INDUSTTRIAL XL. Lasciare asciugare tra 4 e 12 ore tra le mani (questo tempo dipende dalla temperatura e dall'umidità). Lasciare asciugare e carteggiare.
-
+                                    <strong>第4步：批涂两层环氧微水泥地板的准备基础 </strong>
+                                    <br>室内环氧微水泥地板和走道，先用批刀涂抹两层INDUSTTRIAL XL。两层之间，让其干燥4至12小时（这个时间取决于温度和湿度），待其干燥后再进行打磨。
 
                                 </div>
                                 <!-- Icono -->
@@ -782,8 +753,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Fase 5. Due mani di finitura del pavimento in microcemento epossidico </strong>
-                                    <br>Per finire la decorazione dei pavimenti epossidici interni, applicare due mani di INDUSTTRIAL MEDIO. Lasciare un tempo di asciugatura tra le mani compreso tra 4 e 12 ore (a seconda della temperatura e dell'umidità). Lasciare asciugare per almeno 48 ore e carteggiare.
+                                    <strong>第5步：批涂两层环氧微水泥地板面层 </strong>
+                                    <br>为了达成室内环氧微水泥地板的装饰，要涂抹两层INDUSTTRIAL MEDIO面层，各层之间的干燥时间为4至12小时（取决于温度和湿度），放置干燥至少48小时，然后打磨。
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -799,9 +771,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 6. Sigillatura.</strong>
-                                    <br>Ora è il momento di proteggere il pavimento o il pavimento epossidico interno. Si può applicare una mano della nostra vernice Coverpox (lasciando asciugare 12 ore) o due mani di una qualsiasi delle nostre vernici TOPSEALER (lasciando asciugare 24 ore tra le mani). Lasciare agire il sigillante per almeno una settimana. Per prolungare la vita della vernice, applicare il nostro detergente ECOCLEAN.
-
+                                    <strong>第6步：密封</strong>
+                                    <br>现在是保护室内地板或走道环氧微水泥的时候了。你可以涂一层我们的Coverpox环氧罩面剂（需要12小干燥时间）或涂两层我们的任何TOPSEALER产品（允许两层之间有24小时的干燥时间）。让罩面剂至少在一周内发挥作用，为了延长罩面剂的寿命，请使用我们的ECOCLEAN清洁剂。
 
                                 </div>
                                 <!-- Icono -->
@@ -820,15 +791,14 @@
 
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Applicazione industriale di microcemento epossidico su pareti interne</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Industtrial工业系列环氧微水泥在室内墙面的应用</strong></a></h3>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 1. Pulizia e preparazione del supporto.</strong> <br>
-                                    Assicurarsi che il supporto sia asciutto, pulito, privo di polvere, grasso o sporco. Se le pareti sono verniciate o dipinte, rimuovere il rivestimento precedente.
-
+                                    <strong>第 1 步： 清洁和准备基面</strong> <br>
+                                    确保基面干燥、清洁，没有灰尘、油脂或污垢。如果墙面上已经有清漆或油漆，要把以前的涂层去除。
 
                                 </div>
                                 <!-- Icono -->
@@ -845,8 +815,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 2. Priming.</strong><br>
-                                    Su superfici minerali o cementizie si raccomanda di utilizzare PRIMACEM IMPOXY A+B come primer, per ottenere un sistema epossidico al 100%. La famiglia Primapox può essere utilizzata anche come primer.
+                                    <strong>第2步：打底漆</strong><br>
+                                    在矿物或水泥基表面，建议使用PRIMACEM IMPOXY A+B防潮底漆，以达到100%的环氧系统环境。也可以使用Primapox。
 
 
                                 </div>
@@ -864,9 +834,10 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Fase 3. Mescolare e pigmentare.</strong><br>
-                                    Unire il componente A e mescolarlo con il toner ARCOCEM PLUS della cartella colori INDUSTTRIAL. Poi aggiungere il componente B e mescolare i due componenti (vedere le proporzioni esatte nella scheda tecnica).
- 
+                                    <strong>第3步：混合色浆</strong><br>
+                                    先将A组份搅拌均匀，加入 Industtrial 工业系列色卡中的ARCOCEM PLUS色浆。然后，把B组份加入，将两组份混合均匀（见技术参数中的混合比例）。
+
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -882,10 +853,12 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 4. Due mani di microcemento epossidico per la preparazione del muro
+                                    <strong>第4步：批涂两层环氧微水泥墙面的准备基础
                                     </strong>
-                                    <br>Per le pareti epossidiche interne, applicare due mani di INDUSTTRIAL BASE con una spatola. Lasciare asciugare tra le 4 e le 12 ore tra le mani (il tempo esatto dipenderà dal grado di temperatura e di umidità). Lasciare asciugare e carteggiare.
-  
+                                    <br>
+                                    室内环氧微水泥墙面，先用批刀涂抹两层INDUSTTRIAL BASE基础。两层之间，让其干燥4至12小时（这个时间取决于温度和湿度），待其干燥后再进行打磨。
+
+
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -901,9 +874,10 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 5. Due mani di finitura epossidica in microcemento per le pareti
+                                    <strong>第5步：批涂两层环氧微水泥墙面面层
                                     </strong>
-                                    <br>Per finire la decorazione delle pareti interne, applicare due mani di INDUSTTRIAL LISO (lasciare anche tra 4 e 12 ore di asciugatura tra le mani). Lasciare asciugare almeno 48 ore e carteggiare.
+                                    <br>
+                                    为了达成室内环氧微水泥墙面的装饰，要涂抹两层INDUSTTRIAL LISO面层，各层之间的干燥时间为4至12小时（取决于温度和湿度），放置干燥至少48小时，然后打磨。
 
 
                                 </div>
@@ -921,10 +895,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Passo 6. Sigillatura.</strong> <br>
-                                    Proteggere il muro interno con epossidica. Si può applicare una mano della nostra vernice Coverpox (lasciare 12 ore di asciugatura) o due mani di una delle vernici TOPSEALER (lasciare 24 ore di asciugatura tra le mani). Lasciare agire la vernice per almeno una settimana. Per prolungare la vita del sigillante, applicate il nostro detergente ECOCLEAN.
-
-
+                                    <strong>第6步：密封</strong> <br>
+                                    保护室内墙面环氧微水泥，你可以涂一层我们的Coverpox环氧罩面剂（需要12小干燥时间）或涂两层我们的任何TOPSEALER产品（允许两层之间有24小时的干燥时间）。让罩面剂至少在一周内发挥作用，为了延长罩面剂的寿命，请使用我们的ECOCLEAN清洁剂。
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -955,15 +927,17 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en3">  Colori del microcemento epossidico Industtrial</h2>
-                   <p>
-                        Il microcemento epossidico Industtrial è disponibile in 16 colori, offrendo così una moltitudine di possibilità decorative come rivestimento continuo per pavimenti e pareti epossidiche interne. Colori in resina epossidica che offrono al professionista finiture uniformi di grande bellezza e tra le quali spiccano quelle tonalità perlate e perlescenti che portano eleganza e raffinatezza all'arredamento di qualsiasi stanza.
+                    <h2 class="en3">  Industtrial工业系列环氧微水泥色卡</h2>
+                   
 
-                   </p>    
 <p>
-    La versatilità dei pigmenti di microcemento epossidico Industtrial non solo porta distinzione e attrattiva ai pavimenti epossidici interni. Sono anche colori che permettono alla resina epossidica di raggiungere il suo massimo rendimento, aumentando il colore e la lucentezza della pavimentazione. Una combinazione che prolunga la loro vita utile, rendendoli molto più durevoli nel tempo.
+    Industtrial工业系列环氧微水泥有16种颜色可供选择，为室内环氧地板和墙壁的连续涂层，提供了多种装饰的可能性。 环氧微水泥色浆为专业人员提供了非常美丽细致的饰面，特别是是珍珠和珠光色调，为任何房间的室内设计带来优雅和精致。
 
 </p>    
+<p>
+    Industtrial 环氧微水泥色浆不仅为室内环氧地面带来了与众不同的吸引力，也让环氧树脂达到最大性能，同时提升地面的颜色和光泽度。这种组合延长了使用寿命，使它们随着时间更加耐用。
+      
+</p>                 
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1160,10 +1134,9 @@
         <script defer src='../../assets/js/lightbox-plus-jquery.min.js'></script>
 
         <?php include("../../assets/../assets/includes/scripts.php"); ?>
-    </div>   
-    <!-- include jQuery -->
+    </div>2
 
-  
+
 </body>
 
 </html>

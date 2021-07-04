@@ -60,53 +60,36 @@
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
                                 <li> <a href="#up" style="font-size:26px">Industtrial</a> </li>
-                                <li> <a href="#que-es-atlanttic">¿Qué es Industtrial?</a> </li>
+                                <li> <a href="#que-es-atlanttic">Qu'est-ce-que  Industtrial?</a> </li>
                                 <li> <a href="#industtrial-xl">Industtrial XL</a></li>
                                 <li> <a href="#industtrial-base">Industtrial Base</a></li>
                                 <li> <a href="#industtrial-medio">Industtrial Medio</a></li>
                                 <li> <a href="#industtrial-liso">Industtrial Liso</a></li>
-                                <li> <a href="#aplicacion">Aplicación</a></li>
-                                <li> <a href="#colores">Colores</a> </li>
+                                <li> <a href="#aplicacion">Aplication</a></li>
+                                <li> <a href="#colores">Couleurs</a> </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Microcemento epoxi para pavimento continuo interior | Industtrial</h1>
+                            <h1 class="en2">Béton ciré époxy pour sols intérieurs continus | Industtrial</h1>
                             <div class="text-justify">
 
-                                <p>
-                                    Microcemento epoxi bicomponente de altas prestaciones para decorar pavimentos
-                                    continuos interiores. Mayor dureza, resistencia e impermeabilidad que los
-                                    microcementos tradicionales.
+                           <p>
+                                Industtrial est notre gamme exclusive de béton ciré époxy à deux composants (ciment + résine époxy). Un revêtement décoratif continu spécialement pour les murs et sols intérieurs. Dans ce produit, nous avons combiné les excellentes performances de nos bétons cirés bicomposants avec la dureté supplémentaire fournie par les résines époxy.
 
-                                </p>
-                                <p>
-                                    Industtrial es nuestra línea exclusiva de microcemento epoxi bicomponente (cemento +
-                                    resina epoxi). Un revestimiento continuo decorativo especialmente para paredes y
-                                    suelos de interior. En este producto hemos aunado las excelentes prestaciones de
-                                    nuestros microcementos bicomponentes con el extra de dureza que aportan las resinas
-                                    epoxi.
+                           </p>    
+<p>
+    Le résultat est un revêtement continu de la plus haute performance, en particulier pour les sols et sols intérieurs continus. Un béton ciré époxy avec une excellente maniabilité et une excellente résistance à l'abrasion et à la circulation piétonnière.
 
-                                </p>
-                                <p>
-                                    El resultado es un revestimiento continuo de altísimas prestaciones sobre todo para
-                                    pavimentos y suelos continuos interiores. Un microcemento epoxi de excelente
-                                    trabajabilidad e inmejorable resistencia a la abrasión y al tránsito peatonal.
+</p>    
+<p>
+    De même, notre béton ciré époxy bi-composant à base d'eau industrielle se distingue par sa finition minérale très naturelle et par son imperméabilité supérieure aux systèmes de béton ciré conventionnels.
 
-                                </p>
-                                <p>
-                                    Asimismo, nuestro microcemento epoxi bicomponente de base agua Industtrial destaca
-                                    por su acabado mineral muy natural y por una impermeabilidad superior a los sistemas
-                                    de microcemento convencionales.
+</p>    
+<p>
+    Industtrial est disponible en 16 couleurs et 4 granulométries : Industrial XL, Industrial Base, Industrial Medium et Industrial Liso.
 
-                                </p>
-                                <p>
-
-                                    Industtrial está disponible en 16 colores y 4 granulometrías: Industtrial XL,
-                                    Industtrial Base, Industtrial Medio e Industtrial Liso.
-
-                                </p>
-
+</p>    
                             </div>
                         </div>
                     </div>
@@ -147,31 +130,29 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de suelos y pavimentos Industtrial XL</h2>
+                       <h2>Béton ciré époxy Industtrial XL pour la préparation des sols et trottoirs</h2>
 
-                            <p>
-                                Industtrial XL es nuestro microcemento epoxi bicomponente de preparación para suelos y
-                                pavimentos epoxi. Después de aplicar este revestimiento continuo decorativo sobre
-                                cualquier suelo o pavimento interior, será necesario aplicar dos manos de Industtrial
-                                Medio para completar el sistema epoxi.
+<p>
+    Industrial XL est notre béton ciré époxy à deux composants pour la préparation de sols et de trottoirs époxy. Après avoir appliqué ce revêtement décoratif continu sur n'importe quel sol ou trottoir intérieur, il sera nécessaire d'appliquer deux couches d'Industrial Medio pour compléter le système époxy.
 
-                            </p>
-                            <p>
-                                Aunque Industtrial XL está pensando para recubrir pavimentos y suelos epoxi de interior,
-                                también puede utilizarse sobre paredes si se busca un acabado concreto.
+</p>    
+<p>
+    Bien qu'Industrial XL soit destiné à recouvrir les sols et sols époxy intérieurs, il peut également être utilisé sur les murs si une finition béton est recherchée.
 
-                            </p>
+</p>    
+
+ 
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-FR.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial XL
+                                </span>Téléchargez ici la fiche technique de Industtrial XL
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de suelos y pavimentos Industtrial XL
+                    <h3 class="en3">Types de béton ciré époxy pour la préparation des sols Industriels XL
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -190,7 +171,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de preparación para suelos Industtrial XL</h3>
+                    <h3 class="en3"> Caractéristiques du béton ciré époxy pour la préparation des sols Industriels XL</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -198,7 +179,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>Composant A pH</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -209,9 +190,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong>Densité</strong>
+                                    <p>1,65 ± 0,02 g/mL (Composant A) <br>
+                                        A 25ºC 1,16 g/mL (Composant B)
                                 </div>
                             </div>
                         </div>
@@ -223,9 +204,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Durcissement complet
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 jours</p>
                                 </div>
                             </div>
                         </div>
@@ -235,11 +216,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Plus grande dureté et imperméabilité
                                     </strong>
-                                    <p>Industtrial garantiza una mayor dureza e impermeabilidad que los microcementos
-                                        convencionales. Un microcemento epoxi que resiste a la abrasión, al tránsito
-                                        peatonal y a agentes químicos como amoniaco, refrescos o café.
+                                    <p>Résiste à l'abrasion, à la circulation piétonnière et aux agents chimiques tels que l'ammoniac, les boissons gazeuses ou le café.
+
 
                                     </p>
                                 </div>
@@ -247,18 +227,16 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación para suelos y pavimentos interiores
-                        Industtrial XL es: 1,40 Kg/m2 (1 mano)
+                    <p class="en3"> Rendement</p>
+                    <p>Les performances du béton ciré époxy industriel XL pour la préparation des sols et des dallages intérieurs sont de : 1,40 Kg/m2 (1 couche)
+
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para pavimentos y suelos de interior
-                        Industtrial XL
-                        se presenta en dos tipos de envases. Envases de 4,5+0,5 Kg de A+B para pigmentar 100g de ARCOCEM
-                        PLUS y envases de 18+2 Kg de A+B para pigmentar 400g de ARCOCEM PLUS.
+                    <p class="en3">Présentation</p>
+                    <p>Le béton ciré époxy bi-composant Industrial XL pour sols intérieurs et préparation de sols est présenté dans deux types de contenants. Pots de 4,5 + 0,5 Kg de A + B pour pigmenter 100g d'ARCOCEM PLUS et pots de 18 + 2 Kg de A + B pour pigmenter 400g d'ARCOCEM PLUS.
+
 
                     </p>
                 </div>
@@ -300,28 +278,26 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de paredes Industtrial Base</h2>
+                        <h2>Béton ciré époxy de préparation de mur Industtrial Base</h2>
 
-                            <p>
-                                Industtrial Base es nuestro microcemento epoxi bicomponente de preparación que se
-                                utiliza
-                                para revestir paredes de interior. A continuación de aplicar este revestimiento continuo
-                                decorativo para paredes, habrá que aplicar otras dos manos de Industtrial Liso para
-                                tener el
-                                sistema epoxi completo.
+<p>
+    Industtrial Base est notre béton ciré époxy à deux composants pour la préparation des murs intérieurs. Après l'application de ce revêtement mural décoratif continu, deux autres couches de Liso industriel devront être appliquées pour avoir le système époxy complet.
 
-                            </p>
+</p>    
+ 
+ 
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-FR.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Base
+                                </span>Téléchargez ici la fiche technique de Industtrial Base
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de paredes Industtrial Base </h3>
+                    <h3 class="en3">Types de béton ciré époxy pour la préparation des murs Industtrial Base </h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -339,7 +315,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de preparación de paredes Industtrial Base</h3>
+                    <h3 class="en3">Caractéristiques du béton ciré époxy pour la préparation des murs Industtrial Base</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -347,7 +323,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>Composant A pH</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -358,9 +334,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong>Densité</strong>
+                                    <p>1,65 ± 0,02 g/mL (Composant A) <br>
+                                        A 25ºC 1,16 g/mL (Composant B)
                                 </div>
                             </div>
                         </div>
@@ -372,9 +348,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Durcissement complet
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 jours</p>
                                 </div>
                             </div>
                         </div>
@@ -384,10 +360,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Plus grande dureté et imperméabilité
                                     </strong>
-                                    <p>Resistente la abrasión, el tránsito
-                                        peatonal y agentes químicos como pueden ser amoniaco, refrescos o café.
+                                    <p>Résiste à l'abrasion, à la circulation piétonnière et aux agents chimiques tels que l'ammoniac, les boissons gazeuses ou le café.
+
 
                                     </p>
                                 </div>
@@ -395,22 +371,15 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación de paredes interiores Industtrial Base es:
-                        1,20
-                        Kg/m2 (1 mano)
+                    <p class="en3"> Rendement</p>
+                    <p>Les performances du béton ciré époxy de préparation des murs intérieurs Industtrial Base sont de : 1,20 Kg/m2 (1 couche)
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para paredes de interior Industtrial Base se
-                        presenta
-                        en envases de 4,5+0,5 Kg de A+B, para pigmentar con 100g de ARCOCEM PLUS, y de 18+2 Kg de A+B
-                        para
-                        pigmentar con 400g de ARCOCEM PLUS.
-
-
+                    <p class="en3">Présentation</p>
+                    <p>Le béton ciré époxy bi-composant pour la préparation des murs intérieurs Base Industrielle est présenté en bidons de 4,5 + 0,5 Kg de A + B, à pigmenter avec 100g d'ARCOCEM PLUS, et 18 + 2 Kg de A + B à pigmenter avec 400g de ARCOCEM PLUS.
+ 
                     </p>
                 </div>
             </div>
@@ -451,33 +420,29 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio</h2>
+                       <h2>Béton ciré époxy pour la finition des sols et des trottoirs Industtrial Medio</h2>
 
-                            <p>
-                                Industtrial Medio es nuestro microcemento epoxi bicomponente de terminación para suelos
-                                y
-                                pavimentos epoxi en espacios de interior. Para obtener este pavimento continuo
-                                decorativo,
-                                será necesario aplicar previamente dos manos de Industtrial XL.
+<p>
+    Industtrial Medio est notre béton ciré époxy à deux composants pour la finition des sols et des revêtements époxy dans les espaces intérieurs. Pour obtenir ce revêtement de sol décoratif en continu, il sera nécessaire d'appliquer au préalable deux couches d'Industrial XL.
 
-                            </p>
-                            <p>
-                                Del mismo modo que ocurre con Industtrial Xl, aunque Industtrial Medio está
-                                especialmente
-                                diseñado para suelos de epoxi y pavimentos interiores, se puede aplicar también sobre
-                                paredes si el acabado deseado es otro.
+</p>    
+<p>
+    De la même manière que cela se produit avec Industtrial Xl, bien qu'Industtrial Medio soit spécialement conçu pour les sols époxy et les sols intérieurs, il peut également être appliqué sur les murs si la finition souhaitée est différente.
 
-                            </p>
+</p>    
+ 
+ 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-FR.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Medio
+                                </span>Téléchargez ici la fiche technique de Industtrial Medio
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio
+                    <h3 class="en3">Types de finition en béton ciré époxy pour sols Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -497,7 +462,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de terminación para suelos Industtrial Medio
+                    <h3 class="en3"> Caractéristiques de finition en béton ciré époxy pour sols Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-6">
@@ -506,7 +471,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>Composant A pH</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -517,9 +482,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong>Densité</strong>
+                                    <p>1,65 ± 0,02 g/mL (Composant A) <br>
+                                        A 25ºC 1,16 g/mL (Composant B)
                                 </div>
                             </div>
                         </div>
@@ -531,9 +496,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Durcissement complet
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 jours</p>
                                 </div>
                             </div>
                         </div>
@@ -543,33 +508,26 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Plus grande dureté et imperméabilité
                                     </strong>
-                                    <p>Resistente a la abrasión, al tránsito peatonal
-                                        y a algunos agentes químicos como amoniaco, refrescos o café.
-
+                                    <p>Résiste à l'abrasion, à la circulation piétonnière et aux agents chimiques tels que l'ammoniac, les boissons gazeuses ou le café.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para suelos y pavimentos interiores
-                        Industtrial
-                        Medio es: 0,70 Kg/m2 (1 mano)
+                    <p class="en3"> Rendement</p>
+                    <p>ELa performance du béton ciré époxy de finition pour sols et dallages intérieurs Industtrial Medio est de : 0,70 Kg/m2 (1 couche)
+
 
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para pavimentos y suelos de interior
-                        Industtrial
-                        Medio
-                        se presenta en envases de 4,5+0,5 Kg de A+B si se quiere pigmentar 100g de ARCOCEM PLUS. También
-                        hay
-                        envases de 18+2 Kg de A+B si se quiere pigmentar con 400g ARCOCEM PLUS. </p>
+                    <p class="en3">Présentation</p>
+                    <p> Le béton ciré époxy bi-composant pour sols intérieurs et sols Industrial Medio est présenté en bidons de 4,5 + 0,5 Kg de A + B si vous souhaitez pigmenter 100g d'ARCOCEM PLUS. Il existe également des bidons de 18 + 2 Kg de A + B si vous souhaitez pigmenter avec 400g d'ARCOCEM PLUS.
+ </p>
                 </div>
             </div>
 
@@ -609,22 +567,22 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de paredes Industtrial Liso</h2>
+                 <h2> Béton ciré époxy pour mur Industtrial Liso</h2>
 
-                            <p>Industtrial Liso es nuestro microcemento epoxi bicomponente de terminación ideal para
-                                revestir paredes de interior. De manera previa, se tendrá que haber aplicado dos manos
-                                de
-                                Industtrial Base.
-                            </p>
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+<p>
+    Industtrial Liso est notre béton ciré époxy bi-composant de finition idéal pour le revêtement des murs intérieurs. Auparavant, deux couches d'Industtrial Base doivent avoir été appliquées.
+
+</p>     
+ 
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-FR.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial liso
+                                </span>Téléchargez ici la fiche technique de Industtrial liso
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3">Types de béton ciré Epoxy Mur Industtrial Liso</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -642,7 +600,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3"> Caractéristiques du béton ciré Epoxy Mur Industtrial Liso</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -650,7 +608,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>Composant A pH</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -661,9 +619,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong>Densité</strong>
+                                    <p>1,65 ± 0,02 g/mL (Composant A) <br>
+                                        A 25ºC 1,16 g/mL (Composant B)
                                 </div>
                             </div>
                         </div>
@@ -675,9 +633,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Durcissement complet
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 jours</p>
                                 </div>
                             </div>
                         </div>
@@ -687,10 +645,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Plus grande dureté et imperméabilité
                                     </strong>
-                                    <p>Resistente a la abrasión, el
-                                        tránsito peatonal y agentes químicos como amoniaco, refrescos o café.
+                                    <p>Résiste à l'abrasion, à la circulation piétonnière et aux agents chimiques tels que l'ammoniac, les boissons gazeuses ou le café.
 
 
                                     </p>
@@ -699,17 +656,12 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para paredes de interior Industtrial Liso
-                        es:
-                        0,55 Kg/m2 (1 mano). </p>
+                    <p class="en3"> Rendement</p>
+                    <p>Les performances du béton ciré époxy de finition pour murs intérieurs Industtrial Liso sont de : 0,55 Kg/m2 (1 couche). </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para paredes de interior Industtrial Base se
-                        presenta en envases de 4,5+0,5 Kg de A+B (para pigmentar 100g de ARCOCEM PLUS) y envases de 18+2
-                        Kg
-                        de A+B (para pigmentar 400g de ARCOCEM PLUS).</p>
+                    <p class="en3">Présentation</p>
+                    <p> Le béton ciré époxy bi-composant pour murs intérieurs Industtrial Liso est présenté en bidons de 4,5 + 0,5 Kg de A + B (pour pigmenter 100g d'ARCOCEM PLUS) et en bidons de 18 + 2 Kg de A + B (pour pigmenter 400g d'ARCOCEM PLUS ).</p>
                 </div>
             </div>
 
@@ -727,42 +679,27 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Cómo aplicar el microcemento epoxi bicomponente Industtrial en paredes y suelos de interior</h2>
+               <h2>Comment appliquer le béton ciré époxy Industtrail à deux composants sur les murs et sols intérieurs</h2>
 
-                    <p>
-                        El microcemento epoxi bicomponente Industtrial presenta una elevada adherencia a soportes
-                        minerales,
-                        incluso sobre azulejo directo. Es un revestimiento continuo decorativo muy recomendable para
-                        decorar
-                        paredes y suelos de interior, especialmente en zonas con alto desgaste como garajes, naves
-                        industriales, suelos de galerías, comercios, salas de espera, pasillos u oficinas.
+<p>
+    Le béton ciré époxy Industtrial à deux composants présente une adhérence élevée aux substrats minéraux, même sur carrelage direct. C'est un revêtement décoratif continu fortement recommandé pour la décoration des murs et sols intérieurs des galeries, magasins, salles d'attente, couloirs ou bureaux et sur tous ces sols continus exposés à un fort trafic piétonnier.
 
-                    </p>
-                    <p>
-                        En general, Industtrial es un microcemento epoxi ideal para aquellos pavimentos continuos
-                        expuestos
-                        a un elevado tránsito peatonal.
-
-                    </p>
-                    <p>
-                        A continuación, explicamos el paso a paso de la aplicación del microcemento epoxi Industtrial en
-                        suelos y paredes interiores.
-
-                    </p>
+</p>    
+<p>
+    Ensuite, nous expliquons l'application étape par étape du béton ciré époxy Industtrial sur les sols et murs intérieurs.
+      
+</p>             
                     <!-- Aplicacion suelos -->
                     <div class="stepfloors mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en suelos y pavimentos de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+  Application du béton Industtrial époxy dans les sols et trottoirs intérieurs</strong></a></h3>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong>
-                                    <br>Garantizar que el soporte está seco, limpio, libre de polvo, grasa o suciedad.
-                                    En
-                                    caso de que el suelo o pavimento interior esté barnizado o pintado, eliminar el
-                                    recubrimiento anterior.
+                                    <strong>Étape 1. Nettoyage et préparation du support.</strong>
+                                    <br>Assurez-vous que le support est sec, propre, exempt de poussière, de graisse ou de saleté. Si le sol ou le parquet intérieur est verni ou peint, enlevez le revêtement précédent.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -779,13 +716,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas es muy recomendable utilizar PRIMACEM IMPOXY
-                                    A+B
-                                    como imprimación, para obtener así un sistema 100% epoxi. También puede utilizarse
-                                    como
-                                    imprimación la familia Primapox.
-
+                                    <strong>Étape 2. Primaire.</strong><br>
+                                    Sur les supports minéraux ou cimentaires, il est fortement recommandé d'utiliser PRIMACEM IMPOXY A + B comme primaire, afin d'obtenir un système 100% époxy. La famille Primapox peut également être utilisée comme primaire.
+ 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -801,11 +734,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Homogenizar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la
-                                    carta
-                                    de colores de INDUSTTRIAL. Después, agregar el componente B y mezclar los dos
-                                    componentes (ver proporciones en ficha técnica).
+                                    <strong>Étape 3. Mélangez et pigmentez.</strong><br>
+                                    Homogénéiser le composant A et le mélanger avec le toner couleur ARCOCEM PLUS du nuancier INDUSTRIE. Ajoutez ensuite le composant B et mélangez les deux composants (voir proportions dans la fiche technique).
+
 
                                 </div>
                                 <!-- Icono -->
@@ -822,11 +753,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para suelos </strong>
-                                    <br>Para pavimentos y suelos de interior epoxi aplicar con llana dos manos de
-                                    INDUSTTRIAL XL. Dejar secar entre 4 y 12 horas entre capas (este tiempo depende de
-                                    la
-                                    temperatura y humedad). Dejar secar y lijar.
+                                    <strong>Étape 4. Deux couches de béton ciré époxy pour la préparation du sol </strong>
+                                    <br>Pour les sols intérieurs et les sols époxy, appliquer deux couches d'INDUSTTRIAL XL à la taloche. Laisser sécher entre 4 et 12 heures entre les couches (ce temps dépend de la température et de l'humidité). Laisser sécher et poncer
+
 
                                 </div>
                                 <!-- Icono -->
@@ -843,12 +772,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para suelos </strong>
-                                    <br>Para terminar de decorar los suelos epoxi de interior, hay que aplicar dos manos
-                                    de
-                                    INDUSTTRIAL MEDIO. Dejar también un tiempo de secado entre capas de entre 4 y 12
-                                    horas
-                                    (depende de la temperatura y humedad). Dejar secar mínimo 48 horas y lijar.
+                                    <strong>Étape 5. Deux couches de finition pour sols en béton ciré époxy</strong>
+                                    <br>Pour finir de décorer les sols époxy intérieurs, vous devez appliquer deux couches d'INDUSTTRIAL MEDIO. Prévoir également un temps de séchage entre les couches compris entre 4 et 12 heures (en fonction de la température et de l'humidité). Laisser sécher au moins 48 heures et poncer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -865,13 +791,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong>
-                                    <br>Ha llegado el turno de proteger el pavimento o suelo interior epoxi. Se puede
-                                    aplicar una mano de nuestro barniz Coverpox (dejando secar 12 horas) o bien aplicar
-                                    dos
-                                    manos de cualquiera de nuestros barnices de la gama TOPSEALER (dejando 24 horas de
-                                    secado entre capas). Dejar actuar al sellador al menos una semana. Para prolongar la
-                                    vida del barniz, aplicar nuestro limpiador detergente ECOCLEAN.
+                                    <strong>Étape 6. Scellement.</strong>
+                                    <br>Il est maintenant temps de protéger le sol ou le sol intérieur en époxy. Vous pouvez appliquer une couche de notre vernis Coverpox (en laissant sécher 12 heures) ou appliquer deux couches de l'un de nos vernis de la gamme TOPSEALER (en laissant sécher 24 heures entre les couches). Laissez le scellant agir pendant au moins une semaine. Pour prolonger la durée de vie du vernis, appliquez notre nettoyant détergent ECOCLEAN.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -890,16 +812,15 @@
 
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en paredes de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+Application du béton ciré époxy Industtrial sur murs intérieurs</strong></a></h3>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong> <br>
-                                    Asegurar que el soporte está seco, limpio, libre de polvo, grasa o suciedad. Si las
-                                    paredes están barnizadas o pintadas, quitar el recubrimiento anterior.
+                                    <strong>Étape 1. Nettoyage et préparation du support.</strong> <br>
+                                    Assurez-vous que le support est sec, propre, exempt de poussière, de graisse ou de saleté. Si les murs sont vernis ou peints, enlevez le revêtement précédent.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -916,11 +837,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas se recomienda utilizar PRIMACEM IMPOXY A+B
-                                    como
-                                    imprimación, para lograr así un sistema 100% epoxi. También puede utilizarse como
-                                    imprimación la familia Primapox.
+                                    <strong>Étape 2. Primaire.</strong><br>
+                                    Sur les supports minéraux ou cimentaires, il est recommandé d'utiliser PRIMACEM IMPOXY A + B comme primaire, afin d'obtenir un système 100% époxy. La famille Primapox peut également être utilisée comme primaire.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -937,11 +856,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Unificar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la carta
-                                    de
-                                    colores de INDUSTTRIAL. Después, sumar el componente B y mezclar los dos componentes
-                                    (ver las proporciones exactas en la ficha técnica).
+                                    <strong>Étape 3. Mélangez et pigmentez.</strong><br>
+                                    Unifier le composant A et le mélanger avec le toner couleur ARCOCEM PLUS du nuancier INDUSTRIE. Ajoutez ensuite le composant B et mélangez les deux composants (voir les proportions exactes dans la fiche technique).
+
 
                                 </div>
                                 <!-- Icono -->
@@ -958,13 +875,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para paredes
+                                    <strong>Étape 4. Deux couches de béton ciré époxy pour la préparation des murs
                                     </strong>
                                     <br>
-                                    Para las paredes de interior epoxi aplicar con llana dos manos de INDUSTRIAL BASE.
-                                    Dejar
-                                    secar entre 4 y 12 horas entre capas (el tiempo exacto dependerá del grado de la
-                                    temperatura y humedad). Dejar secar y lijar.
+                                    Pour les murs intérieurs en époxy, appliquer deux couches de Industtrial Base à la taloche. Laisser sécher entre 4 et 12 heures entre les couches (le temps exact dépendra du degré de température et d'humidité). Laisser sécher et poncer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -981,14 +896,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para paredes
+                                    <strong>Étape 5. Deux couches de béton ciré époxy pour la finition des murs
                                     </strong>
                                     <br>
-                                    Para terminar de decorar las paredes de interior, aplicar dos manos de INDUSTTRIAL
-                                    LISO
-                                    (también hay que dejar entre 4 y 12 horas de secado entre capas). Dejar secar mínimo
-                                    48
-                                    horas y lijar.
+                                    Pour finir de décorer les murs intérieurs, appliquez deux couches d'Industtrial Liso (il faut également compter entre 4 et 12 heures de séchage entre les couches). Laisser sécher au moins 48 heures et poncer.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -1005,13 +917,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong> <br>
-                                    Proteger la pared de interior epoxi. Puede aplicarse una capa de nuestro barniz
-                                    Coverpox
-                                    (dejar secar 12 horas) o dos capas de uno de los barnices de la gama TOPSEALER
-                                    (dejando
-                                    24 horas de secado entre manos). Dejar actuar al barniz al menos una semana. Para
-                                    prolongar la vida del sellador, aplicar nuestro limpiador detergente ECOCLEAN.
+                                    <strong>Étape 6. Scellement.</strong> <br>
+                                    Protégez le mur intérieur en époxy. Vous pouvez appliquer une couche de notre vernis Coverpox (laisser sécher 12 heures) ou deux couches d'un des vernis de la gamme TOPSEALER (compter 24 heures de séchage entre les couches). Laissez agir le vernis pendant au moins une semaine. Pour prolonger la durée de vie du scellant, appliquez notre nettoyant détergent ECOCLEAN.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -1043,8 +951,15 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en3"> Colores del microcemento epoxi Industtrial</h2>
+                    <h2 class="en3">Couleurs du béton ciré époxy industtrial</h2>
+                 <p>
+                        Le béton ciré époxy industtrial est disponible en 16 coloris, offrant ainsi une multitude de possibilités décoratives comme le revêtement en continu des sols et murs époxy en intérieur. Couleurs pour résine époxy qui offrent les finitions uniformes professionnelles d'une grande beauté et parmi lesquelles se distinguent les tons plus nacrés et nacrés qui ajoutent élégance et sophistication à la décoration intérieure de n'importe quelle pièce.
 
+                 </p>    
+<p>
+    La polyvalence des pigments du béton ciré époxy industtrial ajoute non seulement de la distinction et de l'attrait aux sols époxy intérieurs. Sinon, ce sont aussi des couleurs qui aident la résine époxy à atteindre ses performances maximales, tout en augmentant la couleur et la luminosité des sols. Une combinaison qui prolonge leur durée de vie, les rendant beaucoup plus durables dans le temps.
+
+</p>    
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1242,231 +1157,7 @@
 
         <?php include("../../assets/../assets/includes/scripts.php"); ?>
     </div> 
-    <!-- include jQuery -->
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "ProductGroup",
-            "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment",
-            "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
-            "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
-            "brand": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "manufacturer": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "weight": "20 Kg",
-            "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-            "variesBy": "size",
-            "additionalProperty": [{
-                    "@type": "PropertyValue",
-                    "name": "Résistance à la flexion",
-                    "value": "9 N/m² (28 jours)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Résistance au feu",
-                    "value": "BFL S1"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Résistance à la compression",
-                    "value": "55 N/m² (28 jours)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Adhésion au substrat",
-                    "value": "1,5 N/m²"
-                }
-            ],
-            "potentialAction": {
-                "@type": "Action",
-                "name": "Application du microciment"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "reviewCount": "14"
-            },
-            "hasVariant": [{
-                    "@type": "Product",
-                    "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment M",
-                    "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
-                    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
-                    "size": "M",
-                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-epoxy-pour-sols-interieurs-continus-industtrial",
-                    "sku": "TT01008",
-                    "gtin13": "8436575620091",
-                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Résistance à la flexion",
-                            "value": "9 N/m² (28 jours)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Résistance au feu",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Résistance à la compression",
-                            "value": "55 N/m² (28 jours)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Adhésion au substrat",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                },
-                {
-                    "@type": "Product",
-                    "name": "béton ciré bicomposant pour piscines Atlanttic Aquaciment XL",
-                    "description": "béton ciré bicomposant pour le revêtement de surfaces en contact permanent avec l'eau, comme les piscines, les bassins ou les fontaines.",
-
-
-                    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_XL.jpg",
-                    "size": "XL",
-                    "url": "https://www.topciment.com/fr/beton-cire/beton-cire-epoxy-pour-sols-interieurs-continus-industtrial",
-                    "sku": "TT01007",
-                    "gtin13": "8436575620084",
-                    "material": "Liants hydrauliques, agrégats sélectionnés et additifs spécifiques",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Résistance à la flexion",
-                            "value": "9 N/m² (28 jours)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Résistance au feu",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Résistance à la compression",
-                            "value": "55 N/m² (28 jours)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Adhésion au substrat",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                }
-
-            ]
-        }
-    </script>
+ 
 </body>
 
 </html>

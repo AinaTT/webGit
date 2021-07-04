@@ -179,6 +179,10 @@
 
 /*  largecss */
 @media screen and (min-width:1201px) {
+
+    .industtrial-logo{
+        width: 55%;
+    }
     .en2s {
         font-size: 55px !important;
         font-weight: 300;

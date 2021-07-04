@@ -240,9 +240,9 @@
                 </div>
                 <!-- Desctiption Industtrial -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <h2 class="sh2">Epoxid-Mikrozement</h2>
                     <p class="textos">
-                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    Es ist ein Zweikomponenten-Epoxid-Mikrozement (Zement + Epoxidharz), der als durchgehende Beschichtung für Böden und Wände im Innenbereich verwendet wird. Es zeichnet sich durch eine außergewöhnliche Härte, eine hervorragende Abrieb- und Verkehrsbeständigkeit und eine höhere Dichtigkeit als herkömmliche Mikrozementsysteme aus. Erhältlich in 16 Farben.
                     </p>
                 </div>
                 <!-- Products Industtrial -->

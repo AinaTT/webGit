@@ -241,9 +241,9 @@ contatto permanente con l'acqua. La sua innovativa formula migliora sostanzialme
                 </div>
                 <!-- Desctiption Industtrial -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <h2 class="sh2">Microcemento epossidico</h2>
                     <p class="textos">
-                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    È un microcemento epossidico bicomponente (cemento + resina epossidica) usato come rivestimento continuo per pavimenti e pareti interne. Si distingue per la sua straordinaria durezza, l'eccellente resistenza all'abrasione e al traffico e una maggiore impermeabilità rispetto ai sistemi di microcemento convenzionali. Disponibile in 16 colori.
                     </p>
                 </div>
                 <!-- Products Industtrial -->

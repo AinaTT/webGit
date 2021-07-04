@@ -242,9 +242,11 @@
                 </div>
                 <!-- Desctiption Industtrial -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <h2 class="sh2">Béton ciré époxy</h2>
                     <p class="textos">
-                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    Il s'agit d'un béton ciré époxy à deux composants (ciment + résine époxy) utilisé comme revêtement continu pour les sols et les murs intérieurs. 
+                     Il se distingue par son extraordinaire dureté, son excellente résistance à l'abrasion et au trafic et une plus grande imperméabilité que les systèmes de microciment conventionnels. Disponible en 16 couleurs.
+                 
                     </p>
                 </div>
                 <!-- Products Industtrial -->

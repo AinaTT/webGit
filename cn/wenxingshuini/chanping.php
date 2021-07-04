@@ -222,7 +222,40 @@
 
             </div>
             <!-- End Efectto -->
+<!-- Start Industtrial -->
+<div class="separador">
+            </div>
+            <div class="row altofam">
+                <!-- Logo Industtrial -->
+                <div class="col-md-5 col-12 text-center">
+                    <a href="weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye"><img src="https://www.topciment.com/imagenes/industtrial/industtrial-logo.png" alt="Microcemento epoxi bicomponente" title="Microcemento epoxi bicomponente" class="text-center img-fluid industtrial-logo"></a>
+                </div>
+                <!-- Desctiption Industtrial -->
+                <div class="col-md-5 col-12"> 
+                    <h2 class="sh2">环氧树脂微水泥</h2>
+                    <p class="textos">
+                    它是一种双组分的环氧微水泥（水泥+环氧树脂），用作室内地板和墙壁的连续涂层。它以其非凡的硬度、出色的抗磨损和抗交通性以及比传统微水泥系统更强的抗渗性而脱颖而出。有16种颜色可供选择。
+                   
+                    </p>
+                </div>
+                <!-- Products Industtrial -->
+                <div class="col-md-2 col-12">
+                    <div class="row mb-2">
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye#industtrial-xl" class="vermas2"> <strong>XL</strong></a><br>
+                            <a href="weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye#industtrial-base" class="vermas2"><strong>Base</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye#industtrial-medio" class="vermas2"><strong>Medio</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="weishuini-huanyangdiqi-lianxu-lumain-shinei-gongye#industtrial-liso" class="vermas2"> <strong>Liso</strong></a>
+                        </div>
+                    </div>
+                </div>
 
+            </div>
+            <!-- End Industtrial -->
             <!--Start Pure Mettal -->
             <div class="separador">
             </div>

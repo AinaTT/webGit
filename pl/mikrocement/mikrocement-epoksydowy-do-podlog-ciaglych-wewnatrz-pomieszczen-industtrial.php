@@ -27,14 +27,14 @@
     <meta property="og:url" content="https://www.topciment.com/pl/mikrocement/mikrocement-epoksydowy-do-podlog-ciaglych-wewnatrz-pomieszczen-industtrial">
     <meta property="og:description"
         content="Wysokowydajny dwuskładnikowy mikrocement epoksydowy do dekoracji ciągłych podłóg wewnętrznych. Większa twardość, odporność i nieprzepuszczalność niż w przypadku tradycyjnych mikrocementów.">
-    <meta property="og:type" content="article"> 
- 
+    <meta property="og:type" content="article">
+
 
 
     <link rel="canonical" href="https://www.topciment.com/pl/mikrocement/mikrocement-epoksydowy-do-podlog-ciaglych-wewnatrz-pomieszczen-industtrial" />
-  
+
   <link rel="alternate" href="https://www.topciment.com/pl/mikrocement/mikrocement-epoksydowy-do-podlog-ciaglych-wewnatrz-pomieszczen-industtrial" hreflang="pl-PL" />
-     
+
     <?php include("../../assets/../assets/../assets/includes/scripts-head.php"); ?>
 </head>
 
@@ -56,52 +56,54 @@
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
                                 <li> <a href="#up" style="font-size:26px">Industtrial</a> </li>
-                                <li> <a href="#que-es-atlanttic">¿Qué es Industtrial?</a> </li>
+                                <li> <a href="#que-es-atlanttic">Co Koloryo jest Industtrial?</a> </li>
                                 <li> <a href="#industtrial-xl">Industtrial XL</a></li>
                                 <li> <a href="#industtrial-base">Industtrial Base</a></li>
                                 <li> <a href="#industtrial-medio">Industtrial Medio</a></li>
                                 <li> <a href="#industtrial-liso">Industtrial Liso</a></li>
-                                <li> <a href="#aplicacion">Aplicación</a></li>
-                                <li> <a href="#colores">Colores</a> </li>
+                                <li> <a href="#aplicacion">Aplikacja</a></li>
+                                <li> <a href="#colores">Kolory</a> </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Microcemento epoxi para pavimento continuo interior | Industtrial</h1>
+                            <h1 class="en2">Mikrocement epoksydowy do podłóg ciągłych wewnątrz pomieszczeń | Przemysłowy</h1>
                             <div class="text-justify">
 
-                                <p>
-                                    Microcemento epoxi bicomponente de altas prestaciones para decorar pavimentos
-                                    continuos interiores. Mayor dureza, resistencia e impermeabilidad que los
-                                    microcementos tradicionales.
+                            <p>
+                                    Dwuskładnikowy mikrocement epoksydowy o wysokiej wydajności do dekoracji podłóg
+                                    ciągłe podłogi wewnętrzne. Większa twardość, odporność i nieprzepuszczalność niż w przypadku tradycyjnych mikrocementów.
+                                    tradycyjne mikrocementy.
 
                                 </p>
                                 <p>
-                                    Industtrial es nuestra línea exclusiva de microcemento epoxi bicomponente (cemento +
-                                    resina epoxi). Un revestimiento continuo decorativo especialmente para paredes y
-                                    suelos de interior. En este producto hemos aunado las excelentes prestaciones de
-                                    nuestros microcementos bicomponentes con el extra de dureza que aportan las resinas
-                                    epoxi.
+                                    Industtrial to nasza ekskluzywna linia dwuskładnikowych mikrocementów epoksydowych (cement + żywica epoksydowa).
+                                    żywica epoksydowa). Dekoracyjna powłoka ciągła, szczególnie do ścian wewnętrznych i podłóg.
+                                    ścian wewnętrznych i podłóg. W tym produkcie połączyliśmy doskonałe właściwości naszych dwuskładnikowych mikrocementów
+                                    nasze dwuskładnikowe mikrocementy z dodatkową twardością zapewnianą przez żywice epoksydowe.
+                                    żywice epoksydowe.
 
                                 </p>
                                 <p>
-                                    El resultado es un revestimiento continuo de altísimas prestaciones sobre todo para
-                                    pavimentos y suelos continuos interiores. Un microcemento epoxi de excelente
-                                    trabajabilidad e inmejorable resistencia a la abrasión y al tránsito peatonal.
+                                    Rezultatem jest ciągła powłoka o bardzo wysokiej wydajności, szczególnie w przypadku ciągłych powłok wewnętrznych.
+                                    podłogi i ciągłe podłogi wewnętrzne. Mikrocement epoksydowy o doskonałej urabialności
+                                    doskonała obrabialność i niezrównana odporność na ścieranie i ruch pieszy.
 
                                 </p>
                                 <p>
-                                    Asimismo, nuestro microcemento epoxi bicomponente de base agua Industtrial destaca
-                                    por su acabado mineral muy natural y por una impermeabilidad superior a los sistemas
-                                    de microcemento convencionales.
+                                    Podobnie, nasz dwuskładnikowy mikrocement epoksydowy Industtrial na bazie wody wyróżnia się bardzo naturalnym mineralnym wykończeniem.
+                                    ze względu na bardzo naturalne wykończenie mineralne i doskonałą szczelność w porównaniu z konwencjonalnym mikrocementem
+                                    konwencjonalne systemy mikrocementowe.
 
                                 </p>
                                 <p>
 
-                                    Industtrial está disponible en 16 colores y 4 granulometrías: Industtrial XL,
-                                    Industtrial Base, Industtrial Medio e Industtrial Liso.
+                                    Industtrial dostępny jest w 16 kolorach i 4 granulometriach: Industtrial XL,
+                                    Industtrial Base, Industtrial Medium i Industtrial Smooth.
 
                                 </p>
+
+
 
                             </div>
                         </div>
@@ -143,31 +145,31 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de suelos y pavimentos Industtrial XL</h2>
+                        <h2>Mikrocement epoksydowy Industtrial XL do przygotowania podłóg i nawierzchni</h2>
 
-                            <p>
-                                Industtrial XL es nuestro microcemento epoxi bicomponente de preparación para suelos y
-                                pavimentos epoxi. Después de aplicar este revestimiento continuo decorativo sobre
-                                cualquier suelo o pavimento interior, será necesario aplicar dos manos de Industtrial
-                                Medio para completar el sistema epoxi.
+<p>
+    Industtrial XL to nasz dwuskładnikowy epoksydowy mikrocement do przygotowania podłóg i nawierzchni epoksydowych.
+    posadzki epoksydowe i jastrychy epoksydowe. Po nałożeniu tej dekoracyjnej ciągłej powłoki na dowolną wewnętrzną podłogę lub
+    w przypadku podłóg wewnętrznych lub chodników konieczne będzie nałożenie dwóch warstw farby Industtrial
+    Medium do uzupełnienia systemu epoksydowego.
 
-                            </p>
-                            <p>
-                                Aunque Industtrial XL está pensando para recubrir pavimentos y suelos epoxi de interior,
-                                también puede utilizarse sobre paredes si se busca un acabado concreto.
+</p>
+<p>
+    Chociaż Industtrial XL jest przeznaczony do pokrywania wewnętrznych posadzek i podłóg epoksydowych,
+    Może być również stosowany na ścianach, jeśli szukasz betonowego wykończenia.
 
-                            </p>
+</p>
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-EN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial XL
+                                </span>Tutaj można pobrać kartę danych technicznych Industtrial XL
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de suelos y pavimentos Industtrial XL
+                    <h3 class="en3">Rodzaje posadzek epoksydowych microcemento do przygotowania i układania posadzek Industtrial XL
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -186,7 +188,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de preparación para suelos Industtrial XL</h3>
+                    <h3 class="en3"> Właściwości preparat do posadzek epoksydowych Industtrial XL Microcemento</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -194,7 +196,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH składnika A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -205,9 +207,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Gęstość</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponent A) <br>
+                                        A 25ºC 1,16 g/mL (Komponent B)
                                 </div>
                             </div>
                         </div>
@@ -219,9 +221,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Całkowicie uzdrowiony
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 dni</p>
                                 </div>
                             </div>
                         </div>
@@ -231,11 +233,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Zwiększona twardość i nieprzepuszczalność
                                     </strong>
-                                    <p>Industtrial garantiza una mayor dureza e impermeabilidad que los microcementos
-                                        convencionales. Un microcemento epoxi que resiste a la abrasión, al tránsito
-                                        peatonal y a agentes químicos como amoniaco, refrescos o café.
+                                    <p>Jest odporna na ścieranie, ruch pieszy i czynniki chemiczne, takie jak amoniak, napoje bezalkoholowe czy kawa.
 
                                     </p>
                                 </div>
@@ -243,18 +243,18 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación para suelos y pavimentos interiores
-                        Industtrial XL es: 1,40 Kg/m2 (1 mano)
+                    <p class="en3"> Performance</p>
+                    <p>Wydajność preparatu epoksydowego microcemento do posadzek i chodników wewnątrz budynków
+                        Industtrial XL wynosi: 1,40 Kg/m2 (1 warstwa)
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para pavimentos y suelos de interior
+                    <p class="en3">Prezentacja</p>
+                    <p>Dwuskładnikowy mikrocement epoksydowy do wykonywania posadzek i ścian wewnątrz pomieszczeń.
                         Industtrial XL
-                        se presenta en dos tipos de envases. Envases de 4,5+0,5 Kg de A+B para pigmentar 100g de ARCOCEM
-                        PLUS y envases de 18+2 Kg de A+B para pigmentar 400g de ARCOCEM PLUS.
+                        jest dostępny w dwóch rodzajach opakowań. Opakowania 4,5+0,5 Kg A+B do pigmentowania 100g ARCOCEM
+                        PLUS i opakowania 18+2 Kg A+B do pigmentowania 400g ARCOCEM PLUS.
 
                     </p>
                 </div>
@@ -296,28 +296,28 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de paredes Industtrial Base</h2>
+                            <h2>Mikrocement epoksydowy do przygotowania ścian Industtrial Base</h2>
 
                             <p>
-                                Industtrial Base es nuestro microcemento epoxi bicomponente de preparación que se
-                                utiliza
-                                para revestir paredes de interior. A continuación de aplicar este revestimiento continuo
-                                decorativo para paredes, habrá que aplicar otras dos manos de Industtrial Liso para
-                                tener el
-                                sistema epoxi completo.
+                            Industtrial Base jest naszym dwuskładnikowym epoksydowym preparatem mikrocementowym, który jest używany do
+                                używany
+                                do pokrywania ścian wewnętrznych. Po nałożeniu tej ciągłej dekoracyjnej powłoki na ścianę należy nałożyć dwie kolejne warstwy Industtrialu.
+                                dekoracyjną powłokę ścienną, należy nałożyć dwie kolejne warstwy Industtrial Smooth, aby uzyskać efekt
+                                mieć
+                                system epoksydowy kompletny.
 
                             </p>
 
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-EN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Base
+                                </span>Tutaj można pobrać kartę danych technicznych Industtrial Base
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de paredes Industtrial Base </h3>
+                    <h3 class="en3">Rodzaje mikrocementu epoksydowego do przygotowania ścian Baza przemysłowa </h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -335,7 +335,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de preparación de paredes Industtrial Base</h3>
+                    <h3 class="en3">Właściwości mikrocemento epoksydowy preparat do ścian Industtrial Base</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -343,7 +343,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH składnika A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -354,9 +354,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Gęstość</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponent A) <br>
+                                        A 25ºC 1,16 g/mL (Komponent B)
                                 </div>
                             </div>
                         </div>
@@ -368,9 +368,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Całkowicie uzdrowiony
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 dni</p>
                                 </div>
                             </div>
                         </div>
@@ -380,31 +380,29 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Zwiększona twardość i nieprzepuszczalność
                                     </strong>
-                                    <p>Resistente la abrasión, el tránsito
-                                        peatonal y agentes químicos como pueden ser amoniaco, refrescos o café.
-
+                                    <p>Jest odporna na ścieranie, ruch pieszy i czynniki chemiczne, takie jak amoniak, napoje bezalkoholowe czy kawa.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación de paredes interiores Industtrial Base es:
+                    <p class="en3"> Performance</p>
+                    <p>Wydajność mikrocementu epoksydowego Industtrial Base do przygotowania ścian wewnętrznych jest:
                         1,20
-                        Kg/m2 (1 mano)
+                        Kg/m2 (1 warstwa)
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para paredes de interior Industtrial Base se
-                        presenta
-                        en envases de 4,5+0,5 Kg de A+B, para pigmentar con 100g de ARCOCEM PLUS, y de 18+2 Kg de A+B
-                        para
-                        pigmentar con 400g de ARCOCEM PLUS.
+                    <p class="en3">Prezentacja</p>
+                    <p>Dwuskładnikowy mikrocement epoksydowy Industtrial Base do przygotowania ścian wewnętrznych to
+                        dostępny pod adresem
+                        w opakowaniach 4,5+0,5 kg A+B, do pigmentowania 100 g ARCOCEM PLUS, oraz 18+2 kg A+B
+                        dla
+                        pigmentowanie przy użyciu 400g ARCOCEM PLUS.
 
 
                     </p>
@@ -447,33 +445,33 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio</h2>
+                        <h2>Microcemento epoksydowe wykończenie posadzek i chodników Industtrial Medium</h2>
 
-                            <p>
-                                Industtrial Medio es nuestro microcemento epoxi bicomponente de terminación para suelos
-                                y
-                                pavimentos epoxi en espacios de interior. Para obtener este pavimento continuo
-                                decorativo,
-                                será necesario aplicar previamente dos manos de Industtrial XL.
+<p>
+    Industtrial Medio to nasz dwuskładnikowy mikrocement epoksydowy do wykańczania podłóg.
+    y
+    posadzki epoksydowe w pomieszczeniach wewnętrznych. Aby uzyskać ten ciągły dekoracyjny
+    dekoracyjna podłoga ciągła,
+    konieczne będzie wcześniejsze nałożenie dwóch warstw Industtrial XL.
 
-                            </p>
-                            <p>
-                                Del mismo modo que ocurre con Industtrial Xl, aunque Industtrial Medio está
-                                especialmente
-                                diseñado para suelos de epoxi y pavimentos interiores, se puede aplicar también sobre
-                                paredes si el acabado deseado es otro.
+</p>
+<p>
+    Podobnie jak Industtrial XL, chociaż Industtrial Medium jest szczególnie
+    zwłaszcza
+    Specjalnie zaprojektowany do posadzek epoksydowych i podłóg wewnętrznych, może być również stosowany na ścianach, jeśli jest to pożądane.
+    ściany, jeśli pożądane jest inne wykończenie.
 
-                            </p>
+</p>
 
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-EN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Medio
+                                </span>Tutaj można pobrać kartę danych technicznych Industtrial Medio
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio
+                    <h3 class="en3">Rodzaje mikrocementowych epoksydowych wykończeń posadzek i chodników Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -493,7 +491,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de terminación para suelos Industtrial Medio
+                    <h3 class="en3"> Cechy microcemento epoksydowe wykończenie podłóg Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-6">
@@ -502,7 +500,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH składnika A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -513,9 +511,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Gęstość</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponent A) <br>
+                                        A 25ºC 1,16 g/mL (Komponent B)
                                 </div>
                             </div>
                         </div>
@@ -527,9 +525,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Całkowicie uzdrowiony
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 dni</p>
                                 </div>
                             </div>
                         </div>
@@ -539,33 +537,31 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Zwiększona twardość i nieprzepuszczalność
                                     </strong>
-                                    <p>Resistente a la abrasión, al tránsito peatonal
-                                        y a algunos agentes químicos como amoniaco, refrescos o café.
-
+                                    <p>Jest odporna na ścieranie, ruch pieszy i czynniki chemiczne, takie jak amoniak, napoje bezalkoholowe czy kawa.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para suelos y pavimentos interiores
-                        Industtrial
-                        Medio es: 0,70 Kg/m2 (1 mano)
+                    <p class="en3"> Performance</p>
+                    <p>Wydajność epoksydowej powłoki mikrocementowej do podłóg wewnętrznych i bruku
+                        Przemysłowy
+                        Medium wynosi: 0,70 Kg/m2 (1 warstwa)
 
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para pavimentos y suelos de interior
-                        Industtrial
-                        Medio
-                        se presenta en envases de 4,5+0,5 Kg de A+B si se quiere pigmentar 100g de ARCOCEM PLUS. También
-                        hay
-                        envases de 18+2 Kg de A+B si se quiere pigmentar con 400g ARCOCEM PLUS. </p>
+                    <p class="en3">Prezentacja</p>
+                    <p> Dwuskładnikowy mikrocement epoksydowy do wykańczania podłóg wewnętrznych i posadzek wewnątrz pomieszczeń.
+                        Przemysłowa
+                        Średni
+                        jest dostępny w 4,5+0,5 Kg A+B jeśli chcesz zabarwić 100g ARCOCEM PLUS. Również
+                        jest również
+                        18+2 Kg A+B jeśli chcesz pigmentować 400g ARCOCEM PLUS. </p>
                 </div>
             </div>
 
@@ -605,22 +601,22 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de paredes Industtrial Liso</h2>
+                        <h2>Microcemento epoksydowe wykończenie ścian Industtrial Liso</h2>.
 
-                            <p>Industtrial Liso es nuestro microcemento epoxi bicomponente de terminación ideal para
-                                revestir paredes de interior. De manera previa, se tendrá que haber aplicado dos manos
-                                de
-                                Industtrial Base.
-                            </p>
-                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
+<p>Industtrial Liso to nasz dwuskładnikowy mikrocement epoksydowy, idealny do wykańczania wnętrz.
+    pokrycie ścian wewnętrznych. Wcześniej należy nałożyć dwie warstwy lakieru.
+    z
+    Baza przemysłowa.
+</p>
+                            <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-EN.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial liso
+                                </span>Tutaj można pobrać kartę danych technicznych Industtrial liso
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3">Rodzaje wykończenia ścian mikrocementem epoksydowym Przemysłowy Gładki mikrocement epoksydowy</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -638,7 +634,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3">Cechy wykończenia ścian mikrocement epoksydowy Przemysłowy Gładki mikrocement epoksydowy</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -646,7 +642,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH składnika A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -657,9 +653,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Gęstość</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponent A) <br>
+                                        A 25ºC 1,16 g/mL (Komponent B)
                                 </div>
                             </div>
                         </div>
@@ -671,9 +667,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Całkowicie uzdrowiony
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 dni</p>
                                 </div>
                             </div>
                         </div>
@@ -683,29 +679,26 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Zwiększona twardość i nieprzepuszczalność
                                     </strong>
-                                    <p>Resistente a la abrasión, el
-                                        tránsito peatonal y agentes químicos como amoniaco, refrescos o café.
-
-
+                                    <p>Jest odporna na ścieranie, ruch pieszy i czynniki chemiczne, takie jak amoniak, napoje bezalkoholowe czy kawa.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para paredes de interior Industtrial Liso
-                        es:
-                        0,55 Kg/m2 (1 mano). </p>
+                    <p class="en3"> Performance</p>
+                    <p>Wydajność mikrocementu epoksydowego Industtrial Liso do wykończenia ścian wewnętrznych to
+                        jest:
+                        0,55 Kg/m2 (1 warstwa). </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para paredes de interior Industtrial Base se
-                        presenta en envases de 4,5+0,5 Kg de A+B (para pigmentar 100g de ARCOCEM PLUS) y envases de 18+2
+                    <p class="en3">Prezentacja</p>
+                    <p> Dwuskładnikowy mikrocement epoksydowy do wykańczania ścian wewnętrznych Industtrial Base dostępny jest w opakowaniach 4,5+0,5 Kg.
+                        jest dostępny w opakowaniach po 4,5+0,5 kg A+B (do pigmentowania 100 g ARCOCEM PLUS) oraz w opakowaniach po 18+2
                         Kg
-                        de A+B (para pigmentar 400g de ARCOCEM PLUS).</p>
+                        A+B (do pigmentowania 400g ARCOCEM PLUS).</p>
                 </div>
             </div>
 
@@ -723,42 +716,41 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Cómo aplicar el microcemento epoxi bicomponente Industtrial en paredes y suelos de interior</h2>
+                <h2>Jak nakładać dwuskładnikowy mikrocement epoksydowy Industtrial na ściany wewnętrzne i podłogi</h2>.
 
-                    <p>
-                        El microcemento epoxi bicomponente Industtrial presenta una elevada adherencia a soportes
-                        minerales,
-                        incluso sobre azulejo directo. Es un revestimiento continuo decorativo muy recomendable para
-                        decorar
-                        paredes y suelos de interior, especialmente en zonas con alto desgaste como garajes, naves
-                        industriales, suelos de galerías, comercios, salas de espera, pasillos u oficinas.
+<p>
+    Dwuskładnikowy mikrocement epoksydowy Industtrial posiada wysoką przyczepność do podłoży mineralnych
+    podłoża mineralne,
+    nawet na bezpośredniej płytce. Jest to dekoracyjna powłoka ciągła, która jest szczególnie polecana do
+    dekorowanie
+    ścian wewnętrznych i podłóg, szczególnie w miejscach o dużym zużyciu, takich jak garaże, magazyny przemysłowe, podłogi galerii, sklepów itp.
+    galerie, sklepy, poczekalnie, korytarze czy biura.
 
-                    </p>
-                    <p>
-                        En general, Industtrial es un microcemento epoxi ideal para aquellos pavimentos continuos
-                        expuestos
-                        a un elevado tránsito peatonal.
+</p>
+<p>
+    Ogólnie rzecz biorąc, Industtrial jest mikrocementem epoksydowym idealnym dla tych ciągłych nawierzchni.
+    narażony
+    na duży ruch pieszy.
 
-                    </p>
-                    <p>
-                        A continuación, explicamos el paso a paso de la aplicación del microcemento epoxi Industtrial en
-                        suelos y paredes interiores.
+</p>
+<p>
+    Poniżej przedstawiamy krok po kroku sposób aplikacji mikrocementu epoksydowego Industtrial na posadzki i ściany wewnątrz budynków.
+    podłogi i ściany wewnętrzne.
 
-                    </p>
+</p>
                     <!-- Aplicacion suelos -->
                     <div class="stepfloors mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en suelos y pavimentos de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Przemysłowe zastosowanie mikrocementu epoksydowego w posadzkach wewnętrznych i chodnikach.</strong></a></h3>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong>
-                                    <br>Garantizar que el soporte está seco, limpio, libre de polvo, grasa o suciedad.
-                                    En
-                                    caso de que el suelo o pavimento interior esté barnizado o pintado, eliminar el
-                                    recubrimiento anterior.
+                                <strong>Krok 1.<strong>Czyszczenie i przygotowanie podłoża.
+                                    <br>Upewnij się, że podłoże jest suche, czyste, wolne od kurzu, smaru lub brudu.
+                                    Na stronie
+                                    Jeśli podłoga lub wykładzina wewnętrzna jest lakierowana lub malowana, należy usunąć poprzednią powłokę.
+                                    poprzednia powłoka.
 
                                 </div>
                                 <!-- Icono -->
@@ -775,12 +767,13 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas es muy recomendable utilizar PRIMACEM IMPOXY
+                                <strong>Krok 2. Gruntowanie.</strong> <br>
+
+                                    Na podłożach mineralnych lub cementowych zaleca się stosowanie PRIMACEM IMPOXY.
                                     A+B
-                                    como imprimación, para obtener así un sistema 100% epoxi. También puede utilizarse
-                                    como
-                                    imprimación la familia Primapox.
+                                    jako podkład, w celu uzyskania 100% systemu epoksydowego. Może być również stosowany
+                                    może być również używany jako
+                                    Rodzina Primapox może być również stosowana jako podkład.
 
                                 </div>
                                 <!-- Icono -->
@@ -797,11 +790,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Homogenizar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la
-                                    carta
-                                    de colores de INDUSTTRIAL. Después, agregar el componente B y mezclar los dos
-                                    componentes (ver proporciones en ficha técnica).
+                                <strong>Krok 3. Mieszanie i pigmentowanie</strong><br>
+                                    Zhomogenizować Komponent A i zmieszać go z kolorowym tonerem ARCOCEM PLUS z
+                                    karta kolorów
+                                    Wzornik kolorów INDUSTRIAL. Następnie dodać Komponent B i wymieszać oba składniki razem.
+                                    komponentów (patrz proporcje w arkuszu danych technicznych).
 
                                 </div>
                                 <!-- Icono -->
@@ -818,11 +811,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para suelos </strong>
-                                    <br>Para pavimentos y suelos de interior epoxi aplicar con llana dos manos de
-                                    INDUSTTRIAL XL. Dejar secar entre 4 y 12 horas entre capas (este tiempo depende de
-                                    la
-                                    temperatura y humedad). Dejar secar y lijar.
+                                <strong>Krok 4. Dwie warstwy epoksydowego mikrocementowego preparatu do podłóg </strong>
+                                    <br>Do wewnętrznych posadzek epoksydowych i podłóg nałożyć pacą dwie warstwy
+                                    INDUSTTRIAL XL. Pozostawić do wyschnięcia od 4 do 12 godzin pomiędzy kolejnymi warstwami (czas ten zależy od
+                                    the
+                                    temperatura i wilgotność). Pozostawić do wyschnięcia i przeszlifować.
 
                                 </div>
                                 <!-- Icono -->
@@ -839,12 +832,12 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para suelos </strong>
-                                    <br>Para terminar de decorar los suelos epoxi de interior, hay que aplicar dos manos
-                                    de
-                                    INDUSTTRIAL MEDIO. Dejar también un tiempo de secado entre capas de entre 4 y 12
-                                    horas
-                                    (depende de la temperatura y humedad). Dejar secar mínimo 48 horas y lijar.
+                                <strong>Krok 5. Dwie warstwy epoksydowo-mikrocementowego wykończenia podłogi </strong>
+                                    <br>Aby zakończyć dekorowanie wewnętrznych podłóg epoksydowych, należy nałożyć dwie warstwy lakieru.
+                                    z
+                                    MEDIUM PRZEMYSŁOWE. Należy również uwzględnić czas schnięcia pomiędzy warstwami od 4 do 12 godzin.
+                                    godziny
+                                    (w zależności od temperatury i wilgotności). Pozostawić do wyschnięcia na co najmniej 48 godzin i przeszlifować.
 
                                 </div>
                                 <!-- Icono -->
@@ -861,13 +854,13 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong>
-                                    <br>Ha llegado el turno de proteger el pavimento o suelo interior epoxi. Se puede
-                                    aplicar una mano de nuestro barniz Coverpox (dejando secar 12 horas) o bien aplicar
-                                    dos
-                                    manos de cualquiera de nuestros barnices de la gama TOPSEALER (dejando 24 horas de
-                                    secado entre capas). Dejar actuar al sellador al menos una semana. Para prolongar la
-                                    vida del barniz, aplicar nuestro limpiador detergente ECOCLEAN.
+                                <strong>Krok 6. Uszczelnianie. </strong>
+                                    <br>Teraz nadszedł czas, aby chronić podłogi epoksydowe. Możesz nałożyć warstwę naszego lakieru Coverpox.
+                                    nałożyć jedną warstwę naszego lakieru Coverpox (pozostawiając go do wyschnięcia na 12 godzin) lub nałożyć dwie warstwy naszego lakieru
+                                    dwa
+                                    dwie warstwy dowolnego z naszych lakierów TOPSEALER (czas schnięcia między warstwami 24 godziny).
+                                    między warstwami). Pozostawić uszczelniacz do zadziałania na co najmniej jeden tydzień. Aby przedłużyć
+                                    żywotność lakieru, zastosować nasz środek czyszczący ECOCLEAN.
 
                                 </div>
                                 <!-- Icono -->
@@ -886,16 +879,15 @@
 
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en paredes de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplikacja   Przemysłowy mikrocement epoksydowy na ściany wewnętrzne</strong></a></h3>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong> <br>
-                                    Asegurar que el soporte está seco, limpio, libre de polvo, grasa o suciedad. Si las
-                                    paredes están barnizadas o pintadas, quitar el recubrimiento anterior.
+                                <strong>Krok 1. Czyszczenie i przygotowanie podłoża.</strong> <br>  
+                                    Upewnij się, że podłoże jest suche, czyste, wolne od kurzu, smaru i brudu. Jeśli ściany są
+                                    Jeśli ściany są lakierowane lub malowane, należy usunąć poprzednią powłokę.
 
                                 </div>
                                 <!-- Icono -->
@@ -912,11 +904,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas se recomienda utilizar PRIMACEM IMPOXY A+B
-                                    como
-                                    imprimación, para lograr así un sistema 100% epoxi. También puede utilizarse como
-                                    imprimación la familia Primapox.
+                                <strong>Krok 2. Primer.</strong><br>
+                                    Na podłożach mineralnych lub cementowych zaleca się stosowanie PRIMACEM IMPOXY A+B.
+                                    jako
+                                    podkład, aby uzyskać 100% system epoksydowy. Rodzina Primapox może być również stosowana jako
+                                    Rodzina Primapox może być również stosowana jako podkład.
 
                                 </div>
                                 <!-- Icono -->
@@ -933,11 +925,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Unificar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la carta
-                                    de
-                                    colores de INDUSTTRIAL. Después, sumar el componente B y mezclar los dos componentes
-                                    (ver las proporciones exactas en la ficha técnica).
+                                <strong>Krok 3. Mieszanie i pigmentowanie</strong><br>.
+                                    Ujednolicić Komponent A i zmieszać go z kolorowym tonerem ARCOCEM PLUS z tabeli.
+                                    z
+                                    Wzornik kolorów INDUSTRIAL. Następnie dodać Komponent B i wymieszać oba składniki razem.
+                                    (dokładne proporcje podano w karcie technicznej).
 
                                 </div>
                                 <!-- Icono -->
@@ -954,13 +946,13 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para paredes
+                                <strong>Krok 4. Dwie warstwy epoksydowej mikrocementowej preparacji ścian.
                                     </strong>
                                     <br>
-                                    Para las paredes de interior epoxi aplicar con llana dos manos de INDUSTRIAL BASE.
-                                    Dejar
-                                    secar entre 4 y 12 horas entre capas (el tiempo exacto dependerá del grado de la
-                                    temperatura y humedad). Dejar secar y lijar.
+                                    Na wewnętrzne ściany epoksydowe nałożyć dwie warstwy INDUSTRIAL BASE za pomocą kielni.
+                                    Zostaw
+                                    suszyć od 4 do 12 godzin pomiędzy warstwami (dokładny czas zależy od stopnia temperatury i
+                                    temperatura i wilgotność). Pozostawić do wyschnięcia i przeszlifować.
 
                                 </div>
                                 <!-- Icono -->
@@ -977,14 +969,14 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para paredes
+                                <strong>Krok 5. Dwie warstwy mikrocementu epoksydowego do wykończenia ścian.
                                     </strong>
                                     <br>
-                                    Para terminar de decorar las paredes de interior, aplicar dos manos de INDUSTTRIAL
+                                    Aby zakończyć dekorowanie ścian wewnętrznych należy nałożyć dwie warstwy lakieru INDUSTTRIAL
                                     LISO
-                                    (también hay que dejar entre 4 y 12 horas de secado entre capas). Dejar secar mínimo
+                                    (należy również uwzględnić czas schnięcia pomiędzy warstwami od 4 do 12 godzin). Pozostawić do wyschnięcia co najmniej
                                     48
-                                    horas y lijar.
+                                    godziny i piasek.
 
                                 </div>
                                 <!-- Icono -->
@@ -1001,15 +993,15 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong> <br>
-                                    Proteger la pared de interior epoxi. Puede aplicarse una capa de nuestro barniz
+                                <strong>Krok 6. Uszczelnianie.</strong> <br> 
+                                    Zabezpieczyć ścianę wewnętrzną żywicą epoksydową. Można nałożyć warstwę naszego lakieru
                                     Coverpox
-                                    (dejar secar 12 horas) o dos capas de uno de los barnices de la gama TOPSEALER
-                                    (dejando
-                                    24 horas de secado entre manos). Dejar actuar al barniz al menos una semana. Para
-                                    prolongar la vida del sellador, aplicar nuestro limpiador detergente ECOCLEAN.
+                                    (pozostawić do wyschnięcia na 12 godzin) lub dwie warstwy jednego z naszych TOPSEALER
+                                    (umożliwiający
+                                    Czas schnięcia między warstwami 24 godziny). Pozostawić lakier do zadziałania na co najmniej jeden tydzień. Do
+                                    przedłużyć żywotność uszczelniacza, zastosować nasz detergentowy środek czyszczący ECOCLEAN.
 
-                                </div>
+                                </div>.
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
                                         src="https://www.topciment.com/imagenes/industtrial/stepbystep/roller.png"
@@ -1039,8 +1031,15 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en3"> Colores del microcemento epoxi Industtrial</h2>
+                    <h2 class="en3"> Kolory mikrocementu epoksydowego Industtrial</h2>
+                    <p>
+                        Mikrocement epoksydowy Industtrial jest dostępny w 16 kolorach, dzięki czemu oferuje wiele możliwości dekoracyjnych jako ciągła powłoka dla wewnętrznych posadzek i ścian epoksydowych.  Kolory do żywic epoksydowych, które oferują profesjonalne jednolite wykończenie o wielkiej urodzie, a wśród nich wyróżniają się odcienie perłowe i perłowe, które wnoszą elegancję i wyrafinowanie do wystroju każdego pomieszczenia.
 
+                 </p>    
+<p>
+    Wszechstronność epoksydowych pigmentów mikrocementowych Industtrial nie tylko nadaje wyrazistość i atrakcyjność posadzkom epoksydowym wewnątrz pomieszczeń. Są to również kolory, które pomagają żywicy epoksydowej osiągnąć jej maksymalną wydajność, jednocześnie wzmacniając kolor i połysk podłogi. Połączenie, które przedłuża żywotność tych samych, czyniąc je znacznie bardziej trwałe w czasie.
+       
+</p>                
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">

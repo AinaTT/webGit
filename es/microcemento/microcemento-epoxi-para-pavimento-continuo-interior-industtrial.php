@@ -239,8 +239,7 @@
                                 <div class="col-md-9">
                                     <strong>Mayor dureza e impermeabilidad
                                     </strong>
-                                    <p>Industtrial garantiza una mayor dureza e impermeabilidad que los microcementos
-                                        convencionales. Un microcemento epoxi que resiste a la abrasión, al tránsito
+                                    <p>Resiste a la abrasión, al tránsito
                                         peatonal y a agentes químicos como amoniaco, refrescos o café.
 
                                     </p>
@@ -388,7 +387,7 @@
                                 <div class="col-md-9">
                                     <strong>Mayor dureza e impermeabilidad
                                     </strong>
-                                    <p>Resistente la abrasión, el tránsito
+                                    <p>Resistente a la abrasión, el tránsito
                                         peatonal y agentes químicos como pueden ser amoniaco, refrescos o café.
 
                                     </p>
@@ -605,9 +604,6 @@
                                     src="https://www.topciment.com/imagenes/industtrial/texturas/textura-industtrial-liso.jpg"
                                     alt="Textura Industtrial  liso" title="Textura Industtrial  liso">
                             </a>
-
-
-
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
@@ -1046,7 +1042,22 @@
             <div class="container">
                 <div class="content">
                     <h2 class="en3"> Colores del microcemento epoxi Industtrial</h2>
+                    <p>
+                        El microcemento epoxi Industtrial está disponible en 16 colores, ofreciendo así una multitud de
+                        posibilidades decorativas como revestimiento continuo de suelos y paredes epoxi en interiores.
+                        Colores para resina epoxi que ofrecen al profesional acabados uniformes de gran belleza y entre
+                        los que destacan aquellas tonalidades más nacaradas y perladas que aportan elegancia y
+                        sofisticación al diseño interior de cualquier estancia.
 
+                    </p>
+                    <p>
+                        La versatilidad de los pigmentos del microcemento epoxi Industtrial no solo aporta distinción y
+                        atractivo a los suelos epoxi de interiores. Si no que, además, son colores que favorecen que la
+                        resina epoxi alcance su máximo rendimiento, al tiempo que impulsan el color y brillo de los
+                        pavimentos. Una combinación que prolonga la vida útil de los mismos, haciéndolos mucho más
+                        duraderos en el tiempo.
+
+                    </p>
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1244,233 +1255,10 @@
 
         <?php include("../../assets/../assets/includes/scripts.php"); ?>
     </div>
-     
+
     <!-- include jQuery -->
     </div>
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "ProductGroup",
-            "name": "Microcemento bicomponente para piscinas Industtrial ",
-            "description": "Microcemento Bicomponente para revestir superficies en contacto permanente con agua, como piscinas, estanques o fuentes.",
-            "image": "https://www.topciment.com/imagenes/industtrial/Cubo_Atlanttic_M.jpg",
-            "brand": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "manufacturer": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "weight": "20 Kg",
-            "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
-            "variesBy": "size",
-            "additionalProperty": [{
-                    "@type": "PropertyValue",
-                    "name": "Resistencia a la flexión",
-                    "value": "9 N/m² (28 días)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Resistencia al fuego",
-                    "value": "BFL S1"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Resistencia a la compresión",
-                    "value": "55 N/m² (28 días)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Adherencia al soporte",
-                    "value": "1,5 N/m²"
-                }
-            ],
-            "potentialAction": {
-                "@type": "Action",
-                "name": "Aplicación microcemento"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "reviewCount": "14"
-            },
-            "hasVariant": [{
-                    "@type": "Product",
-                    "name": "Microcemento bicomponente para piscinas Industtrial  M",
-                    "description": "Microcemento Bicomponente para revestir superficies en contacto permanente con agua, como piscinas, estanques o fuentes.",
-                    "image": "https://www.topciment.com/imagenes/industtrial/Cubo_Atlanttic_M.jpg",
-                    "size": "M",
-                    "url": "https://www.topciment.com/es/microcemento/microcemento-epoxi-para-pavimento-continuo-interior-industtrial#atlanttic-aquaciment",
-                    "sku": "TT01008",
-                    "gtin13": "8436575620091",
-                    "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Resistencia a la flexión",
-                            "value": "9 N/m² (28 días)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Resistencia al fuego",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Resistencia a la compresión",
-                            "value": "55 N/m² (28 días)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Adherencia al soporte",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                },
-                {
-                    "@type": "Product",
-                    "name": "Microcemento bicomponente para piscinas Industtrial  XL",
-                    "description": "Microcemento Bicomponente para revestir superficies en contacto permanente con agua, como piscinas, estanques o fuentes.",
-
-
-                    "image": "https://www.topciment.com/imagenes/industtrial/Cubo_Atlanttic_XL.jpg",
-                    "size": "XL",
-                    "url": "https://www.topciment.com/es/microcemento/microcemento-epoxi-para-pavimento-continuo-interior-industtrial#atlanttic-aquaciment",
-                    "sku": "TT01007",
-                    "gtin13": "8436575620084",
-                    "material": "Aglomerantes hidráulicos, áridos seleccionados y aditivos específicos",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Resistencia a la flexión",
-                            "value": "9 N/m² (28 días)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Resistencia al fuego",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Resistencia a la compresión",
-                            "value": "55 N/m² (28 días)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Adherencia al soporte",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                }
-
-            ]
-        }
-    </script>
+   
 </body>
 
 </html>

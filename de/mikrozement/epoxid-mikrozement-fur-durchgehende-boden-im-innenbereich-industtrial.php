@@ -59,53 +59,36 @@
                         <div id="sidebar" class="menuOculto menuMicrocementos stick">
                             <ul>
                                 <li> <a href="#up" style="font-size:26px">Industtrial</a> </li>
-                                <li> <a href="#que-es-atlanttic">¿Qué es Industtrial?</a> </li>
+                                <li> <a href="#que-es-atlanttic">Was ist Industtrial?</a> </li>
                                 <li> <a href="#industtrial-xl">Industtrial XL</a></li>
                                 <li> <a href="#industtrial-base">Industtrial Base</a></li>
                                 <li> <a href="#industtrial-medio">Industtrial Medio</a></li>
                                 <li> <a href="#industtrial-liso">Industtrial Liso</a></li>
-                                <li> <a href="#aplicacion">Aplicación</a></li>
-                                <li> <a href="#colores">Colores</a> </li>
+                                <li> <a href="#aplicacion">Anwendung</a></li>
+                                <li> <a href="#colores">Farbe</a> </li>
 
                             </ul>
                         </div>
                         <div class="content">
-                            <h1 class="en2">Microcemento epoxi para pavimento continuo interior | Industtrial</h1>
+                            <h1 class="en2">Epoxid-Mikrozement für durchgehende Böden im Innenbereich | Industtrial</h1>
                             <div class="text-justify">
 
-                                <p>
-                                    Microcemento epoxi bicomponente de altas prestaciones para decorar pavimentos
-                                    continuos interiores. Mayor dureza, resistencia e impermeabilidad que los
-                                    microcementos tradicionales.
+                            <p>
+                                Industtrial ist unsere exklusive Linie von Zweikomponenten-Epoxid-Mikrozement (Zement + Epoxidharz). Eine dekorative Endlosbeschichtung speziell für Innenwände und Böden. In diesem Produkt haben wir die hervorragende Leistung unserer Zweikomponenten-Mikrozemente mit der zusätzlichen Härte von Epoxidharzen kombiniert.
 
-                                </p>
-                                <p>
-                                    Industtrial es nuestra línea exclusiva de microcemento epoxi bicomponente (cemento +
-                                    resina epoxi). Un revestimiento continuo decorativo especialmente para paredes y
-                                    suelos de interior. En este producto hemos aunado las excelentes prestaciones de
-                                    nuestros microcementos bicomponentes con el extra de dureza que aportan las resinas
-                                    epoxi.
+                            </p>    
+<p>
+    Das Ergebnis ist eine durchgängige Beschichtung von sehr hoher Leistungsfähigkeit speziell für durchgehende Innenböden. Ein Epoxid-Mikrozement mit ausgezeichneter Verarbeitbarkeit und unschlagbarer Beständigkeit gegen Abrieb und Fußgängerverkehr.
 
-                                </p>
-                                <p>
-                                    El resultado es un revestimiento continuo de altísimas prestaciones sobre todo para
-                                    pavimentos y suelos continuos interiores. Un microcemento epoxi de excelente
-                                    trabajabilidad e inmejorable resistencia a la abrasión y al tránsito peatonal.
+</p>    
+<p>
+    Darüber hinaus zeichnet sich unser Zweikomponenten-Epoxidmikrozement Industtrial auf Wasserbasis durch eine sehr natürliche mineralische Oberfläche und eine höhere Dichtigkeit als herkömmliche Mikrozementsysteme aus.
 
-                                </p>
-                                <p>
-                                    Asimismo, nuestro microcemento epoxi bicomponente de base agua Industtrial destaca
-                                    por su acabado mineral muy natural y por una impermeabilidad superior a los sistemas
-                                    de microcemento convencionales.
+</p>    
+<p>
+    Industtrial ist in 16 Farben und 4 Granulometrien erhältlich: Industtrial XL, Industtrial Base, Industtrial Medio und Industtrial Liso
 
-                                </p>
-                                <p>
-
-                                    Industtrial está disponible en 16 colores y 4 granulometrías: Industtrial XL,
-                                    Industtrial Base, Industtrial Medio e Industtrial Liso.
-
-                                </p>
-
+</p>    
                             </div>
                         </div>
                     </div>
@@ -146,31 +129,28 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de suelos y pavimentos Industtrial XL</h2>
+                      <h2>Epoxid-Mikrozement für die Bodenvorbereitung Industtrial XL</h2>
 
-                            <p>
-                                Industtrial XL es nuestro microcemento epoxi bicomponente de preparación para suelos y
-                                pavimentos epoxi. Después de aplicar este revestimiento continuo decorativo sobre
-                                cualquier suelo o pavimento interior, será necesario aplicar dos manos de Industtrial
-                                Medio para completar el sistema epoxi.
+<p>
+    Industtrial XL ist unser zweikomponentiger Epoxid-Mikrozement für die Vorbereitung von Epoxidböden und -belägen. Nach dem Auftragen dieser dekorativen, durchgehenden Beschichtung auf jeden Innenboden oder Estrich sollten zwei Schichten Industtrial Medium aufgetragen werden, um das Epoxidharzsystem zu vervollständigen.
 
-                            </p>
-                            <p>
-                                Aunque Industtrial XL está pensando para recubrir pavimentos y suelos epoxi de interior,
-                                también puede utilizarse sobre paredes si se busca un acabado concreto.
+</p>    
+<p>
+    Obwohl Industtrial XL für die Epoxidharz-Boden- und Wandbeschichtung im Innenbereich vorgesehen ist, kann es auch an Wänden verwendet werden, wenn ein bestimmtes Finish erforderlich ist.
 
-                            </p>
+</p>    
+ 
 
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial XL
+                                </span>Downloaden Sie hier das technische Datenblatt von Industtrial XL
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de suelos y pavimentos Industtrial XL
+                    <h3 class="en3">Typen von Epoxid-Mikrozement Eigenschaften Industtrial XL
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -189,7 +169,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de preparación para suelos Industtrial XL</h3>
+                    <h3 class="en3"> Bodenvorbereitung Epoxid-Mikrozement Eigenschaften Industtrial XL</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -197,7 +177,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH-Wert der Komponente A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -208,9 +188,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Dichte</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponente A) <br>
+                                        Bei 25ºC 1,16 g/mL (Komponente B)
                                 </div>
                             </div>
                         </div>
@@ -222,9 +202,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Totale Härtung
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 Tage</p>
                                 </div>
                             </div>
                         </div>
@@ -234,11 +214,10 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Höhere Härte und Undurchlässigkeit
                                     </strong>
-                                    <p>Industtrial garantiza una mayor dureza e impermeabilidad que los microcementos
-                                        convencionales. Un microcemento epoxi que resiste a la abrasión, al tránsito
-                                        peatonal y a agentes químicos como amoniaco, refrescos o café.
+                                    <p>  Ein Epoxid-Mikrozement, der Abrieb, Fußgängerverkehr und chemischen Substanzen wie Ammoniak, Softdrinks oder Kaffee widersteht.
+
 
                                     </p>
                                 </div>
@@ -246,20 +225,17 @@
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación para suelos y pavimentos interiores
-                        Industtrial XL es: 1,40 Kg/m2 (1 mano)
+                    <p class="en3"> Leistung</p>
+                    <p>Die Leistung von Industtrial XL Epoxid-Mikrozement für Böden und Beläge im Innenbereich beträgt: 1,40 kg/m2 (1 Schicht).
+
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para pavimentos y suelos de interior
-                        Industtrial XL
-                        se presenta en dos tipos de envases. Envases de 4,5+0,5 Kg de A+B para pigmentar 100g de ARCOCEM
-                        PLUS y envases de 18+2 Kg de A+B para pigmentar 400g de ARCOCEM PLUS.
-
+                    <p class="en3">Verpackung</p>
+                    <p>Industtrial XL Zweikomponenten-Epoxid-Mikrozement für die Vorbereitung von Innenböden ist in zwei Verpackungsarten erhältlich. Packungen mit 4,5+0,5 kg A+B zum Pigmentieren 100 g ARCOCEM PLUS und Packungen mit 18+2 kg A+B zum Pigmentieren 400 g ARCOCEM PLUS.
                     </p>
+
                 </div>
             </div>
 
@@ -299,28 +275,27 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de preparación de paredes Industtrial Base</h2>
+                    <h2>Epoxid-Mikrozement für die Wandvorbereitung Industtrial Base</h2>
 
-                            <p>
-                                Industtrial Base es nuestro microcemento epoxi bicomponente de preparación que se
-                                utiliza
-                                para revestir paredes de interior. A continuación de aplicar este revestimiento continuo
-                                decorativo para paredes, habrá que aplicar otras dos manos de Industtrial Liso para
-                                tener el
-                                sistema epoxi completo.
+<p>
+    Industtrial Base ist unser Zweikomponenten-Epoxid-Vorbereitungs Mikrozement für die Beschichtung von Innenwänden. Nach dem Auftragen dieser dekorativen, durchgehenden Wandbeschichtung müssen zwei weitere Schichten von Industtrial Liso aufgetragen werden, um das Epoxidharzsystem zu vervollständigen.
 
-                            </p>
+</p>    
+ 
+
+ 
+
 
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Base
+                                </span>Downloaden Sie hier das technische Datenblatt von Industtrial Base
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de preparación de paredes Industtrial Base </h3>
+                    <h3 class="en3">Typen von Epoxid-Mikrozement-Wandvorbereitung Industtrial Base </h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -338,7 +313,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de preparación de paredes Industtrial Base</h3>
+                    <h3 class="en3">Eigenschaften der Epoxid-Mikrozement-Wandvorbereitung Industtrial Base</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -346,7 +321,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH-Wert der Komponente A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -357,9 +332,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Dichte</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponente A) <br>
+                                        Bei 25ºC 1,16 g/mL (Komponente B)
                                 </div>
                             </div>
                         </div>
@@ -371,9 +346,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Totale Härtung
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 Tage</p>
                                 </div>
                             </div>
                         </div>
@@ -383,31 +358,24 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Höhere Härte und Undurchlässigkeit
                                     </strong>
-                                    <p>Resistente la abrasión, el tránsito
-                                        peatonal y agentes químicos como pueden ser amoniaco, refrescos o café.
-
+                                    <p>Ein Epoxid-Mikrozement, der Abrieb, Fußgängerverkehr und chemischen Substanzen wie Ammoniak, Softdrinks oder Kaffee widersteht.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de preparación de paredes interiores Industtrial Base es:
-                        1,20
-                        Kg/m2 (1 mano)
+                    <p class="en3"> Leistung</p>
+                    <p>Die Leistung des Epoxid-Mikrozements Industtrial Base für die Vorbereitung von Innenwänden beträgt: 1,20 kg/m2 (1 Schicht). 
 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p>El microcemento epoxi bicomponente de preparación para paredes de interior Industtrial Base se
-                        presenta
-                        en envases de 4,5+0,5 Kg de A+B, para pigmentar con 100g de ARCOCEM PLUS, y de 18+2 Kg de A+B
-                        para
-                        pigmentar con 400g de ARCOCEM PLUS.
+                    <p class="en3">Verpackung</p>
+                    <p>Industtrial Base Zweikomponenten-Epoxid-Mikrozement für die Vorbereitung von Innenwänden wird in der folgenden Verpackung geliefert:
+4,5+0,5 kg A+B, zum Pigmentieren mit 100 g ARCOCEM PLUS, und von 18+2 kg A+B zum Pigmentieren mit 400 g ARCOCEM PLUS.
 
 
                     </p>
@@ -450,33 +418,29 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio</h2>
+                       <h2>Microcemento Epoxidharzbeschichtung für Böden Industtrial Medio</h2>
 
-                            <p>
-                                Industtrial Medio es nuestro microcemento epoxi bicomponente de terminación para suelos
-                                y
-                                pavimentos epoxi en espacios de interior. Para obtener este pavimento continuo
-                                decorativo,
-                                será necesario aplicar previamente dos manos de Industtrial XL.
+<p>
+    Industtrial Medio ist unser Zweikomponenten-Epoxid-Mikrozement für die Endbearbeitung von Epoxidböden in Innenräumen. Um diesen dekorativen, durchgehenden Belag zu erhalten, ist es notwendig, vorher zwei Schichten Industtrial XL aufzutragen.
 
-                            </p>
-                            <p>
-                                Del mismo modo que ocurre con Industtrial Xl, aunque Industtrial Medio está
-                                especialmente
-                                diseñado para suelos de epoxi y pavimentos interiores, se puede aplicar también sobre
-                                paredes si el acabado deseado es otro.
+</p>    
+<p>
+    Wie Industtrial XL ist Industtrial Medium zwar speziell für Epoxidharzböden und Bodenbeläge im Innenbereich konzipiert, kann aber auch auf Wände aufgetragen werden, wenn das gewünschte Finish ein anderes ist.
 
-                            </p>
+</p>  
+
+ 
+
 
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial Medio
+                                </span>Downloaden Sie hier das technische Datenblatt von Industtrial Medio
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de suelos y pavimentos Industtrial Medio
+                    <h3 class="en3">Typen von Epoxid-Mikrozement-Fußbodenbeschichtung Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-md-4">
@@ -496,7 +460,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3"> Características microcemento epoxi de terminación para suelos Industtrial Medio
+                    <h3 class="en3"> Eigenschaften Epoxid-Mikrozement-Fußbodenbeschichtung Industtrial Medio
                     </h3>
                     <div class="row">
                         <div class="col-6">
@@ -505,7 +469,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH-Wert der Komponente A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -516,9 +480,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Dichte</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponente A) <br>
+                                        Bei 25ºC 1,16 g/mL (Komponente B)
                                 </div>
                             </div>
                         </div>
@@ -530,9 +494,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Totale Härtung
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 Tage</p>
                                 </div>
                             </div>
                         </div>
@@ -542,33 +506,22 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Höhere Härte und Undurchlässigkeit
                                     </strong>
-                                    <p>Resistente a la abrasión, al tránsito peatonal
-                                        y a algunos agentes químicos como amoniaco, refrescos o café.
-
+                                    <p>Ein Epoxid-Mikrozement, der Abrieb, Fußgängerverkehr und chemischen Substanzen wie Ammoniak, Softdrinks oder Kaffee widersteht.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para suelos y pavimentos interiores
-                        Industtrial
-                        Medio es: 0,70 Kg/m2 (1 mano)
-
-
+                    <p class="en3"> Leistung</p>
+                    <p>Die Leistung von Industtrial Medium Epoxid-Mikrozement für Böden und Beläge im Innenbereich beträgt: 0,70 kg/m2 (1 Schicht). 
                     </p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para pavimentos y suelos de interior
-                        Industtrial
-                        Medio
-                        se presenta en envases de 4,5+0,5 Kg de A+B si se quiere pigmentar 100g de ARCOCEM PLUS. También
-                        hay
-                        envases de 18+2 Kg de A+B si se quiere pigmentar con 400g ARCOCEM PLUS. </p>
+                    <p class="en3">Verpackung</p>
+                    <p>Der Zweikomponenten-Epoxid-Mikrozement für die Endbearbeitung von Fußböden im Innenbereich Industtrial Medio ist in 4,5+0,5 Kg A+B erhältlich, wenn Sie 100g ARCOCEM PLUS pigmentieren möchten. Es gibt auch Packungen mit 18+2 kg A+B, wenn Sie mit 400 g ARCOCEM PLUS pigmentieren möchten. </p>
                 </div>
             </div>
 
@@ -608,22 +561,23 @@
                         </div>
                         <!-- descripcion -->
                         <div class="col-md-6">
-                            <h2>Microcemento epoxi de terminación de paredes Industtrial Liso</h2>
+                <h2> Microcemento Epoxidharzbeschichtung für Wände Industtrial Liso</h2>
 
-                            <p>Industtrial Liso es nuestro microcemento epoxi bicomponente de terminación ideal para
-                                revestir paredes de interior. De manera previa, se tendrá que haber aplicado dos manos
-                                de
-                                Industtrial Base.
-                            </p>
+<p>
+    Industtrial Liso ist unser Zweikomponenten-Epoxid-Mikrozement für die Endbearbeitung von Epoxidwände in Innenräumen. Zuvor müssen zwei Schichten Industtrial Base aufgetragen worden sein.
+
+</p>    
+
+
                             <a class="links" href="https://www.topciment.com/fichas-tecnicas/Industtrial-ES.pdf"
                                 target="_blank" style="font-weight: 700;"> <span class="fa-stack">
                                     <i class="fas fa-file-pdf fa-stack-1x"></i>
-                                </span>Descarga aquí la ficha técnica de Industtrial liso
+                                </span>Downloaden Sie hier das technische Datenblatt von Industtrial liso
                             </a>
                         </div>
                     </div>
                     <!-- Tipos de cubos -->
-                    <h3 class="en3">Tipos de microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3">Typen von Epoxid-Mikrozement-Fußbodenbeschichtung Industtrial Liso</h3>
                     <div class="row">
                         <div class="col-md-4">
                             <figure class="figure"><img
@@ -641,7 +595,7 @@
                         </div>
                     </div>
                     <!-- Propiedades -->
-                    <h3 class="en3">Características microcemento epoxi de terminación de paredes Industtrial Liso</h3>
+                    <h3 class="en3">Eigenschaften Epoxid-Mikrozement-Fußbodenbeschichtung Industtrial Liso</h3>
                     <div class="row">
                         <div class="col-6">
                             <div class="row">
@@ -649,7 +603,7 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/pH.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>pH del Componente A</strong>
+                                    <strong>pH-Wert der Komponente A</strong>
                                     <p>9,5 ± 1</p>
                                 </div>
                             </div>
@@ -660,9 +614,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/densidad_aparente.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong> Densidad</strong>
-                                    <p>1,65 ± 0,02 g/mL (Componente A) <br>
-                                        A 25ºC 1,16 g/mL (Componente B)
+                                    <strong> Dichte</strong>
+                                    <p>1,65 ± 0,02 g/mL (Komponente A) <br>
+                                        Bei 25ºC 1,16 g/mL (Komponente B)
                                 </div>
                             </div>
                         </div>
@@ -674,9 +628,9 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/curado-total.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Curado total
+                                    <strong>Totale Härtung
                                     </strong>
-                                    <p>7- 14 días</p>
+                                    <p>7- 14 Tage</p>
                                 </div>
                             </div>
                         </div>
@@ -686,29 +640,21 @@
                                         src="https://www.topciment.com/imagenes/sistemas/icons/dureza.png"
                                         class="figure-img img-fluid rounded" alt="icon" title="icon"></div>
                                 <div class="col-md-9">
-                                    <strong>Mayor dureza e impermeabilidad
+                                    <strong>Höhere Härte und Undurchlässigkeit
                                     </strong>
-                                    <p>Resistente a la abrasión, el
-                                        tránsito peatonal y agentes químicos como amoniaco, refrescos o café.
-
-
+                                    <p>Ein Epoxid-Mikrozement, der Abrieb, Fußgängerverkehr und chemischen Substanzen wie Ammoniak, Softdrinks oder Kaffee widersteht.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- Rendimiento -->
-                    <p class="en3"> Rendimiento</p>
-                    <p>El rendimiento del microcemento epoxi de terminación para paredes de interior Industtrial Liso
-                        es:
-                        0,55 Kg/m2 (1 mano). </p>
+                    <p class="en3"> Leistung</p>
+                    <p>Die Leistung von Industtrial Medium Epoxid-Mikrozement für Böden und Beläge im Innenbereich beträgt: 0,55 kg/m2 (1 Schicht).</p>
 
                     <!-- Presentación -->
-                    <p class="en3">Presentación</p>
-                    <p> El microcemento epoxi bicomponente de terminación para paredes de interior Industtrial Base se
-                        presenta en envases de 4,5+0,5 Kg de A+B (para pigmentar 100g de ARCOCEM PLUS) y envases de 18+2
-                        Kg
-                        de A+B (para pigmentar 400g de ARCOCEM PLUS).</p>
+                    <p class="en3">Verpackung</p>
+                    <p> Der Zweikomponenten-Epoxid-Mikrozement für die Endbearbeitung von Wände im Innenbereich Industtrial Liso ist in 4,5+0,5 Kg A+B erhältlich, wenn Sie 100g ARCOCEM PLUS pigmentieren möchten. Es gibt auch Packungen mit 18+2 kg A+B, wenn Sie mit 400 g ARCOCEM PLUS pigmentieren möchten.</p>
                 </div>
             </div>
 
@@ -726,43 +672,29 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2>Cómo aplicar el microcemento epoxi bicomponente Industtrial en paredes y suelos de interior</h2>
+                 
+ <h2>Wie man Industtrial Zweikomponenten-Epoxid-Mikrozement auf Wände und Böden in Innenräumen aufträgt</h2>
 
-                    <p>
-                        El microcemento epoxi bicomponente Industtrial presenta una elevada adherencia a soportes
-                        minerales,
-                        incluso sobre azulejo directo. Es un revestimiento continuo decorativo muy recomendable para
-                        decorar
-                        paredes y suelos de interior, especialmente en zonas con alto desgaste como garajes, naves
-                        industriales, suelos de galerías, comercios, salas de espera, pasillos u oficinas.
+<p>
+    Industtrial Zweikomponenten-Epoxid-Mikrozement hat eine hohe Haftung auf mineralischen Untergründen, auch direkt auf Fliesen. Es handelt sich um eine dekorative Endlosbeschichtung, die für die Dekoration von Wänden und Böden im Innenbereich sehr zu empfehlen ist, insbesondere in Bereichen mit hoher Beanspruchung wie Garagen, Industriegebäuden, Galerieböden, Geschäften, Warteräumen, Fluren oder Büros.
 
-                    </p>
-                    <p>
-                        En general, Industtrial es un microcemento epoxi ideal para aquellos pavimentos continuos
-                        expuestos
-                        a un elevado tránsito peatonal.
+</p>    
+<p>
+    Im Allgemeinen ist Industtrial ein Epoxid-Mikrozement, der sich ideal für durchgehende Beläge eignet, die einem hohen Fußgängerverkehr ausgesetzt sind.
 
-                    </p>
-                    <p>
-                        A continuación, explicamos el paso a paso de la aplicación del microcemento epoxi Industtrial en
-                        suelos y paredes interiores.
-
-                    </p>
+</p>   
+<p>Im Folgenden erklären wir Ihnen Schritt für Schritt die Anwendung von Industtrial-Epoxid-Mikrozement auf Böden und Wänden im Innenbereich.</p>
                     <!-- Aplicacion suelos -->
                     <div class="stepfloors mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en suelos y pavimentos de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('floor');"><strong>+ Industtrial Epoxid-Mikrozement-Anwendung auf Innenböden</strong></a></h3>
                         <div class="ocultable" id="floor" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong>
-                                    <br>Garantizar que el soporte está seco, limpio, libre de polvo, grasa o suciedad.
-                                    En
-                                    caso de que el suelo o pavimento interior esté barnizado o pintado, eliminar el
-                                    recubrimiento anterior.
-
+                                    <strong>Schritt 1. Reinigung und Vorbereitung des Untergrunds.</strong>
+                                    <br>Stellen Sie sicher, dass der Untergrund trocken, sauber, staub-, fett- und schmutzfrei ist. Falls der Boden oder der Innenbelag lackiert oder gestrichen ist, entfernen Sie die vorherige Beschichtung.
+ 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -778,12 +710,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas es muy recomendable utilizar PRIMACEM IMPOXY
-                                    A+B
-                                    como imprimación, para obtener así un sistema 100% epoxi. También puede utilizarse
-                                    como
-                                    imprimación la familia Primapox.
+                                    <strong>Schritt 2: Grundierung.</strong><br>
+                                    Auf mineralischen oder zementären Untergründen wird dringend empfohlen, PRIMACEM IMPOXY A+B als Grundierung zu verwenden, um ein 100%iges Epoxidsystem zu erhalten. Die Primapox-Familie kann auch als Grundierung verwendet werden.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -800,12 +729,8 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Homogenizar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la
-                                    carta
-                                    de colores de INDUSTTRIAL. Después, agregar el componente B y mezclar los dos
-                                    componentes (ver proporciones en ficha técnica).
-
+                                    <strong>Schritt 3: Mischen und pigmentieren.</strong><br>
+                                    Homogenisieren Sie Komponente A und mischen Sie sie mit dem ARCOCEM PLUS Farbtoner aus der INDUSTRIAL-Farbkarte. Fügen Sie dann Komponente B hinzu und mischen Sie die beiden Komponenten (siehe Proportionen im technischen Datenblatt).
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -821,12 +746,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para suelos </strong>
-                                    <br>Para pavimentos y suelos de interior epoxi aplicar con llana dos manos de
-                                    INDUSTTRIAL XL. Dejar secar entre 4 y 12 horas entre capas (este tiempo depende de
-                                    la
-                                    temperatura y humedad). Dejar secar y lijar.
-
+                                    <strong>Schritt 4. Zwei Schichten Epoxid-Mikrozement zur Bodenvorbereitung </strong>
+                                    <br>Für Epoxy-Böden im Innenbereich tragen Sie mit einer Spachtel zwei Schichten INDUSTTRIAL XL auf. Lassen Sie zwischen den Anstrichen zwischen 4 und 12 Stunden trocknen (diese Zeit hängt von Temperatur und Luftfeuchtigkeit ab). Lassen Sie es trocknen und schleifen Sie es.
+ 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -842,13 +764,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para suelos </strong>
-                                    <br>Para terminar de decorar los suelos epoxi de interior, hay que aplicar dos manos
-                                    de
-                                    INDUSTTRIAL MEDIO. Dejar también un tiempo de secado entre capas de entre 4 y 12
-                                    horas
-                                    (depende de la temperatura y humedad). Dejar secar mínimo 48 horas y lijar.
-
+                                    <strong>Schritt 5: Zwei Anstriche mit Epoxid-Mikrozement für Fußböden</strong>
+                                    <br>Um die Dekoration von Epoxidböden im Innenbereich abzuschließen, tragen Sie zwei Schichten INDUSTTRIAL MEDIO auf. Lassen Sie zwischen den Anstrichen eine Trockenzeit von 4 bis 12 Stunden zu (je nach Temperatur und Luftfeuchtigkeit). Mindestens 48 Stunden trocknen lassen und schleifen.
+ 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -864,13 +782,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong>
-                                    <br>Ha llegado el turno de proteger el pavimento o suelo interior epoxi. Se puede
-                                    aplicar una mano de nuestro barniz Coverpox (dejando secar 12 horas) o bien aplicar
-                                    dos
-                                    manos de cualquiera de nuestros barnices de la gama TOPSEALER (dejando 24 horas de
-                                    secado entre capas). Dejar actuar al sellador al menos una semana. Para prolongar la
-                                    vida del barniz, aplicar nuestro limpiador detergente ECOCLEAN.
+                                    <strong>Schritt 6: Versiegeln.</strong>
+                                    <br>Jetzt ist es an der Zeit, den Epoxid-Innenboden zu schützen. Sie können eine Schicht unseres Coverpox-Lacks auftragen (mit einer Trocknungszeit von 12 Stunden) oder zwei Schichten eines unserer TOPSEALER-Lacke auftragen (mit einer Trocknungszeit von 24 Stunden zwischen den Schichten). Lassen Sie die Versiegelung mindestens eine Woche lang einwirken. Um die Lebensdauer des Lacks zu verlängern, verwenden Sie unseren Reinigungsmittelreiniger ECOCLEAN.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -889,16 +803,15 @@
 
                     <!-- Aplicacion pared -->
                     <div class="stepwalls mt-5">
-                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Aplicación
-                                    microcemento epoxi Industtrial en paredes de interior</strong></a></h3>
+                        <h3> <a class="text-dark en3" href="javascript:MostrarOcultar('wall');"><strong>+ Industtrial Epoxid-Mikrozement-Anwendung auf Innenwänden</strong></a></h3>
                         <div class="ocultable" id="wall" style="display: block;">
                             <!-- Paso 1 -->
                             <div class="row mt-5 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 1.Limpieza y preparación del soporte.</strong> <br>
-                                    Asegurar que el soporte está seco, limpio, libre de polvo, grasa o suciedad. Si las
-                                    paredes están barnizadas o pintadas, quitar el recubrimiento anterior.
+                                    <strong>Schritt 1. Reinigung und Vorbereitung des Untergrunds.</strong> <br>
+                                    Stellen Sie sicher, dass der Untergrund trocken, sauber, staub-, fett- und schmutzfrei ist. Wenn die Wände lackiert oder gestrichen sind, entfernen Sie die vorherige Beschichtung.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -915,11 +828,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 2. Imprimación.</strong><br>
-                                    En superficies minerales o cementosas se recomienda utilizar PRIMACEM IMPOXY A+B
-                                    como
-                                    imprimación, para lograr así un sistema 100% epoxi. También puede utilizarse como
-                                    imprimación la familia Primapox.
+                                    <strong>Schritt 2: Grundierung.</strong><br>
+                                    Auf mineralischen oder zementären Untergründen wird empfohlen, PRIMACEM IMPOXY A+B als Grundierung zu verwenden, um ein 100%iges Epoxidsystem zu erreichen. Die Primapox-Familie kann auch als Grundierung verwendet werden.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -936,11 +847,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 3. Mezclar y pigmentar.</strong><br>
-                                    Unificar el componente A y mezclarlo con el tóner de color ARCOCEM PLUS de la carta
-                                    de
-                                    colores de INDUSTTRIAL. Después, sumar el componente B y mezclar los dos componentes
-                                    (ver las proporciones exactas en la ficha técnica).
+                                    <strong>Schritt 3: Mischen und pigmentieren.</strong><br>
+                                    Vereinigen Sie Komponente A und mischen Sie sie mit dem ARCOCEM PLUS Farbtoner aus der INDUSTRIAL-Farbkarte. Fügen Sie dann Komponente B hinzu und mischen Sie die beiden Komponenten (siehe genaue Proportionen im technischen Datenblatt).
+
 
                                 </div>
                                 <!-- Icono -->
@@ -957,13 +866,10 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 4. Dos manos de microcemento epoxi de preparación para paredes
+                                    <strong>Schritt 4. Zwei Schichten Epoxid-Mikrozement zur Wandvorbereitung
                                     </strong>
                                     <br>
-                                    Para las paredes de interior epoxi aplicar con llana dos manos de INDUSTRIAL BASE.
-                                    Dejar
-                                    secar entre 4 y 12 horas entre capas (el tiempo exacto dependerá del grado de la
-                                    temperatura y humedad). Dejar secar y lijar.
+                                    Bei Epoxidwänden im Innenbereich tragen Sie zwei Schichten INDUSTRIAL BASE mit einem Spachtel auf. Lassen Sie zwischen den Anstrichen zwischen 4 und 12 Stunden trocknen (die genaue Zeit hängt von der Temperatur und der Luftfeuchtigkeit ab). Lassen Sie es trocknen und schleifen Sie es.
 
                                 </div>
                                 <!-- Icono -->
@@ -980,14 +886,11 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 5. Dos manos de microcemento epoxi de terminación para paredes
+                                    <strong>Schritt 5: Zwei Schichten Epoxid-Mikrozement-Finish für die Wände
                                     </strong>
                                     <br>
-                                    Para terminar de decorar las paredes de interior, aplicar dos manos de INDUSTTRIAL
-                                    LISO
-                                    (también hay que dejar entre 4 y 12 horas de secado entre capas). Dejar secar mínimo
-                                    48
-                                    horas y lijar.
+                                    Um die Innenwände fertig zu dekorieren, tragen Sie zwei Schichten INDUSTTRIAL LISO auf (zwischen den Schichten müssen Sie 4 bis 12 Stunden Trockenzeit einhalten). Mindestens 48 Stunden trocknen lassen und schleifen.
+
 
                                 </div>
                                 <!-- Icono -->
@@ -1004,14 +907,9 @@
                             <div class="row mt-3 ">
                                 <!-- Texto -->
                                 <div class="col-9 col-md-5 pasoapli">
-                                    <strong>Paso 6. Sellado.</strong> <br>
-                                    Proteger la pared de interior epoxi. Puede aplicarse una capa de nuestro barniz
-                                    Coverpox
-                                    (dejar secar 12 horas) o dos capas de uno de los barnices de la gama TOPSEALER
-                                    (dejando
-                                    24 horas de secado entre manos). Dejar actuar al barniz al menos una semana. Para
-                                    prolongar la vida del sellador, aplicar nuestro limpiador detergente ECOCLEAN.
-
+                                    <strong>Schritt 6: Versiegeln.</strong> <br>
+                                    Schützen Sie die Epoxid-Innenwand. Sie können eine Schicht unseres Coverpox-Lacks (12 Stunden Trockenzeit) oder zwei Schichten eines der TOPSEALER-Lacke (24 Stunden Trockenzeit zwischen den Schichten) auftragen. Lassen Sie den Lack mindestens eine Woche lang einwirken. Um die Lebensdauer der Versiegelung zu verlängern, verwenden Sie unseren Reinigungsmittelreiniger ECOCLEAN.
+ 
                                 </div>
                                 <!-- Icono -->
                                 <div class="col-3 col-md-2"><img
@@ -1042,8 +940,15 @@
         <section>
             <div class="container">
                 <div class="content">
-                    <h2 class="en3"> Colores del microcemento epoxi Industtrial</h2>
+                    <h2 class="en3">Farben von Industtrial Epoxid-Mikrozement</h2>
+                   <p>
+                        Der Industtrial Epoxid-Mikrozement ist in 16 Farben erhältlich und bietet somit eine Vielzahl von dekorativen Möglichkeiten als durchgehende Beschichtung für Epoxidböden und -wände im Innenbereich. Farben für Epoxidharz, die dem Profi einheitliche Oberflächen von großer Schönheit bieten und unter denen jene Perl- und Perlglanztöne hervorstechen, die Eleganz und Raffinesse in die Inneneinrichtung eines jeden Raumes bringen.
 
+                   </p>    
+                    <p>
+                        Die Vielseitigkeit der Industtrial-Epoxid-Mikrozementpigmente verleiht nicht nur Epoxidböden im Innenbereich eine besondere Note und Attraktivität. Es sind auch Farben, die dem Epoxidharz helfen, seine maximale Leistung zu erreichen, während sie die Farbe und den Glanz des Bodenbelags verstärken. Eine Kombination, die die Nutzungsdauer derselben verlängert und sie im Laufe der Zeit viel haltbarer macht.
+
+                    </p>    
                     <div class="rowColor">
                         <section id="responsive-images-columns">
                             <div class="containerSttand">
@@ -1242,231 +1147,7 @@
         <?php include("../../assets/../assets/includes/scripts.php"); ?>
     </div>
      
-    <!-- include jQuery -->
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org",
-            "@type": "ProductGroup",
-            "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment",
-            "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
-            "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
-            "brand": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "manufacturer": {
-                "@type": "Organization",
-                "name": "Topciment",
-                "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                "url": "https://www.topciment.com",
-                "legalName": "Grupo Negocios PO SLU",
-                "telephone": "+34617955352",
-                "taxID": "B97539076",
-                "location": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Calle Rosas, 33",
-                    "addressLocality": "Manises",
-                    "postalCode": "46940",
-                    "addressRegion": "Valencia",
-                    "addressCountry": "España"
-                }
-            },
-            "weight": "20 Kg",
-            "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
-            "variesBy": "size",
-            "additionalProperty": [{
-                    "@type": "PropertyValue",
-                    "name": "Biegefestigkeit",
-                    "value": "9 N/m² (28 Tage)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Feuerbeständigkeit",
-                    "value": "BFL S1"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Druckfestigkeit",
-                    "value": "55 N/m² (28 Tage)"
-                },
-                {
-                    "@type": "PropertyValue",
-                    "name": "Einhaltung des Supports",
-                    "value": "1,5 N/m²"
-                }
-            ],
-            "potentialAction": {
-                "@type": "Action",
-                "name": "mikrozement -Anwendung"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "5",
-                "reviewCount": "14"
-            },
-            "hasVariant": [{
-                    "@type": "Product",
-                    "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment M",
-                    "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
-                    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_M.jpg",
-                    "size": "M",
-                    "url": "https://www.topciment.com/de/mikrozement/epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial",
-                    "sku": "TT01008",
-                    "gtin13": "8436575620091",
-                    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Biegefestigkeit",
-                            "value": "9 N/m² (28 Tage)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Feuerbeständigkeit",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Druckfestigkeit",
-                            "value": "55 N/m² (28 Tage)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Einhaltung des Supports",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                },
-                {
-                    "@type": "Product",
-                    "name": "Zweikomponenten-mikrozement  für Schwimmbecken Atlanttic Aquaciment XL",
-                    "description": "Zweikomponenten-mikrozement  für die Beschichtung von Oberflächen, die in ständigem Kontakt mit Wasser stehen, wie z. B. Schwimmbäder, Teiche oder Springbrunnen.",
-
-
-                    "image": "https://www.topciment.com/imagenes/atlanttic/Cubo_Atlanttic_XL.jpg",
-                    "size": "XL",
-                    "url": "https://www.topciment.com/de/mikrozement/epoxid-mikrozement-fur-durchgehende-boden-im-innenbereich-industtrial",
-                    "sku": "TT01007",
-                    "gtin13": "8436575620084",
-                    "material": "Hydraulische Bindemittel, ausgewählte Zuschlagstoffe und spezifische Additive",
-                    "weight": "20 Kg",
-                    "brand": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "manufacturer": {
-                        "@type": "Organization",
-                        "name": "Topciment",
-                        "logo": "https://www.topciment.com/imagenes/logos/logoBlanco2.png",
-                        "url": "https://www.topciment.com",
-                        "legalName": "Grupo Negocios PO SLU",
-                        "telephone": "+34617955352",
-                        "taxID": "B97539076",
-                        "location": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "Calle Rosas, 33",
-                            "addressLocality": "Manises",
-                            "postalCode": "46940",
-                            "addressRegion": "Valencia",
-                            "addressCountry": "España"
-                        }
-                    },
-                    "additionalProperty": [{
-                            "@type": "PropertyValue",
-                            "name": "Biegefestigkeit",
-                            "value": "9 N/m² (28 Tage)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Feuerbeständigkeit",
-                            "value": "BFL S1"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Druckfestigkeit",
-                            "value": "55 N/m² (28 Tage)"
-                        },
-                        {
-                            "@type": "PropertyValue",
-                            "name": "Einhaltung des Supports",
-                            "value": "1,5 N/m²"
-                        }
-                    ],
-                    "aggregateRating": {
-                        "@type": "AggregateRating",
-                        "ratingValue": "5",
-                        "reviewCount": "14"
-                    }
-                }
-
-            ]
-        }
-    </script>
+ 
 </body>
 
 </html>

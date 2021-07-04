@@ -216,9 +216,9 @@
                 </div>
                 <!-- Desctiption Industtrial -->
                 <div class="col-md-5 col-12">
-                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <h2 class="sh2">Mikrocement epoksydowy</h2>
                     <p class="textos">
-                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    Jest to dwuskładnikowy mikrocement epoksydowy (cement + żywica epoksydowa) stosowany jako powłoka ciągła do podłóg i ścian wewnątrz pomieszczeń. Wyróżnia się on niezwykłą twardością, doskonałą odpornością na ścieranie i ruch uliczny oraz większą szczelnością niż konwencjonalne systemy mikrocementowe. Dostępny w 16 kolorach.
                     </p>
                 </div>
                 <!-- Products Industtrial -->

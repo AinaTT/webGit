@@ -253,7 +253,39 @@
 
             </div>
             <!-- End Efectto -->
+<!-- Start Industtrial -->
+<div class="separador">
+            </div>
+            <div class="row altofam">
+                <!-- Logo Industtrial -->
+                <div class="col-md-5 col-12 text-center">
+                    <a href="epoxy-microcement-for-continuous-interior-flooring-industtrial"><img src="https://www.topciment.com/imagenes/industtrial/industtrial-logo.png" alt="Microcemento epoxi bicomponente" title="Microcemento epoxi bicomponente" class="text-center img-fluid industtrial-logo"></a>
+                </div>
+                <!-- Desctiption Industtrial -->
+                <div class="col-md-5 col-12"> 
+                    <h2 class="sh2">  Microcemento epoxi </h2>
+                    <p class="textos">
+                    It is the two-component epoxy microcement (cement + epoxy resin) used as a continuous coating for interior floors and walls. It stands out for its extraordinary hardness, excellent resistance to abrasion and traffic and greater impermeability than conventional microcement systems. Available in 16 colours.  
+                    </p>
+                </div>
+                <!-- Products Industtrial -->
+                <div class="col-md-2 col-12">
+                    <div class="row mb-2">
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxy-microcement-for-continuous-interior-flooring-industtrial#industtrial-xl" class="vermas2"> <strong>XL</strong></a><br>
+                            <a href="epoxy-microcement-for-continuous-interior-flooring-industtrial#industtrial-base" class="vermas2"><strong>Base</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxy-microcement-for-continuous-interior-flooring-industtrial#industtrial-medio" class="vermas2"><strong>Medio</strong></a>
+                        </div>
+                        <div class="col-md-12 col-4 p-0">
+                            <a href="epoxy-microcement-for-continuous-interior-flooring-industtrial#industtrial-liso" class="vermas2"> <strong>Liso</strong></a>
+                        </div>
+                    </div>
+                </div>
 
+            </div>
+            <!-- End Industtrial -->
             <!--Start Pure Mettal -->
             <div class="separador">
             </div>

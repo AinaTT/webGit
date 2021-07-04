@@ -253,7 +253,7 @@
                 </div>
 
             </div>
-            <!-- End Efectto -->
+            <!-- End Efectto --> 
 
 <!-- Start Industtrial -->
             <div class="separador">
@@ -265,9 +265,9 @@
                 </div>
                 <!-- Desctiption Industtrial -->
                 <div class="col-md-5 col-12"> 
-                    <h2 class="sh2">Microcemento epoxi bicomponente</h2>
+                    <h2 class="sh2">  Microcemento epoxi </h2>
                     <p class="textos">
-                Es la línea de microcemento epoxi bicomponente (cemento + resina epoxi) de base agua para pavimentos y paredes de interior. Destaca por su dureza, resistencias mecánicas e impermeabilidad.
+                    It is the two-component epoxy microcement (cement + epoxy resin) used as a continuous coating for interior floors and walls. It stands out for its extraordinary hardness, excellent resistance to abrasion and traffic and greater impermeability than conventional microcement systems. Available in 16 colours.  
                     </p>
                 </div>
                 <!-- Products Industtrial -->
